@@ -1,4 +1,4 @@
-# 1633 C.E. Disputes against Jews reemerge
+# Disputes against Jews reemerge
 
 The breaking up of the Russian Empire resulted in the creation of
 the [Jewish](https://en.wikipedia.org/wiki/Jewish_diaspora)

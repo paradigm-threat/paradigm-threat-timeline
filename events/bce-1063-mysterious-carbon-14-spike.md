@@ -1,4 +1,4 @@
-# 1063 B.C.E. mysterious carbon-14 spike
+# mysterious carbon-14 spike
 
 The 774–775 carbon-14 spike is an observed increase of around 1.2% in the concentration of the radioactive
 carbon-14 isotope in tree rings dated to 774 or 775 CE, which is about 20 times higher than the normal year-to-year

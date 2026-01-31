@@ -1,4 +1,4 @@
-# 3067 B.C.E. The Planets are at war.
+# The Planets are at war.
 
 With each violent interplanetary action, the Brown Dwarf Saturn continues to lose its influence over the other
 planets. Jupiter hurtles violent plasma discharges seen from Earth which strike Saturn. This exchange was

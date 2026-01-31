@@ -1,4 +1,4 @@
-# 1627 C.E. Deep State erases Russian Empire from all chronology
+# Deep State erases Russian Empire from all chronology
 
 In an attempt to control the shards of the fractured Empire, the Deep State removed the Rus-Horde from *all history*.
 To accomplish this, the chronology compiled by [Joseph Scaliger](http://scihi.org/scaliger-history/history/chronology/) was heavily

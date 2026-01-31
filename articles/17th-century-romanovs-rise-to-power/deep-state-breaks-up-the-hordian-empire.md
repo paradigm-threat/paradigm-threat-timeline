@@ -1,0 +1,29 @@
+# Deep State breaks up the Hordian Empire
+
+Placing the Romanov Dynasty at the highest level of authority in the Hordian Empire gave the Deep State a unique
+opportunity to rewrite Russian history. The motive behind this redaction was to *fracture* the empire into controllable
+states and then maximize their clandestine influence (*deep*) over each state. This is how the world-wide Hordian
+Empire was erased-redacted from all published literature into *independent states history* under different names -
+Russia, Turkey / Atamania as the Ottoman Empire, Austria, Germany, Italy, Poland, Switzerland, Denmark, France, Spain,
+Egypt, England, Middle East, Persia, China, Japan, India, America and many European, Asian and African countries.
+Each region already had a vassal aristocratic family originally married into the Hordian Empire in its prime. As these
+ties were cut, these families would become the Kings and Queens of *their own* states.
+
+Although the Rus-Horde Empire was broken up, the Deep State and their Western vassal states still feared the eventual
+reemergence of the old empire and began targeting its history and culture. They launched
+a [modernization campaign](https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great)
+through their Romanov
+puppet [Czar Peter I "The Great"](https://www.history.com/news/peter-the-great-tortured-killed-own-son) to
+incorporate Russia into *'modern'* Europe. During his reign he reformed the calendar
+and [alphabet](https://www.prlib.ru/en/history/619018), and moved the Russian Headquarters to St Petersburg. With these
+reforms, the Deep State's objective was to put pressure on the Orthodox Church's autonomy, significantly reducing its
+religious influence. This campaign
+of [Anti-Russian Sentiment](https://en.wikipedia.org/wiki/Anti-Russian_sentiment#18th_and_19th_centuries) would continue
+for the next 3 centuries and
+is [still active today](https://www.rt.com/russia/569147-zakharova-odessa-monuments-history/).
+Fomenko [describes the redaction](https://chronologia.org/en/how_it_was/07.html#the703):
+
+> The Romanovs re-wrote the history of Russia. In particular, the Russian-Horde army was declared to be an evil foreign
+> power, which conquered not just Western Europe – now it is only mentioned in passing – but allegedly Russia itself.
+
+![Coins with Eight pointed star and crescent symbol](https://clevertree.github.io/paradigm-threat-files/history/chronology/tartaria/eight_pointed_star_and_crescent.jpg?w=384)

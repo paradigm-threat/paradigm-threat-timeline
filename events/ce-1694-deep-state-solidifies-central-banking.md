@@ -1,4 +1,4 @@
-# 1694 C.E. Deep State solidifies central banking
+# Deep State solidifies central banking
 
 Charles II implements William Paterson's plan for a new [centralized](https://en.wikipedia.org/wiki/Bank_of_England)
 type of bank. The ‘Governor and the Company of the Bank of England’ was established by royal charter to operate as a

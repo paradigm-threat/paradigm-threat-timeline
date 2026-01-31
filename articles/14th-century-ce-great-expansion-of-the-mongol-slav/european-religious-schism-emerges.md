@@ -1,0 +1,16 @@
+# European Religious Schism Emerges
+
+The Deep State learned during the Crusade that it can exploit religious schisms to trigger a war, and set upon
+achieving the *next one*. As it operated behind the scenes in the new Kremlin capitol, it also
+**controlled the opposition** by giving orders to scattered priesthoods in Western Europe to resist the Empire and
+preserve Monotheism. In defiance of Christianity, Western Europe continued to
+practice [ in secret](https://www.jewishvirtuallibrary.org/sephardim#3) the Monotheistic religion of the Deep State. In
+public, they engaged in unlawful [Dionysian orgy ceremonies](https://chronologia.org/en/how_it_was/05_08.html). The
+Rus-Horde Officials were dumbfounded by this *heretical* behavior. They watched western *pagans* commit sacrifice
+rituals and attempted to communicate and take orders from [invisible spirits](https://en.wikipedia.org/wiki/Jinn).
+In the next 2 centuries the local populations would start publicly
+[burning heretics at the stake](https://en.wikipedia.org/wiki/List_of_people_burned_as_heretics) leading the Rus-Horde
+empire to begin an [Inquisition](https://en.wikipedia.org/wiki/Inquisition) to find a peaceful solution.
+
+![Black Death - devils and flagellant revival, 14th century Tuscany](https://clevertree.github.io/paradigm-threat-files/history/chronology/apocalypse/black_death.jpg?w=384)
+*In this illustrated [manuscript](https://www.researchgate.net/publication/361166387_Plague_and_Popular_Revival_Ecclesiastical_Authorities_and_the_Bianchi_Devotions_in_1399/fulltext/63639dc5431b1f5300688acd/Plague-and-Popular-Revival-Ecclesiastical-Authorities-and-the-Bianchi-Devotions-in-1399.pdf) painted in Tuscany at the end of the 14th Century, devils shoot down arrows to inflict horror upon a tangled mass of humanity. Religious processions were commonly held during plague outbreaks in medieval Europe to provide succour against disease. During the Black Death of 1347–52, for example, a flagellant revival occurred, although this was condemned by church authorities as it descended into anti-clerical violence.*

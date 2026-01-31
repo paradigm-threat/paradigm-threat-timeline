@@ -1,4 +1,4 @@
-# C.E. 1880 - Tchaikovsky releases 1812 Overture
+# Tchaikovsky releases 1812 Overture
 
 [Jesuits spread to Africa 1541-1759](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935420.001.0001/oxfordhb-9780199935420-e-56)
 
@@ -56,13 +56,3 @@ Turkey, founded Jerusalem \#3 at [Al Aqsa Mosque](https://en.wikipedia.org/wiki/
 redaction of Jerusalem's location became a *Jesuit test of faith* lasting even until modern times. Today, as a
 precondition of the Jewish, Christian, and Muslim faith, one must believe that (Al Quds) in Palestine  was always the
 original location of the Biblical Jerusalem.
-
-## Chronology Chat
-
-<ChatRoom channel='history/chronology' title='Chronology'/>
-
-## All Assets
-
-<div className="flex flex-wrap max-h-[80vh] overflow-y-auto justify-center">
-  <AutoContent />
-</div>

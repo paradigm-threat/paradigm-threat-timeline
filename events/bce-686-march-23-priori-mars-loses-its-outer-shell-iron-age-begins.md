@@ -1,4 +1,4 @@
-# 686 B.C.E. March 23 - Priori-Mars loses its outer shell - Iron Age Begins
+# March 23 - Priori-Mars loses its outer shell - Iron Age Begins
 
 On the 9th close encounter with Earth,
 [Priori-Mars](https://cycliccatastrophism.org/2017/11/19/castle-deep-in-lake-van/)

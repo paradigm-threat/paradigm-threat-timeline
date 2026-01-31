@@ -1,19 +1,12 @@
-# 4077 B.C.E. Proto-Saturn joins the Sun's orbit and lights up
+# Proto-Saturn joins the Sun's orbit and lights up
 
 > "An oft-repeated occurrence in the traditions of the world ages is the advent of a new sun in the sky at the beginning
 > of every age.
 > The word 'Sun' is substituted for the word 'Age' in the cosmogonical traditions of many peoples all over the world."
 > -<cite>[ Velikovsky's Worlds in Collision](https://books.google.com/books?id=FJst27kSVBgC&pg=PA299)</cite>
 
-![The discovery that objects from the Neolithic or Early Bronze Age carry patterns associated with high-current
-  Z-pinches provides a possible insight into the origin and meaning of these ancient symbols produced by humans. Part
-  I deals with the comparison of graphical and radiation data from high current Z-pinches to petroglyphs, geo-glyphs,
-  and megaliths. Part I focused primarily, but not exclusively, on petro-glyphs of some 84 different morphologies:
-  pictures found in laboratory experiments and carved on rock. These corresponded to mankind's visual observations of
-  ancient auroras as might be produced if the solar wind had increased (T. Gold) at times between one and two orders of
-  magnitude, millennia ago. Part II focuses on the source of light and its temporal change from a current-increasing
-  Z-pinch or dense-plasma-focus aurora.
-  [Source](https://www.academia.edu/9156691/Characteristics_for_the_Occurrence_of_a_High_Current_Z_Pinch_Aurora_as_Recorded_in_Antiquity_Part_II_Directionality_and_Source)](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/saturn_configuration_vortex.jpg?w=384)
+![Z-pinch aurora research - petroglyphs and ancient symbols](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/saturn_configuration_vortex.jpg?w=384)
+*The discovery that objects from the Neolithic or Early Bronze Age carry patterns associated with high-current Z-pinches provides a possible insight into the origin and meaning of these ancient symbols produced by humans. Part I deals with the comparison of graphical and radiation data from high current Z-pinches to petroglyphs, geo-glyphs, and megaliths. Part II focuses on the source of light and its temporal change from a current-increasing Z-pinch or dense-plasma-focus aurora. [Source](https://www.academia.edu/9156691/Characteristics_for_the_Occurrence_of_a_High_Current_Z_Pinch_Aurora_as_Recorded_in_Antiquity_Part_II_Directionality_and_Source)*
 
 
 As Saturn's body entered

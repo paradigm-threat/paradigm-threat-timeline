@@ -6,10 +6,7 @@
   "scripts": {
     "generate-index": "python3 scripts/generate-index.py",
     "validate-events": "python3 scripts/validate-events.py",
-    "build-hierarchy": "python3 scripts/build-hierarchy.py",
-    "normalize-events": "python3 scripts/normalize-events.py --source-dir ../paradigm-threat-files",
-    "refactor-sections": "python3 scripts/refactor-sections.py",
-    "split-chronology": "python3 scripts/split-chronology.py --source-dir ../paradigm-threat-files",
+    "build-entries": "python3 scripts/build-entries.py",
     "serve": "npx serve . -p 3011 --cors",
     "prepare": "husky"
   },

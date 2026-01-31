@@ -1,0 +1,9 @@
+# 17th Century-Romanovs Rise to power
+
+The Oprichnina revolt dragged on into the 17th Century and was eventually put down by the Hordian dynasty-but
+it was too late-the Protestants firmly had established themselves in the Horde's royal court backed by the Romanov
+dynasty. Resistance of the remnants of Russia-Horde to their foreign rulers would continue to build up until the defeat
+of [Pugachev's rebellion](https://en.wikipedia.org/wiki/Pugachev%27s_Rebellion) in 1775.
+
+![King James Bible](https://clevertree.github.io/paradigm-threat-files/history/chronology/reformation/king_james_bible.jpg?w=384)
+*The [King James Only](https://en.wikipedia.org/wiki/King_James_Only_movement) movement (also known as King James Onlyism) asserts the belief that the King James Version (KJV) of the Bible is superior to all other translations of the Bible. Adherents believe that the KJV needs no further improvements because it is the greatest English translation of the Bible which was ever published, and they also believe that all other English translations published after the KJV are corrupt. Sometimes these beliefs are also based on the view that the King James translation itself was inspired by God.*

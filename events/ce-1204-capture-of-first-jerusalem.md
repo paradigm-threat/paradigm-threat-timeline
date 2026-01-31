@@ -1,4 +1,4 @@
-# 1204 C.E. Capture of First Jerusalem
+# Capture of First Jerusalem
 
 With the capture of first Jerusalem by the Russian Horde, royal families of the Deep State fled across Western Europe
 once again taking their slaves

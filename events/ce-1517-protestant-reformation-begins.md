@@ -1,4 +1,4 @@
-# 1517 C.E. Protestant Reformation Begins
+# Protestant Reformation Begins
 
 The Europeans who remained behind and survived the slaughter did their best to comply with the Empire's new rules, but
 the damage to unification was irreparable. The West would never again trust the East. The Deep State, still running the

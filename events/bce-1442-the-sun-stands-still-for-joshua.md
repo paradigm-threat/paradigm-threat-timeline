@@ -1,4 +1,4 @@
-# 1442 B.C.E. The sun stands still for Joshua
+# The sun stands still for Joshua
 
 For another 50 years, the planet Venus appears as a Comet in Earth's sky, until it too becomes 'fully charged' by the
 Sun's energy, causing a violent flip in its polarity. This state transition which functions similarly

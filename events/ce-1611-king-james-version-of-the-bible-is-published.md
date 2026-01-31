@@ -1,4 +1,4 @@
-# 1611 C.E. King James version of the Bible is published
+# King James version of the Bible is published
 
 In the last 2 centuries, the Rus-Horde Empire banned all publication of Reformation literature, including the English
 translation of the Latin bible (1455 C.E.), but with the publication of the King James Version, the Protestant Bible

@@ -1,4 +1,4 @@
-# 1665 C.E. The Great Plague of 1665
+# The Great Plague of 1665
 
 > It began in London in the poor, overcrowded parish of St. Giles - in -the - Field. It started slowly at first but by May of
 > 1665, 43 had died. In June, 6, 137 people died, in July, 17, 036 people and at its peak in August, 31, 159 people died.

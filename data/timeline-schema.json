@@ -1,148 +1,50 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Timeline Data",
-  "description": "Schema for paradigm-threat-timeline events and sections",
+  "description": "Schema for paradigm-threat-timeline entries (recursive)",
   "type": "object",
   "properties": {
-    "sections": {
+    "entries": {
       "type": "array",
+      "description": "Recursive array of entries. Each entry has id, title, md_path, dates, children.",
       "items": {
-        "type": "object",
-        "required": [
-          "id",
-          "name",
-          "era",
-          "start",
-          "end",
-          "timeline_sources"
-        ],
-        "properties": {
-          "id": {
-            "type": "string"
-          },
-          "name": {
-            "type": "string"
-          },
-          "era": {
-            "type": "string",
-            "enum": [
-              "BCE",
-              "CE"
-            ]
-          },
-          "start": {
-            "type": "number"
-          },
-          "end": {
-            "type": "number"
-          },
-          "timeline_sources": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          }
-        }
+        "$ref": "#/definitions/entry"
       }
     },
-    "events": {
-      "type": "array",
-      "items": {
-        "$ref": "#/definitions/event"
-      }
-    },
-    "hierarchy": {
-      "type": "array",
-      "description": "Recursive per-section trees (sections -> groups -> events by header level)",
-      "items": {
-        "$ref": "#/definitions/sectionNode"
-      }
+    "meta": {
+      "type": "object",
+      "additionalProperties": true
     }
   },
+  "required": [
+    "entries"
+  ],
   "definitions": {
-    "sectionNode": {
-      "type": "object",
-      "required": [
-        "type",
-        "id",
-        "name",
-        "children"
-      ],
-      "properties": {
-        "type": {
-          "const": "section"
-        },
-        "id": {
-          "type": "string"
-        },
-        "name": {
-          "type": "string"
-        },
-        "children": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/treeNode"
-          }
-        }
-      }
-    },
-    "treeNode": {
-      "type": "object",
-      "required": [
-        "type",
-        "title",
-        "children"
-      ],
-      "properties": {
-        "type": {
-          "enum": [
-            "group",
-            "event"
-          ]
-        },
-        "title": {
-          "type": "string"
-        },
-        "level": {
-          "type": "integer",
-          "minimum": 1,
-          "maximum": 4
-        },
-        "section": {
-          "type": "string"
-        },
-        "event": {
-          "$ref": "#/definitions/event"
-        },
-        "children": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/treeNode"
-          }
-        }
-      }
-    },
-    "event": {
-      "title": "Timeline Event",
+    "entry": {
       "type": "object",
       "required": [
         "id",
         "title",
         "md_path",
-        "dates"
+        "children"
       ],
       "properties": {
         "id": {
           "type": "string",
-          "description": "Unique identifier (e.g. evt-1774-pugachev)"
+          "description": "Unique identifier"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["article", "event"],
+          "description": "article = no date in header; event = date in header"
         },
         "title": {
           "type": "string",
-          "description": "Must exactly match first # header in md_path file"
+          "description": "Must match first # header in md_path file"
         },
         "md_path": {
           "type": "string",
-          "description": "Path to markdown file in paradigm-threat-timeline (e.g. events/foo.md)"
+          "description": "Path to markdown file (e.g. events/foo.md)"
         },
         "dates": {
           "type": "array",
@@ -155,7 +57,7 @@
               },
               "end": {
                 "type": "number",
-                "description": "End year; use section end if unknown"
+                "description": "End year"
               },
               "calendar": {
                 "type": "string",
@@ -165,29 +67,21 @@
                   "AD",
                   "BC"
                 ]
-              },
-              "source": {
-                "type": "string"
-              },
-              "confidence": {
-                "type": "string"
-              },
-              "note": {
-                "type": "string"
               }
             }
           }
         },
-        "section": {
-          "type": "string",
-          "description": "Section id; inherits timeline_sources from section when absent"
+        "children": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/entry"
+          }
         },
         "timeline_sources": {
           "type": "array",
           "items": {
             "type": "string"
-          },
-          "description": "Per-event override; omit to use section default"
+          }
         },
         "context": {
           "type": "object",
@@ -199,12 +93,6 @@
               "type": "boolean"
             }
           }
-        },
-        "priority": {
-          "type": "integer",
-          "minimum": 1,
-          "maximum": 5,
-          "description": "1 = highest, shown when zoomed out"
         },
         "categories": {
           "type": "array",
@@ -225,8 +113,7 @@
           "type": "array",
           "items": {
             "type": "string"
-          },
-          "description": "URLs or paths to images/assets"
+          }
         },
         "tags": {
           "type": "array",
@@ -237,3 +124,4 @@
       }
     }
   }
+}

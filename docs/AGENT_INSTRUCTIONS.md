@@ -21,7 +21,7 @@ paradigm-threat-timeline is a standalone project. It does NOT reference paradigm
 - **section**: Assigned by refactor-sections (BCE Option A or CE century)
 - **timeline_sources**: Per-event override; omit to inherit from section. e.g. Saturnian, Fomenko, MudFlood, Mars
 - **context**: `{ mainstream, theoretical }`
-- **priority**: From header level in source (#=1, ##=2, ###=3, ####=4; 1 = highest)
+- **level**: From hierarchy (header level in source #=1, ##=2, ###=3, ####=4; 1 = top)
 - **media**: Optional URLs for thumbnails/assets
 
 ## Multiple Dates per Event
@@ -78,3 +78,9 @@ When you find contradictions, unresolved dates, or need clarification, add entri
 ## Updating CONCLUSIONS.md
 
 When the timeline supports a conclusion or speculation, add it to `docs/CONCLUSIONS.md`. Mark confidence level when uncertain.
+
+## Media and generated images
+
+- Article images can live in `media/[section]/[image]` (e.g. `media/before-creation/spawning-first-life-forms.png`). Link from markdown with **relative** paths (e.g. `media/[section]/[filename]`).
+- paradigm-threat-site resolves these relative URLs to absolute using the same domain as `events.json` (the timeline base URL), so images load from the timeline origin.
+- We plan to generate images for more timeline articles in the future (e.g. AI-generated illustrations keyed to article content).

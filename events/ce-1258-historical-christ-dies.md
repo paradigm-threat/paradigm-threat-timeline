@@ -1,4 +1,4 @@
-# 1258 C.E. Historical Christ dies
+# Historical Christ dies
 
 According to [Japanese legend](https://www.smithsonianmag.com/history/the-little-known-legend-of-jesus-in-japan-165354242/),
 Christ visited Japan for 12 years when he was 21. Per the legend, he survived his Crucifixion in Judea, went through

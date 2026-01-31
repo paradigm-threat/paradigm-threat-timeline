@@ -1,4 +1,4 @@
-# C.E. 1840 - Ecliptic pathway of the Absu last seen.
+# Ecliptic pathway of the Absu last seen.
 
 Jno Cook from SaturnianCosmology.org [describes the pathway](https://saturniancosmology.org/flood.php#flood-g34):
 

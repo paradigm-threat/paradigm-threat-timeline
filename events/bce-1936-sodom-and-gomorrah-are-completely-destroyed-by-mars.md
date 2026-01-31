@@ -1,4 +1,4 @@
-# 1936 B.C.E. Sodom and Gomorrah are completely destroyed by Mars.
+# Sodom and Gomorrah are completely destroyed by Mars.
 
 With Jupiter's influence in decline and Venus absent, the nonlinear configuration continues to widen and destabilize.
 The periodic cataclysmic encounters between Earth and Mars increase in duration and intensity. Eventually an alignment

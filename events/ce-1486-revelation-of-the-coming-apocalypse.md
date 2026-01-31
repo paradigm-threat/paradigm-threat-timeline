@@ -1,4 +1,4 @@
-# 1486 C.E. Revelation of the coming Apocalypse
+# Revelation of the coming Apocalypse
 
 With this new propaganda tool and new weapons, the **Deep State** once again had the means to cause war in Europe. Now
 it was time to formulate **the plan**. A *secret* war plan would have been exposed and would have inevitably failed.
@@ -21,6 +21,5 @@ enabled the Deep State to identify and neutralize any would-be resistance to the
 Europe and avoid the slaughter would have to give up their ancient traditions and submit to the authority of the Greek
 Orthodox Church of the Rus-Horde Empire.
 
-![*Death on the Pale Horse,* painted by the
-  American artist [Benjamin West](https://www.dia.org/art/collection/object/death-pale-horse-64796) in 1796 depicting
-  events of *The 1492 Apocalypse*.](https://clevertree.github.io/paradigm-threat-files/history/chronology/apocalypse/apocalypse_b_west.jpg?w=384)
+![Death on the Pale Horse - Benjamin West 1796](https://clevertree.github.io/paradigm-threat-files/history/chronology/apocalypse/apocalypse_b_west.jpg?w=384)
+*Death on the Pale Horse,* painted by the American artist [Benjamin West](https://www.dia.org/art/collection/object/death-pale-horse-64796) in 1796 depicting events of *The 1492 Apocalypse*.*

@@ -1,3 +1,3 @@
-# C.E. 1700 - Last sprinkling of Absu dust.
+# Last sprinkling of Absu dust.
 
 

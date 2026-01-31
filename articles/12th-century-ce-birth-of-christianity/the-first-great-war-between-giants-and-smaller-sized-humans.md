@@ -1,0 +1,10 @@
+# The First great war between giants and smaller sized humans
+
+This is the first great war between human giants representing the Polytheistic 'Royal' bloodline Christianity descending
+back to Christ and the 'apostolic' Monotheistic Christianity of the normal-sized humans. The War concludes in the Battle
+of Troy/Jerusalem/TsarGrad with the giant humans winning. The story goes - the giants (Greeks) were having no luck
+breaching the walls of TsarGrad (Troy), so they constructed a giant-sized wooden horse as tribute and pretended to flee
+back to their homeland in Tartaria. The 'Trojans' brought the horse inside their walls seeing no threat, as the giants
+could not possibly be hiding within, and they could not imagine that the giants had already gained the confidence of
+the smaller humans to such a degree that the smaller humans would be willing to die on behalf of the giants in this
+governance/war *against* giants, but such willing and revenging behavior was the direct result of the Crucifixion of Christ.

@@ -1,4 +1,4 @@
-# 1152 C.E. Historical Christ is Born in _Crimea_
+# Historical Christ is Born in _Crimea_
 
 Christ's mother (Katya) was one of those attempting to flee the census. She made it as far as Crimea before
 being caught. However, the locals of Crimea took pity on her as she was moaning in pain with a difficult pregnancy. The

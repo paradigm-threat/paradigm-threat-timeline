@@ -1,4 +1,4 @@
-# C.E. 1677 to 1682 - The Order of the Temple of Solomon is dismantled
+# The Order of the Temple of Solomon is dismantled
 
 > The Order of the Temple of Solomon is dismantled ( in 1307 = 1492 = 1677), after its appropriation by the King of
 > France and Navarre, and the colonial enterprise is devised from Italy, in the name of a Holy Roman Empire (twinned),

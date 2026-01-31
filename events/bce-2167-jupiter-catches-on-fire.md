@@ -1,4 +1,4 @@
-# 2167 B.C.E. Jupiter catches on fire
+# Jupiter catches on fire
 
 Within 25 years, Gas-Giant Jupiter, still appearing on its coma-tail mountain, and having recently consumed Venus,
 becomes fully exposed to the Sun's field and catches on fire for 20 straight years. Humans world-wide remembered this

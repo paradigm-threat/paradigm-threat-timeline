@@ -1,0 +1,28 @@
+# The Golden Age
+
+![The Garden of Earthly Delights by Hieronymus Bosch depicting the Golden Age](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/golden_age_hieronimus_bosch.jpg?w=384)
+*The Garden of Earthly Delights* by [Hieronymus Bosch](https://www.theguardian.com/artanddesign/2016/feb/11/hieronymus-bosch-review-a-heavenly-host-of-delights-on-the-road-to-hell) depicting the beginning, middle, and end of the *Golden Age*.
+
+This period of stable collinear configuration is remembered throughout the civilizations of the Earth as the *Golden
+Age*. The Hindu Brahma, Yama, Vishnu, and Manu describe the age of the [“Brilliant Yima”](https://saturniancosmology.org/files/blog/blog-michael1.txt).
+To the Chinese, it was the reign of [“Yellow Emperor” Huang-ti](https://saturniancosmology.org/files/china/huang-di.txt), founder of Taoism.
+In Northern Europe, [Peace of Frodi](https://en.wikipedia.org/wiki/Fr%C3%B3%C3%B0i).
+In the Christian Bible, this 930-year period was the [Garden of Eden](https://bennettleeross.com/history/intruder-alert-a-fast-approaching-brown-dwarf-star/).
+In [The Myth of the Golden Age](http://www.ifiseeu.com/misc-ancient-myth/golden-age-myth.htm) 1997, David Talbott
+describes Eden:
+
+
+> "The world was quite other than what it is today: the trees were forever in fruit;
+> the animals lived in perfect harmony, and the little Agouti played fearlessly with the beard of the Jaguar."
+
+As each planet was connected [in-series](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Series_circuits),
+their axial tilt would stay synchronized even as the entire system Orbited the Sun, but after the planets left the
+configuration, each would connect to the Sun's environment **in parallel**
+and their axial tilts would be fixed indefinitely. This is the reason Earth, Mars, Saturn, and Neptune have
+matching [axial tilts](https://en.wikipedia.org/wiki/Axial_tilt#Solar_System_bodies) within 3 degrees. By the end of
+this period, each planet in the configuration had become a "fully charged" capacitor, unable to accept more charge or
+grow larger. The configuration violently came to an end, and the age of cataclysm began.
+
+
+![Sumerian Tablets - Cosmic Mountain and Wheel of Heaven](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/cosmic_mountain.jpg?w=384)
+*The cosmic mountain celebrated around the world, seen as a pillar of fire and light rising along the world axis; as a radiant city or temple of heaven, as the prototype for any sacred space on earth.*

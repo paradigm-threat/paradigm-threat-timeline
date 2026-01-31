@@ -1,4 +1,4 @@
-# 3147 B.C.E. The Golden Age Ends Violently.
+# The Golden Age Ends Violently.
 
 Within a very short time, all 9 planets (including Earth) break from the configuration and exit the outer layers
 of Saturn's protective plasma sheath. The planets, having left Saturn's collinear configuration, violently compete with
