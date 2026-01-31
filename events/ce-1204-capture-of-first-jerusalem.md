@@ -1,0 +1,29 @@
+# 1204 C.E. Capture of First Jerusalem
+
+With the capture of first Jerusalem by the Russian Horde, royal families of the Deep State fled across Western Europe
+once again taking their slaves
+and [holy relics](https://www.documentarytube.com/articles/what-is-in-vatican-secret-archives). What many of the
+Crusaders did not realize was that the same **Deep State** which crucified their prince was also
+*benefiting* from their revenge Crusade. As the Russian-Horde were distracted organizing the Crusades on Tsar-Grad
+Istanbul, the Deep State quietly began relocating their headquarters to Jerusalem \#2 in Moscow.
+
+Their modified plan was now to eclipse and supplant the religions of Eastern Tartary, presenting Christ not as a popular
+Russian Prince and insurrectionist, but rather as the Son of an invisible Creator God. This plan would take centuries to
+achieve. First, they had to convince the Rus-Horde that their prince was so great that he _must_ have come from the King
+David bloodline. This clever ruse played into the Crucifixion lie that Christ had claimed to be the King of the Jews and
+embedded Monotheism deep into Christianity.
+
+![Jerusalem #2 was the Kremlin in Moscow and was never located in Palestine](https://clevertree.github.io/paradigm-threat-files/history/chronology/jerusalem/kremlin_2nd_jerusalem_boris_godunov.jpg?w=384)
+
+Next they redacted Polytheistic Sun worship
+into [Zodiac Monotheism](https://www.haaretz.com/archaeology/.premium-the-metamorphosis-of-the-sun-god-in-ancient-synagogues-in-israel-1.9157775)
+attributing ‘miracles’ provided by the Sun in our sky to Christ the “Son of God”. *He* now claims to be the Light of
+Life, the *stiller of storms*, the *feeder of masses*, the *healer of lepers*, *walker of water*, and *resurrectionist*.
+Additionally, they redacted the _real_ story of Andronicus Christ replacing it with a mostly made up story based on
+imaginary symbols of the Zodiac, just like they did with the story
+of [King David](https://www.usbible.com/Astrology/stars_of_david.htm).
+
+After successfully appropriating the pagan hordian religions of their enemies, the Deep State ordered the reconstruction
+of Jerusalem in Moscow matching the 3 walls and 6 gates of Jerusalem in Istanbul, and the original Jerusalem in the sky
+during the Golden Age. Building on the success of their new hybrid religion, the Deep State drew plans to create a vast
+world empire.

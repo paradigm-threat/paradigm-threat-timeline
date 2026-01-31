@@ -1,0 +1,66 @@
+---
+description: Paradigm-threat-timeline maintenance and investigation principles
+alwaysApply: true
+---
+
+# paradigm-threat-timeline: AI Instructions
+
+## Guiding Principles
+
+- **Victors write the history.** The timeline assumes mainstream chronology (Scaligerian) may reflect the perspective of those who controlled record-keeping, not objective fact.
+- **Mass-redaction is plausible.** Major world wars, plagues, regime changes, and church chronologists could have altered or destroyed records at any point. Absence of a source does not mean it never existed.
+- **Investigation, not adjudication.** Document claims, trace sources, and stay open to alternate chronologies (Fomenko, Saturnian, Phantom Time, indigenous). Do not dismiss a date because mainstream scholarship disagrees.
+
+## Maintaining the Timeline
+
+### Adding Dates
+
+- Add **all relevant dates** we can find for each event.
+- Each event's `dates[]` array can have **multiple entries** for different chronology systems:
+  ```json
+  "dates": [
+    { "value": -3147, "calendar": "BCE", "source": "Saturnian/Jno Cook" },
+    { "value": -3760, "calendar": "BCE", "source": "Judaic" },
+    { "value": -4004, "calendar": "BCE", "source": "Ussher/Masoretic" }
+  ]
+  ```
+- Use `source` and `note` to document where each date comes from and any shift rationale (e.g. phantom time +1000 years).
+
+### Alternate Chronology Systems
+
+When adding or updating events, attempt to calculate or research dates for:
+
+- **Saturnian / Jno Cook** — 4077 BCE creation baseline
+- **Fomenko New Chronology** — CE events often shifted; Christ 1152 CE, Crusades = Trojan War
+- **Scaligerian (mainstream)** — conventional textbook dates
+- **Phantom Time (Illig)** — ~300 years may not have occurred
+- **Byzantine / Alexandrian** — 5508–5493 BCE creation
+- **Judaic** — 3761 BCE creation
+- **Indigenous** — Quiche Maya, Popol Vuh, etc.
+
+### Fomenko Duplicates
+
+- Add `duplicate_of` when an event is a Fomenko-identified duplicate of another.
+- Add `related_events` for linked or parallel events across chronologies.
+- Use `note` in dates to explain shifts (e.g. "Fomenko: same as evt-1185-crucifixion, 1053-year phantom").
+
+## Investigations
+
+- `investigations/` holds research to validate or trace claims. See `investigations/README.md`.
+- When a source cannot be found online or in mainstream refs: assume redaction or gatekeeping before assuming error. Document the gap and add to `docs/OUTSTANDING_QUESTIONS.md`.
+- Add speculative conclusions to `docs/CONCLUSIONS.md` when evidence supports them; mark confidence level.
+
+## Scripts (run after edits)
+
+```bash
+npm run normalize-events   # Assign dates, rename files
+npm run refactor-sections  # Assign sections, collapse timeline_sources
+npm run validate-events    # Schema + title/header match
+npm run generate-index     # Pre-commit
+```
+
+## File Conventions
+
+- Event markdown: `events/{bce|ce}-{year}-{slug}.md`
+- Title must exactly match first `#` header in the markdown.
+- Sections: BCE Option A (before-creation, golden-age, dark-ages, iron-age-blip) + CE centuries.

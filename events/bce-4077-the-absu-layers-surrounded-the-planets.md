@@ -1,0 +1,15 @@
+# The Absu layers surrounded the Planets
+
+Visible on the Southern Hemisphere of the Earth was "[the Absu](https://saturniancosmology.org/cos.php)", also called
+"The Abyss" or [Firmament](https://en.wikipedia.org/wiki/Firmament) in the Christian Bible. This 'seal' represented multiple outer layers of Saturn's plasma sheath and appeared
+to humans as obscuring equatorial rings of a cosmic 'sea' in the southern sky.
+[Jno Cook](https://jnocook.net/) describes it:
+
+> "I had no trouble identifying the Sumerian Absu, the Egyptian Duat,
+> and the Maya House of Nine Bushes as a set of rings seen in the southern night sky.
+> The rings were almost universally, throughout the world, understood to be an
+> ocean standing up from the south horizon. By the Talbott / Thornhill model,
+> Earth would have existed within the glow level plasma discharge (the coronal envelope)
+> of Saturn before the intersection with the Solar System, and within the memory of mankind.
+> The stars and other planets might not have been visible, and perhaps not even Saturn would have been seen
+> — just the 'waters above'."

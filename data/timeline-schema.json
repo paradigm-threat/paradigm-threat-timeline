@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Timeline Data",
+  "description": "Schema for paradigm-threat-timeline events and sections",
+  "type": "object",
+  "properties": {
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "era",
+          "start",
+          "end",
+          "timeline_sources"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "era": {
+            "type": "string",
+            "enum": [
+              "BCE",
+              "CE"
+            ]
+          },
+          "start": {
+            "type": "number"
+          },
+          "end": {
+            "type": "number"
+          },
+          "timeline_sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/event"
+      }
+    }
+  },
+  "definitions": {
+    "event": {
+      "title": "Timeline Event",
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "md_path",
+        "dates"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier (e.g. evt-1774-pugachev)"
+        },
+        "title": {
+          "type": "string",
+          "description": "Must exactly match first # header in md_path file"
+        },
+        "md_path": {
+          "type": "string",
+          "description": "Path to markdown file in paradigm-threat-timeline (e.g. events/foo.md)"
+        },
+        "dates": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "number"
+              },
+              "calendar": {
+                "type": "string",
+                "enum": [
+                  "CE",
+                  "BCE",
+                  "AD",
+                  "BC"
+                ]
+              },
+              "source": {
+                "type": "string"
+              },
+              "confidence": {
+                "type": "string"
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "section": {
+          "type": "string",
+          "description": "Section id; inherits timeline_sources from section when absent"
+        },
+        "timeline_sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Per-event override; omit to use section default"
+        },
+        "context": {
+          "type": "object",
+          "properties": {
+            "mainstream": {
+              "type": "boolean"
+            },
+            "theoretical": {
+              "type": "boolean"
+            }
+          }
+        },
+        "priority": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5,
+          "description": "1 = highest, shown when zoomed out"
+        },
+        "categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "duplicate_of": {
+          "type": "string"
+        },
+        "related_events": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "media": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "URLs or paths to images/assets"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }

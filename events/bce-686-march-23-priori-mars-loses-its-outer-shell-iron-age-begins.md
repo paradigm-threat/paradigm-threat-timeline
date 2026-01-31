@@ -1,0 +1,33 @@
+# 686 B.C.E. March 23 - Priori-Mars loses its outer shell - Iron Age Begins
+
+On the 9th close encounter with Earth,
+[Priori-Mars](https://cycliccatastrophism.org/2017/11/19/castle-deep-in-lake-van/)
+finally grows unstable enough to lose its outer shell forever. The centuries of interplanetary electric discharge had
+converted the light elements in the outer shell into heavy iron, and now the shell was too heavy to retain.
+[Ackerman](https://saturniancosmology.org/files/ackerman/ackerman-mythology_greek.html#prometheus)
+explains the break-up:
+
+> Its release was influenced by the tidal force of
+> proto-Venus, when the latter's inferior conjunctions corresponded to
+> its aphelions. At these times the solid core of priori-Mars exited
+> the planet and swooped into a lower orbit around the Earth while the
+> outer shell drifted away. The two recombined as they left the
+> vicinity of the Earth and reformed during the fifteen years that it
+> orbited the Sun. After the *final* encounter,
+> the outer shell of priori-Mars failed to recombine with its solid
+> core and slid out to its current orbit, forming the low density
+> planet we now call Mars.
+
+The iron shell of Mars permanently comes apart forming
+the [asteroid belt](https://www.youtube.com/watch?v=eCOTNboQqV8&feature=emb_title) and
+scattering [star metal](https://conananimated.fandom.com/wiki/Star_Metal) across the Earth's surface. This event
+kick-starts the [Iron Age](https://en.wikipedia.org/wiki/Iron_Age)
+as humanity receives one more parting gift of **metallurgy** from Prometheus before Mars vanishes forever into its
+final orbit - appearing as a red speck in the night sky. On June 15 685 B.C.E., absent from the extended magnetosphere of
+Priori-Mars, Mercury (known as [Phaethon](https://www.britannica.com/topic/Phaethon-Greek-mythology))
+and Venus both caught on fire. On July 9th, Jupiter catches on fire. 5 days later on July 14th, Jupiter releases a
+plasmoid bolt which travels for 11 days and strikes the Sun on the 25th. This event was remembered throughout
+Mesoamerica as the [Death of Quetzalcoatl](https://pages.ucsd.edu/~dkjordan/nahuatl/ReadingQuetzalcoatl.html). The
+planets were striking their final electromagnetic balance and fixing their orbits that we know today.
+
+![Christ as the Sun](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/christ_is_the_sun7.jpg?w=384)

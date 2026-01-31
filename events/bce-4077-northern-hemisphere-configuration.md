@@ -1,0 +1,31 @@
+# Northern Hemisphere Configuration
+
+From anywhere on the northern hemisphere of the Earth, one could look northwards and see in order:
+Mars, Venus, then the gas giant Saturn. Behind Saturn was the gas giant Jupiter, which was not yet visible. Behind
+Jupiter, at a 26.7-degree angle, was our Sun. All together, they form an
+unmistakable [Star and crescent](https://en.wikipedia.org/wiki/Star_and_crescent) in the sky worshiped throughout the
+Persian, Roman, Byzantine, and Ottoman Empires, and throughout Islam today. This deity was known in Egypt as Osiris
+the "Triform God", and as "The Trinity" in Babylonian and Abrahamic religion. This crescent was slowly rotating causing
+a separation between night and day:
+
+> Genesis 1:4: And God saw the light, that it was good: and God divided the light from the darkness.
+
+In [Norse mythology](https://skjalden.com/nine-realms-in-norse-mythology/), each heim ('house') in the configuration was
+named so:
+Muspelheim (Realm of Fire / Mercury), Alfheim (Bright realm of Elves / Venus), Midgard (Middle Land / Earth),
+Jotunheim (Realm of Frost Giants / Mars), Asgard (Realm of the Aesir / Jupiter), Vanaheim (Realm of the Vanir / Saturn),
+Svartalfheim (Dark realm of Dwarves / Uranus). Niflheim (Realm of Myst / Neptune), Helheim (Realm of the Dead /
+Underworld / Pluto), The Norse also had a name for the Birkeland currents that bridged between worlds:
+[The Bifröst](https://norse-mythology.org/cosmos/cosmology/bifrost/).
+
+Sometimes locations were personified; Mars was Fenrir/Fenris the Wolf and appeared as a spherical planet, while Venus
+was the Midgard Dragon / Serpent / [Doomsday Comet](https://www.aeonjournal.com/articles/talbott/talbott.html)
+and appeared stretched out in many shapes and colors, none of which resembled a planet. It is during this time that Mars
+makes eight *descents* to Earth creating the appearance of Osiris,
+the [Triform God](https://en.wikipedia.org/wiki/Triple_deity).
+
+![Still there was before a world to the south which was called Muspelheim. It is light and hot, and so bright and
+  dazzling that no stranger, who is not a native there, can stand it.
+  This means darker-skinned humans who could 'stand the heat' came from high-energy realms like Mars, Mercury, or the
+  southern end of the Earth. The fiery apparition of the Squatter Man figure in the south was recorded many times by
+  many civilizations as the Phoenix, Burning Man or Wicker Man, and the myth of Quetzalcoatl.](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/saturnian_configuration_south.jpg?w=384)

@@ -1,0 +1,25 @@
+# The Great Deluge
+
+As Earth and the other planets pass through Saturn's outer plasma sheath (The _Absu_), the layer cools
+into [sodium-salt water](https://www.nasa.gov/mission_pages/cassini/media/cassini-20090624.html)
+becoming heavy and crashing into the planet surface causing the first **great deluge**
+by [each civilization](https://www.newworldencyclopedia.org/entry/Great_Flood). Earth receives its salty oceans from
+Saturn, which is why the Atlantic ocean is also called the [Sea of Kronos](https://atlantipedia.ie/samples/sea-of-kronos/).
+In modern times, the National Oceanic and Atmospheric Administration cannot legitimately answer the question:
+[Why is the ocean salty, but rivers flowing into it are not?](https://oceanservice.noaa.gov/facts/riversnotsalty.html)
+
+> Many great deluges have taken place during the [thousands of]
+> years since Athens and Atlantis were preeminent. Destruction
+> by fire and other catastrophes was also common. In these
+> floods, water rose from below, destroying city dwellers but not
+> mountain people. The floods, especially the third great flood
+> before Deucalion, washed away most of Athens' fertile soil.
+> -<cite>[Plato's Critias 111-112](https://en.wikipedia.org/wiki/Ancient_Greek_flood_myths)</cite>
+
+> When the Sun Age came, there had passed 400 years. Then came 200 years, then 76. Then all mankind was lost and drowned
+> and turned to fishes.
+> The water and the sky drew near each other. In a single day all was lost, and Four Flower consumed all that there was
+> of our flesh.
+> The very mountains were swallowed up in the flood, and the waters remained, lying tranquil during fifty and two
+> springs.
+> -<cite>[Aztec Codex Chimalpopoca](https://www.newworldencyclopedia.org/entry/Great_Flood)</cite>

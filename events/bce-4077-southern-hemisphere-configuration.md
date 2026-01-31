@@ -1,0 +1,19 @@
+# Southern Hemisphere Configuration
+
+In 2003, Anthony L. Peratt described ancient testimony
+of [3 intense "plasmoids"](http://www.mythsarehistory.com/peratt-column-the.html)
+in the southern region of the world. The 3 "plasmoids" were the planets Mercury, Neptune, and Uranus forming the lower
+end of the conjunction. While authors like [Jno Cook](https://saturniancosmology.org/) suggest the 3 southern plasmoids
+of "Peratt's Column" lit up between 10,900 and 8347 B.C.E., before Saturn was connected to our Sun in 4077
+B.C.E. [Snorre's Edda](http://mason.gmu.edu/~rutledge/snorra_edda.htm) states:
+
+> Still there was before a world to the south which was called Muspelheim.
+> It is light and hot, and so bright and dazzling that no stranger, who is not a native there, can stand it.
+
+This means darker-skinned humans who could 'stand the heat' came from high-energy realms like Mars, Mercury, or the
+southern end of the Earth. The fiery apparition of
+the [Squatter Man](http://www.theplasmaverse.com/verse/squatterman-plasmadischarges-petroglyphs.html)
+figure in the south was recorded many times by many civilizations as
+the [Phoenix](https://en.wikipedia.org/wiki/Phoenix_\(mythology\)), Burning Man
+or [Wicker Man](https://en.wikipedia.org/wiki/Wicker_man), and the myth
+of [Quetzalcoatl](https://en.wikipedia.org/wiki/Quetzalcoatl#Myths).

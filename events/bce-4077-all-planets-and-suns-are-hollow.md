@@ -1,0 +1,20 @@
+# All planets and suns are hollow
+
+The reason for the Absu having multiple layers, as depicted on ancient artifacts, is described in the theory of
+[Electromagnetism](https://www.electronics-tutorials.ws/electromagnetism/electromagnets.html).
+In this theory, any object with energy passing through/around it will
+[polarize](https://en.wikipedia.org/wiki/Polarizability),
+causing the lines of magnetic flux to appear in layers of different charge. At high amplitude, matter sticks to each
+layer eventually forming concentric circles within the body to increasingly capacitate that energy. As a result,
+charging a space body (like a planet) with additional energy will cause it to grow in size. As a planet grows in size,
+the gap between the inner circles expands, causing the planet to become [hollow](https://www.youtube.com/watch?v=CvfFJiUWuDk).
+
+[Watch: What's Inside Jupiter?](https://www.youtube.com/watch?v=CvfFJiUWuDk)
+
+![From anywhere on the northern hemisphere of the Earth, one could look northwards and see in order: Mars, Venus, then
+  the
+  gas giant Saturn. Behind Saturn was the gas giant Jupiter, which was not yet visible. Behind Jupiter, at a 26.7
+  degree
+  angle, was our Sun. All together, they form an unmistakable Star and crescent in the sky worshiped throughout the
+  Persian, Roman, Byzantine, and Ottoman Empires, and throughout Islam today. This deity was known in Egypt as Osiris
+  the *Triform God*, and as *The Trinity* in Babylonian and Abrahamic religion.](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/saturnian_configuration_north.jpg?w=384)

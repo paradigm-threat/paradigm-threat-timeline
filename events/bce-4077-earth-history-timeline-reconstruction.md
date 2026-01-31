@@ -1,0 +1,84 @@
+# Earth History Timeline Reconstruction
+
+---
+title: "Earth History Timeline based on Saturnian Cosmology"
+description: "The objective of this timeline is to compile an accessible alternate history of Earth based on Saturnian Cosmology as a sequence of events from the first memory to modern day. Questioning the "
+---
+
+# Earth History Timeline Reconstruction
+
+![Tartarian neoclassical architecture exists world-wide. This is evidence of a world-empire. The Rus-Horde
+  'Tartarian' Empire - which ruled over all continents between 12th and 18th centuries before its breakup in 1775.](https://clevertree.github.io/paradigm-threat-files/history/chronology/tartaria/tartarian_structures.jpg?w=384)
+
+
+Questioning the 'official' timeline of Earth's history is not a new phenomenon.
+Since the 16th century historian critics like
+[Jean Hardouin](https://en.wikipedia.org/wiki/Jean_Hardouin),
+[Robert Baldauf](https://en.wikipedia.org/wiki/Robert_Baldauf),
+[Edwin Johnson](https://en.wikipedia.org/wiki/Edwin_Johnson_\(historian\)),
+[Wilhelm Kammeyer](http://alternative.shoutwiki.com/wiki/Chronology),
+[Heribert Illig](https://en.wikipedia.org/wiki/Phantom_time_hypothesis), and
+[Immanuel Velikovsky](https://en.wikipedia.org/wiki/Immanuel_Velikovsky)
+have accused church chronologists of the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire)
+such as [Joseph Scaliger](https://chronologia.org/en/old_books/scaliger_petavius_about.html)
+(founder of [modern chronology](https://www.lindahall.org/about/news/scientist-of-the-day/joseph-justus-scaliger/))
+of conspiring to obfuscate historical records before the 13th century C.E. In modern times, state-sponsored historians
+like [Anatoly Fomenko](https://en.wikipedia.org/wiki/Anatoly_Fomenko#Historical_revisionism)
+have used [statistical analysis](https://chronologia.org/en/math_impressions/index.html) of published records
+from 2200
+sources including [Scaliger](https://en.wikipedia.org/wiki/Joseph_Justus_Scaliger),
+[House of Romanov](https://en.wikipedia.org/wiki/House_of_Romanov),
+[The Bible](https://en.wikipedia.org/wiki/New_Testament)
+& [OT Apocrypha](https://en.wikipedia.org/wiki/Biblical_apocrypha),
+[Quran](https://quran.com/en),
+[Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng),
+[Maya-Kiche](https://en.wikipedia.org/wiki/Maya_peoples),
+[etc.](https://chronologia.org/en/shakespeare/foreword.html)
+His team revealed **duplicated** matching chronology spanning periods of hundreds or thousands of years, often with the
+names and locations changed. In his [New Chronology](https://en.wikipedia.org/wiki/New_chronology_\(Fomenko\)),
+modern human history started less than a thousand years ago:
+
+> **Christ** was born in [The Crimea](https://en.wikipedia.org/wiki/New_chronology_\(Fomenko\)#Fomenko's_claims) on
+> December 25th, 1152 A.D. and was crucified on Joshua's Hill in **Constantinople/Istanbul**.
+> The Trojan War and the Crusades were waged in revenge of the Crucifixion and were
+> in reality the [same historical event](https://chronologia.org/en/how_it_was/03.html).
+> Genghis Khan and the Mongols were actually Russians.
+> The lands west of the 13 colonies that now constitute the American West and Middle West
+> were a far eastern part of Siberian-American ([Rus-Horde](https://en.topwar.ru/92613-russko-ordynskaya-imperiya.html))
+> Empire prior to its disintegration in 1775.
+
+![Earth may have been a satellite of planet Saturn in primordial times](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/earth_was_saturns_moon2.jpg?w=384)
+
+In 1952, [Immanuel Velikovsky](https://en.wikipedia.org/wiki/Immanuel_Velikovsky) posited that 'ancient' history was
+also in need of a [major revision](https://en.wikipedia.org/wiki/Ages_in_Chaos). He used
+[comparative mythology](https://en.wikipedia.org/wiki/Comparative_mythology) and ancient literary sources
+(especially the Old Testament) to argue that Earth suffered catastrophic close contacts with other planets
+(Saturn, Jupiter, Mercury, and especially Venus and Mars) in our past. In 1997,
+[Wal Thornhill](https://www.velikovsky.info/wal-thornhill/) presented the
+[Electric Universe](https://www.electricuniverse.info/)
+theory which provided a new foundation in interplanetary physics that neatly explained why these cataclysms occurred
+in the past. In [Saturnian Cosmology](https://www.plasmacosmology.net/myth.html), Earth's recorded history is **less than 4 thousand years** since the start
+of the [Golden Age](https://en.wikipedia.org/wiki/Golden_Age#Other_Golden_Ages).
+
+<DynamicIndex/>
+
+## Saturnian Cosmology Timeline Video
+
+Here is my (Part 1) video documentary for this timeline project. Part 2 pending completion of this timeline.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/yi2zdXQ7A5o" title="Alternate Timeline of Earth History based on Ancient Testimony" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen="true" className="m-auto max-w-full"/>
+
+## Project Objective
+
+
+![[USA has Issues](https://www.amazon.com/Issues-British-Maps-century-History-ebook/dp/B013B019Z0) with British Maps
+  of 18th-century analyses in detail the maps of the 1771 edition of Encyclopedia Britannica and concludes that the
+  Northwestern part of the United States of America was built on remains of Moscuvite Tartary.](https://clevertree.github.io/paradigm-threat-files/history/chronology/fomenko_books.jpg?w=384)
+
+The objective of this timeline is to compile an [alternate history](https://en.wikipedia.org/wiki/Alternate_history)
+of Earth based on [Saturnian Cosmology](https://www.everythingselectric.com/wallace-thornhill/)
+and [Fomenko's *New Chronology*](https://chronologia.org/en/how_it_was/index.html)
+into an accessible sequence of events from the first memory to modern day. As new research comes to light, I plan on
+making corrections to this timeline. I'm hoping this project helps others navigate the _dissonance of consensus_, and be
+able to access the *unredacted* origin story of our planet and our species. This timeline focuses on the *causality*
+between major events (i.e. why one event led to the next), so not all events of world history are listed.

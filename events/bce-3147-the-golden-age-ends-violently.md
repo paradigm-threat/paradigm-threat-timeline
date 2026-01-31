@@ -1,0 +1,8 @@
+# 3147 B.C.E. The Golden Age Ends Violently.
+
+Within a very short time, all 9 planets (including Earth) break from the configuration and exit the outer layers
+of Saturn's protective plasma sheath. The planets, having left Saturn's collinear configuration, violently compete with
+each other for a place in a new orbit. They form
+an [in-parallel](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Parallel_circuits)
+circular _non-linear_ configuration that together orbits the Sun for the next 1655 years. Humanity encounters a new
+unfamiliar influence (*death*) as it enters a period of extended darkness, famine, pestilence, and confusion.

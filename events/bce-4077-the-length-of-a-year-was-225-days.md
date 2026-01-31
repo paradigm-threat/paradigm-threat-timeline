@@ -1,0 +1,16 @@
+# The length of a year was 225 days
+
+In this time Saturn was called [Kronos](https://en.wikipedia.org/wiki/Cronus), the *God before time began* and Creator
+of the Universe (i.e. our solar system). Before clocks and calendars, the positions of the planets and stars were the
+only way to tell time. Saturn's system was now orbiting our Sun, and with this apparent motion - time began. Our current
+Sun was still hidden behind Saturn (and Jupiter) and was not yet visible to humans. As the spin of the Earth did not
+change significantly from antiquity until modern times, so we can regard the length of a 'day' on Earth as a
+constant. In this time the length of a year of orbit around the Sun was 225 days. This orbit was 40%
+*faster* than our current orbit of 365.25 days. The changes of the length in the year occur periodically and suddenly in
+history as the Earth jumps from one orbit to another, eventually reaching its individual orbit around the Sun. With each
+jump, the Earth becomes part of a smaller configuration and draws in less energy from the Sun. This results in a
+*slower* orbit.
+
+![In ancient Norse mythology and cosmology, Yggdrasil is an immense tree that sprang forth in the primordial void of
+  Ginnungagap, unifying the 9 worlds of Asgard, Álfheimr/Ljósálfheimr, Niðavellir/Svartálfaheimr, Midgard (Earth),
+  Jötunheimr/Útgarðr, Vanaheim, Niflheim, Muspelheim & Hel](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/norse_yggdrasil.jpg?w=384)

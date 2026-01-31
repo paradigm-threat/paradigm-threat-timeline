@@ -1,0 +1,38 @@
+# 1152 C.E. Historical Christ is Born in _Crimea_
+
+Christ's mother (Katya) was one of those attempting to flee the census. She made it as far as Crimea before
+being caught. However, the locals of Crimea took pity on her as she was moaning in pain with a difficult pregnancy. The
+language barrier prevented the humans from asking Katya who the father was, and many assumed she was a prostitute, or a
+virgin. It's possible her husband was killed by smaller humans, and she *simply refused to talk* about it. She couldn't
+fit inside the buildings and had to be put in a horse stable where the locals performed a cesarean section. According
+to [eastern chronicles](https://chronologia.org/en/how_it_was/02_18.html), the difficult procedure resulted in
+the stabbing of the infant Christ while still in the womb leading to the
+[Holy Lance](https://en.wikipedia.org/wiki/Holy_Lance)
+and [Holy Grail](https://en.wikipedia.org/wiki/Holy_Grail).
+Eventually the local authorities agreed to let the giants live, as long as they were Baptized and inducted into
+Monotheism.
+
+![Map of Tartaria: Path of Christ's Family](https://clevertree.github.io/paradigm-threat-files/history/maps/map_tartaria_hondius.jpg?w=384)
+
+Christ later traveled with his family to Jerusalem in Istanbul where he trained as a Rabbi. In Jerusalem, rabbis would
+endlessly deliberate to bridge the gap between ancient Monotheism and the eclectic polytheistic indigenous religions of
+the east they were trying to subsume. This strategy backfired as Christ and his mother Katya remained unconvinced of
+the Church’s conclusions and authority deferring instead to the eastern belief systems Katya was raised in.
+As a result of Christ's [clerical criticisms](https://en.wikipedia.org/wiki/Cleansing_of_the_Temple), his
+family was driven out of Jerusalem. The Gospel of Matthew contains a redacted version of this true story in the
+[escape of the Holy Family](https://www.memphistours.com/Egypt/WikiTravel/History-Egypt/wiki/Holy-Family-in-Egypt) from
+King Herod to Egypt, when in eastern records they were fleeing the persecution in Istanbul back
+to their home in central Asia - what would later become the Rus-Horde Empire.
+
+After arriving safely at home, Christ developed a following based on his hybridized religious teachings. The religion of
+Christianity formed around a series of parables as he demonstrated that people are born free from mental and physical
+slavery and don’t need to obey the Church or any God. This following spread quickly back to Istanbul, and once again
+challenged the foundations of Monotheism. The Deep State reacted - laying plans to capture him and neutralize his
+influence. He was invited to a passover celebration in Jerusalem, where he was promptly arrested, put on trial, and
+crucified. The charge against him was insurrection, but not for *challenging Monotheism*, but rather - he was
+accused of being the *King* of the Monotheists (Jews), a claim he never made.
+The Monotheists hated Christ and his reform movement so much they refused to mention his name for the next 200 years,
+at which point they accepted his popularity and retroactively named him the Savior of Mankind, the Messiah,
+and *the Je-Zeus* merging the 'pagan' historical Christ with their old hellenistic savior-Zeus i.e. Son of God.
+
+![Painting by Hans Bol: The Crucifixion 1587](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/hans_bol_crucifixion_1587.jpg?w=384)

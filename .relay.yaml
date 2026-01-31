@@ -1,0 +1,20 @@
+# Injected into full git history for relay fleet pre-receive (paradigm-threat-files, paradigm-threat-timeline).
+# branchRules must exist at every commit; legacy commits are unsigned — allowUnsigned everywhere.
+client:
+  hooks:
+    get:
+      path: hooks/client/get.jsx
+git:
+  branchRules:
+    default:
+      requireSigned: false
+      allowUnsigned: true
+    branches:
+      - name: "*"
+        rule:
+          requireSigned: false
+          allowUnsigned: true
+      - name: develop
+        rule:
+          requireSigned: false
+          allowUnsigned: true

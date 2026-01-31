@@ -1,0 +1,2563 @@
+{
+  "events": [
+    {
+      "id": "evt-bce-4077-earth-history-timeline-reconstruction",
+      "title": "Earth History Timeline Reconstruction",
+      "md_path": "events/bce-4077-earth-history-timeline-reconstruction.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 1,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-the-length-of-a-year-changes-throughout-antiquity",
+      "title": "The length of a Year changes throughout Antiquity",
+      "md_path": "events/bce-4077-the-length-of-a-year-changes-throughout-antiquity.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-timeline-synchronization",
+      "title": "Timeline synchronization",
+      "md_path": "events/bce-4077-timeline-synchronization.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-cosmic-life-cycle",
+      "title": "Cosmic Life Cycle",
+      "md_path": "events/bce-4077-cosmic-life-cycle.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-3-plasmoids-in-the-southern-hemisphere",
+      "title": "3 Plasmoids in the Southern hemisphere",
+      "md_path": "events/bce-4077-3-plasmoids-in-the-southern-hemisphere.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-spawning-of-the-first-life-forms",
+      "title": "Spawning of the First Life Forms",
+      "md_path": "events/bce-4077-spawning-of-the-first-life-forms.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-proto-saturn-joins-the-suns-orbit-and-lights-up",
+      "title": "4077 B.C.E. Proto-Saturn joins the Sun's orbit and lights up",
+      "md_path": "events/bce-4077-proto-saturn-joins-the-suns-orbit-and-lights-up.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-the-length-of-a-year-was-225-days",
+      "title": "The length of a year was 225 days",
+      "md_path": "events/bce-4077-the-length-of-a-year-was-225-days.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-saturns-collinear-planetary-configuration-the-tree-",
+      "title": "Saturn's Collinear Planetary Configuration - The Tree of Life",
+      "md_path": "events/bce-4077-saturns-collinear-planetary-configuration-the-tree-of-life.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-the-absu-layers-surrounded-the-planets",
+      "title": "The Absu layers surrounded the Planets",
+      "md_path": "events/bce-4077-the-absu-layers-surrounded-the-planets.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-all-planets-and-suns-are-hollow",
+      "title": "All planets and suns are hollow",
+      "md_path": "events/bce-4077-all-planets-and-suns-are-hollow.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-northern-hemisphere-configuration",
+      "title": "Northern Hemisphere Configuration",
+      "md_path": "events/bce-4077-northern-hemisphere-configuration.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-southern-hemisphere-configuration",
+      "title": "Southern Hemisphere Configuration",
+      "md_path": "events/bce-4077-southern-hemisphere-configuration.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-atlantis-and-the-tree-of-knowledge",
+      "title": "Atlantis and the Tree of Knowledge",
+      "md_path": "events/bce-4077-atlantis-and-the-tree-of-knowledge.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-priori-mars-as-the-ladder-stairway-mountain-of-heav",
+      "title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
+      "md_path": "events/bce-4077-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-quantum-entanglement",
+      "title": "Quantum Entanglement",
+      "md_path": "events/bce-4077-quantum-entanglement.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-4077-the-first-jews-of-atlantis-first-jerusalem",
+      "title": "The First Jews of Atlantis (First Jerusalem)",
+      "md_path": "events/bce-4077-the-first-jews-of-atlantis-first-jerusalem.md",
+      "dates": [
+        {
+          "value": -4077,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "golden-age"
+    },
+    {
+      "id": "evt-bce-3147-the-golden-age-ends-violently",
+      "title": "3147 B.C.E. The Golden Age Ends Violently.",
+      "md_path": "events/bce-3147-the-golden-age-ends-violently.md",
+      "dates": [
+        {
+          "value": -3147,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-3147-the-length-of-a-year-increases-by-an-additional-15-",
+      "title": "The length of a year increases by an additional 15 rotations per year to 240 days total.",
+      "md_path": "events/bce-3147-the-length-of-a-year-increases-by-an-additional-15-rotations-per-year-to-240-day.md",
+      "dates": [
+        {
+          "value": -3147,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-3147-the-great-deluge",
+      "title": "The Great Deluge",
+      "md_path": "events/bce-3147-the-great-deluge.md",
+      "dates": [
+        {
+          "value": -3147,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-3147-humanity-was-then-cast-out-of-the-garden-of-eden",
+      "title": "Humanity was then cast out of the Garden of Eden",
+      "md_path": "events/bce-3147-humanity-was-then-cast-out-of-the-garden-of-eden.md",
+      "dates": [
+        {
+          "value": -3147,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-3147-formation-of-the-deep-state-pyramidal-empire",
+      "title": "Formation of the Deep State Pyramidal Empire",
+      "md_path": "events/bce-3147-formation-of-the-deep-state-pyramidal-empire.md",
+      "dates": [
+        {
+          "value": -3147,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-3067-the-planets-are-at-war",
+      "title": "3067 B.C.E. The Planets are at war.",
+      "md_path": "events/bce-3067-the-planets-are-at-war.md",
+      "dates": [
+        {
+          "value": -3067,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-2860-all-planets-enter-a-stable-non-linear-orbit",
+      "title": "2860 B.C.E. All planets enter a stable non-linear orbit.",
+      "md_path": "events/bce-2860-all-planets-enter-a-stable-non-linear-orbit.md",
+      "dates": [
+        {
+          "value": -2860,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-2349-september-8-jupiter-disappears-and-venus-attacks-ea",
+      "title": "2349 B.C.E. September 8 - Jupiter disappears and Venus attacks Earth",
+      "md_path": "events/bce-2349-september-8-jupiter-disappears-and-venus-attacks-earth.md",
+      "dates": [
+        {
+          "value": -2349,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-2193-earth-leaves-last-absu-layer-and-jupiter-consumes-v",
+      "title": "2193 B.C.E. Earth leaves last Absu layer and Jupiter consumes Venus again",
+      "md_path": "events/bce-2193-earth-leaves-last-absu-layer-and-jupiter-consumes-venus-again.md",
+      "dates": [
+        {
+          "value": -2193,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-2167-jupiter-catches-on-fire",
+      "title": "2167 B.C.E. Jupiter catches on fire",
+      "md_path": "events/bce-2167-jupiter-catches-on-fire.md",
+      "dates": [
+        {
+          "value": -2167,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-1936-sodom-and-gomorrah-are-completely-destroyed-by-mars",
+      "title": "1936 B.C.E. Sodom and Gomorrah are completely destroyed by Mars.",
+      "md_path": "events/bce-1936-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
+      "dates": [
+        {
+          "value": -1936,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-1492-the-passover-of-comet-venus-and-exodus-from-the-pyr",
+      "title": "1492 B.C.E. The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire",
+      "md_path": "events/bce-1492-the-passover-of-comet-venus-and-exodus-from-the-pyramidal-empire.md",
+      "dates": [
+        {
+          "value": -1492,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-1442-the-sun-stands-still-for-joshua",
+      "title": "1442 B.C.E. The sun stands still for Joshua",
+      "md_path": "events/bce-1442-the-sun-stands-still-for-joshua.md",
+      "dates": [
+        {
+          "value": -1442,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-1063-mysterious-carbon-14-spike",
+      "title": "1063 B.C.E. mysterious carbon-14 spike",
+      "md_path": "events/bce-1063-mysterious-carbon-14-spike.md",
+      "dates": [
+        {
+          "value": -1063,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-806-mars-earth-and-mercury-finalize-orbits",
+      "title": "806 to 687 B.C.E. Mars, Earth and Mercury finalize orbits.",
+      "md_path": "events/bce-806-mars-earth-and-mercury-finalize-orbits.md",
+      "dates": [
+        {
+          "value": -806,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-bce-686-march-23-priori-mars-loses-its-outer-shell-iron-age-",
+      "title": "686 B.C.E. March 23 - Priori-Mars loses its outer shell - Iron Age Begins",
+      "md_path": "events/bce-686-march-23-priori-mars-loses-its-outer-shell-iron-age-begins.md",
+      "dates": [
+        {
+          "value": -686,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "iron-age-blip"
+    },
+    {
+      "id": "evt-bce-684-solar-system-becomes-stable",
+      "title": "684 to 670 B.C.E. Solar System becomes stable",
+      "md_path": "events/bce-684-solar-system-becomes-stable.md",
+      "dates": [
+        {
+          "value": -684,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "iron-age-blip"
+    },
+    {
+      "id": "evt-bce-684-building-the-new-chronology",
+      "title": "Building the New Chronology",
+      "md_path": "events/bce-684-building-the-new-chronology.md",
+      "dates": [
+        {
+          "value": -684,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "iron-age-blip"
+    },
+    {
+      "id": "evt-ce-1053-year-of-our-lord-deception-1053-year-shift-forward",
+      "title": "'Year of our Lord' Deception - 1053 Year Shift forward",
+      "md_path": "events/ce-1053-year-of-our-lord-deception-1053-year-shift-forward.md",
+      "dates": [
+        {
+          "value": 1053,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "11th-century"
+    },
+    {
+      "id": "evt-ce-1053-the-sun-replaces-mars-as-the-new-saviour",
+      "title": "The Sun replaces Mars as the new Saviour",
+      "md_path": "events/ce-1053-the-sun-replaces-mars-as-the-new-saviour.md",
+      "dates": [
+        {
+          "value": 1053,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "11th-century"
+    },
+    {
+      "id": "evt-ce-1053-deep-state-centralize-world-religion-at-jerusalem",
+      "title": "Deep State Centralize World Religion at Jerusalem",
+      "md_path": "events/ce-1053-deep-state-centralize-world-religion-at-jerusalem.md",
+      "dates": [
+        {
+          "value": 1053,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "11th-century"
+    },
+    {
+      "id": "evt-ce-1053-the-naming-of-christ",
+      "title": "The naming of Christ",
+      "md_path": "events/ce-1053-the-naming-of-christ.md",
+      "dates": [
+        {
+          "value": 1053,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "11th-century"
+    },
+    {
+      "id": "evt-ce-1053-deep-state-eliminate-the-giants",
+      "title": "Deep State Eliminate the Giants",
+      "md_path": "events/ce-1053-deep-state-eliminate-the-giants.md",
+      "dates": [
+        {
+          "value": 1053,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "11th-century"
+    },
+    {
+      "id": "evt-ce-1053-christs-family-flees-ahead-of-the-census",
+      "title": "Christ's family flees ahead of the census",
+      "md_path": "events/ce-1053-christs-family-flees-ahead-of-the-census.md",
+      "dates": [
+        {
+          "value": 1053,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "11th-century"
+    },
+    {
+      "id": "evt-ce-1152-historical-christ-is-born-in-_crimea_",
+      "title": "1152 C.E. Historical Christ is Born in _Crimea_",
+      "md_path": "events/ce-1152-historical-christ-is-born-in-_crimea_.md",
+      "dates": [
+        {
+          "value": 1152,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "12th-century"
+    },
+    {
+      "id": "evt-ce-1185-historical-christ-is-crucified-in-istanbul",
+      "title": "1185 C.E. Historical Christ is Crucified in Istanbul",
+      "md_path": "events/ce-1185-historical-christ-is-crucified-in-istanbul.md",
+      "dates": [
+        {
+          "value": 1185,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "12th-century"
+    },
+    {
+      "id": "evt-ce-1185-the-revolution-survives-despite-christs-martyrdom",
+      "title": "The Revolution survives despite Christ's Martyrdom",
+      "md_path": "events/ce-1185-the-revolution-survives-despite-christs-martyrdom.md",
+      "dates": [
+        {
+          "value": 1185,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "12th-century"
+    },
+    {
+      "id": "evt-ce-1196-first-crusade-begins-as-revenge-for-the-crucifixion",
+      "title": "1196 C.E. First Crusade begins as Revenge for the Crucifixion",
+      "md_path": "events/ce-1196-first-crusade-begins-as-revenge-for-the-crucifixion.md",
+      "dates": [
+        {
+          "value": 1196,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "12th-century"
+    },
+    {
+      "id": "evt-ce-1204-capture-of-first-jerusalem",
+      "title": "1204 C.E. Capture of First Jerusalem",
+      "md_path": "events/ce-1204-capture-of-first-jerusalem.md",
+      "dates": [
+        {
+          "value": 1204,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "13th-century"
+    },
+    {
+      "id": "evt-ce-1204-whom-are-the-israelites-in-history",
+      "title": "Whom are the \u201cIsraelites\u201d in history ?",
+      "md_path": "events/ce-1204-whom-are-the-israelites-in-history.md",
+      "dates": [
+        {
+          "value": 1204,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "13th-century"
+    },
+    {
+      "id": "evt-ce-1204-russian-empire-expands-through-conquest",
+      "title": "Russian Empire expands through conquest",
+      "md_path": "events/ce-1204-russian-empire-expands-through-conquest.md",
+      "dates": [
+        {
+          "value": 1204,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "13th-century"
+    },
+    {
+      "id": "evt-ce-1258-historical-christ-dies",
+      "title": "1258 C.E. Historical Christ dies",
+      "md_path": "events/ce-1258-historical-christ-dies.md",
+      "dates": [
+        {
+          "value": 1258,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "13th-century"
+    },
+    {
+      "id": "evt-ce-1285-first-olympic-games",
+      "title": "1285 C.E. First Olympic Games",
+      "md_path": "events/ce-1285-first-olympic-games.md",
+      "dates": [
+        {
+          "value": 1285,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "13th-century"
+    },
+    {
+      "id": "evt-ce-1337-the-hundred-years-war-begins",
+      "title": "1337 C.E. The \"Hundred Years War\" begins",
+      "md_path": "events/ce-1337-the-hundred-years-war-begins.md",
+      "dates": [
+        {
+          "value": 1337,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "14th-century"
+    },
+    {
+      "id": "evt-ce-1380-giants-are-defeated-at-the-battle-of-kulikovo",
+      "title": "1380 C.E. Giants are defeated at the Battle of Kulikovo",
+      "md_path": "events/ce-1380-giants-are-defeated-at-the-battle-of-kulikovo.md",
+      "dates": [
+        {
+          "value": 1380,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "14th-century"
+    },
+    {
+      "id": "evt-ce-1421-meteorite-star-metal-falls-on-yaroslavl",
+      "title": "1421 C.E. Meteorite (Star Metal) falls on Yaroslavl",
+      "md_path": "events/ce-1421-meteorite-star-metal-falls-on-yaroslavl.md",
+      "dates": [
+        {
+          "value": 1421,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "15th-century"
+    },
+    {
+      "id": "evt-ce-1431-jeanne-darc-is-executed-in-rouen-france",
+      "title": "1431 C.E. Jeanne d'Arc is executed in Rouen, France",
+      "md_path": "events/ce-1431-jeanne-darc-is-executed-in-rouen-france.md",
+      "dates": [
+        {
+          "value": 1431,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "15th-century"
+    },
+    {
+      "id": "evt-ce-1453-hundred-years-war-ends",
+      "title": "1453 C.E. Hundred Year's War ends",
+      "md_path": "events/ce-1453-hundred-years-war-ends.md",
+      "dates": [
+        {
+          "value": 1453,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "15th-century"
+    },
+    {
+      "id": "evt-ce-1455-bible-is-translated-into-latin",
+      "title": "1455 C.E. Bible is translated into Latin",
+      "md_path": "events/ce-1455-bible-is-translated-into-latin.md",
+      "dates": [
+        {
+          "value": 1455,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "15th-century"
+    },
+    {
+      "id": "evt-ce-1486-revelation-of-the-coming-apocalypse",
+      "title": "1486 C.E. Revelation of the coming Apocalypse",
+      "md_path": "events/ce-1486-revelation-of-the-coming-apocalypse.md",
+      "dates": [
+        {
+          "value": 1486,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "15th-century"
+    },
+    {
+      "id": "evt-ce-1492-the-apocalypse-crusade-reverse-exodus",
+      "title": "1492 C.E. The Apocalypse Crusade & Reverse Exodus",
+      "md_path": "events/ce-1492-the-apocalypse-crusade-reverse-exodus.md",
+      "dates": [
+        {
+          "value": 1492,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "15th-century"
+    },
+    {
+      "id": "evt-ce-1517-protestant-reformation-begins",
+      "title": "1517 C.E. Protestant Reformation Begins",
+      "md_path": "events/ce-1517-protestant-reformation-begins.md",
+      "dates": [
+        {
+          "value": 1517,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1523-jesuits-make-pilgrimage-to-palestine",
+      "title": "1523 C.E. Jesuits make \"Pilgrimage\" to Palestine",
+      "md_path": "events/ce-1523-jesuits-make-pilgrimage-to-palestine.md",
+      "dates": [
+        {
+          "value": 1523,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1542-the-holy-inquisition",
+      "title": "1542 C.E. The Holy Inquisition",
+      "md_path": "events/ce-1542-the-holy-inquisition.md",
+      "dates": [
+        {
+          "value": 1542,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1548-jesuits-reach-africa",
+      "title": "1548 C.E. Jesuits reach Africa",
+      "md_path": "events/ce-1548-jesuits-reach-africa.md",
+      "dates": [
+        {
+          "value": 1548,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1552-khazar-rebellion-in-the-russia-horde-empire",
+      "title": "1552 C.E. Khazar Rebellion in the Russia-Horde Empire",
+      "md_path": "events/ce-1552-khazar-rebellion-in-the-russia-horde-empire.md",
+      "dates": [
+        {
+          "value": 1552,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1565-romanov-dynasty-stages-the-oprichnina-coup",
+      "title": "1565 C.E. Romanov Dynasty stages \"The Oprichnina\" coup",
+      "md_path": "events/ce-1565-romanov-dynasty-stages-the-oprichnina-coup.md",
+      "dates": [
+        {
+          "value": 1565,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1582-gregorian-calendar-makes-slight-adjustment-to-length",
+      "title": "1582 C.E. Gregorian Calendar makes slight adjustment to length of a year",
+      "md_path": "events/ce-1582-gregorian-calendar-makes-slight-adjustment-to-length-of-a-year.md",
+      "dates": [
+        {
+          "value": 1582,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "16th-century"
+    },
+    {
+      "id": "evt-ce-1611-king-james-version-of-the-bible-is-published",
+      "title": "1611 C.E. King James version of the Bible is published",
+      "md_path": "events/ce-1611-king-james-version-of-the-bible-is-published.md",
+      "dates": [
+        {
+          "value": 1611,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1613-romanovs-zakharyin-yurievs-dynasty-takes-the-throne",
+      "title": "1613 C.E. Romanovs-Zakharyin-Yurievs Dynasty takes the throne",
+      "md_path": "events/ce-1613-romanovs-zakharyin-yurievs-dynasty-takes-the-throne.md",
+      "dates": [
+        {
+          "value": 1613,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1627-deep-state-erases-russian-empire-from-all-chronology",
+      "title": "1627 C.E. Deep State erases Russian Empire from all chronology",
+      "md_path": "events/ce-1627-deep-state-erases-russian-empire-from-all-chronology.md",
+      "dates": [
+        {
+          "value": 1627,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1633-disputes-against-jews-reemerge",
+      "title": "1633 C.E. Disputes against Jews reemerge",
+      "md_path": "events/ce-1633-disputes-against-jews-reemerge.md",
+      "dates": [
+        {
+          "value": 1633,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1642-the-english-revolution-and-civil-wars",
+      "title": "1642 to 1660 C.E. The English Revolution and Civil Wars",
+      "md_path": "events/ce-1642-the-english-revolution-and-civil-wars.md",
+      "dates": [
+        {
+          "value": 1642,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1648-cossackpolish-war-begins-ethnic-cleansing-of-russian",
+      "title": "1648 C.E. Cossack\u2013Polish War begins ethnic cleansing of Russians in Ukraine",
+      "md_path": "events/ce-1648-cossackpolish-war-begins-ethnic-cleansing-of-russians-in-ukraine.md",
+      "dates": [
+        {
+          "value": 1648,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1660-deep-state-targets-independent-banks",
+      "title": "1660 to 1672 C.E. Deep State targets independent banks",
+      "md_path": "events/ce-1660-deep-state-targets-independent-banks.md",
+      "dates": [
+        {
+          "value": 1660,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1661-rex-bellator-plan-unifies-all-military-orders",
+      "title": "1661 to 1679 C.E. Rex Bellator plan unifies all military orders",
+      "md_path": "events/ce-1661-rex-bellator-plan-unifies-all-military-orders.md",
+      "dates": [
+        {
+          "value": 1661,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1664-the-great-comet-of-1664-1665",
+      "title": "1664 C.E. The Great Comet of 1664 / 1665",
+      "md_path": "events/ce-1664-the-great-comet-of-1664-1665.md",
+      "dates": [
+        {
+          "value": 1664,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1665-the-great-plague-of-1665",
+      "title": "1665 C.E. The Great Plague of 1665",
+      "md_path": "events/ce-1665-the-great-plague-of-1665.md",
+      "dates": [
+        {
+          "value": 1665,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1666-london-burns-to-the-ground",
+      "title": "Sept 6, 1666 C.E. London Burns to the ground",
+      "md_path": "events/ce-1666-london-burns-to-the-ground.md",
+      "dates": [
+        {
+          "value": 1666,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1666-byzantine-and-catalan-alliance",
+      "title": "C.E. 1666 to 1675 - Byzantine and Catalan alliance",
+      "md_path": "events/ce-1666-byzantine-and-catalan-alliance.md",
+      "dates": [
+        {
+          "value": 1666,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1651-fall-of-the-avignon-powers",
+      "title": "C.E. 1651 to 1672 - Fall of the Avignon powers",
+      "md_path": "events/ce-1651-fall-of-the-avignon-powers.md",
+      "dates": [
+        {
+          "value": 1651,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1673-disputes-against-jews-end-lasting-46-years",
+      "title": "C.E. 1673 to 1679 - Disputes against Jews end lasting 46 years",
+      "md_path": "events/ce-1673-disputes-against-jews-end-lasting-46-years.md",
+      "dates": [
+        {
+          "value": 1673,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1670-messianic-jewish-begins",
+      "title": "C.E. 1670 - Messianic Jewish begins",
+      "md_path": "events/ce-1670-messianic-jewish-begins.md",
+      "dates": [
+        {
+          "value": 1670,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1677-the-order-of-the-temple-of-solomon-is-dismantled",
+      "title": "C.E. 1677 to 1682 - The Order of the Temple of Solomon is dismantled",
+      "md_path": "events/ce-1677-the-order-of-the-temple-of-solomon-is-dismantled.md",
+      "dates": [
+        {
+          "value": 1677,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1681-the-almogavars-conquer-athens-and-neopatria",
+      "title": "C.E. 1681 to 1689 - The almogavars conquer Athens and Neopatria",
+      "md_path": "events/ce-1681-the-almogavars-conquer-athens-and-neopatria.md",
+      "dates": [
+        {
+          "value": 1681,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1677-great-fight-in-the-heart-of-western-europe",
+      "title": "C.E. 1677 to 1715 - Great fight in the heart of Western Europe",
+      "md_path": "events/ce-1677-great-fight-in-the-heart-of-western-europe.md",
+      "dates": [
+        {
+          "value": 1677,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1694-deep-state-solidifies-central-banking",
+      "title": "1694 C.E. Deep State solidifies central banking",
+      "md_path": "events/ce-1694-deep-state-solidifies-central-banking.md",
+      "dates": [
+        {
+          "value": 1694,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "17th-century"
+    },
+    {
+      "id": "evt-ce-1700-last-sprinkling-of-absu-dust",
+      "title": "C.E. 1700 - Last sprinkling of Absu dust.",
+      "md_path": "events/ce-1700-last-sprinkling-of-absu-dust.md",
+      "dates": [
+        {
+          "value": 1700,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1718-secret-society-of-jesus-goes-public",
+      "title": "C.E. 1718 to 1725 - Secret Society of Jesus goes public",
+      "md_path": "events/ce-1718-secret-society-of-jesus-goes-public.md",
+      "dates": [
+        {
+          "value": 1718,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1840-ecliptic-pathway-of-the-absu-last-seen",
+      "title": "C.E. 1840 - Ecliptic pathway of the Absu last seen.",
+      "md_path": "events/ce-1840-ecliptic-pathway-of-the-absu-last-seen.md",
+      "dates": [
+        {
+          "value": 1840,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1880-tchaikovsky-releases-1812-overture",
+      "title": "C.E. 1880 - Tchaikovsky releases 1812 Overture",
+      "md_path": "events/ce-1880-tchaikovsky-releases-1812-overture.md",
+      "dates": [
+        {
+          "value": 1880,
+          "calendar": "CE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1776-the-phantom-time-hypothesis",
+      "title": "The Phantom Time Hypothesis",
+      "md_path": "events/ce-1776-the-phantom-time-hypothesis.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-the-electric-universe-eu-theory",
+      "title": "The Electric Universe (EU) Theory",
+      "md_path": "events/ce-1776-the-electric-universe-eu-theory.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-human-activity-on-mars",
+      "title": "Human Activity on Mars",
+      "md_path": "events/ce-1776-human-activity-on-mars.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-world-map-changes-between-18th-to-19th-centuries",
+      "title": "World Map Changes between 18th to 19th Centuries",
+      "md_path": "events/ce-1776-world-map-changes-between-18th-to-19th-centuries.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-giants-roamed-the-earth",
+      "title": "Giants Roamed the Earth",
+      "md_path": "events/ce-1776-giants-roamed-the-earth.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-the-deep-state-is-an-interplanetary-mafia",
+      "title": "The Deep State is an Interplanetary Mafia",
+      "md_path": "events/ce-1776-the-deep-state-is-an-interplanetary-mafia.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-there-is-no-supernatural-influence",
+      "title": "There is No Supernatural Influence",
+      "md_path": "events/ce-1776-there-is-no-supernatural-influence.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-predictive-programming-in-science-fiction",
+      "title": "Predictive Programming in Science Fiction",
+      "md_path": "events/ce-1776-predictive-programming-in-science-fiction.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-causality",
+      "title": "Causality",
+      "md_path": "events/ce-1776-causality.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-trigger-annihilation-of-the-giant-humans",
+      "title": "Trigger: Annihilation of the Giant Humans",
+      "md_path": "events/ce-1776-trigger-annihilation-of-the-giant-humans.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-the-greatest-reset",
+      "title": "1776 C.E.: The Greatest Reset",
+      "md_path": "events/ce-1776-the-greatest-reset.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-ce-1776-fact-becomes-fiction-and-vice-versa",
+      "title": "Fact becomes Fiction and Vice Versa",
+      "md_path": "events/ce-1776-fact-becomes-fiction-and-vice-versa.md",
+      "dates": [
+        {
+          "value": 1776,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "MudFlood"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "18th-century"
+    },
+    {
+      "id": "evt-bce-1063-the-mysterious-carbon-14-spike-in-1063-bce",
+      "title": "The Mysterious Carbon-14 Spike in 1063 B.C.E.",
+      "md_path": "events/bce-1063-the-mysterious-carbon-14-spike-in-1063-bce.md",
+      "dates": [
+        {
+          "value": -1063,
+          "calendar": "BCE"
+        }
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "dark-ages"
+    },
+    {
+      "id": "evt-ce-1907-giovanni-exposes-mars-to-the-public",
+      "title": "Giovanni Exposes Mars to the Public",
+      "md_path": "events/ce-1907-giovanni-exposes-mars-to-the-public.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-percival-lowell-maps-mars-in-detail",
+      "title": "Percival Lowell Maps Mars in Detail",
+      "md_path": "events/ce-1907-percival-lowell-maps-mars-in-detail.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-lowell-announces-life-on-mars-1907-and-then-dies",
+      "title": "Lowell announces Life on Mars 1907, and then dies.",
+      "md_path": "events/ce-1907-lowell-announces-life-on-mars-1907-and-then-dies.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-technocrats-defeat-telepathic-factions",
+      "title": "Technocrats Defeat Telepathic Factions",
+      "md_path": "events/ce-1907-technocrats-defeat-telepathic-factions.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-signs-of-civilization-on-the-surface-of-mars",
+      "title": "Signs of civilization on the surface of Mars",
+      "md_path": "events/ce-1907-signs-of-civilization-on-the-surface-of-mars.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-all-artificial-canals-were-erased",
+      "title": "All artificial Canals were erased",
+      "md_path": "events/ce-1907-all-artificial-canals-were-erased.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-martians-are-humans",
+      "title": "Martians are Humans",
+      "md_path": "events/ce-1907-martians-are-humans.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-predictive-programming-in-science-fiction-fantasy-ge",
+      "title": "Predictive programming in Science Fiction / Fantasy Genre:",
+      "md_path": "events/ce-1907-predictive-programming-in-science-fiction-fantasy-genre.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-failure-to-reach-mars",
+      "title": "Failure to reach Mars",
+      "md_path": "events/ce-1907-failure-to-reach-mars.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-atlantis-falls-creating-the-deep-state",
+      "title": "Atlantis falls creating the 'Deep' State",
+      "md_path": "events/ce-1907-atlantis-falls-creating-the-deep-state.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-the-pyramidal-empire-and-the-exodus",
+      "title": "The Pyramidal Empire and the Exodus",
+      "md_path": "events/ce-1907-the-pyramidal-empire-and-the-exodus.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-monotheism-set-back-by-crusades",
+      "title": "Monotheism set back by Crusades",
+      "md_path": "events/ce-1907-monotheism-set-back-by-crusades.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-monotheism-defeats-christianity",
+      "title": "Monotheism defeats Christianity",
+      "md_path": "events/ce-1907-monotheism-defeats-christianity.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-atlantean-empire-re-emerges",
+      "title": "Atlantean Empire re-emerges",
+      "md_path": "events/ce-1907-atlantean-empire-re-emerges.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-the-martian-heat-ray",
+      "title": "The Martian Heat Ray",
+      "md_path": "events/ce-1907-the-martian-heat-ray.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-martian-appearance",
+      "title": "Martian Appearance",
+      "md_path": "events/ce-1907-martian-appearance.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-travel-to-earth",
+      "title": "Travel to Earth",
+      "md_path": "events/ce-1907-travel-to-earth.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-maintaining-control-of-earth",
+      "title": "Maintaining Control of Earth",
+      "md_path": "events/ce-1907-maintaining-control-of-earth.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    },
+    {
+      "id": "evt-ce-1907-martian-tripod-incursions-in-earth-history",
+      "title": "Martian Tripod Incursions in Earth History",
+      "md_path": "events/ce-1907-martian-tripod-incursions-in-earth-history.md",
+      "dates": [
+        {
+          "value": 1907,
+          "calendar": "CE"
+        }
+      ],
+      "timeline_sources": [
+        "Mars"
+      ],
+      "context": {
+        "mainstream": false,
+        "theoretical": true
+      },
+      "priority": 3,
+      "categories": [],
+      "tags": [],
+      "section": "19th-century"
+    }
+  ],
+  "meta": {
+    "source": "refactor-sections.py"
+  },
+  "sections": [
+    {
+      "id": "before-creation",
+      "name": "Before Creation",
+      "era": "BCE",
+      "start": -5000,
+      "end": -4078,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Jno Cook",
+        "N. A. Morozov",
+        "Immanuel Velikovsky",
+        "David Talbott"
+      ]
+    },
+    {
+      "id": "golden-age",
+      "name": "The Golden Age",
+      "era": "BCE",
+      "start": -4077,
+      "end": -3148,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Jno Cook",
+        "N. A. Morozov",
+        "Immanuel Velikovsky",
+        "David Talbott"
+      ]
+    },
+    {
+      "id": "dark-ages",
+      "name": "The Dark Ages",
+      "era": "BCE",
+      "start": -3147,
+      "end": -687,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Jno Cook",
+        "N. A. Morozov",
+        "Immanuel Velikovsky",
+        "David Talbott"
+      ]
+    },
+    {
+      "id": "iron-age-blip",
+      "name": "Iron Age / The Blip",
+      "era": "BCE",
+      "start": -686,
+      "end": -1,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Jno Cook",
+        "N. A. Morozov",
+        "Immanuel Velikovsky",
+        "David Talbott"
+      ]
+    },
+    {
+      "id": "11th-century",
+      "name": "11th Century C.E. Common Era Begins",
+      "era": "CE",
+      "start": 1000,
+      "end": 1099,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "12th-century",
+      "name": "12th Century C.E. Birth of Christianity",
+      "era": "CE",
+      "start": 1100,
+      "end": 1199,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "13th-century",
+      "name": "13th Century C.E. Russian Horde Tartarian Empire",
+      "era": "CE",
+      "start": 1200,
+      "end": 1299,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "14th-century",
+      "name": "14th Century C.E. Mongol Slavic Rus-Horde Expansion",
+      "era": "CE",
+      "start": 1300,
+      "end": 1399,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "15th-century",
+      "name": "15th Century C.E. Ottoman Conquest of Europe",
+      "era": "CE",
+      "start": 1400,
+      "end": 1499,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "16th-century",
+      "name": "16th Century C.E. Reformation and Inquisition",
+      "era": "CE",
+      "start": 1500,
+      "end": 1599,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "17th-century",
+      "name": "17th Century C.E. Romanovs Rise to Power",
+      "era": "CE",
+      "start": 1600,
+      "end": 1699,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "18th-century",
+      "name": "18th Century C.E. MudFlood and Pugachev",
+      "era": "CE",
+      "start": 1700,
+      "end": 1799,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    },
+    {
+      "id": "19th-century",
+      "name": "19th Century C.E.",
+      "era": "CE",
+      "start": 1800,
+      "end": 1999,
+      "timeline_sources": [
+        "Saturnian Cosmology",
+        "Electric Universe Theory",
+        "Safire Project",
+        "Fomenko"
+      ]
+    }
+  ]
+}

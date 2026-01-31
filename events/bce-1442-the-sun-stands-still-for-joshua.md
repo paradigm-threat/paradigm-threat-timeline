@@ -1,0 +1,61 @@
+# 1442 B.C.E. The sun stands still for Joshua
+
+For another 50 years, the planet Venus appears as a Comet in Earth's sky, until it too becomes 'fully charged' by the
+Sun's energy, causing a violent flip in its polarity. This state transition which functions similarly
+to [atomic electron transition](https://en.wikipedia.org/wiki/Atomic_electron_transition)
+would force Venus into a nose-dive towards its final orbit around the Sun. During this transition, the Earth is subject
+to an incredibly strong _tilt_ in the Sun's magnetic current flow, which passes from pole to pole through the planet.
+This temporary tilt resulted in the appearance of the *Sun reversing its motion in the sky*, as recorded
+in [Joshua 10-13](http://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/JOSH+10.html#:~:text=On%20the%20day%20the).
+In [Worlds in Collision](https://books.google.com/books?id=FJst27kSVBgC&pg=PA376&lpg=PA376&dq=The+physical+effects+of+retardation+or+reversal+of+the+earth)
+Velikovsky explains how this might work:
+
+
+![Bayeux Tapestry: The Sun Stands Still for Joshua](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/sun_stands_still_joshua_bayeux.jpg?w=384)
+
+> The physical effects of retardation or reversal of the earth in its diurnal rotation are differently
+> evaluated by various scientists. Some express the opinion that a total destruction of the earth and
+> volatilization of its entire mass would follow such slowing down or stasis. They concede,
+> however, that destruction of such dimensions would not occur if the earth continued to rotate and
+> only its axis were tilted out of its position. This could be caused by the earth's passing through a
+> strong magnetic field at an angle to the earth's magnetic axis. A rotating steel top, when tilted by
+> a magnet, continues to rotate. Theoretically, the terrestrial axis could be tilted for a certain length
+> of time, and at any angle, and also in such a fashion that it would lie in the plane of the ecliptic.
+> In that case, one of the two hemispheres —the northern or the southern—would remain in
+> prolonged day, the other, in prolonged night.
+
+In the Biblical Narrative, Moses (Gas-Giant Jupiter) had a successor named Joshua (Planet Venus). With the "Death" of
+Moses, Joshua leads the fictional Israelites to Palestine. Joshua needs a decisive victory over the
+fictional [5 kings of Makkedah](https://rpmdaily.net/blog/the-5-kings-of-makkedah-5-in-the-series#:~:text=five%20kings).
+To accomplish this, Joshua speaks to an invisible "LORD" and requests his intervention in battle.
+[Joshua 10](https://biblehub.com/joshua/10-13.htm) of the KJV Bible states:
+
+> The day that the LORD gave the Amorites over to the Israelites, Joshua spoke to the LORD in the presence of Israel:
+> “O sun, stand still over Gibeon, O moon, over the Valley of Aijalon.”
+> And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies.
+> Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down
+> about a whole day.
+> There has been no day like it before or since, when the LORD listened to the voice of a man, because the LORD fought
+> for Israel
+
+
+The Sun's proximity to Venus calms the dragon's rage as the gas planet transforms back into spherical shape. The orbits
+of Mercury, Venus, Earth, Mars, and Jupiter are now becoming stable around the Sun. The memory of planet Venus as the
+Dragon or Comet [fades into myth](https://en.wikipedia.org/wiki/List_of_dragons_in_mythology_and_folklore). As expected,
+this story of natural cataclysm is then redacted into an epic fiction of _divine intervention_ in order to serve the
+purposes of the **Deep State**. However, to normal folk this event symbolizes something else entirely; the *end* of
+cataclysm; the Pantheon of Gods taking their leave to be replaced by the one "Lord", our Sun. As they became no
+longer visible, humanity would forget the planets
+and [polytheism would go into decline](https://en.wikipedia.org/wiki/Decline_of_Greco-Roman_polytheism). A great
+confusion would begin over the nature of Gods.
+[Velikovsky states](https://books.google.com/books?id=FJst27kSVBgC&pg=PA299):
+
+> With Macrobius in the fourth Christian century, there begins a tendency to see in many gods of
+> Egyptian and Greek antiquity the personification of the sun. Macrobius compared Osiris to the
+> sun, and Isis to the moon, disregarding the opinion of earlier authors. He also interpreted Jupiter
+> as the sun.
+> As the role the planets played in the history of the world retreated ever further into oblivion, the
+> interpretation of nature myths as referring to the sun or the moon became more and more
+> widespread.
+
+![Cathedrals are Cathodes](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/cathoderal.jpg?w=384)

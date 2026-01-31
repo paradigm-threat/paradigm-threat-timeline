@@ -1,0 +1,15 @@
+# Formation of the Deep State Pyramidal Empire
+
+The second time Jews appeared was in the Egyptian Pyramidal Empire.
+As [Sigmund Freud](https://academic.oup.com/fordham-scholarship-online/book/21978/chapter-abstract/182031483) (and
+others) pointed out, the *Jews of the Exodus* were the upper class, *not the slave class*. During the dark ages, the
+priest class ordered Pyramids built across the Earth forming a New Atlantis under God's Authority.
+
+However, no amount of human sacrifice or idol worship would stop what was coming next. Detached from the collinear
+configuration, each planet became subject to the influences of the Brown Dwarf Saturn. From Earth, humans watch as the
+other planets violently flip polarity and fall into the gaping mouth of Saturn.
+[Roman Mythology](https://www.getty.edu/art/collection/objects/1099/simon-hurtrelle-saturn-devouring-one-of-his-children-french-about-1700/)
+describes the [Titan Cronus](https://en.wikipedia.org/wiki/Cronus), seeing his rule threatened by his own children,
+begins to devour each until Jupiter (Zeus) intervenes.
+
+![The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/cosmic_thunderbolt.jpg?w=384)
