@@ -19,7 +19,7 @@ alwaysApply: true
 - Each event's `dates[]` array can have **multiple entries** for different chronology systems:
   ```json
   "dates": [
-    { "value": -3147, "calendar": "BCE", "source": "Saturnian/Jno Cook" },
+    { "start": -3147, "end": -687, "calendar": "BCE", "source": "Saturnian/Jno Cook" },
     { "value": -3760, "calendar": "BCE", "source": "Judaic" },
     { "value": -4004, "calendar": "BCE", "source": "Ussher/Masoretic" }
   ]

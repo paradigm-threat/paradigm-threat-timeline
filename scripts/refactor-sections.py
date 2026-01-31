@@ -2,9 +2,12 @@
 """
 Refactor events.json: add sections (BCE Option A + CE centuries), assign each event
 to a section, move duplicate timeline_sources to sections, keep per-event sources when different.
+Then run build-hierarchy to generate recursive hierarchy from source headers.
 """
 import json
 import os
+import subprocess
+import sys
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR = os.path.dirname(SCRIPT_DIR)
@@ -57,15 +60,29 @@ def main():
     events = data["events"]
     section_sources = {s["id"]: s["timeline_sources"] for s in SECTIONS}
 
+    section_by_id = {s["id"]: s for s in SECTIONS}
+
     for evt in events:
-        year = evt["dates"][0]["value"] if evt.get("dates") else 0
+        if not evt.get("dates"):
+            continue
+        d = evt["dates"][0]
+        year = d.get("start", d.get("value", 0))
+        if "value" in d:
+            d["start"] = d.pop("value")
         section_id = section_for_year(year)
         evt["section"] = section_id
+        sec = section_by_id.get(section_id)
+        for d in evt["dates"]:
+            if "value" in d:
+                d["start"] = d.pop("value")
+            if "end" not in d and sec:
+                d["end"] = sec["end"]
 
-        sources = evt.get("timeline_sources", [])
+        sources = evt.get("timeline_sources")
         default_sources = section_sources.get(section_id, CE_CHRONOLOGY_SOURCES)
-        if sources == default_sources:
-            del evt["timeline_sources"]
+        if sources is None or sources == default_sources or sources == []:
+            if "timeline_sources" in evt:
+                del evt["timeline_sources"]
         else:
             evt["timeline_sources"] = sources
 
@@ -81,6 +98,11 @@ def main():
         count = sum(1 for e in events if e.get("section") == s["id"])
         overrides = sum(1 for e in events if e.get("section") == s["id"] and "timeline_sources" in e)
         print(f"  {s['id']}: {count} events, {overrides} with per-event sources")
+
+    subprocess.run(
+        [sys.executable, os.path.join(SCRIPT_DIR, "build-hierarchy.py")],
+        check=True,
+    )
 
 
 if __name__ == "__main__":

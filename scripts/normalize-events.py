@@ -127,17 +127,17 @@ def main():
         title = evt["title"]
         if title in title_to_date:
             year, era = title_to_date[title]
-            evt["dates"] = [{"value": year, "calendar": era}]
+            evt["dates"] = [{"start": year, "calendar": era}]
         elif evt.get("dates"):
             d = evt["dates"][0]
-            year = d["value"]
+            year = d.get("start", d.get("value"))
             era = d.get("calendar", "CE" if year >= 0 else "BCE")
             title_to_date[title] = (year, era)
 
         evt["priority"] = title_to_priority.get(title, 3)
 
         if evt.get("dates"):
-            year_val = evt["dates"][0]["value"]
+            year_val = evt["dates"][0].get("start", evt["dates"][0].get("value"))
             is_bce = year_val < 0 or evt["dates"][0].get("calendar") == "BCE"
             if is_bce:
                 evt["timeline_sources"] = [
@@ -149,7 +149,7 @@ def main():
                 ]
 
         if evt.get("dates"):
-            year = evt["dates"][0]["value"]
+            year = evt["dates"][0].get("start", evt["dates"][0].get("value"))
             era = evt["dates"][0].get("calendar", "CE" if year >= 0 else "BCE")
             new_fname = make_filename(year, era, title)
         else:

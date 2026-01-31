@@ -155,7 +155,7 @@ def main():
                 "id": evt_id,
                 "title": title,
                 "md_path": f"events/{fname}",
-                "dates": [{"value": year, "calendar": "BCE" if year < 0 else "CE"}] if year is not None else [],
+                "dates": [{"start": year, "calendar": "BCE" if year < 0 else "CE"}] if year is not None else [],
                 "timeline_sources": (
                     ["Saturnian", "Jno Cook", "N. A. Morozov", "Immanuel Velikovsky", "David Talbott"]
                     if (year is not None and year < 0)
