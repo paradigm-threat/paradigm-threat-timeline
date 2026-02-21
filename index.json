@@ -440,160 +440,7 @@
     "_count": 2
   },
   "media": {
-    "11th-century-ce-common-era-begins": {
-      "11th_century_common_era_begins.png": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JYgCdAEQRLTLDqxAAPa5Fqb738KM2DY23gWqwXx3bl2eL0BQUEW8GZZD9iIWUAA="
-      },
-      "11th_century_deep_state_religion.png": {
-        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JQBOgCIOpbacKMAA/j/va4GTMvlXTtd8XW3BNjjqdId/RYL5OXiZZQAAAA=="
-      },
-      "11th_century_giants_write_books.png": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JZgCdADad6nwgAD+44LfiuY8YzhzPWI45r9AuPM1RfGyb8qq7X9CiJjSVBlR8AA="
-      },
-      "11th_century_sun_savior.png": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDE39G64AAAP5IuVNEWvqaEJFzKcsEQEJS6x69pOEgYY8JepMZJhagVgAAAA=="
-      },
-      "conjunction.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgAAxXeUKrDAAD+5l7p84ZFRoZcO32wZkwONB6NdYii8MQ0o9FPnMOSH8IP7EAAAA=="
-      },
-      "hairy_mary.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwABUB8JbACdAC4p66RkgAA/pTMmFq//IFBBTSxK4zfmmA8vZQIrBFhs0tVBdBIN4KlXhySiSDnhf/Wgj6OYlJRjWyzd8X9IIZQ0gAAAA=="
-      },
-      "troy_1st_jerusalem.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAA0ABUB8JZQAAqHtXeAA/rGhMLIwHBUYuyM6jdAn0aLVqetlBQAA"
-      },
-      "twelve_tribes_zodiac.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JZQCw7ED+WuTcAAA8kH5C7M02Cip6RVFCVZfUwlGghfhp8F1vug+/YeyM1VkUYAAAA=="
-      },
-      "_count": 8
-    },
-    "12th-century-ce-birth-of-christianity": {
-      "1185ce_crucifixion.png": {
-        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JYgCdACH/6E4AP7lvSemdJrAVNokdevHvM+GuDGYn0h1qYlZbAAA"
-      },
-      "1185ce_giant_crucifixion.png": {
-        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoQAAsABUB8JQBOgA/VAAD+wWcACzeGvCKsax5sXlhNOElf32s0X62eJllAAA=="
-      },
-      "1196_revenge_for_christ.png": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAsABUB8JagCdADwssiW01AAAP7ZqAz3EEMRR3VgutDFPxrFb4KDmzBGRCxN4FB22gAA"
-      },
-      "crucifixion_descent_tintoretto_1565.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAA0ABUB8JbACdADQ8lkUTHeAAP7s2fPCXzdTryLkfyVz914GM07M9XPXU1FsSFARuRrBA1LtzzwctxILS1UfRV8AAA=="
-      },
-      "giant_books.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAwABUB8JYgC7AD7BEKae0IAAPlsZdLnw5K2klgQo7mIerf0YyzwDvgC0CXtbnPhG6s4NBH+RjBR+U/pxrWX9wQKolqQq5iP4gAA"
-      },
-      "hans_bol_crucifixion_1587.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABwAQCdASoMABAABUB8JSvPplARYAD+6oBT4znIVl1ql4eUxeuXMw5YrZgEBRQAAAA="
-      },
-      "map_tartaria_hondius.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAoABUB8JZgCdADiAb6cQADXNb7d7kq0AqOlx/6OwoGnXrTGb5hgAAA="
-      },
-      "tomb_of_christ_and_brother.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAA4ABUB8JQAAXG6h0IJAAPy0IPcH2uErG//YDjDbOA6BDHD2DY5nedGo7U5X+sg6gAAA"
-      },
-      "_count": 8
-    },
-    "13th-century-ce-the-russian-horde-tartarian-empire": {
-      "1258ce_christ_dies.png": {
-        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAsABUB8JQBOgB0z42LYAP6Gsu8LTALH4b7jgzfgKi3KEJQy8Qs84KykGJGYAAA="
-      },
-      "1285_olympics.png": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JZgCdACRICQQAAD9s0CD0YSdC0bSM7ftCuKNQLG4VWznk4Wq5zdP5agVgAAA"
-      },
-      "israel_fake_history.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAAwABUB8JZQAAlti+GAA/t7fCrGyyhrWliA/i7DWXTlN0o9zIAAA"
-      },
-      "kremlin_2nd_jerusalem_boris_godunov.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQABAABUB8JZACdACotlUAAP6TL0PLhVqt+Jxibv8nXEx2fux6WcRXAAA="
-      },
-      "tartarian_empire_emerges_14th_century.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABwAQCdASoQAAwABUB8JaV/2AGIAAD+77RBWXXlmjGN5pmf7B6hHQRaBgAAAA=="
-      },
-      "troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAkABUB8JQBWAA5togAA91BwlZKrvAmEXrK1sE1QB8RWxsHlEGU2+mfTBemE/t1YgAAA"
-      },
-      "_count": 6
-    },
-    "14th-century-ce-great-expansion-of-the-mongol-slav": {
-      "1380ce_battle_of_kulikovo.png": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsABUB8JZACdAEWef71HwAA/h/FYL042kQ4PZCjIwSX9oqlvw9ng3XNpD0NqNycvEyygAA="
-      },
-      "black_death.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkABUB8JZQCdABhH38AAPAf4wNnft+z1zrzDYFwhWsdXHhl3BwGfGitW+YijAAAAA=="
-      },
-      "extraordinary_black_book.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAA0ABUB8JQBOgBjcU/fIAAD5Bjg6H6pUq0R58i4Ye2XAPDW4tp4IgtAMAA=="
-      },
-      "pompeii_painting.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
-      },
-      "_count": 4
-    },
-    "15th-century-ce-ottoman-conquest-of-europe": {
-      "apocalypse_b_west.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JYwCdAEekvgh3w8AAP4//BoMvso+37pEXceNky/W6IClYh6QykoylY8HXsAA"
-      },
-      "apocalypse_vasnetsov.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAgABUB8JYwAAZhPgpxAAP5hRzAJXGF9IFuRjXOQ4XRMuGo56tLfo6EjoDGi/dtuWm1t3i4AAA=="
-      },
-      "gutenberg_bible_1455.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JbACdACJQYAAAP4+HpoSHIAFj5YgYTCX0JN98N9TQyLPwLy+BBVcXDH3/hUAAAA="
-      },
-      "painting_joan_of_arc_stake.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoLABAABUB8JYwCdAD6J/G1LAyAAAD+gdp7FAYpTL4HlLIqT5syutoGD3HdeHxk03XZf1TIsZgcBRs44Mq5lptgAAA="
-      },
-      "painting_samson_and_delilah_by_rubens.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
-      },
-      "_count": 5
-    },
-    "16th-century-ce-reformation-and-inquisition": {
-      "cathar_suppression.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAA0ABUB8JYwCw7DC/iHUX4AA9dquuFILbKVKX4ZucFbKzbpdqq7hYBGSkCn3HpPyJ4oq+x1datKvXmX9Rg69ZCaDdflPTrkl1TcAAAA="
-      },
-      "galileo_facing_the_inquisition.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAwABUB8JQBOgBuu5HYiAADMkT9Oelv/1snPLwkmAiZGkfSNFzKjunSoV61X5TD09HOXapwAAA=="
-      },
-      "jews_vs_gentiles.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAwABUB8JQBOgCBX5Qma5F0AAOHfyxVez7giOW5Nq3oVy7JrFnlrOgh3sNRt5eHdyQAA"
-      },
-      "map_khazar_khagnate.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkABUB8JZAC7AD6/N+1eAD93vN1EzHlOPyUc5LKGlKTEENGLMRBAAA="
-      },
-      "oprichniki_bish.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JZACdAC8F2gAAP4xWy8P6jtV4BUD0Mq00taJB2sTwyZCoskBbeAVlCU8yDu/17sqgAAA"
-      },
-      "painting_german_peasant_war_1525.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JYgCdAEDfIdMZJEcAAD+l2njT9N7le66QZxNZkcGXIZ6eVzZsnsxrlA/lqAA"
-      },
-      "painting_ottoman_invades_vienna_1683.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
-      },
-      "_count": 7
-    },
-    "17th-century-romanovs-rise-to-power": {
-      "1652_massacre_of_polish_captives_at_batih.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAsABUB8JYwCdAEUlAsxDQAA/o+o0yRtXrZTuonqnb7NrYyQ5qNoAAA="
-      },
-      "eight_pointed_star_and_crescent.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoLABAABUB8JZQC7ADcD854IAD2a3a7JY+AN3EcZodv8u8UWEvEtW+c8gzE5T2lMPTSUON71QM25JXrrrUrnXLPzqt/39UrF53HTbuftYkAAA=="
-      },
-      "great_comet_of_1665.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAwABUB8JYwCdAD0jUB27gAA98lJz6DSCZiE0mEdb/Q+A/iOB+QZHoXQnAFAAAA="
-      },
-      "king_james_bible.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAgABUB8JZgCdADWFh3YAPcH6HLqWGH5IdzFhe3i9sgUAKS6XIXJZAAAAA=="
-      },
-      "_count": 4
-    },
-    "18th-century-ce-mudflood-and-pugachev": {
-      "_count": 0
-    },
-    "before-creation": {
-      "_count": 0
-    },
-    "overview": {
+    "00-overview": {
       "earth_was_saturns_moon2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBdgCIGVlZTAAD2AuFHcN1liqIilwYfYCL/OAQNkeQYrUttRMAA"
       },
@@ -602,7 +449,7 @@
       },
       "_count": 2
     },
-    "project-objective": {
+    "00-project-objective": {
       "brown_dwarf.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JaACdAEO9qV+wAD+6NFQq/JyKwSg8hmM/DduE1/e6j4gUKG1oAAA"
       },
@@ -617,25 +464,46 @@
       },
       "_count": 4
     },
-    "the-blip": {
-      "684bce_1053ce_blip.png": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JaACdAD51VPq7YAA/sGi8l1wtweZK7BByc81zFzPAePpIXVTkkzYreRP6L0CwQc5I2Zp1pbJeuviAAA="
-      },
-      "684bce_the_blip.png": {
-        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgCdADpuRf9YcAA/oPjXFZCygBiKMOX8tDNcAX0/dn+8faWwNIVUGNc/WVwfPb0gP0HlgFpOAAA"
-      },
-      "684bce_the_blip2.png": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JagCdABVCAAA/u6gs9wZ2Si9uC5avh9J289ADxpCxqZXdz1g+BEyyTZd/ic49RQ2gAAA"
-      },
-      "anatoly_fomenko.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAwABUB8JaQAAudFVh/BAAD+2WtEX/RNl+5lIgyhxcagXZSNvoAA"
-      },
-      "fomenko_new_chronology.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA=="
-      },
-      "_count": 5
+    "01-before-creation": {
+      "_count": 0
     },
-    "the-dark-ages": {
+    "02-the-golden-age": {
+      "atlantis_first_jerusalem.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAENvwcqpjAA/n413VUZLLxC+IPE/rnNAQA5Jy3fF16a8BQ85HSd1Z8WM4TChc9P5L8AAA=="
+      },
+      "cosmic_mountain.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAwABUB8JagCdAC768QAAM3r8sYGjaT80k6pkN+pTVfHPyzBMvWykB+nOgYo95TmuFQqSZAAAA=="
+      },
+      "golden_age_absu.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JaABTAAx4lSmmcEAAP6jd3CnC+vlcKelk6o7KwgxpANOEMVvNCLghgZYpXL/elAdP8SL2ahH9eTsSSZQAA=="
+      },
+      "golden_age_ends_kronos_devours.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwABUB8JbACdADpNZc5U8XYAP7p69fd2r9CATcpYNs9WDYAysVNxsSui9BUfbwLhW69hOXcpnHk23BBXh+30SXd+RcAAAA="
+      },
+      "golden_age_hieronimus_bosch.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkABUB8JbACsAD1ja4toAAA8mOcFCcWmqqfDIZo1T9kmmr4fcZE7ohC/i4a8OHS+AAA"
+      },
+      "golden_age_jacobs_ladder.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JbACdAEKClU4b4AA/K/GPJIiq2DXEMSz90MFq/v0qWCtyPJMeLI7PCMjuzcW0JAAAA=="
+      },
+      "norse_yggdrasil.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAwABUB8JZAC7H8AEebFedIAAP3/S4de1ipIUyOq+tptQVxYsxC2GIugRdAGPX97CUF1Zot0e1fcy96PoAAA"
+      },
+      "saturn_configuration_vortex.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoOABAABUB8JZQAAuRolaXUAAAA/u9Rp6zr1mng7LQLB6PpoGdPvXO9OM3oq/IBcafn3xACAAA="
+      },
+      "saturnian_configuration_north.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAA0ABUB8JZQAAVRkXRQAAP5+oOymG9Uc/hV2BWD2FvKSVhovZmpZNkQ12oSMIv0VRJprTPNbeA8vOgBr8j5geAA="
+      },
+      "saturnian_configuration_south.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAA0ABUB8JQBOgB9ix4IF3nwAAM4wnT74x4h2/ihktG7k8j5yangQKQ5dDgcnvCenRH2MKuQSeu0avm+frTIAAAA="
+      },
+      "wormhole.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUABUB8JZQAAxWmR2IAAP6N/VaFYxZNFySHYAA30wZJPdooSGZgAAA="
+      },
+      "_count": 11
+    },
+    "03-the-dark-ages": {
       "binding_of_isaac.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAwABUB8JZQAApMqoHXGAAD79A7VDtv+k1yBfiYExqfzxIw5zZ50iPxfaZR5BIg3zv2HXz6JrXhASj2LaCLgLxVddwLiAAA="
       },
@@ -692,41 +560,173 @@
       },
       "_count": 18
     },
-    "the-golden-age": {
-      "atlantis_first_jerusalem.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAENvwcqpjAA/n413VUZLLxC+IPE/rnNAQA5Jy3fF16a8BQ85HSd1Z8WM4TChc9P5L8AAA=="
+    "04-the-blip": {
+      "684bce_1053ce_blip.png": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JaACdAD51VPq7YAA/sGi8l1wtweZK7BByc81zFzPAePpIXVTkkzYreRP6L0CwQc5I2Zp1pbJeuviAAA="
       },
-      "cosmic_mountain.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAwABUB8JagCdAC768QAAM3r8sYGjaT80k6pkN+pTVfHPyzBMvWykB+nOgYo95TmuFQqSZAAAA=="
+      "684bce_the_blip.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgCdADpuRf9YcAA/oPjXFZCygBiKMOX8tDNcAX0/dn+8faWwNIVUGNc/WVwfPb0gP0HlgFpOAAA"
       },
-      "golden_age_absu.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JaABTAAx4lSmmcEAAP6jd3CnC+vlcKelk6o7KwgxpANOEMVvNCLghgZYpXL/elAdP8SL2ahH9eTsSSZQAA=="
+      "684bce_the_blip2.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JagCdABVCAAA/u6gs9wZ2Si9uC5avh9J289ADxpCxqZXdz1g+BEyyTZd/ic49RQ2gAAA"
       },
-      "golden_age_ends_kronos_devours.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwABUB8JbACdADpNZc5U8XYAP7p69fd2r9CATcpYNs9WDYAysVNxsSui9BUfbwLhW69hOXcpnHk23BBXh+30SXd+RcAAAA="
+      "anatoly_fomenko.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAwABUB8JaQAAudFVh/BAAD+2WtEX/RNl+5lIgyhxcagXZSNvoAA"
       },
-      "golden_age_hieronimus_bosch.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkABUB8JbACsAD1ja4toAAA8mOcFCcWmqqfDIZo1T9kmmr4fcZE7ohC/i4a8OHS+AAA"
+      "fomenko_new_chronology.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA=="
       },
-      "golden_age_jacobs_ladder.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JbACdAEKClU4b4AA/K/GPJIiq2DXEMSz90MFq/v0qWCtyPJMeLI7PCMjuzcW0JAAAA=="
+      "_count": 5
+    },
+    "05-11th-century-ce-common-era-begins": {
+      "11th_century_common_era_begins.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JYgCdAEQRLTLDqxAAPa5Fqb738KM2DY23gWqwXx3bl2eL0BQUEW8GZZD9iIWUAA="
       },
-      "norse_yggdrasil.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAwABUB8JZAC7H8AEebFedIAAP3/S4de1ipIUyOq+tptQVxYsxC2GIugRdAGPX97CUF1Zot0e1fcy96PoAAA"
+      "11th_century_deep_state_religion.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JQBOgCIOpbacKMAA/j/va4GTMvlXTtd8XW3BNjjqdId/RYL5OXiZZQAAAA=="
       },
-      "saturn_configuration_vortex.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoOABAABUB8JZQAAuRolaXUAAAA/u9Rp6zr1mng7LQLB6PpoGdPvXO9OM3oq/IBcafn3xACAAA="
+      "11th_century_giants_write_books.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JZgCdADad6nwgAD+44LfiuY8YzhzPWI45r9AuPM1RfGyb8qq7X9CiJjSVBlR8AA="
       },
-      "saturnian_configuration_north.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAA0ABUB8JZQAAVRkXRQAAP5+oOymG9Uc/hV2BWD2FvKSVhovZmpZNkQ12oSMIv0VRJprTPNbeA8vOgBr8j5geAA="
+      "11th_century_sun_savior.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDE39G64AAAP5IuVNEWvqaEJFzKcsEQEJS6x69pOEgYY8JepMZJhagVgAAAA=="
       },
-      "saturnian_configuration_south.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAA0ABUB8JQBOgB9ix4IF3nwAAM4wnT74x4h2/ihktG7k8j5yangQKQ5dDgcnvCenRH2MKuQSeu0avm+frTIAAAA="
+      "conjunction.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgAAxXeUKrDAAD+5l7p84ZFRoZcO32wZkwONB6NdYii8MQ0o9FPnMOSH8IP7EAAAA=="
       },
-      "wormhole.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUABUB8JZQAAxWmR2IAAP6N/VaFYxZNFySHYAA30wZJPdooSGZgAAA="
+      "hairy_mary.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwABUB8JbACdAC4p66RkgAA/pTMmFq//IFBBTSxK4zfmmA8vZQIrBFhs0tVBdBIN4KlXhySiSDnhf/Wgj6OYlJRjWyzd8X9IIZQ0gAAAA=="
       },
-      "_count": 11
+      "troy_1st_jerusalem.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAA0ABUB8JZQAAqHtXeAA/rGhMLIwHBUYuyM6jdAn0aLVqetlBQAA"
+      },
+      "twelve_tribes_zodiac.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JZQCw7ED+WuTcAAA8kH5C7M02Cip6RVFCVZfUwlGghfhp8F1vug+/YeyM1VkUYAAAA=="
+      },
+      "_count": 8
+    },
+    "06-12th-century-ce-birth-of-christianity": {
+      "1185ce_crucifixion.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JYgCdACH/6E4AP7lvSemdJrAVNokdevHvM+GuDGYn0h1qYlZbAAA"
+      },
+      "1185ce_giant_crucifixion.png": {
+        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoQAAsABUB8JQBOgA/VAAD+wWcACzeGvCKsax5sXlhNOElf32s0X62eJllAAA=="
+      },
+      "1196_revenge_for_christ.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAsABUB8JagCdADwssiW01AAAP7ZqAz3EEMRR3VgutDFPxrFb4KDmzBGRCxN4FB22gAA"
+      },
+      "crucifixion_descent_tintoretto_1565.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAA0ABUB8JbACdADQ8lkUTHeAAP7s2fPCXzdTryLkfyVz914GM07M9XPXU1FsSFARuRrBA1LtzzwctxILS1UfRV8AAA=="
+      },
+      "giant_books.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAwABUB8JYgC7AD7BEKae0IAAPlsZdLnw5K2klgQo7mIerf0YyzwDvgC0CXtbnPhG6s4NBH+RjBR+U/pxrWX9wQKolqQq5iP4gAA"
+      },
+      "hans_bol_crucifixion_1587.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABwAQCdASoMABAABUB8JSvPplARYAD+6oBT4znIVl1ql4eUxeuXMw5YrZgEBRQAAAA="
+      },
+      "map_tartaria_hondius.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAoABUB8JZgCdADiAb6cQADXNb7d7kq0AqOlx/6OwoGnXrTGb5hgAAA="
+      },
+      "tomb_of_christ_and_brother.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAA4ABUB8JQAAXG6h0IJAAPy0IPcH2uErG//YDjDbOA6BDHD2DY5nedGo7U5X+sg6gAAA"
+      },
+      "_count": 8
+    },
+    "07-13th-century-ce-the-russian-horde-tartarian-empire": {
+      "1258ce_christ_dies.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAsABUB8JQBOgB0z42LYAP6Gsu8LTALH4b7jgzfgKi3KEJQy8Qs84KykGJGYAAA="
+      },
+      "1285_olympics.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JZgCdACRICQQAAD9s0CD0YSdC0bSM7ftCuKNQLG4VWznk4Wq5zdP5agVgAAA"
+      },
+      "israel_fake_history.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAAwABUB8JZQAAlti+GAA/t7fCrGyyhrWliA/i7DWXTlN0o9zIAAA"
+      },
+      "kremlin_2nd_jerusalem_boris_godunov.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQABAABUB8JZACdACotlUAAP6TL0PLhVqt+Jxibv8nXEx2fux6WcRXAAA="
+      },
+      "tartarian_empire_emerges_14th_century.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABwAQCdASoQAAwABUB8JaV/2AGIAAD+77RBWXXlmjGN5pmf7B6hHQRaBgAAAA=="
+      },
+      "troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAkABUB8JQBWAA5togAA91BwlZKrvAmEXrK1sE1QB8RWxsHlEGU2+mfTBemE/t1YgAAA"
+      },
+      "_count": 6
+    },
+    "08-14th-century-ce-great-expansion-of-the-mongol-slav": {
+      "1380ce_battle_of_kulikovo.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsABUB8JZACdAEWef71HwAA/h/FYL042kQ4PZCjIwSX9oqlvw9ng3XNpD0NqNycvEyygAA="
+      },
+      "black_death.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkABUB8JZQCdABhH38AAPAf4wNnft+z1zrzDYFwhWsdXHhl3BwGfGitW+YijAAAAA=="
+      },
+      "extraordinary_black_book.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAA0ABUB8JQBOgBjcU/fIAAD5Bjg6H6pUq0R58i4Ye2XAPDW4tp4IgtAMAA=="
+      },
+      "pompeii_painting.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
+      },
+      "_count": 4
+    },
+    "09-15th-century-ce-ottoman-conquest-of-europe": {
+      "apocalypse_b_west.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JYwCdAEekvgh3w8AAP4//BoMvso+37pEXceNky/W6IClYh6QykoylY8HXsAA"
+      },
+      "apocalypse_vasnetsov.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAgABUB8JYwAAZhPgpxAAP5hRzAJXGF9IFuRjXOQ4XRMuGo56tLfo6EjoDGi/dtuWm1t3i4AAA=="
+      },
+      "gutenberg_bible_1455.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JbACdACJQYAAAP4+HpoSHIAFj5YgYTCX0JN98N9TQyLPwLy+BBVcXDH3/hUAAAA="
+      },
+      "painting_joan_of_arc_stake.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoLABAABUB8JYwCdAD6J/G1LAyAAAD+gdp7FAYpTL4HlLIqT5syutoGD3HdeHxk03XZf1TIsZgcBRs44Mq5lptgAAA="
+      },
+      "painting_samson_and_delilah_by_rubens.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
+      },
+      "_count": 5
+    },
+    "10-16th-century-ce-reformation-and-inquisition": {
+      "cathar_suppression.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAA0ABUB8JYwCw7DC/iHUX4AA9dquuFILbKVKX4ZucFbKzbpdqq7hYBGSkCn3HpPyJ4oq+x1datKvXmX9Rg69ZCaDdflPTrkl1TcAAAA="
+      },
+      "galileo_facing_the_inquisition.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAwABUB8JQBOgBuu5HYiAADMkT9Oelv/1snPLwkmAiZGkfSNFzKjunSoV61X5TD09HOXapwAAA=="
+      },
+      "jews_vs_gentiles.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAwABUB8JQBOgCBX5Qma5F0AAOHfyxVez7giOW5Nq3oVy7JrFnlrOgh3sNRt5eHdyQAA"
+      },
+      "map_khazar_khagnate.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkABUB8JZAC7AD6/N+1eAD93vN1EzHlOPyUc5LKGlKTEENGLMRBAAA="
+      },
+      "oprichniki_bish.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JZACdAC8F2gAAP4xWy8P6jtV4BUD0Mq00taJB2sTwyZCoskBbeAVlCU8yDu/17sqgAAA"
+      },
+      "painting_german_peasant_war_1525.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JYgCdAEDfIdMZJEcAAD+l2njT9N7le66QZxNZkcGXIZ6eVzZsnsxrlA/lqAA"
+      },
+      "painting_ottoman_invades_vienna_1683.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
+      },
+      "_count": 7
+    },
+    "11-17th-century-romanovs-rise-to-power": {
+      "1652_massacre_of_polish_captives_at_batih.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAsABUB8JYwCdAEUlAsxDQAA/o+o0yRtXrZTuonqnb7NrYyQ5qNoAAA="
+      },
+      "eight_pointed_star_and_crescent.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoLABAABUB8JZQC7ADcD854IAD2a3a7JY+AN3EcZodv8u8UWEvEtW+c8gzE5T2lMPTSUON71QM25JXrrrUrnXLPzqt/39UrF53HTbuftYkAAA=="
+      },
+      "great_comet_of_1665.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAwABUB8JYwCdAD0jUB27gAA98lJz6DSCZiE0mEdb/Q+A/iOB+QZHoXQnAFAAAA="
+      },
+      "king_james_bible.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAgABUB8JZgCdADWFh3YAPcH6HLqWGH5IdzFhe3i9sgUAKS6XIXJZAAAAA=="
+      },
+      "_count": 4
+    },
+    "12-18th-century-ce-mudflood-and-pugachev": {
+      "_count": 0
     },
     "_count": 82
   },
