@@ -4,26 +4,26 @@
       "id": "evt-before-creation",
       "title": "Before Creation",
       "type": "event",
-      "md_path": "events/bce-5000-before-creation.md",
+      "md_path": "content/01.000-before-creation.md",
       "children": [
         {
           "id": "evt-3-plasmoids-in-the-southern-hemisphere",
           "title": "3 Plasmoids in the Southern hemisphere",
           "type": "article",
-          "md_path": "articles/before-creation/3-plasmoids-in-the-southern-hemisphere.md",
+          "md_path": "content/01.020-3-plasmoids-in-the-southern-hemisphere.md",
           "children": []
         },
         {
           "id": "evt-spawning-of-the-first-life-forms",
           "title": "Spawning of the First Life Forms",
           "type": "article",
-          "md_path": "articles/before-creation/spawning-of-the-first-life-forms.md",
+          "md_path": "content/01.030-spawning-of-the-first-life-forms.md",
           "children": [
             {
               "id": "evt-scalar-energy-as-the-basis-of-creation",
               "title": "Scalar Energy as the basis of Creation",
               "type": "article",
-              "md_path": "articles/before-creation/scalar-energy-as-the-basis-of-creation.md",
+              "md_path": "content/01.010-scalar-energy-as-the-basis-of-creation.md",
               "children": []
             }
           ]
@@ -41,13 +41,13 @@
       "id": "evt-the-golden-age",
       "title": "The Golden Age",
       "type": "event",
-      "md_path": "events/bce-4077-the-golden-age.md",
+      "md_path": "content/02.000-the-golden-age.md",
       "children": [
         {
           "id": "evt-proto-saturn-joins-the-suns-orbit-and-lights-up",
           "title": "Proto-Saturn joins the Sun's orbit and lights up",
           "type": "event",
-          "md_path": "events/bce-4077-proto-saturn-joins-the-suns-orbit-and-lights-up.md",
+          "md_path": "content/02.010-proto-saturn-joins-the-suns-orbit-and-lights-up.md",
           "children": [],
           "dates": [
             {
@@ -61,70 +61,70 @@
           "id": "evt-the-length-of-a-year-was-225-days",
           "title": "The length of a year was 225 days",
           "type": "article",
-          "md_path": "articles/the-golden-age/the-length-of-a-year-was-225-days.md",
+          "md_path": "content/02.110-the-length-of-a-year-was-225-days.md",
           "children": []
         },
         {
           "id": "evt-saturns-collinear-planetary-configuration-the-tree",
           "title": "Saturn's Collinear Planetary Configuration - The Tree of Life",
           "type": "article",
-          "md_path": "articles/the-golden-age/saturns-collinear-planetary-configuration-the-tree-of-life.md",
+          "md_path": "content/02.050-saturns-collinear-planetary-configuration-the-tree-of-life.md",
           "children": []
         },
         {
           "id": "evt-the-absu-layers-surrounded-the-planets",
           "title": "The Absu layers surrounded the Planets",
           "type": "article",
-          "md_path": "articles/the-golden-age/the-absu-layers-surrounded-the-planets.md",
+          "md_path": "content/02.060-the-absu-layers-surrounded-the-planets.md",
           "children": []
         },
         {
           "id": "evt-all-planets-and-suns-are-hollow",
           "title": "All planets and suns are hollow",
           "type": "article",
-          "md_path": "articles/the-golden-age/all-planets-and-suns-are-hollow.md",
+          "md_path": "content/02.020-all-planets-and-suns-are-hollow.md",
           "children": []
         },
         {
           "id": "evt-northern-hemisphere-configuration",
           "title": "Northern Hemisphere Configuration",
           "type": "article",
-          "md_path": "articles/the-golden-age/northern-hemisphere-configuration.md",
+          "md_path": "content/02.030-northern-hemisphere-configuration.md",
           "children": []
         },
         {
           "id": "evt-southern-hemisphere-configuration",
           "title": "Southern Hemisphere Configuration",
           "type": "article",
-          "md_path": "articles/the-golden-age/southern-hemisphere-configuration.md",
+          "md_path": "content/02.040-southern-hemisphere-configuration.md",
           "children": []
         },
         {
           "id": "evt-atlantis-and-the-tree-of-knowledge",
           "title": "Atlantis and the Tree of Knowledge",
           "type": "article",
-          "md_path": "articles/the-golden-age/atlantis-and-the-tree-of-knowledge.md",
+          "md_path": "content/02.080-atlantis-and-the-tree-of-knowledge.md",
           "children": []
         },
         {
           "id": "evt-priori-mars-as-the-ladder-stairway-mountain-of-hea",
           "title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
           "type": "article",
-          "md_path": "articles/the-golden-age/priori-mars-as-the-ladder-stairway-mountain-of-heaven.md",
+          "md_path": "content/02.070-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md",
           "children": []
         },
         {
           "id": "evt-quantum-entanglement",
           "title": "Quantum Entanglement",
           "type": "article",
-          "md_path": "articles/the-golden-age/quantum-entanglement.md",
+          "md_path": "content/02.100-quantum-entanglement.md",
           "children": []
         },
         {
           "id": "evt-the-first-jews-of-atlantis-first-jerusalem",
           "title": "The First Jews of Atlantis (First Jerusalem)",
           "type": "article",
-          "md_path": "articles/the-golden-age/the-first-jews-of-atlantis-first-jerusalem.md",
+          "md_path": "content/02.090-the-first-jews-of-atlantis-first-jerusalem.md",
           "children": []
         }
       ],
@@ -140,13 +140,13 @@
       "id": "evt-the-dark-ages",
       "title": "The Dark Ages",
       "type": "event",
-      "md_path": "events/bce-3147-the-dark-ages.md",
+      "md_path": "content/03.000-the-dark-ages.md",
       "children": [
         {
           "id": "evt-the-golden-age-ends-violently",
           "title": "The Golden Age Ends Violently.",
           "type": "event",
-          "md_path": "events/bce-3147-the-golden-age-ends-violently.md",
+          "md_path": "content/03.010-the-golden-age-ends-violently.md",
           "children": [],
           "dates": [
             {
@@ -160,35 +160,35 @@
           "id": "evt-the-length-of-a-year-increases-by-an-additional-15",
           "title": "The length of a year increases by an additional 15 rotations per year to 240 days total.",
           "type": "article",
-          "md_path": "articles/the-dark-ages/the-length-of-a-year-increases-by-an-additional-15-rotations-per-year-to-240-day.md",
+          "md_path": "content/03.060-the-length-of-a-year-increases-by-an-additional-15-rotations-to-240-days.md",
           "children": []
         },
         {
           "id": "evt-the-great-deluge",
           "title": "The Great Deluge",
           "type": "article",
-          "md_path": "articles/the-dark-ages/the-great-deluge.md",
+          "md_path": "content/03.020-the-great-deluge.md",
           "children": []
         },
         {
           "id": "evt-humanity-was-then-cast-out-of-the-garden-of-eden",
           "title": "Humanity was then cast out of the Garden of Eden",
           "type": "article",
-          "md_path": "articles/the-dark-ages/humanity-was-then-cast-out-of-the-garden-of-eden.md",
+          "md_path": "content/03.030-humanity-was-then-cast-out-of-the-garden-of-eden.md",
           "children": []
         },
         {
           "id": "evt-formation-of-the-deep-state-pyramidal-empire",
           "title": "Formation of the Deep State Pyramidal Empire",
           "type": "article",
-          "md_path": "articles/the-dark-ages/formation-of-the-deep-state-pyramidal-empire.md",
+          "md_path": "content/03.230-formation-of-the-deep-state-pyramidal-empire.md",
           "children": []
         },
         {
           "id": "evt-the-planets-are-at-war",
           "title": "The Planets are at war.",
           "type": "event",
-          "md_path": "events/bce-3067-the-planets-are-at-war.md",
+          "md_path": "content/03.080-the-planets-are-at-war.md",
           "children": [],
           "dates": [
             {
@@ -202,20 +202,20 @@
           "id": "evt-all-planets-enter-a-stable-non-linear-orbit",
           "title": "All planets enter a stable non-linear orbit.",
           "type": "event",
-          "md_path": "events/bce-2860-all-planets-enter-a-stable-non-linear-orbit.md",
+          "md_path": "content/03.050-all-planets-enter-a-stable-non-linear-orbit.md",
           "children": [
             {
               "id": "evt-jupiter-replaces-saturn-as-the-new-saviour-aka-zeu",
               "title": "Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)",
               "type": "article",
-              "md_path": "articles/the-dark-ages/jupiter-replaces-saturn-as-the-new-saviour-aka-zeus-thor-king-arthur.md",
+              "md_path": "content/03.100-jupiter-replaces-saturn-as-the-new-saviour.md",
               "children": []
             },
             {
               "id": "evt-pyramids-were-portals",
               "title": "Pyramids were Portals",
               "type": "article",
-              "md_path": "articles/the-dark-ages/pyramids-were-portals.md",
+              "md_path": "content/03.220-pyramids-were-portals.md",
               "children": []
             }
           ],
@@ -231,13 +231,13 @@
           "id": "evt-september-8-jupiter-disappears-and-venus-attacks-e",
           "title": "September 8 - Jupiter disappears and Venus attacks Earth",
           "type": "event",
-          "md_path": "events/bce-2349-september-8-jupiter-disappears-and-venus-attacks-earth.md",
+          "md_path": "content/03.120-jupiter-disappears-and-venus-attacks-earth.md",
           "children": [
             {
               "id": "evt-the-length-of-a-year-increases-by-20-rotations-to-",
               "title": "The length of a year increases by 20 rotations to 260 days.",
               "type": "article",
-              "md_path": "articles/the-dark-ages/the-length-of-a-year-increases-by-20-rotations-to-260-days.md",
+              "md_path": "content/03.070-the-length-of-a-year-increases-by-20-rotations-to-260-days.md",
               "children": []
             }
           ],
@@ -253,13 +253,13 @@
           "id": "evt-earth-leaves-last-absu-layer-and-jupiter-consumes-",
           "title": "Earth leaves last Absu layer and Jupiter consumes Venus again",
           "type": "event",
-          "md_path": "events/bce-2193-earth-leaves-last-absu-layer-and-jupiter-consumes-venus-again.md",
+          "md_path": "content/03.110-earth-leaves-last-absu-layer-and-jupiter-consumes-venus-again.md",
           "children": [
             {
               "id": "evt-the-length-of-a-year-increases-by-13-rotations-to-",
               "title": "The length of a year increases by 13 rotations to 273 days.",
               "type": "article",
-              "md_path": "articles/the-dark-ages/the-length-of-a-year-increases-by-13-rotations-to-273-days.md",
+              "md_path": "content/03.140-the-length-of-a-year-increases-by-13-rotations-to-273-days.md",
               "children": []
             }
           ],
@@ -275,7 +275,7 @@
           "id": "evt-jupiter-catches-on-fire",
           "title": "Jupiter catches on fire",
           "type": "event",
-          "md_path": "events/bce-2167-jupiter-catches-on-fire.md",
+          "md_path": "content/03.090-jupiter-catches-on-fire.md",
           "children": [],
           "dates": [
             {
@@ -289,7 +289,7 @@
           "id": "evt-sodom-and-gomorrah-are-completely-destroyed-by-mar",
           "title": "Sodom and Gomorrah are completely destroyed by Mars.",
           "type": "event",
-          "md_path": "events/bce-1936-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
+          "md_path": "content/03.150-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
           "children": [],
           "dates": [
             {
@@ -303,20 +303,20 @@
           "id": "evt-the-passover-of-comet-venus-and-exodus-from-the-py",
           "title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire",
           "type": "event",
-          "md_path": "events/bce-1492-the-passover-of-comet-venus-and-exodus-from-the-pyramidal-empire.md",
+          "md_path": "content/03.170-the-passover-of-comet-venus-and-exodus.md",
           "children": [
             {
               "id": "evt-the-length-of-a-year-jumps-by-92-rotations-to-365-",
               "title": "The length of a year jumps by 92 rotations to 365 days",
               "type": "article",
-              "md_path": "articles/the-dark-ages/the-length-of-a-year-jumps-by-92-rotations-to-365-days.md",
+              "md_path": "content/03.200-the-length-of-a-year-jumps-by-92-rotations-to-365-days.md",
               "children": []
             },
             {
               "id": "evt-venus-replaces-jupiter-as-the-new-saviour-aka-josh",
               "title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)",
               "type": "article",
-              "md_path": "articles/the-dark-ages/venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
+              "md_path": "content/03.130-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
               "children": []
             }
           ],
@@ -332,7 +332,7 @@
           "id": "evt-the-sun-stands-still-for-joshua",
           "title": "The sun stands still for Joshua",
           "type": "event",
-          "md_path": "events/bce-1442-the-sun-stands-still-for-joshua.md",
+          "md_path": "content/03.180-the-sun-stands-still-for-joshua.md",
           "children": [],
           "dates": [
             {
@@ -346,7 +346,7 @@
           "id": "evt-mysterious-carbon-14-spike",
           "title": "mysterious carbon-14 spike",
           "type": "event",
-          "md_path": "events/bce-1063-mysterious-carbon-14-spike.md",
+          "md_path": "content/03.190-mysterious-carbon-14-spike.md",
           "children": [],
           "dates": [
             {
@@ -360,13 +360,13 @@
           "id": "evt-mars-earth-and-mercury-finalize-orbits",
           "title": "Mars, Earth and Mercury finalize orbits.",
           "type": "event",
-          "md_path": "events/bce-806-mars-earth-and-mercury-finalize-orbits.md",
+          "md_path": "content/03.250-mars-earth-and-mercury-finalize-orbits.md",
           "children": [
             {
               "id": "evt-mars-aka-prometheus-replaces-venus-as-the-new-savi",
               "title": "Mars (aka Prometheus) replaces Venus as the new Saviour",
               "type": "article",
-              "md_path": "articles/the-dark-ages/mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
+              "md_path": "content/03.160-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
               "children": []
             }
           ],
@@ -382,7 +382,7 @@
           "id": "evt-march-23-priori-mars-loses-its-outer-shell-iron-ag",
           "title": "March 23 - Priori-Mars loses its outer shell - Iron Age Begins",
           "type": "event",
-          "md_path": "events/bce-686-march-23-priori-mars-loses-its-outer-shell-iron-age-begins.md",
+          "md_path": "content/03.240-priori-mars-loses-its-outer-shell-iron-age-begins.md",
           "children": [],
           "dates": [
             {
@@ -396,20 +396,20 @@
           "id": "evt-solar-system-becomes-stable",
           "title": "Solar System becomes stable",
           "type": "event",
-          "md_path": "events/bce-684-solar-system-becomes-stable.md",
+          "md_path": "content/03.260-solar-system-becomes-stable.md",
           "children": [
             {
               "id": "evt-the-length-of-a-year-jumps-by-14th-of-a-rotation-t",
               "title": "The length of a year jumps by 1/4th of. a rotation to 365.25 days",
               "type": "article",
-              "md_path": "articles/the-dark-ages/the-length-of-a-year-jumps-by-14th-of-a-rotation-to-36525-days.md",
+              "md_path": "content/03.210-the-length-of-a-year-jumps-by-14th-of-a-rotation-to-36525-days.md",
               "children": []
             },
             {
               "id": "evt-how-many-lunar-months-are-in-a-year",
               "title": "How many Lunar Months are in a Year?",
               "type": "article",
-              "md_path": "articles/the-dark-ages/how-many-lunar-months-are-in-a-year.md",
+              "md_path": "content/03.040-how-many-lunar-months-are-in-a-year.md",
               "children": []
             }
           ],
@@ -434,13 +434,13 @@
       "id": "evt-the-blip-7th-century-bce-to-10th-century-ce-never-",
       "title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred",
       "type": "event",
-      "md_path": "events/bce-670-the-blip-7th-century-bce-to-10th-century-ce-never-occurred.md",
+      "md_path": "content/04.000-the-blip.md",
       "children": [
         {
           "id": "evt-building-the-new-chronology",
           "title": "Building the New Chronology",
           "type": "article",
-          "md_path": "events/bce-670-building-the-new-chronology.md",
+          "md_path": "content/04.010-building-the-new-chronology.md",
           "children": [],
           "dates": []
         }
@@ -457,13 +457,13 @@
       "id": "evt-11th-century-ce-common-era-begins",
       "title": "11th Century C.E. Common Era Begins",
       "type": "event",
-      "md_path": "events/ce-1053-11th-century-ce-common-era-begins.md",
+      "md_path": "content/05.000-11th-century-common-era-begins.md",
       "children": [
         {
           "id": "evt-year-of-our-lord-deception-1053-year-shift-forward",
           "title": "'Year of our Lord' Deception - 1053 Year Shift forward",
           "type": "event",
-          "md_path": "events/ce-1053-year-of-our-lord-deception-1053-year-shift-forward.md",
+          "md_path": "content/05.010-year-of-our-lord-deception-1053-year-shift-forward.md",
           "children": [],
           "dates": [
             {
@@ -477,14 +477,14 @@
           "id": "evt-the-sun-replaces-mars-as-the-new-saviour",
           "title": "The Sun replaces Mars as the new Saviour",
           "type": "article",
-          "md_path": "articles/11th-century-ce-common-era-begins/the-sun-replaces-mars-as-the-new-saviour.md",
+          "md_path": "content/05.030-the-sun-replaces-mars-as-the-new-saviour.md",
           "children": []
         },
         {
           "id": "evt-deep-state-centralize-world-religion-at-jerusalem",
           "title": "Deep State Centralize World Religion at Jerusalem",
           "type": "article",
-          "md_path": "articles/11th-century-ce-common-era-begins/deep-state-centralize-world-religion-at-jerusalem.md",
+          "md_path": "content/05.020-deep-state-centralize-world-religion-at-jerusalem.md",
           "children": []
         }
       ],
@@ -500,34 +500,34 @@
       "id": "evt-12th-century-ce-birth-of-christianity",
       "title": "12th Century C.E. Birth of Christianity",
       "type": "event",
-      "md_path": "events/ce-1100-12th-century-ce-birth-of-christianity.md",
+      "md_path": "content/06.000-12th-century-birth-of-christianity.md",
       "children": [
         {
           "id": "evt-the-naming-of-christ",
           "title": "The naming of Christ",
           "type": "article",
-          "md_path": "articles/12th-century-ce-birth-of-christianity/the-naming-of-christ.md",
+          "md_path": "content/06.020-the-naming-of-christ.md",
           "children": []
         },
         {
           "id": "evt-deep-state-eliminate-the-giants",
           "title": "Deep State Eliminate the Giants",
           "type": "article",
-          "md_path": "articles/12th-century-ce-birth-of-christianity/deep-state-eliminate-the-giants.md",
+          "md_path": "content/06.040-deep-state-eliminate-the-giants.md",
           "children": []
         },
         {
           "id": "evt-christs-family-flees-ahead-of-the-census",
           "title": "Christ's family flees ahead of the census",
           "type": "article",
-          "md_path": "articles/12th-century-ce-birth-of-christianity/christs-family-flees-ahead-of-the-census.md",
+          "md_path": "content/06.050-christs-family-flees-ahead-of-the-census.md",
           "children": []
         },
         {
           "id": "evt-historical-christ-is-born-in-_crimea_",
           "title": "Historical Christ is Born in _Crimea_",
           "type": "event",
-          "md_path": "events/ce-1152-historical-christ-is-born-in-_crimea_.md",
+          "md_path": "content/06.010-historical-christ-is-born-in-crimea.md",
           "children": [],
           "dates": [
             {
@@ -541,13 +541,13 @@
           "id": "evt-historical-christ-is-crucified-in-istanbul",
           "title": "Historical Christ is Crucified in Istanbul",
           "type": "event",
-          "md_path": "events/ce-1185-historical-christ-is-crucified-in-istanbul.md",
+          "md_path": "content/06.060-historical-christ-is-crucified-in-istanbul.md",
           "children": [
             {
               "id": "evt-death-and-alleged-resurrection",
               "title": "Death and Alleged Resurrection",
               "type": "article",
-              "md_path": "articles/12th-century-ce-birth-of-christianity/death-and-alleged-resurrection.md",
+              "md_path": "content/06.070-death-and-alleged-resurrection.md",
               "children": []
             }
           ],
@@ -563,20 +563,20 @@
           "id": "evt-the-revolution-survives-despite-christs-martyrdom",
           "title": "The Revolution survives despite Christ's Martyrdom",
           "type": "article",
-          "md_path": "articles/12th-century-ce-birth-of-christianity/the-revolution-survives-despite-christs-martyrdom.md",
+          "md_path": "content/06.080-the-revolution-survives-despite-christs-martyrdom.md",
           "children": []
         },
         {
           "id": "evt-first-crusade-begins-as-revenge-for-the-crucifixio",
           "title": "First Crusade begins as Revenge for the Crucifixion",
           "type": "event",
-          "md_path": "events/ce-1196-first-crusade-begins-as-revenge-for-the-crucifixion.md",
+          "md_path": "content/06.090-first-crusade-begins-as-revenge-for-the-crucifixion.md",
           "children": [
             {
               "id": "evt-the-first-great-war-between-giants-and-smaller-siz",
               "title": "The First great war between giants and smaller sized humans",
               "type": "article",
-              "md_path": "articles/12th-century-ce-birth-of-christianity/the-first-great-war-between-giants-and-smaller-sized-humans.md",
+              "md_path": "content/06.030-the-first-great-war-between-giants-and-smaller-sized-humans.md",
               "children": []
             }
           ],
@@ -601,13 +601,13 @@
       "id": "evt-13th-century-ce-the-russian-horde-tartarian-empire",
       "title": "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges",
       "type": "event",
-      "md_path": "events/ce-1200-13th-century-ce-the-russian-horde-tartarian-empire-emerges.md",
+      "md_path": "content/07.000-13th-century-russian-horde-tartarian-empire.md",
       "children": [
         {
           "id": "evt-capture-of-first-jerusalem",
           "title": "Capture of First Jerusalem",
           "type": "event",
-          "md_path": "events/ce-1204-capture-of-first-jerusalem.md",
+          "md_path": "content/07.010-capture-of-first-jerusalem.md",
           "children": [],
           "dates": [
             {
@@ -619,23 +619,23 @@
         },
         {
           "id": "evt-whom-are-the-israelites-in-history",
-          "title": "Whom are the \u201cIsraelites\u201d in history ?",
+          "title": "Whom are the “Israelites” in history ?",
           "type": "article",
-          "md_path": "articles/13th-century-ce-the-russian-horde-tartarian-empire/whom-are-the-israelites-in-history.md",
+          "md_path": "content/07.020-whom-are-the-israelites-in-history.md",
           "children": []
         },
         {
           "id": "evt-russian-empire-expands-through-conquest",
           "title": "Russian Empire expands through conquest",
           "type": "article",
-          "md_path": "articles/13th-century-ce-the-russian-horde-tartarian-empire/russian-empire-expands-through-conquest.md",
+          "md_path": "content/07.030-russian-empire-expands-through-conquest.md",
           "children": []
         },
         {
           "id": "evt-historical-christ-dies",
           "title": "Historical Christ dies",
           "type": "event",
-          "md_path": "events/ce-1258-historical-christ-dies.md",
+          "md_path": "content/07.040-historical-christ-dies.md",
           "children": [],
           "dates": [
             {
@@ -649,7 +649,7 @@
           "id": "evt-first-olympic-games",
           "title": "First Olympic Games",
           "type": "event",
-          "md_path": "events/ce-1285-first-olympic-games.md",
+          "md_path": "content/07.050-first-olympic-games.md",
           "children": [],
           "dates": [
             {
@@ -672,13 +672,13 @@
       "id": "evt-14th-century-ce-great-expansion-of-the-mongol-slav",
       "title": "14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire",
       "type": "event",
-      "md_path": "events/ce-1300-14th-century-ce-great-expansion-of-the-mongol-slavic-rus-horde-empire.md",
+      "md_path": "content/08.000-14th-century-great-expansion-of-the-mongol-slavic-horde.md",
       "children": [
         {
           "id": "evt-the-hundred-years-war-begins",
           "title": "The \"Hundred Years War\" begins",
           "type": "event",
-          "md_path": "events/ce-1337-the-hundred-years-war-begins.md",
+          "md_path": "content/08.020-the-hundred-years-war-begins.md",
           "children": [],
           "dates": [
             {
@@ -692,13 +692,13 @@
           "id": "evt-giants-are-defeated-at-the-battle-of-kulikovo",
           "title": "Giants are defeated at the Battle of Kulikovo",
           "type": "event",
-          "md_path": "events/ce-1380-giants-are-defeated-at-the-battle-of-kulikovo.md",
+          "md_path": "content/08.030-giants-are-defeated-at-the-battle-of-kulikovo.md",
           "children": [
             {
               "id": "evt-european-religious-schism-emerges",
               "title": "European Religious Schism Emerges",
               "type": "article",
-              "md_path": "articles/14th-century-ce-great-expansion-of-the-mongol-slav/european-religious-schism-emerges.md",
+              "md_path": "content/08.010-european-religious-schism-emerges.md",
               "children": []
             }
           ],
@@ -723,13 +723,13 @@
       "id": "evt-15th-century-ce-ottoman-conquest-of-europe",
       "title": "15th Century C.E. Ottoman Conquest of Europe.",
       "type": "event",
-      "md_path": "events/ce-1400-15th-century-ce-ottoman-conquest-of-europe.md",
+      "md_path": "content/09.000-15th-century-ottoman-conquest-of-europe.md",
       "children": [
         {
           "id": "evt-meteorite-star-metal-falls-on-yaroslavl",
           "title": "Meteorite (Star Metal) falls on Yaroslavl",
           "type": "event",
-          "md_path": "events/ce-1421-meteorite-star-metal-falls-on-yaroslavl.md",
+          "md_path": "content/09.010-meteorite-star-metal-falls-on-yaroslavl.md",
           "children": [],
           "dates": [
             {
@@ -743,7 +743,7 @@
           "id": "evt-jeanne-darc-is-executed-in-rouen-france",
           "title": "Jeanne d'Arc is executed in Rouen, France",
           "type": "event",
-          "md_path": "events/ce-1431-jeanne-darc-is-executed-in-rouen-france.md",
+          "md_path": "content/09.020-jeanne-darc-is-executed-in-rouen-france.md",
           "children": [],
           "dates": [
             {
@@ -757,13 +757,13 @@
           "id": "evt-hundred-years-war-ends",
           "title": "Hundred Year's War ends",
           "type": "event",
-          "md_path": "events/ce-1453-hundred-years-war-ends.md",
+          "md_path": "content/09.030-hundred-years-war-ends.md",
           "children": [
             {
               "id": "evt-deep-state-steals-russian-history",
               "title": "Deep State Steals Russian History",
               "type": "article",
-              "md_path": "articles/15th-century-ce-ottoman-conquest-of-europe/deep-state-steals-russian-history.md",
+              "md_path": "content/09.050-deep-state-steals-russian-history.md",
               "children": []
             }
           ],
@@ -779,27 +779,27 @@
           "id": "evt-bible-is-translated-into-latin",
           "title": "Bible is translated into Latin",
           "type": "event",
-          "md_path": "events/ce-1455-bible-is-translated-into-latin.md",
+          "md_path": "content/09.040-bible-is-translated-into-latin.md",
           "children": [
             {
               "id": "evt-latin-is-the-language-of-the-deep-state",
               "title": "Latin is the Language of the Deep State",
               "type": "article",
-              "md_path": "articles/15th-century-ce-ottoman-conquest-of-europe/latin-is-the-language-of-the-deep-state.md",
+              "md_path": "content/09.060-latin-is-the-language-of-the-deep-state.md",
               "children": []
             },
             {
               "id": "evt-deep-state-redacts-christianity-into-jesuit-cathol",
               "title": "Deep State redacts Christianity into Jesuit Catholicism",
               "type": "article",
-              "md_path": "articles/15th-century-ce-ottoman-conquest-of-europe/deep-state-redacts-christianity-into-jesuit-catholicism.md",
+              "md_path": "content/09.100-deep-state-redacts-christianity-into-jesuit-catholicism.md",
               "children": []
             },
             {
               "id": "evt-jesuits-convert-native-religions-to-monotheism",
               "title": "Jesuits convert native religions to Monotheism",
               "type": "article",
-              "md_path": "articles/15th-century-ce-ottoman-conquest-of-europe/jesuits-convert-native-religions-to-monotheism.md",
+              "md_path": "content/09.080-jesuits-convert-native-religions-to-monotheism.md",
               "children": []
             }
           ],
@@ -815,7 +815,7 @@
           "id": "evt-revelation-of-the-coming-apocalypse",
           "title": "Revelation of the coming Apocalypse",
           "type": "event",
-          "md_path": "events/ce-1486-revelation-of-the-coming-apocalypse.md",
+          "md_path": "content/09.070-revelation-of-the-coming-apocalypse.md",
           "children": [],
           "dates": [
             {
@@ -829,13 +829,13 @@
           "id": "evt-the-apocalypse-crusade-reverse-exodus",
           "title": "The Apocalypse Crusade & Reverse Exodus",
           "type": "event",
-          "md_path": "events/ce-1492-the-apocalypse-crusade-reverse-exodus.md",
+          "md_path": "content/09.090-the-apocalypse-crusade-reverse-exodus.md",
           "children": [
             {
               "id": "evt-jesuits-reach-america",
               "title": "Jesuits reach America",
               "type": "article",
-              "md_path": "articles/15th-century-ce-ottoman-conquest-of-europe/jesuits-reach-america.md",
+              "md_path": "content/09.110-jesuits-reach-america.md",
               "children": []
             }
           ],
@@ -860,13 +860,13 @@
       "id": "evt-16th-century-ce-reformation-and-inquisition",
       "title": "16th Century C.E. Reformation and Inquisition.",
       "type": "event",
-      "md_path": "events/ce-1500-16th-century-ce-reformation-and-inquisition.md",
+      "md_path": "content/10.000-16th-century-reformation-and-inquisition.md",
       "children": [
         {
           "id": "evt-protestant-reformation-begins",
           "title": "Protestant Reformation Begins",
           "type": "event",
-          "md_path": "events/ce-1517-protestant-reformation-begins.md",
+          "md_path": "content/10.010-protestant-reformation-begins.md",
           "children": [],
           "dates": [
             {
@@ -880,7 +880,7 @@
           "id": "evt-jesuits-make-pilgrimage-to-palestine",
           "title": "Jesuits make \"Pilgrimage\" to Palestine",
           "type": "event",
-          "md_path": "events/ce-1523-jesuits-make-pilgrimage-to-palestine.md",
+          "md_path": "content/10.030-jesuits-make-pilgrimage-to-palestine.md",
           "children": [],
           "dates": [
             {
@@ -894,20 +894,20 @@
           "id": "evt-the-holy-inquisition",
           "title": "The Holy Inquisition",
           "type": "event",
-          "md_path": "events/ce-1542-the-holy-inquisition.md",
+          "md_path": "content/10.040-the-holy-inquisition.md",
           "children": [
             {
               "id": "evt-heresy-of-the-judaizers",
               "title": "Heresy of the Judaizers",
               "type": "article",
-              "md_path": "articles/16th-century-ce-reformation-and-inquisition/heresy-of-the-judaizers.md",
+              "md_path": "content/10.020-heresy-of-the-judaizers.md",
               "children": []
             },
             {
               "id": "evt-cathar-suppression",
               "title": "Cathar Suppression",
               "type": "article",
-              "md_path": "articles/16th-century-ce-reformation-and-inquisition/cathar-suppression.md",
+              "md_path": "content/10.060-cathar-suppression.md",
               "children": []
             }
           ],
@@ -923,7 +923,7 @@
           "id": "evt-jesuits-reach-africa",
           "title": "Jesuits reach Africa",
           "type": "event",
-          "md_path": "events/ce-1548-jesuits-reach-africa.md",
+          "md_path": "content/10.050-jesuits-reach-africa.md",
           "children": [],
           "dates": [
             {
@@ -937,13 +937,13 @@
           "id": "evt-khazar-rebellion-in-the-russia-horde-empire",
           "title": "Khazar Rebellion in the Russia-Horde Empire",
           "type": "event",
-          "md_path": "events/ce-1552-khazar-rebellion-in-the-russia-horde-empire.md",
+          "md_path": "content/10.070-khazar-rebellion-in-the-russia-horde-empire.md",
           "children": [
             {
               "id": "evt-deep-state-eliminates-its-enemies",
               "title": "Deep State eliminates its enemies",
               "type": "article",
-              "md_path": "articles/16th-century-ce-reformation-and-inquisition/deep-state-eliminates-its-enemies.md",
+              "md_path": "content/10.090-deep-state-eliminates-its-enemies.md",
               "children": []
             }
           ],
@@ -959,13 +959,13 @@
           "id": "evt-romanov-dynasty-stages-the-oprichnina-coup",
           "title": "Romanov Dynasty stages \"The Oprichnina\" coup",
           "type": "event",
-          "md_path": "events/ce-1565-romanov-dynasty-stages-the-oprichnina-coup.md",
+          "md_path": "content/10.080-romanov-dynasty-stages-the-oprichnina-coup.md",
           "children": [
             {
               "id": "evt-redacted-into-the-books-of-esther-judith",
               "title": "Redacted into the Books of Esther / Judith",
               "type": "article",
-              "md_path": "articles/16th-century-ce-reformation-and-inquisition/redacted-into-the-books-of-esther-judith.md",
+              "md_path": "content/10.100-redacted-into-the-books-of-esther-judith.md",
               "children": []
             }
           ],
@@ -981,7 +981,7 @@
           "id": "evt-gregorian-calendar-makes-slight-adjustment-to-leng",
           "title": "Gregorian Calendar makes slight adjustment to length of a year",
           "type": "event",
-          "md_path": "events/ce-1582-gregorian-calendar-makes-slight-adjustment-to-length-of-a-year.md",
+          "md_path": "content/10.110-gregorian-calendar-makes-slight-adjustment-to-length-of-a-year.md",
           "children": [],
           "dates": [
             {
@@ -1004,13 +1004,13 @@
       "id": "evt-17th-century-romanovs-rise-to-power",
       "title": "17th Century-Romanovs Rise to power",
       "type": "event",
-      "md_path": "events/ce-1600-17th-century-romanovs-rise-to-power.md",
+      "md_path": "content/11.000-17th-century-romanovs-rise-to-power.md",
       "children": [
         {
           "id": "evt-king-james-version-of-the-bible-is-published",
           "title": "King James version of the Bible is published",
           "type": "event",
-          "md_path": "events/ce-1611-king-james-version-of-the-bible-is-published.md",
+          "md_path": "content/11.010-king-james-version-of-the-bible-is-published.md",
           "children": [],
           "dates": [
             {
@@ -1024,20 +1024,20 @@
           "id": "evt-romanovs-zakharyin-yurievs-dynasty-takes-the-thron",
           "title": "Romanovs-Zakharyin-Yurievs Dynasty takes the throne",
           "type": "event",
-          "md_path": "events/ce-1613-romanovs-zakharyin-yurievs-dynasty-takes-the-throne.md",
+          "md_path": "content/11.020-romanovs-dynasty-takes-the-throne.md",
           "children": [
             {
               "id": "evt-deep-state-breaks-up-the-hordian-empire",
               "title": "Deep State breaks up the Hordian Empire",
               "type": "article",
-              "md_path": "articles/17th-century-romanovs-rise-to-power/deep-state-breaks-up-the-hordian-empire.md",
+              "md_path": "content/11.220-deep-state-breaks-up-the-hordian-empire.md",
               "children": []
             },
             {
               "id": "evt-russia-and-turkey-begin-300-years-of-war",
               "title": "Russia and Turkey begin 300 years of war",
               "type": "event",
-              "md_path": "events/ce-300-russia-and-turkey-begin-300-years-of-war.md",
+              "md_path": "content/04.020-russia-and-turkey-begin-300-years-of-war.md",
               "children": [],
               "dates": [
                 {
@@ -1051,7 +1051,7 @@
               "id": "evt-cathars-are-annihilated-in-a-reversed-holy-crusade",
               "title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition",
               "type": "article",
-              "md_path": "articles/17th-century-romanovs-rise-to-power/cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md",
+              "md_path": "content/11.230-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md",
               "children": []
             }
           ],
@@ -1067,7 +1067,7 @@
           "id": "evt-deep-state-erases-russian-empire-from-all-chronolo",
           "title": "Deep State erases Russian Empire from all chronology",
           "type": "event",
-          "md_path": "events/ce-1627-deep-state-erases-russian-empire-from-all-chronology.md",
+          "md_path": "content/11.030-deep-state-erases-russian-empire-from-all-chronology.md",
           "children": [],
           "dates": [
             {
@@ -1081,7 +1081,7 @@
           "id": "evt-disputes-against-jews-reemerge",
           "title": "Disputes against Jews reemerge",
           "type": "event",
-          "md_path": "events/ce-1633-disputes-against-jews-reemerge.md",
+          "md_path": "content/11.040-disputes-against-jews-reemerge.md",
           "children": [],
           "dates": [
             {
@@ -1095,7 +1095,7 @@
           "id": "evt-ce-the-english-revolution-and-civil-wars",
           "title": "C.E. The English Revolution and Civil Wars",
           "type": "event",
-          "md_path": "events/ce-1660-ce-the-english-revolution-and-civil-wars.md",
+          "md_path": "content/11.070-the-english-revolution-and-civil-wars.md",
           "children": [],
           "dates": [
             {
@@ -1107,15 +1107,15 @@
         },
         {
           "id": "evt-cossackpolish-war-begins-ethnic-cleansing-of-russi",
-          "title": "Cossack\u2013Polish War begins ethnic cleansing of Russians in Ukraine",
+          "title": "Cossack–Polish War begins ethnic cleansing of Russians in Ukraine",
           "type": "event",
-          "md_path": "events/ce-1648-cossackpolish-war-begins-ethnic-cleansing-of-russians-in-ukraine.md",
+          "md_path": "content/11.050-cossackpolish-war-ethnic-cleansing-of-russians-in-ukraine.md",
           "children": [
             {
               "id": "evt-jesuits-missions-convert-asians-to-buddhism",
               "title": "Jesuits Missions convert Asians to Buddhism",
               "type": "article",
-              "md_path": "articles/17th-century-romanovs-rise-to-power/jesuits-missions-convert-asians-to-buddhism.md",
+              "md_path": "content/11.240-jesuits-missions-convert-asians-to-buddhism.md",
               "children": []
             }
           ],
@@ -1131,7 +1131,7 @@
           "id": "evt-ce-deep-state-targets-independent-banks",
           "title": "C.E. Deep State targets independent banks",
           "type": "event",
-          "md_path": "events/ce-1672-ce-deep-state-targets-independent-banks.md",
+          "md_path": "content/11.140-deep-state-targets-independent-banks.md",
           "children": [],
           "dates": [
             {
@@ -1145,13 +1145,13 @@
           "id": "evt-ce-rex-bellator-plan-unifies-all-military-orders",
           "title": "C.E. Rex Bellator plan unifies all military orders",
           "type": "event",
-          "md_path": "events/ce-1679-ce-rex-bellator-plan-unifies-all-military-orders.md",
+          "md_path": "content/11.180-rex-bellator-plan-unifies-all-military-orders.md",
           "children": [
             {
               "id": "evt-deep-state-plans-a-second-apocalypse-in-the-year-6",
-              "title": "Deep State plans a second Apocalypse in the year \u03b9666",
+              "title": "Deep State plans a second Apocalypse in the year ι666",
               "type": "article",
-              "md_path": "articles/17th-century-romanovs-rise-to-power/deep-state-plans-a-second-apocalypse-in-the-year-666.md",
+              "md_path": "content/11.120-deep-state-plans-a-second-apocalypse-in-the-year-666.md",
               "children": []
             }
           ],
@@ -1167,7 +1167,7 @@
           "id": "evt-the-great-comet-of-1664-1665",
           "title": "The Great Comet of 1664 / 1665",
           "type": "event",
-          "md_path": "events/ce-1664-the-great-comet-of-1664-1665.md",
+          "md_path": "content/11.080-the-great-comet-of-1664-1665.md",
           "children": [],
           "dates": [
             {
@@ -1187,184 +1187,169 @@
       ]
     },
     {
-      "id": "evt-todo-finish-17th-century-timeline",
-      "title": "TODO: Finish 17th century timeline",
+      "id": "evt-the-great-plague-of-1665",
+      "title": "The Great Plague of 1665",
       "type": "event",
-      "md_path": "events/ce-1600-todo-finish-17th-century-timeline.md",
-      "children": [
-        {
-          "id": "evt-the-great-plague-of-1665",
-          "title": "The Great Plague of 1665",
-          "type": "event",
-          "md_path": "events/ce-1665-the-great-plague-of-1665.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1665,
-              "end": 1665,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-sept-6-1666-ce-london-burns-to-the-ground",
-          "title": "Sept 6, 1666 C.E. London Burns to the ground",
-          "type": "event",
-          "md_path": "events/ce-1666-sept-6-1666-ce-london-burns-to-the-ground.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1666,
-              "end": 1666,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-byzantine-and-catalan-alliance",
-          "title": "Byzantine and Catalan alliance",
-          "type": "event",
-          "md_path": "events/ce-1666-byzantine-and-catalan-alliance.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1666,
-              "end": 1675,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-fall-of-the-avignon-powers",
-          "title": "Fall of the Avignon powers",
-          "type": "event",
-          "md_path": "events/ce-1651-fall-of-the-avignon-powers.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1651,
-              "end": 1672,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-disputes-against-jews-end-lasting-46-years",
-          "title": "Disputes against Jews end lasting 46 years",
-          "type": "event",
-          "md_path": "events/ce-1673-disputes-against-jews-end-lasting-46-years.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1673,
-              "end": 1679,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-messianic-jewish-begins",
-          "title": "Messianic Jewish begins",
-          "type": "event",
-          "md_path": "events/ce-1670-messianic-jewish-begins.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1670,
-              "end": 1670,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-the-order-of-the-temple-of-solomon-is-dismantled",
-          "title": "The Order of the Temple of Solomon is dismantled",
-          "type": "event",
-          "md_path": "events/ce-1677-the-order-of-the-temple-of-solomon-is-dismantled.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1677,
-              "end": 1682,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-the-almogavars-conquer-athens-and-neopatria",
-          "title": "The almogavars conquer Athens and Neopatria",
-          "type": "event",
-          "md_path": "events/ce-1681-the-almogavars-conquer-athens-and-neopatria.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1681,
-              "end": 1689,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-great-fight-in-the-heart-of-western-europe",
-          "title": "Great fight in the heart of Western Europe",
-          "type": "event",
-          "md_path": "events/ce-1677-great-fight-in-the-heart-of-western-europe.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1677,
-              "end": 1715,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-deep-state-solidifies-central-banking",
-          "title": "Deep State solidifies central banking",
-          "type": "event",
-          "md_path": "events/ce-1694-deep-state-solidifies-central-banking.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1694,
-              "end": 1694,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-last-sprinkling-of-absu-dust",
-          "title": "Last sprinkling of Absu dust.",
-          "type": "event",
-          "md_path": "events/ce-1700-last-sprinkling-of-absu-dust.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1700,
-              "end": 1700,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-secret-society-of-jesus-goes-public",
-          "title": "Secret Society of Jesus goes public",
-          "type": "event",
-          "md_path": "events/ce-1718-secret-society-of-jesus-goes-public.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1718,
-              "end": 1725,
-              "calendar": "CE"
-            }
-          ]
-        }
-      ],
+      "md_path": "content/11.090-the-great-plague-of-1665.md",
+      "children": [],
       "dates": [
         {
-          "start": 1600,
-          "end": 1699,
+          "start": 1665,
+          "end": 1665,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-sept-6-1666-ce-london-burns-to-the-ground",
+      "title": "Sept 6, 1666 C.E. London Burns to the ground",
+      "type": "event",
+      "md_path": "content/11.110-london-burns-to-the-ground.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1666,
+          "end": 1666,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-byzantine-and-catalan-alliance",
+      "title": "Byzantine and Catalan alliance",
+      "type": "event",
+      "md_path": "content/11.100-byzantine-and-catalan-alliance.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1666,
+          "end": 1675,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-fall-of-the-avignon-powers",
+      "title": "Fall of the Avignon powers",
+      "type": "event",
+      "md_path": "content/11.060-fall-of-the-avignon-powers.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1651,
+          "end": 1672,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-disputes-against-jews-end-lasting-46-years",
+      "title": "Disputes against Jews end lasting 46 years",
+      "type": "event",
+      "md_path": "content/11.150-disputes-against-jews-end-lasting-46-years.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1673,
+          "end": 1679,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-messianic-jewish-begins",
+      "title": "Messianic Jewish begins",
+      "type": "event",
+      "md_path": "content/11.130-messianic-jewish-begins.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1670,
+          "end": 1670,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-the-order-of-the-temple-of-solomon-is-dismantled",
+      "title": "The Order of the Temple of Solomon is dismantled",
+      "type": "event",
+      "md_path": "content/11.170-the-order-of-the-temple-of-solomon-is-dismantled.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1677,
+          "end": 1682,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-the-almogavars-conquer-athens-and-neopatria",
+      "title": "The almogavars conquer Athens and Neopatria",
+      "type": "event",
+      "md_path": "content/11.190-the-almogavars-conquer-athens-and-neopatria.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1681,
+          "end": 1689,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-great-fight-in-the-heart-of-western-europe",
+      "title": "Great fight in the heart of Western Europe",
+      "type": "event",
+      "md_path": "content/11.160-great-fight-in-the-heart-of-western-europe.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1677,
+          "end": 1715,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-deep-state-solidifies-central-banking",
+      "title": "Deep State solidifies central banking",
+      "type": "event",
+      "md_path": "content/11.200-deep-state-solidifies-central-banking.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1694,
+          "end": 1694,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-last-sprinkling-of-absu-dust",
+      "title": "Last sprinkling of Absu dust.",
+      "type": "event",
+      "md_path": "content/11.210-last-sprinkling-of-absu-dust.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1700,
+          "end": 1700,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-secret-society-of-jesus-goes-public",
+      "title": "Secret Society of Jesus goes public",
+      "type": "event",
+      "md_path": "content/11.250-secret-society-of-jesus-goes-public.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1718,
+          "end": 1725,
           "calendar": "CE"
         }
       ]
@@ -1373,7 +1358,7 @@
       "id": "evt-the-rebellion-of-pugachev",
       "title": "The Rebellion of Pugachev",
       "type": "event",
-      "md_path": "events/ce-1773-the-rebellion-of-pugachev.md",
+      "md_path": "content/11.260-the-rebellion-of-pugachev.md",
       "children": [],
       "dates": [
         {
@@ -1387,7 +1372,7 @@
       "id": "evt-the-mudflood-and-world-cataclysm",
       "title": "The MudFlood and World Cataclysm",
       "type": "event",
-      "md_path": "events/ce-1774-the-mudflood-and-world-cataclysm.md",
+      "md_path": "content/11.270-the-mudflood-and-world-cataclysm.md",
       "children": [],
       "dates": [
         {
@@ -1401,7 +1386,7 @@
       "id": "evt-napoleonic-wars",
       "title": "Napoleonic Wars",
       "type": "event",
-      "md_path": "events/ce-1803-napoleonic-wars.md",
+      "md_path": "content/11.280-napoleonic-wars.md",
       "children": [],
       "dates": [
         {
@@ -1415,13 +1400,13 @@
       "id": "evt-napoleon-invades-russia",
       "title": "Napoleon invades Russia",
       "type": "event",
-      "md_path": "events/ce-1812-napoleon-invades-russia.md",
+      "md_path": "content/11.290-napoleon-invades-russia.md",
       "children": [
         {
           "id": "evt-ecliptic-pathway-of-the-absu-last-seen",
           "title": "Ecliptic pathway of the Absu last seen.",
           "type": "event",
-          "md_path": "events/ce-1840-ecliptic-pathway-of-the-absu-last-seen.md",
+          "md_path": "content/11.300-ecliptic-pathway-of-the-absu-last-seen.md",
           "children": [],
           "dates": [
             {
@@ -1435,7 +1420,7 @@
           "id": "evt-tchaikovsky-releases-1812-overture",
           "title": "Tchaikovsky releases 1812 Overture",
           "type": "event",
-          "md_path": "events/ce-1880-tchaikovsky-releases-1812-overture.md",
+          "md_path": "content/11.310-tchaikovsky-releases-1812-overture.md",
           "children": [],
           "dates": [
             {
@@ -1458,14 +1443,7 @@
       "id": "evt-chronology-chat",
       "title": "Chronology Chat",
       "type": "article",
-      "md_path": "articles/chronology-chat/chronology-chat.md",
-      "children": []
-    },
-    {
-      "id": "evt-all-assets",
-      "title": "All Assets",
-      "type": "article",
-      "md_path": "articles/all-assets/all-assets.md",
+      "md_path": "content/00.030-chronology-chat.md",
       "children": []
     }
   ],
@@ -1473,32 +1451,32 @@
     {
       "id": "evt-intro",
       "title": "Introduction",
-      "md_path": "articles/overview/introduction.md"
+      "md_path": "content/00.010-introduction.md"
     },
     {
       "id": "evt-saturnian-cosmology-timeline-video",
       "title": "Saturnian Cosmology Timeline Video",
-      "md_path": "articles/saturnian-cosmology-timeline-video/saturnian-cosmology-timeline-video.md"
+      "md_path": "content/00.020-saturnian-cosmology-timeline-video.md"
     },
     {
       "id": "evt-project-objective",
       "title": "Project Objective",
-      "md_path": "articles/project-objective/project-objective.md"
+      "md_path": "content/00.040-project-objective.md"
     },
     {
       "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
       "title": "The length of a Year changes throughout Antiquity",
-      "md_path": "articles/project-objective/the-length-of-a-year-changes-throughout-antiquity.md"
+      "md_path": "content/00.050-the-length-of-a-year-changes-throughout-antiquity.md"
     },
     {
       "id": "evt-timeline-synchronization",
       "title": "Timeline synchronization",
-      "md_path": "articles/project-objective/timeline-synchronization.md"
+      "md_path": "content/00.060-timeline-synchronization.md"
     },
     {
       "id": "evt-cosmic-life-cycle",
       "title": "Cosmic Life Cycle",
-      "md_path": "articles/project-objective/cosmic-life-cycle.md"
+      "md_path": "content/00.070-cosmic-life-cycle.md"
     }
   ],
   "meta": {
