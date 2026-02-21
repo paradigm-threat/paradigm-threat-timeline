@@ -11,5 +11,5 @@ the gap between the inner circles expands, causing the planet to become [hollow]
 
 [Watch: What's Inside Jupiter?](https://www.youtube.com/watch?v=CvfFJiUWuDk)
 
-![Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/saturnian_configuration_north.jpg?w=384)
+![Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun](../../media/the-golden-age/saturnian_configuration_north.jpg)
 *From anywhere on the northern hemisphere of the Earth, one could look northwards and see in order: Mars, Venus, then the gas giant Saturn. Behind Saturn was the gas giant Jupiter, which was not yet visible. Behind Jupiter, at a 26.7 degree angle, was our Sun. All together, they form an unmistakable Star and crescent in the sky worshiped throughout the Persian, Roman, Byzantine, and Ottoman Empires, and throughout Islam today. This deity was known in Egypt as Osiris the *Triform God*, and as *The Trinity* in Babylonian and Abrahamic religion.*

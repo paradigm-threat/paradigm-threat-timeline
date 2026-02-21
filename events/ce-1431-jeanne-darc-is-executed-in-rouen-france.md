@@ -17,7 +17,7 @@ Siege of Orleans (October 1428 – 8 May 1429). Nevertheless, Jeanne d'Arc’s d
 army to give up the siege. It was clear this French maiden had a bewitching influence on the Hordian soldiers to such a
 degree that it threatened the entire war campaign.
 
-![Joan of Arc, Deborah, Samson - Scaligerian vs Fomenko reconstruction](https://clevertree.github.io/paradigm-threat-files/history/chronology/tartaria/painting_samson_and_delilah_by_rubens.jpg?w=384)
+![Joan of Arc, Deborah, Samson - Scaligerian vs Fomenko reconstruction](../media/15th-century-ce-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg)
 *When creating the Scaligerian history all of these large-scale campaigns were artificially 'squeezed' into the territory of one county in France, greatly reducing the scale of events. As a result some of the distant geographical names also 'moved' here. And the entire story of Joan of Arc turned into an allegedly 'purely French' story. Furthermore, it turns out that the famous French marshal Gilles de Rais, Joan of Arc's legendary comrade-in-arms, is partially described in the Bible under the name of Samson, the famous hero and warrior. This congruence is a result of the stories of Joan of Arc and the biblical Deborah overlapping each other. Marshal Gilles de Rais, French national hero, faced the Inquisition court and was burnt at the stake in the town of Nantes - one of the most infamous landmark cases 'on witchcraft'. All three storylines are directly connected with the activities of the Inquisition on the territory of France (in the Scaligerian geography).*
 
 

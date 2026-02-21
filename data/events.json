@@ -386,8 +386,8 @@
           "children": [],
           "dates": [
             {
-              "start": -686,
-              "end": -686,
+              "start": -670,
+              "end": -670,
               "calendar": "BCE"
             }
           ]
@@ -434,27 +434,21 @@
       "id": "evt-the-blip-7th-century-bce-to-10th-century-ce-never-",
       "title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred",
       "type": "event",
-      "md_path": "events/bce-686-the-blip-7th-century-bce-to-10th-century-ce-never-occurred.md",
+      "md_path": "events/bce-670-the-blip-7th-century-bce-to-10th-century-ce-never-occurred.md",
       "children": [
         {
           "id": "evt-building-the-new-chronology",
           "title": "Building the New Chronology",
-          "type": "event",
-          "md_path": "events/bce-686-building-the-new-chronology.md",
+          "type": "article",
+          "md_path": "events/bce-670-building-the-new-chronology.md",
           "children": [],
-          "dates": [
-            {
-              "start": -686,
-              "end": 999,
-              "calendar": "BCE"
-            }
-          ]
+          "dates": []
         }
       ],
       "dates": [
         {
-          "start": -686,
-          "end": 999,
+          "start": -670,
+          "end": 1053,
           "calendar": "BCE"
         }
       ]
@@ -463,7 +457,7 @@
       "id": "evt-11th-century-ce-common-era-begins",
       "title": "11th Century C.E. Common Era Begins",
       "type": "event",
-      "md_path": "events/ce-1000-11th-century-ce-common-era-begins.md",
+      "md_path": "events/ce-1053-11th-century-ce-common-era-begins.md",
       "children": [
         {
           "id": "evt-year-of-our-lord-deception-1053-year-shift-forward",

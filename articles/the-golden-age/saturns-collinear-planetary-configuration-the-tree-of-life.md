@@ -21,5 +21,5 @@ Talbott describes:
 > the primeval sun remained fixed in one place.
 
 
-![Golden Age Absu plasma layers surrounding the planets](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/golden_age_absu.jpg?w=384)
+![Golden Age Absu plasma layers surrounding the planets](../../media/the-golden-age/golden_age_absu.jpg)
 *During the Golden Age, the *Absu* plasma layers of [Proto-Saturn](https://www.plasmacosmology.net/myth.html) (also known as the [Firmament](https://en.wikipedia.org/wiki/Firmament) in the bible) surrounded the Planets.*

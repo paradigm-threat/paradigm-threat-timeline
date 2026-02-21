@@ -30,4 +30,4 @@ plasmoid bolt which travels for 11 days and strikes the Sun on the 25th. This ev
 Mesoamerica as the [Death of Quetzalcoatl](https://pages.ucsd.edu/~dkjordan/nahuatl/ReadingQuetzalcoatl.html). The
 planets were striking their final electromagnetic balance and fixing their orbits that we know today.
 
-![Christ as the Sun](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/christ_is_the_sun7.jpg?w=384)
+![Christ as the Sun](../media/the-dark-ages/christ_is_the_sun7.jpg)

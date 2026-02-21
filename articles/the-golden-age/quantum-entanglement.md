@@ -10,4 +10,4 @@ which [transported Ra between each planet](https://www.reddit.com/r/PastSaturnsR
 ,
 and it looks **a lot** like a modern day depiction of a "wormhole":
 
-![Egyptian Worm-Hole as depicted in egyptian mythology](https://clevertree.github.io/paradigm-threat-files/history/chronology/pyramids/wormhole.jpg?w=600)
+![Egyptian Worm-Hole as depicted in egyptian mythology](../../media/the-golden-age/wormhole.jpg)

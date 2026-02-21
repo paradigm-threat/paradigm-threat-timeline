@@ -11,7 +11,7 @@ In [Worlds in Collision](https://books.google.com/books?id=FJst27kSVBgC&pg=PA376
 Velikovsky explains how this might work:
 
 
-![Bayeux Tapestry: The Sun Stands Still for Joshua](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/sun_stands_still_joshua_bayeux.jpg?w=384)
+![Bayeux Tapestry: The Sun Stands Still for Joshua](../media/the-dark-ages/sun_stands_still_joshua_bayeux.jpg)
 
 > The physical effects of retardation or reversal of the earth in its diurnal rotation are differently
 > evaluated by various scientists. Some express the opinion that a total destruction of the earth and
@@ -58,4 +58,4 @@ confusion would begin over the nature of Gods.
 > interpretation of nature myths as referring to the sun or the moon became more and more
 > widespread.
 
-![Cathedrals are Cathodes](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/cathoderal.jpg?w=384)
+![Cathedrals are Cathodes](../media/the-dark-ages/cathoderal.jpg)

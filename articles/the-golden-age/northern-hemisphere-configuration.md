@@ -24,5 +24,5 @@ and appeared stretched out in many shapes and colors, none of which resembled a 
 makes eight *descents* to Earth creating the appearance of Osiris,
 the [Triform God](https://en.wikipedia.org/wiki/Triple_deity).
 
-![Muspelheim - the southern realm of fire in Norse cosmology](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/saturnian_configuration_south.jpg?w=384)
+![Muspelheim - the southern realm of fire in Norse cosmology](../../media/the-golden-age/saturnian_configuration_south.jpg)
 *Still there was before a world to the south which was called Muspelheim. It is light and hot, and so bright and dazzling that no stranger, who is not a native there, can stand it. This means darker-skinned humans who could 'stand the heat' came from high-energy realms like Mars, Mercury, or the southern end of the Earth. The fiery apparition of the Squatter Man figure in the south was recorded many times by many civilizations as the Phoenix, Burning Man or Wicker Man, and the myth of Quetzalcoatl.*

@@ -5,4 +5,4 @@ the Crusaders to convince the local population that their religious leaders did 
 8 years no Gods had shown up to end the war. Swift [vengeance](https://reviews.history.ac.uk/review/1118)
 was committed upon anyone associated with the Crucifixion of Christ.
 
-![Protected by Ares by Antonio Raffaele Calliano, 1815](https://clevertree.github.io/paradigm-threat-files/history/chronology/jerusalem/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg?w=384)
+![Protected by Ares by Antonio Raffaele Calliano, 1815](../media/13th-century-ce-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg)

@@ -1,6 +1,6 @@
 # Introduction
 
-![Tartarian neoclassical architecture exists world-wide](https://clevertree.github.io/paradigm-threat-files/history/chronology/tartaria/tartarian_structures.jpg?w=384)
+![Tartarian neoclassical architecture exists world-wide](../../media/overview/tartarian_structures.jpg)
 *This is evidence of a world-empire. The Rus-Horde 'Tartarian' Empire ruled over all continents between 12th and 18th centuries before its breakup in 1775.*
 
 
@@ -40,7 +40,7 @@ modern human history started less than a thousand years ago:
 > were a far eastern part of Siberian-American ([Rus-Horde](https://en.topwar.ru/92613-russko-ordynskaya-imperiya.html))
 > Empire prior to its disintegration in 1775.
 
-![Earth may have been a satellite of planet Saturn in primordial times](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/earth_was_saturns_moon2.jpg?w=384)
+![Earth may have been a satellite of planet Saturn in primordial times](../../media/overview/earth_was_saturns_moon2.jpg)
 
 In 1952, [Immanuel Velikovsky](https://en.wikipedia.org/wiki/Immanuel_Velikovsky) posited that 'ancient' history was
 also in need of a [major revision](https://en.wikipedia.org/wiki/Ages_in_Chaos). He used

@@ -26,4 +26,4 @@ discharge.
 > in a kind of electrical sputtering effect used in modern nanotechnology applications?<cite>[
 Thunderbolts.info](https://www.thunderbolts.info/wp/2013/10/06/electric-fossils-and-thundercrabs/)</cite>
 
-![Exodus from the Pyramidal Empire](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/exodus.jpg?w=384)
+![Exodus from the Pyramidal Empire](../media/the-dark-ages/exodus.jpg)

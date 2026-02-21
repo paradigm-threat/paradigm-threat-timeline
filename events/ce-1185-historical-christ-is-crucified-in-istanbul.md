@@ -8,4 +8,4 @@ designed to end the influence of Giants like Christ by allowing the smaller huma
 giants with impunity while they were bound to the crosses.
 
 
-![Painting by Tintoretto: The Descent from the Cross](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/crucifixion_descent_tintoretto_1565.jpg?w=384)
+![Painting by Tintoretto: The Descent from the Cross](../media/12th-century-ce-birth-of-christianity/crucifixion_descent_tintoretto_1565.jpg)

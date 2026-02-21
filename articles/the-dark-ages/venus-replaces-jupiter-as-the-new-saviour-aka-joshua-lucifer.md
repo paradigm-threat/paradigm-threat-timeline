@@ -10,7 +10,7 @@ planets like Mars would become stranded in those locations. Stranded on Mars, th
 focus towards survival and away from systemic control of Earth. It would be many hundreds of years before Martian
 influence would be felt on Earth again.
 
-![Venus as the Chinese Dragon / Comet](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/chinese_dragon.jpg?w=384)
+![Venus as the Chinese Dragon / Comet](../../media/the-dark-ages/chinese_dragon.jpg)
 
 The significance of the Exodus Event is not the moving of a population, but the 'exodus' from a slave empire into
 freedom. For loyal subjects of the Pyramidal Empire, this event was similar to the fall of Atlantis; the **Deep State**

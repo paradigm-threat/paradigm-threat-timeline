@@ -7,7 +7,7 @@
     "generate-index": "python3 scripts/generate-index.py",
     "validate-events": "python3 scripts/validate-events.py",
     "build-entries": "python3 scripts/build-entries.py",
-    "serve": "npx serve . -p 3011 --cors",
+    "dev": "npx serve . -p 3011 --cors",
     "prepare": "husky"
   },
   "devDependencies": {

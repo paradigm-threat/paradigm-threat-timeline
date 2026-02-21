@@ -16,5 +16,5 @@ the *beginning of modern history* - 1053 C.E. In other words, the age of catacly
 > And some things that should not have been forgotten were lost. History became legend. Legend became myth
 <cite>- [Galadriel](https://www.goodreads.com/quotes/376870-and-some-things-that-should-not-have-been-forgotten-were)</cite>
 
-![Fomenko's New Chronology - scientific coherence and empirical confirmation](https://clevertree.github.io/paradigm-threat-files/history/chronology/fomenko_new_chronology.jpg?w=384)
+![Fomenko's New Chronology - scientific coherence and empirical confirmation](../media/the-blip/fomenko_new_chronology.jpg)
 *Anatoly Fomenko's New Chronology complies with the most rigid scientific standards. It gives a coherent explanation of what we already know. Independent lines of inquiry all lead to the same conclusion. The predictions it makes are confirmed empirically.*

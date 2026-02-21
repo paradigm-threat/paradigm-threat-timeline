@@ -13,7 +13,7 @@ In an [alternate](https://en.wikipedia.org/wiki/Tomb_of_Jesus) version of the hi
 Jesus Christ did not die on the cross at Golgotha. Instead, his brother, Isukiri, took his place on the cross,
 while Jesus escaped across Siberia to Mutsu Province, in northern Japan. A sign reads:
 
-![Tomb of Christ in Shingō, Japan - Sawaguchi family residence](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/tomb_of_christ_and_brother.jpg?w=384)
+![Tomb of Christ in Shingō, Japan - Sawaguchi family residence](../../media/12th-century-ce-birth-of-christianity/tomb_of_christ_and_brother.jpg)
 *Shingō is the location of what is purported to be the resting place of Jesus, the "Tomb of Christ" (Kirisuto no haka), and the residence of Jesus' descendants, the Sawaguchi family.*
 
 > When Jesus Christ was 21 years old, he came to Japan and pursued knowledge of divinity for 12 years.

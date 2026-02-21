@@ -15,4 +15,4 @@ assumption that the historical Christ must have been born (or even died) around 
 > -<cite>[ History: Fiction or Science?](https://chronologia.org/en/seven/2N021a-EN.pdf)</cite>
 
 
-![12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/twelve_tribes_zodiac.jpg?w=384)
+![12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac](../media/11th-century-ce-common-era-begins/twelve_tribes_zodiac.jpg)

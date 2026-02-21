@@ -138,6 +138,21 @@ Given that [indigenous records worldwide were deliberately redacted](https://www
 
 ---
 
+## Additional creation/era dates (cited in timeline-synchronization)
+
+The article [timeline-synchronization.md](../articles/project-objective/timeline-synchronization.md) includes the following creation or era dates from other traditions, cited here for reference. These are *not* part of the Jno Cook validation above.
+
+| Date / era | Tradition | Cited source |
+|------------|-----------|--------------|
+| August 11, 3114 B.C. | Maya (Long Count) | [Mesoamerican Long Count calendar](https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar) (Wikipedia); GMT correlation. |
+| 3102 B.C. (Feb 17/18) | Hindu (Kali Yuga) | [Kali Yuga](https://en.wikipedia.org/wiki/Kali_Yuga) (Wikipedia); Puranic tradition. |
+| c. 3000 B.C. | Egyptian (unification / Early Dynastic) | [Egyptian chronology](https://en.wikipedia.org/wiki/Egyptian_chronology) (Wikipedia); dates before 664 B.C. approximate. |
+| c. 2070 B.C. | Chinese (Xia dynasty) | [Xia–Shang–Zhou Chronology Project](https://en.wikipedia.org/wiki/Xia%E2%80%93Shang%E2%80%93Zhou_Chronology_Project), [Timeline of Chinese history](https://en.wikipedia.org/wiki/Timeline_of_Chinese_history) (Wikipedia). |
+| No single year | Sumerian / Mesopotamian | [Eridu Genesis](https://en.wikipedia.org/wiki/Eridu_Genesis), [Sumerian creation myth](https://en.wikipedia.org/wiki/Sumerian_creation_myth) (Wikipedia); written tradition c. 1600 B.C. |
+| Epoch varies | Zoroastrian | [Zoroastrian calendar](https://en.wikipedia.org/wiki/Zoroastrian_calendar) (Wikipedia); Shenshai, Fasli, Kadmi. |
+
+---
+
 ## Next Steps
 
 1. [ ] Track down Jno Cook's exact sources for 5969, 5872, 4700, 3491.

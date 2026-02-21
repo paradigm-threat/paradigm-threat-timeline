@@ -23,5 +23,5 @@ goldsmiths were ruined, and as many as ten thousand families were *financially e
 successfully mitigated the threat of independent banking and would now be able to establish a new *centralized* banking
 system (finalized by 1694).
 
-![Inter-religious dispute Judaism-Christianity 1633-1725](https://clevertree.github.io/paradigm-threat-files/history/chronology/fomenko_timeline_1633_1725.gif?w=384)
+![Inter-religious dispute Judaism-Christianity 1633-1725](../media/17th-century-romanovs-rise-to-power/fomenko_timeline_1633_1725.gif)
 *[Inter-religious dispute Judaism-Christianity (1633-1725)](https://chronologia.org/en/marfull_the_chronological_way/inter-religios_disputes.html). Summing up, according to this basic reconstruction, the Catalan affinity with the Jewish one is better understood, and the hostile vision of the Holy Inquisition, Castilian and Bourbon. But other issues of greater significance are understood. After the Barcelona Dispute, the Order of Saint Jerome was created, whose mission is to write the Bible in Latin, and with it the historical character of Jesus is built. Then (not before), Ramon Llull conceived the Rex Bellator project, with the Catalan, Italian and Roman authority, which ended up rebuilding the Order of the Temple of Solomon in the form of the Order of Saint John the Baptist, with which the European colonizer project began.*

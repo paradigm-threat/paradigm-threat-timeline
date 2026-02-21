@@ -34,7 +34,6 @@ SECTIONS_AS_EVENTS = frozenset({
     "16th Century C.E. Reformation and Inquisition.",
     "17th Century-Romanovs Rise to power", "18th Century C.E. MudFlood and Pugachev",
     "19th Century C.E.", "TODO: Finish 17th century timeline",
-    "Building the New Chronology",
 })
 
 # Era name -> (start, end) for date inference when header has no explicit date
@@ -45,8 +44,8 @@ ERA_RANGES = {
     "Before Creation": (-5000, -4078),
     "The Golden Age": (-4077, -3148),
     "The Dark Ages": (-3147, -687),
-    "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred": (-686, 999),
-    "11th Century C.E. Common Era Begins": (1000, 1099),
+    "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred": (-670, 1053),
+    "11th Century C.E. Common Era Begins": (1053, 1099),
     "12th Century C.E. Birth of Christianity": (1100, 1199),
     "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges": (1200, 1299),
     "14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire": (1300, 1399),

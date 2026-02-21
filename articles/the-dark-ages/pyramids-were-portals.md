@@ -11,4 +11,4 @@ are [man-made quantum tunnels](https://www.reddit.com/r/PastSaturnsRings/comment
 built at locations of concentrated cosmic energy (entanglements) between planets.
 
 
-![Planet Venus's Terrible Aspect remembered as **Medusa**](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/planet_venus_as_medusa.jpg?w=384)
+![Planet Venus's Terrible Aspect remembered as **Medusa**](../../media/the-dark-ages/planet_venus_as_medusa.jpg)

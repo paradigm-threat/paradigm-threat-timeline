@@ -20,8 +20,8 @@ Since all information on the old Gods were kept secret in Jerusalem archives, th
 them. The stories fell into mythology, replaced by new stories of the Sun traversing the seasons, which later became
 the [farmer's almanac](https://en.wikipedia.org/wiki/Almanac).
 
-![Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/hairy_mary.jpg?w=384)
+![Hairy Mary - painting of Christ's hairy giant mother from Body and Soul exhibit](../../media/11th-century-ce-common-era-begins/hairy_mary.jpg)
 *Christ was a hairy human giant. Here is a painting of his hairy giant mother from the Body and Soul exhibit in Italy. "I went to see the exhibition 'Body and Soul: Sculpture in Italy from Donatello to Michelangelo,' and this was the first I had ever heard of the miraculous body hair of Mary Magdalene! I mean, what? I guess Christians already knew about this? That she's supposed to have lived in the desert until her clothes crumbled away, then her own body hair miraculously grew to clothe her? Why hasn't this found its way into a short story I've read? Did everyone just know this already?" — [@summerbrennan](https://twitter.com/summerbrennan/status/1406610171934224386)*
 
-![Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/conjunction.jpg?w=384)
+![Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary](../../media/11th-century-ce-common-era-begins/conjunction.jpg)
 *Jupiter and Saturn aligned as the Star of Bethlehem on December 21, 2020, marking the 840-Year Anniversary of the Crucifixion in Constantinople of Andronicus-Christ of the Crimea.*

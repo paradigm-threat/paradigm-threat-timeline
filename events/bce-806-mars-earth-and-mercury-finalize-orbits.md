@@ -29,4 +29,4 @@ describes the Greek myth:
 > chains, where a vulture tore at his flesh all day, with no rest,
 > no sleep and no respite.
 
-![Prometheus was the planet Mars](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/prometheus.jpg?w=384)
+![Prometheus was the planet Mars](../media/the-dark-ages/prometheus.jpg)

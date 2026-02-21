@@ -19,4 +19,4 @@ into war,
 [re-educate](http://www.legendsandchronicles.com/ancient-civilizations/ancient-egypt/ancient-egyptian-education/) them,
 or sell them into [slavery](https://en.wikipedia.org/wiki/Slavery_in_ancient_Egypt#Bonded_laborers).
 
-![Pyramids built around the world in ancient and modern times](https://clevertree.github.io/paradigm-threat-files/history/chronology/pyramids/pyramids_around_the_world.jpg?w=384)
+![Pyramids built around the world in ancient and modern times](../../media/the-dark-ages/pyramids_around_the_world.jpg)

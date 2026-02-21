@@ -10,5 +10,5 @@ repopulates beginning the [Middle Kingdom](https://en.wikipedia.org/wiki/Middle_
 becomes exposed to the Sun's field, it retreats into the safety of Jupiter's magnetosphere, and becomes once again
 _consumed into the Gas Giant's interior_.
 
-![Venus and Mars battle in the Earth's sky - William Blake and Botticelli](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/venus_and_mars.jpg?w=384)
+![Venus and Mars battle in the Earth's sky - William Blake and Botticelli](../media/the-dark-ages/venus_and_mars.jpg)
 *Venus and Mars battle in the Earth's Sky depicted in old paintings: 'Great Red Dragon and The Woman Clothed with the Sun' by William Blake, 'The Birth of Venus' and 'Mars and Venus' by Sandro Botticelli.*

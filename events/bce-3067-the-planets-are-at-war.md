@@ -20,4 +20,4 @@ or Weltumspanner, as it “Stretched-around-the-Earth” and ate its own tail. M
 visiting Earth as [Horus](https://www.ancient.eu/Horus/)
 10 times over the next 300 years.
 
-![Planets and The Narnia Chronicles](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/planet_narnia.jpg?w=384)
+![Planets and The Narnia Chronicles](../media/the-dark-ages/planet_narnia.jpg)

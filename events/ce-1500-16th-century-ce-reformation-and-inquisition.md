@@ -1,6 +1,6 @@
 # 16th Century C.E. Reformation and Inquisition.
 
-![Ottoman Army surrounds Vienna - Frans Geffels](https://clevertree.github.io/paradigm-threat-files/history/chronology/tartaria/painting_ottoman_invades_vienna_1683.jpg?w=384)
+![Ottoman Army surrounds Vienna - Frans Geffels](../media/16th-century-ce-reformation-and-inquisition/painting_ottoman_invades_vienna_1683.jpg)
 *The Ottoman Army surrounds Vienna by Frans Geffels. The Ottoman Conquest – the 'second wave' carried an entirely different ideology from the 'first wave'. If the 'Mongols' = the magnificent ones of the XIII-XIV cc. created the 'antique classicism', then the 'Mongols'-Ottomans (Atamans) of the second wave of the XV century were destroying it. They considered that it was the liberal behavior of the Europeans of the XIII-XIV cc. which led to the mass infectious diseases. Including venereal ones, as the bacchanalian festivities emerged and flourished during the 'antique classicism'. The Ataman (Ottoman) spirit of Cossacks once again, for the second time, emerging from Russia-Horde was more ascetic and austere. Eventually the ideology of modern Islam grew out of it. Extremely severe and chaste.*
 
 
@@ -25,5 +25,5 @@ control Egypt, as both sides of the war had ancestral ties to the biblical locat
 *share* control over Egypt between dynastic ties of the east and west, which in effect meant that Egypt fell 100 % under
 Deep State control therefrom.
 
-![German Peasant's War 1525](https://clevertree.github.io/paradigm-threat-files/history/chronology/reformation/painting_german_peasant_war_1525.jpg?w=384)
+![German Peasant's War 1525](../media/16th-century-ce-reformation-and-inquisition/painting_german_peasant_war_1525.jpg)
 ***The German Peasant's War (1525).*** Resistance to the Empire led to one of the largest popular rebellions in early modern Europe, with rebel armies made up of as many as 40,000 in some areas. The violent actions of the peasants were met with violent condemnation by Luther in print, while harsh suppression by the authorities meant that tens of thousands lost their lives in the rebellion's aftermath.*

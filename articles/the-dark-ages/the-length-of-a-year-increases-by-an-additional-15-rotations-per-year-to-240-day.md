@@ -16,4 +16,4 @@ together they would appear as a radiant throne in the sky.
 > —<cite>[Revelation 6:12-17](https://www.bibleref.com/Revelation/6/Revelation-6-12.html)</cite>
 
 
-![The Golden Age ends in a Great Deluge](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/golden_age_ends_great_deluge.jpg?w=384)
+![The Golden Age ends in a Great Deluge](../../media/the-dark-ages/golden_age_ends_great_deluge.jpg)

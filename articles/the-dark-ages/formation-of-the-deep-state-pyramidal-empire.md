@@ -12,4 +12,4 @@ other planets violently flip polarity and fall into the gaping mouth of Saturn.
 describes the [Titan Cronus](https://en.wikipedia.org/wiki/Cronus), seeing his rule threatened by his own children,
 begins to devour each until Jupiter (Zeus) intervenes.
 
-![The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/cosmic_thunderbolt.jpg?w=384)
+![The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies](../../media/the-dark-ages/cosmic_thunderbolt.jpg)

@@ -11,4 +11,4 @@ In [Egyptian Myth and Catastrophism](http://firmament-chaos.com/papers/Egyptiana
 > its normal rotation about the North Pole, at which position the Norse lands would be much farther
 > from the equator than when priori-Mars orbited the Earth.
 
-![Jupiter was remembered as the Burning Bush on top of Mount Sinai](https://clevertree.github.io/paradigm-threat-files/history/chronology/saturn/mount_sinai.jpg?w=384)
+![Jupiter was remembered as the Burning Bush on top of Mount Sinai](../../media/the-dark-ages/mount_sinai.jpg)

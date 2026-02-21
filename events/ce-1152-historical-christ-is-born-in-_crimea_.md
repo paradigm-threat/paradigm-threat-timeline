@@ -12,7 +12,7 @@ and [Holy Grail](https://en.wikipedia.org/wiki/Holy_Grail).
 Eventually the local authorities agreed to let the giants live, as long as they were Baptized and inducted into
 Monotheism.
 
-![Map of Tartaria: Path of Christ's Family](https://clevertree.github.io/paradigm-threat-files/history/maps/map_tartaria_hondius.jpg?w=384)
+![Map of Tartaria: Path of Christ's Family](../media/12th-century-ce-birth-of-christianity/map_tartaria_hondius.jpg)
 
 Christ later traveled with his family to Jerusalem in Istanbul where he trained as a Rabbi. In Jerusalem, rabbis would
 endlessly deliberate to bridge the gap between ancient Monotheism and the eclectic polytheistic indigenous religions of
@@ -35,4 +35,4 @@ The Monotheists hated Christ and his reform movement so much they refused to men
 at which point they accepted his popularity and retroactively named him the Savior of Mankind, the Messiah,
 and *the Je-Zeus* merging the 'pagan' historical Christ with their old hellenistic savior-Zeus i.e. Son of God.
 
-![Painting by Hans Bol: The Crucifixion 1587](https://clevertree.github.io/paradigm-threat-files/history/chronology/christ/hans_bol_crucifixion_1587.jpg?w=384)
+![Painting by Hans Bol: The Crucifixion 1587](../media/12th-century-ce-birth-of-christianity/hans_bol_crucifixion_1587.jpg)

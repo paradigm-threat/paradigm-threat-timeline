@@ -19,4 +19,4 @@ control over world religion once again. They would have no choice but to tie the
 an attempt to regain control (Christ-Son of Yahweh. Thor-Son of Odin etc.). However, it would be hard to convince
 the masses that our Sun was the *son* of some *invisible deity* i.e. Saturn.
 
-![Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad](https://clevertree.github.io/paradigm-threat-files/history/chronology/jerusalem/troy_1st_jerusalem.jpg?w=384)
+![Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad](../../media/11th-century-ce-common-era-begins/troy_1st_jerusalem.jpg)
