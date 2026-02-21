@@ -7,3 +7,6 @@ on [public squares](http://ancientolympics.arts.kuleuven.be/eng/TC013EN.html) ou
 
 
 ![15th Century: The Tartarian Empire Invades Europe, Africa and India](../media/13th-century-ce-the-russian-horde-tartarian-empire/tartarian_empire_emerges_14th_century.jpg)
+
+![1285 CE — The First Olympic Games of the Rus-Horde Empire](../media/13th-century-ce-the-russian-horde-tartarian-empire/1285_olympics.png)
+*Coliseums were built across the Empire to host the Games — in France, Italy, Tunisia, and Croatia — celebrating religious plurality across the Rus-Horde.*

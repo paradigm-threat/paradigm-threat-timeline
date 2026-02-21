@@ -18,3 +18,6 @@ as this “prodigal child” returned triumphantly to Jerusalem proselytizing an
 religion promising freedom from tyranny and an end to usury. This forced the hand of the Deep State which saw no other
 option than to crucify Christ in a gruesome public display within the tall gates of Troy. The objective of the
 crucifixion was to put down his insurrection and make an example of its leader.
+
+
+![12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac](../media/11th-century-ce-common-era-begins/twelve_tribes_zodiac.jpg)

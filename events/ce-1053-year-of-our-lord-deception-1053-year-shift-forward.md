@@ -15,4 +15,5 @@ assumption that the historical Christ must have been born (or even died) around 
 > -<cite>[ History: Fiction or Science?](https://chronologia.org/en/seven/2N021a-EN.pdf)</cite>
 
 
-![12 Tribes of Israel/Disciples of Jesus are based on the 12 signs of the Zodiac](../media/11th-century-ce-common-era-begins/twelve_tribes_zodiac.jpg)
+![11th Century: The Deep State Embeds Religion into the New Chronology](../media/11th-century-ce-common-era-begins/11th_century_deep_state_religion.png)
+*The Deep State reinterprets the calendar — re-attributing the solar 'Lord' to the figure of Jesus Christ and inserting a phantom millennium into history.*

@@ -21,5 +21,5 @@ Talbott describes:
 > the primeval sun remained fixed in one place.
 
 
-![Golden Age Absu plasma layers surrounding the planets](../../media/the-golden-age/golden_age_absu.jpg)
-*During the Golden Age, the *Absu* plasma layers of [Proto-Saturn](https://www.plasmacosmology.net/myth.html) (also known as the [Firmament](https://en.wikipedia.org/wiki/Firmament) in the bible) surrounded the Planets.*
+![Yggdrasil - the world tree unifying the 9 worlds in Norse cosmology](/media/the-golden-age/norse_yggdrasil.jpg)
+*In ancient Norse mythology and cosmology, Yggdrasil is an immense tree that sprang forth in the primordial void of Ginnungagap, unifying the 9 worlds of Asgard, Álfheimr/Ljósálfheimr, Niðavellir/Svartálfaheimr, Midgard (Earth), Jötunheimr/Útgarðr, Vanaheim, Niflheim, Muspelheim & Hel.*

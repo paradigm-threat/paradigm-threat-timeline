@@ -19,4 +19,4 @@ control over world religion once again. They would have no choice but to tie the
 an attempt to regain control (Christ-Son of Yahweh. Thor-Son of Odin etc.). However, it would be hard to convince
 the masses that our Sun was the *son* of some *invisible deity* i.e. Saturn.
 
-![Troy was also called Yoros short for Ierosalim a.k.a. Jerusalem (#1) a.k.a. Tsar-Grad](../../media/11th-century-ce-common-era-begins/troy_1st_jerusalem.jpg)
+![The Sun replaces Mars as the new Saviour](/media/11th-century-ce-common-era-begins/11th_century_sun_savior.png)

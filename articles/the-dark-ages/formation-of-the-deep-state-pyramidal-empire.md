@@ -12,4 +12,6 @@ other planets violently flip polarity and fall into the gaping mouth of Saturn.
 describes the [Titan Cronus](https://en.wikipedia.org/wiki/Cronus), seeing his rule threatened by his own children,
 begins to devour each until Jupiter (Zeus) intervenes.
 
-![The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies](../../media/the-dark-ages/cosmic_thunderbolt.jpg)
+
+![Pyramids built around the world in ancient and modern times](/media/the-dark-ages/pyramids_around_the_world.jpg)
+

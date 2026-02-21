@@ -9,3 +9,8 @@ giants with impunity while they were bound to the crosses.
 
 
 ![Painting by Tintoretto: The Descent from the Cross](../media/12th-century-ce-birth-of-christianity/crucifixion_descent_tintoretto_1565.jpg)
+
+![1185 CE — The Crucifixion of Historical Christ in Istanbul](../media/12th-century-ce-birth-of-christianity/1185ce_crucifixion.png)
+
+![1185 CE — Giant Christ Crucified](../media/12th-century-ce-birth-of-christianity/1185ce_giant_crucifixion.png)
+*The historical Christ — a giant of the Rus-Horde — is crucified on Joshua's Hill in Constantinople/Istanbul by the Deep State operatives.*

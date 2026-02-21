@@ -6,3 +6,6 @@ each other for a place in a new orbit. They form
 an [in-parallel](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Parallel_circuits)
 circular _non-linear_ configuration that together orbits the Sun for the next 1655 years. Humanity encounters a new
 unfamiliar influence (*death*) as it enters a period of extended darkness, famine, pestilence, and confusion.
+
+
+![Kronos (Planet Saturn) consumes his children](../../media/the-golden-age/golden_age_ends_kronos_devours.jpg)

@@ -14,6 +14,3 @@ together they would appear as a radiant throne in the sky.
 > from the wrath of the Lamb:
 > For the great day of His wrath is come; and who shall be able to stand?
 > —<cite>[Revelation 6:12-17](https://www.bibleref.com/Revelation/6/Revelation-6-12.html)</cite>
-
-
-![The Golden Age ends in a Great Deluge](../../media/the-dark-ages/golden_age_ends_great_deluge.jpg)

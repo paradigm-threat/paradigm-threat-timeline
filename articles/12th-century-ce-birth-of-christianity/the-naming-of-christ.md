@@ -6,7 +6,7 @@ were [large hairy humans](http://en.posztukiwania.pl/2014/07/19/hairy-mary/) fro
 a land of giants that rarely participated in any Deep State religious ceremonies. This land would birth the first
 world empire since the dark ages and would come to be known as the Kingdom of Tartaria.
 
-![Books created by giant humans](../../media/12th-century-ce-birth-of-christianity/giant_books.jpg)
+![Books created by giant humans](/media/12th-century-ce-birth-of-christianity/giant_books.jpg)
 
 The Latin Bible contains a *western* perspective of the Crucifixion, a story originally written in the Cyrillic bible,
 but many of the facts are the same. The story of Christ begins with

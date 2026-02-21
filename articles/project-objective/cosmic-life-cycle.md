@@ -35,7 +35,7 @@ the positively-charged outer shell of the proto-planet's EM field pushes it away
 positive environment, and it falls to the [outer solar system](https://science.nasa.gov/planetary-science/focus-areas/outer-solar-system/)
 where many *unborn* planets can be found.
 
-![Before the Golden Age began, (Proto-)Saturn was once a Brown Dwarf System floating through our galaxy.](../../media/project-objective/brown_dwarf.jpg)
+![Before the Golden Age began, (Proto-)Saturn was once a Brown Dwarf System floating through our galaxy.](/media/project-objective/brown_dwarf.jpg)
 
 
 In order to become a planet, a *proto-planet* must then be consumed by a larger host body and carried back to the Sun.
@@ -63,5 +63,5 @@ solar system, slowly at first, but increasing in speed until it finally [rips](h
 its way out of our solar system and dies, along with all remaining life on it. At this point the Sun's system has
 become empty and ready for another cycle to begin.
 
-![Plasmoids in Southern Hemisphere before Golden Age](../../media/project-objective/plasma_discharge_recorded2.jpg)
+![Plasmoids in Southern Hemisphere before Golden Age](/media/project-objective/plasma_discharge_recorded2.jpg)
 *Before the Golden Age began, 3 Plasmoids lit up the Southern Hemisphere, but were difficult to see by those who lived above the equator.*

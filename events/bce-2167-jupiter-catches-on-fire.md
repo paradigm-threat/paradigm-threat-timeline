@@ -17,7 +17,6 @@ Commandment spoken directly by God. This became the basis of the 10 Commandments
 the [Mosaic Covenant](https://en.wikipedia.org/wiki/Mosaic_covenant).
 
 
-![Binding of Isaac is an astrological allegory of the Sun crossing the Zodiac from Taurus to Aries](../media/the-dark-ages/binding_of_isaac.jpg)
 This event symbolizes the end of King Jupiter's reign as well as a changing of the 'rules'. To most humans, Jupiter's epic
 display meant once again that the _powers that be_ did not represent any gods. The **Deep State** reacts to this new
 reality by creating the [Abrahamic Covenant](https://en.wikipedia.org/wiki/Covenant_of_the_pieces)
@@ -29,4 +28,5 @@ with the sacrifice until he is stopped by emissaries of the age of Aries (the Ra
 he may slaughter a ram instead of his child, and he then does so under this new covenant. Going forward, subjects would
 be ordered to sacrifice animals to show their loyalty to the **Deep State** and to its invisible god.
 
-![Close encounters with planet Mars destroyed the cities of Sodom and Gomorrah](../media/the-dark-ages/sodom_and_gomorrah.jpg)
+
+![Jupiter was remembered as the Burning Bush on top of Mount Sinai](/media/the-dark-ages/mount_sinai.jpg)

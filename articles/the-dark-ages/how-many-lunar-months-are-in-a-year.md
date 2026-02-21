@@ -15,3 +15,5 @@ keep, and the religious texts propagated to the masses. The life stories they pu
 [stories](https://solarmythology.com/lessons/christ2002.htm) based on the Sun and seasons on a 12-month calendar.
 Similarly, the stories published in the OT about King David
 are [also redactions](https://www.usbible.com/Astrology/stars_of_david.htm) based on the 12 Zodiac signs.
+
+![Fixed Lunar Calendar](/media/the-dark-ages/lunar_calendar.jpg)

@@ -18,3 +18,10 @@ the *beginning of modern history* - 1053 C.E. In other words, the age of catacly
 
 ![Fomenko's New Chronology - scientific coherence and empirical confirmation](../media/the-blip/fomenko_new_chronology.jpg)
 *Anatoly Fomenko's New Chronology complies with the most rigid scientific standards. It gives a coherent explanation of what we already know. Independent lines of inquiry all lead to the same conclusion. The predictions it makes are confirmed empirically.*
+
+![BCE 670 — 1053 CE: The Same Year Across Three Chronological Systems](../media/the-blip/684bce_1053ce_blip.png)
+*BCE 670, Year Zero, and CE 1053 are all the same moment in time — the end of the age of cataclysm — obscured across three different chronological systems by deliberate redaction.*
+
+![The Blip — Time That Never Happened](../media/the-blip/684bce_the_blip.png)
+
+![The Blip — Alternate View](../media/the-blip/684bce_the_blip2.png)

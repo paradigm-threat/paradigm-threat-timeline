@@ -25,3 +25,9 @@ Hathor, Sekhmet, and Anath in Egypt, Tiamat in Mesopotamian, Kali in Hinduism,
 and [Medusa](http://www.ifiseeu.com/venus-mars-myth/terrifying-glory.htm) in Greek Mythology. In the epic poem Beowulf,
 Grendel (Venus) has his arm torn off "at the shoulder" symbolizing the severing of the plasma connection between Venus
 and Saturn (Grendel's Mom).
+
+
+![Venus and Mars battle in the Earth's sky - William Blake and Botticelli](../media/the-dark-ages/venus_and_mars.jpg)
+*Venus and Mars battle in the Earth's Sky depicted in old paintings: 'Great Red Dragon and The Woman Clothed with the Sun' by William Blake, 'The Birth of Venus' and 'Mars and Venus' by Sandro Botticelli.*
+
+![Planet Venus's Terrible Aspect remembered as **Medusa**](/media/the-dark-ages/planet_venus_as_medusa.jpg)

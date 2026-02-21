@@ -24,5 +24,7 @@ and appeared stretched out in many shapes and colors, none of which resembled a 
 makes eight *descents* to Earth creating the appearance of Osiris,
 the [Triform God](https://en.wikipedia.org/wiki/Triple_deity).
 
-![Muspelheim - the southern realm of fire in Norse cosmology](../../media/the-golden-age/saturnian_configuration_south.jpg)
-*Still there was before a world to the south which was called Muspelheim. It is light and hot, and so bright and dazzling that no stranger, who is not a native there, can stand it. This means darker-skinned humans who could 'stand the heat' came from high-energy realms like Mars, Mercury, or the southern end of the Earth. The fiery apparition of the Squatter Man figure in the south was recorded many times by many civilizations as the Phoenix, Burning Man or Wicker Man, and the myth of Quetzalcoatl.*
+
+![Northern view of Saturnian configuration - Mars, Venus, Saturn, Jupiter and Sun](/media/the-golden-age/saturnian_configuration_north.jpg)
+*From anywhere on the northern hemisphere of the Earth, one could look northwards and see in order: Mars, Venus, then the gas giant Saturn. Behind Saturn was the gas giant Jupiter, which was not yet visible. Behind Jupiter, at a 26.7 degree angle, was our Sun. All together, they form an unmistakable Star and crescent in the sky worshiped throughout the Persian, Roman, Byzantine, and Ottoman Empires, and throughout Islam today. This deity was known in Egypt as Osiris the *Triform God*, and as *The Trinity* in Babylonian and Abrahamic religion.*
+

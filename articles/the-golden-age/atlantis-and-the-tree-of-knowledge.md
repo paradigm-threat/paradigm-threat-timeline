@@ -13,5 +13,3 @@ city considered themselves the 'upper class' of the human race, and jealously gu
 knowledge until the city itself became known as the **Tree of Knowledge**. After the fall of Atlantis, the upper-class
 citizenry of Poseida escaped, preserving their knowledge (_and class-system_)
 in the secret places of the world. This was the beginning of the so-called **Deep State**.
-
-![The appearance of Priori-Mars as the Cosmic Mountain during the Golden Age was also remembered as *Jacob's Ladder*](../../media/the-golden-age/golden_age_jacobs_ladder.jpg)

@@ -20,3 +20,6 @@ to humanity. Nine times they watch as his 'flesh' was torn apart and sewn back t
 later. On February 27 747 B.C.E., Mars bumps Earth's magnetosphere and once again alters the Earth's orbital duration.
 Calendar keepers introduce a [leap year](https://en.wikipedia.org/wiki/Leap_year) (every 4 years) to account for the new
 6-hour offset.
+
+
+![Prometheus was the planet Mars](../media/the-dark-ages/prometheus.jpg)

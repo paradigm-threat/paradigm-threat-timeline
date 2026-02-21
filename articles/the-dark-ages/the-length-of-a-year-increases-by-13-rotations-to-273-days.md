@@ -10,5 +10,3 @@ In [Egyptian Myth and Catastrophism](http://firmament-chaos.com/papers/Egyptiana
 > priori-Mars from geosynchronous orbit. On those occasions the mantle of the Earth would return to
 > its normal rotation about the North Pole, at which position the Norse lands would be much farther
 > from the equator than when priori-Mars orbited the Earth.
-
-![Jupiter was remembered as the Burning Bush on top of Mount Sinai](../../media/the-dark-ages/mount_sinai.jpg)

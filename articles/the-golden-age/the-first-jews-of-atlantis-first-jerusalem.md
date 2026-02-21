@@ -1,6 +1,6 @@
 # The First Jews of Atlantis (First Jerusalem)
 
-![Atlantis - First Jerusalem built on the north poles of Mars and Earth](../../media/the-golden-age/atlantis_first_jerusalem.jpg)
+![Atlantis - First Jerusalem built on the north poles of Mars and Earth](/media/the-golden-age/atlantis_first_jerusalem.jpg)
 *Atlantis was the first holy city - First Jerusalem - built on the north poles of Mars and Earth to harness the energy of the Collinear Configuration and Golden Age.*
 
 The term 'Jew' refers to anyone who worships the planet Saturn as a *Creator God* of the Earth (and its Universe) going
@@ -24,6 +24,3 @@ In modern times, Abrahamic religions refer to this period in history as the Gard
 the [Tree of Knowledge](https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil). This story is also
 reflected in the 1900 novel [The Wonderful Wizard of Oz](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz), and
 the [1902 musical](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_\(1902_musical\)) (both *ground-breaking* successes).
-
-
-![Kronos (Planet Saturn) consumes his children](../../media/the-golden-age/golden_age_ends_kronos_devours.jpg)

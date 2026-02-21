@@ -25,3 +25,11 @@ would become a common phenomenon signifying the promise of *no more creation*:
     500 years.
   </figcaption>
 </figure>
+
+![11th Century C.E. — Common Era Begins](../media/11th-century-ce-common-era-begins/11th_century_common_era_begins.png)
+*With the end of the age of cataclysm, the New Saviour — our Sun — rises as the dominant celestial body and human civilization enters a new era of stability.*
+
+![11th Century Giants Write Books](../media/11th-century-ce-common-era-begins/11th_century_giants_write_books.png)
+*The surviving giants and their descendants recorded the events of the Golden Age and Dark Ages — preserving ancient knowledge in the first chronicles.*
+
+![The Sun-Saviour of the 11th Century](../media/11th-century-ce-common-era-begins/11th_century_sun_savior.png)

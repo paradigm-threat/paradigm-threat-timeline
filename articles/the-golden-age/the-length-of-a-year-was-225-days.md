@@ -10,6 +10,3 @@ constant. In this time the length of a year of orbit around the Sun was 225 days
 history as the Earth jumps from one orbit to another, eventually reaching its individual orbit around the Sun. With each
 jump, the Earth becomes part of a smaller configuration and draws in less energy from the Sun. This results in a
 *slower* orbit.
-
-![Yggdrasil - the world tree unifying the 9 worlds in Norse cosmology](../../media/the-golden-age/norse_yggdrasil.jpg)
-*In ancient Norse mythology and cosmology, Yggdrasil is an immense tree that sprang forth in the primordial void of Ginnungagap, unifying the 9 worlds of Asgard, Álfheimr/Ljósálfheimr, Niðavellir/Svartálfaheimr, Midgard (Earth), Jötunheimr/Útgarðr, Vanaheim, Niflheim, Muspelheim & Hel.*

@@ -20,4 +20,6 @@ represented a planet. Jupiter: The Lion, the Witch and the Wardrobe. Mars: Princ
 Treader”. Luna (our Moon): The Silver Chair. Mercury: The Horse and his Boy. Venus: The Magician’s Nephew. Saturn: The
 Last Battle.
 
-![Pyramids were functioning Star Gates during the Dark Ages. They no longer function today.](../media/the-dark-ages/history_pyramid_gates1.jpg)
+
+![Planets and The Narnia Chronicles](../media/the-dark-ages/planet_narnia.jpg)
+

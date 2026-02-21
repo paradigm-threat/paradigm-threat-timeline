@@ -20,3 +20,5 @@ Cook [describes the event](https://www.saturniancosmology.org/syn.php):
 > The event is recalled in mythology as the attack of the monster Typhon who is struck down by Zeus.
 > The major result of the contact was a 30 percent increase in the orbit of the Earth --
 > the year went from 273 days to 360 days.'"
+
+![Exodus from the Pyramidal Empire](../media/the-dark-ages/exodus.jpg)

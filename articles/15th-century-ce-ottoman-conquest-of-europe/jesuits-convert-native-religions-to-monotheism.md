@@ -23,5 +23,5 @@ were deployed:
 > to go wherever they are needed — at a moment’s notice — remains strong in the order, and Jesuit priests to this day
 > still take a special vow to undertake any assignment given to them by the Pope.
 
-![Four horsemen of the Apocalypse - Vasnetsov](../../media/15th-century-ce-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg)
+![Four horsemen of the Apocalypse - Vasnetsov](/media/15th-century-ce-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg)
 *In the apocalyptic imaginary, the great struggle of Horus is reflected in the enterprise of the four horsemen of the Apocalypse, which represent the expansion of the Empire to the four cardinal points, and the Christian cross. After this fight a single God, sovereign, imposes itself and begins the journey of the biblical Egyptian exodus, and that of Troy, according to the mythified ancient history.*

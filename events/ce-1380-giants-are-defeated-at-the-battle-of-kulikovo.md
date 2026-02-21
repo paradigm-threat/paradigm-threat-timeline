@@ -12,3 +12,6 @@ This story was pushed back into history as the Battle of Marathon when 'javelins
 
 ![John Wade's Extraordinary Black Book - church and state abuses](../media/14th-century-ce-great-expansion-of-the-mongol-slav/extraordinary_black_book.jpg)
 *An [extraordinary document](https://oll.libertyfund.org/title/wade-extraordinary-black-book-an-exposition-of-abuses-in-church-and-state-1832) which details the corruption and financial abuses of the British government as well as the sinecures and privileges of the army, church, and other groups. It was drawn up by John Wade as part of the radical movement to expand the franchise in England.*
+
+![1380 CE — Battle of Kulikovo: The Last Stand of the Giants](../media/14th-century-ce-great-expansion-of-the-mongol-slav/1380ce_battle_of_kulikovo.png)
+*The Battle of Kulikovo marks the moment cannon technology overcame armored giants — remembered as the story of David vs Goliath and the Battle of Marathon.*

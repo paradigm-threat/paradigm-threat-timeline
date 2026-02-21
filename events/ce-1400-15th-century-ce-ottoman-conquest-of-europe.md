@@ -11,11 +11,3 @@ superstitious populations would regard the spread of illness with suspicion, oft
 serious problem and didn't know how to solve it. It was once again time for the **Deep State** to step in and take
 advantage. The fear of wide-spread disease could be exploited to bring Europe into a new Crusade. They had the
 *reason* to go to war-now they needed the *means*.
-<figure className="sm:float-left clear-left m-auto sm:m-1 sm:mr-4 sm:max-w-sm">
-  <video title="Predictive Programming for Children: Conan the Barbarian finds Star Metal" poster="https://paradigm-threat.s3.amazonaws.com/video/thumb/Predictive+Programming:+Conan+The+Adventurer+Star+Metal.png" controls className="m-auto w-[384px] h-[288px]" >
-    <source src="https://paradigm-threat.s3.amazonaws.com/video/Predictive+Programming:+Conan+The+Adventurer+Star+Metal.mp4" type="video/mp4"/>
-  </video>
-  <figcaption>
-    Predictive Programming for Children: Conan the Barbarian finds Star Metal
-  </figcaption>
-</figure>

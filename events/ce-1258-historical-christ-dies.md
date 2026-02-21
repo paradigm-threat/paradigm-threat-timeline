@@ -5,3 +5,6 @@ Christ visited Japan for 12 years when he was 21. Per the legend, he survived hi
 the ups and downs of travel, and eventually came to settle down at *Kirisuto no haka* and
 [died](https://en.wikipedia.org/wiki/Shing%C5%8D,_Aomori#%22Tomb_of_Jesus%22)
 at the age of 106.
+
+![1258 CE — The Death of Historical Christ in Japan](../media/13th-century-ce-the-russian-horde-tartarian-empire/1258ce_christ_dies.png)
+*According to Japanese tradition, Christ survived the crucifixion, travelled east to Japan, and died peacefully at Kirisuto no haka at the age of 106.*

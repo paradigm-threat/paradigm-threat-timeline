@@ -23,3 +23,7 @@ In modern times, the National Oceanic and Atmospheric Administration cannot legi
 > The very mountains were swallowed up in the flood, and the waters remained, lying tranquil during fifty and two
 > springs.
 > -<cite>[Aztec Codex Chimalpopoca](https://www.newworldencyclopedia.org/entry/Great_Flood)</cite>
+
+
+
+![The Golden Age ends in a Great Deluge](/media/the-dark-ages/golden_age_ends_great_deluge.jpg)

@@ -26,4 +26,4 @@ discharge.
 > in a kind of electrical sputtering effect used in modern nanotechnology applications?<cite>[
 Thunderbolts.info](https://www.thunderbolts.info/wp/2013/10/06/electric-fossils-and-thundercrabs/)</cite>
 
-![Exodus from the Pyramidal Empire](../media/the-dark-ages/exodus.jpg)
+![Close encounters with planet Mars destroyed the cities of Sodom and Gomorrah](../media/the-dark-ages/sodom_and_gomorrah.jpg)

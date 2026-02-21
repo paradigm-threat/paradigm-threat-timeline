@@ -21,3 +21,6 @@ inner shell would then approach Earth, sometimes causing cataclysm, before retre
 spherical shape repeating until Priori-Mars finally loses its outer shell in 686 B.C.E. This *cosmic mountain* would
 be remembered as the *Yggdrasil: The Tree of Life*, *The Tower of Babel*, *Ladder or Stairway to Heaven*, and many other
 myths. The cone shape would appear in famous artifacts such as the Egyptian White Crown, the Persian Crown of Mithra.
+
+
+![The appearance of Priori-Mars as the Cosmic Mountain during the Golden Age was also remembered as *Jacob's Ladder*](/media/the-golden-age/golden_age_jacobs_ladder.jpg)

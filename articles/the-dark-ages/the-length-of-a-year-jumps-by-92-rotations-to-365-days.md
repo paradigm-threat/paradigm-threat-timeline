@@ -15,5 +15,3 @@ In [Worlds in Collision](https://books.google.com/books?id=FJst27kSVBgC&pg=PA189
 > khamsin (sirocco), an electrically charged wind blowing from the desert,
 > knows how, during the few days that the wind blows, the ground around the villages begins to
 > teem with vermin.
-
-![The Ten Plagues were caused by the 'Pass-over' of Planet Venus in Comet form](../../media/the-dark-ages/plagues_of_venus.jpg)

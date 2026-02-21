@@ -8,4 +8,3 @@ length of the year changed many times, date ranges that span events during *crea
 Therefore, the solution to this problem is to assign a label to each date indicating whether the year occurred *before*
 the Common Era **(B.C.E.)**, or *afterward* during the Common Era **(C.E.)**.
 
-![Fixed Lunar Calendar](../../media/the-dark-ages/lunar_calendar.jpg)

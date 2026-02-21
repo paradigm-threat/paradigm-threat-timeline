@@ -13,3 +13,7 @@ to humans as obscuring equatorial rings of a cosmic 'sea' in the southern sky.
 > of Saturn before the intersection with the Solar System, and within the memory of mankind.
 > The stars and other planets might not have been visible, and perhaps not even Saturn would have been seen
 > — just the 'waters above'."
+
+
+![Golden Age Absu plasma layers surrounding the planets](/media/the-golden-age/golden_age_absu.jpg)
+*During the Golden Age, the *Absu* plasma layers of [Proto-Saturn](https://www.plasmacosmology.net/myth.html) (also known as the [Firmament](https://en.wikipedia.org/wiki/Firmament) in the bible) surrounded the Planets.*

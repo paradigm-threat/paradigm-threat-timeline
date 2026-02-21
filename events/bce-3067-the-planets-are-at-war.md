@@ -20,4 +20,5 @@ or Weltumspanner, as it “Stretched-around-the-Earth” and ate its own tail. M
 visiting Earth as [Horus](https://www.ancient.eu/Horus/)
 10 times over the next 300 years.
 
-![Planets and The Narnia Chronicles](../media/the-dark-ages/planet_narnia.jpg)
+
+![The Cosmic Thunderbolt was a series of electric discharges between Jupiter and other planetary bodies](/media/the-dark-ages/cosmic_thunderbolt.jpg)

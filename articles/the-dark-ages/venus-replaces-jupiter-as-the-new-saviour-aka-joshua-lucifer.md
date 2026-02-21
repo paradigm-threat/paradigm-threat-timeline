@@ -10,7 +10,8 @@ planets like Mars would become stranded in those locations. Stranded on Mars, th
 focus towards survival and away from systemic control of Earth. It would be many hundreds of years before Martian
 influence would be felt on Earth again.
 
-![Venus as the Chinese Dragon / Comet](../../media/the-dark-ages/chinese_dragon.jpg)
+
+![The Ten Plagues were caused by the 'Pass-over' of Planet Venus in Comet form](/media/the-dark-ages/plagues_of_venus.jpg)
 
 The significance of the Exodus Event is not the moving of a population, but the 'exodus' from a slave empire into
 freedom. For loyal subjects of the Pyramidal Empire, this event was similar to the fall of Atlantis; the **Deep State**
@@ -26,3 +27,6 @@ remained in the regions abandoned by the Deep State and enjoyed a lasting period
 ceremonies to maintain the memory of the divine intervention that freed them from bondage. To this day,
 many [non-jewish](https://jewishjournal.com/commentary/opinion/170393/)
 populations especially in Africa remember and celebrate the 'Passover' of Comet Venus.
+
+
+![Venus as the Chinese Dragon / Comet](/media/the-dark-ages/chinese_dragon.jpg)

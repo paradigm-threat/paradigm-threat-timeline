@@ -28,5 +28,3 @@ describes the Greek myth:
 > was bound to a rock in the Caucasus Mountains with unbreakable
 > chains, where a vulture tore at his flesh all day, with no rest,
 > no sleep and no respite.
-
-![Prometheus was the planet Mars](../media/the-dark-ages/prometheus.jpg)

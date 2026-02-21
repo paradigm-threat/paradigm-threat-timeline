@@ -1,6 +1,6 @@
 # Project Objective
 
-![Fomenko books - USA has Issues with British Maps](../../media/project-objective/fomenko_books.jpg)
+![Fomenko books - USA has Issues with British Maps](/media/project-objective/fomenko_books.jpg)
 *[USA has Issues](https://www.amazon.com/Issues-British-Maps-century-History-ebook/dp/B013B019Z0) with British Maps of 18th-century analyses in detail the maps of the 1771 edition of Encyclopedia Britannica and concludes that the Northwestern part of the United States of America was built on remains of Moscuvite Tartary.*
 
 The objective of this timeline is to compile an [alternate history](https://en.wikipedia.org/wiki/Alternate_history)

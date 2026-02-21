@@ -11,4 +11,4 @@ are [man-made quantum tunnels](https://www.reddit.com/r/PastSaturnsRings/comment
 built at locations of concentrated cosmic energy (entanglements) between planets.
 
 
-![Planet Venus's Terrible Aspect remembered as **Medusa**](../../media/the-dark-ages/planet_venus_as_medusa.jpg)
+![Pyramids were functioning Star Gates during the Dark Ages. They no longer function today.](../media/the-dark-ages/history_pyramid_gates1.jpg)

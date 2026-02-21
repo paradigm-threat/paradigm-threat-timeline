@@ -14,3 +14,7 @@ were hoping to trigger a revenge attack and route the giants into a trap. The ta
 were built specifically on the strategic Bophorus river to fend off Giants. If one wall were to fall, there were 2 more
 within. If the Deep State could trigger a *crusade* against the walls of Jerusalem, they would be able to eliminate a
 maximum number of Giants in a single event.
+
+
+![Jupiter and Saturn conjunction - Star of Bethlehem, 840-year Crucifixion anniversary](/media/11th-century-ce-common-era-begins/conjunction.jpg)
+*Jupiter and Saturn aligned as the Star of Bethlehem on December 21, 2020, marking the 840-Year Anniversary of the Crucifixion in Constantinople of Andronicus-Christ of the Crimea.*
