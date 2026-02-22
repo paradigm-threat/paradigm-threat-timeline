@@ -1,12 +1,12 @@
 # Auto-bump patch version
 node -e "
-const fs=require('fs');
-const p=JSON.parse(fs.readFileSync('package.json','utf8'));
-const v=p.version.split('.').map(Number);
+const fs = require('fs');
+const p = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+const v = p.version.split('.').map(Number);
 v[2]++;
-p.version=v.join('.');
-fs.writeFileSync('package.json',JSON.stringify(p,null,2)+'\n');
-console.log('Version bumped to '+p.version);
+p.version = v.join('.');
+fs.writeFileSync('package.json', JSON.stringify(p, null, 2) + '\n');
+console.log('Version bumped to ' + p.version);
 "
 
 npm run validate-events && npm run generate-index && git add index.json package.json

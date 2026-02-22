@@ -58,7 +58,6 @@ Special thanks to the **early supporters of the Paradigm Threat project** who fu
 
 The timeline is live but the investigation never stops. Upcoming work includes:
 
-- Expanded coverage of the **Younger Dryas catastrophe (~10,900 B.C.)** and its relationship to global myth cycles
 - More entries from **Fomenko's dynastic parallelism** — the statistical argument that "ancient" history is a phantom reflection of medieval events
 - The **Mu and Atlantis question** — are these mythologized memories of the pre-flood world, or later inventions?
 - Deeper integration of **indigenous oral histories** as primary sources, not footnotes
