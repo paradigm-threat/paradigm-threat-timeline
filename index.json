@@ -51,9 +51,6 @@
     "02.010-proto-saturn-joins-the-suns-orbit-and-lights-up.md": {
       "_title": "Proto-Saturn joins the Sun's orbit and lights up"
     },
-    "02.020-all-planets-and-suns-are-hollow.md": {
-      "_title": "All planets and suns are hollow"
-    },
     "02.030-northern-hemisphere-configuration.md": {
       "_title": "Northern Hemisphere Configuration"
     },
@@ -204,8 +201,8 @@
     "06.060-historical-christ-is-crucified-in-istanbul.md": {
       "_title": "Historical Christ is Crucified in Istanbul"
     },
-    "06.070-death-and-alleged-resurrection.md": {
-      "_title": "Death and Alleged Resurrection"
+    "06.070-alleged-resurrection.md": {
+      "_title": "Alleged Resurrection"
     },
     "06.080-the-revolution-survives-despite-christs-martyrdom.md": {
       "_title": "The Revolution survives despite Christ's Martyrdom"
@@ -411,7 +408,7 @@
     "11.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 134
+    "_count": 133
   },
   "data": {
     "events.json": {},
@@ -776,5 +773,5 @@
     "timeline.pdf": {},
     "_count": 1
   },
-  "_count": 242
+  "_count": 241
 }
