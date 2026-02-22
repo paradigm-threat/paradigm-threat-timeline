@@ -18,36 +18,57 @@
           "title": "Project Objective",
           "type": "article",
           "md_path": "content/00.040-project-objective.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/00.overview/fomenko_books.jpg"
+          ]
         },
         {
           "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
           "title": "The length of a Year changes throughout Antiquity",
           "type": "article",
           "md_path": "content/00.050-the-length-of-a-year-changes-throughout-antiquity.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/01.before-creation/length-of-a-year-changes.png"
+          ]
         },
         {
           "id": "evt-timeline-synchronization",
           "title": "Timeline synchronization",
           "type": "article",
           "md_path": "content/00.060-timeline-synchronization.md",
-          "children": []
+          "children": [],
+          "media": [
+            "../../media/00.overview/timeline-synchronization.png"
+          ]
         },
         {
           "id": "evt-cosmic-life-cycle",
           "title": "Cosmic Life Cycle",
           "type": "article",
           "md_path": "content/00.070-cosmic-life-cycle.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/00.overview/cosmic-lifecycle.png",
+            "/media/00.overview/brown_dwarf.jpg",
+            "/media/00.overview/plasma_discharge_recorded2.jpg"
+          ]
         },
         {
           "id": "evt-n-a-morozov",
           "title": "N. A. Morozov",
           "type": "article",
           "md_path": "content/00.080-n-a-morozov.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/01.before-creation/na-morozov.png"
+          ]
         }
+      ],
+      "media": [
+        "/media/00.overview/tartarian_structures.jpg",
+        "/media/00.overview/earth_was_saturns_moon2.jpg"
       ]
     },
     {
@@ -61,7 +82,10 @@
           "title": "3 Plasmoids in the Southern Hemisphere",
           "type": "article",
           "md_path": "content/01.020-3-plasmoids-in-the-southern-hemisphere.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/01.before-creation/3-plasmoids-in-the-southern-hemisphere.png"
+          ]
         },
         {
           "id": "evt-spawning-of-the-first-life-forms",
@@ -74,8 +98,14 @@
               "title": "Scalar Energy as the basis of Creation",
               "type": "article",
               "md_path": "content/01.010-scalar-energy-as-the-basis-of-creation.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/01.before-creation/scalar-energy-as-the-basis-of-creation.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/01.before-creation/spawning-first-life-forms.png"
           ]
         },
         {
@@ -83,7 +113,11 @@
           "title": "All planets and suns are hollow",
           "type": "article",
           "md_path": "content/01.040-all-planets-and-suns-are-hollow.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/01.before-creation/hollow-earth-diagram.png",
+            "/media/00.overview/hollow_earth_EU_model.jpg"
+          ]
         }
       ],
       "dates": [
@@ -92,6 +126,9 @@
           "end": -4078,
           "calendar": "BCE"
         }
+      ],
+      "media": [
+        "/media/01.before-creation/before-creation.png"
       ]
     },
     {
@@ -112,6 +149,9 @@
               "end": -4077,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/02.the-golden-age/saturn_configuration_vortex.jpg"
           ]
         },
         {
@@ -126,28 +166,41 @@
           "title": "Saturn's Collinear Planetary Configuration - The Tree of Life",
           "type": "article",
           "md_path": "content/02.050-saturns-collinear-planetary-configuration-the-tree-of-life.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/norse_yggdrasil.jpg"
+          ]
         },
         {
           "id": "evt-the-absu-layers-surrounded-the-planets",
           "title": "The Absu layers surrounded the Planets",
           "type": "article",
           "md_path": "content/02.060-the-absu-layers-surrounded-the-planets.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/golden_age_absu.jpg"
+          ]
         },
         {
           "id": "evt-northern-hemisphere-configuration",
           "title": "Northern Hemisphere Configuration",
           "type": "article",
           "md_path": "content/02.030-northern-hemisphere-configuration.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/saturnian_configuration_north.jpg",
+            "/media/02.the-golden-age/saturnian_configuration_north.jpg"
+          ]
         },
         {
           "id": "evt-southern-hemisphere-configuration",
           "title": "Southern Hemisphere Configuration",
           "type": "article",
           "md_path": "content/02.040-southern-hemisphere-configuration.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/saturnian_configuration_south.jpg"
+          ]
         },
         {
           "id": "evt-atlantis-and-the-tree-of-knowledge",
@@ -161,21 +214,30 @@
           "title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
           "type": "article",
           "md_path": "content/02.070-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/golden_age_jacobs_ladder.jpg"
+          ]
         },
         {
           "id": "evt-quantum-entanglement",
           "title": "Quantum Entanglement",
           "type": "article",
           "md_path": "content/02.100-quantum-entanglement.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/wormhole.jpg"
+          ]
         },
         {
           "id": "evt-the-first-jews-of-atlantis-first-jerusalem",
           "title": "The First Jews of Atlantis (First Jerusalem)",
           "type": "article",
           "md_path": "content/02.090-the-first-jews-of-atlantis-first-jerusalem.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/atlantis_first_jerusalem.jpg"
+          ]
         }
       ],
       "dates": [
@@ -184,6 +246,10 @@
           "end": -3148,
           "calendar": "BCE"
         }
+      ],
+      "media": [
+        "/media/02.the-golden-age/golden_age_hieronimus_bosch.jpg",
+        "/media/02.the-golden-age/cosmic_mountain.jpg"
       ]
     },
     {
@@ -204,6 +270,9 @@
               "end": -3147,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "../../media/02.the-golden-age/golden_age_ends_kronos_devours.jpg"
           ]
         },
         {
@@ -218,7 +287,10 @@
           "title": "The Great Deluge",
           "type": "article",
           "md_path": "content/03.020-the-great-deluge.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/golden_age_ends_great_deluge.jpg"
+          ]
         },
         {
           "id": "evt-humanity-was-then-cast-out-of-the-garden-of-eden",
@@ -232,7 +304,10 @@
           "title": "Formation of the Deep State Pyramidal Empire",
           "type": "article",
           "md_path": "content/03.230-formation-of-the-deep-state-pyramidal-empire.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/pyramids_around_the_world.jpg"
+          ]
         },
         {
           "id": "evt-the-planets-are-at-war",
@@ -246,6 +321,9 @@
               "end": -3067,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/cosmic_thunderbolt.jpg"
           ]
         },
         {
@@ -266,7 +344,10 @@
               "title": "Pyramids were Portals",
               "type": "article",
               "md_path": "content/03.220-pyramids-were-portals.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/03.the-dark-ages/history_pyramid_gates1.jpg"
+              ]
             }
           ],
           "dates": [
@@ -275,6 +356,9 @@
               "end": -2860,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/planet_narnia.jpg"
           ]
         },
         {
@@ -297,6 +381,10 @@
               "end": -2349,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/venus_and_mars.jpg",
+            "/media/03.the-dark-ages/planet_venus_as_medusa.jpg"
           ]
         },
         {
@@ -319,6 +407,9 @@
               "end": -2193,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/binding_of_isaac.jpg"
           ]
         },
         {
@@ -333,6 +424,9 @@
               "end": -2167,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/mount_sinai.jpg"
           ]
         },
         {
@@ -347,6 +441,9 @@
               "end": -1936,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/sodom_and_gomorrah.jpg"
           ]
         },
         {
@@ -367,7 +464,11 @@
               "title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)",
               "type": "article",
               "md_path": "content/03.130-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/03.the-dark-ages/plagues_of_venus.jpg",
+                "/media/03.the-dark-ages/chinese_dragon.jpg"
+              ]
             }
           ],
           "dates": [
@@ -376,6 +477,9 @@
               "end": -1492,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/exodus.jpg"
           ]
         },
         {
@@ -390,6 +494,10 @@
               "end": -1442,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/sun_stands_still_joshua_bayeux.jpg",
+            "/media/03.the-dark-ages/cathoderal.jpg"
           ]
         },
         {
@@ -417,7 +525,10 @@
               "title": "Mars (aka Prometheus) replaces Venus as the new Saviour",
               "type": "article",
               "md_path": "content/03.160-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/03.the-dark-ages/prometheus.jpg"
+              ]
             }
           ],
           "dates": [
@@ -460,7 +571,10 @@
               "title": "How many Lunar Months are in a Year?",
               "type": "article",
               "md_path": "content/03.040-how-many-lunar-months-are-in-a-year.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/03.the-dark-ages/lunar_calendar.jpg"
+              ]
             }
           ],
           "dates": [
@@ -492,7 +606,10 @@
           "type": "article",
           "md_path": "content/04.010-building-the-new-chronology.md",
           "children": [],
-          "dates": []
+          "dates": [],
+          "media": [
+            "/media/04.the-blip/anatoly_fomenko.jpg"
+          ]
         }
       ],
       "dates": [
@@ -501,6 +618,12 @@
           "end": 1053,
           "calendar": "BCE"
         }
+      ],
+      "media": [
+        "/media/04.the-blip/fomenko_new_chronology.jpg",
+        "/media/04.the-blip/684bce_1053ce_blip.png",
+        "/media/04.the-blip/684bce_the_blip.png",
+        "/media/04.the-blip/684bce_the_blip2.png"
       ]
     },
     {
@@ -521,6 +644,9 @@
               "end": 1053,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/11th_century_deep_state_religion.png"
           ]
         },
         {
@@ -528,14 +654,21 @@
           "title": "The Sun replaces Mars as the new Saviour",
           "type": "article",
           "md_path": "content/05.030-the-sun-replaces-mars-as-the-new-saviour.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/11th_century_sun_savior.png"
+          ]
         },
         {
           "id": "evt-deep-state-centralize-world-religion-at-jerusalem",
           "title": "Deep State Centralize World Religion at Jerusalem",
           "type": "article",
           "md_path": "content/05.020-deep-state-centralize-world-religion-at-jerusalem.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/troy_1st_jerusalem.jpg",
+            "/media/05.ce-11th-common-era-begins/11th_century_deep_state_religion.png"
+          ]
         }
       ],
       "dates": [
@@ -544,6 +677,11 @@
           "end": 1099,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/05.ce-11th-common-era-begins/11th_century_common_era_begins.png",
+        "/media/05.ce-11th-common-era-begins/11th_century_giants_write_books.png",
+        "/media/05.ce-11th-common-era-begins/11th_century_sun_savior.png"
       ]
     },
     {
@@ -557,7 +695,10 @@
           "title": "The naming of Christ",
           "type": "article",
           "md_path": "content/06.020-the-naming-of-christ.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/giant_books.jpg"
+          ]
         },
         {
           "id": "evt-deep-state-eliminate-the-giants",
@@ -571,7 +712,10 @@
           "title": "Christ's family flees ahead of the census",
           "type": "article",
           "md_path": "content/06.050-christs-family-flees-ahead-of-the-census.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/hairy_mary.jpg"
+          ]
         },
         {
           "id": "evt-historical-christ-is-born-in-_crimea_",
@@ -585,6 +729,10 @@
               "end": 1152,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/map_tartaria_hondius.jpg",
+            "/media/06.ce-12th-birth-of-christianity/hans_bol_crucifixion_1587.jpg"
           ]
         },
         {
@@ -598,7 +746,10 @@
               "title": "Death and Alleged Resurrection",
               "type": "article",
               "md_path": "content/06.070-death-and-alleged-resurrection.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/06.ce-12th-birth-of-christianity/tomb_of_christ_and_brother.jpg"
+              ]
             }
           ],
           "dates": [
@@ -607,6 +758,11 @@
               "end": 1185,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/crucifixion_descent_tintoretto_1565.jpg",
+            "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png",
+            "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png"
           ]
         },
         {
@@ -614,7 +770,10 @@
           "title": "The Revolution survives despite Christ's Martyrdom",
           "type": "article",
           "md_path": "content/06.080-the-revolution-survives-despite-christs-martyrdom.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/conjunction.jpg"
+          ]
         },
         {
           "id": "evt-first-crusade-begins-as-revenge-for-the-crucifixio",
@@ -636,6 +795,9 @@
               "end": 1196,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/1196_revenge_for_christ.png"
           ]
         }
       ],
@@ -645,6 +807,9 @@
           "end": 1199,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/05.ce-11th-common-era-begins/twelve_tribes_zodiac.jpg"
       ]
     },
     {
@@ -665,6 +830,9 @@
               "end": 1204,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.jpg"
           ]
         },
         {
@@ -672,7 +840,10 @@
           "title": "Whom are the “Israelites” in history ?",
           "type": "article",
           "md_path": "content/07.020-whom-are-the-israelites-in-history.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
+          ]
         },
         {
           "id": "evt-russian-empire-expands-through-conquest",
@@ -693,6 +864,9 @@
               "end": 1258,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/1258ce_christ_dies.png"
           ]
         },
         {
@@ -707,6 +881,10 @@
               "end": 1285,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/tartarian_empire_emerges_14th_century.jpg",
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/1285_olympics.png"
           ]
         }
       ],
@@ -716,6 +894,9 @@
           "end": 1299,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg"
       ]
     },
     {
@@ -736,6 +917,9 @@
               "end": 1337,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/pompeii_painting.jpg"
           ]
         },
         {
@@ -749,7 +933,10 @@
               "title": "European Religious Schism Emerges",
               "type": "article",
               "md_path": "content/08.010-european-religious-schism-emerges.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/08.ce-14th-great-expansion-of-the-mongol-slav/black_death.jpg"
+              ]
             }
           ],
           "dates": [
@@ -758,6 +945,10 @@
               "end": 1380,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/extraordinary_black_book.jpg",
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/1380ce_battle_of_kulikovo.png"
           ]
         }
       ],
@@ -801,6 +992,10 @@
               "end": 1431,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_joan_of_arc_stake.jpg",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
           ]
         },
         {
@@ -814,7 +1009,10 @@
               "title": "Deep State Steals Russian History",
               "type": "article",
               "md_path": "content/09.050-deep-state-steals-russian-history.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/09.ce-15th-ottoman-conquest-of-europe/gutenberg_bible_1455.jpg"
+              ]
             }
           ],
           "dates": [
@@ -850,7 +1048,10 @@
               "title": "Jesuits convert native religions to Monotheism",
               "type": "article",
               "md_path": "content/09.080-jesuits-convert-native-religions-to-monotheism.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg"
+              ]
             }
           ],
           "dates": [
@@ -873,6 +1074,9 @@
               "end": 1486,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_b_west.jpg"
           ]
         },
         {
@@ -938,6 +1142,9 @@
               "end": 1523,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/galileo_facing_the_inquisition.jpg"
           ]
         },
         {
@@ -951,7 +1158,10 @@
               "title": "Heresy of the Judaizers",
               "type": "article",
               "md_path": "content/10.020-heresy-of-the-judaizers.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/10.ce-16th-reformation-and-inquisition/cathar_suppression.jpg"
+              ]
             },
             {
               "id": "evt-cathar-suppression",
@@ -967,6 +1177,9 @@
               "end": 1542,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/jews_vs_gentiles.jpg"
           ]
         },
         {
@@ -981,6 +1194,9 @@
               "end": 1548,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/map_khazar_khagnate.jpg"
           ]
         },
         {
@@ -994,7 +1210,10 @@
               "title": "Deep State eliminates its enemies",
               "type": "article",
               "md_path": "content/10.090-deep-state-eliminates-its-enemies.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/10.ce-16th-reformation-and-inquisition/oprichniki_bish.jpg"
+              ]
             }
           ],
           "dates": [
@@ -1048,6 +1267,10 @@
           "end": 1599,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/10.ce-16th-reformation-and-inquisition/painting_ottoman_invades_vienna_1683.jpg",
+        "/media/10.ce-16th-reformation-and-inquisition/painting_german_peasant_war_1525.jpg"
       ]
     },
     {
@@ -1081,7 +1304,10 @@
               "title": "Deep State breaks up the Hordian Empire",
               "type": "article",
               "md_path": "content/11.220-deep-state-breaks-up-the-hordian-empire.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/eight_pointed_star_and_crescent.jpg"
+              ]
             },
             {
               "id": "evt-russia-and-turkey-begin-300-years-of-war",
@@ -1153,6 +1379,9 @@
               "end": 1660,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/11.ce-17th-romanovs-rise-to-power/1652_massacre_of_polish_captives_at_batih.jpg"
           ]
         },
         {
@@ -1189,6 +1418,9 @@
               "end": 1672,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/11.ce-17th-romanovs-rise-to-power/fomenko_timeline_1633_1725.gif"
           ]
         },
         {
@@ -1202,7 +1434,10 @@
               "title": "Deep State plans a second Apocalypse in the year ι666",
               "type": "article",
               "md_path": "content/11.120-deep-state-plans-a-second-apocalypse-in-the-year-666.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/great_comet_of_1665.jpg"
+              ]
             }
           ],
           "dates": [
@@ -1234,6 +1469,9 @@
           "end": 1699,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/11.ce-17th-romanovs-rise-to-power/king_james_bible.jpg"
       ]
     },
     {
