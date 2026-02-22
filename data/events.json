@@ -500,20 +500,7 @@
             "/media/03.the-dark-ages/cathoderal.jpg"
           ]
         },
-        {
-          "id": "evt-mysterious-carbon-14-spike",
-          "title": "mysterious carbon-14 spike",
-          "type": "event",
-          "md_path": "content/03.190-mysterious-carbon-14-spike.md",
-          "children": [],
-          "dates": [
-            {
-              "start": -1063,
-              "end": -1063,
-              "calendar": "BCE"
-            }
-          ]
-        },
+
         {
           "id": "evt-mars-earth-and-mercury-finalize-orbits",
           "title": "Mars, Earth and Mercury finalize orbits.",
@@ -1652,6 +1639,20 @@
         {
           "start": 1773,
           "end": 1775,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-mysterious-carbon-14-spike",
+      "title": "mysterious carbon-14 spike",
+      "type": "event",
+      "md_path": "content/11.265-mysterious-carbon-14-spike.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1774,
+          "end": 1774,
           "calendar": "CE"
         }
       ]
