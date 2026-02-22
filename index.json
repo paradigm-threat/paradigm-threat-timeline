@@ -2,6 +2,12 @@
   "README.md": {
     "_title": "paradigm-threat-timeline"
   },
+  "blog": {
+    "2026-02-22-new-timeline-project.md": {
+      "_title": "A Dedicated Timeline for Earth's Hidden History"
+    },
+    "_count": 1
+  },
   "content": {
     "00.010-introduction.md": {
       "_title": "Introduction"
@@ -763,5 +769,5 @@
     },
     "_count": 95
   },
-  "_count": 239
+  "_count": 240
 }
