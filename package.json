@@ -8,6 +8,7 @@
     "validate-events": "python3 scripts/validate-events.py",
     "build-entries": "python3 scripts/build-entries.py",
     "populate-media": "python3 scripts/populate-media.py",
+    "generate-pdf": "python3 scripts/generate-pdf.py",
     "dev": "npx serve . -p 3011 --cors",
     "prepare": "husky"
   },
