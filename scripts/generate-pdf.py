@@ -20,6 +20,8 @@ except ImportError:
 MAX_IMAGE_WIDTH = 1200
 JPEG_QUALITY = 72
 
+import json as _json
+
 SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR    = os.path.dirname(SCRIPT_DIR)
 CONTENT_DIR = os.path.join(REPO_DIR, "content")
@@ -27,11 +29,21 @@ PUBLIC_DIR  = os.path.join(REPO_DIR, "public")
 OUTPUT_PDF  = os.path.join(PUBLIC_DIR, "timeline.pdf")
 os.makedirs(PUBLIC_DIR, exist_ok=True)
 
+# Read version from package.json
+with open(os.path.join(REPO_DIR, "package.json"), "r") as _f:
+    PKG_VERSION = _json.load(_f)["version"]
+
 CSS_STYLES = """
 /* No remote font imports - use system fonts only to avoid network hangs */
 @page {
     size: A4;
     margin: 22mm 20mm 25mm 20mm;
+    @bottom-left {
+        content: 'v""" + PKG_VERSION + """';
+        font-family: sans-serif;
+        font-size: 8pt;
+        color: #aaa;
+    }
     @bottom-center {
         content: counter(page);
         font-family: sans-serif;
@@ -188,7 +200,7 @@ def main():
         print(f"  Processing {os.path.basename(p)}")
         articles += build_article(p, first=(i==0))
     full = f"""<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
-<title>Paradigm Threat Timeline</title></head><body>{articles}</body></html>"""
+<title>Paradigm Threat Timeline</title></head><body data-version="{PKG_VERSION}">{articles}</body></html>"""
     fc = FontConfiguration()
     css = CSS(string=CSS_STYLES, font_config=fc)
     print(f"Rendering PDF -> {OUTPUT_PDF}")
