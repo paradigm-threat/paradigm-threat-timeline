@@ -9,9 +9,6 @@
     "00.020-saturnian-cosmology-timeline-video.md": {
       "_title": "Saturnian Cosmology Timeline Video"
     },
-    "00.030-chronology-chat.md": {
-      "_title": "Chronology Chat"
-    },
     "00.040-project-objective.md": {
       "_title": "Project Objective"
     },
@@ -24,6 +21,9 @@
     "00.070-cosmic-life-cycle.md": {
       "_title": "Cosmic Life Cycle"
     },
+    "00.080-n-a-morozov.md": {
+      "_title": "N. A. Morozov"
+    },
     "01.000-before-creation.md": {
       "_title": "Before Creation"
     },
@@ -31,10 +31,13 @@
       "_title": "Scalar Energy as the basis of Creation"
     },
     "01.020-3-plasmoids-in-the-southern-hemisphere.md": {
-      "_title": "3 Plasmoids in the Southern hemisphere"
+      "_title": "3 Plasmoids in the Southern Hemisphere"
     },
     "01.030-spawning-of-the-first-life-forms.md": {
       "_title": "Spawning of the First Life Forms"
+    },
+    "01.040-all-planets-and-suns-are-hollow.md": {
+      "_title": "All planets and suns are hollow"
     },
     "02.000-the-golden-age.md": {
       "_title": "The Golden Age"
@@ -402,7 +405,7 @@
     "11.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 133
+    "_count": 134
   },
   "data": {
     "events.json": {},
@@ -427,9 +430,6 @@
     },
     "_count": 5
   },
-  "events": {
-    "_count": 0
-  },
   "investigations": {
     "README.md": {
       "_title": "Investigations"
@@ -440,18 +440,15 @@
     "_count": 2
   },
   "media": {
-    "00-overview": {
-      "earth_was_saturns_moon2.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBdgCIGVlZTAAD2AuFHcN1liqIilwYfYCL/OAQNkeQYrUttRMAA"
-      },
-      "tartarian_structures.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAQCdASoQAA4ABUB8JQBOgBZHQggA/mWdX13lZE8I54KpHrz6dIS0+AxkMyb4XLDxIduhp9FplfZvgNgw9RabnZ14Hly7rOyEZcQosgAAAA=="
-      },
-      "_count": 2
-    },
-    "00-project-objective": {
+    "00.overview": {
       "brown_dwarf.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JaACdAEO9qV+wAD+6NFQq/JyKwSg8hmM/DduE1/e6j4gUKG1oAAA"
+      },
+      "cosmic-lifecycle.png": {
+        "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsABUB8JbACdAEQzByAJaQA/kEFdarct4Mh00ykw1JyYNoZvfnd/o79vcSLdqOGVrhD2FhN8/gQPu+THaLxb7KCWGgA"
+      },
+      "earth_was_saturns_moon2.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBdgCIGVlZTAAD2AuFHcN1liqIilwYfYCL/OAQNkeQYrUttRMAA"
       },
       "fomenko_books.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAwABUB8JbAAAubGPqAAAP7l630u908C9oxW+ka78IJov+Bc6zc0Al+bswMEWHgR/6GOiYZ/wThIgAA="
@@ -462,12 +459,39 @@
       "plasma_discharge_recorded2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoNABAABUB8JZwAAlIEeOAAAPvcbmIT996wZLKZM2erKLmyhyWYXIWFkGGiVveYRQ7t++BVz30AiRh+G33xZromoYE04CAA"
       },
-      "_count": 4
+      "tartarian_structures.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAQCdASoQAA4ABUB8JQBOgBZHQggA/mWdX13lZE8I54KpHrz6dIS0+AxkMyb4XLDxIduhp9FplfZvgNgw9RabnZ14Hly7rOyEZcQosgAAAA=="
+      },
+      "timeline-synchronization.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
+      },
+      "_count": 8
     },
-    "01-before-creation": {
-      "_count": 0
+    "01.before-creation": {
+      "3-plasmoids-in-the-southern-hemisphere.png": {
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAsABUB8JZACdADciGMeQ5YAAP2dTL7mSJ2H4eAvxUTSXRh7FgMssmpxbT7cgsVHZb8V+kwAI5lgngAAAA=="
+      },
+      "3-plasmoids-in-the-southern-hemisphere2.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAsABUB8JZACdADbZo5jKbwAAP2dTL3sXXpAWlKfjctB6fejzIohK6jkM9BpJI4iXsyeclX3NSzq6WlJ4AAA"
+      },
+      "before-creation.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JQBOgB42oAAA/uXvd9bhDLp2tzOy/s6SQSunQDtt4sNV/xLe6qVAAAA="
+      },
+      "hollow-earth-diagram.png": {
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JbACdADrsDJAAP7R4rTNA5DRnMh4J5yLawFlMSiTsT54Uy6517Ajf74aQK/TMzO8RWu4tFAAAA=="
+      },
+      "length-of-a-year-changes.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JQBOgCHP5SoawoAA/tH38BcOLlK8ORfS+7xZwIUnuCJEW9HF00wLqfkA2CP2ncUlHlfwAAA="
+      },
+      "scalar-energy-as-the-basis-of-creation.png": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JbACdADOl/GgEEAA/qoBBR8I1s19jeYBHnRZzvtDuMjWiA3SjfcgrBt9l8uhGRLLnGLCdfQZam0AAAA="
+      },
+      "spawning-first-life-forms.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JbACdADwYDybYAAA/jLIZO/JG8o6gEsyms7Q9QmGLCqUm3REuxRvjL4G+DzGvxn6tIKYAAA="
+      },
+      "_count": 7
     },
-    "02-the-golden-age": {
+    "02.the-golden-age": {
       "atlantis_first_jerusalem.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAENvwcqpjAA/n413VUZLLxC+IPE/rnNAQA5Jy3fF16a8BQ85HSd1Z8WM4TChc9P5L8AAA=="
       },
@@ -503,7 +527,7 @@
       },
       "_count": 11
     },
-    "03-the-dark-ages": {
+    "03.the-dark-ages": {
       "binding_of_isaac.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAwABUB8JZQAApMqoHXGAAD79A7VDtv+k1yBfiYExqfzxIw5zZ50iPxfaZR5BIg3zv2HXz6JrXhASj2LaCLgLxVddwLiAAA="
       },
@@ -560,7 +584,7 @@
       },
       "_count": 18
     },
-    "04-the-blip": {
+    "04.the-blip": {
       "684bce_1053ce_blip.png": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JaACdAD51VPq7YAA/sGi8l1wtweZK7BByc81zFzPAePpIXVTkkzYreRP6L0CwQc5I2Zp1pbJeuviAAA="
       },
@@ -578,7 +602,7 @@
       },
       "_count": 5
     },
-    "05-11th-century-ce-common-era-begins": {
+    "05.ce-11th-common-era-begins": {
       "11th_century_common_era_begins.png": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JYgCdAEQRLTLDqxAAPa5Fqb738KM2DY23gWqwXx3bl2eL0BQUEW8GZZD9iIWUAA="
       },
@@ -586,10 +610,10 @@
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JQBOgCIOpbacKMAA/j/va4GTMvlXTtd8XW3BNjjqdId/RYL5OXiZZQAAAA=="
       },
       "11th_century_giants_write_books.png": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JZgCdADad6nwgAD+44LfiuY8YzhzPWI45r9AuPM1RfGyb8qq7X9CiJjSVBlR8AA="
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZgCdADO2pG3UgAA/tqm3JlBhETHUg8dPOGi9V6NgNsVTfSiLwzZO8QAAA=="
       },
       "11th_century_sun_savior.png": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDE39G64AAAP5IuVNEWvqaEJFzKcsEQEJS6x69pOEgYY8JepMZJhagVgAAAA=="
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JZgCdAD7Fr+YG6WgAP7p0x3agYjhS30ch0ejvp/PYqq7tqWrTHofirf3EkcOx4iAAA=="
       },
       "conjunction.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgAAxXeUKrDAAD+5l7p84ZFRoZcO32wZkwONB6NdYii8MQ0o9FPnMOSH8IP7EAAAA=="
@@ -605,7 +629,7 @@
       },
       "_count": 8
     },
-    "06-12th-century-ce-birth-of-christianity": {
+    "06.ce-12th-birth-of-christianity": {
       "1185ce_crucifixion.png": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JYgCdACH/6E4AP7lvSemdJrAVNokdevHvM+GuDGYn0h1qYlZbAAA"
       },
@@ -632,7 +656,7 @@
       },
       "_count": 8
     },
-    "07-13th-century-ce-the-russian-horde-tartarian-empire": {
+    "07.ce-13th-the-russian-horde-tartarian-empire": {
       "1258ce_christ_dies.png": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAsABUB8JQBOgB0z42LYAP6Gsu8LTALH4b7jgzfgKi3KEJQy8Qs84KykGJGYAAA="
       },
@@ -653,7 +677,7 @@
       },
       "_count": 6
     },
-    "08-14th-century-ce-great-expansion-of-the-mongol-slav": {
+    "08.ce-14th-great-expansion-of-the-mongol-slav": {
       "1380ce_battle_of_kulikovo.png": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsABUB8JZACdAEWef71HwAA/h/FYL042kQ4PZCjIwSX9oqlvw9ng3XNpD0NqNycvEyygAA="
       },
@@ -668,7 +692,7 @@
       },
       "_count": 4
     },
-    "09-15th-century-ce-ottoman-conquest-of-europe": {
+    "09.ce-15th-ottoman-conquest-of-europe": {
       "apocalypse_b_west.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JYwCdAEekvgh3w8AAP4//BoMvso+37pEXceNky/W6IClYh6QykoylY8HXsAA"
       },
@@ -686,7 +710,10 @@
       },
       "_count": 5
     },
-    "10-16th-century-ce-reformation-and-inquisition": {
+    "10.ce-16th-reformation-and-inquisition": {
+      "1552-khazar-rebellion.png": {
+        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAsABUB8JYgCdADz6nKy1YAA/sTSw+T9geKbXr35vHuFxl0SAAAA"
+      },
       "cathar_suppression.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAA0ABUB8JYwCw7DC/iHUX4AA9dquuFILbKVKX4ZucFbKzbpdqq7hYBGSkCn3HpPyJ4oq+x1datKvXmX9Rg69ZCaDdflPTrkl1TcAAAA="
       },
@@ -708,9 +735,9 @@
       "painting_ottoman_invades_vienna_1683.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
       },
-      "_count": 7
+      "_count": 8
     },
-    "11-17th-century-romanovs-rise-to-power": {
+    "11.ce-17th-romanovs-rise-to-power": {
       "1652_massacre_of_polish_captives_at_batih.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAsABUB8JYwCdAEUlAsxDQAA/o+o0yRtXrZTuonqnb7NrYyQ5qNoAAA="
       },
@@ -725,10 +752,16 @@
       },
       "_count": 4
     },
-    "12-18th-century-ce-mudflood-and-pugachev": {
+    "12.ce-18th-mudflood-and-pugachev": {
       "_count": 0
     },
-    "_count": 82
+    "peratt": {
+      "peratt_characteristics_pt_1.pdf": {},
+      "perattetal_characteristics_pt_2.pdf": {},
+      "perattyaoaurora-prehistory.pdf": {},
+      "_count": 3
+    },
+    "_count": 95
   },
-  "_count": 225
+  "_count": 239
 }

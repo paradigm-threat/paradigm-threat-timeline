@@ -17,7 +17,6 @@ MAPPING = [
     # ── Chapter 00: Overview / Intro / Project Objective ──────────────────────
     ("00.10-introduction.md",                                          "articles/overview/introduction.md"),
     ("00.20-saturnian-cosmology-timeline-video.md",                    "articles/saturnian-cosmology-timeline-video/saturnian-cosmology-timeline-video.md"),
-    ("00.30-chronology-chat.md",                                       "articles/chronology-chat/chronology-chat.md"),
     ("00.40-project-objective.md",                                     "articles/project-objective/project-objective.md"),
     ("00.50-the-length-of-a-year-changes-throughout-antiquity.md",     "articles/project-objective/the-length-of-a-year-changes-throughout-antiquity.md"),
     ("00.60-timeline-synchronization.md",                              "articles/project-objective/timeline-synchronization.md"),

@@ -26,7 +26,7 @@ File sort order = timeline order. Insert new files anywhere without renaming exi
 
 | # | Old section | Date range |
 |---|-------------|------------|
-| 00 | overview + saturnian-cosmology-video + chronology-chat | (meta/intro) |
+| 00 | overview + saturnian-cosmology-video | (meta/intro) |
 | 01 | project-objective | (methodology) |
 | 02 | before-creation | ~5000 BCE |
 | 03 | the-golden-age | ~4077–3147 BCE |
@@ -53,7 +53,6 @@ Future centuries slot in naturally: 13 = 18th, 14 = 19th, etc.
 | `00.00-overview.md` | *(new chapter header, replaces nothing — or repurpose `overview/introduction.md` as header)* |
 | `00.10-introduction.md` | `articles/overview/introduction.md` |
 | `00.20-saturnian-cosmology-timeline-video.md` | `articles/saturnian-cosmology-timeline-video/saturnian-cosmology-timeline-video.md` |
-| `00.30-chronology-chat.md` | `articles/chronology-chat/chronology-chat.md` |
 
 ---
 

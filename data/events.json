@@ -1,6 +1,56 @@
 {
   "entries": [
     {
+      "id": "evt-introduction",
+      "title": "Introduction",
+      "type": "article",
+      "md_path": "content/00.010-introduction.md",
+      "children": [
+        {
+          "id": "evt-saturnian-cosmology-timeline-video",
+          "title": "Saturnian Cosmology Timeline Video",
+          "type": "article",
+          "md_path": "content/00.020-saturnian-cosmology-timeline-video.md",
+          "children": []
+        },
+        {
+          "id": "evt-project-objective",
+          "title": "Project Objective",
+          "type": "article",
+          "md_path": "content/00.040-project-objective.md",
+          "children": []
+        },
+        {
+          "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
+          "title": "The length of a Year changes throughout Antiquity",
+          "type": "article",
+          "md_path": "content/00.050-the-length-of-a-year-changes-throughout-antiquity.md",
+          "children": []
+        },
+        {
+          "id": "evt-timeline-synchronization",
+          "title": "Timeline synchronization",
+          "type": "article",
+          "md_path": "content/00.060-timeline-synchronization.md",
+          "children": []
+        },
+        {
+          "id": "evt-cosmic-life-cycle",
+          "title": "Cosmic Life Cycle",
+          "type": "article",
+          "md_path": "content/00.070-cosmic-life-cycle.md",
+          "children": []
+        },
+        {
+          "id": "evt-n-a-morozov",
+          "title": "N. A. Morozov",
+          "type": "article",
+          "md_path": "content/00.080-n-a-morozov.md",
+          "children": []
+        }
+      ]
+    },
+    {
       "id": "evt-before-creation",
       "title": "Before Creation",
       "type": "event",
@@ -8,7 +58,7 @@
       "children": [
         {
           "id": "evt-3-plasmoids-in-the-southern-hemisphere",
-          "title": "3 Plasmoids in the Southern hemisphere",
+          "title": "3 Plasmoids in the Southern Hemisphere",
           "type": "article",
           "md_path": "content/01.020-3-plasmoids-in-the-southern-hemisphere.md",
           "children": []
@@ -27,6 +77,13 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "evt-all-planets-and-suns-are-hollow",
+          "title": "All planets and suns are hollow",
+          "type": "article",
+          "md_path": "content/01.040-all-planets-and-suns-are-hollow.md",
+          "children": []
         }
       ],
       "dates": [
@@ -76,13 +133,6 @@
           "title": "The Absu layers surrounded the Planets",
           "type": "article",
           "md_path": "content/02.060-the-absu-layers-surrounded-the-planets.md",
-          "children": []
-        },
-        {
-          "id": "evt-all-planets-and-suns-are-hollow",
-          "title": "All planets and suns are hollow",
-          "type": "article",
-          "md_path": "content/02.020-all-planets-and-suns-are-hollow.md",
           "children": []
         },
         {
@@ -1438,47 +1488,9 @@
           "calendar": "CE"
         }
       ]
-    },
-    {
-      "id": "evt-chronology-chat",
-      "title": "Chronology Chat",
-      "type": "article",
-      "md_path": "content/00.030-chronology-chat.md",
-      "children": []
     }
   ],
-  "introArticles": [
-    {
-      "id": "evt-intro",
-      "title": "Introduction",
-      "md_path": "content/00.010-introduction.md"
-    },
-    {
-      "id": "evt-saturnian-cosmology-timeline-video",
-      "title": "Saturnian Cosmology Timeline Video",
-      "md_path": "content/00.020-saturnian-cosmology-timeline-video.md"
-    },
-    {
-      "id": "evt-project-objective",
-      "title": "Project Objective",
-      "md_path": "content/00.040-project-objective.md"
-    },
-    {
-      "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
-      "title": "The length of a Year changes throughout Antiquity",
-      "md_path": "content/00.050-the-length-of-a-year-changes-throughout-antiquity.md"
-    },
-    {
-      "id": "evt-timeline-synchronization",
-      "title": "Timeline synchronization",
-      "md_path": "content/00.060-timeline-synchronization.md"
-    },
-    {
-      "id": "evt-cosmic-life-cycle",
-      "title": "Cosmic Life Cycle",
-      "md_path": "content/00.070-cosmic-life-cycle.md"
-    }
-  ],
+  "introArticles": [],
   "meta": {
     "source": "build-entries.py"
   }

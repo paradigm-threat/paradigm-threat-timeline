@@ -25,11 +25,19 @@ Alternate Earth History Timeline correlating Scaligerian, Fomenko's New Chronolo
 
 ## Scripts (run after edits)
 
+After editing `data/events.json` or event markdown files:
 ```bash
 npm run normalize-events
 npm run refactor-sections
 npm run validate-events
 ```
+
+After adding or renaming any file in `content/`, `events/`, or `media/` (to update `index.json`):
+```bash
+npm run generate-index
+```
+
+> The husky pre-commit hook runs `generate-index` automatically on `git commit`, but run it manually after adding content files so `index.json` stays current during the session.
 
 ## Image Generation (Golden Age vs Dark Age)
 
