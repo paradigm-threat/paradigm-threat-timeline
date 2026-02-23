@@ -498,6 +498,9 @@
       "cosmic_mountain.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAwABUB8JagCdAC768QAAM3r8sYGjaT80k6pkN+pTVfHPyzBMvWykB+nOgYo95TmuFQqSZAAAA=="
       },
+      "first-jews-of-atlantis.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JZACdAELL3aGgAD+4vNSHfbpkdkIA13jY6dRjWvnXTx4fn2RwKwPqnXQAAAA"
+      },
       "golden_age_absu.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JaABTAAx4lSmmcEAAP6jd3CnC+vlcKelk6o7KwgxpANOEMVvNCLghgZYpXL/elAdP8SL2ahH9eTsSSZQAA=="
       },
@@ -525,7 +528,7 @@
       "wormhole.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUABUB8JZQAAxWmR2IAAP6N/VaFYxZNFySHYAA30wZJPdooSGZgAAA="
       },
-      "_count": 11
+      "_count": 12
     },
     "03.the-dark-ages": {
       "binding_of_isaac.jpg": {
@@ -785,11 +788,11 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 104
+    "_count": 105
   },
   "public": {
     "timeline.pdf": {},
     "_count": 1
   },
-  "_count": 247
+  "_count": 248
 }
