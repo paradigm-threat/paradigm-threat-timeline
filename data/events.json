@@ -1177,18 +1177,7 @@
           "title": "Khazar Rebellion in the Russia-Horde Empire",
           "type": "event",
           "md_path": "content/10.070-khazar-rebellion-in-the-russia-horde-empire.md",
-          "children": [
-            {
-              "id": "evt-deep-state-eliminates-its-enemies",
-              "title": "Deep State eliminates its enemies",
-              "type": "article",
-              "md_path": "content/10.090-deep-state-eliminates-its-enemies.md",
-              "children": [],
-              "media": [
-                "/media/10.ce-16th-reformation-and-inquisition/oprichniki_bish.jpg"
-              ]
-            }
-          ],
+          "children": [],
           "dates": [
             {
               "start": 1552,
@@ -1199,7 +1188,7 @@
         },
         {
           "id": "evt-romanov-dynasty-stages-the-oprichnina-coup",
-          "title": "Romanov Dynasty stages \"The Oprichnina\" coup",
+          "title": "The Oprichnina",
           "type": "event",
           "md_path": "content/10.080-romanov-dynasty-stages-the-oprichnina-coup.md",
           "children": [
@@ -1227,18 +1216,18 @@
           "children": [],
           "dates": [
             {
-              "start": 1431,
-              "end": 1431,
-              "calendar": "CE",
-              "source": "Scaligerian",
-              "note": "Conventional Scaligerian date"
-            },
-            {
               "start": 1580,
               "end": 1580,
               "calendar": "CE",
               "source": "Fomenko",
               "note": "Fomenko reconstruction: event shifted forward ~150 years; belongs to the XV-XVI cc. Inquisition epoch (Book of Judges = Inquisition of the XV-XVI cc.)"
+            },
+            {
+              "start": 1431,
+              "end": 1431,
+              "calendar": "CE",
+              "source": "Scaligerian",
+              "note": "Conventional Scaligerian date"
             }
           ],
           "media": [

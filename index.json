@@ -295,13 +295,10 @@
       "_title": "Khazar Rebellion in the Russia-Horde Empire"
     },
     "10.080-romanov-dynasty-stages-the-oprichnina-coup.md": {
-      "_title": "Romanov Dynasty stages \"The Oprichnina\" coup"
+      "_title": "The Oprichnina"
     },
     "10.085-jeanne-darc-is-executed-in-rouen-france.md": {
       "_title": "Jeanne d'Arc is executed in Rouen, France"
-    },
-    "10.090-deep-state-eliminates-its-enemies.md": {
-      "_title": "Deep State eliminates its enemies"
     },
     "10.100-redacted-into-the-books-of-esther-judith.md": {
       "_title": "Redacted into the Books of Esther / Judith"
@@ -408,7 +405,7 @@
     "11.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 133
+    "_count": 132
   },
   "data": {
     "events.json": {},
@@ -747,6 +744,9 @@
       "oprichniki_bish.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JZACdAC8F2gAAP4xWy8P6jtV4BUD0Mq00taJB2sTwyZCoskBbeAVlCU8yDu/17sqgAAA"
       },
+      "oprichnina.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAsABUB8JQBOgB5l+/AA9pkPLn5MQpPHGKarlKolDi25A6AVbu2b+vxxGGjOyM+AAA=="
+      },
       "painting_german_peasant_war_1525.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JYgCdAEDfIdMZJEcAAD+l2njT9N7le66QZxNZkcGXIZ6eVzZsnsxrlA/lqAA"
       },
@@ -756,7 +756,7 @@
       "painting_samson_and_delilah_by_rubens.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
       },
-      "_count": 10
+      "_count": 11
     },
     "11.ce-17th-romanovs-rise-to-power": {
       "1652_massacre_of_polish_captives_at_batih.jpg": {
@@ -774,7 +774,10 @@
       "_count": 4
     },
     "12.ce-18th-mudflood-and-pugachev": {
-      "_count": 0
+      "mudflood.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JagCdADcpMVs3dgA9hyDjAMxJymBfW1DuiQCbmjxukVdUe1kWisCVZD6wAAA"
+      },
+      "_count": 1
     },
     "peratt": {
       "peratt_characteristics_pt_1.pdf": {},
@@ -782,11 +785,11 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 101
+    "_count": 103
   },
   "public": {
     "timeline.pdf": {},
     "_count": 1
   },
-  "_count": 246
+  "_count": 247
 }
