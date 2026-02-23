@@ -699,6 +699,9 @@
       "_count": 4
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
+      "1421CE-meteor-yaroslavl.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAsABUB8JbACdADDYNxUAAD+0CPlm2AxYDyJozuD51KBfFfbJnecd24rEeDAAAA="
+      },
       "apocalypse_b_west.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JYwCdAEekvgh3w8AAP4//BoMvso+37pEXceNky/W6IClYh6QykoylY8HXsAA"
       },
@@ -714,7 +717,7 @@
       "painting_samson_and_delilah_by_rubens.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
       },
-      "_count": 5
+      "_count": 6
     },
     "10.ce-16th-reformation-and-inquisition": {
       "1552-khazar-rebellion.png": {
@@ -767,11 +770,11 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 96
+    "_count": 97
   },
   "public": {
     "timeline.pdf": {},
     "_count": 1
   },
-  "_count": 241
+  "_count": 242
 }
