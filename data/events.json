@@ -892,6 +892,17 @@
       "md_path": "content/08.000-14th-century-great-expansion-of-the-mongol-slavic-horde.md",
       "children": [
         {
+          "id": "evt-european-religious-schism-emerges",
+          "title": "European Religious Schism Emerges",
+          "type": "article",
+          "md_path": "content/08.010-european-religious-schism-emerges.md",
+          "children": [],
+          "media": [
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-religious-schism.png",
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/black_death.jpg"
+          ]
+        },
+        {
           "id": "evt-the-hundred-years-war-begins",
           "title": "The \"Hundred Years War\" begins",
           "type": "event",
@@ -905,7 +916,8 @@
             }
           ],
           "media": [
-            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/pompeii_painting.jpg"
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-hundred-years-war-begins.png",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/pompeii_painting.jpg"
           ]
         },
         {
@@ -913,18 +925,7 @@
           "title": "Giants are defeated at the Battle of Kulikovo",
           "type": "event",
           "md_path": "content/08.030-giants-are-defeated-at-the-battle-of-kulikovo.md",
-          "children": [
-            {
-              "id": "evt-european-religious-schism-emerges",
-              "title": "European Religious Schism Emerges",
-              "type": "article",
-              "md_path": "content/08.010-european-religious-schism-emerges.md",
-              "children": [],
-              "media": [
-                "/media/08.ce-14th-great-expansion-of-the-mongol-slav/black_death.jpg"
-              ]
-            }
-          ],
+          "children": [],
           "dates": [
             {
               "start": 1380,
@@ -964,24 +965,6 @@
               "end": 1421,
               "calendar": "CE"
             }
-          ]
-        },
-        {
-          "id": "evt-jeanne-darc-is-executed-in-rouen-france",
-          "title": "Jeanne d'Arc is executed in Rouen, France",
-          "type": "event",
-          "md_path": "content/09.020-jeanne-darc-is-executed-in-rouen-france.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1431,
-              "end": 1431,
-              "calendar": "CE"
-            }
-          ],
-          "media": [
-            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_joan_of_arc_stake.jpg",
-            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
           ]
         },
         {
@@ -1087,6 +1070,10 @@
             }
           ]
         }
+      ],
+      "media": [
+        "/media/09.ce-15th-ottoman-conquest-of-europe/15th-conquest-of-europe.png",
+        "/media/09.ce-15th-ottoman-conquest-of-europe/pompeii_painting.jpg"
       ],
       "dates": [
         {
@@ -1230,6 +1217,34 @@
               "end": 1565,
               "calendar": "CE"
             }
+          ]
+        },
+        {
+          "id": "evt-jeanne-darc-is-executed-in-rouen-france",
+          "title": "Jeanne d'Arc is executed in Rouen, France",
+          "type": "event",
+          "md_path": "content/10.085-jeanne-darc-is-executed-in-rouen-france.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1431,
+              "end": 1431,
+              "calendar": "CE",
+              "source": "Scaligerian",
+              "note": "Conventional Scaligerian date"
+            },
+            {
+              "start": 1580,
+              "end": 1580,
+              "calendar": "CE",
+              "source": "Fomenko",
+              "note": "Fomenko reconstruction: event shifted forward ~150 years; belongs to the XV-XVI cc. Inquisition epoch (Book of Judges = Inquisition of the XV-XVI cc.)"
+            }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/painting_joan_of_arc_stake.jpg",
+            "/media/10.ce-16th-reformation-and-inquisition/painting_samson_and_delilah_by_rubens.jpg",
+            "/media/10.ce-16th-reformation-and-inquisition/jeanne-darc-is-executed.png"
           ]
         },
         {

@@ -243,9 +243,6 @@
     "09.010-meteorite-star-metal-falls-on-yaroslavl.md": {
       "_title": "Meteorite (Star Metal) falls on Yaroslavl"
     },
-    "09.020-jeanne-darc-is-executed-in-rouen-france.md": {
-      "_title": "Jeanne d'Arc is executed in Rouen, France"
-    },
     "09.030-hundred-years-war-ends.md": {
       "_title": "Hundred Year's War ends"
     },
@@ -299,6 +296,9 @@
     },
     "10.080-romanov-dynasty-stages-the-oprichnina-coup.md": {
       "_title": "Romanov Dynasty stages \"The Oprichnina\" coup"
+    },
+    "10.085-jeanne-darc-is-executed-in-rouen-france.md": {
+      "_title": "Jeanne d'Arc is executed in Rouen, France"
     },
     "10.090-deep-state-eliminates-its-enemies.md": {
       "_title": "Deep State eliminates its enemies"
@@ -687,20 +687,29 @@
       "1380ce_battle_of_kulikovo.png": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsABUB8JZACdAEWef71HwAA/h/FYL042kQ4PZCjIwSX9oqlvw9ng3XNpD0NqNycvEyygAA="
       },
+      "14th-great-expansion.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JYgCdAEPNVjbAAD7/rZUFzdti344CizvuF4P67z6ePUPtlX25P0uux5dAAAA"
+      },
+      "14th-hundred-years-war-begins.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JQBOgCG7hUyQ0AAAziQH+fGKLSD6Wx5SHanh5rhzXWySNCiMMgdgFgAAAA=="
+      },
+      "14th-religious-schism.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsABUB8JQBOgCKPdMaVfjAAzig/V3dDBY62dwrjv+qW/96xsHxcoTdgYAAA"
+      },
       "black_death.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkABUB8JZQCdABhH38AAPAf4wNnft+z1zrzDYFwhWsdXHhl3BwGfGitW+YijAAAAA=="
       },
       "extraordinary_black_book.jpg": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAA0ABUB8JQBOgBjcU/fIAAD5Bjg6H6pUq0R58i4Ye2XAPDW4tp4IgtAMAA=="
       },
-      "pompeii_painting.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
-      },
-      "_count": 4
+      "_count": 6
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "1421CE-meteor-yaroslavl.png": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAsABUB8JbACdADDYNxUAAD+0CPlm2AxYDyJozuD51KBfFfbJnecd24rEeDAAAA="
+      },
+      "15th-conquest-of-europe.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAsABUB8JYgCdAEKp9vhRDgAAPaghllA7f1T+MH+MmoL3UiXzG15P0uuwfgAAAA="
       },
       "apocalypse_b_west.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JYwCdAEekvgh3w8AAP4//BoMvso+37pEXceNky/W6IClYh6QykoylY8HXsAA"
@@ -711,11 +720,8 @@
       "gutenberg_bible_1455.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JbACdACJQYAAAP4+HpoSHIAFj5YgYTCX0JN98N9TQyLPwLy+BBVcXDH3/hUAAAA="
       },
-      "painting_joan_of_arc_stake.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoLABAABUB8JYwCdAD6J/G1LAyAAAD+gdp7FAYpTL4HlLIqT5syutoGD3HdeHxk03XZf1TIsZgcBRs44Mq5lptgAAA="
-      },
-      "painting_samson_and_delilah_by_rubens.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
+      "pompeii_painting.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
       },
       "_count": 6
     },
@@ -728,6 +734,9 @@
       },
       "galileo_facing_the_inquisition.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAwABUB8JQBOgBuu5HYiAADMkT9Oelv/1snPLwkmAiZGkfSNFzKjunSoV61X5TD09HOXapwAAA=="
+      },
+      "jeanne-darc-is-executed.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JQBOgCGF0AAA/autarGK7WSy/KCNrJcSJxpfhol4Vy9UCtIfVZOwwAA="
       },
       "jews_vs_gentiles.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAwABUB8JQBOgCBX5Qma5F0AAOHfyxVez7giOW5Nq3oVy7JrFnlrOgh3sNRt5eHdyQAA"
@@ -744,7 +753,10 @@
       "painting_ottoman_invades_vienna_1683.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
       },
-      "_count": 8
+      "painting_samson_and_delilah_by_rubens.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
+      },
+      "_count": 10
     },
     "11.ce-17th-romanovs-rise-to-power": {
       "1652_massacre_of_polish_captives_at_batih.jpg": {
@@ -770,11 +782,11 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 97
+    "_count": 101
   },
   "public": {
     "timeline.pdf": {},
     "_count": 1
   },
-  "_count": 242
+  "_count": 246
 }
