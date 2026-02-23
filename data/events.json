@@ -1606,9 +1606,9 @@
     },
     {
       "id": "evt-last-sprinkling-of-absu-dust",
-      "title": "Last sprinkling of Absu dust.",
+      "title": "Ecliptic pathway of the Absu last seen.",
       "type": "event",
-      "md_path": "content/11.210-last-sprinkling-of-absu-dust.md",
+      "md_path": "content/12.300-ecliptic-pathway-of-the-absu-last-seen.md",
       "children": [],
       "dates": [
         {
@@ -1622,7 +1622,7 @@
       "id": "evt-secret-society-of-jesus-goes-public",
       "title": "Secret Society of Jesus goes public",
       "type": "event",
-      "md_path": "content/11.250-secret-society-of-jesus-goes-public.md",
+      "md_path": "content/12.250-secret-society-of-jesus-goes-public.md",
       "children": [],
       "dates": [
         {
@@ -1636,7 +1636,7 @@
       "id": "evt-the-rebellion-of-pugachev",
       "title": "The Rebellion of Pugachev",
       "type": "event",
-      "md_path": "content/11.260-the-rebellion-of-pugachev.md",
+      "md_path": "content/12.260-the-rebellion-of-pugachev.md",
       "children": [],
       "dates": [
         {
@@ -1650,7 +1650,7 @@
       "id": "evt-mysterious-carbon-14-spike",
       "title": "mysterious carbon-14 spike",
       "type": "event",
-      "md_path": "content/11.265-mysterious-carbon-14-spike.md",
+      "md_path": "content/12.265-mysterious-carbon-14-spike.md",
       "children": [],
       "dates": [
         {
@@ -1664,7 +1664,7 @@
       "id": "evt-the-mudflood-and-world-cataclysm",
       "title": "The MudFlood and World Cataclysm",
       "type": "event",
-      "md_path": "content/11.270-the-mudflood-and-world-cataclysm.md",
+      "md_path": "content/12.270-the-mudflood-and-world-cataclysm.md",
       "children": [],
       "dates": [
         {
@@ -1678,7 +1678,7 @@
       "id": "evt-napoleonic-wars",
       "title": "Napoleonic Wars",
       "type": "event",
-      "md_path": "content/11.280-napoleonic-wars.md",
+      "md_path": "content/12.280-napoleonic-wars.md",
       "children": [],
       "dates": [
         {
@@ -1692,13 +1692,13 @@
       "id": "evt-napoleon-invades-russia",
       "title": "Napoleon invades Russia",
       "type": "event",
-      "md_path": "content/11.290-napoleon-invades-russia.md",
+      "md_path": "content/12.290-napoleon-invades-russia.md",
       "children": [
         {
           "id": "evt-ecliptic-pathway-of-the-absu-last-seen",
           "title": "Ecliptic pathway of the Absu last seen.",
           "type": "event",
-          "md_path": "content/11.300-ecliptic-pathway-of-the-absu-last-seen.md",
+          "md_path": "content/12.300-ecliptic-pathway-of-the-absu-last-seen.md",
           "children": [],
           "dates": [
             {
@@ -1712,7 +1712,7 @@
           "id": "evt-tchaikovsky-releases-1812-overture",
           "title": "Tchaikovsky releases 1812 Overture",
           "type": "event",
-          "md_path": "content/11.310-tchaikovsky-releases-1812-overture.md",
+          "md_path": "content/12.310-tchaikovsky-releases-1812-overture.md",
           "children": [],
           "dates": [
             {

@@ -369,9 +369,6 @@
     "11.200-deep-state-solidifies-central-banking.md": {
       "_title": "Deep State solidifies central banking"
     },
-    "11.210-last-sprinkling-of-absu-dust.md": {
-      "_title": "Last sprinkling of Absu dust."
-    },
     "11.220-deep-state-breaks-up-the-hordian-empire.md": {
       "_title": "Deep State breaks up the Hordian Empire"
     },
@@ -381,31 +378,31 @@
     "11.240-jesuits-missions-convert-asians-to-buddhism.md": {
       "_title": "Jesuits Missions convert Asians to Buddhism"
     },
-    "11.250-secret-society-of-jesus-goes-public.md": {
+    "12.250-secret-society-of-jesus-goes-public.md": {
       "_title": "Secret Society of Jesus goes public"
     },
-    "11.260-the-rebellion-of-pugachev.md": {
+    "12.260-the-rebellion-of-pugachev.md": {
       "_title": "The Rebellion of Pugachev"
     },
-    "11.265-mysterious-carbon-14-spike.md": {
+    "12.265-mysterious-carbon-14-spike.md": {
       "_title": "mysterious carbon-14 spike"
     },
-    "11.270-the-mudflood-and-world-cataclysm.md": {
+    "12.270-the-mudflood-and-world-cataclysm.md": {
       "_title": "The MudFlood and World Cataclysm"
     },
-    "11.280-napoleonic-wars.md": {
+    "12.280-napoleonic-wars.md": {
       "_title": "Napoleonic Wars"
     },
-    "11.290-napoleon-invades-russia.md": {
+    "12.290-napoleon-invades-russia.md": {
       "_title": "Napoleon invades Russia"
     },
-    "11.300-ecliptic-pathway-of-the-absu-last-seen.md": {
+    "12.300-ecliptic-pathway-of-the-absu-last-seen.md": {
       "_title": "Ecliptic pathway of the Absu last seen."
     },
-    "11.310-tchaikovsky-releases-1812-overture.md": {
+    "12.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 132
+    "_count": 131
   },
   "data": {
     "events.json": {},
@@ -774,10 +771,13 @@
       "_count": 4
     },
     "12.ce-18th-mudflood-and-pugachev": {
+      "last-absu-seen.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDXcLla7tAAP4/shh4X1vdWm+FpiTq1GPX82P+5+gDXN0zX2kuhbBrw0yAAA=="
+      },
       "mudflood.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JagCdADcpMVs3dgA9hyDjAMxJymBfW1DuiQCbmjxukVdUe1kWisCVZD6wAAA"
       },
-      "_count": 1
+      "_count": 2
     },
     "peratt": {
       "peratt_characteristics_pt_1.pdf": {},
@@ -785,7 +785,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 103
+    "_count": 104
   },
   "public": {
     "timeline.pdf": {},
