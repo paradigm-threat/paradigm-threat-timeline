@@ -7,16 +7,6 @@
       "md_path": "content/00.010-introduction.md",
       "children": [
         {
-          "id": "evt-project-objective",
-          "title": "Project Objective",
-          "type": "article",
-          "md_path": "content/00.040-project-objective.md",
-          "children": [],
-          "media": [
-            "/media/00.overview/fomenko_books.jpg"
-          ]
-        },
-        {
           "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
           "title": "The length of a Year changes throughout Antiquity",
           "type": "article",

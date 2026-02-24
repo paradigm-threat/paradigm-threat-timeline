@@ -12,9 +12,6 @@
     "00.010-introduction.md": {
       "_title": "Introduction"
     },
-    "00.040-project-objective.md": {
-      "_title": "Project Objective"
-    },
     "00.050-the-length-of-a-year-changes-throughout-antiquity.md": {
       "_title": "The length of a Year changes throughout Antiquity"
     },
@@ -399,7 +396,7 @@
     "12.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 130
+    "_count": 129
   },
   "data": {
     "events.json": {},
@@ -445,9 +442,6 @@
       "cosmic-lifecycle.png": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsABUB8JbACdAEQzByAJaQA/kEFdarct4Mh00ykw1JyYNoZvfnd/o79vcSLdqOGVrhD2FhN8/gQPu+THaLxb7KCWGgA"
       },
-      "earth_was_saturns_moon2.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBdgCIGVlZTAAD2AuFHcN1liqIilwYfYCL/OAQNkeQYrUttRMAA"
-      },
       "fomenko_books.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAwABUB8JbAAAubGPqAAAP7l630u908C9oxW+ka78IJov+Bc6zc0Al+bswMEWHgR/6GOiYZ/wThIgAA="
       },
@@ -457,8 +451,8 @@
       "plasma_discharge_recorded2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoNABAABUB8JZwAAlIEeOAAAPvcbmIT996wZLKZM2erKLmyhyWYXIWFkGGiVveYRQ7t++BVz30AiRh+G33xZromoYE04CAA"
       },
-      "tartarian_structures.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAQCdASoQAA4ABUB8JQBOgBZHQggA/mWdX13lZE8I54KpHrz6dIS0+AxkMyb4XLDxIduhp9FplfZvgNgw9RabnZ14Hly7rOyEZcQosgAAAA=="
+      "saturnian-cosmology-symbols.png": {
+        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsABUB8JYgCdADRG2UwsRYAAP7c9YdFTCzNu/lO9q75EyYvj6rYK/oc0OM5yAkVVBM/fRgbVlFCrf2JTGcc/JJAVz1XxAAAAA=="
       },
       "tartarian_structures_illustrated.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAsABUB8JZgCdAB1V8RAAP3V5ALCmwaHhyMHaq2Zl4HFSj9LXVixFM+LhkML2Pa4AAAA"
@@ -466,7 +460,7 @@
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 9
+      "_count": 8
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -798,7 +792,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 108
+    "_count": 107
   },
-  "_count": 250
+  "_count": 248
 }
