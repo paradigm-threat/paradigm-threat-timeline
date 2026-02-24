@@ -700,6 +700,58 @@ class PDFRenderer:
         self._link_href = None
 
     # ---------------------------------------------------------------
+    #  Table of Contents renderer  (callback for insert_toc_placeholder)
+    # ---------------------------------------------------------------
+    def _render_toc(self, pdf, outline):
+        """Render the Table of Contents on the reserved placeholder pages."""
+        pdf.set_font(self.SANS, "B", 22)
+        pdf.set_text_color(*C_DARK)
+        pdf.cell(0, 15, self._t("Table of Contents"), align="C",
+                 new_x="LMARGIN", new_y="NEXT")
+        pdf.ln(4)
+
+        y = pdf.get_y()
+        pdf.set_draw_color(*C_GOLD)
+        pdf.set_line_width(0.7)
+        pdf.line(pdf.l_margin, y, pdf.w - pdf.r_margin, y)
+        pdf.ln(8)
+
+        for entry in outline:
+            level = entry.level
+            page  = entry.page_number
+            name  = entry.name
+
+            if level == 0:
+                pdf.set_font(self.SANS, "B", 11)
+                pdf.set_text_color(*C_DARK)
+                indent  = 0
+                line_h  = 6.5
+                spacing = 1.5
+            else:
+                pdf.set_font(self.SERIF, "", 9.5)
+                pdf.set_text_color(*C_H2)
+                indent  = 8
+                line_h  = 5.5
+                spacing = 0.5
+
+            if pdf.get_y() + line_h > pdf.h - pdf.b_margin:
+                pdf.add_page()
+
+            x0 = pdf.l_margin + indent
+            pdf.set_x(x0)
+
+            # Dotted leader line between name and page number
+            avail_w = pdf.w - x0 - pdf.r_margin - 12
+            pdf.cell(avail_w, line_h, name)
+
+            pdf.set_font(self.SANS, "", 9)
+            pdf.set_text_color(*C_GRAY)
+            pdf.cell(12, line_h, str(page), align="R",
+                     new_x="LMARGIN", new_y="NEXT")
+
+            pdf.ln(spacing)
+
+    # ---------------------------------------------------------------
     #  Article + main entry
     # ---------------------------------------------------------------
     def render_article(self, path: Path):
@@ -709,14 +761,29 @@ class PDFRenderer:
 
         self.pdf.add_page()
 
-        # Section label  (e.g. "01.020")
+        # Section number from filename  (e.g. "01.020")
+        section_num = ""
         m = re.match(r"(\d+\.\d+)", path.name)
         if m:
+            section_num = m.group(1)
             self.pdf.set_font(self.SANS, "", 7.5)
             self.pdf.set_text_color(*C_GRAY)
-            self.pdf.cell(0, 4, m.group(1),
+            self.pdf.cell(0, 4, section_num,
                           new_x="LMARGIN", new_y="NEXT")
             self.pdf.ln(1)
+
+        # Extract H1 title for the Table of Contents
+        h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
+        h1_title = h1_match.group(1).strip() if h1_match else path.stem
+
+        # TOC level: xx.000 chapter headers + 00.xxx intro = level 0; rest = level 1
+        if section_num.endswith(".000") or section_num.startswith("00."):
+            toc_level = 0
+        else:
+            toc_level = 1
+
+        toc_label = f"{section_num}  {h1_title}" if section_num else h1_title
+        self.pdf.start_section(toc_label, level=toc_level)
 
         self._restore_body()
         tokens = self.md.parse(text)
@@ -730,6 +797,28 @@ class PDFRenderer:
 
         n = len(md_files)
         print(f"Generating PDF from {n} content files ...")
+
+        # ---- Title page ----
+        self.pdf.add_page()
+        self.pdf.ln(70)
+        self.pdf.set_font(self.SANS, "B", 30)
+        self.pdf.set_text_color(*C_DARK)
+        self.pdf.cell(0, 15, self._t("Paradigm Threat Timeline"), align="C",
+                      new_x="LMARGIN", new_y="NEXT")
+        self.pdf.ln(6)
+        self.pdf.set_draw_color(*C_GOLD)
+        self.pdf.set_line_width(0.7)
+        mid_l = self.pdf.l_margin + 30
+        mid_r = self.pdf.w - self.pdf.r_margin - 30
+        self.pdf.line(mid_l, self.pdf.get_y(), mid_r, self.pdf.get_y())
+        self.pdf.ln(8)
+        self.pdf.set_font(self.SANS, "", 11)
+        self.pdf.set_text_color(*C_GRAY)
+        self.pdf.cell(0, 8, self._t(f"Version {PKG_VERSION}"), align="C",
+                      new_x="LMARGIN", new_y="NEXT")
+
+        # ---- Table of Contents (placeholder filled during output) ----
+        self.pdf.insert_toc_placeholder(self._render_toc, pages=4)
 
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")
