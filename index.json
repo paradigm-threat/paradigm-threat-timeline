@@ -460,10 +460,13 @@
       "tartarian_structures.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAQCdASoQAA4ABUB8JQBOgBZHQggA/mWdX13lZE8I54KpHrz6dIS0+AxkMyb4XLDxIduhp9FplfZvgNgw9RabnZ14Hly7rOyEZcQosgAAAA=="
       },
+      "tartarian_structures_illustrated.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAsABUB8JZgCdAB1V8RAAP3V5ALCmwaHhyMHaq2Zl4HFSj9LXVixFM+LhkML2Pa4AAAA"
+      },
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 8
+      "_count": 9
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -795,7 +798,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 107
+    "_count": 108
   },
-  "_count": 249
+  "_count": 250
 }
