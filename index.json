@@ -448,19 +448,25 @@
       "hollow_earth_EU_model.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAwABUB8JYwAAxeeAbaAAP7tnv1zkItQ33w4A0GUBlh2nZix6JY1006M4NWTrAA="
       },
+      "length-of-a-year-changes.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JaACdAED/y5ZQToAAP7R4v2QfB0cku95UPCqkbBmKOtUzpqiLSaXQP8Pkj7oqRfhAhXKAAA="
+      },
+      "planets-act-like-electrons.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADo51wQQAD+3a2dgPvUHBlMw9yqyfX3tFs30EFZBSKyXI7/wF1YUM/exoHRvFlAAAA="
+      },
       "plasma_discharge_recorded2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoNABAABUB8JZwAAlIEeOAAAPvcbmIT996wZLKZM2erKLmyhyWYXIWFkGGiVveYRQ7t++BVz30AiRh+G33xZromoYE04CAA"
       },
       "saturnian-cosmology-symbols.png": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsABUB8JYgCdADRG2UwsRYAAP7c9YdFTCzNu/lO9q75EyYvj6rYK/oc0OM5yAkVVBM/fRgbVlFCrf2JTGcc/JJAVz1XxAAAAA=="
       },
-      "tartarian_structures_illustrated.jpg": {
+      "tartarian_structures_illustrated.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAsABUB8JZgCdAB1V8RAAP3V5ALCmwaHhyMHaq2Zl4HFSj9LXVixFM+LhkML2Pa4AAAA"
       },
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 8
+      "_count": 10
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -475,19 +481,16 @@
       "hollow-earth-diagram.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JbACdADrsDJAAP7R4rTNA5DRnMh4J5yLawFlMSiTsT54Uy6517Ajf74aQK/TMzO8RWu4tFAAAA=="
       },
-      "length-of-a-year-changes.png": {
-        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JQBOgCHP5SoawoAA/tH38BcOLlK8ORfS+7xZwIUnuCJEW9HF00wLqfkA2CP2ncUlHlfwAAA="
-      },
       "na-morozov.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JQBOgBo5gyuPAAD+g+vxmBEAFV30/L7qW0KirnwSwXEr304EA06UxHnnogKCwSL+T9Lrse1wAA=="
       },
       "scalar-energy-as-the-basis-of-creation.png": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JbACdADOl/GgEEAA/qoBBR8I1s19jeYBHnRZzvtDuMjWiA3SjfcgrBt9l8uhGRLLnGLCdfQZam0AAAA="
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADDP4O8AAD+3PInPYBihcqQmq3K6NZ8AMxhouSks/VuNdzeb0XYKYswRrMeJaPVAAA="
       },
       "spawning-first-life-forms.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JbACdADwYDybYAAA/jLIZO/JG8o6gEsyms7Q9QmGLCqUm3REuxRvjL4G+DzGvxn6tIKYAAA="
       },
-      "_count": 8
+      "_count": 7
     },
     "02.the-golden-age": {
       "atlantis_first_jerusalem.jpg": {
@@ -792,7 +795,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 107
+    "_count": 108
   },
-  "_count": 248
+  "_count": 249
 }
