@@ -38,7 +38,6 @@ MAPPING = [
     ("02.60-the-absu-layers-surrounded-the-planets.md",                "articles/the-golden-age/the-absu-layers-surrounded-the-planets.md"),
     ("02.70-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md", "articles/the-golden-age/priori-mars-as-the-ladder-stairway-mountain-of-heaven.md"),
     ("02.80-atlantis-and-the-tree-of-knowledge.md",                    "articles/the-golden-age/atlantis-and-the-tree-of-knowledge.md"),
-    ("02.90-the-first-jews-of-atlantis-first-jerusalem.md",            "articles/the-golden-age/the-first-jews-of-atlantis-first-jerusalem.md"),
     ("02.100-quantum-entanglement.md",                                 "articles/the-golden-age/quantum-entanglement.md"),
     ("02.110-the-length-of-a-year-was-225-days.md",                    "articles/the-golden-age/the-length-of-a-year-was-225-days.md"),
 

@@ -26,4 +26,10 @@ Unresolved questions, contradictions, and clarifications needed for the Alternat
 
 ## Newly Logged (to resolve)
 
-*(Add items as discovered.)*
+- **Atlantean city names — Og, Aryan, Poseida**: None of these three names appear in Plato or any ancient primary
+  source as Atlantean city names. Current sourcing: *Og* — ancient (Og of Bashan, biblical/Talmudic, Book of Giants)
+  but as a person/king, not a city; *Aryan* — Blavatsky's *Secret Doctrine* (1888) as a post-Atlantean root race name,
+  not a city; *Poseida* — Edgar Cayce readings (1923–1944, "Poseidia") and James Tyberonn Earth-Keeper channelings
+  (2000s). Investigate: (1) Is there any pre-Cayce source naming these as Atlantean cities? (2) Could Cayce's Poseidia
+  derive from Classical sources (Poseidon-cult place names) via redacted intermediaries? (3) Are there ancient place
+  names in the Arctic/Greenland/Nordic region that phonetically match Og, Aryan, or Poseida?

@@ -91,7 +91,6 @@ Future centuries slot in naturally: 13 = 18th, 14 = 19th, etc.
 | `03.60-the-absu-layers-surrounded-the-planets.md` | `articles/the-golden-age/the-absu-layers-surrounded-the-planets.md` |
 | `03.70-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md` | `articles/the-golden-age/priori-mars-as-the-ladder-stairway-mountain-of-heaven.md` |
 | `03.80-atlantis-and-the-tree-of-knowledge.md` | `articles/the-golden-age/atlantis-and-the-tree-of-knowledge.md` |
-| `03.90-the-first-jews-of-atlantis-first-jerusalem.md` | `articles/the-golden-age/the-first-jews-of-atlantis-first-jerusalem.md` |
 | `03.100-quantum-entanglement.md` | `articles/the-golden-age/quantum-entanglement.md` |
 | `03.110-the-length-of-a-year-was-225-days.md` | `articles/the-golden-age/the-length-of-a-year-was-225-days.md` |
 

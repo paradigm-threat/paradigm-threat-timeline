@@ -63,9 +63,6 @@
     "02.080-atlantis-and-the-tree-of-knowledge.md": {
       "_title": "Atlantis and the Tree of Knowledge"
     },
-    "02.090-the-first-jews-of-atlantis-first-jerusalem.md": {
-      "_title": "The First Jews of Atlantis (First Jerusalem)"
-    },
     "02.100-quantum-entanglement.md": {
       "_title": "The Interplanetary Quantum Entanglement"
     },
@@ -396,7 +393,7 @@
     "12.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 129
+    "_count": 128
   },
   "data": {
     "events.json": {},
@@ -493,14 +490,11 @@
       "_count": 7
     },
     "02.the-golden-age": {
-      "atlantis_first_jerusalem.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAENvwcqpjAA/n413VUZLLxC+IPE/rnNAQA5Jy3fF16a8BQ85HSd1Z8WM4TChc9P5L8AAA=="
+      "atlantis_first_jerusalem.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JQBOgCG0KZ2wAAD+43LQNWDXZWBNGslRzKFNZu1dLKeSJXhKroyHSVAAAA=="
       },
       "cosmic_mountain.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAwABUB8JagCdAC768QAAM3r8sYGjaT80k6pkN+pTVfHPyzBMvWykB+nOgYo95TmuFQqSZAAAA=="
-      },
-      "first-jews-of-atlantis.png": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JYgCsADcrwmqgAAA/uNLOYBwdxQkRBxxqQejsyj6Zc35J685VXu61ZWY4AAA"
       },
       "golden_age_absu.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JaABTAAx4lSmmcEAAP6jd3CnC+vlcKelk6o7KwgxpANOEMVvNCLghgZYpXL/elAdP8SL2ahH9eTsSSZQAA=="
@@ -535,7 +529,7 @@
       "wormhole.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUABUB8JZQAAxWmR2IAAP6N/VaFYxZNFySHYAA30wZJPdooSGZgAAA="
       },
-      "_count": 14
+      "_count": 13
     },
     "03.the-dark-ages": {
       "binding_of_isaac.jpg": {
@@ -795,7 +789,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 108
+    "_count": 107
   },
-  "_count": 249
+  "_count": 247
 }

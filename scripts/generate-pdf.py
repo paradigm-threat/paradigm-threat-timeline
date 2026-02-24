@@ -682,28 +682,6 @@ class PDFRenderer:
     # ---------------------------------------------------------------
     #  Helpers
     # ---------------------------------------------------------------
-    @staticmethod
-    def _strip_md(text: str) -> str:
-        """Strip common Markdown inline syntax from a string."""
-        # Images: ![alt](url)
-        text = re.sub(r"!\[([^\]]*)\]\([^)]*\)", r"\1", text)
-        # Links: [text](url)
-        text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
-        # Bold+Italic: ***text*** or ___text___
-        text = re.sub(r"\*{3}(.+?)\*{3}", r"\1", text)
-        text = re.sub(r"_{3}(.+?)_{3}", r"\1", text)
-        # Bold: **text** or __text__
-        text = re.sub(r"\*{2}(.+?)\*{2}", r"\1", text)
-        text = re.sub(r"_{2}(.+?)_{2}", r"\1", text)
-        # Italic: *text* or _text_
-        text = re.sub(r"(?<!\w)\*(.+?)\*(?!\w)", r"\1", text)
-        text = re.sub(r"(?<!\w)_(.+?)_(?!\w)", r"\1", text)
-        # Inline code: `text`
-        text = re.sub(r"`([^`]+)`", r"\1", text)
-        # Strikethrough: ~~text~~
-        text = re.sub(r"~~(.+?)~~", r"\1", text)
-        return text.strip()
-
     def _plain(self, tok) -> str:
         """Flatten a token tree to plain text."""
         if tok.children:
@@ -726,6 +704,8 @@ class PDFRenderer:
     # ---------------------------------------------------------------
     def _render_toc(self, pdf, outline):
         """Render the Table of Contents on the reserved placeholder pages."""
+        start_page = pdf.page
+
         pdf.set_font(self.SANS, "B", 22)
         pdf.set_text_color(*C_DARK)
         pdf.cell(0, 15, self._t("Table of Contents"), align="C",
@@ -773,6 +753,13 @@ class PDFRenderer:
 
             pdf.ln(spacing)
 
+        # Pad remaining reserved pages with blank page breaks
+        pages_used = pdf.page - start_page + 1
+        print(f"  TOC: {len(outline)} entries on {pages_used} pages (reserved {self._toc_pages})")
+        while pages_used < self._toc_pages:
+            pdf.add_page()
+            pages_used += 1
+
     # ---------------------------------------------------------------
     #  Article + main entry
     # ---------------------------------------------------------------
@@ -780,19 +767,8 @@ class PDFRenderer:
         text = path.read_text("utf-8")
         text = re.sub(r"<[A-Z][A-Za-z0-9]*[^>]*/?>", "", text)    # strip JSX
         text = re.sub(r"</?[A-Z][A-Za-z0-9]*>", "", text)          # strip closing JSX
-        # Strip HTML blocks that can't render in PDF (iframes, video embeds, etc.)
-        text = re.sub(r"<iframe[^>]*>.*?</iframe>", "", text, flags=re.S | re.I)
-        text = re.sub(r"<iframe[^>]*/>", "", text, flags=re.I)
-        text = re.sub(r"<video[^>]*>.*?</video>", "", text, flags=re.S | re.I)
-        text = re.sub(r"<audio[^>]*>.*?</audio>", "", text, flags=re.S | re.I)
-        # Remove self-referential "Download the full timeline as PDF" link
-        text = re.sub(r"[^\n]*\[Download the full timeline as PDF\][^\n]*\n?", "", text)
 
-        # Skip the first page break after TOC placeholder (already on a fresh page)
-        if getattr(self, '_skip_first_page_break', False):
-            self._skip_first_page_break = False
-        else:
-            self.pdf.add_page()
+        self.pdf.add_page()
 
         # Section number from filename  (e.g. "01.020")
         section_num = ""
@@ -805,9 +781,9 @@ class PDFRenderer:
                           new_x="LMARGIN", new_y="NEXT")
             self.pdf.ln(1)
 
-        # Extract H1 title for the Table of Contents (strip markdown syntax)
+        # Extract H1 title for the Table of Contents
         h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
-        h1_title = self._strip_md(h1_match.group(1)) if h1_match else path.stem
+        h1_title = h1_match.group(1).strip() if h1_match else path.stem
 
         # TOC level: xx.000 chapter headers + 00.xxx intro = level 0; rest = level 1
         if section_num.endswith(".000") or section_num.startswith("00."):
@@ -850,16 +826,10 @@ class PDFRenderer:
         self.pdf.cell(0, 8, self._t(f"Version {PKG_VERSION}"), align="C",
                       new_x="LMARGIN", new_y="NEXT")
 
-        # ---- Table of Contents ----
-        # add_page() separates the title page from the TOC.
-        # pages=4 reserves 4 pages: the current page (2) + 3 page breaks
-        # (→ pages 3-5). After the placeholder, we land on page 6.
-        self.pdf.add_page()
-        self.pdf.insert_toc_placeholder(self._render_toc, pages=4)
-        # After the placeholder, we're on the first page past the TOC.
-        # Set _skip_first_page_break so render_article won't add a redundant
-        # blank page for the first article.
-        self._skip_first_page_break = True
+        # ---- Table of Contents (placeholder filled during output) ----
+        # TOC starts on a new page; reserve enough pages (padding if fewer needed)
+        self._toc_pages = 5
+        self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
 
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")
