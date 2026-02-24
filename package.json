@@ -1,6 +1,6 @@
 {
   "name": "paradigm-threat-timeline",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,6 +9,8 @@
     "build-entries": "python3 scripts/build-entries.py",
     "populate-media": "python3 scripts/populate-media.py",
     "generate-pdf": "python3 scripts/generate-pdf.py",
+    "generate-docx": "python3 scripts/generate-docx.py",
+    "generate-exports": "python3 scripts/generate-pdf.py && python3 scripts/generate-docx.py",
     "dev": "npx serve . -p 3011 --cors",
     "prepare": "husky"
   },
