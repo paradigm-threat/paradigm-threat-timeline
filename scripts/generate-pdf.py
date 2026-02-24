@@ -682,6 +682,28 @@ class PDFRenderer:
     # ---------------------------------------------------------------
     #  Helpers
     # ---------------------------------------------------------------
+    @staticmethod
+    def _strip_md(text: str) -> str:
+        """Strip common Markdown inline syntax from a string."""
+        # Images: ![alt](url)
+        text = re.sub(r"!\[([^\]]*)\]\([^)]*\)", r"\1", text)
+        # Links: [text](url)
+        text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)
+        # Bold+Italic: ***text*** or ___text___
+        text = re.sub(r"\*{3}(.+?)\*{3}", r"\1", text)
+        text = re.sub(r"_{3}(.+?)_{3}", r"\1", text)
+        # Bold: **text** or __text__
+        text = re.sub(r"\*{2}(.+?)\*{2}", r"\1", text)
+        text = re.sub(r"_{2}(.+?)_{2}", r"\1", text)
+        # Italic: *text* or _text_
+        text = re.sub(r"(?<!\w)\*(.+?)\*(?!\w)", r"\1", text)
+        text = re.sub(r"(?<!\w)_(.+?)_(?!\w)", r"\1", text)
+        # Inline code: `text`
+        text = re.sub(r"`([^`]+)`", r"\1", text)
+        # Strikethrough: ~~text~~
+        text = re.sub(r"~~(.+?)~~", r"\1", text)
+        return text.strip()
+
     def _plain(self, tok) -> str:
         """Flatten a token tree to plain text."""
         if tok.children:
@@ -704,6 +726,8 @@ class PDFRenderer:
     # ---------------------------------------------------------------
     def _render_toc(self, pdf, outline):
         """Render the Table of Contents on the reserved placeholder pages."""
+        start_page = pdf.page
+
         pdf.set_font(self.SANS, "B", 22)
         pdf.set_text_color(*C_DARK)
         pdf.cell(0, 15, self._t("Table of Contents"), align="C",
@@ -740,7 +764,7 @@ class PDFRenderer:
             x0 = pdf.l_margin + indent
             pdf.set_x(x0)
 
-            # Dotted leader line between name and page number
+            # Entry name and page number
             avail_w = pdf.w - x0 - pdf.r_margin - 12
             pdf.cell(avail_w, line_h, name)
 
@@ -750,6 +774,13 @@ class PDFRenderer:
                      new_x="LMARGIN", new_y="NEXT")
 
             pdf.ln(spacing)
+
+        # Pad remaining reserved pages with blank page breaks
+        pages_used = pdf.page - start_page + 1
+        print(f"  TOC: {len(outline)} entries on {pages_used} pages (reserved {self._toc_pages})")
+        while pages_used < self._toc_pages:
+            pdf.add_page()
+            pages_used += 1
 
     # ---------------------------------------------------------------
     #  Article + main entry
@@ -772,9 +803,9 @@ class PDFRenderer:
                           new_x="LMARGIN", new_y="NEXT")
             self.pdf.ln(1)
 
-        # Extract H1 title for the Table of Contents
+        # Extract H1 title for the Table of Contents (strip markdown syntax)
         h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
-        h1_title = h1_match.group(1).strip() if h1_match else path.stem
+        h1_title = self._strip_md(h1_match.group(1)) if h1_match else path.stem
 
         # TOC level: xx.000 chapter headers + 00.xxx intro = level 0; rest = level 1
         if section_num.endswith(".000") or section_num.startswith("00."):
@@ -818,7 +849,9 @@ class PDFRenderer:
                       new_x="LMARGIN", new_y="NEXT")
 
         # ---- Table of Contents (placeholder filled during output) ----
-        self.pdf.insert_toc_placeholder(self._render_toc, pages=4)
+        # TOC starts on a new page; reserve enough pages (padding if fewer needed)
+        self._toc_pages = 5
+        self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
 
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")
