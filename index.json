@@ -12,9 +12,6 @@
     "00.010-introduction.md": {
       "_title": "Introduction"
     },
-    "00.020-saturnian-cosmology-timeline-video.md": {
-      "_title": "Saturnian Cosmology Timeline Video"
-    },
     "00.040-project-objective.md": {
       "_title": "Project Objective"
     },
@@ -73,7 +70,7 @@
       "_title": "The First Jews of Atlantis (First Jerusalem)"
     },
     "02.100-quantum-entanglement.md": {
-      "_title": "Quantum Entanglement"
+      "_title": "The Interplanetary Quantum Entanglement"
     },
     "02.110-the-length-of-a-year-was-225-days.md": {
       "_title": "The length of a year was 225 days"
@@ -402,7 +399,7 @@
     "12.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 131
+    "_count": 130
   },
   "data": {
     "events.json": {},
@@ -426,6 +423,10 @@
       "_title": "Restructure Plan: Unified Decimal-Numbered Content Folder"
     },
     "_count": 5
+  },
+  "export": {
+    "timeline.pdf": {},
+    "_count": 1
   },
   "investigations": {
     "README.md": {
@@ -499,7 +500,7 @@
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAwABUB8JagCdAC768QAAM3r8sYGjaT80k6pkN+pTVfHPyzBMvWykB+nOgYo95TmuFQqSZAAAA=="
       },
       "first-jews-of-atlantis.png": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JZACdAELL3aGgAD+4vNSHfbpkdkIA13jY6dRjWvnXTx4fn2RwKwPqnXQAAAA"
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JYgCsADcrwmqgAAA/uNLOYBwdxQkRBxxqQejsyj6Zc35J685VXu61ZWY4AAA"
       },
       "golden_age_absu.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JaABTAAx4lSmmcEAAP6jd3CnC+vlcKelk6o7KwgxpANOEMVvNCLghgZYpXL/elAdP8SL2ahH9eTsSSZQAA=="
@@ -516,6 +517,9 @@
       "norse_yggdrasil.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAwABUB8JZAC7H8AEebFedIAAP3/S4de1ipIUyOq+tptQVxYsxC2GIugRdAGPX97CUF1Zot0e1fcy96PoAAA"
       },
+      "quantum-entanglement.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JQBOgBuHwEm7QAD+6fjf+F55fmEtaKB3G4nKiylL4btOIOozmA7TFZuizBs2gAA="
+      },
       "saturn_configuration_vortex.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoOABAABUB8JZQAAuRolaXUAAAA/u9Rp6zr1mng7LQLB6PpoGdPvXO9OM3oq/IBcafn3xACAAA="
       },
@@ -525,10 +529,13 @@
       "saturnian_configuration_south.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAA0ABUB8JQBOgB9ix4IF3nwAAM4wnT74x4h2/ihktG7k8j5yangQKQ5dDgcnvCenRH2MKuQSeu0avm+frTIAAAA="
       },
+      "the-absu.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JYgCdAD5aMejkAD+6VsNXpoLUGRkxqIMyrUB1Xe31sUBGwNRKxi+fQgjo6txQ3qulsQA"
+      },
       "wormhole.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUABUB8JZQAAxWmR2IAAP6N/VaFYxZNFySHYAA30wZJPdooSGZgAAA="
       },
-      "_count": 12
+      "_count": 14
     },
     "03.the-dark-ages": {
       "binding_of_isaac.jpg": {
@@ -788,11 +795,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 105
+    "_count": 107
   },
-  "public": {
-    "timeline.pdf": {},
-    "_count": 1
-  },
-  "_count": 248
+  "_count": 249
 }

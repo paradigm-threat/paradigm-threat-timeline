@@ -7,13 +7,6 @@
       "md_path": "content/00.010-introduction.md",
       "children": [
         {
-          "id": "evt-saturnian-cosmology-timeline-video",
-          "title": "Saturnian Cosmology Timeline Video",
-          "type": "article",
-          "md_path": "content/00.020-saturnian-cosmology-timeline-video.md",
-          "children": []
-        },
-        {
           "id": "evt-project-objective",
           "title": "Project Objective",
           "type": "article",
@@ -221,7 +214,7 @@
         },
         {
           "id": "evt-quantum-entanglement",
-          "title": "Quantum Entanglement",
+          "title": "The Interplanetary Quantum Entanglement",
           "type": "article",
           "md_path": "content/02.100-quantum-entanglement.md",
           "children": [],
