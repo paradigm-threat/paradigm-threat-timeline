@@ -109,6 +109,16 @@ def _add_toc(doc: Document, md_files: list):
     hr.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
     doc.add_paragraph()
 
+    # Pre-build section labels from XX.000-... files
+    section_labels: dict = {}
+    for path in md_files:
+        stem = path.stem
+        parts = stem.split('-')[0]   # e.g. "02.000"
+        nums  = parts.split('.')     # ["02", "000"]
+        if len(nums) >= 2 and nums[1] == '000':
+            sec_num = nums[0].lstrip('0') or '0'
+            section_labels[sec_num] = _extract_h1(path)
+
     # Group entries by section prefix (first two numeric components of filename)
     current_section = None
     for i, path in enumerate(md_files):
@@ -119,11 +129,19 @@ def _add_toc(doc: Document, md_files: list):
         nums  = parts.split('.')    # ["02", "080"]
         section_prefix = nums[0].lstrip('0') or '0'  # "2"
 
-        # Print a thin section divider when major section changes
+        # Render a styled section label when major section changes
         if section_prefix != current_section:
             current_section = section_prefix
             if i > 0:
-                doc.add_paragraph()
+                label_text = section_labels.get(section_prefix, f"Section {section_prefix}")
+                divider = doc.add_paragraph()
+                divider.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                divider.paragraph_format.space_before = Pt(8)
+                divider.paragraph_format.space_after  = Pt(4)
+                d_run = divider.add_run(f"—  {label_text}  —")
+                d_run.font.size      = Pt(9)
+                d_run.font.italic    = True
+                d_run.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
 
         # TOC entry paragraph
         para = doc.add_paragraph()
