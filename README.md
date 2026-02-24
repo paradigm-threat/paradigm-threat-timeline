@@ -1,6 +1,8 @@
 # paradigm-threat-timeline
 
-Alternate Earth History Timeline — correlating Scaligerian, Fomenko's New Chronology, Saturnian Cosmology, and other sources. An **investigation** into chronology, guided by the principle that victors write the history and that mass-redaction may have occurred after major world wars, plagues, or regime changes.
+**Paradigm Threat: The Third Story** — an alternate Earth history investigation correlating Scaligerian chronology, Fomenko's New Chronology, Saturnian Cosmology, and indigenous oral traditions.
+
+The PDF and DOCX exports in `export/` are **early drafts of an upcoming book**. They are generated automatically from the research articles in `content/` and should be treated as working drafts: citations are ongoing, sections will be restructured, and conclusions may be revised as new evidence is incorporated. Do not cite page numbers from these drafts.
 
 ## Principles
 

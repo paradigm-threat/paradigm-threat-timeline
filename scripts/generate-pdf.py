@@ -809,10 +809,14 @@ class PDFRenderer:
 
         # ---- Title page ----
         self.pdf.add_page()
-        self.pdf.ln(70)
-        self.pdf.set_font(self.SANS, "B", 30)
+        self.pdf.ln(60)
+        self.pdf.set_font(self.SANS, "B", 36)
         self.pdf.set_text_color(*C_DARK)
-        self.pdf.cell(0, 15, self._t("Paradigm Threat Timeline"), align="C",
+        self.pdf.cell(0, 18, self._t("Paradigm Threat:"), align="C",
+                      new_x="LMARGIN", new_y="NEXT")
+        self.pdf.set_font(self.SANS, "B", 28)
+        self.pdf.set_text_color(*C_GOLD)
+        self.pdf.cell(0, 14, self._t("The Third Story"), align="C",
                       new_x="LMARGIN", new_y="NEXT")
         self.pdf.ln(6)
         self.pdf.set_draw_color(*C_GOLD)
@@ -821,8 +825,12 @@ class PDFRenderer:
         mid_r = self.pdf.w - self.pdf.r_margin - 30
         self.pdf.line(mid_l, self.pdf.get_y(), mid_r, self.pdf.get_y())
         self.pdf.ln(8)
-        self.pdf.set_font(self.SANS, "", 11)
+        self.pdf.set_font(self.SANS, "I", 10)
         self.pdf.set_text_color(*C_GRAY)
+        self.pdf.cell(0, 7, self._t("Early Draft — Paradigm Threat Timeline"), align="C",
+                      new_x="LMARGIN", new_y="NEXT")
+        self.pdf.ln(3)
+        self.pdf.set_font(self.SANS, "", 11)
         self.pdf.cell(0, 8, self._t(f"Version {PKG_VERSION}"), align="C",
                       new_x="LMARGIN", new_y="NEXT")
 

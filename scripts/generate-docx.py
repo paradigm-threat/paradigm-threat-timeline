@@ -597,15 +597,27 @@ class DOCXRenderer:
         print(f"Generating DOCX from {n} content files ...")
 
         # ---- Title page ----
+        self.doc.add_paragraph()
+        self.doc.add_paragraph()
+        self.doc.add_paragraph()
         title_para = self.doc.add_paragraph()
         title_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        self.doc.add_paragraph()
-        self.doc.add_paragraph()
-        self.doc.add_paragraph()
-        run = title_para.add_run("Paradigm Threat Timeline")
+        run = title_para.add_run("Paradigm Threat:")
         run.bold      = True
-        run.font.size = Pt(30)
+        run.font.size = Pt(36)
         run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+        sub_para = self.doc.add_paragraph()
+        sub_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        sr = sub_para.add_run("The Third Story")
+        sr.bold      = True
+        sr.font.size = Pt(28)
+        sr.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+        draft_para = self.doc.add_paragraph()
+        draft_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        dr = draft_para.add_run("Early Draft — Paradigm Threat Timeline")
+        dr.italic     = True
+        dr.font.size  = Pt(10)
+        dr.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
         ver_para = self.doc.add_paragraph()
         ver_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
         vr = ver_para.add_run(f"Version {PKG_VERSION}")
