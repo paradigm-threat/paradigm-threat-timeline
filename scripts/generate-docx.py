@@ -139,9 +139,9 @@ def _add_toc(doc: Document, md_files: list):
                 divider.paragraph_format.space_before = Pt(8)
                 divider.paragraph_format.space_after  = Pt(4)
                 d_run = divider.add_run(f"—  {label_text}  —")
-                d_run.font.size      = Pt(9)
-                d_run.font.italic    = True
-                d_run.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
+                d_run.font.size      = Pt(12)
+                d_run.bold           = True
+                d_run.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
 
         # TOC entry paragraph
         para = doc.add_paragraph()
@@ -651,12 +651,15 @@ class DOCXRenderer:
         sr.bold      = True
         sr.font.size = Pt(28)
         sr.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
-        draft_para = self.doc.add_paragraph()
-        draft_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        dr = draft_para.add_run("Early Draft — Paradigm Threat Timeline")
-        dr.italic     = True
-        dr.font.size  = Pt(10)
-        dr.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
+        self.doc.add_paragraph()
+        desc_para = self.doc.add_paragraph()
+        desc_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        desc_run = desc_para.add_run(
+            "An alternate Earth history investigation correlating Scaligerian chronology, "
+            "Fomenko\u2019s New Chronology, Saturnian Cosmology, and indigenous oral traditions."
+        )
+        desc_run.font.size      = Pt(11)
+        desc_run.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
         ver_para = self.doc.add_paragraph()
         ver_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
         vr = ver_para.add_run(f"Version {PKG_VERSION}")
