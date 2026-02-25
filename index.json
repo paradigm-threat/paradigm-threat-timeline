@@ -787,13 +787,16 @@
       "_count": 4
     },
     "12.ce-18th-mudflood-and-pugachev": {
+      "instant-fossilization.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JQBOgCIG/tnc7tpwAAD+5edscWXbkif5q35DC4CpgF4OL8eijBjJwmfIAAAA"
+      },
       "last-absu-seen.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDXcLla7tAAP4/shh4X1vdWm+FpiTq1GPX82P+5+gDXN0zX2kuhbBrw0yAAA=="
       },
       "mudflood.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JagCdADcpMVs3dgA9hyDjAMxJymBfW1DuiQCbmjxukVdUe1kWisCVZD6wAAA"
       },
-      "_count": 2
+      "_count": 3
     },
     "peratt": {
       "peratt_characteristics_pt_1.pdf": {},
@@ -801,7 +804,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 109
+    "_count": 110
   },
-  "_count": 251
+  "_count": 252
 }
