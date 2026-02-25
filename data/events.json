@@ -930,7 +930,7 @@
           "id": "evt-meteorite-star-metal-falls-on-yaroslavl",
           "title": "Meteorite (Star Metal) falls on Yaroslavl",
           "type": "event",
-          "md_path": "content/09.010-meteorite-star-metal-falls-on-yaroslavl.md",
+          "md_path": "content/09.010-ce-1421-meteorite-falls-on-yaroslavl.md",
           "children": [],
           "dates": [
             {
@@ -942,15 +942,15 @@
         },
         {
           "id": "evt-hundred-years-war-ends",
-          "title": "Hundred Year's War ends",
+          "title": "Hundred Years' War ends — Fall of Czar-Grad (1453 CE)",
           "type": "event",
-          "md_path": "content/09.030-hundred-years-war-ends.md",
+          "md_path": "content/09.020-ce-1453-hundred-years-war-ends-fall-of-czar-grad.md",
           "children": [
             {
               "id": "evt-deep-state-steals-russian-history",
               "title": "Deep State Steals Russian History",
               "type": "article",
-              "md_path": "content/09.050-deep-state-steals-russian-history.md",
+              "md_path": "content/09.040-ce-1455-deep-state-steals-russian-history.md",
               "children": [],
               "media": [
                 "/media/09.ce-15th-ottoman-conquest-of-europe/gutenberg_bible_1455.jpg"
@@ -967,29 +967,29 @@
         },
         {
           "id": "evt-bible-is-translated-into-latin",
-          "title": "Bible is translated into Latin",
+          "title": "Gutenberg Bible translated into Latin",
           "type": "event",
-          "md_path": "content/09.040-bible-is-translated-into-latin.md",
+          "md_path": "content/09.030-ce-1454-gutenberg-bible-translated-into-latin.md",
           "children": [
             {
               "id": "evt-latin-is-the-language-of-the-deep-state",
-              "title": "Latin is the Language of the Deep State",
+              "title": "Theory: Latin is the Language of the Deep State",
               "type": "article",
-              "md_path": "content/09.060-latin-is-the-language-of-the-deep-state.md",
+              "md_path": "content/09.005-latin-is-the-language-of-the-deep-state.md",
               "children": []
             },
             {
               "id": "evt-deep-state-redacts-christianity-into-jesuit-cathol",
               "title": "Deep State redacts Christianity into Jesuit Catholicism",
               "type": "article",
-              "md_path": "content/09.100-deep-state-redacts-christianity-into-jesuit-catholicism.md",
+              "md_path": "content/09.080-deep-state-redacts-christianity-into-jesuit-catholicism.md",
               "children": []
             },
             {
               "id": "evt-jesuits-convert-native-religions-to-monotheism",
-              "title": "Jesuits convert native religions to Monotheism",
+              "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
               "type": "article",
-              "md_path": "content/09.080-jesuits-convert-native-religions-to-monotheism.md",
+              "md_path": "content/09.070-jesuit-operations-conversion-and-catholicism.md",
               "children": [],
               "media": [
                 "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg"
@@ -1008,7 +1008,7 @@
           "id": "evt-revelation-of-the-coming-apocalypse",
           "title": "Revelation of the coming Apocalypse",
           "type": "event",
-          "md_path": "content/09.070-revelation-of-the-coming-apocalypse.md",
+          "md_path": "content/09.050-ce-1486-revelation-of-the-coming-apocalypse.md",
           "children": [],
           "dates": [
             {
@@ -1025,13 +1025,13 @@
           "id": "evt-the-apocalypse-crusade-reverse-exodus",
           "title": "The Apocalypse Crusade & Reverse Exodus",
           "type": "event",
-          "md_path": "content/09.090-the-apocalypse-crusade-reverse-exodus.md",
+          "md_path": "content/09.060-ce-1492-apocalypse-crusade-reverse-exodus.md",
           "children": [
             {
               "id": "evt-jesuits-reach-america",
-              "title": "Jesuits reach America",
+              "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
               "type": "article",
-              "md_path": "content/09.110-jesuits-reach-america.md",
+              "md_path": "content/09.070-jesuit-operations-conversion-and-catholicism.md",
               "children": []
             }
           ],

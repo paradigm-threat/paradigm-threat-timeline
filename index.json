@@ -234,35 +234,35 @@
     "09.000-15th-century-ottoman-conquest-of-europe.md": {
       "_title": "15th Century C.E. Ottoman Conquest of Europe."
     },
-    "09.010-meteorite-star-metal-falls-on-yaroslavl.md": {
+    "09.005-latin-is-the-language-of-the-deep-state.md": {
+      "_title": "Theory: Latin is the Language of the Deep State"
+    },
+    "09.010-ce-1421-meteorite-falls-on-yaroslavl.md": {
       "_title": "Meteorite (Star Metal) falls on Yaroslavl"
     },
-    "09.030-hundred-years-war-ends.md": {
-      "_title": "Hundred Year's War ends"
+    "09.020-ce-1453-hundred-years-war-ends-fall-of-czar-grad.md": {
+      "_title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)"
     },
-    "09.040-bible-is-translated-into-latin.md": {
-      "_title": "Bible is translated into Latin"
+    "09.030-ce-1454-gutenberg-bible-translated-into-latin.md": {
+      "_title": "Gutenberg Bible translated into Latin"
     },
-    "09.050-deep-state-steals-russian-history.md": {
+    "09.040-ce-1455-deep-state-steals-russian-history.md": {
       "_title": "Deep State Steals Russian History"
     },
-    "09.060-latin-is-the-language-of-the-deep-state.md": {
-      "_title": "Latin is the Language of the Deep State"
-    },
-    "09.070-revelation-of-the-coming-apocalypse.md": {
+    "09.050-ce-1486-revelation-of-the-coming-apocalypse.md": {
       "_title": "Revelation of the coming Apocalypse"
     },
-    "09.080-jesuits-convert-native-religions-to-monotheism.md": {
-      "_title": "Jesuits convert native religions to Monotheism"
-    },
-    "09.090-the-apocalypse-crusade-reverse-exodus.md": {
+    "09.060-ce-1492-apocalypse-crusade-reverse-exodus.md": {
       "_title": "The Apocalypse Crusade & Reverse Exodus"
+    },
+    "09.070-jesuit-operations-conversion-and-catholicism.md": {
+      "_title": "Jesuit Operations: Conversion, Catholicism, and the New World"
+    },
+    "09.080-deep-state-redacts-christianity-into-jesuit-catholicism.md": {
+      "_title": "Deep State redacts Christianity into Jesuit Catholicism"
     },
     "09.100-deep-state-redacts-christianity-into-jesuit-catholicism.md": {
       "_title": "Deep State redacts Christianity into Jesuit Catholicism"
-    },
-    "09.110-jesuits-reach-america.md": {
-      "_title": "Jesuits reach America"
     },
     "10.000-16th-century-reformation-and-inquisition.md": {
       "_title": "16th Century C.E. Reformation and Inquisition."
@@ -384,6 +384,9 @@
     "12.270-the-mudflood-and-world-cataclysm.md": {
       "_title": "The MudFlood and World Cataclysm"
     },
+    "12.275-instant-fossilization-and-electric-petrification.md": {
+      "_title": "Instant Fossilization and Electric Petrification"
+    },
     "12.280-napoleonic-wars.md": {
       "_title": "Napoleonic Wars"
     },
@@ -396,7 +399,7 @@
     "12.310-tchaikovsky-releases-1812-overture.md": {
       "_title": "Tchaikovsky releases 1812 Overture"
     },
-    "_count": 128
+    "_count": 129
   },
   "data": {
     "events.json": {},
@@ -718,13 +721,19 @@
       "apocalypse_vasnetsov.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAgABUB8JYwAAZhPgpxAAP5hRzAJXGF9IFuRjXOQ4XRMuGo56tLfo6EjoDGi/dtuWm1t3i4AAA=="
       },
+      "christianity-redacted-into-monotheism.png": {
+        "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAsABUB8JYgCdADAbTZQAAD6nxbYny/RuKV9P/IhZfnNxUAyU7mI126+AigWkX99iLjJRgTQe60+AKE7R8sDLR2aYReAAAA="
+      },
       "gutenberg_bible_1455.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JbACdACJQYAAAP4+HpoSHIAFj5YgYTCX0JN98N9TQyLPwLy+BBVcXDH3/hUAAAA="
+      },
+      "latin-language-of-deep-state.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JYgCdADB0xgAAP7c2elUOG4/EukExx64YzLPMgVBnU8BCJA1tK8Hl5fY/zID3Q2wAA=="
       },
       "pompeii_painting.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
       },
-      "_count": 6
+      "_count": 8
     },
     "10.ce-16th-reformation-and-inquisition": {
       "1552-khazar-rebellion.png": {
@@ -792,7 +801,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 107
+    "_count": 109
   },
-  "_count": 248
+  "_count": 251
 }
