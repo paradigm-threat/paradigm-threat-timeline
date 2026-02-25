@@ -33,6 +33,9 @@
     "00.01.05-wal-thornhill.md": {
       "_title": "Wal Thornhill"
     },
+    "00.01.06-ralph-juergens.md": {
+      "_title": "Ralph Juergens"
+    },
     "01.00.00-5000-bce-before-creation.md": {
       "_title": "Before Creation"
     },
@@ -408,7 +411,7 @@
     "15.00.00-credits.md": {
       "_title": "Credits"
     },
-    "_count": 132
+    "_count": 133
   },
   "data": {
     "events.json": {},
@@ -469,6 +472,12 @@
       "plasma_discharge_recorded2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoNABAABUB8JZwAAlIEeOAAAPvcbmIT996wZLKZM2erKLmyhyWYXIWFkGGiVveYRQ7t++BVz30AiRh+G33xZromoYE04CAA"
       },
+      "ralph_juergens_chart.png": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAA4ABUB8JYwAAmiPfXjAAAD+4ldavqLgrLE2PRgda0E+yQ5vbDlDcc+t5ar9dJ8lbAviskaIUG2ZMBwkC8Y8huAAAA=="
+      },
+      "ralph_juergens_murdered.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAwABUB8JQBdgCGnMNXgAADiB7OkauGfH4EHaKKqhpwPlpkfXzZLKGsHhnkR0uSPzO/T5Sg1+qfrnrgGRdkCWHI9GABZkSNYAAAA"
+      },
       "saturnian-cosmology-symbols.png": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsABUB8JYgCdADRG2UwsRYAAP7c9YdFTCzNu/lO9q75EyYvj6rYK/oc0OM5yAkVVBM/fRgbVlFCrf2JTGcc/JJAVz1XxAAAAA=="
       },
@@ -481,7 +490,7 @@
       "wal-thornhill.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA"
       },
-      "_count": 11
+      "_count": 13
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -816,7 +825,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 111
+    "_count": 113
   },
-  "_count": 256
+  "_count": 259
 }

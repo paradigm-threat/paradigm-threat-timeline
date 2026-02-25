@@ -60,6 +60,17 @@
               "media": [
                 "/media/00.overview/wal-thornhill.png"
               ]
+            },
+            {
+              "id": "evt-ralph-juergens",
+              "title": "Ralph Juergens",
+              "type": "article",
+              "md_path": "content/00.01.06-ralph-juergens.md",
+              "children": [],
+              "media": [
+                "/media/00.overview/ralph_juergens_chart.png",
+                "/media/00.overview/ralph_juergens_murdered.jpg"
+              ]
             }
           ]
         }
