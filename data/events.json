@@ -21,10 +21,7 @@
           "title": "Timeline synchronization",
           "type": "article",
           "md_path": "content/00.060-timeline-synchronization.md",
-          "children": [],
-          "media": [
-            "../../media/00.overview/timeline-synchronization.png"
-          ]
+          "children": []
         },
         {
           "id": "evt-cosmic-life-cycle",
@@ -243,9 +240,6 @@
               "end": -3147,
               "calendar": "BCE"
             }
-          ],
-          "media": [
-            "../../media/02.the-golden-age/golden_age_ends_kronos_devours.jpg"
           ]
         },
         {
@@ -983,13 +977,6 @@
               "title": "Deep State redacts Christianity into Jesuit Catholicism",
               "type": "article",
               "md_path": "content/09.080-deep-state-redacts-christianity-into-jesuit-catholicism.md",
-              "children": []
-            },
-            {
-              "id": "evt-deep-state-redacts-christianity-into-jesuit-cathol-2",
-              "title": "Deep State redacts Christianity into Jesuit Catholicism",
-              "type": "article",
-              "md_path": "content/09.100-deep-state-redacts-christianity-into-jesuit-catholicism.md",
               "children": []
             },
             {
