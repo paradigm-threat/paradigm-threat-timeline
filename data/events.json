@@ -1788,57 +1788,9 @@
           "media": []
         },
         {
-          "id": "evt-ap-de-santillana",
-          "title": "Giorgio de Santillana & Hertha von Dechend",
-          "md_path": "content/15.08.00-de-santillana-von-dechend.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-illig",
-          "title": "Heribert Illig (b. 1947)",
-          "md_path": "content/15.09.00-heribert-illig.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-heinsohn",
-          "title": "Gunnar Heinsohn (b. 1943)",
-          "md_path": "content/15.10.00-gunnar-heinsohn.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-cardona",
-          "title": "Dwardu Cardona (1937–2018)",
-          "md_path": "content/15.11.00-dwardu-cardona.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-cochrane",
-          "title": "Ev Cochrane (b. 1952)",
-          "md_path": "content/15.12.00-ev-cochrane.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-donald-scott",
-          "title": "Donald Scott",
-          "md_path": "content/15.13.00-donald-scott.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-clube-napier",
-          "title": "Victor Clube & Bill Napier",
-          "md_path": "content/15.14.00-clube-napier.md",
+          "id": "evt-ap-jno-cook",
+          "title": "Jno Cook",
+          "md_path": "content/15.08.00-jno-cook.md",
           "type": "article",
           "children": [],
           "media": []
@@ -1846,7 +1798,63 @@
         {
           "id": "evt-ap-de-grazia",
           "title": "Alfred de Grazia (1919–2014)",
-          "md_path": "content/15.15.00-alfred-de-grazia.md",
+          "md_path": "content/15.09.00-alfred-de-grazia.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-donald-scott",
+          "title": "Donald Scott",
+          "md_path": "content/15.10.00-donald-scott.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-cochrane",
+          "title": "Ev Cochrane (b. 1952)",
+          "md_path": "content/15.11.00-ev-cochrane.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-de-santillana",
+          "title": "Giorgio de Santillana & Hertha von Dechend",
+          "md_path": "content/15.12.00-de-santillana-von-dechend.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-illig",
+          "title": "Heribert Illig (b. 1947)",
+          "md_path": "content/15.13.00-heribert-illig.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-heinsohn",
+          "title": "Gunnar Heinsohn (b. 1943)",
+          "md_path": "content/15.14.00-gunnar-heinsohn.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-cardona",
+          "title": "Dwardu Cardona (1937–2018)",
+          "md_path": "content/15.15.00-dwardu-cardona.md",
+          "type": "article",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-ap-clube-napier",
+          "title": "Victor Clube & Bill Napier",
+          "md_path": "content/15.16.00-clube-napier.md",
           "type": "article",
           "children": [],
           "media": []
@@ -1854,7 +1862,7 @@
         {
           "id": "evt-ap-stecchini",
           "title": "Livio Stecchini (1913–1979)",
-          "md_path": "content/15.16.00-livio-stecchini.md",
+          "md_path": "content/15.17.00-livio-stecchini.md",
           "type": "article",
           "children": [],
           "media": []
@@ -1862,15 +1870,7 @@
         {
           "id": "evt-ap-rose-vaughan",
           "title": "Lynn Rose & Raymond Vaughan",
-          "md_path": "content/15.17.00-rose-vaughan.md",
-          "type": "article",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-ap-jno-cook",
-          "title": "Jno Cook",
-          "md_path": "content/15.18.00-jno-cook.md",
+          "md_path": "content/15.18.00-rose-vaughan.md",
           "type": "article",
           "children": [],
           "media": []
