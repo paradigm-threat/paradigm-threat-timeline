@@ -1647,6 +1647,20 @@
       ]
     },
     {
+      "id": "evt-instant-fossilization-and-electric-petrification",
+      "title": "Instant Fossilization and Electric Petrification",
+      "type": "article",
+      "md_path": "content/12.275-instant-fossilization-and-electric-petrification.md",
+      "children": [],
+      "dates": [
+        {
+          "start": 1774,
+          "end": 1775,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
       "id": "evt-napoleonic-wars",
       "title": "Napoleonic Wars",
       "type": "event",
