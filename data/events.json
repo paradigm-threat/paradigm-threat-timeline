@@ -48,7 +48,17 @@
               "md_path": "content/00.01.04-n-a-morozov.md",
               "children": [],
               "media": [
-                "/media/01.before-creation/na-morozov.png"
+                "/media/00.overview/na-morozov.png"
+              ]
+            },
+            {
+              "id": "evt-wal-thornhill",
+              "title": "Wal Thornhill",
+              "type": "article",
+              "md_path": "content/00.01.05-wal-thornhill.md",
+              "children": [],
+              "media": [
+                "/media/00.overview/wal-thornhill.png"
               ]
             }
           ]
@@ -104,7 +114,7 @@
           "children": [],
           "media": [
             "/media/01.before-creation/hollow-earth-diagram.png",
-            "/media/00.overview/hollow_earth_EU_model.jpg"
+            "/media/01.before-creation/hollow_earth_EU_model.jpg"
           ]
         }
       ],
@@ -675,7 +685,7 @@
           "md_path": "content/06.03.00-christs-family-flees-ahead-of-the-census.md",
           "children": [],
           "media": [
-            "/media/05.ce-11th-common-era-begins/hairy_mary.jpg"
+            "/media/06.ce-12th-birth-of-christianity/hairy_mary.jpg"
           ]
         },
         {
@@ -733,7 +743,7 @@
           "md_path": "content/06.06.00-the-revolution-survives-despite-christs-martyrdom.md",
           "children": [],
           "media": [
-            "/media/05.ce-11th-common-era-begins/conjunction.jpg"
+            "/media/06.ce-12th-birth-of-christianity/conjunction.jpg"
           ]
         },
         {
@@ -770,7 +780,7 @@
         }
       ],
       "media": [
-        "/media/05.ce-11th-common-era-begins/twelve_tribes_zodiac.jpg"
+        "/media/06.ce-12th-birth-of-christianity/twelve_tribes_zodiac.jpg"
       ]
     },
     {

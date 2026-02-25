@@ -30,6 +30,9 @@
     "00.01.04-n-a-morozov.md": {
       "_title": "N. A. Morozov"
     },
+    "00.01.05-wal-thornhill.md": {
+      "_title": "Wal Thornhill"
+    },
     "01.00.00-5000-bce-before-creation.md": {
       "_title": "Before Creation"
     },
@@ -405,7 +408,7 @@
     "15.00.00-credits.md": {
       "_title": "Credits"
     },
-    "_count": 131
+    "_count": 132
   },
   "data": {
     "events.json": {},
@@ -454,11 +457,11 @@
       "fomenko_books.jpg": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAwABUB8JbAAAubGPqAAAP7l630u908C9oxW+ka78IJov+Bc6zc0Al+bswMEWHgR/6GOiYZ/wThIgAA="
       },
-      "hollow_earth_EU_model.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAwABUB8JYwAAxeeAbaAAP7tnv1zkItQ33w4A0GUBlh2nZix6JY1006M4NWTrAA="
-      },
       "length-of-a-year-changes.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JaACdAED/y5ZQToAAP7R4v2QfB0cku95UPCqkbBmKOtUzpqiLSaXQP8Pkj7oqRfhAhXKAAA="
+      },
+      "na-morozov.png": {
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JQBOgBo5gyuPAAD+g+vxmBEAFV30/L7qW0KirnwSwXEr304EA06UxHnnogKCwSL+T9Lrse1wAA=="
       },
       "planets-act-like-electrons.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADo51wQQAD+3a2dgPvUHBlMw9yqyfX3tFs30EFZBSKyXI7/wF1YUM/exoHRvFlAAAA="
@@ -475,7 +478,10 @@
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 10
+      "wal-thornhill.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA"
+      },
+      "_count": 11
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -490,8 +496,8 @@
       "hollow-earth-diagram.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JbACdADrsDJAAP7R4rTNA5DRnMh4J5yLawFlMSiTsT54Uy6517Ajf74aQK/TMzO8RWu4tFAAAA=="
       },
-      "na-morozov.png": {
-        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JQBOgBo5gyuPAAD+g+vxmBEAFV30/L7qW0KirnwSwXEr304EA06UxHnnogKCwSL+T9Lrse1wAA=="
+      "hollow_earth_EU_model.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAwABUB8JYwAAxeeAbaAAP7tnv1zkItQ33w4A0GUBlh2nZix6JY1006M4NWTrAA="
       },
       "scalar-energy-as-the-basis-of-creation.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADDP4O8AAD+3PInPYBihcqQmq3K6NZ8AMxhouSks/VuNdzeb0XYKYswRrMeJaPVAAA="
@@ -510,9 +516,6 @@
       },
       "golden_age_absu.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JaABTAAx4lSmmcEAAP6jd3CnC+vlcKelk6o7KwgxpANOEMVvNCLghgZYpXL/elAdP8SL2ahH9eTsSSZQAA=="
-      },
-      "golden_age_ends_kronos_devours.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwABUB8JbACdADpNZc5U8XYAP7p69fd2r9CATcpYNs9WDYAysVNxsSui9BUfbwLhW69hOXcpnHk23BBXh+30SXd+RcAAAA="
       },
       "golden_age_hieronimus_bosch.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkABUB8JbACsAD1ja4toAAA8mOcFCcWmqqfDIZo1T9kmmr4fcZE7ohC/i4a8OHS+AAA"
@@ -541,7 +544,7 @@
       "wormhole.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAUABUB8JZQAAxWmR2IAAP6N/VaFYxZNFySHYAA30wZJPdooSGZgAAA="
       },
-      "_count": 13
+      "_count": 12
     },
     "03.the-dark-ages": {
       "binding_of_isaac.jpg": {
@@ -564,6 +567,9 @@
       },
       "golden_age_ends_great_deluge.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAA0ABUB8JYwAAvhOvQAJvgAA/unt8nS96AVrVi1ZjWvoXD9kemtac5KqOcsdvE4xJF5d2M9dny+9fiQAAA=="
+      },
+      "golden_age_ends_kronos_devours.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwABUB8JbACdADpNZc5U8XYAP7p69fd2r9CATcpYNs9WDYAysVNxsSui9BUfbwLhW69hOXcpnHk23BBXh+30SXd+RcAAAA="
       },
       "history_pyramid_gates1.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQABAABUB8JaACdAEVI449PYAA99Q8f42ChZtJobyBQYqIGaAVscNXzf+979PBo2NsOTa68tlgXAAA"
@@ -598,7 +604,7 @@
       "venus_and_mars.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAA4ABUB8JZACdAEfbp1dHS1AAP6HVvaPOyB885VdhEKQrUja0JwvEX/m9rU1qnrvaX5pMYezbs+Fs6EvTaxmaQN5xHl5mAA="
       },
-      "_count": 18
+      "_count": 19
     },
     "04.the-blip": {
       "684bce_1053ce_blip.png": {
@@ -631,19 +637,10 @@
       "11th_century_sun_savior.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JZgCdAD7Fr+YG6WgAP7p0x3agYjhS30ch0ejvp/PYqq7tqWrTHofirf3EkcOx4iAAA=="
       },
-      "conjunction.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgAAxXeUKrDAAD+5l7p84ZFRoZcO32wZkwONB6NdYii8MQ0o9FPnMOSH8IP7EAAAA=="
-      },
-      "hairy_mary.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwABUB8JbACdAC4p66RkgAA/pTMmFq//IFBBTSxK4zfmmA8vZQIrBFhs0tVBdBIN4KlXhySiSDnhf/Wgj6OYlJRjWyzd8X9IIZQ0gAAAA=="
-      },
       "troy_1st_jerusalem.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAA0ABUB8JZQAAqHtXeAA/rGhMLIwHBUYuyM6jdAn0aLVqetlBQAA"
       },
-      "twelve_tribes_zodiac.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JZQCw7ED+WuTcAAA8kH5C7M02Cip6RVFCVZfUwlGghfhp8F1vug+/YeyM1VkUYAAAA=="
-      },
-      "_count": 8
+      "_count": 5
     },
     "06.ce-12th-birth-of-christianity": {
       "1185ce_crucifixion.png": {
@@ -655,11 +652,17 @@
       "1196_revenge_for_christ.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAsABUB8JagCdADwssiW01AAAP7ZqAz3EEMRR3VgutDFPxrFb4KDmzBGRCxN4FB22gAA"
       },
+      "conjunction.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgAAxXeUKrDAAD+5l7p84ZFRoZcO32wZkwONB6NdYii8MQ0o9FPnMOSH8IP7EAAAA=="
+      },
       "crucifixion_descent_tintoretto_1565.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAA0ABUB8JbACdADQ8lkUTHeAAP7s2fPCXzdTryLkfyVz914GM07M9XPXU1FsSFARuRrBA1LtzzwctxILS1UfRV8AAA=="
       },
       "giant_books.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAwABUB8JYgC7AD7BEKae0IAAPlsZdLnw5K2klgQo7mIerf0YyzwDvgC0CXtbnPhG6s4NBH+RjBR+U/pxrWX9wQKolqQq5iP4gAA"
+      },
+      "hairy_mary.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwABUB8JbACdAC4p66RkgAA/pTMmFq//IFBBTSxK4zfmmA8vZQIrBFhs0tVBdBIN4KlXhySiSDnhf/Wgj6OYlJRjWyzd8X9IIZQ0gAAAA=="
       },
       "hans_bol_crucifixion_1587.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABwAQCdASoMABAABUB8JSvPplARYAD+6oBT4znIVl1ql4eUxeuXMw5YrZgEBRQAAAA="
@@ -670,7 +673,10 @@
       "tomb_of_christ_and_brother.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAA4ABUB8JQAAXG6h0IJAAPy0IPcH2uErG//YDjDbOA6BDHD2DY5nedGo7U5X+sg6gAAA"
       },
-      "_count": 8
+      "twelve_tribes_zodiac.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JZQCw7ED+WuTcAAA8kH5C7M02Cip6RVFCVZfUwlGghfhp8F1vug+/YeyM1VkUYAAAA=="
+      },
+      "_count": 11
     },
     "07.ce-13th-the-russian-horde-tartarian-empire": {
       "1258ce_christ_dies.png": {
@@ -810,7 +816,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 110
+    "_count": 111
   },
-  "_count": 254
+  "_count": 256
 }
