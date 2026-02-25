@@ -39,6 +39,9 @@
     "00.01.06-ralph-juergens.md": {
       "_title": "Ralph Juergens"
     },
+    "00.01.07-other-catastrophists.md": {
+      "_title": "Other Catastrophists and Chronology Revisionists"
+    },
     "01.00.00-5000-bce-before-creation.md": {
       "_title": "Before Creation"
     },
@@ -414,7 +417,7 @@
     "15.00.00-credits.md": {
       "_title": "Credits"
     },
-    "_count": 133
+    "_count": 134
   },
   "data": {
     "events.json": {},
@@ -836,5 +839,5 @@
     },
     "_count": 115
   },
-  "_count": 262
+  "_count": 263
 }

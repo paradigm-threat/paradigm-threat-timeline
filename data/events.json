@@ -73,6 +73,14 @@
                 "/media/00.overview/ralph_juergens_chart.png",
                 "/media/00.overview/ralph_juergens_murdered.png"
               ]
+            },
+            {
+              "id": "evt-other-catastrophists",
+              "title": "Other Catastrophists and Chronology Revisionists",
+              "type": "article",
+              "md_path": "content/00.01.07-other-catastrophists.md",
+              "children": [],
+              "media": []
             }
           ]
         }
