@@ -892,6 +892,36 @@
       "_count": 3
     },
     "15-author-profiles": {
+      "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAAsABUB8JZACdAELjrLefLvOIAD9mhcW9DkG+rwcIts42tDwlHXmu0R3He7JuoJB5FEad6wVygAA"
+      },
+      "alfred-de-grazia.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JZgCdAEOUML7mAD+QMP9lrR1iTkmL+YqVgMbBdWprw4c6s6kfvjRFEesFKQzbLAuAAAA"
+      },
+      "anatoly-fomenko.png": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAsABUB8JYgCdAC93VZgAAD+v6SIJFg9BtJ3FQlQPraA/QjQfDmrdAuuCEWjeFC6ZEUFQ/dlIlHunX4i8M2Q9gAAAA=="
+      },
+      "anthony-peratt.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgCdADhgR3UgAD+wFFLZq9i/jMSTPiupYXEiuslZIIGDFyTJVV7lFSzYtDOZOwwAA=="
+      },
+      "david-talbott.png": {
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JQBOgB2MNUAAAP6p/9vF7t0ClWwsC2Z3B2P37dEPvHdHWapnJZ7H2/auy9vMnxYDrCawTLKAAA=="
+      },
+      "donald-scott.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoQAAsABUB8JQBOgCF5z3ffM7RAAAD+QSwlgD0zbKe8w8NBLUOsSXM49jx7JpCUKtOkc3QBFxMtOaoyAAA="
+      },
+      "ev-cochrane.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAsABUB8JZgCdAEeg/rqg7wAAP7BZ2HkMaqUcPkV8GQqnVYe57QAY+M2G6eek6dt5mhBo3n4vCVItlgXAAAA"
+      },
+      "immanuel-velikovsky.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdADdJQZxQAAA/qmqcm1Sb+naC7BAteGGJC4zYfo/UhUT1QlVq6A6eav0GWqRQAAA"
+      },
+      "immanuel-velikovsky2.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAAsABUB8JZgCdAERH+Dutx8QAAD+0Dz+Wjb8MlPyK7L0BIa7OHgUYt1W6ctD027lpE5OXiZZQAAA"
+      },
+      "jno-cook.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JagCdADNClGObzhgAM3t6PGOWASr825AQhaKquxRJUYoOB2vqdypi8rsZVb2GESSWywLgAA="
+      },
       "na-morozov.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JQBOgBo5gyuPAAD+g+vxmBEAFV30/L7qW0KirnwSwXEr304EA06UxHnnogKCwSL+T9Lrse1wAA=="
       },
@@ -901,7 +931,7 @@
       "wal-thornhill.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA"
       },
-      "_count": 3
+      "_count": 13
     },
     "peratt": {
       "peratt_characteristics_pt_1.pdf": {},
@@ -909,7 +939,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 115
+    "_count": 125
   },
-  "_count": 286
+  "_count": 296
 }
