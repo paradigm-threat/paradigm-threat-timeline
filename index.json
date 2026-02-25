@@ -9,7 +9,10 @@
     "2026-02-24-timeline-update.md": {
       "_title": "Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu"
     },
-    "_count": 2
+    "2026-02-25-timeline-update.md": {
+      "_title": "Timeline Update: New Articles, Restructure, and a Media Audit"
+    },
+    "_count": 3
   },
   "content": {
     "00.00.00-introduction.md": {
@@ -472,11 +475,17 @@
       "plasma_discharge_recorded2.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoNABAABUB8JZwAAlIEeOAAAPvcbmIT996wZLKZM2erKLmyhyWYXIWFkGGiVveYRQ7t++BVz30AiRh+G33xZromoYE04CAA"
       },
-      "ralph_juergens_chart.png": {
-        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAA4ABUB8JYwAAmiPfXjAAAD+4ldavqLgrLE2PRgda0E+yQ5vbDlDcc+t5ar9dJ8lbAviskaIUG2ZMBwkC8Y8huAAAA=="
+      "ralph_juergens.png": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAsABUB8JbACdAD772ONwAD+wDu6wSN/qeSDTfK0U4R0RO8xL01useD+J0XsHLrziH0oKI46EdMDBOdG5L1WksTwAA=="
       },
-      "ralph_juergens_murdered.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAwABUB8JQBdgCGnMNXgAADiB7OkauGfH4EHaKKqhpwPlpkfXzZLKGsHhnkR0uSPzO/T5Sg1+qfrnrgGRdkCWHI9GABZkSNYAAAA"
+      "ralph_juergens_chart.png": {
+        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAsABUB8JbACdAEergRNyAAA/sHJcZP9VQxzLaDg05kWP3B+vE25VMQTqGWjMZNCl20bSZcNNaxVut/DugCS/Z63rb6QzkAAAA=="
+      },
+      "ralph_juergens_murdered.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoLABAABUB8JZgCdAEO1BTFAAD+0O83zlaGisxTqnDDakLd3RB3+i8SoFyKuSWSY14wb0GkUBZwC9Hz6v27AAAA"
+      },
+      "ralph_juergens_photo.png": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoLABAABUB8JaQAAp1GTQAA/vFtWz1Dh5uUsCDWCdSTEcxp6qkJ1NiPwAA="
       },
       "saturnian-cosmology-symbols.png": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsABUB8JYgCdADRG2UwsRYAAP7c9YdFTCzNu/lO9q75EyYvj6rYK/oc0OM5yAkVVBM/fRgbVlFCrf2JTGcc/JJAVz1XxAAAAA=="
@@ -490,7 +499,7 @@
       "wal-thornhill.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA"
       },
-      "_count": 13
+      "_count": 15
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -825,7 +834,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 113
+    "_count": 115
   },
-  "_count": 259
+  "_count": 262
 }
