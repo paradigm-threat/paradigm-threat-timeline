@@ -52,6 +52,13 @@
       ]
     },
     {
+      "id": "evt-background",
+      "title": "Background",
+      "type": "article",
+      "md_path": "content/00.020-background.md",
+      "children": []
+    },
+    {
       "id": "evt-before-creation",
       "title": "Before Creation",
       "type": "event",

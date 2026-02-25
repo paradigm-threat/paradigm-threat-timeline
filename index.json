@@ -15,6 +15,9 @@
     "00.010-introduction.md": {
       "_title": "Introduction"
     },
+    "00.020-background.md": {
+      "_title": "Background"
+    },
     "00.050-the-length-of-a-year-changes-throughout-antiquity.md": {
       "_title": "The length of a Year changes throughout Antiquity"
     },
@@ -399,7 +402,7 @@
     "15.010-credits.md": {
       "_title": "Credits"
     },
-    "_count": 129
+    "_count": 130
   },
   "data": {
     "events.json": {},
@@ -806,5 +809,5 @@
     },
     "_count": 110
   },
-  "_count": 252
+  "_count": 253
 }
