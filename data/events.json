@@ -1710,6 +1710,13 @@
           "calendar": "CE"
         }
       ]
+    },
+    {
+      "id": "evt-credits",
+      "title": "Credits",
+      "type": "article",
+      "md_path": "content/15.010-credits.md",
+      "children": []
     }
   ],
   "introArticles": [],
