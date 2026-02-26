@@ -12,7 +12,10 @@
     "2026-02-25-timeline-update.md": {
       "_title": "Timeline Update: New Articles, Restructure, and a Media Audit"
     },
-    "_count": 3
+    "2026-02-26-timeline-update.md": {
+      "_title": "Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure"
+    },
+    "_count": 4
   },
   "content": {
     "00.overview": {
@@ -1007,5 +1010,5 @@
     },
     "_count": 129
   },
-  "_count": 303
+  "_count": 304
 }
