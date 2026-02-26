@@ -763,14 +763,8 @@
       "684bce_the_blip.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZACdACVGA17oAD+qfIXLLfOdWfJI5358CKyU/t+jpZCzS/nR422qco5z+sG7XujfO83QAA="
       },
-      "684bce_the_blip2.png": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JagCdABVCAAA/u6gs9wZ2Si9uC5avh9J289ADxpCxqZXdz1g+BEyyTZd/ic49RQ2gAAA"
-      },
-      "anatoly_fomenko.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAwABUB8JaQAAudFVh/BAAD+2WtEX/RNl+5lIgyhxcagXZSNvoAA"
-      },
-      "fomenko_new_chronology.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA=="
+      "building-new-chronology.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JZACdADdLKeGs4AA/ZMnyCC+Ybn2L6uO2LDH71yXBKXpMxh0hwl143QYAAAA"
       },
       "the_blip_math.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JZACdAD0S6prjNQAAP6HoblK+G8oF3KEJOUCSAdRFo7ARyELPQD6Ntdyfpddj2uAAA=="
@@ -778,7 +772,7 @@
       "year_of_our_lord_deception.png": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgCdADpuRf9YcAA/oPjXFZCygBiKMOX8tDNcAX0/dn+8faWwNIVUGNc/WVwfPb0gP0HlgFpOAAA"
       },
-      "_count": 7
+      "_count": 5
     },
     "05.ce-11th-common-era-begins": {
       "11th_century_common_era_begins.png": {
@@ -1014,7 +1008,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 131
+    "_count": 129
   },
-  "_count": 306
+  "_count": 304
 }
