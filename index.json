@@ -598,6 +598,9 @@
       "length-of-a-year-changes.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JaACdAED/y5ZQToAAP7R4v2QfB0cku95UPCqkbBmKOtUzpqiLSaXQP8Pkj7oqRfhAhXKAAA="
       },
+      "paradigm-threat-the-third-story.png": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAsABUB8JbACdAEGFpAAAP5Ao5T1yhDFvjTwOUZdiGfYWN4N8YUm74Wb9s1qulWnzPsmB2ulpklS2O8LxbHwAAA="
+      },
       "planets-act-like-electrons.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADo51wQQAD+3a2dgPvUHBlMw9yqyfX3tFs30EFZBSKyXI7/wF1YUM/exoHRvFlAAAA="
       },
@@ -625,7 +628,7 @@
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 15
+      "_count": 16
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -1002,7 +1005,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 128
+    "_count": 129
   },
-  "_count": 302
+  "_count": 303
 }
