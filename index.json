@@ -538,6 +538,9 @@
       "challenging-established-physics.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoQAAsABUB8JbACdAEOBAAAy0CkWWf8VVrPBTy46ze41Loq9jjQPbiD9S7AqxkDNQmCdSr01zAAAA=="
       },
+      "core-concepts.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdADwUFxKPgAA/uXvBHX7tyL6dtluMrcV7rhapxLHGsK/dTeuWkcBRcPXm9d4AAAA"
+      },
       "cosmic-lifecycle.png": {
         "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsABUB8JbACdAEQzByAJaQA/kEFdarct4Mh00ykw1JyYNoZvfnd/o79vcSLdqOGVrhD2FhN8/gQPu+THaLxb7KCWGgA"
       },
@@ -571,7 +574,7 @@
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 13
+      "_count": 14
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -948,7 +951,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 126
+    "_count": 127
   },
-  "_count": 299
+  "_count": 300
 }
