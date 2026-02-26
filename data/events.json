@@ -38,8 +38,8 @@
             {
               "id": "evt-challenging-established-physics",
               "title": "Challenging Established Physics",
+              "type": "article",
               "md_path": "content/00.overview/00.02.03-challenging-established-physics.md",
-              "dates": [],
               "children": []
             }
           ]
@@ -47,8 +47,8 @@
         {
           "id": "evt-core-concepts",
           "title": "Core Concepts",
+          "type": "article",
           "md_path": "content/00.overview/00.03.00-core-concepts.md",
-          "dates": [],
           "children": [
             {
               "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
@@ -523,7 +523,7 @@
           "dates": [
             {
               "start": -806,
-              "end": -687,
+              "end": -671,
               "calendar": "BCE"
             }
           ]
@@ -1741,13 +1741,6 @@
       ]
     },
     {
-      "id": "evt-credits",
-      "title": "Credits",
-      "type": "article",
-      "md_path": "content/16-credits/16.00.00-credits.md",
-      "children": []
-    },
-    {
       "id": "evt-author-profiles",
       "title": "Author Profiles",
       "type": "article",
@@ -1947,6 +1940,13 @@
         }
       ],
       "media": []
+    },
+    {
+      "id": "evt-credits",
+      "title": "Credits",
+      "type": "article",
+      "md_path": "content/16-credits/16.00.00-credits.md",
+      "children": []
     }
   ],
   "introArticles": [],
