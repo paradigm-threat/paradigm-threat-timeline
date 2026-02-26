@@ -591,7 +591,7 @@
       "children": [
         {
           "id": "evt-building-the-new-chronology",
-          "title": "Building the New Chronology: Fomenko’s Mathematical Method",
+          "title": "Building the New Chronology",
           "type": "article",
           "md_path": "content/04.the-blip/04.01.00-building-the-new-chronology.md",
           "children": [],
@@ -599,15 +599,6 @@
           "media": [
             "/media/04.the-blip/anatoly_fomenko.jpg"
           ]
-        },
-        {
-          "id": "evt-how-the-new-chronology-was-built",
-          "title": "How the New Chronology Was Built",
-          "type": "article",
-          "md_path": "content/04.the-blip/04.02.00-how-the-new-chronology-was-built.md",
-          "children": [],
-          "dates": [],
-          "media": []
         }
       ],
       "dates": [
