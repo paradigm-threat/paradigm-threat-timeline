@@ -188,9 +188,12 @@
         "_title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred"
       },
       "04.01.00-building-the-new-chronology.md": {
-        "_title": "Building the New Chronology"
+        "_title": "Building the New Chronology: Fomenko\u2019s Mathematical Method"
       },
-      "_count": 2
+      "04.02.00-how-the-new-chronology-was-built.md": {
+        "_title": "How the New Chronology Was Built"
+      },
+      "_count": 3
     },
     "05.ce-11th-common-era-begins": {
       "05.00.00-1000-ce-11th-century-common-era-begins.md": {
@@ -543,7 +546,7 @@
       },
       "_count": 1
     },
-    "_count": 160
+    "_count": 161
   },
   "data": {
     "events.json": {},
@@ -1016,5 +1019,5 @@
     },
     "_count": 131
   },
-  "_count": 306
+  "_count": 307
 }
