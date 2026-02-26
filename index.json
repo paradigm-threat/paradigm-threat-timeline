@@ -19,6 +19,9 @@
       "00.00.00-introduction.md": {
         "_title": "Introduction"
       },
+      "00.00.01-the-third-story.md": {
+        "_title": "The Third Story"
+      },
       "00.01.00-background.md": {
         "_title": "Background"
       },
@@ -43,7 +46,7 @@
       "00.02.03-cosmic-life-cycle.md": {
         "_title": "Cosmic Life Cycle"
       },
-      "_count": 9
+      "_count": 10
     },
     "01.before-creation": {
       "01.00.00-5000-bce-before-creation.md": {
@@ -537,7 +540,7 @@
       },
       "_count": 1
     },
-    "_count": 159
+    "_count": 160
   },
   "data": {
     "events.json": {},
@@ -616,10 +619,13 @@
       "tartarian_structures_illustrated.png": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZACdADWIIAAAPxn7DOpfUwevjgSQATQzYbaMJDftB1VTgtBb960XgRN2BgAAAA="
       },
+      "the-third-story.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JagCdADp3iLz8gAA/nhRkCeUa2qHGjd8LzQRSuHsZHZt3cE7gTYKKUFmyli2meZJvviAAAA="
+      },
       "timeline-synchronization.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 14
+      "_count": 15
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -996,7 +1002,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 127
+    "_count": 128
   },
-  "_count": 300
+  "_count": 302
 }

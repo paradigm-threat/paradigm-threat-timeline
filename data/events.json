@@ -7,6 +7,13 @@
       "md_path": "content/00.overview/00.00.00-introduction.md",
       "children": [
         {
+          "id": "evt-the-third-story",
+          "title": "The Third Story",
+          "type": "article",
+          "md_path": "content/00.overview/00.00.01-the-third-story.md",
+          "children": []
+        },
+        {
           "id": "evt-background",
           "title": "Background",
           "type": "article",
