@@ -602,7 +602,7 @@
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JaACdAED/y5ZQToAAP7R4v2QfB0cku95UPCqkbBmKOtUzpqiLSaXQP8Pkj7oqRfhAhXKAAA="
       },
       "paradigm-threat-the-third-story.png": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAsABUB8JbACdAEGFpAAAP5Ao5T1yhDFvjTwOUZdiGfYWN4N8YUm74Wb9s1qulWnzPsmB2ulpklS2O8LxbHwAAA="
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoQAAsABUB8JbACdABfuAAA/Zu/2GabpycxYzjCNqDuZqOx2qVdXh7osM97OJ26HkCDApEgQ7Qsfu2KBSSlUhtCwAA="
       },
       "planets-act-like-electrons.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADo51wQQAD+3a2dgPvUHBlMw9yqyfX3tFs30EFZBSKyXI7/wF1YUM/exoHRvFlAAAA="
@@ -761,7 +761,7 @@
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JaACdAD51VPq7YAA/sGi8l1wtweZK7BByc81zFzPAePpIXVTkkzYreRP6L0CwQc5I2Zp1pbJeuviAAA="
       },
       "684bce_the_blip.png": {
-        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgCdADpuRf9YcAA/oPjXFZCygBiKMOX8tDNcAX0/dn+8faWwNIVUGNc/WVwfPb0gP0HlgFpOAAA"
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZACdACVGA17oAD+qfIXLLfOdWfJI5358CKyU/t+jpZCzS/nR422qco5z+sG7XujfO83QAA="
       },
       "684bce_the_blip2.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JagCdABVCAAA/u6gs9wZ2Si9uC5avh9J289ADxpCxqZXdz1g+BEyyTZd/ic49RQ2gAAA"
@@ -772,7 +772,10 @@
       "fomenko_new_chronology.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA=="
       },
-      "_count": 5
+      "year_of_our_lord_deception.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgCdADpuRf9YcAA/oPjXFZCygBiKMOX8tDNcAX0/dn+8faWwNIVUGNc/WVwfPb0gP0HlgFpOAAA"
+      },
+      "_count": 6
     },
     "05.ce-11th-common-era-begins": {
       "11th_century_common_era_begins.png": {
@@ -1008,7 +1011,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 129
+    "_count": 130
   },
-  "_count": 304
+  "_count": 305
 }
