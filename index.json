@@ -772,10 +772,13 @@
       "fomenko_new_chronology.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwABUB8JZwAAveIhXaAAP7pIYLAlK/NOgi42AAAAA=="
       },
+      "the_blip_math.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JZACdAD0S6prjNQAAP6HoblK+G8oF3KEJOUCSAdRFo7ARyELPQD6Ntdyfpddj2uAAA=="
+      },
       "year_of_our_lord_deception.png": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JZgCdADpuRf9YcAA/oPjXFZCygBiKMOX8tDNcAX0/dn+8faWwNIVUGNc/WVwfPb0gP0HlgFpOAAA"
       },
-      "_count": 6
+      "_count": 7
     },
     "05.ce-11th-common-era-begins": {
       "11th_century_common_era_begins.png": {
@@ -1011,7 +1014,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 130
+    "_count": 131
   },
-  "_count": 305
+  "_count": 306
 }
