@@ -56,6 +56,13 @@
               "md_path": "content/00.01.05-authors-cataclysm-texts.md",
               "children": [],
               "media": []
+            },
+            {
+              "id": "evt-challenging-established-physics",
+              "title": "Challenging Established Physics",
+              "md_path": "content/00.01.06-challenging-established-physics.md",
+              "dates": [],
+              "children": []
             }
           ]
         }

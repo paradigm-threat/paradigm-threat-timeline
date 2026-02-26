@@ -36,6 +36,9 @@
     "00.01.05-authors-cataclysm-texts.md": {
       "_title": "Authors Who Read Ancient Sources as World Cataclysm"
     },
+    "00.01.06-challenging-established-physics.md": {
+      "_title": "Challenging Established Physics"
+    },
     "01.00.00-5000-bce-before-creation.md": {
       "_title": "Before Creation"
     },
@@ -486,7 +489,7 @@
     "16.00.00-credits.md": {
       "_title": "Credits"
     },
-    "_count": 157
+    "_count": 158
   },
   "data": {
     "events.json": {},
@@ -941,5 +944,5 @@
     },
     "_count": 125
   },
-  "_count": 296
+  "_count": 297
 }
