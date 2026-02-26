@@ -33,3 +33,35 @@ Unresolved questions, contradictions, and clarifications needed for the Alternat
   (2000s). Investigate: (1) Is there any pre-Cayce source naming these as Atlantean cities? (2) Could Cayce's Poseidia
   derive from Classical sources (Poseidon-cult place names) via redacted intermediaries? (3) Are there ancient place
   names in the Arctic/Greenland/Nordic region that phonetically match Og, Aryan, or Poseida?
+
+## The Blip — Calendar Reset Mechanism (Open Theory)
+
+The following questions are **unresolved** and constitute the core of the ongoing Blip theory.
+No catastrophist source in the archive addresses them directly. Absence of a source is noted;
+this does not mean the claims are false.
+
+- **Why did the calendar reset to Year Zero?** No local political event (including the Crucifixion)
+  has ever been sufficient justification for a global retroactive reversal of a counting system. The
+  only adequate cause would be a physical event ending one cosmic era and beginning another — the
+  final stabilization of Earth's orbit at 365.25 days (~684 BCE, Cook's Phaethon event). This
+  connection is not made by any source in the archive. It is original to this investigation.
+
+- **Why does the BC count run backward?** The reverse counting direction of BC implies that an
+  observer at Year Zero projected the prior catastrophic era *behind* themselves. This is consistent
+  with a culture that knew the old sky was gone and wished to measure the distance back to it. No
+  source explains the backward direction as anything other than a construction convention. The
+  physical interpretation — that the orbital stability event creates a genuine "before/after" divide
+  separating the catastrophic era from the stable era — is unconfirmed.
+
+- **The depth of the Blip under a Young Earth model**: If the Earth is only a few thousand years
+  old (consistent with Saturnian Cosmology's 4077 BCE creation date) and if the pre-Year-Zero count
+  is a fabrication or retroactive extension, how many of the BC years are real? The Scaligerian
+  count reaches back ~5,000 years BC from Year Zero. Under a strict Young Earth / Short Cosmic Life
+  Cycle reading, the backward-counted BC era may itself encode a compressed or invented chronology.
+  This depth variable is unquantified.
+
+- **Source gap**: Dionysius Exiguus (AD 532) introduced the Anno Domini forward count. The BC
+  retroactive count was standardized by Bede (~AD 731) and not universally adopted until the 17th
+  century. Neither Dionysius nor Bede explains *why* Year Zero was chosen as the reset point other
+  than the theological claim of the Incarnation. The theological justification may be a cover for a
+  now-forgotten astronomical rationale. This is unverified.
