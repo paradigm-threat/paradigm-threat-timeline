@@ -563,14 +563,23 @@
     "OUTSTANDING_QUESTIONS.md": {
       "_title": "Outstanding Questions"
     },
+    "PRINT_GOALS.md": {
+      "_title": "Print Production Goals \u2014 Paradigm Threat: The Third Story"
+    },
     "RESTRUCTURE_PLAN.md": {
       "_title": "Restructure Plan: Unified Decimal-Numbered Content Folder"
     },
-    "_count": 5
+    "_count": 6
   },
   "export": {
     "timeline.pdf": {},
     "_count": 1
+  },
+  "fonts": {
+    "LICENSE-EBGaramond.txt": {},
+    "LICENSE-JetBrainsMono.txt": {},
+    "LICENSE-LibreFranklin.txt": {},
+    "_count": 3
   },
   "investigations": {
     "README.md": {
@@ -620,7 +629,7 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoLABAABUB8JaQAAp1GTQAA/vFtWz1Dh5uUsCDWCdSTEcxp6qkJ1NiPwAA="
       },
       "saturnian-cosmology-symbols.png": {
-        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsABUB8JYgCdADRG2UwsRYAAP7c9YdFTCzNu/lO9q75EyYvj6rYK/oc0OM5yAkVVBM/fRgbVlFCrf2JTGcc/JJAVz1XxAAAAA=="
+        "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAsABUB8JaACdAEYEs/bsMVAAP7AZaJBUIRt0aYbOzj2AxExodExju6ZR7u88bdbU8A9hKEgl995pUG8eKN/ZjoPS6AA"
       },
       "tartarian_structures_illustrated.png": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZACdADWIIAAAPxn7DOpfUwevjgSQATQzYbaMJDftB1VTgtBb960XgRN2BgAAAA="
@@ -1010,5 +1019,11 @@
     },
     "_count": 129
   },
-  "_count": 304
+  "prompt": {
+    "golden-age-northern-hemisphere-configuration.md": {
+      "_title": "Golden Age \u2014 Northern Hemisphere Configuration"
+    },
+    "_count": 1
+  },
+  "_count": 309
 }

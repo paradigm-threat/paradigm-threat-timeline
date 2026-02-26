@@ -1,6 +1,6 @@
 # paradigm-threat-timeline
 
-**Paradigm Threat: The Third Story** — an alternate Earth history investigation correlating Scaligerian chronology, Fomenko's New Chronology, Saturnian Cosmology, and indigenous oral traditions.
+**Paradigm Threat: The Third Story** — A cross-chronology investigation challenging the official timeline of Earth history — Scaligerian, Fomenko's New Chronology, Saturnian Cosmology, and indigenous traditions.
 
 The PDF and DOCX exports in `export/` are **early drafts of an upcoming book**. They are generated automatically from the research articles in `content/` and should be treated as working drafts: citations are ongoing, sections will be restructured, and conclusions may be revised as new evidence is incorporated. Do not cite page numbers from these drafts.
 

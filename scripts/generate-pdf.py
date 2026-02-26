@@ -6,6 +6,11 @@ Uses fpdf2 for direct PDF generation — no HTML/CSS intermediate step.
 Markdown is parsed with markdown-it-py and rendered directly to PDF primitives.
 Images are resized with Pillow and embedded as native JPEG streams.
 
+Print spec: docs/PRINT_GOALS.md
+  - 6″ × 9″ trade paperback, mirrored margins, PDF 1.4
+  - EB Garamond body, Libre Franklin headings, JetBrains Mono code
+  - Alternating running headers, recto chapter openers, leader-dot TOC
+
 Requirements:  pip install fpdf2 markdown-it-py Pillow
 """
 
@@ -44,17 +49,30 @@ REPO_DIR    = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR  = REPO_DIR / "export"
 OUTPUT_PDF  = EXPORT_DIR / "timeline.pdf"
+FONTS_DIR   = REPO_DIR / "fonts"
 
 with open(REPO_DIR / "package.json") as _f:
     PKG_VERSION = json.load(_f)["version"]
 
 # ---------------------------------------------------------------------------
+# Page geometry  (6″ × 9″ trade paperback)
+# ---------------------------------------------------------------------------
+PAGE_W_MM  = 152.4   # 6 inches
+PAGE_H_MM  = 228.6   # 9 inches
+
+# Mirrored margins — inside (gutter) is larger for binding
+MARGIN_INSIDE  = 25   # mm  (gutter side)
+MARGIN_OUTSIDE = 16   # mm
+MARGIN_TOP     = 20   # mm
+MARGIN_BOTTOM  = 22   # mm
+
+# ---------------------------------------------------------------------------
 # Image settings
 # ---------------------------------------------------------------------------
-MAX_IMG_PX   = 1200          # max width in pixels before resize
-JPEG_QUALITY = 72
-MAX_IMG_W_MM = 170           # max image width in PDF (mm)
-MAX_IMG_H_MM = 90            # max image height in PDF (mm)
+MAX_IMG_PX   = 1400          # max width in pixels before resize
+JPEG_QUALITY = 82            # B&W edition
+MAX_IMG_W_MM = 120           # max image width in PDF (mm)
+MAX_IMG_H_MM = 100           # max image height in PDF (mm)
 
 # ---------------------------------------------------------------------------
 # Colours  (R, G, B)
@@ -72,10 +90,11 @@ C_CODE_BG = (245, 245, 245)
 C_RULE    = (220, 220, 220)
 
 # ---------------------------------------------------------------------------
-# Font discovery
+# Font discovery — priority: fonts/ repo dir > system fonts > built-in
 # ---------------------------------------------------------------------------
 _FONT_DIRS = [
-    Path("/usr/share/fonts"),
+    FONTS_DIR,                                      # 1. repo fonts/ directory
+    Path("/usr/share/fonts"),                        # 2. system fonts
     Path("/usr/local/share/fonts"),
     Path.home() / ".fonts",
     Path.home() / ".local/share/fonts",
@@ -83,7 +102,7 @@ _FONT_DIRS = [
 
 
 def _find_ttf(pattern: str):
-    """Walk common font dirs for a .ttf matching *pattern* (case-insensitive)."""
+    """Walk font dirs for a .ttf matching *pattern* (case-insensitive)."""
     pat = pattern.lower()
     for base in _FONT_DIRS:
         if not base.is_dir():
@@ -149,19 +168,107 @@ def _attr(tok, key: str, default: str = "") -> str:
 
 
 # ===================================================================
-# PDF subclass  (footer w/ version + page number)
+# PDF subclass  — running headers + mirrored margins + page numbers
 # ===================================================================
 class TimelinePDF(FPDF):
-    _sans = "Helvetica"          # overridden by renderer after font setup
+    _sans  = "Helvetica"      # overridden by renderer after font setup
+    _serif = "Times"          # overridden by renderer after font setup
+    book_title    = "Paradigm Threat: The Third Story"
+    chapter_title = ""         # updated per article
+    _in_front_matter   = True  # suppress headers/numbers during front matter
+    _chapter_opener    = False # suppress header on chapter-opening pages
+
+    def __init__(self, **kw):
+        super().__init__(**kw)
+        self._use_unicode = False
+
+    def _apply_margins(self):
+        """Set left/right margins based on current page parity."""
+        if self.page % 2 == 1:
+            # Recto (odd) — gutter on left
+            self.set_left_margin(MARGIN_INSIDE)
+            self.set_right_margin(MARGIN_OUTSIDE)
+        else:
+            # Verso (even) — gutter on right
+            self.set_left_margin(MARGIN_OUTSIDE)
+            self.set_right_margin(MARGIN_INSIDE)
+        self.set_x(self.l_margin)
+
+    def accept_page_break(self):
+        """Called by fpdf2 before an automatic page break."""
+        return True
+
+    def header(self):
+        """Running header — alternating recto/verso, suppressed on front matter
+        and chapter openers."""
+        self._apply_margins()
+
+        if self._in_front_matter or self._chapter_opener:
+            self._chapter_opener = False
+            return
+
+        pw = self.w - self.l_margin - self.r_margin
+        self.set_y(MARGIN_TOP - 8)
+        self.set_font(self._sans, "", 7.5)
+        self.set_text_color(*C_GRAY)
+
+        if self.page % 2 == 0:
+            # Verso (even): book title left, page# right (outer)
+            self.set_x(self.l_margin)
+            title = self.book_title.upper()
+            self.cell(pw / 2, 5, self._t_header(title), align="L")
+            self.cell(pw / 2, 5, str(self.page_no()), align="R")
+        else:
+            # Recto (odd): page# left (outer), chapter title right
+            self.set_x(self.l_margin)
+            self.cell(pw / 2, 5, str(self.page_no()), align="L")
+            chap = self.chapter_title[:55].upper() if self.chapter_title else ""
+            self.cell(pw / 2, 5, self._t_header(chap), align="R")
+
+        # Separator rule
+        y = self.get_y() + 5.5
+        self.set_draw_color(*C_RULE)
+        self.set_line_width(0.3)
+        self.line(self.l_margin, y, self.w - self.r_margin, y)
+
+        # Reset cursor so body content starts at left margin
+        self.set_x(self.l_margin)
+        self.set_y(self.t_margin)
+
+    def _t_header(self, text: str) -> str:
+        """Sanitise header text when using built-in fonts."""
+        if self._use_unicode:
+            return _EMOJI_RE.sub("", text)
+        return _sanitize(_EMOJI_RE.sub("", text))
 
     def footer(self):
-        self.set_y(-18)
-        self.set_font(self._sans, "", 7)
-        self.set_text_color(*C_LGRAY)
-        self.cell(40, 8, f"v{PKG_VERSION}")
-        self.set_font(self._sans, "", 8)
-        self.set_text_color(*C_GRAY)
-        self.cell(0, 8, str(self.page_no()), align="R")
+        """Page number on outer bottom corner, version on inner corner.
+        Suppressed during front matter."""
+        if self._in_front_matter:
+            return
+
+        self.set_y(-MARGIN_BOTTOM + 4)
+
+        if self.page % 2 == 1:
+            # Recto — version left (inner), page# right (outer)
+            self.set_x(MARGIN_INSIDE)
+            self.set_font(self._sans, "", 7)
+            self.set_text_color(*C_LGRAY)
+            pw = self.w - MARGIN_INSIDE - MARGIN_OUTSIDE
+            self.cell(pw / 2, 8, f"v{PKG_VERSION}")
+            self.set_font(self._sans, "", 8)
+            self.set_text_color(*C_GRAY)
+            self.cell(pw / 2, 8, str(self.page_no()), align="R")
+        else:
+            # Verso — page# left (outer), version right (inner)
+            self.set_x(MARGIN_OUTSIDE)
+            self.set_font(self._sans, "", 8)
+            self.set_text_color(*C_GRAY)
+            pw = self.w - MARGIN_INSIDE - MARGIN_OUTSIDE
+            self.cell(pw / 2, 8, str(self.page_no()), align="L")
+            self.set_font(self._sans, "", 7)
+            self.set_text_color(*C_LGRAY)
+            self.cell(pw / 2, 8, f"v{PKG_VERSION}", align="R")
 
 
 # ===================================================================
@@ -175,10 +282,15 @@ class PDFRenderer:
     SANS  = "Sans"
     MONO  = "Mono"
 
+    # Body typography
+    BODY_SIZE    = 11      # pt
+    BODY_LEADING = 5.3     # mm  (≈ 15 pt)
+    INDENT_MM    = 5       # first-line indent for subsequent paragraphs
+
     def __init__(self):
-        self.pdf = TimelinePDF(format="A4")
-        self.pdf.set_margins(20, 22, 20)
-        self.pdf.set_auto_page_break(True, margin=25)
+        self.pdf = TimelinePDF(format=(PAGE_W_MM, PAGE_H_MM))
+        self.pdf.set_margins(MARGIN_INSIDE, MARGIN_TOP, MARGIN_OUTSIDE)
+        self.pdf.set_auto_page_break(True, margin=MARGIN_BOTTOM)
 
         self.md = MarkdownIt("commonmark", {"typographer": False}).enable("table")
 
@@ -188,56 +300,100 @@ class PDFRenderer:
 
         self._setup_fonts()
 
-        # Effective printable width in mm
-        self.pw = self.pdf.w - self.pdf.l_margin - self.pdf.r_margin
+        # Effective printable width (use narrower dimension for safe layout)
+        self.pw = PAGE_W_MM - MARGIN_INSIDE - MARGIN_OUTSIDE
 
         # Rendering state
         self._text_color = C_BLACK
         self._link_href = None
-        self._lh = 6.5                             # line-height (mm)
+        self._lh = self.BODY_LEADING
+        self._para_index = 0
+        self._chapter_title = ""
 
     # ---------------------------------------------------------------
-    #  Font bootstrap
+    #  Font bootstrap — prioritise fonts/ dir (EB Garamond, Libre
+    #  Franklin, JetBrains Mono), fall back to DejaVu, then built-in
     # ---------------------------------------------------------------
     def _setup_fonts(self):
-        serif_r  = _find_ttf("dejavuserif.")
-        serif_b  = _find_ttf("dejavuserif-bold.")
-        serif_i  = _find_ttf("dejavuserif-italic.")
-        serif_bi = _find_ttf("dejavuserif-bolditalic.")
-        sans_r   = _find_ttf("dejavusans.")
-        sans_b   = _find_ttf("dejavusans-bold.")
-        mono_r   = _find_ttf("dejavusansmono.")
-        mono_b   = _find_ttf("dejavusansmono-bold.")
+        # --- Preferred: EB Garamond / Libre Franklin / JetBrains Mono ---
+        eb_r   = _find_ttf("ebgaramond-variable")
+        eb_i   = _find_ttf("ebgaramond-italic-variable")
+        lf_r   = _find_ttf("librefranklin-variable")
+        lf_i   = _find_ttf("librefranklin-italic-variable")
+        jb_r   = _find_ttf("jetbrainsmono-variable")
+        jb_i   = _find_ttf("jetbrainsmono-italic-variable")
 
-        if serif_r and sans_r and mono_r:
+        if eb_r and lf_r and jb_r:
             self._use_unicode = True
-            self.pdf.add_font(self.SERIF, "",   serif_r)
-            self.pdf.add_font(self.SERIF, "B",  serif_b  or serif_r)
-            self.pdf.add_font(self.SERIF, "I",  serif_i  or serif_r)
-            self.pdf.add_font(self.SERIF, "BI", serif_bi or serif_r)
-            sans_i   = _find_ttf("dejavusans-oblique.")
-            mono_i   = _find_ttf("dejavusansmono-oblique.")
-            self.pdf.add_font(self.SANS,  "",   sans_r)
-            self.pdf.add_font(self.SANS,  "B",  sans_b or sans_r)
-            self.pdf.add_font(self.SANS,  "I",  sans_i or sans_r)
-            self.pdf.add_font(self.SANS,  "BI", sans_i or sans_r)
-            self.pdf.add_font(self.MONO,  "",   mono_r)
-            self.pdf.add_font(self.MONO,  "B",  mono_b or mono_r)
-            self.pdf.add_font(self.MONO,  "I",  mono_i or mono_r)
-            print("  Fonts: DejaVu TTF (full Unicode)")
+            self.pdf._use_unicode = True
+            # Serif — EB Garamond
+            self.pdf.add_font(self.SERIF, "",   eb_r)
+            self.pdf.add_font(self.SERIF, "B",  eb_r)
+            self.pdf.add_font(self.SERIF, "I",  eb_i or eb_r)
+            self.pdf.add_font(self.SERIF, "BI", eb_i or eb_r)
+            # Sans — Libre Franklin
+            self.pdf.add_font(self.SANS, "",    lf_r)
+            self.pdf.add_font(self.SANS, "B",   lf_r)
+            self.pdf.add_font(self.SANS, "I",   lf_i or lf_r)
+            self.pdf.add_font(self.SANS, "BI",  lf_i or lf_r)
+            # Mono — JetBrains Mono
+            self.pdf.add_font(self.MONO, "",    jb_r)
+            self.pdf.add_font(self.MONO, "B",   jb_r)
+            self.pdf.add_font(self.MONO, "I",   jb_i or jb_r)
+            print("  Fonts: EB Garamond + Libre Franklin + JetBrains Mono (full Unicode)")
         else:
-            self._use_unicode = False
-            self.SERIF = "Times"
-            self.SANS  = "Helvetica"
-            self.MONO  = "Courier"
-            print("  Fonts: built-in Latin-1 (Unicode chars replaced)")
+            # --- Fallback: DejaVu system fonts ---
+            serif_r  = _find_ttf("dejavuserif.")
+            serif_b  = _find_ttf("dejavuserif-bold.")
+            serif_i  = _find_ttf("dejavuserif-italic.")
+            serif_bi = _find_ttf("dejavuserif-bolditalic.")
+            sans_r   = _find_ttf("dejavusans.")
+            sans_b   = _find_ttf("dejavusans-bold.")
+            mono_r   = _find_ttf("dejavusansmono.")
+            mono_b   = _find_ttf("dejavusansmono-bold.")
 
-        self.pdf._sans = self.SANS
+            if serif_r and sans_r and mono_r:
+                self._use_unicode = True
+                self.pdf._use_unicode = True
+                self.pdf.add_font(self.SERIF, "",   serif_r)
+                self.pdf.add_font(self.SERIF, "B",  serif_b  or serif_r)
+                self.pdf.add_font(self.SERIF, "I",  serif_i  or serif_r)
+                self.pdf.add_font(self.SERIF, "BI", serif_bi or serif_r)
+                sans_i   = _find_ttf("dejavusans-oblique.")
+                mono_i   = _find_ttf("dejavusansmono-oblique.")
+                self.pdf.add_font(self.SANS,  "",   sans_r)
+                self.pdf.add_font(self.SANS,  "B",  sans_b or sans_r)
+                self.pdf.add_font(self.SANS,  "I",  sans_i or sans_r)
+                self.pdf.add_font(self.SANS,  "BI", sans_i or sans_r)
+                self.pdf.add_font(self.MONO,  "",   mono_r)
+                self.pdf.add_font(self.MONO,  "B",  mono_b or mono_r)
+                self.pdf.add_font(self.MONO,  "I",  mono_i or mono_r)
+                print("  Fonts: DejaVu TTF (full Unicode)")
+            else:
+                self._use_unicode = False
+                self.pdf._use_unicode = False
+                self.SERIF = "Times"
+                self.SANS  = "Helvetica"
+                self.MONO  = "Courier"
+                print("  Fonts: built-in Latin-1 (Unicode chars replaced)")
+
+        self.pdf._sans  = self.SANS
+        self.pdf._serif = self.SERIF
 
     def _t(self, text: str) -> str:
         """Sanitise text: strip emojis always, plus Latin-1 fixes if no TTF."""
         text = _EMOJI_RE.sub("", text)
         return text if self._use_unicode else _sanitize(text)
+
+    # ---------------------------------------------------------------
+    #  Page helpers
+    # ---------------------------------------------------------------
+    def _ensure_recto(self):
+        """If next add_page() would land on verso, insert a blank page first
+        so the article opens on recto (odd)."""
+        if self.pdf.page % 2 == 1:
+            # Currently recto → next add_page() = verso; insert blank
+            self.pdf.add_page()
 
     # ---------------------------------------------------------------
     #  Image handling
@@ -399,7 +555,7 @@ class PDFRenderer:
     #  Block rendering
     # ---------------------------------------------------------------
     def _render_heading(self, level: int, inline_tok):
-        sizes  = {1: 22, 2: 15, 3: 12, 4: 11}
+        sizes  = {1: 20, 2: 14, 3: 11, 4: 10.5}
         colors = {1: C_DARK, 2: C_H2, 3: C_H3, 4: C_H3}
         sz  = sizes.get(level, 10)
         clr = colors.get(level, C_H3)
@@ -411,9 +567,15 @@ class PDFRenderer:
         else:
             self.pdf.ln(space_before)
 
-        self.pdf.set_font(self.SANS, "B", sz)
+        if level <= 3:
+            self.pdf.set_font(self.SANS, "B", sz)
+        else:
+            # H4: serif, bold italic
+            self.pdf.set_font(self.SERIF, "BI", sz)
         self.pdf.set_text_color(*clr)
 
+        # Ensure x is at left margin before multi_cell
+        self.pdf.set_x(self.pdf.l_margin)
         text = self._t(self._plain(inline_tok))
         self.pdf.multi_cell(0, sz * 0.55, text,
                             new_x="LMARGIN", new_y="NEXT")
@@ -435,6 +597,8 @@ class PDFRenderer:
         else:
             self.pdf.ln(2)
 
+        # Reset paragraph counter (next paragraph = no indent)
+        self._para_index = 0
         self._restore_body()
 
     def _render_paragraph(self, inline_tok):
@@ -450,8 +614,7 @@ class PDFRenderer:
                                   _attr(img, "alt") or img.content or "")
                 return
 
-            # Image-with-caption pattern:
-            #   <image> <softbreak> <em_open> caption text <em_close>
+            # Image-with-caption pattern
             if (len(real) >= 2 and real[0].type == "image"
                     and real[1].type == "em_open"):
                 img = real[0]
@@ -465,10 +628,17 @@ class PDFRenderer:
                 self._embed_image(_attr(img, "src"), caption)
                 return
 
+            # First-line indent for subsequent paragraphs
+            if self._para_index > 0:
+                self.pdf.set_x(self.pdf.l_margin + self.INDENT_MM)
+
             self._render_inline(inline_tok.children)
         elif inline_tok.content:
+            if self._para_index > 0:
+                self.pdf.set_x(self.pdf.l_margin + self.INDENT_MM)
             self.pdf.write(self._lh, self._t(inline_tok.content))
 
+        self._para_index += 1
         self.pdf.ln(self._lh + 2)
 
     def _render_blockquote(self, inner_tokens: list):
@@ -504,8 +674,8 @@ class PDFRenderer:
             self.pdf.set_x(saved_l)
             self._restore_body()
 
-            bullet = f"{idx}. " if ordered else "- "
-            self.pdf.cell(7, self._lh, bullet)
+            bullet = f"{idx}. " if ordered else "\u2022 "
+            self.pdf.cell(7, self._lh, self._t(bullet))
 
             for tok in item_tokens:
                 if tok.type in ("paragraph_open", "paragraph_close"):
@@ -533,12 +703,15 @@ class PDFRenderer:
         self._restore_body()
 
     def _render_hr(self):
+        """Ornamental section break:  — ✦ —  """
         self.pdf.ln(4)
-        y = self.pdf.get_y()
-        self.pdf.set_draw_color(*C_RULE)
-        self.pdf.set_line_width(0.3)
-        self.pdf.line(self.pdf.l_margin, y, self.pdf.w - self.pdf.r_margin, y)
+        self.pdf.set_font(self.SERIF, "", 12)
+        self.pdf.set_text_color(*C_GOLD)
+        ornament = self._t("\u2014 \u2726 \u2014")
+        self.pdf.cell(0, 6, ornament, align="C",
+                      new_x="LMARGIN", new_y="NEXT")
         self.pdf.ln(4)
+        self._restore_body()
 
     def _render_table(self, inner_tokens: list):
         headers: list = []
@@ -582,7 +755,6 @@ class PDFRenderer:
         for row in rows:
             if self.pdf.get_y() + 5 > self.pdf.h - self.pdf.b_margin:
                 self.pdf.add_page()
-                # Re-print header on new page
                 for hrow in headers:
                     self.pdf.set_font(self.SANS, "B", 7.5)
                     self.pdf.set_fill_color(240, 240, 240)
@@ -611,14 +783,14 @@ class PDFRenderer:
 
             if tp == "heading_open":
                 inline = tokens[i + 1] if i + 1 < len(tokens) else None
-                i += 2                              # skip inline + heading_close
+                i += 2
                 if inline:
                     level = int(tok.tag[1])
                     self._render_heading(level, inline)
 
             elif tp == "paragraph_open":
                 inline = tokens[i + 1] if i + 1 < len(tokens) else None
-                i += 2                              # skip inline + paragraph_close
+                i += 2
                 if inline:
                     self._render_paragraph(inline)
 
@@ -660,8 +832,6 @@ class PDFRenderer:
                     i += 1
                 self._render_table(tbl)
 
-            # Skip tokens we don't render (html_block, close tags, etc.)
-
             i += 1
 
     def _collect_list_items(self, tokens, start, close_type):
@@ -694,7 +864,7 @@ class PDFRenderer:
 
     def _restore_body(self):
         """Reset to default body font and colour."""
-        self.pdf.set_font(self.SERIF, "", 10.5)
+        self.pdf.set_font(self.SERIF, "", self.BODY_SIZE)
         self.pdf.set_text_color(*C_BLACK)
         self._text_color = C_BLACK
         self._link_href = None
@@ -703,7 +873,7 @@ class PDFRenderer:
     #  Table of Contents renderer  (callback for insert_toc_placeholder)
     # ---------------------------------------------------------------
     def _render_toc(self, pdf, outline):
-        """Render the Table of Contents on the reserved placeholder pages."""
+        """Render the Table of Contents with leader dots."""
         start_page = pdf.page
 
         pdf.set_font(self.SANS, "B", 22)
@@ -718,13 +888,15 @@ class PDFRenderer:
         pdf.line(pdf.l_margin, y, pdf.w - pdf.r_margin, y)
         pdf.ln(8)
 
+        pw = pdf.w - pdf.l_margin - pdf.r_margin
+
         for entry in outline:
             level = entry.level
             page  = entry.page_number
             name  = entry.name
 
             if level == 0:
-                pdf.set_font(self.SANS, "B", 11)
+                pdf.set_font(self.SANS, "B", 10.5)
                 pdf.set_text_color(*C_DARK)
                 indent  = 0
                 line_h  = 6.5
@@ -742,18 +914,46 @@ class PDFRenderer:
             x0 = pdf.l_margin + indent
             pdf.set_x(x0)
 
-            # Entry name and page number
-            avail_w = pdf.w - x0 - pdf.r_margin - 12
-            pdf.cell(avail_w, line_h, name)
+            # Measure text width
+            name_w = pdf.get_string_width(name)
+            page_str = str(page)
+            page_w = 12
 
+            avail_w = pw - indent - page_w
+
+            # Print entry name (truncated if needed)
+            pdf.cell(min(name_w + 2, avail_w), line_h, name)
+
+            # Leader dots
+            dot_start = x0 + min(name_w + 2, avail_w)
+            dot_end   = pdf.w - pdf.r_margin - page_w
+            if dot_end > dot_start + 4:
+                saved_font = (pdf.font_family, pdf.font_style, pdf.font_size_pt)
+                pdf.set_font(self.SANS, "", 8)
+                pdf.set_text_color(*C_LGRAY)
+                pdf.set_x(dot_start)
+                dot_w = pdf.get_string_width(" .")
+                if dot_w > 0:
+                    ndots = int((dot_end - dot_start) / dot_w)
+                    dots = " ." * ndots
+                    pdf.cell(dot_end - dot_start, line_h, dots)
+                # Restore font for page number
+                pdf.set_font(saved_font[0], saved_font[1], saved_font[2])
+                if level == 0:
+                    pdf.set_text_color(*C_DARK)
+                else:
+                    pdf.set_text_color(*C_H2)
+
+            # Page number
             pdf.set_font(self.SANS, "", 9)
             pdf.set_text_color(*C_GRAY)
-            pdf.cell(12, line_h, str(page), align="R",
+            pdf.set_x(pdf.w - pdf.r_margin - page_w)
+            pdf.cell(page_w, line_h, page_str, align="R",
                      new_x="LMARGIN", new_y="NEXT")
 
             pdf.ln(spacing)
 
-        # Pad remaining reserved pages with blank page breaks
+        # Pad remaining reserved pages
         pages_used = pdf.page - start_page + 1
         print(f"  TOC: {len(outline)} entries on {pages_used} pages (reserved {self._toc_pages})")
         while pages_used < self._toc_pages:
@@ -768,7 +968,13 @@ class PDFRenderer:
         text = re.sub(r"<[A-Z][A-Za-z0-9]*[^>]*/?>", "", text)    # strip JSX
         text = re.sub(r"</?[A-Z][A-Za-z0-9]*>", "", text)          # strip closing JSX
 
+        # Ensure article starts on recto (odd) page
+        self._ensure_recto()
+        self.pdf._chapter_opener = True
         self.pdf.add_page()
+
+        # Reset paragraph counter
+        self._para_index = 0
 
         # Section number from filename  (e.g. "01.020")
         section_num = ""
@@ -784,6 +990,10 @@ class PDFRenderer:
         # Extract H1 title for the Table of Contents
         h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
         h1_title = h1_match.group(1).strip() if h1_match else path.stem
+
+        # Update running header chapter title
+        self._chapter_title = h1_title
+        self.pdf.chapter_title = h1_title
 
         # TOC level: xx.000 chapter headers + 00.xxx intro = level 0; rest = level 1
         if section_num.endswith(".000") or section_num.startswith("00."):
@@ -806,10 +1016,13 @@ class PDFRenderer:
 
         n = len(md_files)
         print(f"Generating PDF from {n} content files ...")
+        print(f"  Format: {PAGE_W_MM} x {PAGE_H_MM} mm (6 x 9 in trade paperback)")
+        print(f"  Margins: inside={MARGIN_INSIDE}mm outside={MARGIN_OUTSIDE}mm "
+              f"top={MARGIN_TOP}mm bottom={MARGIN_BOTTOM}mm")
 
-        # ---- Title page ----
+        # ---- Title page (page i) ----
         self.pdf.add_page()
-        self.pdf.ln(60)
+        self.pdf.ln(55)
         self.pdf.set_font(self.SANS, "B", 36)
         self.pdf.set_text_color(*C_DARK)
         self.pdf.cell(0, 18, self._t("Paradigm Threat:"), align="C",
@@ -819,25 +1032,47 @@ class PDFRenderer:
         self.pdf.cell(0, 14, self._t("The Third Story"), align="C",
                       new_x="LMARGIN", new_y="NEXT")
         self.pdf.ln(6)
+
+        # Ornamental rule
         self.pdf.set_draw_color(*C_GOLD)
         self.pdf.set_line_width(0.7)
-        mid_l = self.pdf.l_margin + 30
-        mid_r = self.pdf.w - self.pdf.r_margin - 30
+        mid_l = self.pdf.l_margin + 20
+        mid_r = self.pdf.w - self.pdf.r_margin - 20
         self.pdf.line(mid_l, self.pdf.get_y(), mid_r, self.pdf.get_y())
         self.pdf.ln(8)
+
+        # Edition label
         self.pdf.set_font(self.SANS, "I", 10)
         self.pdf.set_text_color(*C_GRAY)
-        self.pdf.cell(0, 7, self._t("Early Draft — Paradigm Threat Timeline"), align="C",
-                      new_x="LMARGIN", new_y="NEXT")
+        self.pdf.cell(0, 7, self._t("Early Draft \u2014 Not for Distribution"),
+                      align="C", new_x="LMARGIN", new_y="NEXT")
         self.pdf.ln(3)
+
+        # Version
         self.pdf.set_font(self.SANS, "", 11)
         self.pdf.cell(0, 8, self._t(f"Version {PKG_VERSION}"), align="C",
                       new_x="LMARGIN", new_y="NEXT")
 
-        # ---- Table of Contents (placeholder filled during output) ----
-        # TOC starts on a new page; reserve enough pages (padding if fewer needed)
-        self._toc_pages = 5
+        # ---- Copyright page (page ii — verso) ----
+        self.pdf.add_page()
+        self.pdf.ln(80)
+        self.pdf.set_font(self.SERIF, "", 9)
+        self.pdf.set_text_color(*C_GRAY)
+        copyright_text = (
+            "Copyright \u00a9 Paradigm Threat Research Project\n"
+            "All rights reserved.\n\n"
+            "Early draft \u2014 not for distribution.\n"
+            f"Version {PKG_VERSION}"
+        )
+        self.pdf.multi_cell(0, 5, self._t(copyright_text),
+                            align="C", new_x="LMARGIN", new_y="NEXT")
+
+        # ---- Table of Contents (starts page iii) ----
+        self._toc_pages = 6
         self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
+
+        # End front matter — body content starts
+        self.pdf._in_front_matter = False
 
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")

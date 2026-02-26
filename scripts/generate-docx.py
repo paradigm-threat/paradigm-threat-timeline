@@ -655,8 +655,8 @@ class DOCXRenderer:
         desc_para = self.doc.add_paragraph()
         desc_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
         desc_run = desc_para.add_run(
-            "An alternate Earth history investigation correlating Scaligerian chronology, "
-            "Fomenko\u2019s New Chronology, Saturnian Cosmology, and indigenous oral traditions."
+            "A cross-chronology investigation challenging the official timeline of Earth history \u2014 "
+            "Scaligerian, Fomenko\u2019s New Chronology, Saturnian Cosmology, and indigenous traditions."
         )
         desc_run.font.size      = Pt(11)
         desc_run.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
