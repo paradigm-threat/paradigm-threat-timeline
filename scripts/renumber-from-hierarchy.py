@@ -30,13 +30,37 @@ import re
 
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT_DIR = os.path.join(REPO_DIR, "content")
+MEDIA_DIR = os.path.join(REPO_DIR, "media")
 EVENTS_JSON = os.path.join(REPO_DIR, "data", "events.json")
 
 NUM_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{2})(-.*)")
 
 
+def _build_chapter_folder_map() -> dict[str, str]:
+    """Map chapter number ('00', '01', …) → subfolder name under content/."""
+    folder_map: dict[str, str] = {}
+    # Prefer media/ directory names as canonical source
+    if os.path.isdir(MEDIA_DIR):
+        for d in os.listdir(MEDIA_DIR):
+            dp = os.path.join(MEDIA_DIR, d)
+            if os.path.isdir(dp):
+                m = re.match(r'^(\d{2})', d)
+                if m:
+                    folder_map[m.group(1)] = d
+    # Fallback: derive from chapter root filenames for chapters without media dirs
+    for root, _dirs, files in os.walk(CONTENT_DIR):
+        for fname in files:
+            m = re.match(r'^(\d{2})\.00\.00-(.+)\.md$', fname)
+            if m and m.group(1) not in folder_map:
+                folder_map[m.group(1)] = f"{m.group(1)}-{m.group(2)}"
+    return folder_map
+
+
+CHAPTER_FOLDERS = _build_chapter_folder_map()
+
+
 def slug_from_path(md_path: str) -> str:
-    """Extract slug (dash + rest) from 'content/XX.YY.ZZ-slug.md'."""
+    """Extract slug (dash + rest) from 'content/…/XX.YY.ZZ-slug.md'."""
     fname = os.path.basename(md_path)
     m = NUM_RE.match(fname)
     if m:
@@ -48,12 +72,23 @@ def slug_from_path(md_path: str) -> str:
     return fname[idx:]
 
 
-def find_by_slug(slug: str, content_dir: str) -> str | None:
-    """Find a file on disk whose slug matches."""
-    for f in os.listdir(content_dir):
-        m = NUM_RE.match(f)
-        if m and m.group(4) == slug:
-            return f
+def _all_md_files() -> dict[str, str]:
+    """Return {basename: full_path} for every .md file under content/."""
+    result = {}
+    for root, _dirs, files in os.walk(CONTENT_DIR):
+        for f in files:
+            if f.endswith('.md'):
+                result[f] = os.path.join(root, f)
+    return result
+
+
+def find_by_slug(slug: str) -> str | None:
+    """Find a file on disk (across all content subdirs) whose slug matches."""
+    for root, _dirs, files in os.walk(CONTENT_DIR):
+        for f in files:
+            m = NUM_RE.match(f)
+            if m and m.group(4) == slug:
+                return f
     return None
 
 
@@ -85,7 +120,8 @@ class Renumberer:
             return False
 
         new_fname = f"{xx}.{yy:02d}.{zz:02d}{slug}"
-        new_path = f"content/{new_fname}"
+        folder = CHAPTER_FOLDERS.get(xx, xx)
+        new_path = f"content/{folder}/{new_fname}"
         old_fname = os.path.basename(entry["md_path"])
 
         self.slug_to_new[slug] = new_path
@@ -172,34 +208,36 @@ class Renumberer:
 def step1_rename_files(ren: Renumberer) -> int:
     """Rename files on disk.  Finds misplaced files by slug if needed."""
     print("\n── Step 1: Renaming content files ──────────────────────────")
+    all_files = _all_md_files()  # {basename: full_path}
     changed = 0
     for entry, new_path, is_dup in ren.assignments:
         if is_dup:
             continue
         new_fname = os.path.basename(new_path)
-        dst = os.path.join(CONTENT_DIR, new_fname)
+        # Destination is in the chapter subfolder
+        new_dir = os.path.join(CONTENT_DIR, os.path.dirname(new_path).replace("content/", "", 1))
+        os.makedirs(new_dir, exist_ok=True)
+        dst = os.path.join(new_dir, new_fname)
 
         # Already correct on disk?
         if os.path.exists(dst):
             continue
 
         old_fname = os.path.basename(entry["md_path"])
-        src = os.path.join(CONTENT_DIR, old_fname)
 
-        if os.path.exists(src):
+        # Try finding by old filename
+        if old_fname in all_files:
+            src = all_files[old_fname]
             os.rename(src, dst)
-            print(f"  [RENAME] {old_fname}  ->  {new_fname}")
+            print(f"  [RENAME] {old_fname}  ->  {os.path.relpath(dst, CONTENT_DIR)}")
             changed += 1
         else:
-            # File is somewhere on disk under a different number — find it
+            # File is somewhere on disk under a different number — find it by slug
             slug = slug_from_path(entry["md_path"])
-            actual = find_by_slug(slug, CONTENT_DIR)
-            if actual:
-                os.rename(
-                    os.path.join(CONTENT_DIR, actual),
-                    dst,
-                )
-                print(f"  [FOUND]  {actual}  ->  {new_fname}")
+            actual = find_by_slug(slug)
+            if actual and actual in all_files:
+                os.rename(all_files[actual], dst)
+                print(f"  [FOUND]  {actual}  ->  {os.path.relpath(dst, CONTENT_DIR)}")
                 ren.rename_map[actual] = new_fname  # for cross-link step
                 changed += 1
             else:
@@ -225,7 +263,7 @@ def step2_update_events_json(ren: Renumberer, data: dict) -> None:
 
 def step3_update_crosslinks(ren: Renumberer) -> None:
     """Rewrite markdown cross-links that reference renamed files."""
-    print("\n── Step 3: Updating cross-links in content/*.md ────────────")
+    print("\n── Step 3: Updating cross-links in content/**/*.md ─────────")
     # Build old_basename → new_basename map (both exact and prefix)
     fname_map: dict[str, str] = {}
     for old, new in ren.rename_map.items():
@@ -238,47 +276,55 @@ def step3_update_crosslinks(ren: Renumberer) -> None:
 
     total_files = 0
     total_links = 0
-    for fname in sorted(os.listdir(CONTENT_DIR)):
-        if not fname.endswith(".md"):
-            continue
-        fpath = os.path.join(CONTENT_DIR, fname)
-        with open(fpath, "r", encoding="utf-8") as f:
-            text = f.read()
+    for root, _dirs, files in os.walk(CONTENT_DIR):
+        for fname in sorted(files):
+            if not fname.endswith(".md"):
+                continue
+            fpath = os.path.join(root, fname)
+            with open(fpath, "r", encoding="utf-8") as f:
+                text = f.read()
 
-        new_text = text
-        count = 0
-        for old_ref, new_ref in fname_map.items():
-            if old_ref in new_text:
-                n = new_text.count(old_ref)
-                new_text = new_text.replace(old_ref, new_ref)
-                count += n
+            new_text = text
+            count = 0
+            for old_ref, new_ref in fname_map.items():
+                if old_ref in new_text:
+                    n = new_text.count(old_ref)
+                    new_text = new_text.replace(old_ref, new_ref)
+                    count += n
 
-        if new_text != text:
-            with open(fpath, "w", encoding="utf-8") as f:
-                f.write(new_text)
-            print(f"  [LINKS] {fname}  ({count} ref(s))")
-            total_files += 1
-            total_links += count
+            if new_text != text:
+                with open(fpath, "w", encoding="utf-8") as f:
+                    f.write(new_text)
+                rel = os.path.relpath(fpath, REPO_DIR)
+                print(f"  [LINKS] {rel}  ({count} ref(s))")
+                total_files += 1
+                total_links += count
     print(f"\n  {total_links} link(s) in {total_files} file(s) updated.")
 
 
 def step4_broken_links() -> None:
     print("\n── Step 4: Checking for broken links ───────────────────────")
-    existing = set(os.listdir(CONTENT_DIR))
+    existing = set()
+    for root, _dirs, files in os.walk(CONTENT_DIR):
+        for f in files:
+            if f.endswith(".md"):
+                existing.add(f)
     broken = []
-    for fname in sorted(existing):
-        if not fname.endswith(".md"):
-            continue
-        fpath = os.path.join(CONTENT_DIR, fname)
-        with open(fpath, "r", encoding="utf-8") as f:
-            text = f.read()
-        for m in re.finditer(
-            r"(?:\.\/|\/content\/)?(\d{2}\.\d{2}\.\d{2}-[^)\s\"'\n]+\.md)",
-            text,
-        ):
-            tgt = m.group(1)
-            if tgt not in existing:
-                broken.append((fname, tgt))
+    for root, _dirs, files in os.walk(CONTENT_DIR):
+        for fname in sorted(files):
+            if not fname.endswith(".md"):
+                continue
+            fpath = os.path.join(root, fname)
+            with open(fpath, "r", encoding="utf-8") as f:
+                text = f.read()
+            rel = os.path.relpath(fpath, REPO_DIR)
+            for m in re.finditer(
+                r"(?:\.\/|\/content\/[^/]+\/|\/content\/)(\d{2}\.\d{2}\.\d{2}-[^)\s\"'\n]+\.md)",
+                text,
+            ):
+                tgt = m.group(1)
+                if tgt not in existing:
+                    broken.append((rel, tgt))
     if broken:
         print(f"  [WARN] {len(broken)} broken link(s):")
         for src, tgt in broken:

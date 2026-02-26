@@ -15,482 +15,527 @@
     "_count": 3
   },
   "content": {
-    "00.00.00-introduction.md": {
-      "_title": "Introduction"
-    },
-    "00.01.00-background.md": {
-      "_title": "Background"
-    },
-    "00.01.01-authors-challenging-chronology.md": {
-      "_title": "Authors Challenging the Mainstream Timeline"
-    },
-    "00.01.02-authors-cataclysm-texts.md": {
-      "_title": "Authors Who Read Ancient Sources as World Cataclysm"
-    },
-    "00.01.03-challenging-established-physics.md": {
-      "_title": "Challenging Established Physics"
-    },
-    "00.02.00-core-concepts.md": {
-      "_title": "Core Concepts"
-    },
-    "00.02.01-the-length-of-a-year-changes-throughout-antiquity.md": {
-      "_title": "The length of a Year changes throughout Antiquity"
-    },
-    "00.02.02-timeline-synchronization.md": {
-      "_title": "Timeline synchronization"
-    },
-    "00.02.03-cosmic-life-cycle.md": {
-      "_title": "Cosmic Life Cycle"
-    },
-    "01.00.00-5000-bce-before-creation.md": {
-      "_title": "Before Creation"
-    },
-    "01.01.00-3-plasmoids-in-the-southern-hemisphere.md": {
-      "_title": "3 Plasmoids in the Southern Hemisphere"
-    },
-    "01.02.00-spawning-of-the-first-life-forms.md": {
-      "_title": "Spawning of the First Life Forms"
-    },
-    "01.02.01-scalar-energy-as-the-basis-of-creation.md": {
-      "_title": "Scalar Energy as the basis of Creation"
-    },
-    "01.03.00-all-planets-and-suns-are-hollow.md": {
-      "_title": "All planets and suns are hollow"
-    },
-    "02.00.00-4077-bce-the-golden-age.md": {
-      "_title": "The Golden Age"
-    },
-    "02.01.00-4077-bce-proto-saturn-joins-the-suns-orbit-and-lights-up.md": {
-      "_title": "Proto-Saturn joins the Sun's orbit and lights up"
-    },
-    "02.02.00-the-length-of-a-year-was-225-days.md": {
-      "_title": "The length of a year was 225 days"
-    },
-    "02.03.00-saturns-collinear-planetary-configuration-the-tree-of-life.md": {
-      "_title": "Saturn's Collinear Planetary Configuration - The Tree of Life"
-    },
-    "02.04.00-the-absu-layers-surrounded-the-planets.md": {
-      "_title": "The Absu layers surrounded the Planets"
-    },
-    "02.05.00-northern-hemisphere-configuration.md": {
-      "_title": "Northern Hemisphere Configuration"
-    },
-    "02.06.00-southern-hemisphere-configuration.md": {
-      "_title": "Southern Hemisphere Configuration"
-    },
-    "02.07.00-atlantis-and-the-tree-of-knowledge.md": {
-      "_title": "Atlantis and the Tree of Knowledge"
-    },
-    "02.08.00-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md": {
-      "_title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven"
-    },
-    "02.09.00-quantum-entanglement.md": {
-      "_title": "The Interplanetary Quantum Entanglement"
-    },
-    "03.00.00-3147-bce-the-dark-ages.md": {
-      "_title": "The Dark Ages"
-    },
-    "03.01.00-3147-bce-the-golden-age-ends-violently.md": {
-      "_title": "The Golden Age Ends Violently."
-    },
-    "03.02.00-the-length-of-a-year-increases-by-an-additional-15-rotations-to-240-days.md": {
-      "_title": "The length of a year increases by an additional 15 rotations per year to 240 days total."
-    },
-    "03.03.00-the-great-deluge.md": {
-      "_title": "The Great Deluge"
-    },
-    "03.04.00-humanity-was-then-cast-out-of-the-garden-of-eden.md": {
-      "_title": "Humanity was then cast out of the Garden of Eden"
-    },
-    "03.05.00-formation-of-the-deep-state-pyramidal-empire.md": {
-      "_title": "Formation of the Deep State Pyramidal Empire"
-    },
-    "03.06.00-3067-bce-the-planets-are-at-war.md": {
-      "_title": "The Planets are at war."
-    },
-    "03.07.00-2860-bce-all-planets-enter-a-stable-non-linear-orbit.md": {
-      "_title": "All planets enter a stable non-linear orbit."
-    },
-    "03.07.01-jupiter-replaces-saturn-as-the-new-saviour.md": {
-      "_title": "Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)"
-    },
-    "03.07.02-pyramids-were-portals.md": {
-      "_title": "Pyramids were Portals"
-    },
-    "03.08.00-2349-bce-jupiter-disappears-and-venus-attacks-earth.md": {
-      "_title": "September 8 - Jupiter disappears and Venus attacks Earth"
-    },
-    "03.08.01-the-length-of-a-year-increases-by-20-rotations-to-260-days.md": {
-      "_title": "The length of a year increases by 20 rotations to 260 days."
-    },
-    "03.09.00-2193-bce-earth-leaves-last-absu-layer-and-jupiter-consumes-venus.md": {
-      "_title": "Earth leaves last Absu layer and Jupiter consumes Venus again"
-    },
-    "03.09.01-the-length-of-a-year-increases-by-13-rotations-to-273-days.md": {
-      "_title": "The length of a year increases by 13 rotations to 273 days."
-    },
-    "03.10.00-2167-bce-jupiter-catches-on-fire.md": {
-      "_title": "Jupiter catches on fire"
-    },
-    "03.11.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md": {
-      "_title": "Sodom and Gomorrah are completely destroyed by Mars."
-    },
-    "03.12.00-1492-bce-the-passover-of-comet-venus-and-exodus.md": {
-      "_title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire"
-    },
-    "03.12.01-the-length-of-a-year-jumps-by-92-rotations-to-365-days.md": {
-      "_title": "The length of a year jumps by 92 rotations to 365 days"
-    },
-    "03.12.02-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md": {
-      "_title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)"
-    },
-    "03.13.00-1442-bce-the-sun-stands-still-for-joshua.md": {
-      "_title": "The sun stands still for Joshua"
-    },
-    "03.14.00-806-bce-mars-earth-and-mercury-finalize-orbits.md": {
-      "_title": "Mars, Earth and Mercury finalize orbits."
-    },
-    "03.14.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md": {
-      "_title": "Mars (aka Prometheus) replaces Venus as the new Saviour"
-    },
-    "03.15.00-670-bce-priori-mars-loses-its-outer-shell-iron-age-begins.md": {
-      "_title": "March 23 - Priori-Mars loses its outer shell - Iron Age Begins"
-    },
-    "03.16.00-684-bce-solar-system-becomes-stable.md": {
-      "_title": "Solar System becomes stable"
-    },
-    "03.16.01-the-length-of-a-year-jumps-by-14th-of-a-rotation-to-36525-days.md": {
-      "_title": "The length of a year jumps by 1/4th of. a rotation to 365.25 days"
-    },
-    "03.16.02-how-many-lunar-months-are-in-a-year.md": {
-      "_title": "How many Lunar Months are in a Year?"
-    },
-    "04.00.00-670-bce-the-blip.md": {
-      "_title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred"
-    },
-    "04.01.00-building-the-new-chronology.md": {
-      "_title": "Building the New Chronology"
-    },
-    "05.00.00-1000-ce-11th-century-common-era-begins.md": {
-      "_title": "11th Century C.E. Common Era Begins"
-    },
-    "05.01.00-1053-ce-year-of-our-lord-deception-1053-year-shift-forward.md": {
-      "_title": "'Year of our Lord' Deception - 1053 Year Shift forward"
-    },
-    "05.02.00-the-sun-replaces-mars-as-the-new-saviour.md": {
-      "_title": "The Sun replaces Mars as the new Saviour"
-    },
-    "05.03.00-deep-state-centralize-world-religion-at-jerusalem.md": {
-      "_title": "Deep State Centralize World Religion at Jerusalem"
-    },
-    "06.00.00-1100-ce-12th-century-birth-of-christianity.md": {
-      "_title": "12th Century C.E. Birth of Christianity"
-    },
-    "06.01.00-the-naming-of-christ.md": {
-      "_title": "The naming of Christ"
-    },
-    "06.02.00-deep-state-eliminate-the-giants.md": {
-      "_title": "Deep State Eliminate the Giants"
-    },
-    "06.03.00-christs-family-flees-ahead-of-the-census.md": {
-      "_title": "Christ's family flees ahead of the census"
-    },
-    "06.04.00-1152-ce-historical-christ-is-born-in-crimea.md": {
-      "_title": "Historical Christ is Born in _Crimea_"
-    },
-    "06.05.00-1185-ce-historical-christ-is-crucified-in-istanbul.md": {
-      "_title": "Historical Christ is Crucified in Istanbul"
-    },
-    "06.05.01-alleged-resurrection.md": {
-      "_title": "Alleged Resurrection"
-    },
-    "06.06.00-the-revolution-survives-despite-christs-martyrdom.md": {
-      "_title": "The Revolution survives despite Christ's Martyrdom"
-    },
-    "06.07.00-1196-ce-first-crusade-begins-as-revenge-for-the-crucifixion.md": {
-      "_title": "First Crusade begins as Revenge for the Crucifixion"
-    },
-    "06.07.01-the-first-great-war-between-giants-and-smaller-sized-humans.md": {
-      "_title": "The First great war between giants and smaller sized humans"
-    },
-    "07.00.00-1200-ce-13th-century-russian-horde-tartarian-empire.md": {
-      "_title": "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges"
-    },
-    "07.01.00-1204-ce-capture-of-first-jerusalem.md": {
-      "_title": "Capture of First Jerusalem"
-    },
-    "07.02.00-whom-are-the-israelites-in-history.md": {
-      "_title": "Whom are the \u201cIsraelites\u201d in history ?"
-    },
-    "07.03.00-russian-empire-expands-through-conquest.md": {
-      "_title": "Russian Empire expands through conquest"
-    },
-    "07.04.00-1258-ce-historical-christ-dies.md": {
-      "_title": "Historical Christ dies"
-    },
-    "07.05.00-1285-ce-first-olympic-games.md": {
-      "_title": "First Olympic Games"
-    },
-    "08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md": {
-      "_title": "14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire"
-    },
-    "08.01.00-european-religious-schism-emerges.md": {
-      "_title": "European Religious Schism Emerges"
-    },
-    "08.02.00-1337-ce-the-hundred-years-war-begins.md": {
-      "_title": "The \"Hundred Years War\" begins"
-    },
-    "08.03.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
-      "_title": "Giants are defeated at the Battle of Kulikovo"
-    },
-    "09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md": {
-      "_title": "15th Century C.E. Ottoman Conquest of Europe."
-    },
-    "09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md": {
-      "_title": "Meteorite (Star Metal) falls on Yaroslavl"
-    },
-    "09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md": {
-      "_title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)"
-    },
-    "09.02.01-1455-ce-deep-state-steals-russian-history.md": {
-      "_title": "Deep State Steals Russian History"
-    },
-    "09.03.00-1455-ce-gutenberg-bible-translated-into-latin.md": {
-      "_title": "Gutenberg Bible translated into Latin"
-    },
-    "09.03.01-latin-is-the-language-of-the-deep-state.md": {
-      "_title": "Theory: Latin is the Language of the Deep State"
-    },
-    "09.03.02-deep-state-redacts-christianity-into-jesuit-catholicism.md": {
-      "_title": "Deep State redacts Christianity into Jesuit Catholicism"
-    },
-    "09.03.03-jesuit-operations-conversion-and-catholicism.md": {
-      "_title": "Jesuit Operations: Conversion, Catholicism, and the New World"
-    },
-    "09.04.00-1486-ce-revelation-of-the-coming-apocalypse.md": {
-      "_title": "Revelation of the coming Apocalypse"
-    },
-    "09.05.00-1492-ce-apocalypse-crusade-reverse-exodus.md": {
-      "_title": "The Apocalypse Crusade & Reverse Exodus"
-    },
-    "10.00.00-1500-ce-16th-century-reformation-and-inquisition.md": {
-      "_title": "16th Century C.E. Reformation and Inquisition."
-    },
-    "10.01.00-1517-ce-protestant-reformation-begins.md": {
-      "_title": "Protestant Reformation Begins"
-    },
-    "10.02.00-1523-ce-jesuits-make-pilgrimage-to-palestine.md": {
-      "_title": "Jesuits make \"Pilgrimage\" to Palestine"
-    },
-    "10.03.00-1542-ce-the-holy-inquisition.md": {
-      "_title": "The Holy Inquisition"
-    },
-    "10.03.01-heresy-of-the-judaizers.md": {
-      "_title": "Heresy of the Judaizers"
-    },
-    "10.03.02-cathar-suppression.md": {
-      "_title": "Cathar Suppression"
-    },
-    "10.04.00-1548-ce-jesuits-reach-africa.md": {
-      "_title": "Jesuits reach Africa"
-    },
-    "10.05.00-1552-ce-khazar-rebellion-in-the-russia-horde-empire.md": {
-      "_title": "Khazar Rebellion in the Russia-Horde Empire"
-    },
-    "10.06.00-1565-ce-romanov-dynasty-stages-the-oprichnina-coup.md": {
-      "_title": "The Oprichnina"
-    },
-    "10.06.01-redacted-into-the-books-of-esther-judith.md": {
-      "_title": "Redacted into the Books of Esther / Judith"
-    },
-    "10.07.00-1580-ce-jeanne-darc-is-executed-in-rouen-france.md": {
-      "_title": "Jeanne d'Arc is executed in Rouen, France"
-    },
-    "10.08.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md": {
-      "_title": "Gregorian Calendar makes slight adjustment to length of a year"
-    },
-    "11.00.00-1600-ce-17th-century-romanovs-rise-to-power.md": {
-      "_title": "17th Century-Romanovs Rise to power"
-    },
-    "11.01.00-1611-ce-king-james-version-of-the-bible-is-published.md": {
-      "_title": "King James version of the Bible is published"
-    },
-    "11.02.00-1613-ce-romanovs-dynasty-takes-the-throne.md": {
-      "_title": "Romanovs-Zakharyin-Yurievs Dynasty takes the throne"
-    },
-    "11.02.01-deep-state-breaks-up-the-hordian-empire.md": {
-      "_title": "Deep State breaks up the Hordian Empire"
-    },
-    "11.02.02-300-ce-russia-and-turkey-begin-300-years-of-war.md": {
-      "_title": "Russia and Turkey begin 300 years of war"
-    },
-    "11.02.03-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md": {
-      "_title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition"
-    },
-    "11.03.00-1627-ce-deep-state-erases-russian-empire-from-all-chronology.md": {
-      "_title": "Deep State erases Russian Empire from all chronology"
-    },
-    "11.04.00-1633-ce-disputes-against-jews-reemerge.md": {
-      "_title": "Disputes against Jews reemerge"
-    },
-    "11.05.00-1660-ce-the-english-revolution-and-civil-wars.md": {
-      "_title": "C.E. The English Revolution and Civil Wars"
-    },
-    "11.06.00-1648-ce-cossackpolish-war-ethnic-cleansing-of-russians-in-ukraine.md": {
-      "_title": "Cossack\u2013Polish War begins ethnic cleansing of Russians in Ukraine"
-    },
-    "11.06.01-jesuits-missions-convert-asians-to-buddhism.md": {
-      "_title": "Jesuits Missions convert Asians to Buddhism"
-    },
-    "11.07.00-1672-ce-deep-state-targets-independent-banks.md": {
-      "_title": "C.E. Deep State targets independent banks"
-    },
-    "11.08.00-1679-ce-rex-bellator-plan-unifies-all-military-orders.md": {
-      "_title": "C.E. Rex Bellator plan unifies all military orders"
-    },
-    "11.08.01-deep-state-plans-a-second-apocalypse-in-the-year-666.md": {
-      "_title": "Deep State plans a second Apocalypse in the year \u03b9666"
-    },
-    "11.09.00-1664-ce-the-great-comet-of-1664-1665.md": {
-      "_title": "The Great Comet of 1664 / 1665"
-    },
-    "11.10.00-1665-ce-the-great-plague-of-1665.md": {
-      "_title": "The Great Plague of 1665"
-    },
-    "11.11.00-1666-ce-london-burns-to-the-ground.md": {
-      "_title": "Sept 6, 1666 C.E. London Burns to the ground"
-    },
-    "11.12.00-1666-ce-byzantine-and-catalan-alliance.md": {
-      "_title": "Byzantine and Catalan alliance"
-    },
-    "11.13.00-1651-ce-fall-of-the-avignon-powers.md": {
-      "_title": "Fall of the Avignon powers"
-    },
-    "11.14.00-1673-ce-disputes-against-jews-end-lasting-46-years.md": {
-      "_title": "Disputes against Jews end lasting 46 years"
-    },
-    "11.15.00-1670-ce-messianic-jewish-begins.md": {
-      "_title": "Messianic Jewish begins"
-    },
-    "11.16.00-1677-ce-the-order-of-the-temple-of-solomon-is-dismantled.md": {
-      "_title": "The Order of the Temple of Solomon is dismantled"
-    },
-    "11.17.00-1681-ce-the-almogavars-conquer-athens-and-neopatria.md": {
-      "_title": "The almogavars conquer Athens and Neopatria"
-    },
-    "11.18.00-1677-ce-great-fight-in-the-heart-of-western-europe.md": {
-      "_title": "Great fight in the heart of Western Europe"
-    },
-    "11.19.00-1694-ce-deep-state-solidifies-central-banking.md": {
-      "_title": "Deep State solidifies central banking"
-    },
-    "12.00.00-1700-ce-18th-19th-century.md": {
-      "_title": "18th \u2013 19th Century"
-    },
-    "12.01.00-1718-ce-secret-society-of-jesus-goes-public.md": {
-      "_title": "Secret Society of Jesus goes public"
-    },
-    "12.02.00-1773-ce-the-rebellion-of-pugachev.md": {
-      "_title": "The Rebellion of Pugachev"
-    },
-    "12.03.00-1774-ce-mysterious-carbon-14-spike.md": {
-      "_title": "mysterious carbon-14 spike"
-    },
-    "12.04.00-1774-ce-the-mudflood-and-world-cataclysm.md": {
-      "_title": "The MudFlood and World Cataclysm"
-    },
-    "12.05.00-1774-ce-instant-fossilization-and-electric-petrification.md": {
-      "_title": "Instant Fossilization and Electric Petrification"
-    },
-    "12.06.00-1803-ce-napoleonic-wars.md": {
-      "_title": "Napoleonic Wars"
-    },
-    "12.07.00-1812-ce-napoleon-invades-russia.md": {
-      "_title": "Napoleon invades Russia"
-    },
-    "12.07.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md": {
-      "_title": "Ecliptic pathway of the Absu last seen."
-    },
-    "12.07.02-1880-ce-tchaikovsky-releases-1812-overture.md": {
-      "_title": "Tchaikovsky releases 1812 Overture"
-    },
-    "15.00.00-author-profiles.md": {
-      "_title": "Author Profiles"
-    },
-    "15.01.00-n-a-morozov.md": {
-      "_title": "N. A. Morozov"
-    },
-    "15.02.00-wal-thornhill.md": {
-      "_title": "Wal Thornhill"
-    },
-    "15.03.00-ralph-juergens.md": {
-      "_title": "Ralph Juergens"
-    },
-    "15.04.00-immanuel-velikovsky.md": {
-      "_title": "Immanuel Velikovsky (1895\u20131979)"
-    },
-    "15.05.00-anatoly-fomenko.md": {
-      "_title": "Anatoly Fomenko (b. 1945)"
-    },
-    "15.06.00-david-talbott.md": {
-      "_title": "David Talbott (b. 1942)"
-    },
-    "15.07.00-anthony-peratt.md": {
-      "_title": "Anthony Peratt (b. 1940)"
-    },
-    "15.08.00-jno-cook.md": {
-      "_title": "Jno Cook"
-    },
-    "15.09.00-alfred-de-grazia.md": {
-      "_title": "Alfred de Grazia (1919\u20132014)"
-    },
-    "15.10.00-donald-scott.md": {
-      "_title": "Donald Scott"
-    },
-    "15.11.00-ev-cochrane.md": {
-      "_title": "Ev Cochrane (b. 1952)"
-    },
-    "15.12.00-de-santillana-von-dechend.md": {
-      "_title": "Giorgio de Santillana & Hertha von Dechend"
-    },
-    "15.13.00-heribert-illig.md": {
-      "_title": "Heribert Illig (b. 1947)"
-    },
-    "15.14.00-gunnar-heinsohn.md": {
-      "_title": "Gunnar Heinsohn (b. 1943)"
-    },
-    "15.15.00-dwardu-cardona.md": {
-      "_title": "Dwardu Cardona (1937\u20132018)"
-    },
-    "15.16.00-clube-napier.md": {
-      "_title": "Victor Clube & Bill Napier"
-    },
-    "15.17.00-livio-stecchini.md": {
-      "_title": "Livio Stecchini (1913\u20131979)"
-    },
-    "15.18.00-rose-vaughan.md": {
-      "_title": "Lynn Rose & Raymond Vaughan"
-    },
-    "15.19.00-tom-van-flandern.md": {
-      "_title": "Tom Van Flandern (1940\u20132009)"
-    },
-    "15.20.00-martinus-van-der-sluijs.md": {
-      "_title": "Martinus van der Sluijs"
-    },
-    "15.21.00-charles-ginenthal.md": {
-      "_title": "Charles Ginenthal"
-    },
-    "15.22.00-robert-schoch.md": {
-      "_title": "Robert Schoch (b. 1959)"
-    },
-    "15.23.00-graham-hancock.md": {
-      "_title": "Graham Hancock (b. 1950)"
-    },
-    "15.24.00-michael-cremo.md": {
-      "_title": "Michael Cremo (b. 1948)"
-    },
-    "16.00.00-credits.md": {
-      "_title": "Credits"
+    "00.overview": {
+      "00.00.00-introduction.md": {
+        "_title": "Introduction"
+      },
+      "00.01.00-background.md": {
+        "_title": "Background"
+      },
+      "00.01.01-authors-challenging-chronology.md": {
+        "_title": "Authors Challenging the Mainstream Timeline"
+      },
+      "00.01.02-authors-cataclysm-texts.md": {
+        "_title": "Authors Who Read Ancient Sources as World Cataclysm"
+      },
+      "00.01.03-challenging-established-physics.md": {
+        "_title": "Challenging Established Physics"
+      },
+      "00.02.00-core-concepts.md": {
+        "_title": "Core Concepts"
+      },
+      "00.02.01-the-length-of-a-year-changes-throughout-antiquity.md": {
+        "_title": "The length of a Year changes throughout Antiquity"
+      },
+      "00.02.02-timeline-synchronization.md": {
+        "_title": "Timeline synchronization"
+      },
+      "00.02.03-cosmic-life-cycle.md": {
+        "_title": "Cosmic Life Cycle"
+      },
+      "_count": 9
+    },
+    "01.before-creation": {
+      "01.00.00-5000-bce-before-creation.md": {
+        "_title": "Before Creation"
+      },
+      "01.01.00-3-plasmoids-in-the-southern-hemisphere.md": {
+        "_title": "3 Plasmoids in the Southern Hemisphere"
+      },
+      "01.02.00-spawning-of-the-first-life-forms.md": {
+        "_title": "Spawning of the First Life Forms"
+      },
+      "01.02.01-scalar-energy-as-the-basis-of-creation.md": {
+        "_title": "Scalar Energy as the basis of Creation"
+      },
+      "01.03.00-all-planets-and-suns-are-hollow.md": {
+        "_title": "All planets and suns are hollow"
+      },
+      "_count": 5
+    },
+    "02.the-golden-age": {
+      "02.00.00-4077-bce-the-golden-age.md": {
+        "_title": "The Golden Age"
+      },
+      "02.01.00-4077-bce-proto-saturn-joins-the-suns-orbit-and-lights-up.md": {
+        "_title": "Proto-Saturn joins the Sun's orbit and lights up"
+      },
+      "02.02.00-the-length-of-a-year-was-225-days.md": {
+        "_title": "The length of a year was 225 days"
+      },
+      "02.03.00-saturns-collinear-planetary-configuration-the-tree-of-life.md": {
+        "_title": "Saturn's Collinear Planetary Configuration - The Tree of Life"
+      },
+      "02.04.00-the-absu-layers-surrounded-the-planets.md": {
+        "_title": "The Absu layers surrounded the Planets"
+      },
+      "02.05.00-northern-hemisphere-configuration.md": {
+        "_title": "Northern Hemisphere Configuration"
+      },
+      "02.06.00-southern-hemisphere-configuration.md": {
+        "_title": "Southern Hemisphere Configuration"
+      },
+      "02.07.00-atlantis-and-the-tree-of-knowledge.md": {
+        "_title": "Atlantis and the Tree of Knowledge"
+      },
+      "02.08.00-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md": {
+        "_title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven"
+      },
+      "02.09.00-quantum-entanglement.md": {
+        "_title": "The Interplanetary Quantum Entanglement"
+      },
+      "_count": 10
+    },
+    "03.the-dark-ages": {
+      "03.00.00-3147-bce-the-dark-ages.md": {
+        "_title": "The Dark Ages"
+      },
+      "03.01.00-3147-bce-the-golden-age-ends-violently.md": {
+        "_title": "The Golden Age Ends Violently."
+      },
+      "03.02.00-the-length-of-a-year-increases-by-an-additional-15-rotations-to-240-days.md": {
+        "_title": "The length of a year increases by an additional 15 rotations per year to 240 days total."
+      },
+      "03.03.00-the-great-deluge.md": {
+        "_title": "The Great Deluge"
+      },
+      "03.04.00-humanity-was-then-cast-out-of-the-garden-of-eden.md": {
+        "_title": "Humanity was then cast out of the Garden of Eden"
+      },
+      "03.05.00-formation-of-the-deep-state-pyramidal-empire.md": {
+        "_title": "Formation of the Deep State Pyramidal Empire"
+      },
+      "03.06.00-3067-bce-the-planets-are-at-war.md": {
+        "_title": "The Planets are at war."
+      },
+      "03.07.00-2860-bce-all-planets-enter-a-stable-non-linear-orbit.md": {
+        "_title": "All planets enter a stable non-linear orbit."
+      },
+      "03.07.01-jupiter-replaces-saturn-as-the-new-saviour.md": {
+        "_title": "Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)"
+      },
+      "03.07.02-pyramids-were-portals.md": {
+        "_title": "Pyramids were Portals"
+      },
+      "03.08.00-2349-bce-jupiter-disappears-and-venus-attacks-earth.md": {
+        "_title": "September 8 - Jupiter disappears and Venus attacks Earth"
+      },
+      "03.08.01-the-length-of-a-year-increases-by-20-rotations-to-260-days.md": {
+        "_title": "The length of a year increases by 20 rotations to 260 days."
+      },
+      "03.09.00-2193-bce-earth-leaves-last-absu-layer-and-jupiter-consumes-venus.md": {
+        "_title": "Earth leaves last Absu layer and Jupiter consumes Venus again"
+      },
+      "03.09.01-the-length-of-a-year-increases-by-13-rotations-to-273-days.md": {
+        "_title": "The length of a year increases by 13 rotations to 273 days."
+      },
+      "03.10.00-2167-bce-jupiter-catches-on-fire.md": {
+        "_title": "Jupiter catches on fire"
+      },
+      "03.11.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md": {
+        "_title": "Sodom and Gomorrah are completely destroyed by Mars."
+      },
+      "03.12.00-1492-bce-the-passover-of-comet-venus-and-exodus.md": {
+        "_title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire"
+      },
+      "03.12.01-the-length-of-a-year-jumps-by-92-rotations-to-365-days.md": {
+        "_title": "The length of a year jumps by 92 rotations to 365 days"
+      },
+      "03.12.02-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md": {
+        "_title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)"
+      },
+      "03.13.00-1442-bce-the-sun-stands-still-for-joshua.md": {
+        "_title": "The sun stands still for Joshua"
+      },
+      "03.14.00-806-bce-mars-earth-and-mercury-finalize-orbits.md": {
+        "_title": "Mars, Earth and Mercury finalize orbits."
+      },
+      "03.14.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md": {
+        "_title": "Mars (aka Prometheus) replaces Venus as the new Saviour"
+      },
+      "03.15.00-670-bce-priori-mars-loses-its-outer-shell-iron-age-begins.md": {
+        "_title": "March 23 - Priori-Mars loses its outer shell - Iron Age Begins"
+      },
+      "03.16.00-684-bce-solar-system-becomes-stable.md": {
+        "_title": "Solar System becomes stable"
+      },
+      "03.16.01-the-length-of-a-year-jumps-by-14th-of-a-rotation-to-36525-days.md": {
+        "_title": "The length of a year jumps by 1/4th of. a rotation to 365.25 days"
+      },
+      "03.16.02-how-many-lunar-months-are-in-a-year.md": {
+        "_title": "How many Lunar Months are in a Year?"
+      },
+      "_count": 26
+    },
+    "04.the-blip": {
+      "04.00.00-670-bce-the-blip.md": {
+        "_title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred"
+      },
+      "04.01.00-building-the-new-chronology.md": {
+        "_title": "Building the New Chronology"
+      },
+      "_count": 2
+    },
+    "05.ce-11th-common-era-begins": {
+      "05.00.00-1000-ce-11th-century-common-era-begins.md": {
+        "_title": "11th Century C.E. Common Era Begins"
+      },
+      "05.01.00-1053-ce-year-of-our-lord-deception-1053-year-shift-forward.md": {
+        "_title": "'Year of our Lord' Deception - 1053 Year Shift forward"
+      },
+      "05.02.00-the-sun-replaces-mars-as-the-new-saviour.md": {
+        "_title": "The Sun replaces Mars as the new Saviour"
+      },
+      "05.03.00-deep-state-centralize-world-religion-at-jerusalem.md": {
+        "_title": "Deep State Centralize World Religion at Jerusalem"
+      },
+      "_count": 4
+    },
+    "06.ce-12th-birth-of-christianity": {
+      "06.00.00-1100-ce-12th-century-birth-of-christianity.md": {
+        "_title": "12th Century C.E. Birth of Christianity"
+      },
+      "06.01.00-the-naming-of-christ.md": {
+        "_title": "The naming of Christ"
+      },
+      "06.02.00-deep-state-eliminate-the-giants.md": {
+        "_title": "Deep State Eliminate the Giants"
+      },
+      "06.03.00-christs-family-flees-ahead-of-the-census.md": {
+        "_title": "Christ's family flees ahead of the census"
+      },
+      "06.04.00-1152-ce-historical-christ-is-born-in-crimea.md": {
+        "_title": "Historical Christ is Born in _Crimea_"
+      },
+      "06.05.00-1185-ce-historical-christ-is-crucified-in-istanbul.md": {
+        "_title": "Historical Christ is Crucified in Istanbul"
+      },
+      "06.05.01-alleged-resurrection.md": {
+        "_title": "Alleged Resurrection"
+      },
+      "06.06.00-the-revolution-survives-despite-christs-martyrdom.md": {
+        "_title": "The Revolution survives despite Christ's Martyrdom"
+      },
+      "06.07.00-1196-ce-first-crusade-begins-as-revenge-for-the-crucifixion.md": {
+        "_title": "First Crusade begins as Revenge for the Crucifixion"
+      },
+      "06.07.01-the-first-great-war-between-giants-and-smaller-sized-humans.md": {
+        "_title": "The First great war between giants and smaller sized humans"
+      },
+      "_count": 10
+    },
+    "07.ce-13th-the-russian-horde-tartarian-empire": {
+      "07.00.00-1200-ce-13th-century-russian-horde-tartarian-empire.md": {
+        "_title": "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges"
+      },
+      "07.01.00-1204-ce-capture-of-first-jerusalem.md": {
+        "_title": "Capture of First Jerusalem"
+      },
+      "07.02.00-whom-are-the-israelites-in-history.md": {
+        "_title": "Whom are the \u201cIsraelites\u201d in history ?"
+      },
+      "07.03.00-russian-empire-expands-through-conquest.md": {
+        "_title": "Russian Empire expands through conquest"
+      },
+      "07.04.00-1258-ce-historical-christ-dies.md": {
+        "_title": "Historical Christ dies"
+      },
+      "07.05.00-1285-ce-first-olympic-games.md": {
+        "_title": "First Olympic Games"
+      },
+      "_count": 6
+    },
+    "08.ce-14th-great-expansion-of-the-mongol-slav": {
+      "08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md": {
+        "_title": "14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire"
+      },
+      "08.01.00-european-religious-schism-emerges.md": {
+        "_title": "European Religious Schism Emerges"
+      },
+      "08.02.00-1337-ce-the-hundred-years-war-begins.md": {
+        "_title": "The \"Hundred Years War\" begins"
+      },
+      "08.03.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
+        "_title": "Giants are defeated at the Battle of Kulikovo"
+      },
+      "_count": 4
+    },
+    "09.ce-15th-ottoman-conquest-of-europe": {
+      "09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md": {
+        "_title": "15th Century C.E. Ottoman Conquest of Europe."
+      },
+      "09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md": {
+        "_title": "Meteorite (Star Metal) falls on Yaroslavl"
+      },
+      "09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md": {
+        "_title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)"
+      },
+      "09.02.01-1455-ce-deep-state-steals-russian-history.md": {
+        "_title": "Deep State Steals Russian History"
+      },
+      "09.03.00-1455-ce-gutenberg-bible-translated-into-latin.md": {
+        "_title": "Gutenberg Bible translated into Latin"
+      },
+      "09.03.01-latin-is-the-language-of-the-deep-state.md": {
+        "_title": "Theory: Latin is the Language of the Deep State"
+      },
+      "09.03.02-deep-state-redacts-christianity-into-jesuit-catholicism.md": {
+        "_title": "Deep State redacts Christianity into Jesuit Catholicism"
+      },
+      "09.03.03-jesuit-operations-conversion-and-catholicism.md": {
+        "_title": "Jesuit Operations: Conversion, Catholicism, and the New World"
+      },
+      "09.04.00-1486-ce-revelation-of-the-coming-apocalypse.md": {
+        "_title": "Revelation of the coming Apocalypse"
+      },
+      "09.05.00-1492-ce-apocalypse-crusade-reverse-exodus.md": {
+        "_title": "The Apocalypse Crusade & Reverse Exodus"
+      },
+      "_count": 10
+    },
+    "10.ce-16th-reformation-and-inquisition": {
+      "10.00.00-1500-ce-16th-century-reformation-and-inquisition.md": {
+        "_title": "16th Century C.E. Reformation and Inquisition."
+      },
+      "10.01.00-1517-ce-protestant-reformation-begins.md": {
+        "_title": "Protestant Reformation Begins"
+      },
+      "10.02.00-1523-ce-jesuits-make-pilgrimage-to-palestine.md": {
+        "_title": "Jesuits make \"Pilgrimage\" to Palestine"
+      },
+      "10.03.00-1542-ce-the-holy-inquisition.md": {
+        "_title": "The Holy Inquisition"
+      },
+      "10.03.01-heresy-of-the-judaizers.md": {
+        "_title": "Heresy of the Judaizers"
+      },
+      "10.03.02-cathar-suppression.md": {
+        "_title": "Cathar Suppression"
+      },
+      "10.04.00-1548-ce-jesuits-reach-africa.md": {
+        "_title": "Jesuits reach Africa"
+      },
+      "10.05.00-1552-ce-khazar-rebellion-in-the-russia-horde-empire.md": {
+        "_title": "Khazar Rebellion in the Russia-Horde Empire"
+      },
+      "10.06.00-1565-ce-romanov-dynasty-stages-the-oprichnina-coup.md": {
+        "_title": "The Oprichnina"
+      },
+      "10.06.01-redacted-into-the-books-of-esther-judith.md": {
+        "_title": "Redacted into the Books of Esther / Judith"
+      },
+      "10.07.00-1580-ce-jeanne-darc-is-executed-in-rouen-france.md": {
+        "_title": "Jeanne d'Arc is executed in Rouen, France"
+      },
+      "10.08.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md": {
+        "_title": "Gregorian Calendar makes slight adjustment to length of a year"
+      },
+      "_count": 12
+    },
+    "11.ce-17th-romanovs-rise-to-power": {
+      "11.00.00-1600-ce-17th-century-romanovs-rise-to-power.md": {
+        "_title": "17th Century-Romanovs Rise to power"
+      },
+      "11.01.00-1611-ce-king-james-version-of-the-bible-is-published.md": {
+        "_title": "King James version of the Bible is published"
+      },
+      "11.02.00-1613-ce-romanovs-dynasty-takes-the-throne.md": {
+        "_title": "Romanovs-Zakharyin-Yurievs Dynasty takes the throne"
+      },
+      "11.02.01-deep-state-breaks-up-the-hordian-empire.md": {
+        "_title": "Deep State breaks up the Hordian Empire"
+      },
+      "11.02.02-300-ce-russia-and-turkey-begin-300-years-of-war.md": {
+        "_title": "Russia and Turkey begin 300 years of war"
+      },
+      "11.02.03-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md": {
+        "_title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition"
+      },
+      "11.03.00-1627-ce-deep-state-erases-russian-empire-from-all-chronology.md": {
+        "_title": "Deep State erases Russian Empire from all chronology"
+      },
+      "11.04.00-1633-ce-disputes-against-jews-reemerge.md": {
+        "_title": "Disputes against Jews reemerge"
+      },
+      "11.05.00-1660-ce-the-english-revolution-and-civil-wars.md": {
+        "_title": "C.E. The English Revolution and Civil Wars"
+      },
+      "11.06.00-1648-ce-cossackpolish-war-ethnic-cleansing-of-russians-in-ukraine.md": {
+        "_title": "Cossack\u2013Polish War begins ethnic cleansing of Russians in Ukraine"
+      },
+      "11.06.01-jesuits-missions-convert-asians-to-buddhism.md": {
+        "_title": "Jesuits Missions convert Asians to Buddhism"
+      },
+      "11.07.00-1672-ce-deep-state-targets-independent-banks.md": {
+        "_title": "C.E. Deep State targets independent banks"
+      },
+      "11.08.00-1679-ce-rex-bellator-plan-unifies-all-military-orders.md": {
+        "_title": "C.E. Rex Bellator plan unifies all military orders"
+      },
+      "11.08.01-deep-state-plans-a-second-apocalypse-in-the-year-666.md": {
+        "_title": "Deep State plans a second Apocalypse in the year \u03b9666"
+      },
+      "11.09.00-1664-ce-the-great-comet-of-1664-1665.md": {
+        "_title": "The Great Comet of 1664 / 1665"
+      },
+      "11.10.00-1665-ce-the-great-plague-of-1665.md": {
+        "_title": "The Great Plague of 1665"
+      },
+      "11.11.00-1666-ce-london-burns-to-the-ground.md": {
+        "_title": "Sept 6, 1666 C.E. London Burns to the ground"
+      },
+      "11.12.00-1666-ce-byzantine-and-catalan-alliance.md": {
+        "_title": "Byzantine and Catalan alliance"
+      },
+      "11.13.00-1651-ce-fall-of-the-avignon-powers.md": {
+        "_title": "Fall of the Avignon powers"
+      },
+      "11.14.00-1673-ce-disputes-against-jews-end-lasting-46-years.md": {
+        "_title": "Disputes against Jews end lasting 46 years"
+      },
+      "11.15.00-1670-ce-messianic-jewish-begins.md": {
+        "_title": "Messianic Jewish begins"
+      },
+      "11.16.00-1677-ce-the-order-of-the-temple-of-solomon-is-dismantled.md": {
+        "_title": "The Order of the Temple of Solomon is dismantled"
+      },
+      "11.17.00-1681-ce-the-almogavars-conquer-athens-and-neopatria.md": {
+        "_title": "The almogavars conquer Athens and Neopatria"
+      },
+      "11.18.00-1677-ce-great-fight-in-the-heart-of-western-europe.md": {
+        "_title": "Great fight in the heart of Western Europe"
+      },
+      "11.19.00-1694-ce-deep-state-solidifies-central-banking.md": {
+        "_title": "Deep State solidifies central banking"
+      },
+      "_count": 25
+    },
+    "12.ce-18th-mudflood-and-pugachev": {
+      "12.00.00-1700-ce-18th-19th-century.md": {
+        "_title": "18th \u2013 19th Century"
+      },
+      "12.01.00-1718-ce-secret-society-of-jesus-goes-public.md": {
+        "_title": "Secret Society of Jesus goes public"
+      },
+      "12.02.00-1773-ce-the-rebellion-of-pugachev.md": {
+        "_title": "The Rebellion of Pugachev"
+      },
+      "12.03.00-1774-ce-mysterious-carbon-14-spike.md": {
+        "_title": "mysterious carbon-14 spike"
+      },
+      "12.04.00-1774-ce-the-mudflood-and-world-cataclysm.md": {
+        "_title": "The MudFlood and World Cataclysm"
+      },
+      "12.05.00-1774-ce-instant-fossilization-and-electric-petrification.md": {
+        "_title": "Instant Fossilization and Electric Petrification"
+      },
+      "12.06.00-1803-ce-napoleonic-wars.md": {
+        "_title": "Napoleonic Wars"
+      },
+      "12.07.00-1812-ce-napoleon-invades-russia.md": {
+        "_title": "Napoleon invades Russia"
+      },
+      "12.07.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md": {
+        "_title": "Ecliptic pathway of the Absu last seen."
+      },
+      "12.07.02-1880-ce-tchaikovsky-releases-1812-overture.md": {
+        "_title": "Tchaikovsky releases 1812 Overture"
+      },
+      "_count": 10
+    },
+    "15-author-profiles": {
+      "15.00.00-author-profiles.md": {
+        "_title": "Author Profiles"
+      },
+      "15.01.00-n-a-morozov.md": {
+        "_title": "N. A. Morozov"
+      },
+      "15.02.00-wal-thornhill.md": {
+        "_title": "Wal Thornhill"
+      },
+      "15.03.00-ralph-juergens.md": {
+        "_title": "Ralph Juergens"
+      },
+      "15.04.00-immanuel-velikovsky.md": {
+        "_title": "Immanuel Velikovsky (1895\u20131979)"
+      },
+      "15.05.00-anatoly-fomenko.md": {
+        "_title": "Anatoly Fomenko (b. 1945)"
+      },
+      "15.06.00-david-talbott.md": {
+        "_title": "David Talbott (b. 1942)"
+      },
+      "15.07.00-anthony-peratt.md": {
+        "_title": "Anthony Peratt (b. 1940)"
+      },
+      "15.08.00-jno-cook.md": {
+        "_title": "Jno Cook"
+      },
+      "15.09.00-alfred-de-grazia.md": {
+        "_title": "Alfred de Grazia (1919\u20132014)"
+      },
+      "15.10.00-donald-scott.md": {
+        "_title": "Donald Scott"
+      },
+      "15.11.00-ev-cochrane.md": {
+        "_title": "Ev Cochrane (b. 1952)"
+      },
+      "15.12.00-de-santillana-von-dechend.md": {
+        "_title": "Giorgio de Santillana & Hertha von Dechend"
+      },
+      "15.13.00-heribert-illig.md": {
+        "_title": "Heribert Illig (b. 1947)"
+      },
+      "15.14.00-gunnar-heinsohn.md": {
+        "_title": "Gunnar Heinsohn (b. 1943)"
+      },
+      "15.15.00-dwardu-cardona.md": {
+        "_title": "Dwardu Cardona (1937\u20132018)"
+      },
+      "15.16.00-clube-napier.md": {
+        "_title": "Victor Clube & Bill Napier"
+      },
+      "15.17.00-livio-stecchini.md": {
+        "_title": "Livio Stecchini (1913\u20131979)"
+      },
+      "15.18.00-rose-vaughan.md": {
+        "_title": "Lynn Rose & Raymond Vaughan"
+      },
+      "15.19.00-tom-van-flandern.md": {
+        "_title": "Tom Van Flandern (1940\u20132009)"
+      },
+      "15.20.00-martinus-van-der-sluijs.md": {
+        "_title": "Martinus van der Sluijs"
+      },
+      "15.21.00-charles-ginenthal.md": {
+        "_title": "Charles Ginenthal"
+      },
+      "15.22.00-robert-schoch.md": {
+        "_title": "Robert Schoch (b. 1959)"
+      },
+      "15.23.00-graham-hancock.md": {
+        "_title": "Graham Hancock (b. 1950)"
+      },
+      "15.24.00-michael-cremo.md": {
+        "_title": "Michael Cremo (b. 1948)"
+      },
+      "_count": 25
+    },
+    "16-credits": {
+      "16.00.00-credits.md": {
+        "_title": "Credits"
+      },
+      "_count": 1
     },
     "_count": 159
   },

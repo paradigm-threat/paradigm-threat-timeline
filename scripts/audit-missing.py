@@ -34,9 +34,10 @@ def main():
     indexed = collect_indexed_paths(entries) | collect_indexed_paths(intro)
 
     all_md = sorted(
-        "content/" + fname
-        for fname in os.listdir(CONTENT_DIR)
-        if fname.endswith(".md")
+        os.path.relpath(os.path.join(root, f), REPO_DIR)
+        for root, _dirs, files in os.walk(CONTENT_DIR)
+        for f in files
+        if f.endswith(".md")
     )
 
     missing = [p for p in all_md if p not in indexed]

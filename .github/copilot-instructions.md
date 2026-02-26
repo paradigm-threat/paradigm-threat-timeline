@@ -12,11 +12,17 @@ Alternate Earth History Timeline correlating Scaligerian, Fomenko's New Chronolo
 
 ## Content File Numbering Convention
 
-Files in `content/` use the format `XX.YY.ZZ-slug.md`:
+Files in `content/` are organized into chapter-specific subfolders that mirror the `media/` directory structure. Each file uses the format `XX.YY.ZZ-slug.md`:
 
 - **XX** = chapter/section number (01–15). Never change this.
 - **YY** = position within the chapter. `00` is reserved for the chapter root article.
 - **ZZ** = `00` → standalone or parent article; **non-zero** → child/sub-article of `XX.YY.00`.
+
+Content subfolders match media subfolders by chapter number:
+- `content/00.overview/` — overview, background, core concepts
+- `content/01.before-creation/` — chapter 01
+- `content/02.the-golden-age/` — chapter 02
+- …and so on for each chapter
 
 The numbers must match the `children[]` hierarchy in `data/events.json`:
 - Chapter root (top-level entry in `entries[]`) → `XX.00.00`
@@ -29,7 +35,8 @@ The numbers must match the `children[]` hierarchy in `data/events.json`:
 When adding a new content file:
 1. Determine where it sits in the `events.json` hierarchy (parent entry).
 2. Assign the next available `ZZ` number if it is a child, or the next `YY` if it is top-level.
-3. Run `python3 scripts/renumber-from-hierarchy.py` any time the hierarchy changes to re-derive all numbers automatically.
+3. Place the file in the correct chapter subfolder under `content/`.
+4. Run `python3 scripts/renumber-from-hierarchy.py` any time the hierarchy changes to re-derive all numbers automatically.
 
 ## When Adding or Editing Events
 
@@ -81,7 +88,7 @@ When generating or replacing illustrations for timeline articles:
 
 - `data/events.json` — canonical event list and hierarchy
 - `data/timeline-schema.json` — schema
-- `content/` — article markdown files (`XX.YY.ZZ-slug.md`)
+- `content/` — article markdown files in chapter subfolders (`content/<chapter>/XX.YY.ZZ-slug.md`)
 - `investigations/` — validation research
 - `docs/AGENT_INSTRUCTIONS.md` — detailed agent guide
 - `scripts/renumber-from-hierarchy.py` — re-derives all file numbers from `events.json` hierarchy

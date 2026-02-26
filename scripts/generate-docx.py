@@ -628,7 +628,7 @@ class DOCXRenderer:
     # ---------------------------------------------------------------
     def generate(self):
         EXPORT_DIR.mkdir(exist_ok=True)
-        md_files = sorted(CONTENT_DIR.glob("*.md"))
+        md_files = sorted(CONTENT_DIR.rglob("*.md"))
         if not md_files:
             sys.exit("No markdown files in content/")
 
