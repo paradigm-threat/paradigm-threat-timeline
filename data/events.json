@@ -10,20 +10,20 @@
           "id": "evt-the-third-story",
           "title": "The Third Story",
           "type": "article",
-          "md_path": "content/00.overview/00.00.01-the-third-story.md",
+          "md_path": "content/00.overview/00.01.00-the-third-story.md",
           "children": []
         },
         {
           "id": "evt-background",
           "title": "Background",
           "type": "article",
-          "md_path": "content/00.overview/00.01.00-background.md",
+          "md_path": "content/00.overview/00.02.00-background.md",
           "children": [
             {
               "id": "evt-authors-challenging-chronology",
               "title": "Authors Challenging the Mainstream Timeline",
               "type": "article",
-              "md_path": "content/00.overview/00.01.01-authors-challenging-chronology.md",
+              "md_path": "content/00.overview/00.02.01-authors-challenging-chronology.md",
               "children": [],
               "media": []
             },
@@ -31,14 +31,14 @@
               "id": "evt-authors-cataclysm-texts",
               "title": "Authors Who Read Ancient Sources as World Cataclysm",
               "type": "article",
-              "md_path": "content/00.overview/00.01.02-authors-cataclysm-texts.md",
+              "md_path": "content/00.overview/00.02.02-authors-cataclysm-texts.md",
               "children": [],
               "media": []
             },
             {
               "id": "evt-challenging-established-physics",
               "title": "Challenging Established Physics",
-              "md_path": "content/00.overview/00.01.03-challenging-established-physics.md",
+              "md_path": "content/00.overview/00.02.03-challenging-established-physics.md",
               "dates": [],
               "children": []
             }
@@ -47,14 +47,14 @@
         {
           "id": "evt-core-concepts",
           "title": "Core Concepts",
-          "md_path": "content/00.overview/00.02.00-core-concepts.md",
+          "md_path": "content/00.overview/00.03.00-core-concepts.md",
           "dates": [],
           "children": [
             {
               "id": "evt-the-length-of-a-year-changes-throughout-antiquity",
               "title": "The length of a Year changes throughout Antiquity",
               "type": "article",
-              "md_path": "content/00.overview/00.02.01-the-length-of-a-year-changes-throughout-antiquity.md",
+              "md_path": "content/00.overview/00.03.01-the-length-of-a-year-changes-throughout-antiquity.md",
               "children": [],
               "media": [
                 "/media/00.overview/length-of-a-year-changes.png"
@@ -64,14 +64,14 @@
               "id": "evt-timeline-synchronization",
               "title": "Timeline synchronization",
               "type": "article",
-              "md_path": "content/00.overview/00.02.02-timeline-synchronization.md",
+              "md_path": "content/00.overview/00.03.02-timeline-synchronization.md",
               "children": []
             },
             {
               "id": "evt-cosmic-life-cycle",
               "title": "Cosmic Life Cycle",
               "type": "article",
-              "md_path": "content/00.overview/00.02.03-cosmic-life-cycle.md",
+              "md_path": "content/00.overview/00.03.03-cosmic-life-cycle.md",
               "children": [],
               "media": [
                 "/media/00.overview/cosmic-lifecycle.png",
