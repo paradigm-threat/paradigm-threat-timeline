@@ -65,3 +65,29 @@ this does not mean the claims are false.
   century. Neither Dionysius nor Bede explains *why* Year Zero was chosen as the reset point other
   than the theological claim of the Incarnation. The theological justification may be a cover for a
   now-forgotten astronomical rationale. This is unverified.
+
+## Jerusalem Architecture — Mars/Atlantis or Saturn's Hexagon? (Open Theory)
+
+The historical Jerusalem at Istanbul (Yoros/Troy/Tsar-Grad) was built with **3 walls, each with 6 gates
+(= 666)**. Article 05.03.00 attributes this pattern to Saturn's hexagonal polar storm (visible during
+the Golden Age collinear configuration). Article 02.07.00 establishes that Atlantis — the First
+Jerusalem — sat on the north pole of Mars with concentric rings of land and water (*Critias* 113e–114a).
+
+**Unresolved**: Did the builders of Jerusalem at Istanbul consciously replicate the concentric-ring
+geometry of *Atlantis on Mars*, or Saturn's hexagonal boundary, or a combined memory from holy texts
+that merged both? No Saturnian Cosmology source explicitly connects the 3-wall/6-gate architecture
+to Plato's Atlantis layout. The connection is inferential:
+
+- Saturn's hexagon provides 6-fold symmetry
+- Atlantis's concentric rings (Mars north polar cap) provide the walled-enclosure template
+- Both were simultaneously visible during the Golden Age
+- The Deep State priest class originated in Atlantis and would have carried both memories
+- David Talbott (originsofmyth.txt): the creation myth's subject was "the construction of a celestial
+  dwelling — a cosmic city, temple, or kingdom — revered as the prototype of sacred space"
+
+**The control argument**: By the 11th century, ordinary people had moved to Sun worship and the
+"Good Word" (gospel) — the message that they no longer needed priests. The only group that would
+rebuild a replica of the Atlantean celestial city on Earth was a priestly class whose authority
+depended on it. The Crucifixion at this same site later confirmed its function as a political
+control centre rather than a genuine holy city. This interpretation is original to this investigation
+and remains unconfirmed by any source in the archive.

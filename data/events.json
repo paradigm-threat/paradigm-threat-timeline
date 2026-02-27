@@ -675,8 +675,20 @@
           "title": "Deep State Centralize World Religion at Jerusalem",
           "type": "article",
           "md_path": "content/05.ce-11th-common-era-begins/05.03.00-deep-state-centralize-world-religion-at-jerusalem.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-constancy-doctrine",
+              "title": "New Religion of Constancy",
+              "type": "article",
+              "md_path": "content/05.ce-11th-common-era-begins/05.03.01-new-religion-of-constancy.md",
+              "children": [],
+              "media": [
+                "/media/05.ce-11th-common-era-begins/constancy.png"
+              ]
+            }
+          ],
           "media": [
+            "/media/05.ce-11th-common-era-begins/deep-state-centralizes-world-religion.png",
             "/media/05.ce-11th-common-era-begins/troy_1st_jerusalem.jpg",
             "/media/05.ce-11th-common-era-begins/11th_century_deep_state_religion.png"
           ]
