@@ -292,28 +292,12 @@
           "dates": [
             {
               "start": -3147,
-              "end": -3147,
+              "end": -3114,
               "calendar": "BCE"
             }
           ],
           "media": [
-            "/media/03.the-dark-ages/golden_age_ends_kronos_devours.jpg"
-          ]
-        },
-        {
-          "id": "evt-the-length-of-a-year-increases-by-an-additional-15",
-          "title": "The length of a year increases by an additional 15 rotations per year to 240 days total.",
-          "type": "article",
-          "md_path": "content/03.the-dark-ages/03.02.00-the-length-of-a-year-increases-by-an-additional-15-rotations-to-240-days.md",
-          "children": []
-        },
-        {
-          "id": "evt-the-great-deluge",
-          "title": "The Great Deluge",
-          "type": "article",
-          "md_path": "content/03.the-dark-ages/03.03.00-the-great-deluge.md",
-          "children": [],
-          "media": [
+            "/media/03.the-dark-ages/golden_age_ends_kronos_devours.jpg",
             "/media/03.the-dark-ages/golden_age_ends_great_deluge.jpg"
           ]
         },
@@ -321,14 +305,7 @@
           "id": "evt-humanity-was-then-cast-out-of-the-garden-of-eden",
           "title": "Humanity was then cast out of the Garden of Eden",
           "type": "article",
-          "md_path": "content/03.the-dark-ages/03.04.00-humanity-was-then-cast-out-of-the-garden-of-eden.md",
-          "children": []
-        },
-        {
-          "id": "evt-formation-of-the-deep-state-pyramidal-empire",
-          "title": "Formation of the Deep State Pyramidal Empire",
-          "type": "article",
-          "md_path": "content/03.the-dark-ages/03.05.00-formation-of-the-deep-state-pyramidal-empire.md",
+          "md_path": "content/03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the-garden-of-eden.md",
           "children": [],
           "media": [
             "/media/03.the-dark-ages/pyramids_around_the_world.jpg"
@@ -338,7 +315,7 @@
           "id": "evt-the-planets-are-at-war",
           "title": "The Planets are at war.",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.06.00-3067-bce-the-planets-are-at-war.md",
+          "md_path": "content/03.the-dark-ages/03.03.00-3067-bce-the-planets-are-at-war.md",
           "children": [],
           "dates": [
             {
@@ -355,20 +332,20 @@
           "id": "evt-all-planets-enter-a-stable-non-linear-orbit",
           "title": "All planets enter a stable non-linear orbit.",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.07.00-2860-bce-all-planets-enter-a-stable-non-linear-orbit.md",
+          "md_path": "content/03.the-dark-ages/03.04.00-2860-bce-all-planets-enter-a-stable-non-linear-orbit.md",
           "children": [
             {
               "id": "evt-jupiter-replaces-saturn-as-the-new-saviour-aka-zeu",
               "title": "Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)",
               "type": "article",
-              "md_path": "content/03.the-dark-ages/03.07.01-jupiter-replaces-saturn-as-the-new-saviour.md",
+              "md_path": "content/03.the-dark-ages/03.04.01-jupiter-replaces-saturn-as-the-new-saviour.md",
               "children": []
             },
             {
               "id": "evt-pyramids-were-portals",
               "title": "Pyramids were Portals",
               "type": "article",
-              "md_path": "content/03.the-dark-ages/03.07.02-pyramids-were-portals.md",
+              "md_path": "content/03.the-dark-ages/03.04.02-pyramids-were-portals.md",
               "children": [],
               "media": [
                 "/media/03.the-dark-ages/history_pyramid_gates1.jpg"
@@ -390,16 +367,8 @@
           "id": "evt-september-8-jupiter-disappears-and-venus-attacks-e",
           "title": "September 8 - Jupiter disappears and Venus attacks Earth",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.08.00-2349-bce-jupiter-disappears-and-venus-attacks-earth.md",
-          "children": [
-            {
-              "id": "evt-the-length-of-a-year-increases-by-20-rotations-to-",
-              "title": "The length of a year increases by 20 rotations to 260 days.",
-              "type": "article",
-              "md_path": "content/03.the-dark-ages/03.08.01-the-length-of-a-year-increases-by-20-rotations-to-260-days.md",
-              "children": []
-            }
-          ],
+          "md_path": "content/03.the-dark-ages/03.05.00-2349-bce-jupiter-disappears-and-venus-attacks-earth.md",
+          "children": [],
           "dates": [
             {
               "start": -2349,
@@ -416,41 +385,17 @@
           "id": "evt-earth-leaves-last-absu-layer-and-jupiter-consumes-",
           "title": "Earth leaves last Absu layer and Jupiter consumes Venus again",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.09.00-2193-bce-earth-leaves-last-absu-layer-and-jupiter-consumes-venus.md",
-          "children": [
-            {
-              "id": "evt-the-length-of-a-year-increases-by-13-rotations-to-",
-              "title": "The length of a year increases by 13 rotations to 273 days.",
-              "type": "article",
-              "md_path": "content/03.the-dark-ages/03.09.01-the-length-of-a-year-increases-by-13-rotations-to-273-days.md",
-              "children": []
-            }
-          ],
-          "dates": [
-            {
-              "start": -2193,
-              "end": -2193,
-              "calendar": "BCE"
-            }
-          ],
-          "media": [
-            "/media/03.the-dark-ages/binding_of_isaac.jpg"
-          ]
-        },
-        {
-          "id": "evt-jupiter-catches-on-fire",
-          "title": "Jupiter catches on fire",
-          "type": "event",
-          "md_path": "content/03.the-dark-ages/03.10.00-2167-bce-jupiter-catches-on-fire.md",
+          "md_path": "content/03.the-dark-ages/03.06.00-2193-bce-earth-leaves-last-absu-layer-and-jupiter-consumes-venus.md",
           "children": [],
           "dates": [
             {
-              "start": -2167,
+              "start": -2193,
               "end": -2167,
               "calendar": "BCE"
             }
           ],
           "media": [
+            "/media/03.the-dark-ages/binding_of_isaac.jpg",
             "/media/03.the-dark-ages/mount_sinai.jpg"
           ]
         },
@@ -458,7 +403,7 @@
           "id": "evt-sodom-and-gomorrah-are-completely-destroyed-by-mar",
           "title": "Sodom and Gomorrah are completely destroyed by Mars.",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.11.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
+          "md_path": "content/03.the-dark-ages/03.07.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
           "children": [],
           "dates": [
             {
@@ -475,20 +420,13 @@
           "id": "evt-the-passover-of-comet-venus-and-exodus-from-the-py",
           "title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.12.00-1492-bce-the-passover-of-comet-venus-and-exodus.md",
+          "md_path": "content/03.the-dark-ages/03.08.00-1492-bce-the-passover-of-comet-venus-and-exodus.md",
           "children": [
-            {
-              "id": "evt-the-length-of-a-year-jumps-by-92-rotations-to-365-",
-              "title": "The length of a year jumps by 92 rotations to 365 days",
-              "type": "article",
-              "md_path": "content/03.the-dark-ages/03.12.01-the-length-of-a-year-jumps-by-92-rotations-to-365-days.md",
-              "children": []
-            },
             {
               "id": "evt-venus-replaces-jupiter-as-the-new-saviour-aka-josh",
               "title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)",
               "type": "article",
-              "md_path": "content/03.the-dark-ages/03.12.02-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
+              "md_path": "content/03.the-dark-ages/03.08.01-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
               "children": [],
               "media": [
                 "/media/03.the-dark-ages/plagues_of_venus.jpg",
@@ -511,7 +449,7 @@
           "id": "evt-the-sun-stands-still-for-joshua",
           "title": "The sun stands still for Joshua",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.13.00-1442-bce-the-sun-stands-still-for-joshua.md",
+          "md_path": "content/03.the-dark-ages/03.09.00-1442-bce-the-sun-stands-still-for-joshua.md",
           "children": [],
           "dates": [
             {
@@ -529,13 +467,13 @@
           "id": "evt-mars-earth-and-mercury-finalize-orbits",
           "title": "Mars, Earth and Mercury finalize orbits.",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.14.00-806-bce-mars-earth-and-mercury-finalize-orbits.md",
+          "md_path": "content/03.the-dark-ages/03.10.00-806-bce-mars-earth-and-mercury-finalize-orbits.md",
           "children": [
             {
               "id": "evt-mars-aka-prometheus-replaces-venus-as-the-new-savi",
               "title": "Mars (aka Prometheus) replaces Venus as the new Saviour",
               "type": "article",
-              "md_path": "content/03.the-dark-ages/03.14.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
+              "md_path": "content/03.the-dark-ages/03.10.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
               "children": [],
               "media": [
                 "/media/03.the-dark-ages/prometheus.jpg"
@@ -554,7 +492,7 @@
           "id": "evt-march-23-priori-mars-loses-its-outer-shell-iron-ag",
           "title": "March 23 - Priori-Mars loses its outer shell - Iron Age Begins",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.15.00-670-bce-priori-mars-loses-its-outer-shell-iron-age-begins.md",
+          "md_path": "content/03.the-dark-ages/03.11.00-670-bce-priori-mars-loses-its-outer-shell-iron-age-begins.md",
           "children": [],
           "dates": [
             {
@@ -568,32 +506,17 @@
           "id": "evt-solar-system-becomes-stable",
           "title": "Solar System becomes stable",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.16.00-684-bce-solar-system-becomes-stable.md",
-          "children": [
-            {
-              "id": "evt-the-length-of-a-year-jumps-by-14th-of-a-rotation-t",
-              "title": "The length of a year jumps by 1/4th of. a rotation to 365.25 days",
-              "type": "article",
-              "md_path": "content/03.the-dark-ages/03.16.01-the-length-of-a-year-jumps-by-14th-of-a-rotation-to-36525-days.md",
-              "children": []
-            },
-            {
-              "id": "evt-how-many-lunar-months-are-in-a-year",
-              "title": "How many Lunar Months are in a Year?",
-              "type": "article",
-              "md_path": "content/03.the-dark-ages/03.16.02-how-many-lunar-months-are-in-a-year.md",
-              "children": [],
-              "media": [
-                "/media/03.the-dark-ages/lunar_calendar.jpg"
-              ]
-            }
-          ],
+          "md_path": "content/03.the-dark-ages/03.12.00-684-bce-solar-system-becomes-stable.md",
+          "children": [],
           "dates": [
             {
               "start": -684,
               "end": -670,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/lunar_calendar.jpg"
           ]
         }
       ],
@@ -621,6 +544,15 @@
           "media": [
             "/media/04.the-blip/building-new-chronology.png"
           ]
+        },
+        {
+          "id": "evt-other-challenges-to-chronology",
+          "title": "Other Challenges to Chronology",
+          "type": "article",
+          "md_path": "content/04.the-blip/04.02.00-other-challenges-to-chronology.md",
+          "children": [],
+          "dates": [],
+          "media": []
         }
       ],
       "dates": [
