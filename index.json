@@ -190,34 +190,28 @@
       "06.00.00-1100-ce-12th-century-birth-of-christianity.md": {
         "_title": "12th Century C.E. Birth of Christianity"
       },
-      "06.01.00-the-naming-of-christ.md": {
-        "_title": "The naming of Christ"
+      "06.01.00-the-deep-state-the-census-and-the-naming-of-christ.md": {
+        "_title": "The Deep State, the Census, and the Naming of Christ"
       },
-      "06.02.00-deep-state-eliminate-the-giants.md": {
-        "_title": "Deep State Eliminate the Giants"
+      "06.01.01-hairy-mary.md": {
+        "_title": "Hairy Mary: The Wild Woman Who Threatened Patriarchal Religion"
       },
-      "06.03.00-christs-family-flees-ahead-of-the-census.md": {
-        "_title": "Christ's family flees ahead of the census"
+      "06.02.00-1152-ce-historical-christ-is-born-in-crimea.md": {
+        "_title": "Historical Christ is Born in Crimea"
       },
-      "06.04.00-1152-ce-historical-christ-is-born-in-crimea.md": {
-        "_title": "Historical Christ is Born in _Crimea_"
-      },
-      "06.05.00-1185-ce-historical-christ-is-crucified-in-istanbul.md": {
+      "06.03.00-1185-ce-historical-christ-is-crucified-in-istanbul.md": {
         "_title": "Historical Christ is Crucified in Istanbul"
       },
-      "06.05.01-alleged-resurrection.md": {
-        "_title": "Alleged Resurrection"
+      "06.03.01-the-brother-on-the-cross.md": {
+        "_title": "The Brother on the Cross"
       },
-      "06.06.00-the-revolution-survives-despite-christs-martyrdom.md": {
-        "_title": "The Revolution survives despite Christ's Martyrdom"
+      "06.04.00-the-revolution-survives-despite-christs-martyrdom.md": {
+        "_title": "The Revolution Survives Despite Christ's Martyrdom"
       },
-      "06.07.00-1196-ce-first-crusade-begins-as-revenge-for-the-crucifixion.md": {
-        "_title": "First Crusade begins as Revenge for the Crucifixion"
+      "06.05.00-1196-ce-the-first-crusade-and-the-trojan-war.md": {
+        "_title": "The First Crusade and the Trojan War"
       },
-      "06.07.01-the-first-great-war-between-giants-and-smaller-sized-humans.md": {
-        "_title": "The First great war between giants and smaller sized humans"
-      },
-      "_count": 10
+      "_count": 8
     },
     "07.ce-13th-the-russian-horde-tartarian-empire": {
       "07.00.00-1200-ce-13th-century-russian-horde-tartarian-empire.md": {
@@ -522,7 +516,7 @@
       },
       "_count": 1
     },
-    "_count": 153
+    "_count": 151
   },
   "data": {
     "events.json": {},
@@ -790,9 +784,6 @@
       "_count": 7
     },
     "06.ce-12th-birth-of-christianity": {
-      "1185ce_crucifixion.png": {
-        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JYgCdACH/6E4AP7lvSemdJrAVNokdevHvM+GuDGYn0h1qYlZbAAA"
-      },
       "1185ce_giant_crucifixion.png": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoQAAsABUB8JQBOgA/VAAD+wWcACzeGvCKsax5sXlhNOElf32s0X62eJllAAA=="
       },
@@ -808,6 +799,9 @@
       "giant_books.jpg": {
         "_lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAwABUB8JYgC7AD7BEKae0IAAPlsZdLnw5K2klgQo7mIerf0YyzwDvgC0CXtbnPhG6s4NBH+RjBR+U/pxrWX9wQKolqQq5iP4gAA"
       },
+      "hairy-mary.png": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JYgCdADPyQ+DAAD6B7wAlTubPTFrD1f+xQ7x1GE0i+eVQAA="
+      },
       "hairy_mary.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAwABUB8JbACdAC4p66RkgAA/pTMmFq//IFBBTSxK4zfmmA8vZQIrBFhs0tVBdBIN4KlXhySiSDnhf/Wgj6OYlJRjWyzd8X9IIZQ0gAAAA=="
       },
@@ -815,7 +809,7 @@
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABwAQCdASoMABAABUB8JSvPplARYAD+6oBT4znIVl1ql4eUxeuXMw5YrZgEBRQAAAA="
       },
       "map_tartaria_hondius.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAoABUB8JZgCdADiAb6cQADXNb7d7kq0AqOlx/6OwoGnXrTGb5hgAAA="
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdADM25+xTQAA+NYK0D24ziqMXcxrPTRBS9G4WLUsu1BHHW5u9cbm17LlXq8rgAAA"
       },
       "tomb_of_christ_and_brother.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAA4ABUB8JQAAXG6h0IJAAPy0IPcH2uErG//YDjDbOA6BDHD2DY5nedGo7U5X+sg6gAAA"
@@ -1016,5 +1010,5 @@
     },
     "_count": 1
   },
-  "_count": 306
+  "_count": 304
 }

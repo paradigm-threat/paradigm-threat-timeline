@@ -646,37 +646,32 @@
       "md_path": "content/06.ce-12th-birth-of-christianity/06.00.00-1100-ce-12th-century-birth-of-christianity.md",
       "children": [
         {
-          "id": "evt-the-naming-of-christ",
-          "title": "The naming of Christ",
+          "id": "evt-the-deep-state-the-census-and-the-naming-of-christ",
+          "title": "The Deep State, the Census, and the Naming of Christ",
           "type": "article",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.01.00-the-naming-of-christ.md",
-          "children": [],
+          "md_path": "content/06.ce-12th-birth-of-christianity/06.01.00-the-deep-state-the-census-and-the-naming-of-christ.md",
+          "children": [
+            {
+              "id": "evt-hairy-mary",
+              "title": "Hairy Mary: The Wild Woman Who Threatened Patriarchal Religion",
+              "type": "article",
+              "md_path": "content/06.ce-12th-birth-of-christianity/06.01.01-hairy-mary.md",
+              "children": [],
+              "media": [
+                "/media/06.ce-12th-birth-of-christianity/hairy_mary.jpg",
+                "/media/06.ce-12th-birth-of-christianity/hairy-mary.png"
+              ]
+            }
+          ],
           "media": [
             "/media/06.ce-12th-birth-of-christianity/giant_books.jpg"
           ]
         },
         {
-          "id": "evt-deep-state-eliminate-the-giants",
-          "title": "Deep State Eliminate the Giants",
-          "type": "article",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.02.00-deep-state-eliminate-the-giants.md",
-          "children": []
-        },
-        {
-          "id": "evt-christs-family-flees-ahead-of-the-census",
-          "title": "Christ's family flees ahead of the census",
-          "type": "article",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.03.00-christs-family-flees-ahead-of-the-census.md",
-          "children": [],
-          "media": [
-            "/media/06.ce-12th-birth-of-christianity/hairy_mary.jpg"
-          ]
-        },
-        {
-          "id": "evt-historical-christ-is-born-in-_crimea_",
-          "title": "Historical Christ is Born in _Crimea_",
+          "id": "evt-historical-christ-is-born-in-crimea",
+          "title": "Historical Christ is Born in Crimea",
           "type": "event",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.04.00-1152-ce-historical-christ-is-born-in-crimea.md",
+          "md_path": "content/06.ce-12th-birth-of-christianity/06.02.00-1152-ce-historical-christ-is-born-in-crimea.md",
           "children": [],
           "dates": [
             {
@@ -686,21 +681,20 @@
             }
           ],
           "media": [
-            "/media/06.ce-12th-birth-of-christianity/map_tartaria_hondius.jpg",
-            "/media/06.ce-12th-birth-of-christianity/hans_bol_crucifixion_1587.jpg"
+            "/media/06.ce-12th-birth-of-christianity/map_tartaria_hondius.jpg"
           ]
         },
         {
           "id": "evt-historical-christ-is-crucified-in-istanbul",
           "title": "Historical Christ is Crucified in Istanbul",
           "type": "event",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.05.00-1185-ce-historical-christ-is-crucified-in-istanbul.md",
+          "md_path": "content/06.ce-12th-birth-of-christianity/06.03.00-1185-ce-historical-christ-is-crucified-in-istanbul.md",
           "children": [
             {
-              "id": "evt-alleged-resurrection",
-              "title": "Alleged Resurrection",
+              "id": "evt-the-brother-on-the-cross",
+              "title": "The Brother on the Cross",
               "type": "article",
-              "md_path": "content/06.ce-12th-birth-of-christianity/06.05.01-alleged-resurrection.md",
+              "md_path": "content/06.ce-12th-birth-of-christianity/06.03.01-the-brother-on-the-cross.md",
               "children": [],
               "media": [
                 "/media/06.ce-12th-birth-of-christianity/tomb_of_christ_and_brother.jpg"
@@ -716,34 +710,26 @@
           ],
           "media": [
             "/media/06.ce-12th-birth-of-christianity/crucifixion_descent_tintoretto_1565.jpg",
-            "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png",
+            "/media/06.ce-12th-birth-of-christianity/hans_bol_crucifixion_1587.jpg",
             "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png"
           ]
         },
         {
           "id": "evt-the-revolution-survives-despite-christs-martyrdom",
-          "title": "The Revolution survives despite Christ's Martyrdom",
+          "title": "The Revolution Survives Despite Christ's Martyrdom",
           "type": "article",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.06.00-the-revolution-survives-despite-christs-martyrdom.md",
+          "md_path": "content/06.ce-12th-birth-of-christianity/06.04.00-the-revolution-survives-despite-christs-martyrdom.md",
           "children": [],
           "media": [
             "/media/06.ce-12th-birth-of-christianity/conjunction.jpg"
           ]
         },
         {
-          "id": "evt-first-crusade-begins-as-revenge-for-the-crucifixio",
-          "title": "First Crusade begins as Revenge for the Crucifixion",
+          "id": "evt-the-first-crusade-and-the-trojan-war",
+          "title": "The First Crusade and the Trojan War",
           "type": "event",
-          "md_path": "content/06.ce-12th-birth-of-christianity/06.07.00-1196-ce-first-crusade-begins-as-revenge-for-the-crucifixion.md",
-          "children": [
-            {
-              "id": "evt-the-first-great-war-between-giants-and-smaller-siz",
-              "title": "The First great war between giants and smaller sized humans",
-              "type": "article",
-              "md_path": "content/06.ce-12th-birth-of-christianity/06.07.01-the-first-great-war-between-giants-and-smaller-sized-humans.md",
-              "children": []
-            }
-          ],
+          "md_path": "content/06.ce-12th-birth-of-christianity/06.05.00-1196-ce-the-first-crusade-and-the-trojan-war.md",
+          "children": [],
           "dates": [
             {
               "start": 1196,
