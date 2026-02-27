@@ -837,7 +837,7 @@
       ],
       "media": [
         "/media/07.ce-13th-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
-        "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.jpg",
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.png",
         "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
       ]
     },
@@ -863,7 +863,16 @@
           "title": "Giants are defeated at the Battle of Kulikovo",
           "type": "event",
           "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-european-castles-fortresses-against-giants",
+              "title": "European Castles — Fortresses Against Giants",
+              "type": "article",
+              "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.01-european-castles-fortresses-against-giants.md",
+              "children": [],
+              "media": []
+            }
+          ],
           "dates": [
             {
               "start": 1380,
@@ -881,14 +890,6 @@
           "title": "Imperial Technology and the Knowledge of the Horde",
           "type": "article",
           "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md",
-          "children": [],
-          "media": []
-        },
-        {
-          "id": "evt-european-castles-fortresses-against-giants",
-          "title": "European Castles — Fortresses Against Giants",
-          "type": "article",
-          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.04.00-european-castles-fortresses-against-giants.md",
           "children": [],
           "media": []
         }
@@ -916,7 +917,35 @@
           "title": "Meteorite (Star Metal) falls on Yaroslavl",
           "type": "event",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-jeanne-darc-is-executed-in-rouen-france",
+              "title": "Jeanne d'Arc is executed in Rouen, France",
+              "type": "event",
+              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.01-1431-ce-jeanne-darc-is-executed.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1431,
+                  "end": 1431,
+                  "calendar": "CE",
+                  "source": "Scaligerian",
+                  "note": "Conventional Scaligerian date"
+                },
+                {
+                  "start": 1580,
+                  "end": 1580,
+                  "calendar": "CE",
+                  "source": "Fomenko",
+                  "note": "Fomenko reconstruction: event shifted forward ~150 years; belongs to the XV-XVI cc. Inquisition epoch (Book of Judges = Inquisition of the XV-XVI cc.)"
+                }
+              ],
+              "media": [
+                "/media/09.ce-15th-ottoman-conquest-of-europe/jeanne-darc-is-executed.png",
+                "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
+              ]
+            }
+          ],
           "dates": [
             {
               "start": 1421,
@@ -1006,15 +1035,29 @@
         },
         {
           "id": "evt-the-apocalypse-crusade-reverse-exodus",
-          "title": "The Apocalypse Crusade & Reverse Exodus",
+          "title": "The Apocalypse Crusade",
           "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.06.00-1492-ce-apocalypse-crusade-reverse-exodus.md",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.06.00-1492-ce-the-apocalypse-crusade.md",
           "children": [],
           "dates": [
             {
               "start": 1492,
               "end": 1492,
               "calendar": "CE"
+            }
+          ]
+        },
+        {
+          "id": "evt-the-reverse-exodus-theory",
+          "title": "Theory: The Reverse Exodus",
+          "type": "article",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.07.00-the-reverse-exodus-theory.md",
+          "children": [],
+          "dates": [
+            {
+              "calendar": "CE",
+              "note": "Mirror date of 1492 BCE Exodus — launch of the Reverse Exodus programme",
+              "source": "Paradigm Threat (original theory)"
             }
           ]
         }
@@ -1090,6 +1133,13 @@
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.03.02-cathar-suppression.md",
               "children": []
+            },
+            {
+              "id": "evt-pentateuch-as-horde-chronicle",
+              "title": "The Pentateuch as a Horde Chronicle",
+              "type": "article",
+              "md_path": "content/10.ce-16th-reformation-and-inquisition/10.03.03-pentateuch-as-horde-chronicle.md",
+              "children": []
             }
           ],
           "dates": [
@@ -1117,7 +1167,7 @@
             }
           ],
           "media": [
-            "/media/10.ce-16th-reformation-and-inquisition/map_khazar_khagnate.jpg"
+            "/media/10.ce-16th-reformation-and-inquisition/1552-khazar-rebellion.png"
           ]
         },
         {
@@ -1125,7 +1175,18 @@
           "title": "Khazar Rebellion in the Russia-Horde Empire",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.05.00-1552-ce-khazar-rebellion-in-the-russia-horde-empire.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-cathar-khazar-katya-link",
+              "title": "The Cathar–Khazar–Katya Connection",
+              "type": "article",
+              "md_path": "content/10.ce-16th-reformation-and-inquisition/10.05.01-cathar-khazar-katya-link.md",
+              "children": [],
+              "media": [
+                "/media/10.ce-16th-reformation-and-inquisition/cathar-khazar-katya.png"
+              ]
+            }
+          ],
           "dates": [
             {
               "start": 1552,
@@ -1146,6 +1207,13 @@
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.06.01-redacted-into-the-books-of-esther-judith.md",
               "children": []
+            },
+            {
+              "id": "evt-shakespeare-encodes-the-oprichnina",
+              "title": "Shakespeare Encodes the Oprichnina",
+              "type": "article",
+              "md_path": "content/10.ce-16th-reformation-and-inquisition/10.06.02-shakespeare-encodes-the-oprichnina.md",
+              "children": []
             }
           ],
           "dates": [
@@ -1157,33 +1225,6 @@
           ],
           "media": [
             "/media/10.ce-16th-reformation-and-inquisition/oprichniki_bish.jpg"
-          ]
-        },
-        {
-          "id": "evt-jeanne-darc-is-executed-in-rouen-france",
-          "title": "Jeanne d'Arc is executed in Rouen, France",
-          "type": "event",
-          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.07.00-1580-ce-jeanne-darc-is-executed-in-rouen-france.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1580,
-              "end": 1580,
-              "calendar": "CE",
-              "source": "Fomenko",
-              "note": "Fomenko reconstruction: event shifted forward ~150 years; belongs to the XV-XVI cc. Inquisition epoch (Book of Judges = Inquisition of the XV-XVI cc.)"
-            },
-            {
-              "start": 1431,
-              "end": 1431,
-              "calendar": "CE",
-              "source": "Scaligerian",
-              "note": "Conventional Scaligerian date"
-            }
-          ],
-          "media": [
-            "/media/10.ce-16th-reformation-and-inquisition/jeanne-darc-is-executed.png",
-            "/media/10.ce-16th-reformation-and-inquisition/painting_samson_and_delilah_by_rubens.jpg"
           ]
         },
         {
@@ -1269,6 +1310,25 @@
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.03-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md",
               "children": []
+            },
+            {
+              "id": "evt-shakespeare-encodes-the-horde",
+              "title": "Shakespeare Encodes the Great Empire",
+              "type": "article",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.04-shakespeare-encodes-the-horde.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1564,
+                  "end": 1616,
+                  "calendar": "CE",
+                  "source": "Scaligerian",
+                  "note": "Shakespeare's lifetime; plays encode XII-XVI century Horde events"
+                }
+              ],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/shakespeare.png"
+              ]
             }
           ],
           "dates": [

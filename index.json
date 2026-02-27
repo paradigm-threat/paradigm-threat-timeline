@@ -244,11 +244,11 @@
       "08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
         "_title": "Giants are defeated at the Battle of Kulikovo"
       },
+      "08.02.01-european-castles-fortresses-against-giants.md": {
+        "_title": "European Castles \u2014 Fortresses Against Giants"
+      },
       "08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md": {
         "_title": "Imperial Technology and the Knowledge of the Horde"
-      },
-      "08.04.00-european-castles-fortresses-against-giants.md": {
-        "_title": "European Castles \u2014 Fortresses Against Giants"
       },
       "_count": 5
     },
@@ -258,6 +258,9 @@
       },
       "09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md": {
         "_title": "Meteorite (Star Metal) falls on Yaroslavl"
+      },
+      "09.01.01-1431-ce-jeanne-darc-is-executed.md": {
+        "_title": "Jeanne d'Arc is executed in Rouen, France"
       },
       "09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md": {
         "_title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)"
@@ -277,10 +280,13 @@
       "09.05.00-1486-ce-revelation-of-the-coming-apocalypse.md": {
         "_title": "Revelation of the coming Apocalypse"
       },
-      "09.06.00-1492-ce-apocalypse-crusade-reverse-exodus.md": {
-        "_title": "The Apocalypse Crusade & Reverse Exodus"
+      "09.06.00-1492-ce-the-apocalypse-crusade.md": {
+        "_title": "The Apocalypse Crusade"
       },
-      "_count": 9
+      "09.07.00-the-reverse-exodus-theory.md": {
+        "_title": "Theory: The Reverse Exodus"
+      },
+      "_count": 11
     },
     "10.ce-16th-reformation-and-inquisition": {
       "10.00.00-1500-ce-16th-century-reformation-and-inquisition.md": {
@@ -301,11 +307,17 @@
       "10.03.02-cathar-suppression.md": {
         "_title": "Cathar Suppression"
       },
+      "10.03.03-pentateuch-as-horde-chronicle.md": {
+        "_title": "The Pentateuch as a Horde Chronicle"
+      },
       "10.04.00-1548-ce-jesuits-reach-africa.md": {
         "_title": "Jesuits reach Africa"
       },
       "10.05.00-1552-ce-khazar-rebellion-in-the-russia-horde-empire.md": {
         "_title": "Khazar Rebellion in the Russia-Horde Empire"
+      },
+      "10.05.01-cathar-khazar-katya-link.md": {
+        "_title": "The Cathar\u2013Khazar\u2013Katya Connection"
       },
       "10.06.00-1565-ce-romanov-dynasty-stages-the-oprichnina-coup.md": {
         "_title": "The Oprichnina"
@@ -313,13 +325,13 @@
       "10.06.01-redacted-into-the-books-of-esther-judith.md": {
         "_title": "Redacted into the Books of Esther / Judith"
       },
-      "10.07.00-1580-ce-jeanne-darc-is-executed-in-rouen-france.md": {
-        "_title": "Jeanne d'Arc is executed in Rouen, France"
+      "10.06.02-shakespeare-encodes-the-oprichnina.md": {
+        "_title": "Shakespeare Encodes the Oprichnina"
       },
       "10.08.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md": {
         "_title": "Gregorian Calendar makes slight adjustment to length of a year"
       },
-      "_count": 12
+      "_count": 14
     },
     "11.ce-17th-romanovs-rise-to-power": {
       "11.00.00-1600-ce-17th-century-romanovs-rise-to-power.md": {
@@ -339,6 +351,9 @@
       },
       "11.02.03-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md": {
         "_title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition"
+      },
+      "11.02.04-shakespeare-encodes-the-horde.md": {
+        "_title": "Shakespeare Encodes the Great Empire"
       },
       "11.03.00-1627-ce-deep-state-erases-russian-empire-from-all-chronology.md": {
         "_title": "Deep State erases Russian Empire from all chronology"
@@ -397,7 +412,7 @@
       "11.19.00-1694-ce-deep-state-solidifies-central-banking.md": {
         "_title": "Deep State solidifies central banking"
       },
-      "_count": 25
+      "_count": 26
     },
     "12.ce-18th-mudflood-and-pugachev": {
       "12.00.00-1700-ce-18th-19th-century.md": {
@@ -516,7 +531,7 @@
       },
       "_count": 1
     },
-    "_count": 151
+    "_count": 156
   },
   "data": {
     "events.json": {},
@@ -835,14 +850,14 @@
       "israel_fake_history.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAAwABUB8JZQAAlti+GAA/t7fCrGyyhrWliA/i7DWXTlN0o9zIAAA"
       },
-      "kremlin_2nd_jerusalem_boris_godunov.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQABAABUB8JZACdACotlUAAP6TL0PLhVqt+Jxibv8nXEx2fux6WcRXAAA="
+      "kremlin_2nd_jerusalem_boris_godunov.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdBHAA5Mf2yAA9zaKK2Tq7GoT7oL5R6oS4fzcWL0xhe5YgdZO8QAAAA=="
       },
       "tartarian_empire_emerges_14th_century.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABwAQCdASoQAAwABUB8JaV/2AGIAAD+77RBWXXlmjGN5pmf7B6hHQRaBgAAAA=="
       },
       "the-masons.png": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JaACdAEeylvwAAD76fbevWTTlmRm1iLzPbPJOz4yUa6wWk8DiSJXr3LVIDqKe8gAAA=="
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JQBOgCDoNKAIwAD+PHHiMVdyAz+pWGkIsks7bnG9NMS4WMoPP2DXcZa9o9WhE1/YHENnuQAAAA=="
       },
       "the-second-golden-age.png": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAsABUB8JZACdACqEgYAAP6DkbdLsXokPePdGBYRZqduYlc7uha9aLILJ3iAAAA="
@@ -868,10 +883,19 @@
       "black_death.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkABUB8JZQCdABhH38AAPAf4wNnft+z1zrzDYFwhWsdXHhl3BwGfGitW+YijAAAAA=="
       },
+      "castles-vs-giants.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAsABUB8JagCdACoeAAA9dWLIrw+V//bsSGDtaB+44WsnlBVC9kv0l0ua2JuwMAAAA=="
+      },
       "extraordinary_black_book.jpg": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAA0ABUB8JQBOgBjcU/fIAAD5Bjg6H6pUq0R58i4Ye2XAPDW4tp4IgtAMAA=="
       },
-      "_count": 6
+      "imperial-technology.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAsABUB8JaACdADBCAAA/qtbn77I3Z6mLlmzjdqb/1qICSf8+ON7NdnvcsSTXEAAAA=="
+      },
+      "reverse-exodus-theory.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JaACdADWzFp+AAD+qhRmWaeqsZvgnVkYi9BHvkJEpYcrpDbJ0ePixdtmd1ZuweqrAAAA"
+      },
+      "_count": 9
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "1421CE-meteor-yaroslavl.png": {
@@ -879,6 +903,9 @@
       },
       "15th-conquest-of-europe.png": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAsABUB8JYgCdAEKp9vhRDgAAPaghllA7f1T+MH+MmoL3UiXzG15P0uuwfgAAAA="
+      },
+      "apocalypse-crusade.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JQBOgB7EDjUMAAD+2lTv8QijyBHiWxs0fo0goi+MECrSH1WTvEAA"
       },
       "apocalypse_b_west.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JYwCdAEekvgh3w8AAP4//BoMvso+37pEXceNky/W6IClYh6QykoylY8HXsAA"
@@ -892,20 +919,32 @@
       "gutenberg_bible_1455.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JbACdACJQYAAAP4+HpoSHIAFj5YgYTCX0JN98N9TQyLPwLy+BBVcXDH3/hUAAAA="
       },
+      "jeanne-darc-is-executed.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JQBOgCGF0AAA/autarGK7WSy/KCNrJcSJxpfhol4Vy9UCtIfVZOwwAA="
+      },
       "latin-language-of-deep-state.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JYgCdADB0xgAAP7c2elUOG4/EukExx64YzLPMgVBnU8BCJA1tK8Hl5fY/zID3Q2wAA=="
+      },
+      "painting_samson_and_delilah_by_rubens.jpg": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
       },
       "pompeii_painting.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
       },
-      "star-metal.png": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAgCdASoQAAsABUB8JYgCdAEfof53voVQAAD+0OjZLoYLEJ828c9MKYhXsxXIEcwD51ncNS9MRc/7ALAAAA=="
+      "relevation-of-the-apocalypse.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAD6ChzVAAD8zAIuJKMVbfFmF4AuI0N8NS4cspQWa7sEzulBB8XKE3YGAAA="
       },
-      "_count": 9
+      "star-metal.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAsABUB8JZQAAu0eplFLaoAA/oPoqJ1LsSvTwTOeWn5CLK1bnmqcKPTjGwPAAAA="
+      },
+      "_count": 13
     },
     "10.ce-16th-reformation-and-inquisition": {
       "1552-khazar-rebellion.png": {
-        "_lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAsABUB8JYgCdADz6nKy1YAA/sTSw+T9geKbXr35vHuFxl0SAAAA"
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAsABUB8JbACdADvd4cAAMsA5UikuE+AoRn9B2Xb2HvP3jDiqiz2MFg7DCckx1FPlcAA"
+      },
+      "cathar-khazar-katya.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAAsABUB8JbACdADrngAAzUtNjE9nHZ9R3ypIt7kJti+1GB64W1w1ym50QAAA"
       },
       "cathar_suppression.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAA0ABUB8JYwCw7DC/iHUX4AA9dquuFILbKVKX4ZucFbKzbpdqq7hYBGSkCn3HpPyJ4oq+x1datKvXmX9Rg69ZCaDdflPTrkl1TcAAAA="
@@ -913,14 +952,8 @@
       "galileo_facing_the_inquisition.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAwABUB8JQBOgBuu5HYiAADMkT9Oelv/1snPLwkmAiZGkfSNFzKjunSoV61X5TD09HOXapwAAA=="
       },
-      "jeanne-darc-is-executed.png": {
-        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JQBOgCGF0AAA/autarGK7WSy/KCNrJcSJxpfhol4Vy9UCtIfVZOwwAA="
-      },
       "jews_vs_gentiles.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAwABUB8JQBOgCBX5Qma5F0AAOHfyxVez7giOW5Nq3oVy7JrFnlrOgh3sNRt5eHdyQAA"
-      },
-      "map_khazar_khagnate.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkABUB8JZAC7AD6/N+1eAD93vN1EzHlOPyUc5LKGlKTEENGLMRBAAA="
       },
       "oprichniki_bish.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JZACdAC8F2gAAP4xWy8P6jtV4BUD0Mq00taJB2sTwyZCoskBbeAVlCU8yDu/17sqgAAA"
@@ -934,10 +967,7 @@
       "painting_ottoman_invades_vienna_1683.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
       },
-      "painting_samson_and_delilah_by_rubens.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAA8ABUB8JZgCdADdYchcZEUkgAD+0M4E2TLaAbctnCqlt6p5PKIB8F5wCcIz+SYv4e9R2GAYAAAA"
-      },
-      "_count": 11
+      "_count": 9
     },
     "11.ce-17th-romanovs-rise-to-power": {
       "1652_massacre_of_polish_captives_at_batih.jpg": {
@@ -952,7 +982,13 @@
       "king_james_bible.jpg": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAgABUB8JZgCdADWFh3YAPcH6HLqWGH5IdzFhe3i9sgUAKS6XIXJZAAAAA=="
       },
-      "_count": 4
+      "shakespeare.png": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JagCdAEDUv1NJAAA+6RNExSrDNjKM4bvI1FKpE85Nexj1+jEWPVpqSGTgfDBDlKqtZ3rhaj6mygTfgAAAA=="
+      },
+      "shakespeare2.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JagCdACRMqboAAD87nWxIqhGAsQ/F/czjb4RRfqtVmizNSB5c50/5uCrEQRYhiXLbSHLV8snfrAA"
+      },
+      "_count": 6
     },
     "12.ce-18th-mudflood-and-pugachev": {
       "instant-fossilization.png": {
@@ -1014,7 +1050,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 137
+    "_count": 144
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1022,8 +1058,5 @@
     },
     "_count": 1
   },
-  "wget": {
-    "_count": 0
-  },
-  "_count": 308
+  "_count": 320
 }
