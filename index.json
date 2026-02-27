@@ -217,22 +217,19 @@
       "07.00.00-1200-ce-13th-century-russian-horde-tartarian-empire.md": {
         "_title": "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges"
       },
-      "07.01.00-1204-ce-capture-of-first-jerusalem.md": {
-        "_title": "Capture of First Jerusalem"
-      },
-      "07.02.00-whom-are-the-israelites-in-history.md": {
-        "_title": "Whom are the \u201cIsraelites\u201d in history ?"
-      },
-      "07.03.00-russian-empire-expands-through-conquest.md": {
+      "07.01.00-russian-empire-expands-through-conquest.md": {
         "_title": "Russian Empire expands through conquest"
       },
-      "07.04.00-1258-ce-historical-christ-dies.md": {
+      "07.01.01-the-masons.md": {
+        "_title": "The Masons: Imperial Builders of the Rus-Horde Empire"
+      },
+      "07.02.00-1258-ce-historical-christ-dies.md": {
         "_title": "Historical Christ dies"
       },
-      "07.05.00-1285-ce-first-olympic-games.md": {
+      "07.03.00-1285-ce-first-olympic-games.md": {
         "_title": "First Olympic Games"
       },
-      "_count": 6
+      "_count": 5
     },
     "08.ce-14th-great-expansion-of-the-mongol-slav": {
       "08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md": {
@@ -516,7 +513,7 @@
       },
       "_count": 1
     },
-    "_count": 151
+    "_count": 150
   },
   "data": {
     "events.json": {},
@@ -838,10 +835,13 @@
       "tartarian_empire_emerges_14th_century.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABwAQCdASoQAAwABUB8JaV/2AGIAAD+77RBWXXlmjGN5pmf7B6hHQRaBgAAAA=="
       },
+      "the-masons.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JaACdAEeylvwAAD76fbevWTTlmRm1iLzPbPJOz4yUa6wWk8DiSJXr3LVIDqKe8gAAA=="
+      },
       "troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAkABUB8JQBWAA5togAA91BwlZKrvAmEXrK1sE1QB8RWxsHlEGU2+mfTBemE/t1YgAAA"
       },
-      "_count": 7
+      "_count": 8
     },
     "08.ce-14th-great-expansion-of-the-mongol-slav": {
       "1380ce_battle_of_kulikovo.png": {
@@ -1002,7 +1002,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 133
+    "_count": 134
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {

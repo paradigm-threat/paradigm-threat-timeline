@@ -760,38 +760,23 @@
       "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.00.00-1200-ce-13th-century-russian-horde-tartarian-empire.md",
       "children": [
         {
-          "id": "evt-capture-of-first-jerusalem",
-          "title": "Capture of First Jerusalem",
-          "type": "event",
-          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.00-1204-ce-capture-of-first-jerusalem.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1204,
-              "end": 1204,
-              "calendar": "CE"
-            }
-          ],
-          "media": [
-            "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.jpg"
-          ]
-        },
-        {
-          "id": "evt-whom-are-the-israelites-in-history",
-          "title": "Whom are the “Israelites” in history ?",
-          "type": "article",
-          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.02.00-whom-are-the-israelites-in-history.md",
-          "children": [],
-          "media": [
-            "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
-          ]
-        },
-        {
           "id": "evt-russian-empire-expands-through-conquest",
           "title": "Russian Empire expands through conquest",
           "type": "article",
-          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.03.00-russian-empire-expands-through-conquest.md",
-          "children": [],
+          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.00-russian-empire-expands-through-conquest.md",
+          "children": [
+            {
+              "id": "evt-the-masons",
+              "title": "The Masons: Imperial Builders of the Rus-Horde Empire",
+              "type": "article",
+              "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.01-the-masons.md",
+              "children": [],
+              "related_events": [
+                "evt-13th-century-ce-the-russian-horde-tartarian-empire",
+                "evt-historical-christ-dies"
+              ]
+            }
+          ],
           "media": [
             "/media/07.ce-13th-the-russian-horde-tartarian-empire/tartarian_empire_emerges_14th_century.jpg"
           ]
@@ -800,7 +785,7 @@
           "id": "evt-historical-christ-dies",
           "title": "Historical Christ dies",
           "type": "event",
-          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.04.00-1258-ce-historical-christ-dies.md",
+          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.02.00-1258-ce-historical-christ-dies.md",
           "children": [],
           "dates": [
             {
@@ -817,7 +802,7 @@
           "id": "evt-first-olympic-games",
           "title": "First Olympic Games",
           "type": "event",
-          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.05.00-1285-ce-first-olympic-games.md",
+          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.03.00-1285-ce-first-olympic-games.md",
           "children": [],
           "dates": [
             {
@@ -839,7 +824,9 @@
         }
       ],
       "media": [
-        "/media/07.ce-13th-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg"
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.jpg",
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
       ]
     },
     {
