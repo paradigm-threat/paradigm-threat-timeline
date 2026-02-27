@@ -72,6 +72,22 @@ npm run generate-index
 
 > The husky pre-commit hook runs `generate-index` automatically on `git commit`, but run it manually after adding content files so `index.json` stays current during the session.
 
+## Regenerating PDF / DOCX exports
+
+The PDF and DOCX generators require Python packages (`fpdf2`, `markdown-it-py`, `Pillow`, `python-docx`) that are **not** installed system-wide. A venv at `.venv/` is used.
+
+To regenerate both exports in one command:
+```bash
+npm run export
+```
+
+This runs `scripts/export.sh`, which:
+1. Creates `.venv/` if it doesn't exist (`python3 -m venv .venv`)
+2. Installs/upgrades the required packages into the venv
+3. Runs `generate-pdf.py` and `generate-docx.py` using the venv Python
+
+**Do not** use bare `python3 scripts/generate-pdf.py` — it will fail if the system Python lacks the dependencies. Always use `npm run export`.
+
 ## Image Generation (Golden Age vs Dark Age)
 
 When generating or replacing illustrations for timeline articles:
