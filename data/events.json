@@ -1231,7 +1231,7 @@
           "id": "evt-gregorian-calendar-makes-slight-adjustment-to-leng",
           "title": "Gregorian Calendar makes slight adjustment to length of a year",
           "type": "event",
-          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.08.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md",
+          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.07.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md",
           "children": [],
           "dates": [
             {
@@ -1695,12 +1695,27 @@
           "media": [
             "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png"
           ]
-        },
+        }
+      ],
+      "dates": [
+        {
+          "start": 1700,
+          "end": 1799,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-19th-century-rise-of-communism",
+      "title": "19th Century: The Rise of Communism",
+      "type": "event",
+      "md_path": "content/13.ce-19th-rise-of-communism/13.00.00-1800-ce-19th-century-rise-of-communism.md",
+      "children": [
         {
           "id": "evt-napoleonic-wars",
           "title": "Napoleonic Wars",
           "type": "event",
-          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.06.00-1803-ce-napoleonic-wars.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.01.00-1803-ce-napoleonic-wars.md",
           "children": [],
           "dates": [
             {
@@ -1714,13 +1729,13 @@
           "id": "evt-napoleon-invades-russia",
           "title": "Napoleon invades Russia",
           "type": "event",
-          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.07.00-1812-ce-napoleon-invades-russia.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.02.00-1812-ce-napoleon-invades-russia.md",
           "children": [
             {
               "id": "evt-ecliptic-pathway-of-the-absu-last-seen",
               "title": "Ecliptic pathway of the Absu last seen.",
               "type": "event",
-              "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.07.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.02.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md",
               "children": [],
               "dates": [
                 {
@@ -1730,14 +1745,14 @@
                 }
               ],
               "media": [
-                "/media/12.ce-18th-mudflood-and-pugachev/last-absu-seen.png"
+                "/media/13.ce-19th-rise-of-communism/last-absu-seen.png"
               ]
             },
             {
               "id": "evt-tchaikovsky-releases-1812-overture",
               "title": "Tchaikovsky releases 1812 Overture",
               "type": "event",
-              "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.07.02-1880-ce-tchaikovsky-releases-1812-overture.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.02.02-1880-ce-tchaikovsky-releases-1812-overture.md",
               "children": [],
               "dates": [
                 {
@@ -1755,12 +1770,147 @@
               "calendar": "CE"
             }
           ]
+        },
+        {
+          "id": "evt-karl-marx-the-manufactured-prophet",
+          "title": "Karl Marx: The Manufactured Prophet",
+          "type": "article",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1848-ce-karl-marx-the-manufactured-prophet.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1848,
+              "end": 1883,
+              "calendar": "CE"
+            }
+          ]
+        },
+        {
+          "id": "evt-suppression-of-independent-thought",
+          "title": "The Suppression of Independent Economic Thought",
+          "type": "article",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-1840-ce-the-suppression-of-independent-thought.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1840,
+              "end": 1945,
+              "calendar": "CE"
+            }
+          ]
+        },
+        {
+          "id": "evt-assault-on-hordian-memory",
+          "title": "The 19th Century Assault on Hordian Memory",
+          "type": "article",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-1860-ce-the-assault-on-hordian-memory.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1860,
+              "end": 1917,
+              "calendar": "CE"
+            }
+          ]
         }
       ],
       "dates": [
         {
-          "start": 1700,
+          "start": 1800,
           "end": 1899,
+          "calendar": "CE"
+        }
+      ]
+    },
+    {
+      "id": "evt-1917-revolution",
+      "title": "20th Century: The 1917 Revolution and the End of the Horde",
+      "type": "event",
+      "md_path": "content/14.ce-20th-the-1917-revolution/14.00.00-1900-ce-the-1917-revolution.md",
+      "children": [
+        {
+          "id": "evt-bolshevik-revolution",
+          "title": "The Bolshevik Revolution: Fulfilment of the Script",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.01.00-1917-ce-the-bolshevik-revolution.md",
+          "children": [
+            {
+              "id": "evt-aftermath-flight-exile-erasure",
+              "title": "The Aftermath: Flight, Exile, and Erasure",
+              "type": "article",
+              "md_path": "content/14.ce-20th-the-1917-revolution/14.01.01-1919-ce-the-aftermath-flight-exile-and-erasure.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1917,
+                  "end": 1945,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-hijacking-of-communism",
+              "title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
+              "type": "article",
+              "md_path": "content/14.ce-20th-the-1917-revolution/14.01.02-1921-ce-the-hijacking-of-communism.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1883,
+                  "end": 1945,
+                  "calendar": "CE"
+                }
+              ],
+              "media": [
+                {
+                  "type": "image",
+                  "path": "media/14.ce-20th-the-1917-revolution/ivan-kinkel.png",
+                  "caption": "Ivan Germanovich Kinkel (1883–1945)"
+                }
+              ]
+            }
+          ],
+          "dates": [
+            {
+              "start": 1917,
+              "end": 1918,
+              "calendar": "CE"
+            }
+          ]
+        },
+        {
+          "id": "evt-russian-intellectual-emigration",
+          "title": "The Russian Intellectual Emigration",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.02.00-1922-ce-the-russian-intellectual-emigration.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1922,
+              "end": 1930,
+              "calendar": "CE"
+            }
+          ]
+        },
+        {
+          "id": "evt-soviet-historiography",
+          "title": "Soviet Historiography: The Final Falsification Layer",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.03.00-1930-ce-soviet-historiography.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1918,
+              "end": 1991,
+              "calendar": "CE"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "start": 1900,
+          "end": 1991,
           "calendar": "CE"
         }
       ]

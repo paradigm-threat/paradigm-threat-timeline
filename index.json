@@ -15,7 +15,10 @@
     "2026-02-26-timeline-update.md": {
       "_title": "Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure"
     },
-    "_count": 4
+    "2026-02-27-timeline-update.md": {
+      "_title": "Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections"
+    },
+    "_count": 5
   },
   "content": {
     "00.overview": {
@@ -328,7 +331,7 @@
       "10.06.02-shakespeare-encodes-the-oprichnina.md": {
         "_title": "Shakespeare Encodes the Oprichnina"
       },
-      "10.08.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md": {
+      "10.07.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md": {
         "_title": "Gregorian Calendar makes slight adjustment to length of a year"
       },
       "_count": 14
@@ -433,19 +436,55 @@
       "12.05.00-1774-ce-instant-fossilization-and-electric-petrification.md": {
         "_title": "Instant Fossilization and Electric Petrification"
       },
-      "12.06.00-1803-ce-napoleonic-wars.md": {
+      "_count": 6
+    },
+    "13.ce-19th-rise-of-communism": {
+      "13.00.00-1800-ce-19th-century-rise-of-communism.md": {
+        "_title": "19th Century: The Rise of Communism"
+      },
+      "13.01.00-1803-ce-napoleonic-wars.md": {
         "_title": "Napoleonic Wars"
       },
-      "12.07.00-1812-ce-napoleon-invades-russia.md": {
+      "13.02.00-1812-ce-napoleon-invades-russia.md": {
         "_title": "Napoleon invades Russia"
       },
-      "12.07.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md": {
+      "13.02.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md": {
         "_title": "Ecliptic pathway of the Absu last seen."
       },
-      "12.07.02-1880-ce-tchaikovsky-releases-1812-overture.md": {
+      "13.02.02-1880-ce-tchaikovsky-releases-1812-overture.md": {
         "_title": "Tchaikovsky releases 1812 Overture"
       },
-      "_count": 10
+      "13.03.00-1848-ce-karl-marx-the-manufactured-prophet.md": {
+        "_title": "Karl Marx: The Manufactured Prophet"
+      },
+      "13.04.00-1840-ce-the-suppression-of-independent-thought.md": {
+        "_title": "The Suppression of Independent Economic Thought"
+      },
+      "13.05.00-1860-ce-the-assault-on-hordian-memory.md": {
+        "_title": "The 19th Century Assault on Hordian Memory"
+      },
+      "_count": 8
+    },
+    "14.ce-20th-the-1917-revolution": {
+      "14.00.00-1900-ce-the-1917-revolution.md": {
+        "_title": "20th Century: The 1917 Revolution and the End of the Horde"
+      },
+      "14.01.00-1917-ce-the-bolshevik-revolution.md": {
+        "_title": "The Bolshevik Revolution: Fulfilment of the Script"
+      },
+      "14.01.01-1919-ce-the-aftermath-flight-exile-and-erasure.md": {
+        "_title": "The Aftermath: Flight, Exile, and Erasure"
+      },
+      "14.01.02-1921-ce-the-hijacking-of-communism.md": {
+        "_title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version"
+      },
+      "14.02.00-1922-ce-the-russian-intellectual-emigration.md": {
+        "_title": "The Russian Intellectual Emigration"
+      },
+      "14.03.00-1930-ce-soviet-historiography.md": {
+        "_title": "Soviet Historiography: The Final Falsification Layer"
+      },
+      "_count": 6
     },
     "15-author-profiles": {
       "15.00.00-author-profiles.md": {
@@ -531,7 +570,7 @@
       },
       "_count": 1
     },
-    "_count": 156
+    "_count": 166
   },
   "data": {
     "events.json": {},
@@ -994,13 +1033,22 @@
       "instant-fossilization.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JQBOgCIG/tnc7tpwAAD+5edscWXbkif5q35DC4CpgF4OL8eijBjJwmfIAAAA"
       },
-      "last-absu-seen.png": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDXcLla7tAAP4/shh4X1vdWm+FpiTq1GPX82P+5+gDXN0zX2kuhbBrw0yAAA=="
-      },
       "mudflood.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JagCdADcpMVs3dgA9hyDjAMxJymBfW1DuiQCbmjxukVdUe1kWisCVZD6wAAA"
       },
-      "_count": 3
+      "_count": 2
+    },
+    "13.ce-19th-rise-of-communism": {
+      "last-absu-seen.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JaACdAEDXcLla7tAAP4/shh4X1vdWm+FpiTq1GPX82P+5+gDXN0zX2kuhbBrw0yAAA=="
+      },
+      "_count": 1
+    },
+    "14.ce-20th-the-1917-revolution": {
+      "ivan-kinkel.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JbACdADhcmuSBRIAAM3v9He/6MqESGkbdHBN9YM/iaxRDcf9n7AU1ZWh0st3aHXcS7lLAAA="
+      },
+      "_count": 1
     },
     "15-author-profiles": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1050,7 +1098,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 144
+    "_count": 145
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1058,5 +1106,5 @@
     },
     "_count": 1
   },
-  "_count": 320
+  "_count": 332
 }

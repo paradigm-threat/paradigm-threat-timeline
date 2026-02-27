@@ -1068,7 +1068,7 @@ class PDFRenderer:
                             align="C", new_x="LMARGIN", new_y="NEXT")
 
         # ---- Table of Contents (starts page iii) ----
-        self._toc_pages = 6
+        self._toc_pages = 7
         self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
 
         # End front matter — body content starts
