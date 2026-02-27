@@ -244,20 +244,23 @@
       "08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
         "_title": "Giants are defeated at the Battle of Kulikovo"
       },
-      "_count": 3
+      "08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md": {
+        "_title": "Imperial Technology and the Knowledge of the Horde"
+      },
+      "08.04.00-european-castles-fortresses-against-giants.md": {
+        "_title": "European Castles \u2014 Fortresses Against Giants"
+      },
+      "_count": 5
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md": {
         "_title": "15th Century C.E. Ottoman Conquest of Europe."
       },
-      "09.00.01-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md": {
-        "_title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)"
-      },
       "09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md": {
         "_title": "Meteorite (Star Metal) falls on Yaroslavl"
       },
-      "09.02.00-1455-ce-deep-state-steals-russian-history.md": {
-        "_title": "Deep State Steals Russian History"
+      "09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md": {
+        "_title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)"
       },
       "09.03.00-language-of-the-deep-state.md": {
         "_title": "Theory: Latin is the Language of the Deep State"
@@ -277,7 +280,7 @@
       "09.06.00-1492-ce-apocalypse-crusade-reverse-exodus.md": {
         "_title": "The Apocalypse Crusade & Reverse Exodus"
       },
-      "_count": 10
+      "_count": 9
     },
     "10.ce-16th-reformation-and-inquisition": {
       "10.00.00-1500-ce-16th-century-reformation-and-inquisition.md": {
@@ -513,7 +516,7 @@
       },
       "_count": 1
     },
-    "_count": 150
+    "_count": 151
   },
   "data": {
     "events.json": {},
@@ -895,7 +898,10 @@
       "pompeii_painting.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAoABUB8JZACdADdhW1A/UUAAP3u3tSZO9k4mKCBTuqVxj0ut8oAyN17yQvjTi6hfvxAwMCAAA=="
       },
-      "_count": 8
+      "star-metal.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAgCdASoQAAsABUB8JYgCdAEfof53voVQAAD+0OjZLoYLEJ828c9MKYhXsxXIEcwD51ncNS9MRc/7ALAAAA=="
+      },
+      "_count": 9
     },
     "10.ce-16th-reformation-and-inquisition": {
       "1552-khazar-rebellion.png": {
@@ -1008,7 +1014,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 136
+    "_count": 137
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1019,5 +1025,5 @@
   "wget": {
     "_count": 0
   },
-  "_count": 306
+  "_count": 308
 }

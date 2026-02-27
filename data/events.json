@@ -875,6 +875,22 @@
             "/media/08.ce-14th-great-expansion-of-the-mongol-slav/1380ce_battle_of_kulikovo.png",
             "/media/08.ce-14th-great-expansion-of-the-mongol-slav/extraordinary_black_book.jpg"
           ]
+        },
+        {
+          "id": "evt-imperial-technology-and-the-knowledge-of-the-horde",
+          "title": "Imperial Technology and the Knowledge of the Horde",
+          "type": "article",
+          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md",
+          "children": [],
+          "media": []
+        },
+        {
+          "id": "evt-european-castles-fortresses-against-giants",
+          "title": "European Castles — Fortresses Against Giants",
+          "type": "article",
+          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.04.00-european-castles-fortresses-against-giants.md",
+          "children": [],
+          "media": []
         }
       ],
       "dates": [
@@ -896,20 +912,6 @@
       "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md",
       "children": [
         {
-          "id": "evt-hundred-years-war-ends",
-          "title": "Hundred Years' War ends — Fall of Czar-Grad (1453 CE)",
-          "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.01-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1453,
-              "end": 1453,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
           "id": "evt-meteorite-star-metal-falls-on-yaroslavl",
           "title": "Meteorite (Star Metal) falls on Yaroslavl",
           "type": "event",
@@ -927,13 +929,17 @@
           ]
         },
         {
-          "id": "evt-deep-state-steals-russian-history",
-          "title": "Deep State Steals Russian History",
-          "type": "article",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1455-ce-deep-state-steals-russian-history.md",
+          "id": "evt-hundred-years-war-ends",
+          "title": "Hundred Years' War ends — Fall of Czar-Grad (1453 CE)",
+          "type": "event",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md",
           "children": [],
-          "media": [
-            "/media/09.ce-15th-ottoman-conquest-of-europe/gutenberg_bible_1455.jpg"
+          "dates": [
+            {
+              "start": 1453,
+              "end": 1453,
+              "calendar": "CE"
+            }
           ]
         },
         {
