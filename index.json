@@ -217,11 +217,14 @@
       "07.00.00-1200-ce-13th-century-russian-horde-tartarian-empire.md": {
         "_title": "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges"
       },
-      "07.01.00-russian-empire-expands-through-conquest.md": {
-        "_title": "Russian Empire expands through conquest"
+      "07.01.00-a-second-golden-age.md": {
+        "_title": "A Second Golden Age"
       },
       "07.01.01-the-masons.md": {
         "_title": "The Masons: Imperial Builders of the Rus-Horde Empire"
+      },
+      "07.01.02-the-giants-of-the-rus-horde.md": {
+        "_title": "The Giants of the Rus-Horde"
       },
       "07.02.00-1258-ce-historical-christ-dies.md": {
         "_title": "Historical Christ dies"
@@ -229,22 +232,19 @@
       "07.03.00-1285-ce-first-olympic-games.md": {
         "_title": "First Olympic Games"
       },
-      "_count": 5
+      "_count": 6
     },
     "08.ce-14th-great-expansion-of-the-mongol-slav": {
       "08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md": {
-        "_title": "14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire"
+        "_title": "14th Century C.E.: The Great Expansion \u2014 Triumph and Betrayal"
       },
       "08.01.00-european-religious-schism-emerges.md": {
         "_title": "European Religious Schism Emerges"
       },
-      "08.02.00-1337-ce-the-hundred-years-war-begins.md": {
-        "_title": "The \"Hundred Years War\" begins"
-      },
-      "08.03.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
+      "08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
         "_title": "Giants are defeated at the Battle of Kulikovo"
       },
-      "_count": 4
+      "_count": 3
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md": {
@@ -823,6 +823,9 @@
       "1285_olympics.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JZgCdACRICQQAAD9s0CD0YSdC0bSM7ftCuKNQLG4VWznk4Wq5zdP5agVgAAA"
       },
+      "giants-of-the-rus-horde.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoQAAsABUB8JagCdADxtQAA/p/jtzeqL6X1sCa0WcgznD0sWXhiIY8yUH3ppXvSywHVf354AAA="
+      },
       "giants_write_books.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZgCdADO2pG3UgAA/tqm3JlBhETHUg8dPOGi9V6NgNsVTfSiLwzZO8QAAA=="
       },
@@ -838,10 +841,13 @@
       "the-masons.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JaACdAEeylvwAAD76fbevWTTlmRm1iLzPbPJOz4yUa6wWk8DiSJXr3LVIDqKe8gAAA=="
       },
+      "the-second-golden-age.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAsABUB8JZACdACqEgYAAP6DkbdLsXokPePdGBYRZqduYlc7uha9aLILJ3iAAAA="
+      },
       "troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAkABUB8JQBWAA5togAA91BwlZKrvAmEXrK1sE1QB8RWxsHlEGU2+mfTBemE/t1YgAAA"
       },
-      "_count": 8
+      "_count": 10
     },
     "08.ce-14th-great-expansion-of-the-mongol-slav": {
       "1380ce_battle_of_kulikovo.png": {
@@ -1002,7 +1008,7 @@
       "perattyaoaurora-prehistory.pdf": {},
       "_count": 3
     },
-    "_count": 134
+    "_count": 136
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1010,5 +1016,5 @@
     },
     "_count": 1
   },
-  "_count": 304
+  "_count": 306
 }

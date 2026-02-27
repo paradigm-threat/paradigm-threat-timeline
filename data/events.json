@@ -761,9 +761,9 @@
       "children": [
         {
           "id": "evt-russian-empire-expands-through-conquest",
-          "title": "Russian Empire expands through conquest",
+          "title": "A Second Golden Age",
           "type": "article",
-          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.00-russian-empire-expands-through-conquest.md",
+          "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.00-a-second-golden-age.md",
           "children": [
             {
               "id": "evt-the-masons",
@@ -774,6 +774,18 @@
               "related_events": [
                 "evt-13th-century-ce-the-russian-horde-tartarian-empire",
                 "evt-historical-christ-dies"
+              ]
+            },
+            {
+              "id": "evt-the-giants-of-the-rus-horde",
+              "title": "The Giants of the Rus-Horde",
+              "type": "article",
+              "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md",
+              "children": [],
+              "related_events": [
+                "evt-russian-empire-expands-through-conquest",
+                "evt-13th-century-ce-the-russian-horde-tartarian-empire",
+                "evt-the-rebellion-of-pugachev"
               ]
             }
           ],
@@ -831,7 +843,7 @@
     },
     {
       "id": "evt-14th-century-ce-great-expansion-of-the-mongol-slav",
-      "title": "14th Century C.E.: Great Expansion of the Mongol / Slavic Rus-Horde Empire",
+      "title": "14th Century C.E.: The Great Expansion — Triumph and Betrayal",
       "type": "event",
       "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md",
       "children": [
@@ -847,27 +859,10 @@
           ]
         },
         {
-          "id": "evt-the-hundred-years-war-begins",
-          "title": "The \"Hundred Years War\" begins",
-          "type": "event",
-          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.00-1337-ce-the-hundred-years-war-begins.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1337,
-              "end": 1337,
-              "calendar": "CE"
-            }
-          ],
-          "media": [
-            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-hundred-years-war-begins.png"
-          ]
-        },
-        {
           "id": "evt-giants-are-defeated-at-the-battle-of-kulikovo",
           "title": "Giants are defeated at the Battle of Kulikovo",
           "type": "event",
-          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md",
+          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md",
           "children": [],
           "dates": [
             {
@@ -890,7 +885,8 @@
         }
       ],
       "media": [
-        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-great-expansion.png"
+        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-great-expansion.png",
+        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-hundred-years-war-begins.png"
       ]
     },
     {
