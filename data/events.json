@@ -896,6 +896,20 @@
       "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md",
       "children": [
         {
+          "id": "evt-hundred-years-war-ends",
+          "title": "Hundred Years' War ends — Fall of Czar-Grad (1453 CE)",
+          "type": "event",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.01-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1453,
+              "end": 1453,
+              "calendar": "CE"
+            }
+          ]
+        },
+        {
           "id": "evt-meteorite-star-metal-falls-on-yaroslavl",
           "title": "Meteorite (Star Metal) falls on Yaroslavl",
           "type": "event",
@@ -913,44 +927,33 @@
           ]
         },
         {
-          "id": "evt-hundred-years-war-ends",
-          "title": "Hundred Years' War ends — Fall of Czar-Grad (1453 CE)",
-          "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md",
-          "children": [
-            {
-              "id": "evt-deep-state-steals-russian-history",
-              "title": "Deep State Steals Russian History",
-              "type": "article",
-              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.01-1455-ce-deep-state-steals-russian-history.md",
-              "children": [],
-              "media": [
-                "/media/09.ce-15th-ottoman-conquest-of-europe/gutenberg_bible_1455.jpg"
-              ]
-            }
-          ],
-          "dates": [
-            {
-              "start": 1453,
-              "end": 1453,
-              "calendar": "CE"
-            }
+          "id": "evt-deep-state-steals-russian-history",
+          "title": "Deep State Steals Russian History",
+          "type": "article",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1455-ce-deep-state-steals-russian-history.md",
+          "children": [],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/gutenberg_bible_1455.jpg"
           ]
         },
         {
-          "id": "evt-bible-is-translated-into-latin",
-          "title": "Gutenberg Bible translated into Latin",
-          "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.03.00-1455-ce-gutenberg-bible-translated-into-latin.md",
+          "id": "evt-latin-is-the-language-of-the-deep-state",
+          "title": "Theory: Latin is the Language of the Deep State",
+          "type": "article",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.03.00-language-of-the-deep-state.md",
           "children": [
             {
-              "id": "evt-latin-is-the-language-of-the-deep-state",
-              "title": "Theory: Latin is the Language of the Deep State",
-              "type": "article",
-              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.03.01-latin-is-the-language-of-the-deep-state.md",
+              "id": "evt-bible-is-translated-into-latin",
+              "title": "Gutenberg Bible translated into Latin",
+              "type": "event",
+              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.03.01-1455-ce-bible-translated-into-latin.md",
               "children": [],
-              "media": [
-                "/media/09.ce-15th-ottoman-conquest-of-europe/latin-language-of-deep-state.png"
+              "dates": [
+                {
+                  "start": 1455,
+                  "end": 1455,
+                  "calendar": "CE"
+                }
               ]
             },
             {
@@ -962,31 +965,27 @@
               "media": [
                 "/media/09.ce-15th-ottoman-conquest-of-europe/christianity-redacted-into-monotheism.png"
               ]
-            },
-            {
-              "id": "evt-jesuits-convert-native-religions-to-monotheism",
-              "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
-              "type": "article",
-              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.03.03-jesuit-operations-conversion-and-catholicism.md",
-              "children": [],
-              "media": [
-                "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg"
-              ]
             }
           ],
-          "dates": [
-            {
-              "start": 1455,
-              "end": 1455,
-              "calendar": "CE"
-            }
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/latin-language-of-deep-state.png"
+          ]
+        },
+        {
+          "id": "evt-jesuits-convert-native-religions-to-monotheism",
+          "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
+          "type": "article",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.04.00-jesuit-operations-conversion-and-catholicism.md",
+          "children": [],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg"
           ]
         },
         {
           "id": "evt-revelation-of-the-coming-apocalypse",
           "title": "Revelation of the coming Apocalypse",
           "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.04.00-1486-ce-revelation-of-the-coming-apocalypse.md",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.05.00-1486-ce-revelation-of-the-coming-apocalypse.md",
           "children": [],
           "dates": [
             {
@@ -1003,7 +1002,7 @@
           "id": "evt-the-apocalypse-crusade-reverse-exodus",
           "title": "The Apocalypse Crusade & Reverse Exodus",
           "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.05.00-1492-ce-apocalypse-crusade-reverse-exodus.md",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.06.00-1492-ce-apocalypse-crusade-reverse-exodus.md",
           "children": [],
           "dates": [
             {
