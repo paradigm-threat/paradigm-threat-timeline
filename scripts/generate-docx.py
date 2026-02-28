@@ -131,64 +131,64 @@ def _add_toc(doc: Document, md_files: list):
     hr.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
     doc.add_paragraph()
 
-    # Pre-build Part labels from XX.00.00-... files
-    part_labels: dict = {}
-    for path in md_files:
-        tier, xx, yy, zz = _classify_tier(path.name)
-        if tier == "part":
-            part_labels[xx] = _extract_h1(path)
-
     current_part = None
-    entry_num = 0
+    chapter_counter = 0
     for i, path in enumerate(md_files):
         title = _extract_h1(path)
         tier, xx, yy, zz = _classify_tier(path.name)
         part_num = int(xx)
         roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
 
-        # Part divider label when the Part changes
+        # Reset chapter counter when Part changes
         if xx != current_part:
             current_part = xx
-            if i > 0:
-                label_text = part_labels.get(xx, f"Part {roman}")
-                divider = doc.add_paragraph()
-                divider.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                divider.paragraph_format.space_before = Pt(8)
-                divider.paragraph_format.space_after  = Pt(4)
-                d_run = divider.add_run(f"Part {roman} — {label_text}")
-                d_run.font.size      = Pt(12)
-                d_run.bold           = True
-                d_run.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
+            chapter_counter = 0
 
-        entry_num += 1
+        if tier == "chapter":
+            chapter_counter += 1
 
         # TOC entry paragraph — indent chapters and sub-sections
         para = doc.add_paragraph()
-        if tier == "part":
-            para.paragraph_format.left_indent = Cm(0)
-        elif tier == "chapter":
-            para.paragraph_format.left_indent = Cm(0.5)
-        else:
-            para.paragraph_format.left_indent = Cm(1.0)
         para.paragraph_format.space_before = Pt(1)
         para.paragraph_format.space_after  = Pt(1)
 
-        # Entry number (dim)
-        num_run = para.add_run(f"{entry_num:3d}.  ")
-        num_run.font.size      = Pt(10)
-        num_run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
-
-        # Entry title — bold for Parts
-        title_run = para.add_run(title)
-        title_run.font.size = Pt(10)
         if tier == "part":
-            title_run.bold = True
+            # Extra spacing before each Part (except the very first)
+            if i > 0:
+                para.paragraph_format.space_before = Pt(10)
+            para.paragraph_format.left_indent = Cm(0)
+
+            # "Part V:  Title" — bold
+            label_run = para.add_run(f"Part {roman}:  ")
+            label_run.font.size      = Pt(10.5)
+            label_run.bold           = True
+            label_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+
+            title_run = para.add_run(title)
+            title_run.font.size      = Pt(10.5)
+            title_run.bold           = True
             title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
-        elif tier == "subsection":
-            title_run.italic = True
-            title_run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+
+        elif tier == "chapter":
+            para.paragraph_format.left_indent = Cm(0.8)
+
+            # "Chapter 3:  Title" — normal weight
+            label_run = para.add_run(f"Chapter {chapter_counter}:  ")
+            label_run.font.size      = Pt(10)
+            label_run.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
+
+            title_run = para.add_run(title)
+            title_run.font.size      = Pt(10)
+            title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+
         else:
-            title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+            # Sub-section — italic, further indented
+            para.paragraph_format.left_indent = Cm(1.4)
+
+            title_run = para.add_run(title)
+            title_run.font.size      = Pt(9.5)
+            title_run.italic         = True
+            title_run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
 
     doc.add_page_break()
 
