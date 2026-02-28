@@ -647,6 +647,28 @@ class DOCXRenderer:
                 i += 1
 
     # ---------------------------------------------------------------
+    #  Strip first H1 from a token stream
+    # ---------------------------------------------------------------
+    @staticmethod
+    def _strip_first_h1(tokens: list) -> list:
+        """Remove the first H1 heading (open + inline + close) from tokens."""
+        out = []
+        skipped = False
+        i = 0
+        while i < len(tokens):
+            if (not skipped and tokens[i].type == "heading_open"
+                    and tokens[i].tag == "h1"):
+                skipped = True
+                i += 1
+                while i < len(tokens) and tokens[i].type != "heading_close":
+                    i += 1
+                i += 1
+                continue
+            out.append(tokens[i])
+            i += 1
+        return out
+
+    # ---------------------------------------------------------------
     #  Heading-demoted token renderer (for sub-sections)
     # ---------------------------------------------------------------
     def _render_tokens_demoted(self, tokens, demote: int = 1):
@@ -683,6 +705,7 @@ class DOCXRenderer:
             run = h.add_run(f"Part {roman} — {h1_title}")
             run.bold = True
 
+            tokens = self._strip_first_h1(tokens)
             self._render_tokens(tokens)
             self.doc.add_paragraph()
 
@@ -696,6 +719,7 @@ class DOCXRenderer:
             run = h.add_run(f"Chapter {ch_num}: {h1_title}")
             run.bold = True
 
+            tokens = self._strip_first_h1(tokens)
             self._render_tokens(tokens)
             self.doc.add_paragraph()
 
@@ -708,6 +732,7 @@ class DOCXRenderer:
             r.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
             r.font.size = Pt(12)
 
+            tokens = self._strip_first_h1(tokens)
             self._render_tokens_demoted(tokens, demote=1)
             self.doc.add_paragraph()
 

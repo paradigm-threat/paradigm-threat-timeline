@@ -107,5 +107,18 @@ When generating or replacing illustrations for timeline articles:
 - `content/` — article markdown files in chapter subfolders (`content/<chapter>/XX.YY.ZZ-slug.md`)
 - `investigations/` — validation research
 - `docs/AGENT_INSTRUCTIONS.md` — detailed agent guide
+- `docs/PRINT_GOALS.md` — print specs and page budget
+- `docs/CONTENT_REDUCTION_TRACKER.md` — tracks progress toward ≤ 400 page target
 - `scripts/renumber-from-hierarchy.py` — re-derives all file numbers from `events.json` hierarchy
 - `scripts/` — all other Python utility scripts
+
+## Print Size Budget
+
+The PDF is currently **~792 pages / 47 MB** — the target is **≤ 400 pages / ≤ 15 MB**.
+When writing or editing content:
+- Keep articles to **300–800 words**; justify anything over 1,500.
+- **Cross-reference** overlapping topics instead of repeating material.
+- Limit to **1 image per article** for print; mark extras `<!-- web-only -->`.
+- Avoid long block quotes — summarize and cite.
+- Merge child articles under ~250 words into their parent.
+- See `docs/PRINT_GOALS.md` §13 and `docs/CONTENT_REDUCTION_TRACKER.md`.

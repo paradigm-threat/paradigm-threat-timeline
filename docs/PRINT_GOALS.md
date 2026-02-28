@@ -200,7 +200,80 @@ review, not final print output.
 
 ---
 
-## 13. Vellum Feature Parity Checklist
+## 13. Page Budget & Content Size Targets
+
+### Problem (as of Feb 2026)
+
+The current export produces **~792 pages at 47 MB** — far too large for a
+trade-paperback print run. Standard trade paperbacks cap at **400 pages**;
+ideally we target **≤ 350 pages** (plus front matter / TOC).
+
+| Metric | Current (Feb 2026) | Target |
+|---|---|---|
+| Total pages | ~792 | ≤ 400 |
+| Body text words | ~146,800 | ≤ 90,000 |
+| Embedded images | 142 | ≤ 80 |
+| Blank recto inserts | ~88 | ~50 (fewer articles = fewer inserts) |
+| PDF file size | 47 MB | ≤ 15 MB |
+
+### Reduction Strategy (gradual, non-destructive)
+
+Content reduction must **never discard data**. All information is preserved;
+only the *presentation in the print edition* is condensed.
+
+1. **Cross-reference, don't repeat.** When multiple articles cover overlapping
+   material (e.g. Masons in Ch 07 overlaps with Deep State in Ch 09/11),
+   keep the detailed treatment in ONE article and replace the duplicate prose
+   with a short summary + cross-reference: *"See §07.01.01 The Masons for
+   full analysis."*
+
+2. **Move author profiles to an appendix stub.** The 25 author profiles
+   (~11,800 words / ~40 pages) can be reduced to a **one-paragraph bio +
+   bibliography** per author in a compact appendix. Full profiles remain in
+   the markdown source for the website; the PDF renders only the short form.
+
+3. **Compress long-form articles.** The top-10 longest articles account for
+   ~27,000 words (~90 pages). Each should be reviewed for:
+   - Block-quoted source passages that can be summarized with a citation
+   - Repeated thesis statements across sections
+   - Narrative preambles that can be tightened
+
+4. **Reduce image count.** Target ≤ 1 image per article (≤ 80 total).
+   Decorative or redundant illustrations should be removed from print; they
+   remain available on the website via the same markdown source.
+
+5. **Consolidate small sub-articles.** Many `ZZ ≠ 00` child articles are
+   under 300 words. Where a parent + children total < 800 words, merge them
+   into a single article to eliminate blank-recto padding pages.
+
+6. **Use print-only front-matter flags.** Add `print: summary` to article
+   YAML front-matter to signal the PDF generator should render only the
+   first paragraph + cross-reference, while the website shows the full text.
+
+### Priority Order for Reduction
+
+| Priority | Action | Est. savings |
+|---|---|---|
+| 1 | Author profiles → short appendix | ~35 pages |
+| 2 | Merge tiny sub-articles (< 300 w) | ~50 pages (recto inserts) |
+| 3 | Cross-reference overlapping content | ~40 pages |
+| 4 | Trim top-10 longest articles | ~30 pages |
+| 5 | Reduce image count to ≤ 80 | ~30 pages |
+| 6 | Tighten remaining prose globally | ~20 pages |
+| **Total estimated** | | **~205 pages** |
+
+This would bring the book from ~792 to ~587 pages. A second pass of deeper
+editing (Priority 3–6 applied more aggressively) should reach the ≤ 400 target.
+
+### Tracking
+
+Progress on content reduction is tracked in `docs/CONTENT_REDUCTION_TRACKER.md`.
+Every reduction pass should log:
+- Date, chapter/file affected, words before → after, technique used.
+
+---
+
+## 14. Vellum Feature Parity Checklist
 
 | Vellum Feature | Status | Implementation |
 |---|---|---|
@@ -235,5 +308,7 @@ python3 scripts/generate-pdf.py
 # Output: export/timeline.pdf
 ```
 
-Check the output file size and page count printed at the end. A 160-article
-export typically produces ~350–450 pages at 2–3 MB.
+Check the output file size and page count printed at the end.
+
+**Current status (Feb 2026):** 176 articles → 792 pages, 47 MB.  
+**Target:** ≤ 400 pages, ≤ 15 MB. See §13 *Page Budget & Content Size Targets*.

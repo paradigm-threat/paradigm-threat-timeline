@@ -130,3 +130,18 @@ When the timeline supports a conclusion or speculation, add it to `docs/CONCLUSI
 - Article images can live in `media/[section]/[image]` (e.g. `media/before-creation/spawning-first-life-forms.png`). Link from markdown with **relative** paths (e.g. `media/[section]/[filename]`).
 - paradigm-threat-site resolves these relative URLs to absolute using the same domain as `events.json` (the timeline base URL), so images load from the timeline origin.
 - We plan to generate images for more timeline articles in the future (e.g. AI-generated illustrations keyed to article content).
+
+## Print Size Budget (≤ 400 pages)
+
+The PDF export must stay within a **≤ 400 page / ≤ 15 MB** budget for trade-paperback viability. As of Feb 2026 it is **792 pages / 47 MB** — nearly double the target.
+
+### Writing guidelines for print-aware content
+
+1. **Brevity first.** New articles should target **300–800 words**. Anything over 1,500 words needs justification.
+2. **Cross-reference, don't repeat.** If a topic is covered in another article, write one sentence + a cross-reference (`See §XX.YY.ZZ Title`) instead of re-explaining.
+3. **One image per article maximum** for print. Additional images are fine for the website but should be marked with `<!-- web-only -->` so the PDF generator can skip them.
+4. **Avoid long block quotes.** Summarize and cite. Print page space is expensive.
+5. **Merge small children.** Child articles under ~250 words should be folded into their parent unless they serve a distinct navigational purpose.
+6. **Author profiles are appendix-only in print.** Keep full profiles in markdown for the website; the PDF renders a short-form version.
+
+See `docs/PRINT_GOALS.md` §13 and `docs/CONTENT_REDUCTION_TRACKER.md` for the full strategy and tracking.

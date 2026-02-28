@@ -906,6 +906,13 @@ class PDFRenderer:
         """Render the Table of Contents with leader dots."""
         start_page = pdf.page
 
+        # Ensure correct mirrored margins for this page
+        pdf._apply_margins()
+
+        # Skip to a clean page — the placeholder may start mid-page
+        if pdf.get_y() > pdf.t_margin + 5:
+            pdf.add_page()
+
         pdf.set_font(self.SANS, "B", 22)
         pdf.set_text_color(*C_DARK)
         pdf.cell(0, 15, self._t("Table of Contents"), align="C",
@@ -1044,6 +1051,29 @@ class PDFRenderer:
         self.pdf.line(mid_l, y, mid_r, y)
 
     # ---------------------------------------------------------------
+    #  Strip first H1 from a token stream
+    # ---------------------------------------------------------------
+    @staticmethod
+    def _strip_first_h1(tokens: list) -> list:
+        """Remove the first H1 heading (open + inline + close) from tokens."""
+        out = []
+        skipped = False
+        i = 0
+        while i < len(tokens):
+            if (not skipped and tokens[i].type == "heading_open"
+                    and tokens[i].tag == "h1"):
+                # Skip heading_open, inline, heading_close
+                skipped = True
+                i += 1  # skip heading_open
+                while i < len(tokens) and tokens[i].type != "heading_close":
+                    i += 1
+                i += 1  # skip heading_close
+                continue
+            out.append(tokens[i])
+            i += 1
+        return out
+
+    # ---------------------------------------------------------------
     #  Heading-demoted token renderer (for sub-sections)
     # ---------------------------------------------------------------
     def _render_tokens_demoted(self, tokens: list, demote: int = 1):
@@ -1104,7 +1134,7 @@ class PDFRenderer:
             self.pdf.ln(1)
 
             self._restore_body()
-            tokens = self.md.parse(text)
+            tokens = self._strip_first_h1(self.md.parse(text))
             self._render_tokens(tokens)
 
         elif tier == "chapter":
@@ -1134,7 +1164,7 @@ class PDFRenderer:
             self.pdf.start_section(toc_label, level=1)
 
             self._restore_body()
-            tokens = self.md.parse(text)
+            tokens = self._strip_first_h1(self.md.parse(text))
             self._render_tokens(tokens)
 
         else:
@@ -1149,7 +1179,7 @@ class PDFRenderer:
 
             # Demote headings: H1 → H2, H2 → H3, etc.
             self._restore_body()
-            tokens = self.md.parse(text)
+            tokens = self._strip_first_h1(self.md.parse(text))
             self._render_tokens_demoted(tokens, demote=1)
 
     def generate(self):
@@ -1212,7 +1242,7 @@ class PDFRenderer:
                             align="C", new_x="LMARGIN", new_y="NEXT")
 
         # ---- Table of Contents (starts page iii) ----
-        self._toc_pages = 7
+        self._toc_pages = 8
         self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
 
         # End front matter — body content starts

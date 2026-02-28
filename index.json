@@ -614,6 +614,9 @@
     "CONCLUSIONS.md": {
       "_title": "Conclusions"
     },
+    "CONTENT_REDUCTION_TRACKER.md": {
+      "_title": "Content Reduction Tracker"
+    },
     "IMAGE_GENERATION_PROMPT.md": {
       "_title": "Image Generation Prompt Template"
     },
@@ -626,7 +629,7 @@
     "RESTRUCTURE_PLAN.md": {
       "_title": "Restructure Plan: Unified Decimal-Numbered Content Folder"
     },
-    "_count": 6
+    "_count": 7
   },
   "export": {
     "timeline.pdf": {},
@@ -1145,5 +1148,5 @@
     },
     "_count": 1
   },
-  "_count": 345
+  "_count": 346
 }
