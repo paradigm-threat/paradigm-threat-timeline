@@ -209,7 +209,7 @@ export const planetaryConfigs = [
         yearStart: -3067,
         yearEnd: -2349,
         label: "Non-Linear 'Round Table' — Jupiter Dominates",
-        description: "Jupiter's 'Round Table' configuration. Planets in circular mini-orbit around Sun.",
+        description: "Saturn has fled to the outer solar system. Jupiter, Venus, Mars & Earth orbit an empty barycenter (no planet at center). This rotating circle orbits the Sun. Jupiter eclipses Sun once per orbit.",
         saturn: { glow: 0.3, rings: false, position: [3, 2, 0] },
         venus: { type: "comet", position: [-2, 1, 3], color: "#ffeeaa" },
         mars: { type: "solid", position: [1, 0, -2], color: "#cc3300" },

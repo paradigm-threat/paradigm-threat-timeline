@@ -42,15 +42,25 @@ Record each reduction pass below. One row per editing session.
 | 2026-03-01 | 04.01.00-new-chronology.md | P4: Condense scholar profiles | 2,106 | 1,061 | ~3 | 8 profiles condensed to 2-4 sentences each; kept key Morozov/Fomenko quotes |
 | 2026-03-01 | 08.02.01-castles.md | P3+P4: Cross-ref + trim | 1,979 | 1,019 | ~3 | Castle Stalker→1 para; feature descriptions tightened; Outstanding Questions→1 para |
 | 2026-03-01 | 11.06.00-british-empire.md | P3: Cross-refs added | 1,447 | 1,487 | 0 | Added cross-refs to Latin (09.03.00) and Masons (07.01.01) |
+| 2026-03-01 | 15.01.00-predictive-programming.md | P4: Aggressive trim | 1,956 | 893 | ~4 | Tables→prose; HP/Matrix→1 para; SF/Latin→condensed |
+| 2026-03-01 | 00.03.02-timeline-synchronization.md | P4: Aggressive trim | 1,922 | 592 | ~4 | Date lists→summary; long quotes→paraphrase; kept Jno Cook table |
+| 2026-03-01 | 12.05.00-instant-fossilization.md | P4: Aggressive trim | 1,903 | 579 | ~4 | Merged sections; condensed evidence lists; consolidated See Also |
+| 2026-03-01 | 01.02.01-scalar-energy.md | P4: Aggressive trim | 1,899 | 818 | ~4 | Removed long quotes; merged Hypsithermal+Egg+Nova into timeline |
+| 2026-03-01 | 09.03.02-deep-state-redacts.md | P4: Aggressive trim | 1,861 | 671 | ~4 | Zodiac table→prose; Mo-Zeus/Je-Zeus condensed; suppression→list |
+| 2026-03-01 | 10.03.00-holy-inquisition.md | P4: Aggressive trim | 1,828 | 626 | ~4 | Bacchanalian section condensed; comparison table→4 rows |
+| 2026-03-01 | 01.03.00-all-planets-hollow.md | P4: Aggressive trim | 1,765 | 506 | ~4 | Explorer accounts→bullets; Schonerland→1 para |
+| 2026-03-01 | 02.04.00-the-absu.md | P4: Aggressive trim | 1,722 | 582 | ~4 | Shadow doorway→1 para; Fall sequence→inline list |
+| 2026-03-01 | 10.03.02-cathar-suppression.md | P4: Aggressive trim | 1,712 | 529 | ~4 | Joan of Arc→1 para; What Was Lost→bullets |
 
-**Cumulative savings (this session):** ~10,380 words → ~35 pages estimated
+**Cumulative savings (Options 1-5 batch):** ~10,772 words → ~36 pages estimated
+**Total savings (all sessions):** ~21,152 words → ~71 pages estimated
 
 **Running totals after all reductions:**
 
-| Metric | Baseline | After P1 | After P3+P4 | Target |
-|---|---|---|---|---|
-| Total words | 146,863 | ~139,973 | ~129,593 | ≤ 90,000 |
-| Est. pages (text) | ~490 | ~467 | ~432 | ≤ 300 (text) |
+| Metric | Baseline | After P1 | After P3+P4 | After Options 1-5 | Target |
+|---|---|---|---|---|---|
+| Total words | 146,863 | ~139,973 | ~129,593 | ~118,821 | ≤ 90,000 |
+| Est. pages (text) | ~490 | ~467 | ~432 | ~396 | ≤ 300 (text) |
 
 ---
 

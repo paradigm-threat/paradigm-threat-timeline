@@ -42,7 +42,10 @@
     "2026-02-27-timeline-update.md": {
       "_title": "Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections"
     },
-    "_count": 5
+    "2026-02-28-timeline-update.md": {
+      "_title": "Timeline Update: New Chapters 13\u201315, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module"
+    },
+    "_count": 6
   },
   "content": {
     "00.overview": {
@@ -1181,5 +1184,5 @@
     },
     "_count": 1
   },
-  "_count": 350
+  "_count": 351
 }
