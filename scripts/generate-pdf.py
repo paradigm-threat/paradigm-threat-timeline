@@ -90,6 +90,28 @@ C_CODE_BG = (245, 245, 245)
 C_RULE    = (220, 220, 220)
 
 # ---------------------------------------------------------------------------
+# Roman numerals & tier classifier
+# ---------------------------------------------------------------------------
+_ROMAN = [
+    "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
+    "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
+]
+
+_TIER_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{2})")
+
+def _classify_tier(filename: str):
+    """Return (tier, xx, yy, zz) from an ``XX.YY.ZZ-slug.md`` filename."""
+    m = _TIER_RE.match(filename)
+    if not m:
+        return ("part", "00", "00", "00")
+    xx, yy, zz = m.group(1), m.group(2), m.group(3)
+    if yy == "00" and zz == "00":
+        return ("part", xx, yy, zz)
+    if zz == "00":
+        return ("chapter", xx, yy, zz)
+    return ("subsection", xx, yy, zz)
+
+# ---------------------------------------------------------------------------
 # Font discovery — priority: fonts/ repo dir > system fonts > built-in
 # ---------------------------------------------------------------------------
 _FONT_DIRS = [
@@ -174,9 +196,11 @@ class TimelinePDF(FPDF):
     _sans  = "Helvetica"      # overridden by renderer after font setup
     _serif = "Times"          # overridden by renderer after font setup
     book_title    = "Paradigm Threat: The Third Story"
-    chapter_title = ""         # updated per article
+    part_title    = ""         # updated per Part
+    chapter_title = ""         # updated per Chapter
     _in_front_matter   = True  # suppress headers/numbers during front matter
     _chapter_opener    = False # suppress header on chapter-opening pages
+    _part_opener       = False # suppress header on Part title pages
 
     def __init__(self, **kw):
         super().__init__(**kw)
@@ -203,8 +227,9 @@ class TimelinePDF(FPDF):
         and chapter openers."""
         self._apply_margins()
 
-        if self._in_front_matter or self._chapter_opener:
+        if self._in_front_matter or self._chapter_opener or self._part_opener:
             self._chapter_opener = False
+            self._part_opener = False
             return
 
         pw = self.w - self.l_margin - self.r_margin
@@ -213,10 +238,10 @@ class TimelinePDF(FPDF):
         self.set_text_color(*C_GRAY)
 
         if self.page % 2 == 0:
-            # Verso (even): book title left, page# right (outer)
+            # Verso (even): Part title left, page# right (outer)
             self.set_x(self.l_margin)
-            title = self.book_title.upper()
-            self.cell(pw / 2, 5, self._t_header(title), align="L")
+            title = (self.part_title or self.book_title).upper()
+            self.cell(pw / 2, 5, self._t_header(title[:55]), align="L")
             self.cell(pw / 2, 5, str(self.page_no()), align="R")
         else:
             # Recto (odd): page# left (outer), chapter title right
@@ -309,6 +334,11 @@ class PDFRenderer:
         self._lh = self.BODY_LEADING
         self._para_index = 0
         self._chapter_title = ""
+
+        # Part / Chapter counters
+        self._current_part_xx = None   # XX string of current Part
+        self._chapter_counter = 0      # resets per Part
+        self._current_part_num = 0     # integer for Roman numeral
 
     # ---------------------------------------------------------------
     #  Font bootstrap — prioritise fonts/ dir (EB Garamond, Libre
@@ -896,17 +926,27 @@ class PDFRenderer:
             name  = entry.name
 
             if level == 0:
+                # Part — extra top spacing before each Part
+                if pdf.get_y() > pdf.t_margin + 10:
+                    pdf.ln(3)
                 pdf.set_font(self.SANS, "B", 10.5)
                 pdf.set_text_color(*C_DARK)
                 indent  = 0
                 line_h  = 6.5
                 spacing = 1.5
-            else:
+            elif level == 1:
                 pdf.set_font(self.SERIF, "", 9.5)
                 pdf.set_text_color(*C_H2)
                 indent  = 8
                 line_h  = 5.5
                 spacing = 0.5
+            else:
+                # Sub-section (level 2+)
+                pdf.set_font(self.SERIF, "I", 8.5)
+                pdf.set_text_color(*C_GRAY)
+                indent  = 14
+                line_h  = 5.0
+                spacing = 0.2
 
             if pdf.get_y() + line_h > pdf.h - pdf.b_margin:
                 pdf.add_page()
@@ -961,52 +1001,156 @@ class PDFRenderer:
             pages_used += 1
 
     # ---------------------------------------------------------------
-    #  Article + main entry
+    #  Part title page  (full-page divider with Roman numeral)
+    # ---------------------------------------------------------------
+    def _render_part_title_page(self, part_num: int, title: str):
+        """Insert an ornamental Part title page (always recto)."""
+        self._ensure_recto()
+        self.pdf._part_opener = True
+        self.pdf.add_page()
+
+        roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
+
+        # Vertical centering
+        self.pdf.ln(60)
+
+        # "PART XI" label
+        self.pdf.set_font(self.SANS, "", 13)
+        self.pdf.set_text_color(*C_GRAY)
+        self.pdf.cell(0, 8, self._t(f"PART {roman}"), align="C",
+                      new_x="LMARGIN", new_y="NEXT")
+        self.pdf.ln(4)
+
+        # Ornamental rule
+        y = self.pdf.get_y()
+        mid_l = self.pdf.l_margin + 25
+        mid_r = self.pdf.w - self.pdf.r_margin - 25
+        self.pdf.set_draw_color(*C_GOLD)
+        self.pdf.set_line_width(0.7)
+        self.pdf.line(mid_l, y, mid_r, y)
+        self.pdf.ln(6)
+
+        # Part title
+        self.pdf.set_font(self.SANS, "B", 26)
+        self.pdf.set_text_color(*C_DARK)
+        self.pdf.multi_cell(0, 13, self._t(title), align="C",
+                            new_x="LMARGIN", new_y="NEXT")
+        self.pdf.ln(4)
+
+        # Lower ornamental rule
+        y = self.pdf.get_y()
+        self.pdf.set_draw_color(*C_GOLD)
+        self.pdf.set_line_width(0.7)
+        self.pdf.line(mid_l, y, mid_r, y)
+
+    # ---------------------------------------------------------------
+    #  Heading-demoted token renderer (for sub-sections)
+    # ---------------------------------------------------------------
+    def _render_tokens_demoted(self, tokens: list, demote: int = 1):
+        """Like _render_tokens but demotes heading levels by *demote*."""
+        for tok in tokens:
+            if tok.type == "heading_open" and tok.tag and tok.tag[0] == "h":
+                old_level = int(tok.tag[1])
+                new_level = min(old_level + demote, 6)
+                tok.tag = f"h{new_level}"
+        self._render_tokens(tokens)
+
+    # ---------------------------------------------------------------
+    #  Article + main entry  (3-tier: Part / Chapter / Sub-section)
     # ---------------------------------------------------------------
     def render_article(self, path: Path):
         text = path.read_text("utf-8")
         text = re.sub(r"<[A-Z][A-Za-z0-9]*[^>]*/?>", "", text)    # strip JSX
         text = re.sub(r"</?[A-Z][A-Za-z0-9]*>", "", text)          # strip closing JSX
 
-        # Ensure article starts on recto (odd) page
-        self._ensure_recto()
-        self.pdf._chapter_opener = True
-        self.pdf.add_page()
-
-        # Reset paragraph counter
-        self._para_index = 0
-
-        # Section number from filename  (e.g. "01.020")
-        section_num = ""
-        m = re.match(r"(\d+\.\d+)", path.name)
-        if m:
-            section_num = m.group(1)
-            self.pdf.set_font(self.SANS, "", 7.5)
-            self.pdf.set_text_color(*C_GRAY)
-            self.pdf.cell(0, 4, section_num,
-                          new_x="LMARGIN", new_y="NEXT")
-            self.pdf.ln(1)
-
         # Extract H1 title for the Table of Contents
         h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
         h1_title = h1_match.group(1).strip() if h1_match else path.stem
 
-        # Update running header chapter title
-        self._chapter_title = h1_title
-        self.pdf.chapter_title = h1_title
+        # Classify into Part / Chapter / Sub-section
+        tier, xx, yy, zz = _classify_tier(path.name)
+        part_num = int(xx)
+        roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
 
-        # TOC level: xx.000 chapter headers + 00.xxx intro = level 0; rest = level 1
-        if section_num.endswith(".000") or section_num.startswith("00."):
-            toc_level = 0
+        if tier == "part":
+            # ── PART ──────────────────────────────────────────────
+            self._current_part_xx = xx
+            self._chapter_counter = 0
+            self._current_part_num = part_num
+
+            # Part title page
+            self._render_part_title_page(part_num, h1_title)
+
+            # Update running headers
+            part_label = f"Part {roman} — {h1_title}"
+            self.pdf.part_title = part_label
+            self.pdf.chapter_title = h1_title
+            self._chapter_title = h1_title
+
+            # TOC entry (level 0)
+            toc_label = f"Part {roman}:  {h1_title}"
+            self.pdf.start_section(toc_label, level=0)
+
+            # Render Part body on the next recto page
+            self.pdf._chapter_opener = True
+            self.pdf.add_page()
+            self._para_index = 0
+
+            # Small Part reference label at top
+            self.pdf.set_font(self.SANS, "", 7.5)
+            self.pdf.set_text_color(*C_GRAY)
+            self.pdf.cell(0, 4, f"Part {roman}",
+                          new_x="LMARGIN", new_y="NEXT")
+            self.pdf.ln(1)
+
+            self._restore_body()
+            tokens = self.md.parse(text)
+            self._render_tokens(tokens)
+
+        elif tier == "chapter":
+            # ── CHAPTER ───────────────────────────────────────────
+            self._chapter_counter += 1
+            ch_num = self._chapter_counter
+
+            # Recto opener
+            self._ensure_recto()
+            self.pdf._chapter_opener = True
+            self.pdf.add_page()
+            self._para_index = 0
+
+            # Update running header
+            self.pdf.chapter_title = h1_title
+            self._chapter_title = h1_title
+
+            # Chapter label
+            self.pdf.set_font(self.SANS, "", 7.5)
+            self.pdf.set_text_color(*C_GRAY)
+            self.pdf.cell(0, 4, f"Part {roman}, Chapter {ch_num}",
+                          new_x="LMARGIN", new_y="NEXT")
+            self.pdf.ln(1)
+
+            # TOC entry (level 1)
+            toc_label = f"Chapter {ch_num}:  {h1_title}"
+            self.pdf.start_section(toc_label, level=1)
+
+            self._restore_body()
+            tokens = self.md.parse(text)
+            self._render_tokens(tokens)
+
         else:
-            toc_level = 1
+            # ── SUB-SECTION ───────────────────────────────────────
+            # No page break — continue on the current page
+            self._render_hr()
+            self._para_index = 0
 
-        toc_label = f"{section_num}  {h1_title}" if section_num else h1_title
-        self.pdf.start_section(toc_label, level=toc_level)
+            # TOC entry (level 2)
+            toc_label = h1_title
+            self.pdf.start_section(toc_label, level=2)
 
-        self._restore_body()
-        tokens = self.md.parse(text)
-        self._render_tokens(tokens)
+            # Demote headings: H1 → H2, H2 → H3, etc.
+            self._restore_body()
+            tokens = self.md.parse(text)
+            self._render_tokens_demoted(tokens, demote=1)
 
     def generate(self):
         EXPORT_DIR.mkdir(exist_ok=True)

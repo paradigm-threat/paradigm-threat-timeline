@@ -51,6 +51,28 @@ with open(REPO_DIR / "package.json") as _f:
     PKG_VERSION = json.load(_f)["version"]
 
 # ---------------------------------------------------------------------------
+# Roman numerals & tier classifier (shared with generate-pdf.py logic)
+# ---------------------------------------------------------------------------
+_ROMAN = [
+    "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
+    "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
+]
+
+_NUM_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{2})")
+
+def _classify_tier(filename: str):
+    """Return (tier, xx, yy, zz) from an ``XX.YY.ZZ-slug.md`` filename."""
+    m = _NUM_RE.match(filename)
+    if not m:
+        return ("part", "00", "00", "00")
+    xx, yy, zz = m.group(1), m.group(2), m.group(3)
+    if yy == "00" and zz == "00":
+        return ("part", xx, yy, zz)
+    if zz == "00":
+        return ("chapter", xx, yy, zz)
+    return ("subsection", xx, yy, zz)
+
+# ---------------------------------------------------------------------------
 # Image settings
 # ---------------------------------------------------------------------------
 MAX_IMG_PX    = 1200
@@ -109,55 +131,64 @@ def _add_toc(doc: Document, md_files: list):
     hr.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
     doc.add_paragraph()
 
-    # Pre-build section labels from XX.000-... files
-    section_labels: dict = {}
+    # Pre-build Part labels from XX.00.00-... files
+    part_labels: dict = {}
     for path in md_files:
-        stem = path.stem
-        parts = stem.split('-')[0]   # e.g. "02.000"
-        nums  = parts.split('.')     # ["02", "000"]
-        if len(nums) >= 2 and nums[1] == '000':
-            sec_num = nums[0].lstrip('0') or '0'
-            section_labels[sec_num] = _extract_h1(path)
+        tier, xx, yy, zz = _classify_tier(path.name)
+        if tier == "part":
+            part_labels[xx] = _extract_h1(path)
 
-    # Group entries by section prefix (first two numeric components of filename)
-    current_section = None
+    current_part = None
+    entry_num = 0
     for i, path in enumerate(md_files):
         title = _extract_h1(path)
-        # Derive section label from filename prefix (e.g. "02.080" -> "2.")
-        stem = path.stem  # e.g. "02.080-atlantis-and-..."
-        parts = stem.split('-')[0]  # "02.080"
-        nums  = parts.split('.')    # ["02", "080"]
-        section_prefix = nums[0].lstrip('0') or '0'  # "2"
+        tier, xx, yy, zz = _classify_tier(path.name)
+        part_num = int(xx)
+        roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
 
-        # Render a styled section label when major section changes
-        if section_prefix != current_section:
-            current_section = section_prefix
+        # Part divider label when the Part changes
+        if xx != current_part:
+            current_part = xx
             if i > 0:
-                label_text = section_labels.get(section_prefix, f"Section {section_prefix}")
+                label_text = part_labels.get(xx, f"Part {roman}")
                 divider = doc.add_paragraph()
                 divider.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 divider.paragraph_format.space_before = Pt(8)
                 divider.paragraph_format.space_after  = Pt(4)
-                d_run = divider.add_run(f"—  {label_text}  —")
+                d_run = divider.add_run(f"Part {roman} — {label_text}")
                 d_run.font.size      = Pt(12)
                 d_run.bold           = True
                 d_run.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
 
-        # TOC entry paragraph
+        entry_num += 1
+
+        # TOC entry paragraph — indent chapters and sub-sections
         para = doc.add_paragraph()
-        para.paragraph_format.left_indent  = Cm(0.5)
+        if tier == "part":
+            para.paragraph_format.left_indent = Cm(0)
+        elif tier == "chapter":
+            para.paragraph_format.left_indent = Cm(0.5)
+        else:
+            para.paragraph_format.left_indent = Cm(1.0)
         para.paragraph_format.space_before = Pt(1)
         para.paragraph_format.space_after  = Pt(1)
 
         # Entry number (dim)
-        num_run = para.add_run(f"{i + 1:3d}.  ")
+        num_run = para.add_run(f"{entry_num:3d}.  ")
         num_run.font.size      = Pt(10)
         num_run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
 
-        # Entry title
+        # Entry title — bold for Parts
         title_run = para.add_run(title)
         title_run.font.size = Pt(10)
-        title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+        if tier == "part":
+            title_run.bold = True
+            title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+        elif tier == "subsection":
+            title_run.italic = True
+            title_run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+        else:
+            title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
 
     doc.add_page_break()
 
@@ -169,6 +200,8 @@ class DOCXRenderer:
         self.doc = Document()
         self.md  = MarkdownIt("commonmark", {"typographer": False}).enable("table")
         self._img_cache: dict = {}
+        self._chapter_counter = 0
+        self._current_part_xx = None
         self._setup_styles()
 
     def _setup_styles(self):
@@ -614,14 +647,69 @@ class DOCXRenderer:
                 i += 1
 
     # ---------------------------------------------------------------
-    #  Article entry point
+    #  Heading-demoted token renderer (for sub-sections)
+    # ---------------------------------------------------------------
+    def _render_tokens_demoted(self, tokens, demote: int = 1):
+        """Like _render_tokens but demotes heading levels by *demote*."""
+        for tok in tokens:
+            if tok.type == "heading_open" and tok.tag and tok.tag[0] == "h":
+                old_level = int(tok.tag[1])
+                new_level = min(old_level + demote, 6)
+                tok.tag = f"h{new_level}"
+        self._render_tokens(tokens)
+
+    # ---------------------------------------------------------------
+    #  Article entry point  (3-tier: Part / Chapter / Sub-section)
     # ---------------------------------------------------------------
     def render_article(self, md_path: Path):
         text   = md_path.read_text(encoding="utf-8")
         tokens = self.md.parse(text)
-        self._render_tokens(tokens)
-        # Article separator
-        self.doc.add_paragraph()
+
+        tier, xx, yy, zz = _classify_tier(md_path.name)
+        part_num = int(xx)
+        roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
+
+        # Extract H1 for labelling
+        h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
+        h1_title = h1_match.group(1).strip() if h1_match else md_path.stem
+
+        if tier == "part":
+            # ── PART ──────────────────────────────────────────────
+            self._current_part_xx = xx
+            self._chapter_counter = 0
+
+            # Part title heading
+            h = self.doc.add_paragraph(style="Heading 1")
+            run = h.add_run(f"Part {roman} — {h1_title}")
+            run.bold = True
+
+            self._render_tokens(tokens)
+            self.doc.add_paragraph()
+
+        elif tier == "chapter":
+            # ── CHAPTER ───────────────────────────────────────────
+            self._chapter_counter += 1
+            ch_num = self._chapter_counter
+
+            # Chapter heading
+            h = self.doc.add_paragraph(style="Heading 2")
+            run = h.add_run(f"Chapter {ch_num}: {h1_title}")
+            run.bold = True
+
+            self._render_tokens(tokens)
+            self.doc.add_paragraph()
+
+        else:
+            # ── SUB-SECTION ───────────────────────────────────────
+            # Horizontal rule separator (not a page break)
+            para = self.doc.add_paragraph()
+            para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            r = para.add_run("— ✦ —")
+            r.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+            r.font.size = Pt(12)
+
+            self._render_tokens_demoted(tokens, demote=1)
+            self.doc.add_paragraph()
 
     # ---------------------------------------------------------------
     #  Main driver
@@ -674,9 +762,13 @@ class DOCXRenderer:
         # ---- Articles ----
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")
-            self.render_article(p)
-            if i < n - 1:
+
+            # Page break before article — but NOT before sub-sections
+            tier, xx, yy, zz = _classify_tier(p.name)
+            if i > 0 and tier != "subsection":
                 self.doc.add_page_break()
+
+            self.render_article(p)
 
         print(f"Writing -> {OUTPUT_DOCX}")
         self.doc.save(str(OUTPUT_DOCX))
