@@ -30,7 +30,27 @@ Record each reduction pass below. One row per editing session.
 
 | Date | Chapter / File | Technique | Words before | Words after | Pages saved (est.) | Notes |
 |---|---|---|---|---|---|---|
-| | | | | | | |
+| 2026-02-28 | 15.* (author profiles) | P1: Condense bios to ≤200w | 11,851 | ~4,961 | ~23 | 25 files; done in prior session |
+| 2026-03-01 | 07.01.01-the-masons.md | P3+P4: Cross-ref + trim | 4,452 | 2,377 | ~7 | Hoffman interview condensed; comparison lists→prose; timeline 17→8 entries |
+| 2026-03-01 | 13.03.01-hijacking-of-communism.md | P3+P4: Cross-ref + trim | 3,448 | 1,904 | ~5 | Kinkel biography condensed; Co-opt section→1 para; Biogenetic trimmed |
+| 2026-03-01 | 00.03.01-length-of-a-year.md | P4: Trim verbose sections | 2,806 | 1,730 | ~4 | Electron shells condensed; 6 era sections tightened |
+| 2026-03-01 | 09.03.00-language-of-deep-state.md | P3+P4: Cross-ref + trim | 2,698 | 1,938 | ~3 | Fiction→1 para; Martian Origin tightened; cross-ref British Empire |
+| 2026-03-01 | 07.01.02-giants-of-rus-horde.md | P3+P4: Cross-ref + trim | 2,507 | 1,748 | ~3 | Duplicate image removed; predictive programming condensed; cross-ref Castles |
+| 2026-03-01 | 13.03.00-communisms-soul.md | P3+P4: Cross-ref + trim | 2,285 | 1,398 | ~3 | All Roads condensed; Printing Press→2 para; Demolition Manual→prose; Kinkel bio tightened |
+| 2026-03-01 | 02.07.00-atlantis.md | P4: Trim verbose sections | 2,264 | 1,699 | ~2 | Open Investigation 700w→250w; Denazification merged; Jews section tightened |
+| 2026-03-01 | 00.02.03-challenging-physics.md | P3+P4: Cross-ref + trim | 2,238 | 1,415 | ~3 | Electric Sun cross-ref profile; SAFIRE results→prose; fossil evidence tightened |
+| 2026-03-01 | 04.01.00-new-chronology.md | P4: Condense scholar profiles | 2,106 | 1,061 | ~3 | 8 profiles condensed to 2-4 sentences each; kept key Morozov/Fomenko quotes |
+| 2026-03-01 | 08.02.01-castles.md | P3+P4: Cross-ref + trim | 1,979 | 1,019 | ~3 | Castle Stalker→1 para; feature descriptions tightened; Outstanding Questions→1 para |
+| 2026-03-01 | 11.06.00-british-empire.md | P3: Cross-refs added | 1,447 | 1,487 | 0 | Added cross-refs to Latin (09.03.00) and Masons (07.01.01) |
+
+**Cumulative savings (this session):** ~10,380 words → ~35 pages estimated
+
+**Running totals after all reductions:**
+
+| Metric | Baseline | After P1 | After P3+P4 | Target |
+|---|---|---|---|---|
+| Total words | 146,863 | ~139,973 | ~129,593 | ≤ 90,000 |
+| Est. pages (text) | ~490 | ~467 | ~432 | ≤ 300 (text) |
 
 ---
 
@@ -61,18 +81,18 @@ Record each reduction pass below. One row per editing session.
 
 ## Top 10 Largest Files (reduction candidates)
 
-| Words | File | Priority action |
-|---|---|---|
-| 4,452 | 07.01.01-the-masons.md | Cross-ref with Ch 09/11 Deep State articles |
-| 3,448 | 13.03.01-1883-ce-the-hijacking-of-communism.md | Trim quoted sources; tighten narrative |
-| 2,806 | 00.03.01-the-length-of-a-year-changes.md | Move detailed math to appendix |
-| 2,698 | 09.03.00-language-of-the-deep-state.md | Cross-ref with 07.01.01 Masons |
-| 2,507 | 07.01.02-the-giants-of-the-rus-horde.md | Trim block quotes |
-| 2,285 | 13.03.00-1848-ce-battle-for-communisms-soul.md | Cross-ref with 13.03.01 |
-| 2,264 | 02.07.00-atlantis-and-the-tree-of-knowledge.md | Tighten cosmology preamble |
-| 2,238 | 00.02.03-challenging-established-physics.md | Condense; cross-ref author profiles |
-| 2,106 | 04.01.00-building-the-new-chronology.md | Cross-ref Fomenko profile in Ch 15 |
-| 1,979 | 08.02.01-european-castles-fortresses.md | Reduce repeated evidence lists |
+| Original | Now | File | Status |
+|---|---|---|---|
+| 4,452 | 2,377 | 07.01.01-the-masons.md | **Done** — 47% reduction |
+| 3,448 | 1,904 | 13.03.01-1883-ce-the-hijacking-of-communism.md | **Done** — 45% reduction |
+| 2,806 | 1,730 | 00.03.01-the-length-of-a-year-changes.md | **Done** — 38% reduction |
+| 2,698 | 1,938 | 09.03.00-language-of-the-deep-state.md | **Done** — 28% reduction |
+| 2,507 | 1,748 | 07.01.02-the-giants-of-the-rus-horde.md | **Done** — 30% reduction |
+| 2,285 | 1,398 | 13.03.00-1848-ce-battle-for-communisms-soul.md | **Done** — 39% reduction |
+| 2,264 | 1,699 | 02.07.00-atlantis-and-the-tree-of-knowledge.md | **Done** — 25% reduction |
+| 2,238 | 1,415 | 00.02.03-challenging-established-physics.md | **Done** — 37% reduction |
+| 2,106 | 1,061 | 04.01.00-building-the-new-chronology.md | **Done** — 50% reduction |
+| 1,979 | 1,019 | 08.02.01-european-castles-fortresses.md | **Done** — 49% reduction |
 
 ---
 

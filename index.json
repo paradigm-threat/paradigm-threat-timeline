@@ -2,6 +2,30 @@
   "README.md": {
     "_title": "paradigm-threat-timeline"
   },
+  "animation": {
+    "README.md": {
+      "_title": "Paradigm Threat \u2014 Animation Module"
+    },
+    "data": {
+      "_count": 0
+    },
+    "dist": {
+      "assets": {
+        "_count": 0
+      },
+      "_count": 0
+    },
+    "public": {
+      "_count": 0
+    },
+    "src": {
+      "lib": {
+        "_count": 0
+      },
+      "_count": 0
+    },
+    "_count": 1
+  },
   "blog": {
     "2026-02-22-new-timeline-project.md": {
       "_title": "A Dedicated Timeline for Earth's Hidden History"
@@ -516,91 +540,100 @@
       },
       "_count": 6
     },
-    "15-author-profiles": {
-      "15.00.00-author-profiles.md": {
+    "15.ce-21st-the-final-struggle": {
+      "15.00.00-2000-ce-the-final-struggle.md": {
+        "_title": "21st Century: The Final Struggle"
+      },
+      "15.01.00-predictive-programming-fiction-as-control.md": {
+        "_title": "Predictive Programming: Fiction as Control"
+      },
+      "_count": 2
+    },
+    "16-author-profiles": {
+      "16.00.00-author-profiles.md": {
         "_title": "Author Profiles"
       },
-      "15.01.00-n-a-morozov.md": {
+      "16.01.00-n-a-morozov.md": {
         "_title": "N. A. Morozov"
       },
-      "15.02.00-wal-thornhill.md": {
+      "16.02.00-wal-thornhill.md": {
         "_title": "Wal Thornhill"
       },
-      "15.03.00-ralph-juergens.md": {
+      "16.03.00-ralph-juergens.md": {
         "_title": "Ralph Juergens"
       },
-      "15.04.00-immanuel-velikovsky.md": {
+      "16.04.00-immanuel-velikovsky.md": {
         "_title": "Immanuel Velikovsky (1895\u20131979)"
       },
-      "15.05.00-anatoly-fomenko.md": {
+      "16.05.00-anatoly-fomenko.md": {
         "_title": "Anatoly Fomenko (b. 1945)"
       },
-      "15.06.00-david-talbott.md": {
+      "16.06.00-david-talbott.md": {
         "_title": "David Talbott (b. 1942)"
       },
-      "15.07.00-anthony-peratt.md": {
+      "16.07.00-anthony-peratt.md": {
         "_title": "Anthony Peratt (b. 1940)"
       },
-      "15.08.00-jno-cook.md": {
+      "16.08.00-jno-cook.md": {
         "_title": "Jno Cook"
       },
-      "15.09.00-alfred-de-grazia.md": {
+      "16.09.00-alfred-de-grazia.md": {
         "_title": "Alfred de Grazia (1919\u20132014)"
       },
-      "15.10.00-donald-scott.md": {
+      "16.10.00-donald-scott.md": {
         "_title": "Donald Scott"
       },
-      "15.11.00-ev-cochrane.md": {
+      "16.11.00-ev-cochrane.md": {
         "_title": "Ev Cochrane (b. 1952)"
       },
-      "15.12.00-de-santillana-von-dechend.md": {
+      "16.12.00-de-santillana-von-dechend.md": {
         "_title": "Giorgio de Santillana & Hertha von Dechend"
       },
-      "15.13.00-heribert-illig.md": {
+      "16.13.00-heribert-illig.md": {
         "_title": "Heribert Illig (b. 1947)"
       },
-      "15.14.00-gunnar-heinsohn.md": {
+      "16.14.00-gunnar-heinsohn.md": {
         "_title": "Gunnar Heinsohn (b. 1943)"
       },
-      "15.15.00-dwardu-cardona.md": {
+      "16.15.00-dwardu-cardona.md": {
         "_title": "Dwardu Cardona (1937\u20132018)"
       },
-      "15.16.00-clube-napier.md": {
+      "16.16.00-clube-napier.md": {
         "_title": "Victor Clube & Bill Napier"
       },
-      "15.17.00-livio-stecchini.md": {
+      "16.17.00-livio-stecchini.md": {
         "_title": "Livio Stecchini (1913\u20131979)"
       },
-      "15.18.00-rose-vaughan.md": {
+      "16.18.00-rose-vaughan.md": {
         "_title": "Lynn Rose & Raymond Vaughan"
       },
-      "15.19.00-tom-van-flandern.md": {
+      "16.19.00-tom-van-flandern.md": {
         "_title": "Tom Van Flandern (1940\u20132009)"
       },
-      "15.20.00-martinus-van-der-sluijs.md": {
+      "16.20.00-martinus-van-der-sluijs.md": {
         "_title": "Martinus van der Sluijs"
       },
-      "15.21.00-charles-ginenthal.md": {
+      "16.21.00-charles-ginenthal.md": {
         "_title": "Charles Ginenthal"
       },
-      "15.22.00-robert-schoch.md": {
+      "16.22.00-robert-schoch.md": {
         "_title": "Robert Schoch (b. 1959)"
       },
-      "15.23.00-graham-hancock.md": {
+      "16.23.00-graham-hancock.md": {
         "_title": "Graham Hancock (b. 1950)"
       },
-      "15.24.00-michael-cremo.md": {
+      "16.24.00-michael-cremo.md": {
         "_title": "Michael Cremo (b. 1948)"
       },
       "_count": 25
     },
-    "16-credits": {
-      "16.00.00-credits.md": {
+    "17-credits": {
+      "17.00.00-credits.md": {
         "_title": "Credits"
       },
       "_count": 1
     },
-    "_count": 176
+    "_count": 178
   },
   "data": {
     "events.json": {},
@@ -610,6 +643,9 @@
   "docs": {
     "AGENT_INSTRUCTIONS.md": {
       "_title": "Agent Instructions for paradigm-threat-timeline"
+    },
+    "ANIMATION_TRACKER.md": {
+      "_title": "Animation Tracker"
     },
     "CONCLUSIONS.md": {
       "_title": "Conclusions"
@@ -629,7 +665,7 @@
     "RESTRUCTURE_PLAN.md": {
       "_title": "Restructure Plan: Unified Decimal-Numbered Content Folder"
     },
-    "_count": 7
+    "_count": 8
   },
   "export": {
     "timeline.pdf": {},
@@ -718,13 +754,16 @@
       "hollow_earth_EU_model.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAwABUB8JYwAAxeeAbaAAP7tnv1zkItQ33w4A0GUBlh2nZix6JY1006M4NWTrAA="
       },
+      "peratt_characteristics_pt_1.pdf": {},
+      "perattetal_characteristics_pt_2.pdf": {},
+      "perattyaoaurora-prehistory.pdf": {},
       "scalar-energy-as-the-basis-of-creation.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdADDP4O8AAD+3PInPYBihcqQmq3K6NZ8AMxhouSks/VuNdzeb0XYKYswRrMeJaPVAAA="
       },
       "spawning-first-life-forms.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JbACdADwYDybYAAA/jLIZO/JG8o6gEsyms7Q9QmGLCqUm3REuxRvjL4G+DzGvxn6tIKYAAA="
       },
-      "_count": 7
+      "_count": 10
     },
     "02.the-golden-age": {
       "atlantis_first_jerusalem.png": {
@@ -1073,7 +1112,7 @@
     },
     "13.ce-19th-rise-of-communism": {
       "gottfried-kinkel-escape.png": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JagCdAD1/ysSDAAA9ETScv5SDCxPodE5gzX8PftOagIAh4JunJOmg59hhORheyHCQAAA"
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZgCdAD6DyXI3sAAyvHeaWYtNXC74FJphNB2RW5xfH6vGjlFxLSLwwCr8acmnAAAAA=="
       },
       "gottfried-kinkel.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoLABAABUB8JZgCdADw2wQU5cFAAAD9mTDogXNRNn+nv4unFSLH1xxGdXr4t8/GU1/hRe5aKwJW0vsEAAA="
@@ -1089,7 +1128,10 @@
       },
       "_count": 5
     },
-    "15-author-profiles": {
+    "15.ce-21st-the-final-struggle": {
+      "_count": 0
+    },
+    "16-author-profiles": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAAsABUB8JZACdAELjrLefLvOIAD9mhcW9DkG+rwcIts42tDwlHXmu0R3He7JuoJB5FEad6wVygAA"
       },
@@ -1131,12 +1173,6 @@
       },
       "_count": 13
     },
-    "peratt": {
-      "peratt_characteristics_pt_1.pdf": {},
-      "perattetal_characteristics_pt_2.pdf": {},
-      "perattyaoaurora-prehistory.pdf": {},
-      "_count": 3
-    },
     "_count": 148
   },
   "prompt": {
@@ -1145,5 +1181,5 @@
     },
     "_count": 1
   },
-  "_count": 346
+  "_count": 350
 }
