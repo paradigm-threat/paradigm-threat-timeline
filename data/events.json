@@ -1255,67 +1255,74 @@
       ]
     },
     {
-      "id": "evt-17th-century-romanovs-rise-to-power",
-      "title": "17th Century-Romanovs Rise to power",
+      "id": "evt-17th-century-from-empire-to-invisible-government",
+      "title": "17th Century: From Empire to Invisible Government",
       "type": "event",
-      "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.00.00-1600-ce-17th-century-romanovs-rise-to-power.md",
+      "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.00.00-1600-ce-17th-century-from-empire-to-invisible-government.md",
       "children": [
         {
-          "id": "evt-king-james-version-of-the-bible-is-published",
-          "title": "King James version of the Bible is published",
+          "id": "evt-romanov-seizure-and-fracturing-of-the-empire",
+          "title": "The Romanov Seizure and Fracturing of the Empire (1611-1627)",
           "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.00-1611-ce-king-james-version-of-the-bible-is-published.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1611,
-              "end": 1611,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-romanovs-zakharyin-yurievs-dynasty-takes-the-thron",
-          "title": "Romanovs-Zakharyin-Yurievs Dynasty takes the throne",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.00-1613-ce-romanovs-dynasty-takes-the-throne.md",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.00-1611-ce-the-romanov-seizure-and-fracturing-of-the-empire.md",
           "children": [
+            {
+              "id": "evt-king-james-version-of-the-bible-is-published",
+              "title": "King James version of the Bible is published",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.01-1611-ce-king-james-version-of-the-bible-is-published.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1611,
+                  "end": 1611,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-romanovs-zakharyin-yurievs-dynasty-takes-the-thron",
+              "title": "Romanovs-Zakharyin-Yurievs Dynasty takes the throne",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.02-1613-ce-romanovs-dynasty-takes-the-throne.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1613,
+                  "end": 1613,
+                  "calendar": "CE"
+                }
+              ]
+            },
             {
               "id": "evt-deep-state-breaks-up-the-hordian-empire",
               "title": "Deep State breaks up the Hordian Empire",
               "type": "article",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.01-deep-state-breaks-up-the-hordian-empire.md",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.03-deep-state-breaks-up-the-hordian-empire.md",
               "children": [],
               "media": [
                 "/media/11.ce-17th-romanovs-rise-to-power/eight_pointed_star_and_crescent.jpg"
               ]
             },
             {
-              "id": "evt-russia-and-turkey-begin-300-years-of-war",
-              "title": "Russia and Turkey begin 300 years of war",
+              "id": "evt-deep-state-erases-russian-empire-from-all-chronolo",
+              "title": "Deep State erases Russian Empire from all chronology",
               "type": "event",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.02-300-ce-russia-and-turkey-begin-300-years-of-war.md",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.04-1627-ce-deep-state-erases-russian-empire-from-all-chronology.md",
               "children": [],
               "dates": [
                 {
-                  "start": 300,
-                  "end": 300,
+                  "start": 1627,
+                  "end": 1627,
                   "calendar": "CE"
                 }
               ]
             },
             {
-              "id": "evt-cathars-are-annihilated-in-a-reversed-holy-crusade",
-              "title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition",
-              "type": "article",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.03-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md",
-              "children": []
-            },
-            {
               "id": "evt-shakespeare-encodes-the-horde",
               "title": "Shakespeare Encodes the Great Empire",
               "type": "article",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.04-shakespeare-encodes-the-horde.md",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.05-shakespeare-encodes-the-horde.md",
               "children": [],
               "dates": [
                 {
@@ -1333,272 +1340,390 @@
           ],
           "dates": [
             {
-              "start": 1613,
-              "end": 1613,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-deep-state-erases-russian-empire-from-all-chronolo",
-          "title": "Deep State erases Russian Empire from all chronology",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.00-1627-ce-deep-state-erases-russian-empire-from-all-chronology.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1627,
+              "start": 1611,
               "end": 1627,
               "calendar": "CE"
             }
           ]
         },
         {
-          "id": "evt-disputes-against-jews-reemerge",
-          "title": "Disputes against Jews reemerge",
+          "id": "evt-resistance-and-religious-wars",
+          "title": "Resistance and Religious Wars (1618-1660)",
           "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.00-1633-ce-disputes-against-jews-reemerge.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1633,
-              "end": 1633,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-ce-the-english-revolution-and-civil-wars",
-          "title": "C.E. The English Revolution and Civil Wars",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.05.00-1660-ce-the-english-revolution-and-civil-wars.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1660,
-              "end": 1660,
-              "calendar": "CE"
-            }
-          ],
-          "media": [
-            "/media/11.ce-17th-romanovs-rise-to-power/1652_massacre_of_polish_captives_at_batih.jpg"
-          ]
-        },
-        {
-          "id": "evt-cossackpolish-war-begins-ethnic-cleansing-of-russi",
-          "title": "Cossack–Polish War begins ethnic cleansing of Russians in Ukraine",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.06.00-1648-ce-cossackpolish-war-ethnic-cleansing-of-russians-in-ukraine.md",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.00-1618-ce-resistance-and-religious-wars.md",
           "children": [
             {
-              "id": "evt-jesuits-missions-convert-asians-to-buddhism",
-              "title": "Jesuits Missions convert Asians to Buddhism",
+              "id": "evt-cathars-are-annihilated-in-a-reversed-holy-crusade",
+              "title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition",
               "type": "article",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.06.01-jesuits-missions-convert-asians-to-buddhism.md",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.01-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md",
               "children": []
-            }
-          ],
-          "dates": [
+            },
             {
-              "start": 1648,
-              "end": 1648,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-ce-deep-state-targets-independent-banks",
-          "title": "C.E. Deep State targets independent banks",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.07.00-1672-ce-deep-state-targets-independent-banks.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1672,
-              "end": 1672,
-              "calendar": "CE"
-            }
-          ],
-          "media": [
-            "/media/11.ce-17th-romanovs-rise-to-power/fomenko_timeline_1633_1725.gif"
-          ]
-        },
-        {
-          "id": "evt-ce-rex-bellator-plan-unifies-all-military-orders",
-          "title": "C.E. Rex Bellator plan unifies all military orders",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.08.00-1679-ce-rex-bellator-plan-unifies-all-military-orders.md",
-          "children": [
-            {
-              "id": "evt-deep-state-plans-a-second-apocalypse-in-the-year-6",
-              "title": "Deep State plans a second Apocalypse in the year ι666",
-              "type": "article",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.08.01-deep-state-plans-a-second-apocalypse-in-the-year-666.md",
+              "id": "evt-great-fight-in-the-heart-of-western-europe",
+              "title": "Great fight in the heart of Western Europe",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.02-1618-ce-great-fight-in-the-heart-of-western-europe.md",
               "children": [],
+              "dates": [
+                {
+                  "start": 1618,
+                  "end": 1648,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-ce-the-english-revolution-and-civil-wars",
+              "title": "The English Revolution and Civil Wars",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.03-1642-ce-the-english-revolution-and-civil-wars.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1642,
+                  "end": 1660,
+                  "calendar": "CE"
+                }
+              ],
               "media": [
-                "/media/11.ce-17th-romanovs-rise-to-power/great_comet_of_1665.jpg"
+                "/media/11.ce-17th-romanovs-rise-to-power/1652_massacre_of_polish_captives_at_batih.jpg"
+              ]
+            },
+            {
+              "id": "evt-cossackpolish-war-begins-ethnic-cleansing-of-russi",
+              "title": "Cossack–Polish War begins ethnic cleansing of Russians in Ukraine",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.04-1648-ce-cossackpolish-war-ethnic-cleansing-of-russians-in-ukraine.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1648,
+                  "end": 1648,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-russia-and-turkey-begin-300-years-of-war",
+              "title": "Russia and Turkey begin 300 years of war",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.05-russia-and-turkey-begin-300-years-of-war.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1600,
+                  "end": 1900,
+                  "calendar": "CE",
+                  "note": "300-year span of intermittent Russo-Turkish wars"
+                }
               ]
             }
           ],
           "dates": [
             {
-              "start": 1679,
-              "end": 1679,
+              "start": 1618,
+              "end": 1660,
               "calendar": "CE"
             }
           ]
         },
         {
-          "id": "evt-the-great-comet-of-1664-1665",
-          "title": "The Great Comet of 1664 / 1665",
+          "id": "evt-marfull-framework-mediterranean-realignment",
+          "title": "The Marfull Framework: Mediterranean Realignment",
+          "type": "article",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.00-the-marfull-framework-mediterranean-realignment.md",
+          "children": [
+            {
+              "id": "evt-disputes-against-jews-reemerge",
+              "title": "Disputes against Jews reemerge",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.01-1633-ce-disputes-against-jews-reemerge.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1633,
+                  "end": 1633,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-fall-of-the-avignon-powers",
+              "title": "Fall of the Avignon powers",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-1651-ce-fall-of-the-avignon-powers.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1651,
+                  "end": 1672,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-byzantine-and-catalan-alliance",
+              "title": "Byzantine and Catalan alliance",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.03-1666-ce-byzantine-and-catalan-alliance.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1666,
+                  "end": 1675,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-messianic-jewish-begins",
+              "title": "Messianic Jewish begins",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.04-1670-ce-messianic-jewish-begins.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1670,
+                  "end": 1670,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-disputes-against-jews-end-lasting-46-years",
+              "title": "Disputes against Jews end lasting 46 years",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.05-1673-ce-disputes-against-jews-end-lasting-46-years.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1673,
+                  "end": 1679,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-the-order-of-the-temple-of-solomon-is-dismantled",
+              "title": "The Order of the Temple of Solomon is dismantled",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.06-1677-ce-the-order-of-the-temple-of-solomon-is-dismantled.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1677,
+                  "end": 1682,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-ce-rex-bellator-plan-unifies-all-military-orders",
+              "title": "Rex Bellator plan unifies all military orders",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.07-1679-ce-rex-bellator-plan-unifies-all-military-orders.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1679,
+                  "end": 1679,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-the-almogavars-conquer-athens-and-neopatria",
+              "title": "The almogavars conquer Athens and Neopatria",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.08-1681-ce-the-almogavars-conquer-athens-and-neopatria.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1681,
+                  "end": 1689,
+                  "calendar": "CE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "evt-london-1664-1694-the-financial-coup",
+          "title": "London 1664-1694: The Financial Coup",
           "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.09.00-1664-ce-the-great-comet-of-1664-1665.md",
-          "children": [],
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.00-1664-ce-london-1664-1694-the-financial-coup.md",
+          "children": [
+            {
+              "id": "evt-the-apocalypse-prophecy-of-1666",
+              "title": "The Apocalypse Prophecy of 1666",
+              "type": "article",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.01-1666-ce-the-apocalypse-prophecy-of-1666.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1660,
+                  "end": 1666,
+                  "calendar": "CE",
+                  "note": "Period of apocalyptic expectation and fulfillment leading to the Great Fire"
+                }
+              ],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/great_comet_of_1665.jpg"
+              ]
+            },
+            {
+              "id": "evt-the-great-comet-of-1664-1665",
+              "title": "The Great Comet of 1664 / 1665",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-1664-ce-the-great-comet-of-1664-1665.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1664,
+                  "end": 1665,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-the-great-plague-of-1664-1666",
+              "title": "The Great Plague of 1664-1666",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.03-1664-ce-the-great-plague-of-1664-1666.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1664,
+                  "end": 1666,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-sept-6-1666-ce-london-burns-to-the-ground",
+              "title": "London Burns to the Ground (Sept 2-6, 1666)",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.04-1666-ce-london-burns-to-the-ground.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1666,
+                  "end": 1666,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-goldsmiths-and-the-death-of-independent-valuation",
+              "title": "The Goldsmiths and the Death of Independent Valuation",
+              "type": "article",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.05-the-goldsmiths-and-the-death-of-independent-valuation.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1660,
+                  "end": 1694,
+                  "calendar": "CE",
+                  "note": "Period from Restoration to Bank of England founding"
+                }
+              ]
+            },
+            {
+              "id": "evt-dutch-burn-the-english-fleet",
+              "title": "The Dutch Burn the English Fleet (1667)",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.06-1667-ce-the-dutch-burn-the-english-fleet.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1667,
+                  "end": 1667,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-the-cabal-englands-shadow-cabinet",
+              "title": "The Cabal: England's Shadow Cabinet (1668-1674)",
+              "type": "article",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.07-1668-ce-the-cabal-englands-shadow-cabinet.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1668,
+                  "end": 1674,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-ce-deep-state-targets-independent-banks",
+              "title": "Deep State targets independent banks",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.08-1672-ce-deep-state-targets-independent-banks.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1672,
+                  "end": 1672,
+                  "calendar": "CE"
+                }
+              ],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/fomenko_timeline_1633_1725.gif"
+              ]
+            },
+            {
+              "id": "evt-deep-state-solidifies-central-banking",
+              "title": "Deep State solidifies central banking",
+              "type": "event",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.09-1694-ce-deep-state-solidifies-central-banking.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1694,
+                  "end": 1694,
+                  "calendar": "CE"
+                }
+              ]
+            }
+          ],
           "dates": [
             {
               "start": 1664,
-              "end": 1664,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-the-great-plague-of-1665",
-          "title": "The Great Plague of 1665",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.10.00-1665-ce-the-great-plague-of-1665.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1665,
-              "end": 1665,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-sept-6-1666-ce-london-burns-to-the-ground",
-          "title": "Sept 6, 1666 C.E. London Burns to the ground",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.11.00-1666-ce-london-burns-to-the-ground.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1666,
-              "end": 1666,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-byzantine-and-catalan-alliance",
-          "title": "Byzantine and Catalan alliance",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.12.00-1666-ce-byzantine-and-catalan-alliance.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1666,
-              "end": 1675,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-fall-of-the-avignon-powers",
-          "title": "Fall of the Avignon powers",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.13.00-1651-ce-fall-of-the-avignon-powers.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1651,
-              "end": 1672,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-disputes-against-jews-end-lasting-46-years",
-          "title": "Disputes against Jews end lasting 46 years",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.14.00-1673-ce-disputes-against-jews-end-lasting-46-years.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1673,
-              "end": 1679,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-messianic-jewish-begins",
-          "title": "Messianic Jewish begins",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.15.00-1670-ce-messianic-jewish-begins.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1670,
-              "end": 1670,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-the-order-of-the-temple-of-solomon-is-dismantled",
-          "title": "The Order of the Temple of Solomon is dismantled",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.16.00-1677-ce-the-order-of-the-temple-of-solomon-is-dismantled.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1677,
-              "end": 1682,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-the-almogavars-conquer-athens-and-neopatria",
-          "title": "The almogavars conquer Athens and Neopatria",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.17.00-1681-ce-the-almogavars-conquer-athens-and-neopatria.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1681,
-              "end": 1689,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-great-fight-in-the-heart-of-western-europe",
-          "title": "Great fight in the heart of Western Europe",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.18.00-1677-ce-great-fight-in-the-heart-of-western-europe.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1677,
-              "end": 1715,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-deep-state-solidifies-central-banking",
-          "title": "Deep State solidifies central banking",
-          "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.19.00-1694-ce-deep-state-solidifies-central-banking.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1694,
               "end": 1694,
               "calendar": "CE"
+            }
+          ]
+        },
+        {
+          "id": "evt-jesuit-global-operations-17th-century",
+          "title": "Jesuit Global Operations in the 17th Century",
+          "type": "article",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.05.00-jesuit-global-operations-in-the-17th-century.md",
+          "children": [
+            {
+              "id": "evt-jesuits-missions-convert-asians-to-buddhism",
+              "title": "Jesuits Missions convert Asians to Buddhism",
+              "type": "article",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.05.01-jesuits-missions-convert-asians-to-buddhism.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "evt-british-empire-as-deep-state-instrument",
+          "title": "The British Empire as Deep State Instrument (1583-1997)",
+          "type": "article",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.06.00-1583-ce-the-british-empire-as-deep-state-instrument.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1583,
+              "end": 1997,
+              "calendar": "CE",
+              "note": "First colonial charter to Hong Kong handover"
             }
           ]
         }
@@ -1772,11 +1897,40 @@
           ]
         },
         {
-          "id": "evt-karl-marx-the-manufactured-prophet",
-          "title": "Karl Marx: The Manufactured Prophet",
+          "id": "evt-the-battle-for-communisms-soul",
+          "title": "The Battle for Communism's Soul: Marx vs. Kinkel and the Road Not Taken",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1848-ce-karl-marx-the-manufactured-prophet.md",
-          "children": [],
+          "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1848-ce-the-battle-for-communisms-soul.md",
+          "media": [
+            {
+              "type": "image",
+              "path": "media/13.ce-19th-rise-of-communism/marx-vs-kinkel.png",
+              "caption": "Marx vs. Kinkel"
+            }
+          ],
+          "children": [
+            {
+              "id": "evt-hijacking-of-communism",
+              "title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
+              "type": "article",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.03.01-1883-ce-the-hijacking-of-communism.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1883,
+                  "end": 1945,
+                  "calendar": "CE"
+                }
+              ],
+              "media": [
+                {
+                  "type": "image",
+                  "path": "media/13.ce-19th-rise-of-communism/ivan-kinkel.png",
+                  "caption": "Ivan Germanovich Kinkel (1883–1945)"
+                }
+              ]
+            }
+          ],
           "dates": [
             {
               "start": 1848,
@@ -1786,24 +1940,10 @@
           ]
         },
         {
-          "id": "evt-suppression-of-independent-thought",
-          "title": "The Suppression of Independent Economic Thought",
-          "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-1840-ce-the-suppression-of-independent-thought.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1840,
-              "end": 1945,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
           "id": "evt-assault-on-hordian-memory",
           "title": "The 19th Century Assault on Hordian Memory",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-1860-ce-the-assault-on-hordian-memory.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-1860-ce-the-assault-on-hordian-memory.md",
           "children": [],
           "dates": [
             {
@@ -1811,6 +1951,26 @@
               "end": 1917,
               "calendar": "CE"
             }
+          ]
+        },
+        {
+          "id": "evt-jesuit-restoration-missionary-military-pattern",
+          "title": "The Jesuit Restoration and the Missionary-Military Pattern",
+          "type": "article",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1814,
+              "end": 1900,
+              "calendar": "CE"
+            }
+          ],
+          "related_events": [
+            "evt-jesuits-convert-native-religions-to-monotheism",
+            "evt-jesuits-make-pilgrimage-to-palestine",
+            "evt-jesuits-missions-convert-asians-to-buddhism",
+            "evt-secret-society-of-jesus-goes-public"
           ]
         }
       ],
@@ -1845,27 +2005,6 @@
                   "start": 1917,
                   "end": 1945,
                   "calendar": "CE"
-                }
-              ]
-            },
-            {
-              "id": "evt-hijacking-of-communism",
-              "title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
-              "type": "article",
-              "md_path": "content/14.ce-20th-the-1917-revolution/14.01.02-1921-ce-the-hijacking-of-communism.md",
-              "children": [],
-              "dates": [
-                {
-                  "start": 1883,
-                  "end": 1945,
-                  "calendar": "CE"
-                }
-              ],
-              "media": [
-                {
-                  "type": "image",
-                  "path": "media/14.ce-20th-the-1917-revolution/ivan-kinkel.png",
-                  "caption": "Ivan Germanovich Kinkel (1883–1945)"
                 }
               ]
             }
@@ -1904,6 +2043,25 @@
               "end": 1991,
               "calendar": "CE"
             }
+          ]
+        },
+        {
+          "id": "evt-from-missionaries-to-corporations",
+          "title": "From Missionaries to Corporations: The 20th Century Succession",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.04.00-1900-ce-from-missionaries-to-corporations.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1900,
+              "end": 1991,
+              "calendar": "CE"
+            }
+          ],
+          "related_events": [
+            "evt-jesuit-restoration-missionary-military-pattern",
+            "evt-jesuits-convert-native-religions-to-monotheism",
+            "evt-secret-society-of-jesus-goes-public"
           ]
         }
       ],
