@@ -14,9 +14,9 @@ export { createPlanetController } from './lib/planetController.js';
 
 // Data (events, phases, planetary configs)
 export {
-  timelineEvents,
-  empirePhases,
-  planetaryConfigs,
+    timelineEvents,
+    empirePhases,
+    planetaryConfigs,
 } from '../data/events.js';
 
 // Utilities

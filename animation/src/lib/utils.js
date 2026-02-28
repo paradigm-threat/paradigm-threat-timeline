@@ -5,8 +5,8 @@
 
 /** Format a year number as "YYYY BCE" or "YYYY CE" */
 export function formatYear(year) {
-  if (year < 0) return `${Math.abs(year)} BCE`;
-  return `${year} CE`;
+    if (year < 0) return `${Math.abs(year)} BCE`;
+    return `${year} CE`;
 }
 
 /**
@@ -17,25 +17,25 @@ export function formatYear(year) {
  * @param {number} [radius=25]
  */
 export function getNearbyEvents(events, year, mode, radius = 25) {
-  return events
-    .filter(e => {
-      if (mode === 'map') return e.type === 'map';
-      return e.type === 'planetary' || e.type === 'blip';
-    })
-    .filter(e => Math.abs(e.year - year) <= radius)
-    .sort((a, b) => a.year - b.year);
+    return events
+        .filter(e => {
+            if (mode === 'map') return e.type === 'map';
+            return e.type === 'planetary' || e.type === 'blip';
+        })
+        .filter(e => Math.abs(e.year - year) <= radius)
+        .sort((a, b) => a.year - b.year);
 }
 
 /**
  * Linear interpolation.
  */
 export function lerp(a, b, t) {
-  return a + (b - a) * Math.min(1, Math.max(0, t));
+    return a + (b - a) * Math.min(1, Math.max(0, t));
 }
 
 /**
  * Clamp value between min and max.
  */
 export function clamp(value, min, max) {
-  return Math.max(min, Math.min(max, value));
+    return Math.max(min, Math.min(max, value));
 }

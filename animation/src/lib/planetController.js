@@ -1,16 +1,15 @@
 /**
  * Framework-agnostic Three.js planetary scene controller.
- * Accepts a canvas element — no hardcoded DOM ids.
  *
  * Features:
  *  - Sun always visible as central reference
  *  - Venus = GREEN, Saturn = ORANGE
- *  - Text label sprites per planet
- *  - Three orbital styles with animated motion:
- *      Collinear (Golden Age): stack orbits Sun as a group
- *      Round Table (Jupiter era): tilted ellipses around Jupiter
- *      Modern (stabilization+): concentric orbits around Sun
+ *  - Full collinear column: Uranus → Neptune → Mercury → Earth → Mars → Venus → Saturn → Jupiter → Sun
+ *    The column always POINTS TOWARD the Sun and orbits around it as a rigid unit
+ *    Uranus is always furthest from the Sun
+ *  - Three orbital styles with animated motion
  *  - Moon appears at -3147 (Earth capture) with rapid decaying orbit
+ *  - Mercury, Neptune, Uranus added as column members
  *  - Orbit counting per planet per era
  */
 import { planetaryConfigs } from '../../data/events.js';
@@ -20,45 +19,59 @@ let THREE = null;
 const MOON_CAPTURE_YEAR = -3147;
 const MOON_ORBIT_RADIUS = 0.8;
 
-/* ── Collinear config ──
- * Entire vertical stack orbits Sun at radius R.
- * dy = height offset within stack. wr/wp = wobble radius/period.
+/* ── Collinear column config ──
+ * The column orbits Sun at radius R in the XZ plane.
+ * The column axis points radially inward (toward Sun).
+ * 'dist' = distance along the column axis from the Sun.
+ *   Larger dist = further from Sun.
+ *
+ * Order toward Sun:  Uranus → Neptune → Mercury → Earth → Mars → Venus → Saturn → Jupiter → [Sun]
  */
 const COL = {
-  R: 8,
+  R: 10, // orbital radius of column center around Sun
   period: 1.0,
-  saturn: { dy: 5,   wr: 0,    wp: Infinity },
-  venus:  { dy: 3,   wr: 0.3,  wp: 0.615 },
-  mars:   { dy: 1.5, wr: 0.2,  wp: 1.88 },
-  earth:  { dy: 0,   wr: 0.15, wp: 1.0 },
+  // dist: distance from Sun along column axis (Jupiter closest, Uranus furthest)
+  jupiter: { dist: 1.5 },
+  saturn:  { dist: 3.5 },
+  venus:   { dist: 5.5 },
+  mars:    { dist: 7.0 },
+  earth:   { dist: 8.5 },
+  mercury: { dist: 10.0 },
+  neptune: { dist: 11.5 },
+  uranus:  { dist: 13.0 },
 };
 
 /* ── Round Table config ──
  * Tilted ellipses around Jupiter (at origin). Sun visible off to side.
  */
 const RT = {
-  sunPos: [-8, -3, 0],
-  saturn: { rx: 5.0, ry: 3.5, tilt: 0.2,  period: 10 },
-  venus:  { rx: 3.5, ry: 2.0, tilt: 0.5,  period: 0.615 },
-  mars:   { rx: 3.0, ry: 2.5, tilt: -0.3, period: 1.88 },
-  earth:  { rx: 2.2, ry: 1.5, tilt: -0.1, period: 1.0 },
+  sunPos: [-10, -3, 0],
+  saturn:  { rx: 5.0, ry: 3.5, tilt: 0.2,  period: 10 },
+  venus:   { rx: 3.5, ry: 2.0, tilt: 0.5,  period: 0.615 },
+  mars:    { rx: 3.0, ry: 2.5, tilt: -0.3, period: 1.88 },
+  earth:   { rx: 2.2, ry: 1.5, tilt: -0.1, period: 1.0 },
+  mercury: { rx: 1.0, ry: 0.8, tilt: 0.4,  period: 0.24 },
+  neptune: { rx: 6.5, ry: 4.0, tilt: -0.2, period: 164 },
+  uranus:  { rx: 6.0, ry: 3.8, tilt: 0.6,  period: 84 },
 };
 
 /* ── Modern config ──
  * Standard concentric XZ-plane circles around Sun at origin.
  */
 const MOD = {
+  mercury: { r: 2.0,  period: 0.24 },
   venus:   { r: 3.5,  period: 0.615 },
   earth:   { r: 5.0,  period: 1.0 },
   mars:    { r: 7.0,  period: 1.88 },
   jupiter: { r: 10.0, period: 11.86 },
   saturn:  { r: 13.0, period: 29.46 },
+  uranus:  { r: 16.0, period: 84 },
+  neptune: { r: 19.0, period: 164 },
 };
 
 /**
  * Create and return a PlanetController bound to the given canvas.
  * @param {HTMLCanvasElement} canvas
- * @returns {Promise<{setYear:Function, getPhaseInfo:Function, getOrbitInfo:Function, destroy:Function}>}
  */
 export async function createPlanetController(canvas) {
   if (!THREE) THREE = await import('three');
@@ -78,7 +91,7 @@ export async function createPlanetController(canvas) {
 
   // ── Lighting ──
   scene.add(new THREE.AmbientLight(0x8899bb, 1.4));
-  const sunLight = new THREE.PointLight(0xffffcc, 3.0, 100);
+  const sunLight = new THREE.PointLight(0xffffcc, 3.0, 120);
   sunLight.position.set(0, 0, 0);
   scene.add(sunLight);
   const fillLight = new THREE.DirectionalLight(0xaabbcc, 0.6);
@@ -86,13 +99,16 @@ export async function createPlanetController(canvas) {
   scene.add(fillLight);
 
   // ── Build scene objects ──
-  const p = {}; // planet meshes
+  const p = {};
   buildSun(scene, p, THREE);
   buildSaturn(scene, p, THREE);
   buildVenus(scene, p, THREE);
   buildMars(scene, p, THREE);
   buildEarth(scene, p, THREE);
   buildJupiter(scene, p, THREE);
+  buildMercury(scene, p, THREE);
+  buildNeptune(scene, p, THREE);
+  buildUranus(scene, p, THREE);
   buildMoon(scene, p, THREE);
   const plasma = buildPlasmaField(scene, THREE);
   buildStarfield(scene, THREE);
@@ -105,6 +121,9 @@ export async function createPlanetController(canvas) {
   L.mars    = buildLabel('MARS',    '#ff6644', THREE);
   L.earth   = buildLabel('EARTH',   '#66aaff', THREE);
   L.jupiter = buildLabel('JUPITER', '#ffaa44', THREE);
+  L.mercury = buildLabel('MERCURY', '#bbaa88', THREE);
+  L.neptune = buildLabel('NEPTUNE', '#4466ff', THREE);
+  L.uranus  = buildLabel('URANUS',  '#66dddd', THREE);
   L.moon    = buildLabel('MOON',    '#cccccc', THREE);
   Object.values(L).forEach(s => scene.add(s));
 
@@ -123,7 +142,6 @@ export async function createPlanetController(canvas) {
   let orbitCounts = {};
   let animId = null;
 
-  // Smooth camera targets
   let camPosGoal = new THREE.Vector3(0, 10, 25);
   let camLookGoal = new THREE.Vector3(0, 2, 0);
 
@@ -140,18 +158,19 @@ export async function createPlanetController(canvas) {
   // ── Render loop ──
   function animate() {
     animId = requestAnimationFrame(animate);
-    // Self-rotation
     if (p.sun) p.sun.rotation.y += 0.001;
     if (p.saturn?.visible) p.saturn.rotation.y += 0.002;
     if (p.venus?.visible) p.venus.rotation.y += 0.005;
     if (p.mars?.visible) p.mars.rotation.y += 0.004;
     if (p.earth?.visible) p.earth.rotation.y += 0.003;
     if (p.jupiter?.visible) p.jupiter.rotation.y += 0.001;
+    if (p.mercury?.visible) p.mercury.rotation.y += 0.006;
+    if (p.neptune?.visible) p.neptune.rotation.y += 0.001;
+    if (p.uranus?.visible) p.uranus.rotation.y += 0.001;
     if (plasma?.visible) {
       plasma.rotation.y += 0.0005;
       plasma.rotation.x = Math.sin(performance.now() * 0.0001) * 0.05;
     }
-    // Smooth camera
     camera.position.lerp(camPosGoal, 0.03);
     camera.lookAt(camLookGoal);
     // Labels
@@ -161,6 +180,9 @@ export async function createPlanetController(canvas) {
     syncLabel(L.mars,    p.mars,    0.7, camera);
     syncLabel(L.earth,   p.earth,   0.8, camera);
     syncLabel(L.jupiter, p.jupiter, 1.4, camera);
+    syncLabel(L.mercury, p.mercury, 0.5, camera);
+    syncLabel(L.neptune, p.neptune, 0.7, camera);
+    syncLabel(L.uranus,  p.uranus,  0.7, camera);
     syncLabel(L.moon,    p.moon,    0.4, camera);
     renderer.render(scene, camera);
   }
@@ -188,15 +210,14 @@ export async function createPlanetController(canvas) {
       setGroupVis(oLines.roundTable, style === 'roundTable');
       setGroupVis(oLines.modern,     style === 'modern');
       curStyle = style;
-      // Camera targets per style
       if (style === 'collinear') {
-        camPosGoal.set(0, 12, 26);
-        camLookGoal.set(0, 2, 0);
+        camPosGoal.set(0, 18, 22);
+        camLookGoal.set(0, 0, 0);
       } else if (style === 'roundTable') {
-        camPosGoal.set(0, 8, 20);
+        camPosGoal.set(0, 10, 22);
         camLookGoal.set(0, 0, 0);
       } else if (style === 'modern') {
-        camPosGoal.set(0, 24, 24);
+        camPosGoal.set(0, 30, 30);
         camLookGoal.set(0, 0, 0);
       } else {
         camPosGoal.set(0, 8, 22);
@@ -219,7 +240,7 @@ export async function createPlanetController(canvas) {
       p.moon.visible = true;
       L.moon.visible = true;
       const frac = Math.min(1, (year - MOON_CAPTURE_YEAR) / (-670 - MOON_CAPTURE_YEAR));
-      const periodDays = 10 + (27.3 - 10) * frac; // rapid → modern
+      const periodDays = 10 + (27.3 - 10) * frac;
       const daysElapsed = (year - MOON_CAPTURE_YEAR) * yl;
       const moonAngle = (daysElapsed / periodDays) * Math.PI * 2;
       p.moon.position.set(
@@ -241,17 +262,18 @@ export async function createPlanetController(canvas) {
     // ── Orbit counts ──
     orbitCounts = {};
     if (style === 'collinear') {
+      orbitCounts.column = Math.abs(elapsed); // entire column orbits once per Earth year
       orbitCounts.earth  = Math.abs(elapsed);
-      orbitCounts.venus  = Math.abs(elapsed / 0.615);
-      orbitCounts.mars   = Math.abs(elapsed / 1.88);
     } else if (style === 'roundTable') {
-      orbitCounts.earth  = Math.abs(elapsed);
-      orbitCounts.venus  = Math.abs(elapsed / 0.615);
-      orbitCounts.mars   = Math.abs(elapsed / 1.88);
-      orbitCounts.saturn = Math.abs(elapsed / 10);
-    } else if (style === 'modern') {
       orbitCounts.earth   = Math.abs(elapsed);
       orbitCounts.venus   = Math.abs(elapsed / 0.615);
+      orbitCounts.mars    = Math.abs(elapsed / 1.88);
+      orbitCounts.saturn  = Math.abs(elapsed / 10);
+      orbitCounts.mercury = Math.abs(elapsed / 0.24);
+    } else if (style === 'modern') {
+      orbitCounts.mercury = Math.abs(elapsed / 0.24);
+      orbitCounts.venus   = Math.abs(elapsed / 0.615);
+      orbitCounts.earth   = Math.abs(elapsed);
       orbitCounts.mars    = Math.abs(elapsed / 1.88);
       orbitCounts.jupiter = Math.abs(elapsed / 11.86);
       orbitCounts.saturn  = Math.abs(elapsed / 29.46);
@@ -264,53 +286,42 @@ export async function createPlanetController(canvas) {
   }
 
   // ── Collinear placement ──
+  // The column is a rigid bar pointing radially toward the Sun.
+  // It orbits Sun at radius COL.R in the XZ plane (y=0).
+  // Each planet sits along the radial direction at its 'dist' from Sun.
   function placeCollinear(elapsed, cfg) {
-    const baseA = (elapsed / COL.period) * Math.PI * 2;
-    const bx = COL.R * Math.cos(baseA);
-    const bz = COL.R * Math.sin(baseA);
+    const angle = (elapsed / COL.period) * Math.PI * 2;
+    // Unit vector pointing from Sun toward the column (outward)
+    const dx = Math.cos(angle);
+    const dz = Math.sin(angle);
 
-    // Sun at origin
     p.sun.position.set(0, 0, 0);
     sunLight.position.set(0, 0, 0);
 
-    // Saturn — top of stack
-    p.saturn.visible = true; L.saturn.visible = true;
-    p.saturn.position.set(bx, COL.saturn.dy, bz);
+    // Helper: place planet along the radial line at distance 'dist' from Sun
+    const placeOnColumn = (mesh, label, dist, show) => {
+      if (show) {
+        mesh.visible = true;
+        if (label) label.visible = true;
+        mesh.position.set(dx * dist, 0, dz * dist);
+      } else {
+        mesh.visible = false;
+        if (label) label.visible = false;
+      }
+    };
+
+    // Column order toward Sun: Uranus(far) → Neptune → Mercury → Earth → Mars → Venus → Saturn → Jupiter(near Sun)
+    placeOnColumn(p.jupiter, L.jupiter, COL.jupiter.dist, true);
+    placeOnColumn(p.saturn,  L.saturn,  COL.saturn.dist,  true);
     p.saturnGlow.material.opacity = (cfg.saturn?.glow || 0.5) * 0.6;
     p.saturnRings.material.opacity = cfg.saturn?.rings ? 0.5 : 0;
 
-    // Venus
-    if (cfg.venus) {
-      p.venus.visible = true; L.venus.visible = true;
-      const wa = (elapsed / COL.venus.wp) * Math.PI * 2;
-      p.venus.position.set(
-        bx + COL.venus.wr * Math.cos(wa), COL.venus.dy,
-        bz + COL.venus.wr * Math.sin(wa)
-      );
-    } else { p.venus.visible = false; L.venus.visible = false; }
-
-    // Mars
-    if (cfg.mars) {
-      p.mars.visible = true; L.mars.visible = true;
-      const wa = (elapsed / COL.mars.wp) * Math.PI * 2;
-      p.mars.position.set(
-        bx + COL.mars.wr * Math.cos(wa), COL.mars.dy,
-        bz + COL.mars.wr * Math.sin(wa)
-      );
-    } else { p.mars.visible = false; L.mars.visible = false; }
-
-    // Earth
-    if (cfg.earth) {
-      p.earth.visible = true; L.earth.visible = true;
-      const wa = (elapsed / COL.earth.wp) * Math.PI * 2;
-      p.earth.position.set(
-        bx + COL.earth.wr * Math.cos(wa), COL.earth.dy,
-        bz + COL.earth.wr * Math.sin(wa)
-      );
-    } else { p.earth.visible = false; L.earth.visible = false; }
-
-    // Jupiter not present in collinear
-    p.jupiter.visible = false; L.jupiter.visible = false;
+    placeOnColumn(p.venus,   L.venus,   COL.venus.dist,   !!cfg.venus);
+    placeOnColumn(p.mars,    L.mars,    COL.mars.dist,    !!cfg.mars);
+    placeOnColumn(p.earth,   L.earth,   COL.earth.dist,   !!cfg.earth);
+    placeOnColumn(p.mercury, L.mercury, COL.mercury.dist, true);
+    placeOnColumn(p.neptune, L.neptune, COL.neptune.dist, true);
+    placeOnColumn(p.uranus,  L.uranus,  COL.uranus.dist,  true);
   }
 
   // ── Round Table placement (around Jupiter) ──
@@ -318,55 +329,31 @@ export async function createPlanetController(canvas) {
     p.sun.position.set(...RT.sunPos);
     sunLight.position.set(...RT.sunPos);
 
-    // Jupiter at center
     p.jupiter.visible = true; L.jupiter.visible = true;
     p.jupiter.position.set(0, 0, 0);
 
-    // Saturn
-    if (cfg.saturn) {
-      p.saturn.visible = true; L.saturn.visible = true;
-      const a = (elapsed / RT.saturn.period) * Math.PI * 2;
-      p.saturn.position.set(
-        RT.saturn.rx * Math.cos(a),
-        RT.saturn.ry * Math.sin(a) * Math.cos(RT.saturn.tilt),
-        RT.saturn.ry * Math.sin(a) * Math.sin(RT.saturn.tilt)
+    const placeEllipse = (mesh, label, def, show) => {
+      if (!show) { mesh.visible = false; if (label) label.visible = false; return; }
+      mesh.visible = true; if (label) label.visible = true;
+      const a = (elapsed / def.period) * Math.PI * 2;
+      mesh.position.set(
+        def.rx * Math.cos(a),
+        def.ry * Math.sin(a) * Math.cos(def.tilt),
+        def.ry * Math.sin(a) * Math.sin(def.tilt)
       );
+    };
+
+    placeEllipse(p.saturn,  L.saturn,  RT.saturn,  !!cfg.saturn);
+    if (cfg.saturn) {
       p.saturnGlow.material.opacity = (cfg.saturn.glow || 0.3) * 0.6;
       p.saturnRings.material.opacity = cfg.saturn.rings ? 0.5 : 0;
     }
-
-    // Venus
-    if (cfg.venus) {
-      p.venus.visible = true; L.venus.visible = true;
-      const a = (elapsed / RT.venus.period) * Math.PI * 2;
-      p.venus.position.set(
-        RT.venus.rx * Math.cos(a),
-        RT.venus.ry * Math.sin(a) * Math.cos(RT.venus.tilt),
-        RT.venus.ry * Math.sin(a) * Math.sin(RT.venus.tilt)
-      );
-    } else { p.venus.visible = false; L.venus.visible = false; }
-
-    // Mars
-    if (cfg.mars) {
-      p.mars.visible = true; L.mars.visible = true;
-      const a = (elapsed / RT.mars.period) * Math.PI * 2;
-      p.mars.position.set(
-        RT.mars.rx * Math.cos(a),
-        RT.mars.ry * Math.sin(a) * Math.cos(RT.mars.tilt),
-        RT.mars.ry * Math.sin(a) * Math.sin(RT.mars.tilt)
-      );
-    } else { p.mars.visible = false; L.mars.visible = false; }
-
-    // Earth
-    if (cfg.earth) {
-      p.earth.visible = true; L.earth.visible = true;
-      const a = (elapsed / RT.earth.period) * Math.PI * 2;
-      p.earth.position.set(
-        RT.earth.rx * Math.cos(a),
-        RT.earth.ry * Math.sin(a) * Math.cos(RT.earth.tilt),
-        RT.earth.ry * Math.sin(a) * Math.sin(RT.earth.tilt)
-      );
-    } else { p.earth.visible = false; L.earth.visible = false; }
+    placeEllipse(p.venus,   L.venus,   RT.venus,   !!cfg.venus);
+    placeEllipse(p.mars,    L.mars,    RT.mars,    !!cfg.mars);
+    placeEllipse(p.earth,   L.earth,   RT.earth,   !!cfg.earth);
+    placeEllipse(p.mercury, L.mercury, RT.mercury, true);
+    placeEllipse(p.neptune, L.neptune, RT.neptune, true);
+    placeEllipse(p.uranus,  L.uranus,  RT.uranus,  true);
   }
 
   // ── Modern placement (concentric around Sun) ──
@@ -374,37 +361,25 @@ export async function createPlanetController(canvas) {
     p.sun.position.set(0, 0, 0);
     sunLight.position.set(0, 0, 0);
 
-    if (cfg.venus) {
-      p.venus.visible = true; L.venus.visible = true;
-      const a = (elapsed / MOD.venus.period) * Math.PI * 2;
-      p.venus.position.set(MOD.venus.r * Math.cos(a), 0, MOD.venus.r * Math.sin(a));
-    } else { p.venus.visible = false; L.venus.visible = false; }
+    const placeCircle = (mesh, label, def, show) => {
+      if (!show) { mesh.visible = false; if (label) label.visible = false; return; }
+      mesh.visible = true; if (label) label.visible = true;
+      const a = (elapsed / def.period) * Math.PI * 2;
+      mesh.position.set(def.r * Math.cos(a), 0, def.r * Math.sin(a));
+    };
 
-    if (cfg.earth) {
-      p.earth.visible = true; L.earth.visible = true;
-      const a = (elapsed / MOD.earth.period) * Math.PI * 2;
-      p.earth.position.set(MOD.earth.r * Math.cos(a), 0, MOD.earth.r * Math.sin(a));
-    } else { p.earth.visible = false; L.earth.visible = false; }
-
-    if (cfg.mars) {
-      p.mars.visible = true; L.mars.visible = true;
-      const a = (elapsed / MOD.mars.period) * Math.PI * 2;
-      p.mars.position.set(MOD.mars.r * Math.cos(a), 0, MOD.mars.r * Math.sin(a));
-    } else { p.mars.visible = false; L.mars.visible = false; }
-
-    if (cfg.jupiter) {
-      p.jupiter.visible = true; L.jupiter.visible = true;
-      const a = (elapsed / MOD.jupiter.period) * Math.PI * 2;
-      p.jupiter.position.set(MOD.jupiter.r * Math.cos(a), 0, MOD.jupiter.r * Math.sin(a));
-    } else { p.jupiter.visible = false; L.jupiter.visible = false; }
-
+    placeCircle(p.mercury, L.mercury, MOD.mercury, true);
+    placeCircle(p.venus,   L.venus,   MOD.venus,   !!cfg.venus);
+    placeCircle(p.earth,   L.earth,   MOD.earth,   !!cfg.earth);
+    placeCircle(p.mars,    L.mars,    MOD.mars,    !!cfg.mars);
+    placeCircle(p.jupiter, L.jupiter, MOD.jupiter, !!cfg.jupiter);
+    placeCircle(p.saturn,  L.saturn,  MOD.saturn,  !!cfg.saturn);
     if (cfg.saturn) {
-      p.saturn.visible = true; L.saturn.visible = true;
-      const a = (elapsed / MOD.saturn.period) * Math.PI * 2;
-      p.saturn.position.set(MOD.saturn.r * Math.cos(a), 0, MOD.saturn.r * Math.sin(a));
       p.saturnGlow.material.opacity = (cfg.saturn.glow || 0.05) * 0.6;
       p.saturnRings.material.opacity = cfg.saturn.rings ? 0.5 : 0;
     }
+    placeCircle(p.uranus,  L.uranus,  MOD.uranus,  true);
+    placeCircle(p.neptune, L.neptune, MOD.neptune, true);
   }
 
   // ── Fallback: transitional / chaotic phases ──
@@ -431,6 +406,10 @@ export async function createPlanetController(canvas) {
     else             { p.earth.visible = false; L.earth.visible = false; }
     if (cfg.jupiter) { p.jupiter.visible = true; L.jupiter.visible = true; lerp(p.jupiter, cfg.jupiter.position); }
     else             { p.jupiter.visible = false; L.jupiter.visible = false; }
+    // Mercury, Neptune, Uranus — hide in chaotic phases
+    p.mercury.visible = false; L.mercury.visible = false;
+    p.neptune.visible = false; L.neptune.visible = false;
+    p.uranus.visible = false;  L.uranus.visible = false;
   }
 
   function getPhaseInfo() {
@@ -451,7 +430,6 @@ export async function createPlanetController(canvas) {
 
 // ═══════════════════ Helper Functions ═══════════════════
 
-// ── Label builder ──
 function buildLabel(text, color, THREE) {
   const c = document.createElement('canvas');
   const ctx = c.getContext('2d');
@@ -480,8 +458,6 @@ function syncLabel(label, mesh, offset, camera) {
   label.quaternion.copy(camera.quaternion);
 }
 
-// ── Orbital path line builders ──
-
 function makeLine(pts, color, opacity, THREE) {
   const geo = new THREE.BufferGeometry().setFromPoints(pts);
   const mat = new THREE.LineBasicMaterial({ color, transparent: true, opacity, depthWrite: false });
@@ -509,10 +485,13 @@ function buildCollinearPaths(scene, THREE) {
 function buildRoundTablePaths(scene, THREE) {
   const lines = [];
   const defs = [
-    { ...RT.saturn, color: 0xff8833 },
-    { ...RT.venus,  color: 0x33ff77 },
-    { ...RT.mars,   color: 0xff6644 },
-    { ...RT.earth,  color: 0x66aaff },
+    { ...RT.saturn,  color: 0xff8833 },
+    { ...RT.venus,   color: 0x33ff77 },
+    { ...RT.mars,    color: 0xff6644 },
+    { ...RT.earth,   color: 0x66aaff },
+    { ...RT.mercury, color: 0xbbaa88 },
+    { ...RT.neptune, color: 0x4466ff },
+    { ...RT.uranus,  color: 0x66dddd },
   ];
   for (const d of defs) {
     const pts = [];
@@ -535,11 +514,14 @@ function buildRoundTablePaths(scene, THREE) {
 function buildModernPaths(scene, THREE) {
   const lines = [];
   const defs = [
+    { r: MOD.mercury.r, color: 0xbbaa88 },
     { r: MOD.venus.r,   color: 0x33ff77 },
     { r: MOD.earth.r,   color: 0x66aaff },
     { r: MOD.mars.r,    color: 0xff6644 },
     { r: MOD.jupiter.r, color: 0xffaa44 },
     { r: MOD.saturn.r,  color: 0xff8833 },
+    { r: MOD.uranus.r,  color: 0x66dddd },
+    { r: MOD.neptune.r, color: 0x4466ff },
   ];
   for (const d of defs) {
     const pts = [];
@@ -554,7 +536,7 @@ function buildModernPaths(scene, THREE) {
   return lines;
 }
 
-// ── Glow texture helper ──
+// ── Glow texture ──
 function glowTex(color, THREE) {
   const sz = 128;
   const c = document.createElement('canvas');
@@ -580,10 +562,8 @@ function buildSun(scene, p, THREE) {
       color: 0xffffcc, emissive: 0xffdd44, emissiveIntensity: 1.5, roughness: 0,
     })
   );
-  mesh.position.set(0, 0, 0);
   scene.add(mesh);
   p.sun = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0xffdd44, THREE), color: 0xffdd44,
     transparent: true, opacity: 0.7, blending: THREE.AdditiveBlending,
@@ -599,10 +579,8 @@ function buildSaturn(scene, p, THREE) {
       color: 0xff8833, emissive: 0xcc6622, emissiveIntensity: 0.8, roughness: 0.3,
     })
   );
-  mesh.position.set(0, 5, 0);
   scene.add(mesh);
   p.saturn = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0xff8833, THREE), color: 0xff8833,
     transparent: true, opacity: 0.6, blending: THREE.AdditiveBlending,
@@ -610,7 +588,6 @@ function buildSaturn(scene, p, THREE) {
   glow.scale.set(5, 5, 1);
   mesh.add(glow);
   p.saturnGlow = glow;
-
   const ring = new THREE.Mesh(
     new THREE.RingGeometry(1.6, 2.4, 64),
     new THREE.MeshBasicMaterial({ color: 0xccaa66, side: THREE.DoubleSide, transparent: true, opacity: 0 })
@@ -627,10 +604,8 @@ function buildVenus(scene, p, THREE) {
       color: 0x33ff77, emissive: 0x22cc55, emissiveIntensity: 1.0, roughness: 0,
     })
   );
-  mesh.position.set(0, 3, 0);
   scene.add(mesh);
   p.venus = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0x33ff77, THREE), color: 0x33ff77,
     transparent: true, opacity: 0.5, blending: THREE.AdditiveBlending,
@@ -648,10 +623,8 @@ function buildMars(scene, p, THREE) {
       roughness: 0.6, metalness: 0.2,
     })
   );
-  mesh.position.set(0, 1.5, 0);
   scene.add(mesh);
   p.mars = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0xff4422, THREE), color: 0xff4422,
     transparent: true, opacity: 0.25, blending: THREE.AdditiveBlending,
@@ -668,10 +641,8 @@ function buildEarth(scene, p, THREE) {
       roughness: 0.4, metalness: 0.1,
     })
   );
-  mesh.position.set(0, 0, 0);
   scene.add(mesh);
   p.earth = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0x4488ff, THREE), color: 0x4488ff,
     transparent: true, opacity: 0.2, blending: THREE.AdditiveBlending,
@@ -690,12 +661,65 @@ function buildJupiter(scene, p, THREE) {
   mesh.visible = false;
   scene.add(mesh);
   p.jupiter = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0xddaa44, THREE), color: 0xddaa44,
     transparent: true, opacity: 0.3, blending: THREE.AdditiveBlending,
   }));
   glow.scale.set(3, 3, 1);
+  mesh.add(glow);
+}
+
+function buildMercury(scene, p, THREE) {
+  const mesh = new THREE.Mesh(
+    new THREE.SphereGeometry(0.2, 16, 16),
+    new THREE.MeshStandardMaterial({
+      color: 0xbbaa88, emissive: 0x887755, emissiveIntensity: 0.4, roughness: 0.7,
+    })
+  );
+  mesh.visible = false;
+  scene.add(mesh);
+  p.mercury = mesh;
+  const glow = new THREE.Sprite(new THREE.SpriteMaterial({
+    map: glowTex(0xbbaa88, THREE), color: 0xbbaa88,
+    transparent: true, opacity: 0.2, blending: THREE.AdditiveBlending,
+  }));
+  glow.scale.set(1.0, 1.0, 1);
+  mesh.add(glow);
+}
+
+function buildNeptune(scene, p, THREE) {
+  const mesh = new THREE.Mesh(
+    new THREE.SphereGeometry(0.5, 20, 20),
+    new THREE.MeshStandardMaterial({
+      color: 0x4466ff, emissive: 0x2233aa, emissiveIntensity: 0.5, roughness: 0.4,
+    })
+  );
+  mesh.visible = false;
+  scene.add(mesh);
+  p.neptune = mesh;
+  const glow = new THREE.Sprite(new THREE.SpriteMaterial({
+    map: glowTex(0x4466ff, THREE), color: 0x4466ff,
+    transparent: true, opacity: 0.25, blending: THREE.AdditiveBlending,
+  }));
+  glow.scale.set(2, 2, 1);
+  mesh.add(glow);
+}
+
+function buildUranus(scene, p, THREE) {
+  const mesh = new THREE.Mesh(
+    new THREE.SphereGeometry(0.5, 20, 20),
+    new THREE.MeshStandardMaterial({
+      color: 0x66dddd, emissive: 0x44aaaa, emissiveIntensity: 0.5, roughness: 0.4,
+    })
+  );
+  mesh.visible = false;
+  scene.add(mesh);
+  p.uranus = mesh;
+  const glow = new THREE.Sprite(new THREE.SpriteMaterial({
+    map: glowTex(0x66dddd, THREE), color: 0x66dddd,
+    transparent: true, opacity: 0.25, blending: THREE.AdditiveBlending,
+  }));
+  glow.scale.set(2, 2, 1);
   mesh.add(glow);
 }
 
@@ -709,7 +733,6 @@ function buildMoon(scene, p, THREE) {
   mesh.visible = false;
   scene.add(mesh);
   p.moon = mesh;
-
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
     map: glowTex(0xaaaaaa, THREE), color: 0xaaaaaa,
     transparent: true, opacity: 0.15, blending: THREE.AdditiveBlending,
