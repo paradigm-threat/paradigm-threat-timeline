@@ -53,14 +53,21 @@ Record each reduction pass below. One row per editing session.
 | 2026-03-01 | 10.03.02-cathar-suppression.md | P4: Aggressive trim | 1,712 | 529 | ~4 | Joan of Arc→1 para; What Was Lost→bullets |
 
 **Cumulative savings (Options 1-5 batch):** ~10,772 words → ~36 pages estimated
-**Total savings (all sessions):** ~21,152 words → ~71 pages estimated
+
+| 2026-03-02 | Batch 6 (9 files) | P4: Aggressive trim | ~14,300 | ~8,250 | ~20 | tchaikovsky, hundred-years-war, aftermath, jesuit-restoration, missionaries-to-corporations, oprichnina, reverse-exodus, apocalypse-crusade, khazar-rebellion |
+| 2026-03-02 | Batch 7 (13 files) | P4: Aggressive trim | ~17,600 | ~9,400 | ~27 | atlantis, british-empire, jesuit-operations, hairy-mary, imperial-technology, challenging-physics, jesuits-convert-asians, battle-for-communisms-soul, instant-fossilization, scalar-energy, deep-state-redacts, holy-inquisition, all-planets-hollow |
+| 2026-03-02 | Batch 8 (10 files) | P4: Aggressive trim | ~12,000 | ~5,950 | ~20 | the-third-story, apocalypse-prophecy-1666, sun-replaces-mars, other-challenges-to-chronology, quantum-entanglement, second-golden-age, 225-day-year, authors-cataclysm-texts, new-religion-of-constancy, core-concepts |
+| 2026-03-02 | Batch 9 (8 files) | P4: Aggressive trim | ~8,850 | ~4,560 | ~14 | brother-on-the-cross, ecliptic-pathway-absu, jeanne-darc, the-blip, 3-plasmoids, building-new-chronology, cathar-khazar-katya-link, 11th-century-common-era |
+
+**Cumulative savings (Batches 6-9):** ~28,930 words → ~81 pages estimated
+**Total savings (all sessions):** ~56,972 words → ~190 pages estimated
 
 **Running totals after all reductions:**
 
-| Metric | Baseline | After P1 | After P3+P4 | After Options 1-5 | Target |
-|---|---|---|---|---|---|
-| Total words | 146,863 | ~139,973 | ~129,593 | ~118,821 | ≤ 90,000 |
-| Est. pages (text) | ~490 | ~467 | ~432 | ~396 | ≤ 300 (text) |
+| Metric | Baseline | After P1 | After P3+P4 | After Options 1-5 | After Batches 6-9 | Target |
+|---|---|---|---|---|---|---|
+| Total words | 146,863 | ~139,973 | ~129,593 | ~118,821 | **89,891** | ≤ 90,000 |
+| Est. pages (text) | ~490 | ~467 | ~432 | ~396 | ~300 | ≤ 300 (text) |
 
 ---
 
