@@ -219,6 +219,7 @@ class DOCXRenderer:
         style.font.name = "Calibri"
         style.font.size = Pt(11)
         style.paragraph_format.space_after = Pt(8)
+        style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
 
         # Heading styles — reuse built-in Word heading styles for TOC compat
         h_specs = {

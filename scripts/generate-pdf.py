@@ -28,6 +28,8 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 try:
     from fpdf import FPDF
+    from fpdf.text_region import TextColumns
+    from fpdf.enums import Align
 except ImportError:
     sys.exit("ERROR: pip install fpdf2")
 
@@ -419,11 +421,8 @@ class PDFRenderer:
     #  Page helpers
     # ---------------------------------------------------------------
     def _ensure_recto(self):
-        """If next add_page() would land on verso, insert a blank page first
-        so the article opens on recto (odd)."""
-        if self.pdf.page % 2 == 1:
-            # Currently recto → next add_page() = verso; insert blank
-            self.pdf.add_page()
+        """No-op: recto forcing removed to eliminate blank pages."""
+        pass
 
     # ---------------------------------------------------------------
     #  Image handling
@@ -631,6 +630,58 @@ class PDFRenderer:
         self._para_index = 0
         self._restore_body()
 
+    def _render_inline_para(self, children, para):
+        """Write inline tokens into a justified Paragraph (TextColumns API)."""
+        if not children:
+            return
+        for tok in children:
+            tp = tok.type
+            if tp == "text":
+                para.write(self._t(tok.content), link=self._link_href)
+            elif tp == "softbreak":
+                para.write(" ")
+            elif tp == "hardbreak":
+                para.write("\n")
+            elif tp == "code_inline":
+                prev = (self.pdf.font_family, self.pdf.font_style,
+                        self.pdf.font_size_pt)
+                self.pdf.set_font(self.MONO, "", max(prev[2] - 1.5, 7))
+                para.write(self._t(tok.content))
+                self.pdf.set_font(prev[0], prev[1], prev[2])
+            elif tp == "strong_open":
+                s = self.pdf.font_style
+                if "B" not in s:
+                    self.pdf.set_font(self.pdf.font_family, s + "B",
+                                      self.pdf.font_size_pt)
+            elif tp == "strong_close":
+                s = self.pdf.font_style.replace("B", "")
+                self.pdf.set_font(self.pdf.font_family, s,
+                                  self.pdf.font_size_pt)
+            elif tp == "em_open":
+                s = self.pdf.font_style
+                if "I" not in s:
+                    self.pdf.set_font(self.pdf.font_family, s + "I",
+                                      self.pdf.font_size_pt)
+            elif tp == "em_close":
+                s = self.pdf.font_style.replace("I", "")
+                self.pdf.set_font(self.pdf.font_family, s,
+                                  self.pdf.font_size_pt)
+            elif tp == "link_open":
+                self._link_href = _attr(tok, "href")
+                self.pdf.set_text_color(*C_GOLD)
+            elif tp == "link_close":
+                self._link_href = None
+                self.pdf.set_text_color(*self._text_color)
+            elif tp == "image":
+                pass  # inline images handled at paragraph level
+            elif tp == "html_inline":
+                pass  # skip
+            else:
+                if tok.children:
+                    self._render_inline_para(tok.children, para)
+                elif tok.content:
+                    para.write(self._t(tok.content))
+
     def _render_paragraph(self, inline_tok):
         self._restore_body()
 
@@ -658,15 +709,19 @@ class PDFRenderer:
                 self._embed_image(_attr(img, "src"), caption)
                 return
 
-            # First-line indent for subsequent paragraphs
-            if self._para_index > 0:
-                self.pdf.set_x(self.pdf.l_margin + self.INDENT_MM)
+            # Justified paragraph; first-line indent for subsequent paragraphs
+            first_indent = self.INDENT_MM if self._para_index > 0 else 0
+            tc = TextColumns(self.pdf, ncols=1)
+            p = tc.paragraph(text_align=Align.J, first_line_indent=first_indent)
+            self._render_inline_para(inline_tok.children, p)
+            tc.render()
 
-            self._render_inline(inline_tok.children)
         elif inline_tok.content:
-            if self._para_index > 0:
-                self.pdf.set_x(self.pdf.l_margin + self.INDENT_MM)
-            self.pdf.write(self._lh, self._t(inline_tok.content))
+            first_indent = self.INDENT_MM if self._para_index > 0 else 0
+            tc = TextColumns(self.pdf, ncols=1)
+            p = tc.paragraph(text_align=Align.J, first_line_indent=first_indent)
+            p.write(self._t(inline_tok.content))
+            tc.render()
 
         self._para_index += 1
         self.pdf.ln(self._lh + 2)
@@ -1000,7 +1055,6 @@ class PDFRenderer:
 
             pdf.ln(spacing)
 
-        # Pad remaining reserved pages
         pages_used = pdf.page - start_page + 1
         print(f"  TOC: {len(outline)} entries on {pages_used} pages (reserved {self._toc_pages})")
         while pages_used < self._toc_pages:
@@ -1154,8 +1208,7 @@ class PDFRenderer:
             self._chapter_counter += 1
             ch_num = self._chapter_counter
 
-            # Recto opener
-            self._ensure_recto()
+            # New page for each chapter
             self.pdf._chapter_opener = True
             self.pdf.add_page()
             self._para_index = 0
