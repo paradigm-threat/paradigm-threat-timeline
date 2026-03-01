@@ -20,8 +20,9 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 try:
     from docx import Document
-    from docx.shared import Inches, Pt, RGBColor, Cm
-    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    from docx.shared import Inches, Pt, RGBColor, Cm, Emu
+    from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT
+    from docx.enum.section import WD_ORIENT
     from docx.enum.style import WD_STYLE_TYPE
     from docx.oxml.ns import qn
     from docx.oxml import OxmlElement
@@ -73,11 +74,21 @@ def _classify_tier(filename: str):
     return ("subsection", xx, yy, zz)
 
 # ---------------------------------------------------------------------------
+# Page dimensions: 6 x 9 inch trade paperback
+# ---------------------------------------------------------------------------
+PAGE_W = Inches(6)
+PAGE_H = Inches(9)
+MARGIN_LR     = Cm(2.0)    # equal left/right margins (print services add gutter)
+MARGIN_TOP     = Cm(1.8)
+MARGIN_BOTTOM  = Cm(2.0)
+BOOK_TITLE     = "PARADIGM THREAT: THE THIRD STORY"
+
+# ---------------------------------------------------------------------------
 # Image settings
 # ---------------------------------------------------------------------------
 MAX_IMG_PX    = 1200
 JPEG_QUALITY  = 82
-MAX_IMG_IN    = 5.5    # max image width in inches (fits A4 with margins)
+MAX_IMG_IN    = 4.0    # max image width in inches (fits 6x9 with margins)
 
 # ---------------------------------------------------------------------------
 # Token attribute helper (markdown-it-py can use dict or list-of-tuples)
@@ -202,35 +213,60 @@ class DOCXRenderer:
         self._img_cache: dict = {}
         self._chapter_counter = 0
         self._current_part_xx = None
+        self._current_part_label = ""   # e.g. "Part I — Introduction"
+        self._current_chapter_title = ""  # e.g. "The Third Story"
         self._setup_styles()
+        self._setup_page_layout()
+
+    # Font families — match the PDF's EB Garamond + Libre Franklin + JetBrains Mono
+    FONT_SERIF = "EB Garamond"
+    FONT_SANS  = "Libre Franklin"
+    FONT_MONO  = "JetBrains Mono"
+
+    # Secondary text size for lists, tables, blockquotes, code
+    SECONDARY_SIZE = Pt(9.5)
 
     def _setup_styles(self):
         doc = self.doc
 
-        # Page margins: 2.5 cm all sides
-        for section in doc.sections:
-            section.top_margin    = Cm(2.5)
-            section.bottom_margin = Cm(2.5)
-            section.left_margin   = Cm(2.5)
-            section.right_margin  = Cm(2.5)
-
-        # Body text default
+        # Body text default — EB Garamond 11pt (matches PDF)
         style = doc.styles["Normal"]
-        style.font.name = "Calibri"
+        style.font.name = self.FONT_SERIF
         style.font.size = Pt(11)
         style.paragraph_format.space_after = Pt(8)
         style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        # Enable auto-hyphenation so justified text doesn't get huge word gaps
+        pPr = style.element.get_or_add_pPr()
+        hyph = OxmlElement("w:suppressAutoHyphens")
+        hyph.set(qn("w:val"), "0")          # 0 = allow hyphenation
+        pPr.append(hyph)
+        # Set East-Asian / complex-script fallback to same font
+        rpr = style.element.get_or_add_rPr()
+        rFonts = rpr.find(qn("w:rFonts"))
+        if rFonts is None:
+            rFonts = OxmlElement("w:rFonts")
+            rpr.insert(0, rFonts)
+        rFonts.set(qn("w:eastAsia"), self.FONT_SERIF)
+        rFonts.set(qn("w:cs"), self.FONT_SERIF)
+        # Set explicit language so LibreOffice applies hyphenation dictionary
+        lang = rpr.find(qn("w:lang"))
+        if lang is None:
+            lang = OxmlElement("w:lang")
+            rpr.append(lang)
+        lang.set(qn("w:val"), "en-US")
+        lang.set(qn("w:eastAsia"), "en-US")
+        lang.set(qn("w:bidi"), "en-US")
 
-        # Heading styles — reuse built-in Word heading styles for TOC compat
+        # Heading styles — Libre Franklin (sans) for H1-H3, sizes matching PDF
         h_specs = {
-            "Heading 1": (18, True, RGBColor(0x1a, 0x1a, 0x1a)),
-            "Heading 2": (14, True, RGBColor(0x2c, 0x2c, 0x2c)),
-            "Heading 3": (12, True, RGBColor(0x3a, 0x3a, 0x3a)),
-            "Heading 4": (11, True, RGBColor(0x4e, 0x4e, 0x4e)),
+            "Heading 1": (20, True, RGBColor(0x1a, 0x1a, 0x1a), self.FONT_SANS),
+            "Heading 2": (14, True, RGBColor(0x2c, 0x2c, 0x2c), self.FONT_SANS),
+            "Heading 3": (11, True, RGBColor(0x3a, 0x3a, 0x3a), self.FONT_SANS),
+            "Heading 4": (10.5, True, RGBColor(0x4e, 0x4e, 0x4e), self.FONT_SERIF),
         }
-        for sname, (sz, bold, clr) in h_specs.items():
+        for sname, (sz, bold, clr, fname) in h_specs.items():
             s = doc.styles[sname]
-            s.font.name  = "Calibri"
+            s.font.name  = fname
             s.font.size  = Pt(sz)
             s.font.bold  = bold
             s.font.color.rgb = clr
@@ -243,12 +279,24 @@ class DOCXRenderer:
         else:
             qs = doc.styles["Quote"]
         qs.base_style = doc.styles["Normal"]
+        qs.font.name   = self.FONT_SERIF
         qs.font.italic = True
-        qs.font.size   = Pt(10.5)
+        qs.font.size   = self.SECONDARY_SIZE
         qs.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
         qs.paragraph_format.left_indent  = Cm(1.2)
-        qs.paragraph_format.space_before = Pt(6)
-        qs.paragraph_format.space_after  = Pt(6)
+        qs.paragraph_format.space_before = Pt(4)
+        qs.paragraph_format.space_after  = Pt(4)
+
+        # List styles — smaller font, tighter spacing
+        for ls_name in ("List Bullet", "List Number"):
+            try:
+                ls = doc.styles[ls_name]
+            except KeyError:
+                continue
+            ls.font.name = self.FONT_SERIF
+            ls.font.size = self.SECONDARY_SIZE
+            ls.paragraph_format.space_before = Pt(1)
+            ls.paragraph_format.space_after  = Pt(1)
 
         # Caption style
         if "Caption" not in [s.name for s in doc.styles]:
@@ -256,12 +304,130 @@ class DOCXRenderer:
         else:
             cs = doc.styles["Caption"]
         cs.base_style = doc.styles["Normal"]
+        cs.font.name   = self.FONT_SANS
         cs.font.italic = True
         cs.font.size   = Pt(9)
         cs.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
         cs.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
         cs.paragraph_format.space_before = Pt(2)
         cs.paragraph_format.space_after  = Pt(8)
+
+    # ---------------------------------------------------------------
+    #  Page layout: 6x9, equal margins, running headers
+    # ---------------------------------------------------------------
+    def _setup_page_layout(self):
+        """Configure the initial section for 6×9 trade paperback with
+        equal margins and running headers/footers."""
+        section = self.doc.sections[0]
+        self._apply_section_dims(section)
+
+        settings = self.doc.settings.element
+
+        # Enable auto-hyphenation (document-level) for better justified text
+        auto_hyp = OxmlElement("w:autoHyphenation")
+        auto_hyp.set(qn("w:val"), "1")
+        settings.append(auto_hyp)
+
+        # Set document-level default language for hyphenation
+        styles_el = self.doc.styles.element
+        doc_defaults = styles_el.find(qn("w:docDefaults"))
+        if doc_defaults is None:
+            doc_defaults = OxmlElement("w:docDefaults")
+            styles_el.insert(0, doc_defaults)
+        rpr_default = doc_defaults.find(qn("w:rPrDefault"))
+        if rpr_default is None:
+            rpr_default = OxmlElement("w:rPrDefault")
+            doc_defaults.append(rpr_default)
+        rpr_el = rpr_default.find(qn("w:rPr"))
+        if rpr_el is None:
+            rpr_el = OxmlElement("w:rPr")
+            rpr_default.append(rpr_el)
+        def_lang = OxmlElement("w:lang")
+        def_lang.set(qn("w:val"), "en-US")
+        def_lang.set(qn("w:eastAsia"), "en-US")
+        def_lang.set(qn("w:bidi"), "en-US")
+        rpr_el.append(def_lang)
+
+        # Title page: suppress headers/footers
+        section.different_first_page_header_footer = True
+
+    def _apply_section_dims(self, section):
+        """Set page size and margins on a section."""
+        section.page_width  = PAGE_W
+        section.page_height = PAGE_H
+        section.top_margin    = MARGIN_TOP
+        section.bottom_margin = MARGIN_BOTTOM
+        section.left_margin   = MARGIN_LR
+        section.right_margin  = MARGIN_LR
+
+    @staticmethod
+    def _add_page_number_field(para):
+        """Insert a PAGE field code into a paragraph."""
+        run = para.add_run()
+        fld_begin = OxmlElement("w:fldChar")
+        fld_begin.set(qn("w:fldCharType"), "begin")
+        run._r.append(fld_begin)
+
+        run2 = para.add_run()
+        instr = OxmlElement("w:instrText")
+        instr.set(qn("xml:space"), "preserve")
+        instr.text = " PAGE "
+        run2._r.append(instr)
+
+        run3 = para.add_run()
+        fld_end = OxmlElement("w:fldChar")
+        fld_end.set(qn("w:fldCharType"), "end")
+        run3._r.append(fld_end)
+
+    def _set_header_footer(self, section, chapter_title: str):
+        """Set up running headers and page-number footers.
+
+        Header:  page#  ........  CHAPTER TITLE
+        Footer:  centred page number
+        """
+        # Calculate usable width for tab stop
+        usable = PAGE_W - MARGIN_LR - MARGIN_LR
+        tab_right = usable  # right-aligned tab at full usable width
+
+        # ── Header ──
+        hdr = section.header
+        hdr.is_linked_to_previous = False
+        for p in hdr.paragraphs:
+            p.clear()
+        p = hdr.paragraphs[0] if hdr.paragraphs else hdr.add_paragraph()
+        pf = p.paragraph_format
+        pf.tab_stops.add_tab_stop(tab_right, WD_TAB_ALIGNMENT.RIGHT)
+        pf.space_after = Pt(0)
+        # Page number left
+        self._add_page_number_field(p)
+        for r in p.runs:
+            r.font.size = Pt(8.5)
+            r.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
+        # Tab + chapter title right
+        r_title = p.add_run(f"\t{chapter_title.upper()}")
+        r_title.font.size = Pt(8.5)
+        r_title.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
+
+        # ── Footer: centred page number ──
+        ftr = section.footer
+        ftr.is_linked_to_previous = False
+        for p in ftr.paragraphs:
+            p.clear()
+        p = ftr.paragraphs[0] if ftr.paragraphs else ftr.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.space_before = Pt(0)
+        self._add_page_number_field(p)
+        for r in p.runs:
+            r.font.size = Pt(8.5)
+            r.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
+    def _new_section_with_headers(self, chapter_title: str):
+        """Add a new section (page break) with updated running headers."""
+        # Add section break (new page)
+        new_sec = self.doc.add_section()
+        self._apply_section_dims(new_sec)
+        new_sec.different_first_page_header_footer = True
+        self._set_header_footer(new_sec, chapter_title)
+        self._current_chapter_title = chapter_title
 
     # ---------------------------------------------------------------
     #  Image handling
@@ -330,7 +496,7 @@ class DOCXRenderer:
     # ---------------------------------------------------------------
     #  Inline run builder (bold / italic / code / link)
     # ---------------------------------------------------------------
-    def _apply_inline(self, para, children):
+    def _apply_inline(self, para, children, font_size_override=None):
         if not children:
             return
         bold = False
@@ -338,6 +504,11 @@ class DOCXRenderer:
         link_text_parts: list = []
         link_href: str = ""
         in_link = False
+
+        def _style_run(run):
+            """Apply font_size_override to a run if set."""
+            if font_size_override:
+                run.font.size = font_size_override
 
         for tok in children:
             tp = tok.type
@@ -349,6 +520,7 @@ class DOCXRenderer:
                     run = para.add_run(tok.content)
                     run.bold   = bold
                     run.italic = italic
+                    _style_run(run)
 
             elif tp == "softbreak":
                 if in_link:
@@ -356,14 +528,16 @@ class DOCXRenderer:
                 else:
                     run = para.add_run(" ")
                     run.bold = bold; run.italic = italic
+                    _style_run(run)
 
             elif tp == "hardbreak":
                 run = para.add_run("\n")
+                _style_run(run)
 
             elif tp == "code_inline":
                 run = para.add_run(tok.content)
-                run.font.name = "Courier New"
-                run.font.size = Pt(10)
+                run.font.name = self.FONT_MONO
+                run.font.size = font_size_override or Pt(10)
 
             elif tp == "strong_open":
                 bold = True
@@ -379,13 +553,12 @@ class DOCXRenderer:
                 link_text_parts = []
                 in_link = True
             elif tp == "link_close":
-                # Add link text as a coloured run (hyperlink XML is complex — plain text + color is cleaner)
                 link_text = "".join(link_text_parts)
                 run = para.add_run(link_text)
                 run.bold   = bold
                 run.italic = italic
                 run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)  # gold
-                # Optionally embed actual hyperlink relationship
+                _style_run(run)
                 try:
                     self._add_hyperlink(para, run, link_href)
                 except Exception:
@@ -394,7 +567,6 @@ class DOCXRenderer:
                 link_text_parts = []
 
             elif tp == "image":
-                # Inline image (e.g. inside a paragraph)
                 isrc = _attr(tok, "src")
                 ialt = _attr(tok, "alt") or tok.content or ""
                 self._embed_image(isrc, ialt)
@@ -463,13 +635,11 @@ class DOCXRenderer:
         for tok in inner_tokens:
             if tok.type == "inline":
                 para = self.doc.add_paragraph(style="Quote")
-                self._apply_inline(para, tok.children)
+                self._apply_inline(para, tok.children,
+                                   font_size_override=self.SECONDARY_SIZE)
             elif tok.type in ("paragraph_open", "paragraph_close",
                               "blockquote_open", "blockquote_close"):
                 pass
-            elif tok.type == "inline":
-                para = self.doc.add_paragraph(style="Quote")
-                self._apply_inline(para, tok.children)
 
     def _render_list(self, items: list, ordered: bool, depth: int = 0):
         word_style = "List Number" if ordered else "List Bullet"
@@ -478,9 +648,12 @@ class DOCXRenderer:
             for tok in item_tokens:
                 if tok.type == "inline":
                     para = self.doc.add_paragraph(style=word_style)
+                    para.paragraph_format.space_before = Pt(1)
+                    para.paragraph_format.space_after  = Pt(1)
                     if depth > 0:
                         para.paragraph_format.left_indent = Cm(depth * 1.0)
-                    self._apply_inline(para, tok.children)
+                    self._apply_inline(para, tok.children,
+                                       font_size_override=self.SECONDARY_SIZE)
                 elif tok.type == "bullet_list_open":
                     # nested list
                     pass
@@ -489,28 +662,100 @@ class DOCXRenderer:
         cols = len(header_row)
         if cols == 0:
             return
+
+        TABLE_FONT_SIZE = Pt(9)
+
         table = self.doc.add_table(rows=1, cols=cols)
         table.style = "Table Grid"
+        table.autofit = False
 
-        # Header
+        # ── Compute proportional column widths based on content length ──
+        # Gather all text per column (header + body) to estimate widths
+        col_text_len = [0] * cols
+        for j, cell_tokens in enumerate(header_row):
+            for tok in cell_tokens:
+                if tok.type == "inline":
+                    for child in (tok.children or []):
+                        col_text_len[j] += len(child.content or "")
+        for row_cells in body_rows:
+            for j, cell_tokens in enumerate(row_cells[:cols]):
+                for tok in cell_tokens:
+                    if tok.type == "inline":
+                        for child in (tok.children or []):
+                            col_text_len[j] += len(child.content or "")
+
+        # Usable width = page width minus margins
+        usable = PAGE_W - MARGIN_LR - MARGIN_LR
+        # Minimum column width so nothing collapses
+        min_col = Inches(0.6)
+        total_text = max(sum(col_text_len), 1)
+        col_widths = []
+        for j in range(cols):
+            proportion = col_text_len[j] / total_text
+            w = int(usable * proportion)
+            if w < min_col:
+                w = min_col
+            col_widths.append(w)
+        # Normalize so widths sum to usable
+        w_sum = sum(col_widths)
+        if w_sum > 0:
+            col_widths = [int(w * usable / w_sum) for w in col_widths]
+
+        # Apply column widths to all rows
+        for row in table.rows:
+            for j, cell in enumerate(row.cells):
+                cell.width = col_widths[j]
+        # Also set on table column objects
+        for j, col in enumerate(table.columns):
+            col.width = col_widths[j]
+
+        # ── Compact cell margins via table-level cellMargin ──
+        tbl_pr = table._tbl.tblPr
+        if tbl_pr is None:
+            tbl_pr = OxmlElement("w:tblPr")
+            table._tbl.insert(0, tbl_pr)
+        cm_el = OxmlElement("w:tblCellMar")
+        for side, val in [("w:top", "30"), ("w:bottom", "30"),
+                          ("w:left", "60"), ("w:right", "60")]:
+            el = OxmlElement(side)
+            el.set(qn("w:w"), val)
+            el.set(qn("w:type"), "dxa")
+            cm_el.append(el)
+        tbl_pr.append(cm_el)
+
+        # ── Header row ──
         hdr_cells = table.rows[0].cells
         for j, cell_tokens in enumerate(header_row):
             p = hdr_cells[j].paragraphs[0]
+            p.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(1)
+            p.paragraph_format.space_after = Pt(1)
             for tok in cell_tokens:
                 if tok.type == "inline":
                     for child in (tok.children or []):
                         run = p.add_run(child.content if child.content else "")
                         run.bold = True
-            hdr_cells[j].paragraphs[0].paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                        run.font.size = TABLE_FONT_SIZE
+                        run.font.name = self.FONT_SANS
+            # Header shading
+            shd = OxmlElement("w:shd")
+            shd.set(qn("w:val"), "clear")
+            shd.set(qn("w:color"), "auto")
+            shd.set(qn("w:fill"), "F0F0F0")
+            hdr_cells[j]._tc.get_or_add_tcPr().append(shd)
 
-        # Body
+        # ── Body rows ──
         for row_cells in body_rows:
             row = table.add_row().cells
             for j, cell_tokens in enumerate(row_cells[:cols]):
                 p = row[j].paragraphs[0]
+                p.paragraph_format.space_before = Pt(1)
+                p.paragraph_format.space_after = Pt(1)
+                row[j].width = col_widths[j]
                 for tok in cell_tokens:
                     if tok.type == "inline":
-                        self._apply_inline(p, tok.children or [])
+                        self._apply_inline(p, tok.children or [],
+                                           font_size_override=TABLE_FONT_SIZE)
 
         self.doc.add_paragraph()  # spacing after table
 
@@ -518,9 +763,11 @@ class DOCXRenderer:
         # Use a shaded paragraph with monospace font
         para = self.doc.add_paragraph()
         para.paragraph_format.left_indent = Cm(1)
+        para.paragraph_format.space_before = Pt(3)
+        para.paragraph_format.space_after  = Pt(3)
         run = para.add_run(content.rstrip())
-        run.font.name = "Courier New"
-        run.font.size = Pt(9)
+        run.font.name = self.FONT_MONO
+        run.font.size = Pt(8.5)
         run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
         # Light grey shading
         pPr = para._p.get_or_add_pPr()
@@ -700,6 +947,10 @@ class DOCXRenderer:
             # ── PART ──────────────────────────────────────────────
             self._current_part_xx = xx
             self._chapter_counter = 0
+            self._current_part_label = f"Part {roman} — {h1_title}"
+
+            # New section with updated running header
+            self._new_section_with_headers(h1_title)
 
             # Part title heading
             h = self.doc.add_paragraph(style="Heading 1")
@@ -714,6 +965,9 @@ class DOCXRenderer:
             # ── CHAPTER ───────────────────────────────────────────
             self._chapter_counter += 1
             ch_num = self._chapter_counter
+
+            # New section with updated running header
+            self._new_section_with_headers(h1_title)
 
             # Chapter heading
             h = self.doc.add_paragraph(style="Heading 2")
@@ -789,11 +1043,8 @@ class DOCXRenderer:
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")
 
-            # Page break before article — but NOT before sub-sections
-            tier, xx, yy, zz = _classify_tier(p.name)
-            if i > 0 and tier != "subsection":
-                self.doc.add_page_break()
-
+            # Part/chapter articles use _new_section_with_headers (adds page break)
+            # Sub-sections continue on the same page — no break needed
             self.render_article(p)
 
         print(f"Writing -> {OUTPUT_DOCX}")
