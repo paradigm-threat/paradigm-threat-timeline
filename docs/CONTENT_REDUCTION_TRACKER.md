@@ -60,14 +60,19 @@ Record each reduction pass below. One row per editing session.
 | 2026-03-02 | Batch 9 (8 files) | P4: Aggressive trim | ~8,850 | ~4,560 | ~14 | brother-on-the-cross, ecliptic-pathway-absu, jeanne-darc, the-blip, 3-plasmoids, building-new-chronology, cathar-khazar-katya-link, 11th-century-common-era |
 
 **Cumulative savings (Batches 6-9):** ~28,930 words → ~81 pages estimated
-**Total savings (all sessions):** ~56,972 words → ~190 pages estimated
+**Total savings (all sessions through Batch 9):** ~56,972 words → ~190 pages estimated
+
+| 2026-03-03 | Micro-pass (108+ files) | P4: Systematic prose tightening | 84,002 | 75,189 | ~29 | All 183 content files reviewed; 108+ condensed 1-40w each; diminishing returns reached — most files at compression floor |
+
+**Cumulative savings (micro-pass):** ~8,813 words → ~29 pages estimated
+**Total savings (all sessions):** ~71,674 words → ~239 pages estimated
 
 **Running totals after all reductions:**
 
-| Metric | Baseline | After P1 | After P3+P4 | After Options 1-5 | After Batches 6-9 | Target |
-|---|---|---|---|---|---|---|
-| Total words | 146,863 | ~139,973 | ~129,593 | ~118,821 | **89,891** | ≤ 90,000 |
-| Est. pages (text) | ~490 | ~467 | ~432 | ~396 | ~300 | ≤ 300 (text) |
+| Metric | Baseline | After P1 | After P3+P4 | After Options 1-5 | After Batches 6-9 | After Micro-pass | Target |
+|---|---|---|---|---|---|---|---|
+| Total words | 146,863 | ~139,973 | ~129,593 | ~118,821 | 89,891 | **75,189** | ≤ 90,000 |
+| Est. pages (text) | ~490 | ~467 | ~432 | ~396 | ~300 | **~251** | ≤ 300 (text) |
 
 ---
 
