@@ -74,14 +74,16 @@ export const timelineEvents = [
     { year: 1774, title: "Carbon-14 spike / MudFlood begins", type: "map", lat: 55.75, lng: 37.62, chapter: "12", phase: "collapse" },
 
     // 19th century
-    { year: 1803, title: "Napoleonic Wars begin", type: "map", lat: 48.86, lng: 2.35, chapter: "13", phase: "post-horde" },
-    { year: 1812, title: "Napoleon invades Russia", type: "map", lat: 55.75, lng: 37.62, chapter: "13", phase: "post-horde" },
+    { year: 1803, title: "Napoleonic Wars begin — Reverse Crusade I", type: "map", lat: 48.86, lng: 2.35, chapter: "13", phase: "post-horde" },
+    { year: 1812, title: "Napoleon invades Russia — Reverse Crusade I", type: "map", lat: 55.75, lng: 37.62, chapter: "13", phase: "post-horde" },
     { year: 1840, title: "Ecliptic pathway of the Absu last seen", type: "map", lat: 55.75, lng: 37.62, chapter: "13", phase: "post-horde" },
     { year: 1848, title: "Battle for Communism's Soul: Marx vs Kinkel", type: "map", lat: 50.94, lng: 6.96, chapter: "13", phase: "post-horde" },
     { year: 1883, title: "Hijacking of Communism", type: "map", lat: 51.51, lng: -0.13, chapter: "13", phase: "post-horde" },
 
-    // 20th century
+    // 20th century — Reverse Crusades II & III
+    { year: 1914, title: "Reverse Crusade II begins (\"World War I\")", type: "map", lat: 48.21, lng: 16.37, chapter: "14", phase: "modern" },
     { year: 1917, title: "Bolshevik Revolution", type: "map", lat: 59.93, lng: 30.32, chapter: "14", phase: "modern" },
+    { year: 1941, title: "Reverse Crusade III — Operation Barbarossa (\"World War II\")", type: "map", lat: 52.52, lng: 13.41, chapter: "14", phase: "modern" },
 ];
 
 /**

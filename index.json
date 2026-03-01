@@ -503,34 +503,37 @@
         "_title": "19th Century: The Rise of Communism"
       },
       "13.01.00-1803-ce-napoleonic-wars.md": {
-        "_title": "Napoleonic Wars"
+        "_title": "Napoleonic Wars \u2014 Reverse Crusade I"
       },
-      "13.02.00-1812-ce-napoleon-invades-russia.md": {
-        "_title": "Napoleon invades Russia"
+      "13.01.01-1812-ce-napoleon-invades-russia.md": {
+        "_title": "Napoleon invades Russia \u2014 Reverse Crusade I"
       },
-      "13.02.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md": {
+      "13.01.02-1814-ce-aftermath-of-1812-russian-pursuit-to-paris.md": {
+        "_title": "Aftermath of 1812: Russian Pursuit to Paris"
+      },
+      "13.01.03-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md": {
         "_title": "Ecliptic pathway of the Absu last seen."
       },
-      "13.02.02-1880-ce-tchaikovsky-releases-1812-overture.md": {
+      "13.01.04-1880-ce-tchaikovsky-releases-1812-overture.md": {
         "_title": "Tchaikovsky releases 1812 Overture"
       },
-      "13.03.00-1848-ce-the-battle-for-communisms-soul.md": {
+      "13.02.00-1848-ce-the-battle-for-communisms-soul.md": {
         "_title": "The Battle for Communism's Soul: Marx vs. Kinkel and the Road Not Taken"
       },
-      "13.03.01-1883-ce-the-hijacking-of-communism.md": {
+      "13.02.01-1883-ce-the-hijacking-of-communism.md": {
         "_title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version"
       },
-      "13.04.00-1860-ce-the-assault-on-hordian-memory.md": {
+      "13.03.00-1860-ce-the-assault-on-hordian-memory.md": {
         "_title": "The 19th Century Assault on Hordian Memory"
       },
-      "13.05.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md": {
+      "13.04.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md": {
         "_title": "The Jesuit Restoration and the Missionary-Military Pattern"
       },
-      "_count": 9
+      "_count": 10
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-1900-ce-the-1917-revolution.md": {
-        "_title": "20th Century: The 1917 Revolution and the End of the Horde"
+        "_title": "20th Century: The Reverse Crusades Continue"
       },
       "14.01.00-1917-ce-the-bolshevik-revolution.md": {
         "_title": "The Bolshevik Revolution: Fulfilment of the Script"
@@ -550,11 +553,14 @@
       "14.05.00-1904-ce-the-american-chestnut-blight-martian-fungus-on-earth.md": {
         "_title": "The American Chestnut Blight: Martian Fungus on Earth"
       },
-      "_count": 7
+      "14.06.00-1948-ce-operation-mockingbird.md": {
+        "_title": "Operation Mockingbird: State-Sponsored Erasure Goes Public"
+      },
+      "_count": 8
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-the-final-struggle.md": {
-        "_title": "21st Century: The Final Struggle"
+        "_title": "21st Century: The Final Struggle \u2014 Reverse Crusade IV"
       },
       "_count": 1
     },
@@ -651,7 +657,7 @@
       },
       "_count": 1
     },
-    "_count": 183
+    "_count": 185
   },
   "data": {
     "events.json": {},
@@ -1099,7 +1105,10 @@
       "painting_ottoman_invades_vienna_1683.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
       },
-      "_count": 9
+      "ship-of-fools.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JaACdAD58C0sAAD4oFGdGRafDSW5HBqH6CD6s/MRX9ldhhME5E3YGAAAAA=="
+      },
+      "_count": 10
     },
     "11.ce-17th-romanovs-rise-to-power": {
       "1652_massacre_of_polish_captives_at_batih.jpg": {
@@ -1174,7 +1183,10 @@
       "melted-cities-geometry.png": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JaACdAD0drTmAAD+5ete9sKVIuEw5BMPGEx2yKDLbYIAAAA="
       },
-      "_count": 3
+      "mockingbird.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdADXFGAehAAA/mQLKRpy8FVMK0IH7jAqrwlYXqqdU1eL1ovAfKoAAA=="
+      },
+      "_count": 4
     },
     "15.ce-21st-the-final-struggle": {
       "predictive-programming.png": {
@@ -1227,7 +1239,7 @@
       },
       "_count": 14
     },
-    "_count": 158
+    "_count": 160
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1235,5 +1247,5 @@
     },
     "_count": 1
   },
-  "_count": 367
+  "_count": 371
 }

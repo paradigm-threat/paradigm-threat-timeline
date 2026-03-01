@@ -1092,6 +1092,9 @@
               "end": 1517,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/ship-of-fools.png"
           ]
         },
         {
@@ -1880,29 +1883,43 @@
       "children": [
         {
           "id": "evt-napoleonic-wars",
-          "title": "Napoleonic Wars",
+          "title": "Napoleonic Wars — Reverse Crusade I",
           "type": "event",
           "md_path": "content/13.ce-19th-rise-of-communism/13.01.00-1803-ce-napoleonic-wars.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1803,
-              "end": 1815,
-              "calendar": "CE"
-            }
-          ]
-        },
-        {
-          "id": "evt-napoleon-invades-russia",
-          "title": "Napoleon invades Russia",
-          "type": "event",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.02.00-1812-ce-napoleon-invades-russia.md",
           "children": [
+            {
+              "id": "evt-napoleon-invades-russia",
+              "title": "Napoleon invades Russia — Reverse Crusade I",
+              "type": "event",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.01.01-1812-ce-napoleon-invades-russia.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1812,
+                  "end": 1812,
+                  "calendar": "CE"
+                }
+              ]
+            },
+            {
+              "id": "evt-aftermath-of-1812-russian-pursuit-to-paris",
+              "title": "Aftermath of 1812: Russian Pursuit to Paris",
+              "type": "event",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.01.02-1814-ce-aftermath-of-1812-russian-pursuit-to-paris.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1814,
+                  "end": 1818,
+                  "calendar": "CE"
+                }
+              ]
+            },
             {
               "id": "evt-ecliptic-pathway-of-the-absu-last-seen",
               "title": "Ecliptic pathway of the Absu last seen.",
               "type": "event",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.02.01-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.01.03-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md",
               "children": [],
               "dates": [
                 {
@@ -1919,7 +1936,7 @@
               "id": "evt-tchaikovsky-releases-1812-overture",
               "title": "Tchaikovsky releases 1812 Overture",
               "type": "event",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.02.02-1880-ce-tchaikovsky-releases-1812-overture.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.01.04-1880-ce-tchaikovsky-releases-1812-overture.md",
               "children": [],
               "dates": [
                 {
@@ -1932,8 +1949,8 @@
           ],
           "dates": [
             {
-              "start": 1812,
-              "end": 1812,
+              "start": 1803,
+              "end": 1815,
               "calendar": "CE"
             }
           ]
@@ -1942,7 +1959,7 @@
           "id": "evt-the-battle-for-communisms-soul",
           "title": "The Battle for Communism's Soul: Marx vs. Kinkel and the Road Not Taken",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1848-ce-the-battle-for-communisms-soul.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.02.00-1848-ce-the-battle-for-communisms-soul.md",
           "media": [
             "media/13.ce-19th-rise-of-communism/marx-vs-kinkel.png"
           ],
@@ -1951,7 +1968,7 @@
               "id": "evt-hijacking-of-communism",
               "title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
               "type": "article",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.03.01-1883-ce-the-hijacking-of-communism.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.02.01-1883-ce-the-hijacking-of-communism.md",
               "children": [],
               "dates": [
                 {
@@ -1977,7 +1994,7 @@
           "id": "evt-assault-on-hordian-memory",
           "title": "The 19th Century Assault on Hordian Memory",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-1860-ce-the-assault-on-hordian-memory.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1860-ce-the-assault-on-hordian-memory.md",
           "children": [],
           "dates": [
             {
@@ -1991,7 +2008,7 @@
           "id": "evt-jesuit-restoration-missionary-military-pattern",
           "title": "The Jesuit Restoration and the Missionary-Military Pattern",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md",
           "children": [],
           "dates": [
             {
@@ -2018,7 +2035,7 @@
     },
     {
       "id": "evt-1917-revolution",
-      "title": "20th Century: The 1917 Revolution and the End of the Horde",
+      "title": "20th Century: The Reverse Crusades Continue",
       "type": "event",
       "md_path": "content/14.ce-20th-the-1917-revolution/14.00.00-1900-ce-the-1917-revolution.md",
       "children": [
@@ -2119,6 +2136,30 @@
           "media": [
             "/media/14.ce-20th-the-1917-revolution/chestnut-blight.png"
           ]
+        },
+        {
+          "id": "evt-operation-mockingbird",
+          "title": "Operation Mockingbird: State-Sponsored Erasure Goes Public",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.06.00-1948-ce-operation-mockingbird.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1948,
+              "end": 1975,
+              "calendar": "CE",
+              "note": "Official program dates; actual function continues under different names"
+            }
+          ],
+          "related_events": [
+            "evt-deep-state-breaks-up-the-hordian-empire",
+            "evt-deep-state-erases-russian-empire",
+            "evt-soviet-historiography",
+            "evt-predictive-programming"
+          ],
+          "media": [
+            "/media/14.ce-20th-the-1917-revolution/mockingbird.png"
+          ]
         }
       ],
       "dates": [
@@ -2131,7 +2172,7 @@
     },
     {
       "id": "evt-the-final-struggle",
-      "title": "21st Century: The Final Struggle",
+      "title": "21st Century: The Final Struggle — Reverse Crusade IV",
       "type": "event",
       "md_path": "content/15.ce-21st-the-final-struggle/15.00.00-2000-ce-the-final-struggle.md",
       "children": [],
