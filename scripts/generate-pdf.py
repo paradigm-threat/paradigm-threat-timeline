@@ -1108,9 +1108,6 @@ class PDFRenderer:
             self._chapter_counter = 0
             self._current_part_num = part_num
 
-            # Part title page
-            self._render_part_title_page(part_num, h1_title)
-
             # Update running headers
             part_label = f"Part {roman} — {h1_title}"
             self.pdf.part_title = part_label
@@ -1121,17 +1118,32 @@ class PDFRenderer:
             toc_label = f"Part {roman}:  {h1_title}"
             self.pdf.start_section(toc_label, level=0)
 
-            # Render Part body on the next recto page
+            # Open a new page (no ensure_recto — avoids blank pages after TOC)
             self.pdf._chapter_opener = True
             self.pdf.add_page()
             self._para_index = 0
 
-            # Small Part reference label at top
-            self.pdf.set_font(self.SANS, "", 7.5)
+            # "PART X" eyebrow label
+            self.pdf.set_font(self.SANS, "", 8)
             self.pdf.set_text_color(*C_GRAY)
-            self.pdf.cell(0, 4, f"Part {roman}",
+            self.pdf.cell(0, 5, f"PART {roman}",
                           new_x="LMARGIN", new_y="NEXT")
-            self.pdf.ln(1)
+            self.pdf.ln(2)
+
+            # Large Part title (bigger than chapter h1)
+            self.pdf.set_font(self.SANS, "B", 28)
+            self.pdf.set_text_color(*C_DARK)
+            self.pdf.multi_cell(0, 13, self._t(h1_title),
+                                new_x="LMARGIN", new_y="NEXT")
+            self.pdf.ln(3)
+
+            # Ornamental rule
+            y = self.pdf.get_y()
+            self.pdf.set_draw_color(*C_GOLD)
+            self.pdf.set_line_width(0.7)
+            self.pdf.line(self.pdf.l_margin, y,
+                          self.pdf.w - self.pdf.r_margin, y)
+            self.pdf.ln(6)
 
             self._restore_body()
             tokens = self._strip_first_h1(self.md.parse(text))
