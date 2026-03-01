@@ -1227,21 +1227,7 @@ class PDFRenderer:
         self.pdf.cell(0, 8, self._t(f"Version {PKG_VERSION}"), align="C",
                       new_x="LMARGIN", new_y="NEXT")
 
-        # ---- Copyright page (page ii — verso) ----
-        self.pdf.add_page()
-        self.pdf.ln(80)
-        self.pdf.set_font(self.SERIF, "", 9)
-        self.pdf.set_text_color(*C_GRAY)
-        copyright_text = (
-            "Copyright \u00a9 Paradigm Threat Research Project\n"
-            "All rights reserved.\n\n"
-            "Early draft \u2014 not for distribution.\n"
-            f"Version {PKG_VERSION}"
-        )
-        self.pdf.multi_cell(0, 5, self._t(copyright_text),
-                            align="C", new_x="LMARGIN", new_y="NEXT")
-
-        # ---- Table of Contents (starts page iii) ----
+        # ---- Table of Contents (starts page ii) ----
         self._toc_pages = 8
         self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
 
