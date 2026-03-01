@@ -155,36 +155,119 @@ Track changes to render in 3D:
 | Earth | Within plasma sheath | Variable year length | Current |
 | Sky color | Deep blue to yellow-orange | Red/purple chaos | Blue |
 
-### 2.4 3D Scene Sequence Plan
+### 2.4 Planet Animation Specifications (Per-Planet Detail)
+
+#### Saturn — from Brown Dwarf to Ringed Planet
+
+| Phase | Year Range | Appearance | Animation Details |
+|-------|-----------|------------|-------------------|
+| Before Creation | -5000 to -4077 | Dim orange-brown dwarf | Faint glow, pulsing emissive, NO rings |
+| Golden Age | -4077 to -3147 | **Sunlike** brilliant gold body | Large radiant glow sprite, strong emissive, NO rings; spoked "Wheel of Heaven" overlay rotating slowly; plasma halo (Absu) surrounds entire configuration |
+| Breakup | -3147 to -3067 | Losing luminosity | Glow fading rapidly, jolts of brightness (electric discharge), still NO rings |
+| Round Table | -3067 to -2349 | Dim, retreating to outer solar system | Far away, small, barely glowing, NO rings; Saturn has "fled" |
+| Post-Deluge | -2349 to -806 | Distant speck | Very dim, outer solar system position, NO rings |
+| Stabilization | -806 to -670 | Rings **forming** | Ring opacity animates from 0→0.5 over this period; color shifts from orange to golden-yellow |
+| Modern | -670 onward | Modern Saturn | Full rings visible (opacity 0.5), yellow-gold color, faint glow |
+
+#### Venus — from Plasmoid Star to Dragon to Planet
+
+| Phase | Year Range | Appearance | Animation Details |
+|-------|-----------|------------|-------------------|
+| Golden Age | -4077 to -3147 | **Plasmoid star (4-5-6-7-8 pointed)** | Custom star geometry that morphs between 4→5→6→7→8 sides in a slow cycle; bright white-green emissive; plasma shimmer effect (pulsing scale + opacity); single luminous shape, NOT multiple stars |
+| Breakup | -3147 to -3067 | Destabilizing plasmoid | Star shape distorts, flickers, points elongate irregularly; color shifts white→yellow; chaotic pulsing |
+| Round Table | -3067 to -2349 | **Comet Venus** | Elongated trail/hair of particles streaming behind; yellowish-green glow; "long disheveled hair" as described in Norse sources |
+| Deluge | -2349 to -2193 | **Threatening comet** | Red-tinted comet, larger tail, particles directed toward Earth; "dragon approaching" — multi-armed writhing tail |
+| Post-Deluge | -2193 to -1492 | Consumed/dormant | Dim, small, yellowish; consumed by Jupiter encounter; barely visible |
+| Venus Returns | -1492 to -1442 | **The Dragon** — Venus + Mars tethered | Venus has massive plasma tail appearing as a multi-headed serpent/dragon; Mars and Venus connected by electric tether (lightning arc between them); red-and-green intertwined plasma streams |
+| Sun Stands Still | -1442 to -806 | Dragon calming → spheroid | Plasma tail shrinking; Venus transitioning from comet to spherical planet; color shifting from green/white to warm yellow |
+| Modern | -670 onward | Standard planet | Small warm-yellow sphere, no tail, no plasma effects |
+
+#### Mars — from Solid Sphere to Shell Explosion
+
+| Phase | Year Range | Appearance | Animation Details |
+|-------|-----------|------------|-------------------|
+| Golden Age | -4077 to -3147 | **Solid red sphere** (Fenrir/wolf) | Opaque, metallic red-orange; NO glow effects; always looks solid and heavy; surface detail (roughness=0.7, metalness=0.2) |
+| Breakup | -3147 to -3067 | Solid sphere jolted | Slightly displaced, same solid appearance; minor surface sparks |
+| Round Table | -3067 to -2349 | **Outer shell visible** — "Priori-Mars" | Translucent outer shell (larger sphere wireframe/transparent around solid inner core); the outer shell is the light-element crust that will eventually become iron and break away |
+| Deluge | -2349 to -2193 | Close approach to Earth | Mars looms large; outer shell glows red from electric discharge; inner core partially visible through cracks |
+| Venus Returns | -1492 to -806 | **Tethered to Venus as dragon-pair** | Electric arc/tether connecting Mars to Venus; Mars oscillates closer/further from Earth; outer shell showing stress fractures (animated cracks of light) |
+| Stabilization | -806 to -670 | **Outer shell EXPLODES** | Animated shell-burst: outer transparent sphere shatters into fragments (particle burst); fragments scatter outward becoming the asteroid belt; solid inner core (smaller, darker red) remains and drifts to final orbit |
+| Modern | -670 onward | Modern Mars | Small, dark red, no shell, no special effects; the shell is gone forever |
+
+#### The Dragon Configuration (Venus + Mars combined, Dark Ages)
+
+During the "venus-returns" phase (-1492 to -806):
+- Venus and Mars are **tethered together by Birkeland currents** (visible electric arc)
+- Venus's plasma tail wraps around / intertwines with Mars's position
+- From Earth's perspective this looks like a **multi-headed dragon** — the Chinese Dragon, Typhon, the Midgard Serpent
+- Red (Mars) and green/white (Venus) plasma streams interweave
+- The dragon figure oscillates and writhes — animated via sine-wave displacement of tether particles
+- Mars = "Michael", the dragon-slayer who is also the dragon
+- Venus = "Lucifer", the fallen morning star turned chaos comet
+
+#### Birkeland Current Tethers (Bifröst)
+
+| Phase | Visible Between | Color | Notes |
+|-------|----------------|-------|-------|
+| Golden Age | All collinear planets | Blue-white | Steady, straight, Tree of Life / Bifröst |
+| Breakup | Fragmenting arcs | White-red | Snapping, sparking |
+| Round Table | Jupiter + inner planets | Orange | Weaker, circular |
+| Venus Returns | Venus ↔ Mars (dragon tether) | Red-green intertwined | The dragon's body |
+| Modern | None visible | — | Tethers gone |
+
+### 2.5 3D Scene Sequence Plan
 
 **Scene 1: Creation / Before Golden Age**
 - Chaotic plasma environment
-- Saturn coalescing
+- Saturn coalescing as dim brown dwarf
 - Proto-configuration forming
 
 **Scene 2: Golden Age Stable**
 - Northern view: Tree of Life with Wheel of Heaven
-- Southern view: Petroglyph figures
-- Peaceful, stable lighting
+- Saturn = brilliant sunlike body, NO rings, Absu halo
+- Venus = morphing 4-5-6-7-8 pointed plasmoid star, single glowing shape
+- Mars = solid red sphere (Fenrir), always heavy/opaque
+- Birkeland currents (Bifröst) connect all planets in column
+- Peaceful, stable lighting; sky deep blue to yellow-orange at horizon
 
 **Scene 3: Catastrophic Breakup (3147 BCE)**
-- Configuration shatters
-- Planets scatter
-- Plasma discharges everywhere
+- Configuration shatters with electric discharge effects
+- Planets scatter — Venus's star shape destabilizes
+- Saturn's glow dims rapidly; plasma discharges everywhere
+- Mars jolted but stays solid
 
-**Scene 4: Dark Age Chaos**
-- Non-linear "Round Table" configuration
-- Jupiter dominant
-- Mars and Venus as tethered dragon
+**Scene 4: Dark Age — Round Table (3067–2349 BCE)**
+- Non-linear "Round Table" configuration around empty barycenter
+- Jupiter dominant "King" at center mass
+- Mars shows translucent outer shell around solid core ("Priori-Mars")
+- Venus appears as comet with long plasma tail ("disheveled hair")
+- Saturn fleeing to outer solar system, dim
 
-**Scene 5: Deluge**
-- Water catastrophe
-- Major plasma events
+**Scene 5: Deluge (2349–2193 BCE)**
+- Venus as threatening red-tinted comet aimed at Earth
+- Mars looming close, shell glowing from discharge
+- Water/plasma catastrophe effects
 
-**Scene 6: Stabilization**
-- Planets separate to current orbits
-- Saturn gains rings
-- Modern solar system emerges
+**Scene 6: The Dragon — Venus Returns (1492–806 BCE)**
+- Venus and Mars tethered together as the dragon
+- Electric arc (Birkeland current) connects them
+- Venus's multi-armed plasma tail writhes like a serpent
+- Mars's outer shell showing stress fractures, glowing cracks
+- Most visually dramatic phase
+
+**Scene 7: Shell Explosion — Stabilization (806–670 BCE)**
+- Mars's outer shell EXPLODES in particle burst
+- Shell fragments scatter outward (asteroid belt forming)
+- Solid inner core of Mars remains, drifts to final orbit
+- Venus calms from dragon/comet to spheroid
+- Saturn GAINS RINGS (ring opacity animates 0→0.5)
+
+**Scene 8: Modern Solar System (670 BCE onward)**
+- All planets in standard concentric orbits
+- Saturn with full rings
+- Mars small, dark, no shell
+- Venus standard warm yellow
+- No plasma effects, no tethers
 
 ---
 

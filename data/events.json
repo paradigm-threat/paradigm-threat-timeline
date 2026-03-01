@@ -530,7 +530,7 @@
     },
     {
       "id": "evt-the-blip-7th-century-bce-to-10th-century-ce-never-",
-      "title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred",
+      "title": "670 BCE: The Blip",
       "type": "event",
       "md_path": "content/04.the-blip/04.00.00-670-bce-the-blip.md",
       "children": [
@@ -849,9 +849,9 @@
       "children": [
         {
           "id": "evt-european-religious-schism-emerges",
-          "title": "European Religious Schism Emerges",
+          "title": "1300 CE: European Religious Schism Emerges",
           "type": "article",
-          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.01.00-european-religious-schism-emerges.md",
+          "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.01.00-1300-ce-european-religious-schism-emerges.md",
           "children": [],
           "media": [
             "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-religious-schism.png",
@@ -1820,6 +1820,30 @@
           "media": [
             "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png"
           ]
+        },
+        {
+          "id": "evt-mars-catastrophe-brandenburg",
+          "title": "The Mars Catastrophe: Brandenburg's Nuclear Evidence",
+          "type": "article",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1774,
+              "end": 1774,
+              "calendar": "CE"
+            }
+          ],
+          "related_events": [
+            "evt-the-mudflood-and-world-cataclysm",
+            "evt-mysterious-carbon-14-spike",
+            "evt-the-rebellion-of-pugachev",
+            "evt-instant-fossilization-and-electric-petrification",
+            "evt-american-chestnut-blight"
+          ],
+          "media": [
+            "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png"
+          ]
         }
       ],
       "dates": [
@@ -2063,6 +2087,28 @@
             "evt-jesuits-convert-native-religions-to-monotheism",
             "evt-secret-society-of-jesus-goes-public"
           ]
+        },
+        {
+          "id": "evt-american-chestnut-blight",
+          "title": "The American Chestnut Blight: Martian Fungus on Earth",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.05.00-1904-ce-the-american-chestnut-blight-martian-fungus-on-earth.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1904,
+              "end": 1950,
+              "calendar": "CE"
+            }
+          ],
+          "related_events": [
+            "evt-mars-catastrophe-brandenburg",
+            "evt-the-mudflood-and-world-cataclysm",
+            "evt-predictive-programming"
+          ],
+          "media": [
+            "/media/14.ce-20th-the-1917-revolution/chestnut-blight.png"
+          ]
         }
       ],
       "dates": [
@@ -2084,7 +2130,10 @@
           "title": "Predictive Programming: Fiction as Control",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.01.00-predictive-programming-fiction-as-control.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/15.ce-21st-the-final-struggle/predictive-programming.png"
+          ]
         }
       ],
       "dates": [

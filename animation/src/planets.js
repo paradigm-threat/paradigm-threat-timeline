@@ -35,9 +35,13 @@ export function initPlanetScene(canvas) {
     // Create planetary bodies
     createSaturn();
     createVenus();
+    createVenusStar();
     createMars();
+    createMarsShell();
     createEarth();
     createJupiter();
+    createCometTail();
+    createDragonTether();
     createPlasmaField();
     createStarfield();
 
@@ -164,6 +168,104 @@ function createJupiter() {
     planets.jupiter = mesh;
 }
 
+/** Venus Plasmoid Star — morphing N-pointed star (4→5→6→7→8 sides) for Golden Age */
+function createVenusStar() {
+    const shape = new THREE.Shape();
+    const n = 8, outerR = 0.5, innerR = 0.2;
+    for (let i = 0; i <= n * 2; i++) {
+        const angle = (i / (n * 2)) * Math.PI * 2 - Math.PI / 2;
+        const r = i % 2 === 0 ? outerR : innerR;
+        const x = r * Math.cos(angle);
+        const y = r * Math.sin(angle);
+        if (i === 0) shape.moveTo(x, y); else shape.lineTo(x, y);
+    }
+    const geo = new THREE.ShapeGeometry(shape);
+    const mat = new THREE.MeshStandardMaterial({
+        color: 0xffffff, emissive: 0xeeffee, emissiveIntensity: 1.0,
+        roughness: 0, transparent: true, opacity: 0.95, side: THREE.DoubleSide,
+    });
+    const mesh = new THREE.Mesh(geo, mat);
+    mesh.visible = false;
+    mesh.position.set(0, 2, 0);
+    scene.add(mesh);
+    planets.venusStar = mesh;
+
+    // Star glow
+    const glowTex = createGlowTexture();
+    const glowMat = new THREE.SpriteMaterial({
+        map: glowTex, color: 0xaaffcc, transparent: true, opacity: 0.5,
+        blending: THREE.AdditiveBlending,
+    });
+    const glow = new THREE.Sprite(glowMat);
+    glow.scale.set(3.5, 3.5, 1);
+    mesh.add(glow);
+    planets.venusStarGlow = glow;
+}
+
+/** Mars Outer Shell — translucent sphere around Mars core */
+function createMarsShell() {
+    const geo = new THREE.SphereGeometry(0.55, 24, 24);
+    const mat = new THREE.MeshStandardMaterial({
+        color: 0xcc6644, emissive: 0x883300, emissiveIntensity: 0.15,
+        roughness: 0.4, transparent: true, opacity: 0.15, side: THREE.DoubleSide,
+    });
+    const mesh = new THREE.Mesh(geo, mat);
+    mesh.visible = false;
+    scene.add(mesh);
+    planets.marsShell = mesh;
+
+    // Wireframe overlay for crust lines
+    const wireMat = new THREE.MeshBasicMaterial({
+        color: 0xcc4400, wireframe: true, transparent: true, opacity: 0.12,
+    });
+    mesh.add(new THREE.Mesh(new THREE.SphereGeometry(0.56, 12, 10), wireMat));
+}
+
+/** Comet Tail particles for Venus in comet/dragon phases */
+function createCometTail() {
+    const count = 500;
+    const positions = new Float32Array(count * 3);
+    for (let i = 0; i < count; i++) {
+        positions[i * 3] = (Math.random() - 0.5) * 0.5;
+        positions[i * 3 + 1] = (Math.random() - 0.5) * 0.5;
+        positions[i * 3 + 2] = Math.random() * 3 + 0.5;
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+    const mat = new THREE.PointsMaterial({
+        size: 0.06, color: 0xaaff88, transparent: true, opacity: 0.5,
+        blending: THREE.AdditiveBlending, depthWrite: false,
+    });
+    const pts = new THREE.Points(geo, mat);
+    pts.visible = false;
+    scene.add(pts);
+    planets.cometTail = pts;
+}
+
+/** Dragon Tether — electric arc between Venus and Mars */
+function createDragonTether() {
+    const segments = 60;
+    const positions = new Float32Array(segments * 3);
+    const colors = new Float32Array(segments * 3);
+    for (let i = 0; i < segments; i++) {
+        const frac = i / segments;
+        colors[i * 3] = 0.3 + 0.7 * (1 - frac);     // red → fade
+        colors[i * 3 + 1] = 0.2 + 0.6 * frac;        // → green
+        colors[i * 3 + 2] = 0.1;
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+    geo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+    const mat = new THREE.LineBasicMaterial({
+        vertexColors: true, transparent: true, opacity: 0.7,
+        blending: THREE.AdditiveBlending, depthWrite: false,
+    });
+    const line = new THREE.Line(geo, mat);
+    line.visible = false;
+    scene.add(line);
+    planets.dragonTether = line;
+}
+
 function createPlasmaField() {
     // Particle system for Absu plasma layers
     const count = 2000;
@@ -245,6 +347,8 @@ export function updatePlanetScene(year) {
     if (!config) return;
 
     currentConfig = config;
+    const id = config.id;
+    const elapsed = year - config.yearStart;
 
     // Sky color
     scene.background = new THREE.Color(config.skyColor);
@@ -259,31 +363,106 @@ export function updatePlanetScene(year) {
             planets.saturn.material.color.set(config.saturn.color);
             planets.saturn.material.emissive.set(config.saturn.color);
         }
-        // Rings
-        planets.saturnRings.material.opacity = config.saturn.rings ? 0.5 : 0;
+        // Rings — animate fade-in during stabilization
+        if (id === 'stabilization') {
+            const dur = config.yearEnd - config.yearStart;
+            const progress = Math.min(1, elapsed / dur);
+            planets.saturnRings.material.opacity = progress * 0.5;
+        } else {
+            planets.saturnRings.material.opacity = config.saturn.rings ? 0.5 : 0;
+        }
     }
 
-    // Venus
+    // ── Venus phases ──
+    const isGolden = (id === 'golden-age');
+    const isBreakup = (id === 'breakup');
+    const isComet = (id === 'round-table' || id === 'deluge');
+    const isDragon = (id === 'venus-returns');
+    const isCalming = (id === 'stabilization');
+
+    // Plasmoid star (golden-age / breakup)
+    if (planets.venusStar) {
+        planets.venusStar.visible = isGolden || isBreakup;
+        if (isGolden && config.venus?.position) {
+            lerpPosition(planets.venusStar, config.venus.position);
+            planets.venusStar.material.emissiveIntensity = 1.0;
+        } else if (isBreakup && config.venus?.position) {
+            lerpPosition(planets.venusStar, config.venus.position);
+            planets.venusStar.material.emissiveIntensity = 0.5 + 0.5 * Math.random();
+        }
+    }
+
+    // Venus sphere
     if (config.venus) {
-        planets.venus.visible = true;
-        lerpPosition(planets.venus, config.venus.position);
-        const isPlasma = config.venus.type === 'plasmoid';
-        planets.venus.material.emissiveIntensity = isPlasma ? 1.0 : 0.3;
-        planets.venusGlow.material.opacity = isPlasma ? 0.5 : 0.15;
-        if (config.venus.color) {
-            planets.venus.material.color.set(config.venus.color);
-            planets.venus.material.emissive.set(config.venus.color);
+        planets.venus.visible = !(isGolden || isBreakup); // hide sphere when star is showing
+        if (planets.venus.visible) {
+            lerpPosition(planets.venus, config.venus.position);
+            const isPlasma = config.venus.type === 'plasmoid';
+            planets.venus.material.emissiveIntensity = isPlasma ? 1.0 : 0.3;
+            planets.venusGlow.material.opacity = isPlasma ? 0.5 : 0.15;
+            if (config.venus.color) {
+                planets.venus.material.color.set(config.venus.color);
+                planets.venus.material.emissive.set(config.venus.color);
+            }
         }
     } else {
         planets.venus.visible = false;
     }
 
-    // Mars
+    // Comet tail
+    if (planets.cometTail) {
+        planets.cometTail.visible = isComet || isDragon || isCalming;
+        if (isComet) {
+            planets.cometTail.material.color.set(id === 'deluge' ? 0xff4444 : 0xaaff88);
+            planets.cometTail.material.opacity = 0.5;
+        } else if (isDragon) {
+            planets.cometTail.material.color.set(0x44ff88);
+            planets.cometTail.material.opacity = 0.6;
+        } else if (isCalming) {
+            const dur = config.yearEnd - config.yearStart;
+            const progress = Math.min(1, elapsed / dur);
+            planets.cometTail.material.opacity = 0.5 * (1 - progress);
+        }
+    }
+
+    // ── Mars phases ──
     if (config.mars) {
         planets.mars.visible = true;
         lerpPosition(planets.mars, config.mars.position);
     } else {
         planets.mars.visible = false;
+    }
+
+    // Mars outer shell
+    if (planets.marsShell) {
+        const shellPhases = ['round-table', 'deluge', 'post-deluge', 'venus-returns'];
+        const showShell = shellPhases.includes(id);
+        planets.marsShell.visible = showShell;
+        if (showShell && config.mars?.position) {
+            lerpPosition(planets.marsShell, config.mars.position);
+            if (id === 'venus-returns') {
+                planets.marsShell.material.emissive.set(0xff4400);
+                planets.marsShell.material.emissiveIntensity = 0.3;
+            } else {
+                planets.marsShell.material.emissive.set(0x883300);
+                planets.marsShell.material.emissiveIntensity = 0.15;
+            }
+        }
+        // Mars shrinks during stabilization (shell lost)
+        if (id === 'stabilization') {
+            const dur = config.yearEnd - config.yearStart;
+            const loss = Math.min(1, elapsed / dur);
+            planets.mars.scale.setScalar(1.0 - loss * 0.3);
+        } else if (id === 'modern-solar') {
+            planets.mars.scale.setScalar(0.7);
+        } else {
+            planets.mars.scale.setScalar(1.0);
+        }
+    }
+
+    // Dragon tether
+    if (planets.dragonTether) {
+        planets.dragonTether.visible = isDragon;
     }
 
     // Earth
@@ -328,6 +507,74 @@ function animate() {
     if (planets.mars?.visible) planets.mars.rotation.y += 0.004;
     if (planets.earth?.visible) planets.earth.rotation.y += 0.003;
     if (planets.jupiter?.visible) planets.jupiter.rotation.y += 0.001;
+
+    // Venus plasmoid star morph (4→5→6→7→8 cycle)
+    if (planets.venusStar?.visible) {
+        const cycle = 20;
+        const frac = (t % cycle) / cycle;
+        const sides = 4 + 4 * (frac < 0.5 ? frac * 2 : 2 - frac * 2);
+        // Recreate star geometry with current side count
+        const shape = new THREE.Shape();
+        const n = Math.round(sides), outerR = 0.5, innerR = 0.2;
+        for (let i = 0; i <= n * 2; i++) {
+            const angle = (i / (n * 2)) * Math.PI * 2 - Math.PI / 2;
+            const r = i % 2 === 0 ? outerR : innerR;
+            const x = r * Math.cos(angle);
+            const y = r * Math.sin(angle);
+            if (i === 0) shape.moveTo(x, y); else shape.lineTo(x, y);
+        }
+        planets.venusStar.geometry.dispose();
+        planets.venusStar.geometry = new THREE.ShapeGeometry(shape);
+        // Pulsing scale
+        const pulse = 1.0 + 0.15 * Math.sin(t * 2.5);
+        planets.venusStar.scale.setScalar(pulse);
+    }
+
+    // Comet tail serpentine animation
+    if (planets.cometTail?.visible && planets.venus?.visible) {
+        const positions = planets.cometTail.geometry.attributes.position;
+        for (let i = 0; i < positions.count; i++) {
+            let x = positions.getX(i);
+            let y = positions.getY(i);
+            let z = positions.getZ(i);
+            x += Math.sin(t * 3 + i * 0.1) * 0.01;
+            y += Math.cos(t * 2.7 + i * 0.13) * 0.01;
+            z += 0.03;
+            if (z > 5 || Math.abs(x) > 3) {
+                x = (Math.random() - 0.5) * 0.3;
+                y = (Math.random() - 0.5) * 0.3;
+                z = 0;
+            }
+            positions.setXYZ(i, x, y, z);
+        }
+        positions.needsUpdate = true;
+        planets.cometTail.position.copy(planets.venus.position);
+    }
+
+    // Mars shell breathing
+    if (planets.marsShell?.visible) {
+        const breathe = 1.0 + 0.05 * Math.sin(t * 1.3);
+        planets.marsShell.scale.setScalar(breathe);
+    }
+
+    // Dragon tether writhing
+    if (planets.dragonTether?.visible && planets.venus?.visible && planets.mars?.visible) {
+        const positions = planets.dragonTether.geometry.attributes.position;
+        const vp = planets.venus.position;
+        const mp = planets.mars.position;
+        const segments = positions.count;
+        for (let i = 0; i < segments; i++) {
+            const frac = i / (segments - 1);
+            const x = mp.x + (vp.x - mp.x) * frac;
+            const y = mp.y + (vp.y - mp.y) * frac;
+            const z = mp.z + (vp.z - mp.z) * frac;
+            const amp = 0.3 * Math.sin(frac * Math.PI);
+            const wave1 = amp * Math.sin(t * 5 + frac * 12);
+            const wave2 = amp * 0.6 * Math.cos(t * 3.7 + frac * 8);
+            positions.setXYZ(i, x + wave1 * 0.7, y + wave2, z + wave1 * 0.3);
+        }
+        positions.needsUpdate = true;
+    }
 
     // Plasma particle slow rotation
     if (plasmaParticles?.visible) {

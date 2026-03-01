@@ -188,7 +188,7 @@
     },
     "04.the-blip": {
       "04.00.00-670-bce-the-blip.md": {
-        "_title": "The Blip: 7th Century B.C.E. to 10th Century C.E. Never Occurred"
+        "_title": "670 BCE: The Blip"
       },
       "04.01.00-building-the-new-chronology.md": {
         "_title": "Building the New Chronology"
@@ -268,8 +268,8 @@
       "08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md": {
         "_title": "14th Century C.E.: The Great Expansion \u2014 Triumph and Betrayal"
       },
-      "08.01.00-european-religious-schism-emerges.md": {
-        "_title": "European Religious Schism Emerges"
+      "08.01.00-1300-ce-european-religious-schism-emerges.md": {
+        "_title": "1300 CE: European Religious Schism Emerges"
       },
       "08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md": {
         "_title": "Giants are defeated at the Battle of Kulikovo"
@@ -490,7 +490,10 @@
       "12.05.00-1774-ce-instant-fossilization-and-electric-petrification.md": {
         "_title": "Instant Fossilization and Electric Petrification"
       },
-      "_count": 6
+      "12.06.00-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md": {
+        "_title": "The Mars Catastrophe: Brandenburg's Nuclear Evidence"
+      },
+      "_count": 7
     },
     "13.ce-19th-rise-of-communism": {
       "13.00.00-1800-ce-19th-century-rise-of-communism.md": {
@@ -541,7 +544,10 @@
       "14.04.00-1900-ce-from-missionaries-to-corporations.md": {
         "_title": "From Missionaries to Corporations: The 20th Century Succession"
       },
-      "_count": 6
+      "14.05.00-1904-ce-the-american-chestnut-blight-martian-fungus-on-earth.md": {
+        "_title": "The American Chestnut Blight: Martian Fungus on Earth"
+      },
+      "_count": 7
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-the-final-struggle.md": {
@@ -636,7 +642,7 @@
       },
       "_count": 1
     },
-    "_count": 178
+    "_count": 180
   },
   "data": {
     "events.json": {},
@@ -1108,10 +1114,28 @@
       "instant-fossilization.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JQBOgCIG/tnc7tpwAAD+5edscWXbkif5q35DC4CpgF4OL8eijBjJwmfIAAAA"
       },
+      "mars-catastrophe.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdAEVy3ggAAD+ghznb2OOnU5UAg22OS3g6rO+JXedOuvz6mHKyfbLFwmqZV7Jf3kAAAA="
+      },
+      "mars-catastrophe2.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JbACdAC4GZrAAP7QTbNvflxn9s7FYEW+2TcOUNdUQtCu2qdig1dRdg38IaL1QLUSSgAA"
+      },
+      "mars-catastrophe3.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZgCdADO5eyWq4AA/qjnsINOYBuQjf7Ri7ohSI6Gfq7uXABFceAQc8LBShYa8NMgAA=="
+      },
+      "mars-civilization.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JYgCdAD7JdSjQp4AAP4/sWVbVHzNoQzL0MwgaVhlf4SlFjoqxNGS/+eeYT0kojDRnJZAAAA="
+      },
+      "martian-appearance.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JQBOgCLKUqAAAPEY/YzTqfmjMQbVi1NxYnP9sKiwN9Pq7HFHpjUlMEYa3HyqAAA="
+      },
       "mudflood.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JagCdADcpMVs3dgA9hyDjAMxJymBfW1DuiQCbmjxukVdUe1kWisCVZD6wAAA"
       },
-      "_count": 2
+      "telepathic-purge.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JagCdABwWLMIAAD9tcL1Dt1MoZ/d0KLuN+XS0RFPdNnAmo0WeQ2M5WGBVgAA"
+      },
+      "_count": 8
     },
     "13.ce-19th-rise-of-communism": {
       "gottfried-kinkel-escape.png": {
@@ -1131,8 +1155,17 @@
       },
       "_count": 5
     },
+    "14.ce-20th-the-1917-revolution": {
+      "chestnut-blight.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAQCdASoQAAsABUB8JagCdAIHgADj527AxNCSJtfZspQj4MjZEGbliUympnBfOsc51OH0RI11e5apMnBNabcAAAA="
+      },
+      "_count": 1
+    },
     "15.ce-21st-the-final-struggle": {
-      "_count": 0
+      "predictive-programming.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JbACdADIvAhcAAD+g5npqLzLSmmW8n5hcxBBGGKswgmdayzezWlqiwW6y+AA"
+      },
+      "_count": 1
     },
     "16-author-profiles": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1176,7 +1209,7 @@
       },
       "_count": 13
     },
-    "_count": 148
+    "_count": 156
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1184,5 +1217,5 @@
     },
     "_count": 1
   },
-  "_count": 351
+  "_count": 361
 }

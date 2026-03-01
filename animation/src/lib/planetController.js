@@ -122,6 +122,15 @@ export async function createPlanetController(canvas) {
     const plasma = buildPlasmaField(scene, THREE);
     buildStarfield(scene, THREE);
 
+    // ── New planet animation objects ──
+    buildVenusStar(scene, p, THREE);        // morphing N-pointed plasmoid star
+    buildCometTail(scene, p, THREE);        // Venus comet tail particles
+    buildMarsShell(scene, p, THREE);        // translucent outer shell
+    buildMarsShellFragments(scene, p, THREE); // explosion fragments
+    buildDragonTether(scene, p, THREE);     // electric arc Venus↔Mars
+    buildBirkelandCurrents(scene, p, THREE); // collinear phase tethers
+    buildWheelOfHeaven(scene, p, THREE);    // Saturn's Wheel of Heaven overlay
+
     // ── Labels ──
     const L = {};
     L.sun = buildLabel('SUN', '#ffffaa', THREE);
@@ -173,6 +182,7 @@ export async function createPlanetController(canvas) {
     // ── Render loop ──
     function animate() {
         animId = requestAnimationFrame(animate);
+        const t = performance.now() * 0.001;
         if (p.sun) p.sun.rotation.y += 0.001;
         if (p.saturn?.visible) p.saturn.rotation.y += 0.002;
         if (p.venus?.visible) p.venus.rotation.y += 0.005;
@@ -184,8 +194,63 @@ export async function createPlanetController(canvas) {
         if (p.uranus?.visible) p.uranus.rotation.y += 0.001;
         if (plasma?.visible) {
             plasma.rotation.y += 0.0005;
-            plasma.rotation.x = Math.sin(performance.now() * 0.0001) * 0.05;
+            plasma.rotation.x = Math.sin(t * 0.1) * 0.05;
         }
+
+        // ── Animate Venus plasmoid star morph (4→5→6→7→8 sided cycle) ──
+        if (p.venusStar?.visible) {
+            const cycle = 20; // seconds per full 4→8→4 cycle
+            const frac = (t % cycle) / cycle;
+            // Map 0→1 to 4→8→4 smoothly
+            const sides = 4 + 4 * (frac < 0.5 ? frac * 2 : 2 - frac * 2);
+            updateVenusStarGeometry(p.venusStar, sides, THREE);
+            // Pulsing scale
+            const pulse = 1.0 + 0.15 * Math.sin(t * 2.5);
+            p.venusStar.scale.setScalar(pulse);
+            // Shimmer opacity
+            if (p.venusStarGlow?.visible) {
+                p.venusStarGlow.material.opacity = 0.4 + 0.2 * Math.sin(t * 3.7);
+            }
+        }
+
+        // ── Animate comet tail particles ──
+        if (p.cometTail?.visible) {
+            animateCometTail(p, t, THREE);
+        }
+
+        // ── Animate Mars outer shell breathing ──
+        if (p.marsShell?.visible) {
+            const breathe = 1.0 + 0.05 * Math.sin(t * 1.3);
+            p.marsShell.scale.setScalar(breathe);
+            // Stress fractures glow in venus-returns phase
+            if (p.marsShell.userData.stressed) {
+                p.marsShell.material.emissiveIntensity = 0.3 + 0.3 * Math.abs(Math.sin(t * 4.0));
+            }
+        }
+
+        // ── Animate shell explosion fragments ──
+        if (p.marsFragments?.visible) {
+            animateShellFragments(p.marsFragments, t, THREE);
+        }
+
+        // ── Animate dragon tether (electric arc) ──
+        if (p.dragonTether?.visible) {
+            animateDragonTether(p, t, THREE);
+        }
+
+        // ── Animate Birkeland currents ──
+        if (p.birkelandCurrents?.visible) {
+            animateBirkelandCurrents(p, t, THREE);
+        }
+
+        // ── Animate Wheel of Heaven rotation ──
+        if (p.wheelOfHeaven?.visible) {
+            p.wheelOfHeaven.rotation.z += 0.003;
+            // Gentle pulse
+            const wp = 0.9 + 0.1 * Math.sin(t * 0.5);
+            p.wheelOfHeaven.scale.setScalar(wp);
+        }
+
         camera.position.lerp(camPosGoal, 0.03);
         camera.lookAt(camLookGoal);
         // Labels
@@ -250,6 +315,23 @@ export async function createPlanetController(canvas) {
         else if (style === 'modern') placeModern(elapsed, cfg);
         else placeFallback(cfg);
 
+        // ═══════════ PLANET ANIMATION STATE PER PHASE ═══════════
+
+        // ── Saturn: Wheel of Heaven + ring transition ──
+        updateSaturnPhase(p, cfg, year, elapsed);
+
+        // ── Venus: plasmoid star / comet / dragon ──
+        updateVenusPhase(p, cfg, year, elapsed);
+
+        // ── Mars: solid sphere / outer shell / explosion ──
+        updateMarsPhase(p, cfg, year, elapsed);
+
+        // ── Dragon tether (Venus ↔ Mars) ──
+        updateDragonTetherPhase(p, cfg, year);
+
+        // ── Birkeland currents (collinear phase only) ──
+        updateBirkelandPhase(p, cfg, style);
+
         // ── Moon ──
         if (year >= MOON_CAPTURE_YEAR && p.earth.visible) {
             p.moon.visible = true;
@@ -299,6 +381,184 @@ export async function createPlanetController(canvas) {
         }
     }
 
+    // ═══════ Phase update helpers (called from setYear) ═══════
+
+    /** Saturn: Wheel of Heaven in golden age; rings animate in stabilization */
+    function updateSaturnPhase(p, cfg, year, elapsed) {
+        // Wheel of Heaven — only visible in golden-age
+        p.wheelOfHeaven.visible = (cfg.id === 'golden-age');
+        if (p.wheelOfHeaven.visible) {
+            // Position wheel behind Saturn (on the polar axis facing Earth)
+            p.wheelOfHeaven.position.copy(p.saturn.position);
+            p.wheelOfHeaven.position.y += 0.1; // slightly behind
+        }
+
+        // Ring fade-in during stabilization (-806 to -670)
+        if (cfg.id === 'stabilization') {
+            const dur = cfg.yearEnd - cfg.yearStart; // 136 years
+            const progress = Math.min(1, elapsed / dur);
+            p.saturnRings.material.opacity = progress * 0.5;
+            // Color shifts from orange to golden-yellow
+            const c = new THREE.Color(0xff8833).lerp(new THREE.Color(0xccaa66), progress);
+            p.saturn.material.color.copy(c);
+            p.saturn.material.emissive.copy(c);
+        } else if (cfg.id === 'modern-solar') {
+            p.saturnRings.material.opacity = 0.5;
+        }
+        // Glow intensity per phase
+        if (cfg.saturn) {
+            p.saturnGlow.material.opacity = (cfg.saturn.glow || 0.05) * 0.6;
+        }
+    }
+
+    /** Venus: plasmoid star (golden-age), comet (round-table/deluge), dragon (venus-returns), planet (modern) */
+    function updateVenusPhase(p, cfg, year, elapsed) {
+        const id = cfg.id;
+        const isGolden = (id === 'golden-age');
+        const isBreakup = (id === 'breakup');
+        const isComet = (id === 'round-table' || id === 'deluge');
+        const isDragon = (id === 'venus-returns');
+        const isCalming = (id === 'stabilization');
+        const isModern = (id === 'modern-solar');
+        const isDormant = (id === 'post-deluge');
+
+        // Plasmoid star (morphing 4-8 sides)
+        p.venusStar.visible = isGolden || isBreakup;
+        if (p.venusStarGlow) p.venusStarGlow.visible = isGolden || isBreakup;
+        if (isGolden) {
+            p.venusStar.material.color.set(0xffffff);
+            p.venusStar.material.emissive.set(0xffffff);
+            p.venusStar.material.emissiveIntensity = 1.0;
+        } else if (isBreakup) {
+            // Destabilizing: flicker, color shift
+            p.venusStar.material.color.set(0xffee88);
+            p.venusStar.material.emissive.set(0xffee88);
+            p.venusStar.material.emissiveIntensity = 0.5 + 0.5 * Math.random();
+        }
+
+        // Comet tail
+        p.cometTail.visible = isComet || isDragon || isCalming;
+        if (isComet) {
+            p.cometTail.material.color.set(id === 'deluge' ? 0xff4444 : 0xaaff88);
+            p.cometTail.material.opacity = 0.5;
+        } else if (isDragon) {
+            p.cometTail.material.color.set(0x44ff88); // green-white writhing
+            p.cometTail.material.opacity = 0.6;
+        } else if (isCalming) {
+            // Tail shrinking
+            const dur = cfg.yearEnd - cfg.yearStart;
+            const progress = Math.min(1, elapsed / dur);
+            p.cometTail.material.opacity = 0.5 * (1 - progress);
+        }
+
+        // Standard sphere Venus — hide when star or dormant
+        if (isGolden || isBreakup) {
+            p.venus.visible = false;
+            p.venusGlow.visible = false;
+        } else if (isDormant) {
+            p.venus.visible = true;
+            p.venusGlow.visible = false;
+            p.venus.material.emissiveIntensity = 0.1;
+            p.venus.material.color.set(0x888844);
+        } else if (isModern) {
+            p.venus.visible = !!cfg.venus;
+            p.venusGlow.visible = !!cfg.venus;
+            p.venus.material.color.set(0xffcc88);
+            p.venus.material.emissive.set(0xaa8844);
+            p.venus.material.emissiveIntensity = 0.3;
+        } else {
+            // comet / dragon / calming phases — sphere visible with glow
+            if (cfg.venus) {
+                p.venus.visible = true;
+                p.venusGlow.visible = true;
+                p.venus.material.color.set(cfg.venus.color || 0x33ff77);
+                p.venus.material.emissive.set(cfg.venus.color || 0x22cc55);
+                p.venus.material.emissiveIntensity = isDragon ? 0.8 : 0.6;
+            }
+        }
+
+        // Sync Venus star position to Venus sphere position (golden-age / breakup)
+        if (p.venusStar.visible) {
+            p.venusStar.position.copy(p.venus.visible ? p.venus.position : new THREE.Vector3(0, 2, 0));
+            // Use the config position if venus sphere is hidden
+            if (!p.venus.visible && cfg.venus?.position) {
+                p.venusStar.position.set(cfg.venus.position[0], cfg.venus.position[1], cfg.venus.position[2]);
+            }
+        }
+    }
+
+    /** Mars: solid sphere always, outer shell in dark-age, explosion at stabilization */
+    function updateMarsPhase(p, cfg, year, elapsed) {
+        const id = cfg.id;
+
+        // Mars outer shell — visible from round-table through venus-returns
+        const shellPhases = ['round-table', 'deluge', 'post-deluge', 'venus-returns'];
+        const showShell = shellPhases.includes(id);
+        p.marsShell.visible = showShell;
+
+        if (showShell) {
+            // Shell follows Mars position
+            p.marsShell.position.copy(p.mars.position);
+
+            if (id === 'venus-returns') {
+                // Stress fractures — shell glowing with cracks
+                p.marsShell.userData.stressed = true;
+                p.marsShell.material.emissive.set(0xff4400);
+                p.marsShell.material.opacity = 0.25;
+            } else if (id === 'deluge') {
+                // Close approach — shell glows red from discharge
+                p.marsShell.userData.stressed = false;
+                p.marsShell.material.emissive.set(0xcc2200);
+                p.marsShell.material.emissiveIntensity = 0.5;
+                p.marsShell.material.opacity = 0.2;
+            } else {
+                p.marsShell.userData.stressed = false;
+                p.marsShell.material.emissive.set(0x883300);
+                p.marsShell.material.emissiveIntensity = 0.15;
+                p.marsShell.material.opacity = 0.15;
+            }
+        }
+
+        // Shell explosion fragments — visible during stabilization
+        const showFragments = (id === 'stabilization');
+        p.marsFragments.visible = showFragments;
+        if (showFragments) {
+            // Set explosion origin to Mars position
+            p.marsFragments.userData.origin = p.mars.position.clone();
+            // Progress of explosion (0→1 over the stabilization period)
+            const dur = cfg.yearEnd - cfg.yearStart;
+            p.marsFragments.userData.progress = Math.min(1, elapsed / dur);
+
+            // Mars becomes smaller + darker after losing shell
+            const shellLoss = Math.min(1, elapsed / dur);
+            p.mars.scale.setScalar(1.0 - shellLoss * 0.3); // shrinks to 0.7
+            p.mars.material.color.set(
+                new THREE.Color(0xff4422).lerp(new THREE.Color(0x993311), shellLoss)
+            );
+        } else if (id === 'modern-solar') {
+            // Modern Mars — smaller, darker
+            p.mars.scale.setScalar(0.7);
+            p.mars.material.color.set(0x993311);
+        } else {
+            p.mars.scale.setScalar(1.0);
+        }
+    }
+
+    /** Dragon tether (Venus ↔ Mars electric arc) — visible in venus-returns phase */
+    function updateDragonTetherPhase(p, cfg, year) {
+        const show = (cfg.id === 'venus-returns');
+        p.dragonTether.visible = show;
+        if (show && p.venus.visible && p.mars.visible) {
+            p.dragonTether.userData.venusPos = p.venus.position.clone();
+            p.dragonTether.userData.marsPos = p.mars.position.clone();
+        }
+    }
+
+    /** Birkeland currents — visible in collinear (golden-age) */
+    function updateBirkelandPhase(p, cfg, style) {
+        p.birkelandCurrents.visible = (style === 'collinear');
+    }
+
     // ── Collinear placement ──
     // The column is a rigid bar pointing radially toward the Sun.
     // It orbits Sun at radius COL.R in the XZ plane (y=0).
@@ -331,6 +591,10 @@ export async function createPlanetController(canvas) {
         p.saturnRings.material.opacity = cfg.saturn?.rings ? 0.5 : 0;
 
         placeOnColumn(p.venus, L.venus, COL.venus.dist, !!cfg.venus);
+        // Venus star tracks Venus position on the column
+        if (p.venusStar?.visible) {
+            p.venusStar.position.set(dx * COL.venus.dist, 0, dz * COL.venus.dist);
+        }
         placeOnColumn(p.mars, L.mars, COL.mars.dist, !!cfg.mars);
         placeOnColumn(p.earth, L.earth, COL.earth.dist, !!cfg.earth);
         placeOnColumn(p.mercury, L.mercury, COL.mercury.dist, true);
@@ -811,4 +1075,435 @@ function buildStarfield(scene, THREE) {
     scene.add(new THREE.Points(geo, new THREE.PointsMaterial({
         size: 0.1, color: 0xffffff, transparent: true, opacity: 0.6,
     })));
+}
+
+// ═══════════════════ PLANET ANIMATION BUILDERS ═══════════════════
+
+/**
+ * Venus Plasmoid Star — morphing N-pointed star geometry.
+ * In the Golden Age, Venus appears as a single luminous plasma star that shifts
+ * between 4, 5, 6, 7, and 8 points. This is the "star and crescent" motif.
+ */
+function buildVenusStar(scene, p, THREE) {
+    // Create initial 8-pointed star shape
+    const geo = createStarGeometry(8, 0.5, 0.2, THREE);
+    const mat = new THREE.MeshStandardMaterial({
+        color: 0xffffff,
+        emissive: 0xeeffee,
+        emissiveIntensity: 1.0,
+        roughness: 0,
+        transparent: true,
+        opacity: 0.95,
+        side: THREE.DoubleSide,
+    });
+    const mesh = new THREE.Mesh(geo, mat);
+    mesh.visible = false;
+    scene.add(mesh);
+    p.venusStar = mesh;
+
+    // Star glow sprite
+    const glow = new THREE.Sprite(new THREE.SpriteMaterial({
+        map: glowTex(0xaaffcc, THREE),
+        color: 0xaaffcc,
+        transparent: true,
+        opacity: 0.5,
+        blending: THREE.AdditiveBlending,
+    }));
+    glow.scale.set(3.5, 3.5, 1);
+    glow.visible = false;
+    mesh.add(glow);
+    p.venusStarGlow = glow;
+}
+
+/** Create a flat N-pointed star shape geometry (like a Shamash wheel) */
+function createStarGeometry(points, outerR, innerR, THREE) {
+    const shape = new THREE.Shape();
+    const n = Math.round(points);
+    for (let i = 0; i <= n * 2; i++) {
+        const angle = (i / (n * 2)) * Math.PI * 2 - Math.PI / 2;
+        const r = i % 2 === 0 ? outerR : innerR;
+        const x = r * Math.cos(angle);
+        const y = r * Math.sin(angle);
+        if (i === 0) shape.moveTo(x, y);
+        else shape.lineTo(x, y);
+    }
+    const geo = new THREE.ShapeGeometry(shape);
+    return geo;
+}
+
+/** Update Venus star to morph between N points (called each frame) */
+function updateVenusStarGeometry(mesh, sides, THREE) {
+    const newGeo = createStarGeometry(sides, 0.5, 0.2, THREE);
+    mesh.geometry.dispose();
+    mesh.geometry = newGeo;
+}
+
+/**
+ * Venus Comet Tail — particle system for comet/dragon phases.
+ * Represents the "long disheveled hair" and "multi-headed serpent" tail.
+ */
+function buildCometTail(scene, p, THREE) {
+    const count = 500;
+    const pos = new Float32Array(count * 3);
+    const vel = new Float32Array(count * 3); // velocities for animation
+    for (let i = 0; i < count; i++) {
+        pos[i * 3] = (Math.random() - 0.5) * 0.5;
+        pos[i * 3 + 1] = (Math.random() - 0.5) * 0.5;
+        pos[i * 3 + 2] = Math.random() * 3 + 0.5; // trail behind
+        vel[i * 3] = (Math.random() - 0.5) * 0.02;
+        vel[i * 3 + 1] = (Math.random() - 0.5) * 0.02;
+        vel[i * 3 + 2] = Math.random() * 0.05 + 0.02;
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    geo.setAttribute('velocity', new THREE.BufferAttribute(vel, 3));
+
+    const mat = new THREE.PointsMaterial({
+        size: 0.06,
+        color: 0xaaff88,
+        transparent: true,
+        opacity: 0.5,
+        blending: THREE.AdditiveBlending,
+        depthWrite: false,
+    });
+    const pts = new THREE.Points(geo, mat);
+    pts.visible = false;
+    scene.add(pts);
+    p.cometTail = pts;
+}
+
+/** Animate comet tail particles — writhing serpentine motion */
+function animateCometTail(p, t, THREE) {
+    if (!p.cometTail?.visible || !p.venus?.visible) return;
+    const positions = p.cometTail.geometry.attributes.position;
+    const velocities = p.cometTail.geometry.attributes.velocity;
+    const vpos = p.venus.position;
+
+    for (let i = 0; i < positions.count; i++) {
+        let x = positions.getX(i);
+        let y = positions.getY(i);
+        let z = positions.getZ(i);
+        const vx = velocities.getX(i);
+        const vy = velocities.getY(i);
+        const vz = velocities.getZ(i);
+
+        // Move along tail direction with serpentine writhing
+        x += vx + Math.sin(t * 3 + i * 0.1) * 0.01;
+        y += vy + Math.cos(t * 2.7 + i * 0.13) * 0.01;
+        z += vz;
+
+        // Reset particles that drift too far back to Venus position
+        if (z > 5 || Math.abs(x) > 3 || Math.abs(y) > 3) {
+            x = (Math.random() - 0.5) * 0.3;
+            y = (Math.random() - 0.5) * 0.3;
+            z = 0;
+        }
+
+        positions.setXYZ(i, x, y, z);
+    }
+    positions.needsUpdate = true;
+
+    // Position entire tail at Venus
+    p.cometTail.position.copy(vpos);
+    // Orient tail away from Sun direction
+    if (p.sun?.visible) {
+        const dir = new THREE.Vector3().subVectors(vpos, p.sun.position).normalize();
+        p.cometTail.lookAt(vpos.x + dir.x, vpos.y + dir.y, vpos.z + dir.z);
+    }
+}
+
+/**
+ * Mars Outer Shell — translucent sphere around Mars's solid core.
+ * Represents "Priori-Mars" with its light-element crust that eventually
+ * becomes iron and breaks away.
+ */
+function buildMarsShell(scene, p, THREE) {
+    const geo = new THREE.SphereGeometry(0.55, 24, 24); // larger than Mars core (0.35)
+    const mat = new THREE.MeshStandardMaterial({
+        color: 0xcc6644,
+        emissive: 0x883300,
+        emissiveIntensity: 0.15,
+        roughness: 0.4,
+        transparent: true,
+        opacity: 0.15,
+        side: THREE.DoubleSide,
+        wireframe: false,
+    });
+    const mesh = new THREE.Mesh(geo, mat);
+    mesh.visible = false;
+    mesh.userData = { stressed: false };
+    scene.add(mesh);
+    p.marsShell = mesh;
+
+    // Add visible wireframe on top for "crust" appearance
+    const wireGeo = new THREE.SphereGeometry(0.56, 12, 10);
+    const wireMat = new THREE.MeshBasicMaterial({
+        color: 0xcc4400,
+        wireframe: true,
+        transparent: true,
+        opacity: 0.12,
+    });
+    const wire = new THREE.Mesh(wireGeo, wireMat);
+    mesh.add(wire);
+}
+
+/**
+ * Mars Shell Explosion Fragments — particle burst for the stabilization phase.
+ * The outer shell shatters into fragments that scatter outward, forming the asteroid belt.
+ */
+function buildMarsShellFragments(scene, p, THREE) {
+    const count = 300;
+    const pos = new Float32Array(count * 3);
+    const dirs = new Float32Array(count * 3); // explosion directions
+    const sizes = new Float32Array(count);
+    for (let i = 0; i < count; i++) {
+        // Start at origin (will be repositioned to Mars)
+        pos[i * 3] = 0;
+        pos[i * 3 + 1] = 0;
+        pos[i * 3 + 2] = 0;
+        // Random explosion direction (spherical)
+        const theta = Math.random() * Math.PI * 2;
+        const phi = Math.acos(2 * Math.random() - 1);
+        dirs[i * 3] = Math.sin(phi) * Math.cos(theta);
+        dirs[i * 3 + 1] = Math.sin(phi) * Math.sin(theta);
+        dirs[i * 3 + 2] = Math.cos(phi);
+        sizes[i] = 0.03 + Math.random() * 0.08; // varied fragment sizes
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    geo.setAttribute('direction', new THREE.BufferAttribute(dirs, 3));
+    geo.setAttribute('size', new THREE.BufferAttribute(sizes, 1)); // not used directly but stored
+
+    const mat = new THREE.PointsMaterial({
+        size: 0.1,
+        color: 0xcc5533,
+        transparent: true,
+        opacity: 0.8,
+        blending: THREE.AdditiveBlending,
+        depthWrite: false,
+    });
+    const pts = new THREE.Points(geo, mat);
+    pts.visible = false;
+    pts.userData = { origin: new THREE.Vector3(), progress: 0 };
+    scene.add(pts);
+    p.marsFragments = pts;
+}
+
+/** Animate shell fragments expanding outward */
+function animateShellFragments(fragments, t, THREE) {
+    if (!fragments?.visible) return;
+    const positions = fragments.geometry.attributes.position;
+    const dirs = fragments.geometry.attributes.direction;
+    const origin = fragments.userData.origin || new THREE.Vector3();
+    const progress = fragments.userData.progress || 0;
+    const expansionRadius = progress * 8; // max 8 units expansion
+
+    for (let i = 0; i < positions.count; i++) {
+        const dx = dirs.getX(i);
+        const dy = dirs.getY(i);
+        const dz = dirs.getZ(i);
+        // Each fragment expands outward, with a slight wobble
+        const wobble = Math.sin(t * 2 + i * 0.5) * 0.05;
+        positions.setXYZ(
+            i,
+            origin.x + dx * expansionRadius + wobble,
+            origin.y + dy * expansionRadius * 0.7 + wobble, // flatten slightly (asteroid belt is planar)
+            origin.z + dz * expansionRadius + wobble
+        );
+    }
+    positions.needsUpdate = true;
+
+    // Fade out as they expand
+    fragments.material.opacity = Math.max(0.1, 0.8 * (1 - progress * 0.5));
+}
+
+/**
+ * Dragon Tether — electric arc (Birkeland current) between Venus and Mars.
+ * In the venus-returns phase (-1492 to -806), Venus and Mars are tethered together
+ * as "the dragon". Red + green plasma streams interweave.
+ */
+function buildDragonTether(scene, p, THREE) {
+    const segments = 60;
+    const pos = new Float32Array(segments * 3);
+    const colors = new Float32Array(segments * 3);
+    for (let i = 0; i < segments; i++) {
+        pos[i * 3] = 0;
+        pos[i * 3 + 1] = 0;
+        pos[i * 3 + 2] = 0;
+        // Alternate red (Mars) and green (Venus) with gradient
+        const frac = i / segments;
+        const r = 0.3 + 0.7 * (1 - frac); // red → fade
+        const g = 0.2 + 0.6 * frac;       // → green
+        const b = 0.1;
+        colors[i * 3] = r;
+        colors[i * 3 + 1] = g;
+        colors[i * 3 + 2] = b;
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    geo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+
+    const mat = new THREE.LineBasicMaterial({
+        vertexColors: true,
+        transparent: true,
+        opacity: 0.7,
+        blending: THREE.AdditiveBlending,
+        depthWrite: false,
+        linewidth: 2,
+    });
+    const line = new THREE.Line(geo, mat);
+    line.visible = false;
+    line.userData = { venusPos: new THREE.Vector3(), marsPos: new THREE.Vector3() };
+    scene.add(line);
+    p.dragonTether = line;
+}
+
+/** Animate dragon tether — writhing electric arc between Venus and Mars */
+function animateDragonTether(p, t, THREE) {
+    if (!p.dragonTether?.visible) return;
+    const positions = p.dragonTether.geometry.attributes.position;
+    const vp = p.dragonTether.userData.venusPos;
+    const mp = p.dragonTether.userData.marsPos;
+    if (!vp || !mp) return;
+
+    const segments = positions.count;
+    for (let i = 0; i < segments; i++) {
+        const frac = i / (segments - 1);
+        // Lerp between Mars and Venus positions
+        const x = mp.x + (vp.x - mp.x) * frac;
+        const y = mp.y + (vp.y - mp.y) * frac;
+        const z = mp.z + (vp.z - mp.z) * frac;
+
+        // Add writhing sine waves (multi-armed serpent / dragon body)
+        const amplitude = 0.3 * Math.sin(frac * Math.PI); // max displacement at midpoint
+        const wave1 = amplitude * Math.sin(t * 5 + frac * 12); // fast serpentine
+        const wave2 = amplitude * 0.6 * Math.cos(t * 3.7 + frac * 8); // secondary undulation
+        const wave3 = amplitude * 0.3 * Math.sin(t * 7.3 + frac * 20); // high-frequency crackle
+
+        positions.setXYZ(
+            i,
+            x + wave1 * 0.7 + wave3 * 0.3,
+            y + wave2 + wave3 * 0.2,
+            z + wave1 * 0.3 + wave2 * 0.5
+        );
+    }
+    positions.needsUpdate = true;
+}
+
+/**
+ * Birkeland Currents — visible electric tethers between all collinear planets.
+ * Represents the Bifröst / Tree of Life / magnetic tube connecting the planets
+ * in the Golden Age configuration.
+ */
+function buildBirkelandCurrents(scene, p, THREE) {
+    // We draw lines connecting all planets in the column
+    // These will be repositioned each frame in the collinear phase
+    const segments = 30;
+    const pos = new Float32Array(segments * 3);
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+
+    const mat = new THREE.LineBasicMaterial({
+        color: 0x88aaff,
+        transparent: true,
+        opacity: 0.5,
+        blending: THREE.AdditiveBlending,
+        depthWrite: false,
+    });
+    const line = new THREE.Line(geo, mat);
+    line.visible = false;
+    scene.add(line);
+    p.birkelandCurrents = line;
+}
+
+/** Animate Birkeland currents — flowing blue-white energy along the column */
+function animateBirkelandCurrents(p, t, THREE) {
+    if (!p.birkelandCurrents?.visible) return;
+    const positions = p.birkelandCurrents.geometry.attributes.position;
+
+    // Connect Sun → Jupiter → Saturn → Venus → Mars → Earth → Mercury → Neptune → Uranus
+    const bodies = [p.sun, p.jupiter, p.saturn, p.venus, p.mars, p.earth, p.mercury, p.neptune, p.uranus]
+        .filter(b => b?.visible);
+
+    if (bodies.length < 2) return;
+
+    // Interpolate through all visible bodies
+    const totalPathLength = bodies.length - 1;
+    const segs = positions.count;
+
+    for (let i = 0; i < segs; i++) {
+        const frac = i / (segs - 1);
+        const scaledFrac = frac * totalPathLength;
+        const idx = Math.floor(scaledFrac);
+        const subFrac = scaledFrac - idx;
+        const bodyA = bodies[Math.min(idx, bodies.length - 1)];
+        const bodyB = bodies[Math.min(idx + 1, bodies.length - 1)];
+
+        const x = bodyA.position.x + (bodyB.position.x - bodyA.position.x) * subFrac;
+        const y = bodyA.position.y + (bodyB.position.y - bodyA.position.y) * subFrac;
+        const z = bodyA.position.z + (bodyB.position.z - bodyA.position.z) * subFrac;
+
+        // Add gentle flowing energy wave
+        const wave = 0.08 * Math.sin(t * 4 + frac * 15);
+
+        positions.setXYZ(i, x + wave, y + wave * 0.5, z + wave * 0.3);
+    }
+    positions.needsUpdate = true;
+}
+
+/**
+ * Wheel of Heaven — Saturn's spoked wheel / Sun Wheel / Shamash motif.
+ * Visible only during Golden Age. An 8-spoked wheel behind Saturn
+ * representing the polar view up the magnetic tube.
+ */
+function buildWheelOfHeaven(scene, p, THREE) {
+    const group = new THREE.Group();
+
+    // Outer ring
+    const ringGeo = new THREE.RingGeometry(2.0, 2.2, 64);
+    const ringMat = new THREE.MeshBasicMaterial({
+        color: 0xffcc44,
+        side: THREE.DoubleSide,
+        transparent: true,
+        opacity: 0.3,
+        blending: THREE.AdditiveBlending,
+    });
+    group.add(new THREE.Mesh(ringGeo, ringMat));
+
+    // Inner ring
+    const innerRingGeo = new THREE.RingGeometry(0.8, 1.0, 64);
+    group.add(new THREE.Mesh(innerRingGeo, ringMat));
+
+    // 8 spokes (Dharmachakra / Shamash style)
+    const spokeMat = new THREE.LineBasicMaterial({
+        color: 0xffdd66,
+        transparent: true,
+        opacity: 0.4,
+        blending: THREE.AdditiveBlending,
+    });
+    for (let i = 0; i < 8; i++) {
+        const angle = (i / 8) * Math.PI * 2;
+        const pts = [
+            new THREE.Vector3(0.9 * Math.cos(angle), 0.9 * Math.sin(angle), 0),
+            new THREE.Vector3(2.1 * Math.cos(angle), 2.1 * Math.sin(angle), 0),
+        ];
+        const spokeGeo = new THREE.BufferGeometry().setFromPoints(pts);
+        group.add(new THREE.Line(spokeGeo, spokeMat));
+    }
+
+    // Central glow
+    const centerGlow = new THREE.Sprite(new THREE.SpriteMaterial({
+        map: glowTex(0xffcc44, THREE),
+        color: 0xffcc44,
+        transparent: true,
+        opacity: 0.4,
+        blending: THREE.AdditiveBlending,
+    }));
+    centerGlow.scale.set(4, 4, 1);
+    group.add(centerGlow);
+
+    // Orient wheel to face the camera (we'll update rotation in animate)
+    group.visible = false;
+    scene.add(group);
+    p.wheelOfHeaven = group;
 }
