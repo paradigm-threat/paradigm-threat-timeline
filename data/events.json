@@ -1926,11 +1926,7 @@
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1848-ce-the-battle-for-communisms-soul.md",
           "media": [
-            {
-              "type": "image",
-              "path": "media/13.ce-19th-rise-of-communism/marx-vs-kinkel.png",
-              "caption": "Marx vs. Kinkel"
-            }
+            "media/13.ce-19th-rise-of-communism/marx-vs-kinkel.png"
           ],
           "children": [
             {
@@ -1947,11 +1943,7 @@
                 }
               ],
               "media": [
-                {
-                  "type": "image",
-                  "path": "media/13.ce-19th-rise-of-communism/ivan-kinkel.png",
-                  "caption": "Ivan Germanovich Kinkel (1883–1945)"
-                }
+                "media/13.ce-19th-rise-of-communism/ivan-kinkel.png"
               ]
             }
           ],
