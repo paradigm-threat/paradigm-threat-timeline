@@ -71,7 +71,7 @@
         "_title": "Core Concepts"
       },
       "00.03.01-the-length-of-a-year-changes-throughout-antiquity.md": {
-        "_title": "The length of a Year changes throughout Antiquity"
+        "_title": "The Length of a Year Changes Throughout Antiquity"
       },
       "00.03.02-timeline-synchronization.md": {
         "_title": "Timeline synchronization"
@@ -107,7 +107,7 @@
         "_title": "Proto-Saturn joins the Sun's orbit and lights up"
       },
       "02.02.00-the-length-of-a-year-was-225-days.md": {
-        "_title": "The length of a year was 225 days"
+        "_title": "The Length of a Year Was 225 Days"
       },
       "02.03.00-saturns-collinear-planetary-configuration-the-tree-of-life.md": {
         "_title": "Saturn's Collinear Planetary Configuration - The Tree of Life"
@@ -170,7 +170,7 @@
         "_title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)"
       },
       "03.09.00-1442-bce-the-sun-stands-still-for-joshua.md": {
-        "_title": "The sun stands still for Joshua"
+        "_title": "The Sun Stands Still for Joshua"
       },
       "03.10.00-806-bce-mars-earth-and-mercury-finalize-orbits.md": {
         "_title": "Mars, Earth and Mercury finalize orbits."
@@ -302,7 +302,7 @@
         "_title": "Gutenberg Bible translated into Latin"
       },
       "09.03.02-deep-state-redacts-christianity-into-jesuit-catholicism.md": {
-        "_title": "Deep State redacts Christianity into Jesuit Catholicism"
+        "_title": "Deep State Redacts Christianity into Jesuit Catholicism"
       },
       "09.04.00-jesuit-operations-conversion-and-catholicism.md": {
         "_title": "Jesuit Operations: Conversion, Catholicism, and the New World"
@@ -490,10 +490,13 @@
       "12.05.00-1774-ce-instant-fossilization-and-electric-petrification.md": {
         "_title": "Instant Fossilization and Electric Petrification"
       },
-      "12.06.00-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md": {
-        "_title": "The Mars Catastrophe: Brandenburg's Nuclear Evidence"
+      "12.06.00-1774-ce-the-mars-catastrophe.md": {
+        "_title": "The Mars Catastrophe"
       },
-      "_count": 7
+      "12.06.01-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md": {
+        "_title": "The Mars Catastrophe: Research Dead End"
+      },
+      "_count": 8
     },
     "13.ce-19th-rise-of-communism": {
       "13.00.00-1800-ce-19th-century-rise-of-communism.md": {
@@ -553,88 +556,94 @@
       "15.00.00-2000-ce-the-final-struggle.md": {
         "_title": "21st Century: The Final Struggle"
       },
-      "15.01.00-predictive-programming-fiction-as-control.md": {
+      "_count": 1
+    },
+    "16.appendix": {
+      "16.00.00-appendix.md": {
+        "_title": "Appendix"
+      },
+      "16.01.00-predictive-programming-fiction-as-control.md": {
         "_title": "Predictive Programming: Fiction as Control"
       },
-      "_count": 2
-    },
-    "16-author-profiles": {
-      "16.00.00-author-profiles.md": {
+      "16.02.00-author-profiles.md": {
         "_title": "Author Profiles"
       },
-      "16.01.00-n-a-morozov.md": {
+      "16.02.01-n-a-morozov.md": {
         "_title": "N. A. Morozov"
       },
-      "16.02.00-wal-thornhill.md": {
+      "16.02.02-wal-thornhill.md": {
         "_title": "Wal Thornhill"
       },
-      "16.03.00-ralph-juergens.md": {
+      "16.02.03-ralph-juergens.md": {
         "_title": "Ralph Juergens"
       },
-      "16.04.00-immanuel-velikovsky.md": {
+      "16.02.04-immanuel-velikovsky.md": {
         "_title": "Immanuel Velikovsky (1895\u20131979)"
       },
-      "16.05.00-anatoly-fomenko.md": {
+      "16.02.05-anatoly-fomenko.md": {
         "_title": "Anatoly Fomenko (b. 1945)"
       },
-      "16.06.00-david-talbott.md": {
+      "16.02.06-david-talbott.md": {
         "_title": "David Talbott (b. 1942)"
       },
-      "16.07.00-anthony-peratt.md": {
+      "16.02.07-anthony-peratt.md": {
         "_title": "Anthony Peratt (b. 1940)"
       },
-      "16.08.00-jno-cook.md": {
+      "16.02.08-jno-cook.md": {
         "_title": "Jno Cook"
       },
-      "16.09.00-alfred-de-grazia.md": {
+      "16.02.09-alfred-de-grazia.md": {
         "_title": "Alfred de Grazia (1919\u20132014)"
       },
-      "16.10.00-donald-scott.md": {
+      "16.02.10-donald-scott.md": {
         "_title": "Donald Scott"
       },
-      "16.11.00-ev-cochrane.md": {
+      "16.02.11-ev-cochrane.md": {
         "_title": "Ev Cochrane (b. 1952)"
       },
-      "16.12.00-de-santillana-von-dechend.md": {
+      "16.02.12-de-santillana-von-dechend.md": {
         "_title": "Giorgio de Santillana & Hertha von Dechend"
       },
-      "16.13.00-heribert-illig.md": {
+      "16.02.13-heribert-illig.md": {
         "_title": "Heribert Illig (b. 1947)"
       },
-      "16.14.00-gunnar-heinsohn.md": {
+      "16.02.14-gunnar-heinsohn.md": {
         "_title": "Gunnar Heinsohn (b. 1943)"
       },
-      "16.15.00-dwardu-cardona.md": {
+      "16.02.15-dwardu-cardona.md": {
         "_title": "Dwardu Cardona (1937\u20132018)"
       },
-      "16.16.00-clube-napier.md": {
+      "16.02.16-clube-napier.md": {
         "_title": "Victor Clube & Bill Napier"
       },
-      "16.17.00-livio-stecchini.md": {
+      "16.02.17-livio-stecchini.md": {
         "_title": "Livio Stecchini (1913\u20131979)"
       },
-      "16.18.00-rose-vaughan.md": {
+      "16.02.18-rose-vaughan.md": {
         "_title": "Lynn Rose & Raymond Vaughan"
       },
-      "16.19.00-tom-van-flandern.md": {
+      "16.02.19-tom-van-flandern.md": {
         "_title": "Tom Van Flandern (1940\u20132009)"
       },
-      "16.20.00-martinus-van-der-sluijs.md": {
+      "16.02.20-martinus-van-der-sluijs.md": {
         "_title": "Martinus van der Sluijs"
       },
-      "16.21.00-charles-ginenthal.md": {
+      "16.02.21-charles-ginenthal.md": {
         "_title": "Charles Ginenthal"
       },
-      "16.22.00-robert-schoch.md": {
+      "16.02.22-robert-schoch.md": {
         "_title": "Robert Schoch (b. 1959)"
       },
-      "16.23.00-graham-hancock.md": {
+      "16.02.23-graham-hancock.md": {
         "_title": "Graham Hancock (b. 1950)"
       },
-      "16.24.00-michael-cremo.md": {
+      "16.02.24-michael-cremo.md": {
         "_title": "Michael Cremo (b. 1948)"
       },
-      "_count": 25
+      "16.03.00-mars-contacts-timeline.md": {
+        "_title": "Known Contacts with Mars: A Chronological Dossier"
+      },
+      "_count": 28
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -642,7 +651,7 @@
       },
       "_count": 1
     },
-    "_count": 180
+    "_count": 183
   },
   "data": {
     "events.json": {},
@@ -693,7 +702,10 @@
     "creation-dates-validation.md": {
       "_title": "Investigation: Validation of Jno Cook's Creation Date Claims"
     },
-    "_count": 2
+    "death-on-mars-analysis.md": {
+      "_title": "Death on Mars Book Analysis"
+    },
+    "_count": 3
   },
   "media": {
     "00.overview": {
@@ -878,7 +890,7 @@
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JaACdAD51VPq7YAA/sGi8l1wtweZK7BByc81zFzPAePpIXVTkkzYreRP6L0CwQc5I2Zp1pbJeuviAAA="
       },
       "684bce_the_blip.png": {
-        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZACdACVGA17oAD+qfIXLLfOdWfJI5358CKyU/t+jpZCzS/nR422qco5z+sG7XujfO83QAA="
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoQAAsABUB8JQBOgB2QQwAA/qw50R8eQZBQJ/GXVgPB2CDRyky+jstwk81/IqPpnGAysCQXapjgAA=="
       },
       "building-new-chronology.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JZACdADdLKeGs4AA/ZMnyCC+Ybn2L6uO2LDH71yXBKXpMxh0hwl143QYAAAA"
@@ -1114,14 +1126,11 @@
       "instant-fossilization.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAsABUB8JQBOgCIG/tnc7tpwAAD+5edscWXbkif5q35DC4CpgF4OL8eijBjJwmfIAAAA"
       },
+      "mars-catastrophe-rebound.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JbACdACAx0+JAAD+wHl5hkdgD/E1lJmopisJAI5Tk2hOgE6TIEBVU8W/tFvmOZSvQYAA"
+      },
       "mars-catastrophe.png": {
-        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdAEVy3ggAAD+ghznb2OOnU5UAg22OS3g6rO+JXedOuvz6mHKyfbLFwmqZV7Jf3kAAAA="
-      },
-      "mars-catastrophe2.png": {
-        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JbACdAC4GZrAAP7QTbNvflxn9s7FYEW+2TcOUNdUQtCu2qdig1dRdg38IaL1QLUSSgAA"
-      },
-      "mars-catastrophe3.png": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZgCdADO5eyWq4AA/qjnsINOYBuQjf7Ri7ohSI6Gfq7uXABFceAQc8LBShYa8NMgAA=="
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JbACdAELM+gUmEcAAP7c8Tg6969Zhqvs7WdFdNKzQjlQ2vOX3pYSXl1EP8a01Qylp42IAAA="
       },
       "mars-civilization.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JYgCdAD7JdSjQp4AAP4/sWVbVHzNoQzL0MwgaVhlf4SlFjoqxNGS/+eeYT0kojDRnJZAAAA="
@@ -1135,7 +1144,7 @@
       "telepathic-purge.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JagCdABwWLMIAAD9tcL1Dt1MoZ/d0KLuN+XS0RFPdNnAmo0WeQ2M5WGBVgAA"
       },
-      "_count": 8
+      "_count": 7
     },
     "13.ce-19th-rise-of-communism": {
       "gottfried-kinkel-escape.png": {
@@ -1159,7 +1168,13 @@
       "chestnut-blight.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAQCdASoQAAsABUB8JagCdAIHgADj527AxNCSJtfZspQj4MjZEGbliUympnBfOsc51OH0RI11e5apMnBNabcAAAA="
       },
-      "_count": 1
+      "martian-incursion.png": {
+        "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAsABUB8JZACdAB+qAAA/nWTR4wpcdWSt6PlHbIKkQQzNvL5OtxQ9EAAAA=="
+      },
+      "melted-cities-geometry.png": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JaACdAD0drTmAAD+5ete9sKVIuEw5BMPGEx2yKDLbYIAAAA="
+      },
+      "_count": 3
     },
     "15.ce-21st-the-final-struggle": {
       "predictive-programming.png": {
@@ -1167,7 +1182,7 @@
       },
       "_count": 1
     },
-    "16-author-profiles": {
+    "16.appendix": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAAsABUB8JZACdAELjrLefLvOIAD9mhcW9DkG+rwcIts42tDwlHXmu0R3He7JuoJB5FEad6wVygAA"
       },
@@ -1179,6 +1194,9 @@
       },
       "anthony-peratt.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgCdADhgR3UgAD+wFFLZq9i/jMSTPiupYXEiuslZIIGDFyTJVV7lFSzYtDOZOwwAA=="
+      },
+      "contacts-with-mars.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgCdAEenx0RAAD+qcnXnc3km9BFNSD0P02eEqCtAl0+JkTijhwYthn17e/ZiokAAA=="
       },
       "david-talbott.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JQBOgB2MNUAAAP6p/9vF7t0ClWwsC2Z3B2P37dEPvHdHWapnJZ7H2/auy9vMnxYDrCawTLKAAA=="
@@ -1207,9 +1225,9 @@
       "wal-thornhill.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA"
       },
-      "_count": 13
+      "_count": 14
     },
-    "_count": 156
+    "_count": 158
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1217,5 +1235,5 @@
     },
     "_count": 1
   },
-  "_count": 361
+  "_count": 367
 }
