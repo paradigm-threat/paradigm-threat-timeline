@@ -2023,6 +2023,27 @@
             "evt-jesuits-missions-convert-asians-to-buddhism",
             "evt-secret-society-of-jesus-goes-public"
           ]
+        },
+        {
+          "id": "evt-19th-century-weapons-declassification-thesis",
+          "title": "19th Century Weapons and the Declassification Thesis",
+          "type": "article",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-1865-ce-19th-century-weapons-and-the-declassification-thesis.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1865,
+              "end": 1867,
+              "calendar": "CE"
+            }
+          ],
+          "related_events": [
+            "evt-napoleonic-wars",
+            "evt-imperial-technology-and-the-knowledge-of-the-horde",
+            "evt-the-mudflood-and-world-cataclysm",
+            "evt-the-deep-state-and-the-atlantean-priest-class",
+            "evt-20th-century-predictive-programming-literature"
+          ]
         }
       ],
       "dates": [
@@ -2160,6 +2181,26 @@
           ],
           "media": [
             "/media/14.ce-20th-the-1917-revolution/mockingbird.png"
+          ]
+        },
+        {
+          "id": "evt-nuclear-energy-and-the-bomb",
+          "title": "Nuclear Energy and the \"Bomb\": The Most Expensive Way to Boil Water",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.07.00-1938-ce-nuclear-energy-and-the-bomb.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1938,
+              "end": 1977,
+              "calendar": "CE",
+              "note": "From discovery of fission through Carter's reprocessing ban"
+            }
+          ],
+          "related_events": [
+            "evt-operation-mockingbird",
+            "evt-false-flags",
+            "evt-predictive-programming"
           ]
         }
       ],
