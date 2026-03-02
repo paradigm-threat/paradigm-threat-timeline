@@ -45,7 +45,10 @@
     "2026-02-28-timeline-update.md": {
       "_title": "Timeline Update: New Chapters 13\u201315, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module"
     },
-    "_count": 6
+    "2026-03-01-timeline-update.md": {
+      "_title": "Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages"
+    },
+    "_count": 7
   },
   "content": {
     "00.overview": {
@@ -556,7 +559,10 @@
       "14.06.00-1948-ce-operation-mockingbird.md": {
         "_title": "Operation Mockingbird: State-Sponsored Erasure Goes Public"
       },
-      "_count": 8
+      "14.07.00-1890-ce-20th-century-predictive-programming-literature.md": {
+        "_title": "20th Century Predictive Programming: Literature as Historical Erasure"
+      },
+      "_count": 9
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-the-final-struggle.md": {
@@ -657,7 +663,7 @@
       },
       "_count": 1
     },
-    "_count": 185
+    "_count": 186
   },
   "data": {
     "events.json": {},
@@ -1247,5 +1253,5 @@
     },
     "_count": 1
   },
-  "_count": 371
+  "_count": 373
 }

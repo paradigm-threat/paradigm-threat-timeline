@@ -2160,6 +2160,27 @@
           "media": [
             "/media/14.ce-20th-the-1917-revolution/mockingbird.png"
           ]
+        },
+        {
+          "id": "evt-20th-century-predictive-programming-literature",
+          "title": "20th Century Predictive Programming: Literature as Historical Erasure",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.07.00-1890-ce-20th-century-predictive-programming-literature.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1890,
+              "end": 1985,
+              "calendar": "CE",
+              "note": "From Wells's earliest publications through Card's Ender's Game"
+            }
+          ],
+          "related_events": [
+            "evt-operation-mockingbird",
+            "evt-predictive-programming",
+            "evt-mars-catastrophe-brandenburg",
+            "evt-american-chestnut-blight"
+          ]
         }
       ],
       "dates": [
