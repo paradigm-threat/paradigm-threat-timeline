@@ -162,7 +162,13 @@ Create a new blog entry whenever the user requests one, or when a significant ba
 
 5. **Use the same format** as existing blog entries (see `blog/` for examples): H1 title, date line, horizontal rules between sections, bold key terms.
 
-6. **After creating the blog entry**, run:
+6. **Include images.** Pick 1–3 choice images from `media/` that relate to the new content and embed them using **root-relative URLs**:
+   ```markdown
+   ![Alt text](/media/chapter-folder/image-name.png)
+   ```
+   Choose images that are visually striking and represent the key topics of the update.
+
+7. **After creating the blog entry**, run:
    ```bash
    npm run generate-index
    ```
