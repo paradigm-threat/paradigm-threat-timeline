@@ -111,11 +111,30 @@ npm run normalize-events
 npm run refactor-sections
 ```
 
-## Investigations
+## Investigations (Knowledge Pool)
+
+The `investigations/` folder is the project's **living knowledge base** — organized by topic (e.g. `investigations/maxwell-aether/`, `investigations/nuclear/`, `investigations/text/`). See `investigations/index.md` for the full topic index.
+
+### Coherence workflow
+
+- **Before writing or editing any timeline article**, scan `investigations/` for relevant prior research. This prevents contradictions and keeps assertions in sync across the timeline.
+- If an investigation supports or contradicts a timeline claim, cross-reference it or flag the contradiction in `docs/OUTSTANDING_QUESTIONS.md`.
+- New research conducted while editing the timeline should be added to `investigations/` under the appropriate topic folder.
+
+### Investigations are NOT part of the book
+
+- Investigation files are **excluded** from PDF/DOCX exports. They are web-only reference material.
+- Timeline articles in `content/` must **not** use relative paths to investigations (e.g. `../../investigations/...`) — these won't resolve in the printed book.
+- Instead, link to the live website's Browser mode:
+  ```
+  [See: Title](https://paradigm-threat.net/timeline?view=browser&path=investigations/topic/filename.md)
+  ```
+- Investigations may later become a separate publication or online article series.
+
+### Source validation
 
 - Use `investigations/` for source validation (e.g. tracing creation dates, verifying claims).
 - When a cited source cannot be found online or in mainstream refs: assume redaction or gatekeeping before assuming error. Document the gap.
-- See `investigations/README.md` for the investigation template and index.
 
 ## Updating OUTSTANDING_QUESTIONS.md
 

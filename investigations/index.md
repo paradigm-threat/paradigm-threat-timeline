@@ -1,0 +1,77 @@
+# Investigations
+
+Ongoing research to validate, correct, or deepen claims referenced in the paradigm-threat-timeline. Each investigation is a markdown file documenting sources, findings, and open questions.
+
+**Note:** Mainstream sources may have redacted or altered original texts. We keep open the possibility that cited alternate sources are correct and that discrepancies stem from later edits, lost manuscripts, or scholarly misattribution.
+
+---
+
+## By Topic
+
+### Chronology
+- [creation-dates-validation](creation-dates-validation.md) — Validate Jno Cook's claim about differing civilization creation dates
+- [chronologia.org index](chronology/index-chronologia.md) — Fomenko's New Chronology site mirror index
+- [Die Offenbarung Johannis](chronology/index-offenbarung.md) — Morozov's Revelation investigation
+- [Offenbarung text](chronology/text_formatted.md) | [raw](chronology/text.md)
+
+### De Grazia (Quantavolution)
+- [README](de-grazia/README.md) — Alfred de Grazia bibliography & overview
+- Books: [Burning of Troy](de-grazia/books/burning-of-troy.md) | [Chaos & Creation](de-grazia/books/chaos-and-creation.md) | [Cosmic Heretics](de-grazia/books/cosmic-heretics.md) | [Disastrous Love Affair](de-grazia/books/disastrous-love-affair.md) | [Divine Succession](de-grazia/books/divine-succession.md) | [Fire Not Blown](de-grazia/books/fire-not-blown.md) | [God's Fire](de-grazia/books/gods-fire.md) | [Homo Schizo I](de-grazia/books/homo-schizo-i.md) | [Homo Schizo II](de-grazia/books/homo-schizo-ii.md) | [Iron Age of Mars](de-grazia/books/iron-age-of-mars.md) | [Ka](de-grazia/books/ka.md) | [Lately Tortured Earth](de-grazia/books/lately-tortured-earth.md) | [Q Intro](de-grazia/books/q-intro.md) | [Recollections of a Fallen Sky](de-grazia/books/recollections-fallen-sky.md) | [Solaria Binaria](de-grazia/books/solaria-binaria.md) | [Velikovsky Affair](de-grazia/books/velikovsky-affair.md)
+
+### Fiction Encoding (Authors Encoding Real History)
+- [Algernon Blackwood](fiction-encoding/blackwood/index-blackwood.md)
+- [Orson Scott Card](fiction-encoding/card/index-card.md)
+- [C.S. Lewis](fiction-encoding/cslewis/index-cslewis.md) | [Narnia planetary encoding](fiction-encoding/cslewis/investigation-narnia-planetary-encoding.md)
+- [H.P. Lovecraft](fiction-encoding/lovecraft/index-lovecraft.md)
+- [Arthur Machen](fiction-encoding/machen/index-machen.md)
+- [H.G. Wells](fiction-encoding/wells/index-wells.md)
+- [Jules Verne](fiction-encoding/jules-verne/index-jules-verne.md)
+- [J.R.R. Tolkien](fiction-encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md) | [Source mapping](fiction-encoding/tolkien/RESEARCH-three-tasks-source-mapping.md)
+
+### Hairy Mary (Wild Woman / Mary Magdalene)
+- [Original investigation](hairy-mary/index-hairy-mary-original.md) | [One more time](hairy-mary/index-hairy-mary-one-more-time.md)
+- [Met Museum wild woman & unicorn](hairy-mary/index-met-museum-wild-woman-unicorn.md)
+- [Pregnant Mary Magdalene](hairy-mary/index-pregnant-mary-magdalene.md)
+
+### Kinkel Family
+- [Gottfried Kinkel](kinkel/gottfried-kinkel.md) | [Johanna Kinkel](kinkel/johanna-kinkel.md) | [Dickens connection](kinkel/dickens.md)
+- [Ivan Kinkel / Nenovsky analysis](kinkel/nenovsky_Kinkel_EJHET_2015.md)
+
+### Mars
+- [Death on Mars](mars/death-on-mars.md)
+- War of the Worlds: [Full text](mars/wotw.md) | [Timeline](mars/wotw-timeline.md) | [Martian analysis](mars/wotw-martian-analysis.md) | [Martian civilization](mars/wotw-martian-civilization.md) | [MFEE Mars catastrophe](mars/wotw-mfee-mars-catastrophe.md) | [Forbidden blood](mars/wotw-forbidden-blood.md) | [Telepathic purge](mars/wotw-telepathic-purge.md)
+
+### Maxwell & the Aether
+- [Burden of proof debate](maxwell-aether/01-burden-of-proof-debate.md) — Epistemology of aether suppression
+- [Did Maxwell prove the aether?](maxwell-aether/02-did-maxwell-prove-the-aether.md) — Investigation using Wheeler/Dollard/Tesla sources
+
+### Nuclear Weapons
+- [Nukes don't exist](nuclear-weapons/nukes-dont-exist-investigation.md)
+- [Nuclear waste is safe](nuclear-weapons/nuke-waste-is-safe-investigation.md)
+
+### Probiotics & Chernobyl
+- [Soviet probiotic research](probiotics-chernobyl/soviet-probiotic-research-the-real-story.md)
+- [David Straight investigation](probiotics-chernobyl/ssstwitter.com_1772378839442-investigation.md) | [Transcript](probiotics-chernobyl/ssstwitter.com_1772378839442-transcript.md)
+
+### Remote Viewing
+- [Remote viewing in fiction](remote-viewing/index-remote-viewing-fiction.md)
+
+### Saturnian Cosmology
+- [saturniancosmology.org index](saturnian-cosmology/index-saturniancosmology.md)
+- [mythsarehistory.com index](saturnian-cosmology/index-mythsarehistory.md)
+- [thunderbolts.info index](saturnian-cosmology/index-thunderbolts.md)
+- [SAFIRE Project index](saturnian-cosmology/index-safireproject.md)
+
+### Other References
+- [Other references index](other-refs/index-other-references.md)
+
+### Standalone
+- [Death on Mars analysis](death-on-mars-analysis.md)
+
+---
+
+## Adding investigations
+
+1. Create a new `*.md` file in the appropriate topic folder (or create a new folder).
+2. Use the template: status, source, claim, methodology, findings, references, next steps.
+3. Add an entry to the relevant section above.

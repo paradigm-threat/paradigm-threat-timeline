@@ -1,0 +1,60579 @@
+--- Page 1 ---
+
+--- Page 2 ---
+
+--- Page 3 ---
+
+--- Page 4 ---
+-_——-_— -
+—*_-
+-_—_._-.
+
+--- Page 5 ---
+
+--- Page 6 ---
+
+--- Page 7 ---
+DIE
+OFFENBARUNG JOHANNIS
+
+--- Page 8 ---
+Von
+dem
+Verfasser
+dieses
+Werkes
+sind
+früher
+erschienen:
+I. Periodische Systeme im Aufbau der Materie.
+Die
+Theorie
+der
+Entstehung
+der
+gegenwärtigen
+chemischen
+Elemente.
+483
+Seiten.
+55
+lithogra
+phierte
+Tafeln.
+Moskau
+1907.
+Preis
+3 R.
+2. Die
+Grundlagen
+der
+qualitativen
+Analyse
+der
+mathematischen
+Physik.
+402
+Seiten.
+22 Tafeln und 89 Bilder.
+1908.
+Preis
+3 R.
+3. Widerstandsgesetze
+bei
+der
+Bewegung
+von Körpern
+im elastischen
+Raum.
+Mit
+15
+eingelegten
+chromolithographierten
+Tafeln.
+1908.
+Preis l
+R.
+4. Die
+Grundlagen
+der
+vektorialen
+Algebra
+in ihrer Entstehung aus der reinen Mathe
+matik.
+Mit 88 Abbildungen
+und
+2 Tafeln.
+1909.
+Preis
+2 R.
+
+--- Page 9 ---
+DIE
+OFFENBARUNG JOHANNIS
+EINE ASTRONOMISCH-HISTORISCHE UNTERSUCHUNG
+VON
+NIKOLAUS MOROSOW\
+/\\C«\’ZZ'JV,
+//7".
+a\‘{/
+"'
+'
+.
+-
+‘\
+MIT EINEM GELEITWORT VON
+PROFESSOR
+Dr. ARTHUR DREWS
+IN KARLSRUHE
+STUTTGART
+VERLAG VON W. SPEMANN
+1912
+\I
+\
+t.
+‘\\\
+\
+\
+
+--- Page 10 ---
+Copyright
+1912
+by W. Spemauu
+in Stuttgart.
+Hoffmannxche
+Buchdruckerel
+Felix
+Krais,
+Stuttgart.
+
+--- Page 11 ---
+57‘
+Vorwort
+zur ersten
+russischen
+Auﬂage.
+Im vorliegenden Buch
+ist;
+die
+astronomische
+Berechnung
+der Ent
+stehungszeit
+der Apokalypse
+die Hauptsache.
+Diese
+neue Methode der
+Zeitbestimmung,
+angewendet
+auf ein
+altes
+Buch,
+führte
+zu
+einem
+ganz
+unerwarteten
+Ergebnis.
+Das Jahr,
+der Tag,
+ja,
+sogar
+die Stunde der
+Johanneischen Beobachtung
+erschienen
+mit
+astronomischer
+Genauigkeit
+berechnungsfähig.
+Als
+Folge
+hieven
+ergab
+sich
+das weitere Resultat,
+dass
+die
+Apokalypse
+von
+dem
+berühmten
+Gegner
+des
+byzantinischen
+politisch-religiösen Absolutismus
+Johannes von Antiochien,
+Chrysostomus
+genannt,
+verfasst
+werden ist.
+Sollte
+aber
+der Leser
+diese letzte Folge
+rung nicht
+annehmen
+und
+einen
+anderen Verfasser suchen
+wollen,
+so ist
+das für
+die Frage
+selbst
+ohne Bedeutung.
+Jedenfalls wird
+er ihn in dem
+gleichen
+Jahr
+395,
+das
+uns
+die
+astronomische
+Berechnung geliefert hat,
+suchen
+müssen.
+So
+lange
+diese Berechnung
+nicht
+umgestossen
+ist —
+und
+dies
+wird
+nach
+den
+Prüfungsrechnungen
+der
+Herren
+Astronomen
+M. M. Kamensky
+und
+N. M. Liapin
+von der Sternwarte in Pulkowa
+(bei St. Petersburg)
+kaum
+zu
+erwarten
+sein — bleibt
+das
+Fundament
+der vorliegenden Untersuchung,
+und mit ihm würden auch
+alle wesent
+lichen Folgerungen
+aus jener Zeitangabe bestehen
+bleiben.
+Einen anderen
+Verfasser
+der
+Apokalypse
+wird
+der
+Leser
+für
+jene
+Zeit
+nicht
+ﬁnden.
+Kleine
+Nebensächlichkeiten,
+über die
+man
+streiten kann,
+sind
+für
+mich
+belanglos.
+Ich
+bin
+bereit,
+solche
+bei
+der
+ersten
+Widerlegung
+fallen zu
+lassen;
+das Buch
+wird
+dadurch keine Einbusse
+erleiden.
+Nikolaus Morosow.
+n
+
+--- Page 12 ---
+
+--- Page 13 ---
+Vorwort zur deutschen
+Ausgabe.
+Die
+alte
+theologische
+Literatur
+hat
+viel
+Aehnlichkeit
+mit
+der
+alchemistischen.
+Beim
+Durchlesen
+einer
+vor
+Ende
+des
+19.
+Jahrhunderts
+ver
+fassten
+Geschichte
+der
+Alchemie
+erstaunt
+man
+über
+die
+Menge
+des von
+den
+ältesten
+Zeiten her
+auf uns
+gelangten
+Materials.
+Wir besitzen vor
+treffliche
+fortlaufende
+Berichte
+über
+das
+Suchen
+nach
+dem
+„Stein
+der
+Weisen“,
+es fehlt darin kein einziges
+Glied.
+Man ist geneigt,
+dem Ver
+fasser,
+da er
+aus
+den Urkunden,
+die ihm zur Verfügung
+standen,
+alles
+Wunderbare,
+offenbar
+Unglaubwürdige
+und
+Widersprechende
+sorgfältig
+ausgeschieden
+hat,
+aufs Wort
+zu
+glauben.
+Ist aber
+der
+von
+ihm benutzte
+Rest
+des
+Materials
+dadurch
+glaub
+würdiger geworden?
+Gewiss nicht!
+Auch aus den arabischen Märchen von
+„Tausend und eine Nacht“
+könnte in ähnlicher Weise eine an
+sich glaub
+würdige,
+peudogeschichtliche
+Erzählung
+herausgezogen
+werden,
+in der
+aber natürlich
+kein Wort
+den historischen Tatsachen entspräche.
+Am
+Schlusse
+des
+19. Jahrhunderts
+unternahm
+es
+der
+berühmte
+Chemiker B erth el ot,
+die Geschichte
+der Alchemie zu erforschen.
+Dank
+seinem
+grossen
+Namen
+öffneten
+sich vor ihm die Türen aller europäischen
+und
+asiatischen
+Bibliotheken.
+Er durchforschte
+fast
+alle bis auf uns ge
+langten
+Urkunden,
+musste
+sich
+dann
+aber
+sagen,
+dass keine einzige
+auf
+Zuverlässigkeit
+Anspruch
+machen
+konnte.
+Vielmehr
+ergab
+sich,
+dass
+alle
+diese
+schön
+aneinander
+gereihten
+Erzählungen
+nicht
+vor
+dem
+17. Jahrhundert
+verfasst
+worden sind,
+obwohl
+sie
+dem grauesten Alter
+tums
+zugeschrieben
+waren.
+In
+den
+europäischen
+Bibliotheken
+stehen
+viele „lateinische Ueber
+setzungen“
+von
+alten
+arabischen
+Schriftstellern,
+selten
+in Handschriften,
+meist
+in
+gedruckten
+Sammlungen
+der
+ersten
+Jahrzehnte
+der
+Buch
+druckerkunst,
+die
+alle
+früheren
+Geschichtsschreiber
+der
+Alchemie
+be
+nützt
+haben.
+Es stellte sich
+nun
+heraus,
+dass
+die
+arabischen
+Originale
+nicht bloss unaufﬁndbar waren,
+sondern Berthelot musste sich überzeugen,
+dass
+sie überhaupt
+nie
+vorhanden
+gewesen
+waren,
+weil in den meisten
+
+--- Page 14 ---
+VIII
+dieser
+Uebersetzungen
+nur griechische
+Schriftsteller
+zitiert wurden.
+Auch
+gehörten
+verschiedene
+Gedankengänge
+in diesen Uebersetzungen
+unzweifel
+haft
+dem Ende
+des Mittelalters
+an.
+Schliesslich
+kam
+Berthelot
+zu der Ansicht,
+dass
+alles,
+was
+in
+den
+ersten
+gedruckten
+Sammlungen auf
+uns
+gelangt
+ist
+(15.,
+16.
+und
+17. Jahrhundert),
+ebenso
+wie
+die
+vorhergegangenen
+Handschriften
+aus
+der alten Periode der Alchemie,
+durchaus
+apokryph ist und
+dass weniger
+bekannte
+Schriftsteller
+der
+Renaissance
+die
+Gewohnheit
+hatten,
+ihre
+Werke
+unter
+dem
+Namen
+alter
+berühmter
+Autoren
+oder
+als
+Heber
+setzungen
+aus
+dem Griechischen,
+Arabischen
+oder
+Hebräischen heraus
+zugeben.
+Ob
+nicht
+eine
+solche
+Gewohnheit
+auch
+bei
+den mittelalterlichen
+Mönchen
+und
+Theologen
+bestand?
+Ob
+sie
+ihre Werke
+und
+Predigten
+nicht mit
+den Namen alter Berühmtheiten
+deckten
+und dadurch
+unsere
+Vorstellungen
+von
+der Entwicklung
+der christlichen
+Ideen im Altertum
+irre
+geführt
+haben?
+Andeutungen
+dieser Art
+ﬁnden
+sich
+bei
+neueren
+und älteren
+Geschichtsschreibern.
+Zahlreiche Urkunden,
+die
+noch
+in der
+ersten
+Hälfte
+des
+19.
+Jahrhunderts
+für
+sehr
+alt
+gehalten
+wurden,
+er
+wiesen
+sich
+als
+unecht,
+und manche
+werden
+nur deshalb
+für zuverlässiger
+angesehen,
+weil
+die Beweise für ihre Unechtheit noch nicht erbracht sind.
+Noch ist der
+allgemeine
+Prüfstein,
+mittelst
+dessen wir
+die
+Echt
+heit
+alter
+Urkunden
+und
+ihre
+historische
+Glaubwürdigkeit
+erkennen
+könnten, nicht gefunden
+werden;
+deswegen
+ist jede neue Untersuchungs
+art
+sehr
+wichtig
+und
+erwünscht.
+Im
+vorliegenden
+Werk
+ist die
+astronomische
+Methode
+auf eines der
+verbreitetsten Bücher
+der
+christlichen Welt
+angewendet
+und
+mit ihrer
+Hilfe zu beweisen
+versucht worden,
+dass 'dieses Buch in der Zeit zwischen
+dem
+30.
+September
+nachmittags
+und
+dem Morgen
+des l. Oktobers vor
+mittags
+im
+395. julianischen
+Jahre
+entworfen
+wurde.
+Bei
+diesem Er
+gebnis
+kann
+die Apokalypse
+selbst
+als Prüfstein
+für diejenigen
+Urkunden
+dienen,
+in denen sie erwähnt wird,
+und von
+denen zahlreiche
+den
+ersten
+drei Jahrhunderten
+der christlicher Zeitrechnung zugeteilt werden.
+Einige
+davon
+sind
+im
+vorliegenden
+Buche
+in
+einem
+besonderen
+Anhang
+auf
+geführt,
+andere
+werde
+ich in
+einem
+späteren
+Werke
+behandeln.
+Petersburg,
+Dezember
+1911.
+Nikolaus
+Morosow.
+
+--- Page 15 ---
+Geleitwort.
+Wenige
+Bücher
+der
+Weltliteratur
+sind
+so
+oft
+kommentiert
+und
+so
+häufig
+zum
+Gegenstande
+tiefsinniger
+oder
+abstruser
+Spekulationen
+gemacht
+worden,
+wie
+die
+sog.
+„Offenbarung
+Johannis“.
+Gelehrte
+und
+Ungelehrte,
+Männer
+der
+strengen
+Wissenschaft
+und
+einfache
+Leute
+aus
+dem Volke,
+die
+sich
+hierbei auf ihre „innerliche Erleuchtung“
+be
+riefen,
+haben
+sich
+um
+den
+Sinn
+jenes
+Buches
+bemüht
+und
+die
+ver
+wirrende Fülle
+seiner
+phantastischen
+Bildersprache auf die ihr zugrunde
+liegende
+Wirklichkeit
+zurückzuführen
+versucht.
+Wie viele verschiedene
+Methoden
+hat man nicht
+schon
+angewandt,
+um Licht in dieses Dunkel
+zu
+bringen!
+Man
+hat
+die
+„Offenbarung“
+als
+eine
+Art
+allegorischer
+Wiederholung
+der
+wichtigsten Epochen
+der Weltgeschichte
+aufgefasst:
+die
+sog.
+„Rekapitulationsmethode“.
+Man
+hat in ihr das Schicksal
+der
+christlichen Kirche
+dargestellt
+gefunden,
+wie
+sich
+diese im Laufe
+der
+Zeit entwickelt
+hat:
+die
+„kirchengeschichtliche“ Methode.
+Man hat sie
+auf
+die Zustände
+der
+jeweiligen
+Gegenwart
+bezogen
+und
+aus
+den An
+deutungen
+der
+Offenbarung
+die Zukunft,
+das
+nahe
+bevorstehende
+Ende
+der
+Welt
+berechnen
+wollen:
+die
+„endgeschichtliche“ Auslegung.
+Man
+hat
+ihre
+Schilderungen
+und
+Bilder
+auf
+Vorgänge
+der
+nächsten
+Ver
+gangenheit
+ihres
+Verfassers
+gedeutet
+und
+die Zukunftserwartungen
+des
+Sehers
+durch die
+Zustände
+seiner
+eigenen
+Zeit
+bedingt
+sein
+lassen:
+die
+„zeitgeschichtliche“
+Auslegung.
+Oder
+aber
+man
+hat
+den
+Inhalt
+der
+Offenbarung
+aus
+der
+Anlehnung
+an
+das Alte Testament
+und
+andere
+ähnliche Offenbarungen
+abgeleitet
+und
+diese
+sog.
+„Anlehnungsmethode“
+zur
+„literarkritischen“
+Methode
+zugespitzt,
+indem
+man
+durch Quellen
+scheidung
+und Aufdeckung ihrer literarischen Beziehungen
+die Schwierig
+keiten
+der
+Komposition
+jenes
+Buches
+zu
+erklären
+versucht
+hat.
+Zu
+allen
+diesen
+schon
+früher
+angewandten
+Methoden
+ist
+dann
+neuerdings
+noch
+die
+durch Gunkel
+begründete
+sog.
+„Traditionsrnethode“
+hinzu
+gekommen,
+deren Grundsatz lautet:
+Was
+man
+sich
+nicht erklären kann,
+das sieht man für Ueberlieferung an,
+wobei
+gegenwärtig die babylonische
+
+--- Page 16 ---
+X
+Ueberlieferung
+das
+Modevorurteil
+für
+sich
+hat,
+Marduk
+und
+Tiamat
+eine Hauptrolle
+spielen
+und die
+ganze Welt von babylonischen Drachen
+wimmelt.
+Allein
+trotzdem
+ist
+es
+selbst
+dem
+grössten
+Scharfsinn
+und
+der
+profundesten
+Gelehrsamkeit
+bisher noch
+nicht
+gelungen,
+die
+sieben
+Siegel des merkwürdigen Buches zu lösen und eine wirklich befriedigende
+Antwort auf die Frage
+nach
+dessen
+geheimem
+Sinn zu geben.
+Es gibt
+kaum
+etwas
+Trostloseres
+als
+den Anblick
+der zahllosen
+Kommentare
+zur Apokalypse,
+die
+für
+sich
+allein
+eine
+ganze
+Bibliothek
+ausfüllen.
+Das „Lasciate
+ogni
+speranza“
+scheint,
+wie
+über Dantes
+Hölle,
+so
+auch
+über
+dem Buche des Johannes
+zu stehen.
+Man
+wird
+es
+bei
+dieser Lage
+der Dinge
+nicht
+von
+vomeherein als
+einen
+„Einbruch“
+in
+das „geheiligte Gebiet der Wissenschaft“
+abweisen,
+wenn
+wieder
+einmal
+ein
+„Laie“
+sich
+an
+den
+Gegenstand
+heranwagt
+und
+mit
+einer
+neuen
+Auslegungsmethode
+der
+Offenbarung
+hervortritt.
+Der Russe Nikolaus Morosow
+wendet
+auf dieses
+Buch
+die
+natur
+symbolische
+Erklärungsweise
+an, wie sie sonst überall dort üblich ist,
+wo
+man
+es mit einem
+offenbar
+mythischen Stoff zu tun hat. Er erblickt
+in
+den Gestalten
+des Johannes
+Personiﬁkationen
+von Naturvorgängen:
+die Sonne,
+die
+durch
+ﬁnstere
+Wolken
+blickt
+und dabei
+das
+Aussehen
+eines
+zornigen
+Menschenantlitzes
+annimmt,
+Gewitterwolken,
+die
+als
+„Boten
+des Unwetters“
+die Stumposaunen
+blasen,
+ihr Wehe
+über
+die
+Erde
+rufen
+und
+ihre
+Regenschalen
+über
+sie
+ausgiessen,
+jetzt
+gleich
+drachenähnlichen Ungeheuern
+sich
+am Himmel
+emporrecken, jetzt
+als
+Kröten
+einen
+grotesken
+Tanz
+in der Luft
+aufführen, als Engel
+über den
+Himmel
+dahinﬂiegen
+oder
+in der Gestalt
+eines
+mit Gold
+geschmückten
+riesenhaften
+Weibes
+sich
+von
+dem
+in
+der
+Abendröte
+leuchtenden
+Horizont
+abheben.
+Er glaubt, im Rauschen
+des an
+die Ufer brandenden
+Meeres
+die Stimmen
+der Völker
+zu
+vernehmen,
+von
+denen
+Johannes
+spricht.
+Im
+geheimnisvollen
+Funkeln
+der
+Sterne
+vernimmt
+er
+den
+Klang von himmlischen Harfen,
+die
+aus
+der Höhe herniedertönen.
+Er
+sieht die Felsen
+unter
+den
+Stössen
+eines
+Erdbebens
+wanken
+und
+zer
+bersten,
+und in
+seiner
+Phantasie
+weitet
+sich
+ihm
+dieser
+Einzelvorgang
+aus
+zu
+einer Vision des nahe
+bevorstehenden
+schrecklichen Endes aller
+Dinge.
+So
+ist
+ihm
+die
+ganze
+Offenbarung
+nichts
+als
+eine grossartige
+Schilderung
+eines
+Gewitters
+mit Erdbeben in allen
+seinen verschiedenen
+Phasen, wie
+es sich in
+der Abendstunde
+über
+einer
+einsamen
+Insel
+ent
+laden
+und
+das
+der Verfasser
+der
+Offenbarung
+vom
+Strande
+des
+Meeres
+aus
+beobachtet
+hat,
+und
+eine
+feinfühlige,
+von Kindheit
+an
+genährte
+Empfänglichkeit
+für
+das
+geheimnisvolle Leben
+und Weben
+der Natur
+befähigt
+ihn
+dazu,
+für
+jedes
+einzelne
+Bild
+und jeden
+Ausdruck
+des
+Johannes
+die Entsprechung
+in
+der
+äusseren
+Wirklichkeit
+nachzuweisen.
+
+--- Page 17 ---
+XI
+Dabei verbindet er mit der natursymbolischen die astralmytho
+logische
+Betrachtungsweise. Er richtet zur Bestätigung seiner Wolken
+und
+Wettermythologie
+den
+Blick
+auf
+den Sternhimmel
+und
+gibt
+den
+wallenden
+Wolkenbildern
+einen
+Halt,
+gleichsam
+ein
+festes
+Knochen—
+gerüst
+und
+eine konkretere
+Färbung
+durch Anknüpfung
+ihrer Erschei
+nung
+an
+bestimmte
+Sternbilder.
+Darin
+hat er in Du puis
+einen Vor
+gänger.
+Im
+dritten
+oder
+zehnten
+Bande
+der
+grossen
+drei- oder
+zwölf
+bändigen Ausgabe seines Monumentalwerkes „L’Origine
+de tous les Cultes“
+(1794) hat dieser
+bereits
+eine ausführliche Erklärung
+der Offenbarung
+auf
+Grund
+der Astralmythologie
+gegeben.
+Eine
+Vergleichung
+der Deutung
+von Dupuis
+mit
+derjenigen
+von Morosow
+ist
+ausserordentlich
+inter
+essant.
+Es stellt
+sich
+dabei
+heraus,
+dass
+dieser,
+unabhängig von seinem
+Vorgänger
+und
+augenscheinlich
+ohne ihn zu kennen,
+vielfach
+zu
+einer
+beinahe
+vollständigen
+Uebereinstimmung
+mit
+dem
+genialen
+Franzosen
+gelangt
+ist.
+Rätsel,
+wie
+sie
+besonders
+das
+vierte Kapitel
+der
+Offen
+barung aufgibt,
+der himmlische Thron,
+die
+sieben Fackeln,
+die vierund
+zwanzig Aeltesten,
+das Lamm usw.‚
+dürften
+nunmehr
+wohl endgültig
+gelöst
+sein.
+Aber
+während Dupuis sich
+im
+wesentlichen
+nur auf die
+Hauptkapitel
+der
+Offenbarung
+beschränkt
+und
+darauf verzichtet,
+für
+alle einzelnen
+wilden Ausgeburten,
+grotesken
+Einfälle
+und verschrobenen
+Bilder
+der
+johanneischen
+Phantasie
+eine
+entsprechende
+Erklärung
+zu
+liefern, geht Morosow
+dem Gedankengang des Sehers
+bis ins einzelne
+nach
+und
+liefert
+damit
+zum
+ersten
+Male
+eine wirklich vollständige Auf
+lösung
+aller
+in
+der
+Offenbarung
+enthaltenen
+scheinbaren
+Wunderlich
+keiten und
+Rätsel.
+Man
+mag
+sich
+gegen
+manche
+seiner
+Deutungen
+sträuben:
+man
+wird
+zugeben
+müssen,
+dass
+auch
+diese
+sich
+zwanglos in den
+Gesamt
+zusammenhang
+seiner Auffassung
+einreihen
+und unter dem von ihm ge
+wählten Gesichtspunkte
+durchaus
+berechtigt erscheinen.
+Man wird
+ihm
+vorwerfen,
+bei
+seiner Erklärung
+die
+Ergebnisse
+der
+Quellenscheidung
+nicht
+genügend
+berücksichtigt
+und
+gegen
+das wichtigste Resultat
+der
+neuesten Untersuchungen
+der Offenbarung verstossen
+zu
+haben,
+nämlich
+dass
+die
+letztere kein einheitlich konzipiertes Werk,
+sondern
+eine
+aus
+verschiedenen
+Stücken
+zusammengesetzte
+Darstellung
+sei,
+die
+zum Teil
+einen
+ganz
+verschiedenen
+Ursprung
+haben
+und
+vielleicht
+auch
+ganz
+verschiedenen
+Zeiten
+angehören.
+Er wird
+vermutlich
+darauf erwidern,
+dass die Scheidung der Quellen ja nur darauf beruhe,
+dass man die Offen
+barung in ihrer vorliegenden Gestalt für unverständlich
+hält,
+dass
+aber
+die Möglichkeit
+einer
+restlosen
+und
+logisch in sich zusammenhängenden
+Erklärung seinem
+eigenen
+Verfahren
+Recht
+gebe.
+Man wird ihm auch
+entgegenhalten,
+die Anlehnung
+des
+Sehers
+an
+seine Vorgänger,
+an
+die
+
+--- Page 18 ---
+XII
+apokalyptische
+Ueberlieferung
+und
+das
+Alte
+Testament
+ausser
+acht
+gelassen
+und
+vor
+allem
+die
+Verwandtschaft
+seiner
+Visionen
+mit
+den
+jenigen
+eines Jesaja,
+Ezechiel,
+Sacharja
+und Daniel
+übersehen
+zu haben.
+Morosow
+wird
+diese Uebereinstimmungen nicht
+leugnen,
+aber
+er wird
+erwidern,
+dass
+die Aufdeckung
+der hierher
+gehörigen
+Zusammenhänge
+für seine Art der Erklärung keine Bedeutung
+habe.
+Hat
+er
+doch selbst
+auch
+die
+Propheten
+des
+Alten
+Testaments
+zum
+Gegenstande
+seines
+Studiums
+gemacht
+und
+gerade
+den Schriften
+des Sacharja und
+des Daniel
+eine
+eingehende
+Untersuchung
+gewidmet‘).
+Unleugbar
+ist
+die Auffassung
+der Offenbarung,
+wie Morosow
+sie
+bietet,
+voll poetischen
+Zaubers und
+ungleich geistvoller und anziehender
+als alles,
+was von den Fachgelehrten
+bisher über den fraglichen
+Gegen
+stand
+vorgebracht
+ist.
+Sie
+rückt
+das Buch
+des Johannes
+in
+ein
+ganz
+' l) Inzwischen
+dürften
+seine bezüglichen
+Darlegungen
+die Wichtigkeit der Astral
+mythologie
+für
+das Verständnis
+der Bibel
+auch
+weiteren Kreisen einmal wieder zum Be
+wusstsein
+bringen.
+Es ist bezeichnend
+und. spricht
+Bände,
+dass
+ein
+so grundgelehrter
+Theologe,
+wie Bousset,
+in seinem Kommentar
+zur Offenbarung
+(1896)
+alle möglichen
+Namen
+von solchen
+anführt,
+die
+sich mit jenem
+Buche
+befasst
+haben,
+das Werk
+von
+Dupuis
+jedoch
+überhaupt
+nicht
+zu
+kennen
+scheint.
+Und doch
+ist hier
+bereits
+ein
+grosser
+Teil
+der
+Rätsel
+wirklich
+auf
+die einfachste
+Weise
+gelöst,
+welche
+die Offen
+barung
+ihren Erklärern aufgibt, und
+keine
+zeitgeschichtliche,
+keine Traditionsmethode
+kann
+sich an Bedeutung
+und
+Fruchtbarkeit
+mit
+der astralmythologischen
+Methode
+der
+Erklärung
+messen.
+Statt
+überall
+nur
+den
+Spuren
+der
+Ueberlieferung
+nachzugehen,
+womit
+für
+das
+Verständnis
+der Offenbarung
+im
+Grunde
+gar
+nichts
+gewonnen
+wird,
+dürfte
+es sich empfehlen,
+sich den Sternhimmel
+etwas genauer
+anzusehen.
+Denn
+hier
+beﬁndet
+sich
+das
+wirkliche
+„Babylon“,
+das
+dem
+Seher
+in zahlreichen
+Fällen seiner
+Schilderungen
+vorgeschwebt
+hat,
+und
+aus
+welchem
+auch Marduk und
+Tiämat
+ihren
+Ursprung genommen
+haben.
+Ja, die Kenntnis wenigstens
+der Grundlagen
+der Astro
+nomie
+und
+der astralrnythologischen
+Betrachtungsweise,
+das
+wird sich immer deutlicher
+herausstellen,
+ist zur
+Erklärung der Werke
+des
+Altertums
+und
+zum Verständnis
+seiner
+Denkweise
+zum
+mindesten
+so
+wichtig,
+wie
+diejenige
+der
+philologischen
+Methoden.
+Diese Behauptung
+ist
+ganz
+unabhängig
+von
+der Stellung,
+die
+man
+etwa zum Pan
+babylonismus
+eines Winckler
+und
+seiner
+Schule
+einnimmt.
+Ja,
+es dürfte
+sogar
+ge
+boten
+sein,
+von
+diesen
+modernen
+Spekulationen
+zunächst
+erst
+einmal
+abzusehen,
+auf den Standpunkt
+des
+alten Dupuis
+zurückzugeben
+und
+sich mit
+dessen
+Ansichten
+bekannt
+zu
+machen,
+um
+eine
+allgemeine
+Grundlage
+der Verständigung
+zu schaffen.
+Soviel
+steht jedenfalls
+fest:
+ohne genauere Kenntnis vom „Origine de tous les Cultes“
+kommen
+wir auf religionsgeschichtlichem
+Gebiete
+nicht
+weiter.
+Es wäre
+die Aufgabe
+einer
+wissenschaftlichen
+Akademie,
+durch
+eine
+Neuausgabe
+seines
+Werkes
+Dupuis
+zu
+neuem
+Leben
+zu
+erwecken
+und
+ihn
+dadurch
+für
+die
+heutige
+Wissenschaft
+wieder
+fruchtbar
+zu
+machen.
+Aber
+wo
+sind die Akademiker,
+die Einsicht und Vor
+urteilslosigkeit
+genug
+besitzen, um sich mit ihrer Persönlichkeit
+für die hier vergrabenen
+Schätze
+einzusetzen?
+Wo
+ist der Verleger,
+der den Mut und
+die Opferwilligkeit be
+sitzen
+wird,
+eines
+der
+wichtigsten
+Werke
+auf
+religionsgeschichtlichem
+Gebiete
+dem
+deutschen Volke und
+der Wissenschaft
+wieder
+zugänglich
+zu machen?
+
+--- Page 19 ---
+XIII
+neues Licht.
+Sie enthüllt
+dem
+überraschten
+Leser
+dichterische
+Schön
+heiten
+voll plastischer Anschaulichkeit
+und grandioser
+Gestaltungskraft,
+wo
+er
+es
+bisher
+vielleicht
+nur mit
+den
+wüsten
+Ausgeburten
+und
+ge—
+schmacklosen
+Abenteuerlichkeiten
+einer
+aus
+den
+Fugen
+geratenen
+Phantasie
+zu
+tun zu haben
+meinte.
+Und
+sie behält ihren ästhetischen
+Wert
+selbst
+dann,
+wenn
+man
+mit ihrem grundsätzlichen Gesichtspunkte
+nicht übereinstimmt.
+Nun
+ist
+aber
+das Gewitter
+mit Erdbeben,
+dessen
+bildliche
+Um
+schreibung
+Morosow in
+der Offenbarung
+wiederﬁndet,
+nicht irgendein
+beliebiges,
+sondern
+ein
+ganz
+bestimmtes,
+örtlich
+ﬁxiertes,
+nämlich ein
+solches,
+das sich
+am
+30. September
+395
+über
+der Insel Patmos entladen
+hat.
+Damit berühren wir die Frage der Entstehungszeit
+der Offenbarung.
+Nach
+der
+herrschenden
+Auffassung
+soll
+das
+Buch
+des
+Johannes
+unter
+dem Kaiser Domitian konzipiert
+und jedenfalls
+nicht früher
+ge
+schrieben
+sein,
+wenn
+man
+auch
+einzelnes
+in ihr zurzeit kurz
+vor
+der
+Zerstörung
+Jerusalems
+verfasst
+sein
+lässt
+und
+vielfach
+einen
+älteren
+jüdischen Grundstock
+für
+die
+vorliegende
+Gestalt des Werkes
+annimmt.
+Nach Bousset
+(vgl. Job. Weiss
+in „Die Schriften
+des N. T.,
+neu
+übersetzt
+und
+für
+die Gegenwart erklärt“,
+2. Auﬂ.
+1908) lebt
+der Ver
+fasser
+in
+einer
+beginnenden
+Verfolgungszeit.
+Er blickt
+bereits
+auf ein
+Martyrium
+der Gläubigen zurück
+und erwartet
+von
+neuem
+eine Zeit der
+Drangsal.
+Dabei
+soll,
+einer
+Hindeutung
+Mommsens
+zufolge,
+die
+Offenbarung
+in ihrer Tendenz gegen
+das römische
+Reich gerichtet sein,
+und
+zwar
+genauer
+gegen
+den um
+sich
+greifenden
+Cäsarenkultus.
+Den
+hieraus
+entbrennenden
+Kampf
+mit
+dem jungen
+Christentums
+schildert
+das
+12.
+und
+13.
+Kapitel
+des Werkes.
+„Der
+letzte Kampf,
+welcher den
+Gläubigen
+beschieden
+ist,
+ist der Kampf
+mit
+dem Diener
+des
+Drachen,
+dem Tiere,
+das mit
+der Macht
+über
+alle Nationen
+ausgerüstet
+ist,
+das
+alle Bewohner
+der Erde
+anbeten.
+Dessen Untergebener,
+das andere Tier,
+verführt
+durch
+Zeichen
+und
+Wunder
+alle Bewohner
+der Erde,
+das Tier
+anzubeten,
+und
+es handelt sich
+dabei
+um
+einen Kampf
+auf Leben und
+Tod“
+(a.
+a. 0.157).
+Mit
+dieser
+Erwartung
+des
+über
+die
+ganze
+Welt
+entbrennenden
+Kampfes
+mit
+dem
+Cäsarentum
+aber
+lassen
+die
+Er
+klärer
+sich
+den
+Glauben
+des Apokalyptikers
+an
+die Wiederkehr
+des
+Nero
+von
+den _Parthern
+oder
+aus
+dem
+Hades
+verbinden.
+„Das Tier,
+das
+den
+grossen
+Kampf
+mit
+dem Christentum
+beginnen
+wird,
+hat als
+Symbol
+neben
+den
+zehn
+Hörnern
+das
+Haupt,
+dessen Todeswunde ge
+heilt ist.
+„Es
+ist,“
+sagt B0 usset‚
+„das
+römische
+Imperium
+zur Zeit
+des Nero redivivus,
+und
+daher
+ist
+die Zahl
+des Tieres
+die Zahl
+eines
+Menschen.
+In
+dem Nero
+redivivus
+wird
+sich
+die
+ganze
+Furchtbarkeit
+und
+die
+grauenhafte
+Macht
+des Tieres
+noch
+einmal
+zusammenfassen.
+
+--- Page 20 ---
+XIV
+„Es war
+und
+ist
+nicht
+mehr
+und
+wird
+sein“:
+schon
+einmal
+haben
+die
+Christen
+mit
+diesem
+Nero
+den Kampf auf Leben
+und
+Tod
+gekämpft,
+und bald wird er
+aus
+dem Abyssus
+wiederkehren zu einer kurzen Zeit
+der
+Schreckensherrschaft und
+der
+allgemeinen
+Verfolgung
+(a.
+a. O. 158).
+Mit
+der Beobachtung,
+dass
+die Apokalypse
+im Kern ihrer Weis
+sagung
+durch
+die
+damals
+im Volke
+verbreitete Erwartung
+des Nero
+redivivus
+bestimmt sei, ist
+nach
+B
+0
+u
+s
+se
+t
+wirklich „ein fester Punkt“
+gewonnen,
+„der
+nicht
+wieder
+aufgegeben
+werden darf,
+der rocher
+de
+bronce
+der zeitgeschichtlichen
+Deutung,
+an
+dem alle Widersprüche
+bis
+jetzt
+machtlos
+zerschellt sind“ (Ebd.
+141).
+Allein
+so sicher ist
+die Sache
+doch
+nicht.
+Denn
+diese
+ganze Auf
+fassung
+hängt an
+der Tatsache
+einer
+blutigen
+Christenverfolgung
+unter
+Nero, und diese, mag sie den Theologen und gewissen
+Historikern
+noch so
+sympathisch sein,
+gehört ins Reich
+der Fabel.
+Das wird u. a. auch durch
+das gänzliche
+sonstige
+Schwei
+en
+der christlichen
+Schriftsteller
+über
+sie
+bezeugt
+(vgl. Hochart:
+tudes
+au
+sujet
+de
+1a
+persecution sous
+Neron
+1885;
+De l’Authenticit<ä
+des Annales
+et des Histoires
+de
+Tacite
+1890;
+Nouvelles
+Consid6rations
+au
+sujet
+des Annales
+et des Histoires
+de Tacite
+1894,
+bes. Kap. VII;
+ferner:
+Die
+Christusmythe II,
+1911,
+28—77).
+Sollte
+aber
+auch
+wirklich
+eine Verfolgung
+unter Nero
+statt
+gefunden
+haben,
+so war
+sie
+doch jedenfalls
+keine Christenverfolgung
+im
+religiösen Sinne
+des Wortes,
+wie
+dies
+ja
+übrigens
+auch
+von
+vielen
+Historikern
+zugestanden
+wird.
+Aber
+auch
+die domitianische Verfolgung
+sollte
+man
+endlich
+aufhören,
+als Christenverfolgung
+auszuwerten, da
+es
+sich
+bei
+ihr
+schlimmsten
+Falles
+nur
+um
+ein
+gelegentliches
+Vorgehen
+gegen
+solche
+gehandelt
+hat,
+die,
+wie Flavius Clemens,
+der
+Vetter
+des Kaisers, zum jüdischen Monotheismus hinneigten‘).
+Die Nachricht
+des
+Eusebius,
+dass
+damals
+der
+Apostel
+Johannes
+nach
+Patmos verbannt
+sei, ist sicher nur eine
+„fromme“
+Legende.
+In
+dem viel zitierten Briefe
+des Plinius
+an Trajan
+werden
+zwar
+Zeitverhältnisse
+geschildert,
+in
+welche,
+wie Bousset
+sagt,
+„die
+Apokalypse
+so
+ungefähr
+(l)
+hinein
+passt“.
+Aber
+leider
+steht
+auch
+die Echtheit
+dieses Briefes keineswegs
+so
+fest,
+wie
+die
+deutschen
+Theologen,
+die
+sich
+selbst
+mit
+Vorliebe
+„Historiker“
+nennen,
+es gerne
+möchten.
+(Literatur
+hierüber in Christus
+mythe
+II,
+24 f.).
+Schon
+die
+Umstände
+seiner
+ersten
+Veröffentlichung
+im
+16. Jahrhundert
+lassen
+den
+Verdacht
+gegen
+seine Echtheit
+nur zu
+')
+Auch Wellhausen
+in
+seiner
+„Analyse
+der
+Offenbarung
+Johannes“
+(1907)
+bezeichnet
+es (S.
+34) als zweifelhaft,
+dass
+schon
+unter Domitian
+ein Attentat
+des
+Staates auf die Kirche stattgefunden
+habe:
+„Profanhistorische
+Nachrichten
+darüber
+gibt
+es nicht.“
+Nichtsdestoweniger
+beruht
+seine ganze Erklärung
+der Apokalypse
+auf der
+domitianischen
+Christenverfolgung
+und
+der Erwartung
+des Nero redivivus!
+
+--- Page 21 ---
+XV
+begründet
+erscheinen.
+(Vgl.
+Hochart:
+Etudes
+au
+sujet
+de
+1a
+persä
+cution
+etc. 79—143).
+Man
+sieht
+hiernach
+nicht,
+welche
+Verfolgungen
+christlicher
+Glaubensgenossen
+der Verfasser
+der
+Offenbarung
+im Auge
+gehabt
+haben
+sollte, wenn
+er unter
+dem Altare
+die Seelen
+derer schaut,
+„die
+da
+hingeschlachtet
+sind
+wegen
+des Wortes
+Gottes und
+des Zeug
+nisses,
+das
+sie hatten“
+(Apk. VI
+9,
+vgl.
+auch XVII 6, XVIII
+20,
+24,
+XIX
+2).
+Der
+Theologe Franklin Arnold
+weist
+in
+seiner
+Schrift
+über
+„Die
+neronische
+Christenverfolgung“
+(1888)
+die
+Annahme
+eines
+ursächlichen Zusammenhanges
+zwischen
+der
+Offenbarung
+des Johannes
+und. jener Verfolgung
+ab (75ﬂ‘)
+und
+nennt
+es
+einen „ganz unglücklichen
+Gedanken“,
+die
+„ungezählte
+Schar“
+der Märtyrer
+in Kapitel
+7 auf die
+unter
+allen
+Umständen
+unhistorische
+„multitudo
+ingens“
+des
+Tacitus
+(Annalen XV 44)
+zu
+beziehen
+(40).
+Aber
+wie
+steht
+es
+alsdann
+mit
+den terminus
+a
+quo
+der
+Offenbarung?
+Jene
+grosse
+Schar
+aus
+allen
+Völkern,
+Heiden
+und
+Sprachen,
+die Palmen
+tragend
+und
+in
+weissen
+Kleidern
+vor dem Throne Gottes stehen und die aus der grossen Drangsal
+kommen
+— „wer
+sind
+sie
+und
+woher kommen
+sie?“
+Ist doch
+auch
+die Deutung
+der Zahl 666 auf Nero nichts weniger
+als
+einwandsfrei.
+Dass
+die Christen unter Domitian
+die Wiederkehr
+Neros gefürchtet haben
+sollten, ist
+durch
+nichts
+verbürgt
+und
+stützt
+sich
+eben nur
+auf
+die
+falsche
+Voraussetzung
+einer
+Christenverfolgung
+unter
+Nero.
+Auch
+weist Morosow
+mit Recht darauf hin,
+dass
+die
+Zahl
+des
+Tieres ja
+nur
+den
+Namen
+eines
+Menschen
+bezeichnen
+soll,
+aber nicht zugleich
+auch
+dessen
+Titel: 'Neron
+Kesar,
+ganz
+abgesehen
+davon,
+dass
+diese Worte
+sich
+auf eine hebräische
+Ausdeutung jener Zahl
+beziehen,
+die Apokalypse
+jedoch
+in
+der
+griechischen
+Sprache
+abgefasst
+ist.
+Und
+wenn
+man
+immer
+wieder
+zu
+lesen
+bekommt,
+das
+Tier,
+das
+aus dem Meere
+aufsteigt,
+sei
+das
+römische
+Imperium
+und
+ebenso
+das
+Weib
+mit dem
+Becher,
+so
+setzt
+dies
+einen Hass der Christen
+gegen
+das
+römische
+Reich
+voraus,
+der
+bei
+den Christen
+um
+die Wende
+des ersten
+Jahrhunderts
+schwer verständlich
+ist.
+Dupuis
+hat
+eine
+rein
+astrale
+Auffassung
+des Tieres
+und
+seiner
+Todeswunde gegeben,
+und
+sie ist ein
+leuchtender
+und annehmbarer
+als diejenige
+der theologischen
+„Historiker.“
+Er hat auch
+das zweite Tier
+mit
+zwei
+Hörnern
+sehr
+einfach
+erklärt,
+das vom Lande
+her aufsteigt und
+die Menschen
+zur Anbetung des
+ersten
+Tieres verführt,
+während alle übrigen
+Erklärer dieser
+Stelle
+gegenüber
+bisher
+vollständig
+versagt
+haben
+und
+die
+Neueren
+sich
+auch
+hier nur
+wieder durch die
+bequeme Berufung auf die „Tradition“
+zu helfen
+wissen
+(Bousset 423 ff).
+Ob mit
+den
+zehn
+Hörnern
+des
+ersten
+Tieres wirk
+lich
+zehn
+römische
+Herr_scher
+gemeint
+sind
+und
+wie
+die
+letzteren
+zu
+zählen
+sind,
+ist gleichfalls
+noch
+eine
+offene Frage.
+
+--- Page 22 ---
+XVI
+Man sieht:
+auch
+bei
+der zeitgeschichtlichen Deutung
+von
+Kap.
+13
+auf das
+römische
+Reich
+und seine
+Herrscher ist
+noch
+so gut wie
+alles
+im Flusse.
+Man hat daher
+auch
+durchaus
+keinen Grund,
+eine
+andere
+Deutung
+als
+die gegenwärtig
+bei den Theologen
+übliche
+bloss
+deshalb
+abzuweisen,
+weil
+mit
+dieser
+ein
+„fester Punkt“
+gewonnen
+sein
+soll und
+Bousset
+erklärt,
+dass
+man
+sie nicht
+wieder aufgeben
+„dürfe“.
+Tat
+sächlich gibt
+es
+bis jetzt
+in
+der Erklärung der Offenbarung noch
+ga r
+nichts F este s weder in
+der Methode der Auslegung,
+noch
+in
+den
+Resultaten,
+noch
+in
+der
+Gesamtanschauung
+von
+dem
+Kompositions
+charakter
+dieses
+Werkes
+(Bousset
+a.
+a.
+O.
+149).
+Daran
+ändert
+es
+auch
+nichts,
+dass
+schon
+die
+angeblich
+ältesten
+Erklärer
+die
+hier
+ge
+schilderten Gesichts und Vorgänge
+auf Rom
+und Nero
+bezogen
+haben.
+Denn mit
+der Berufung
+auf
+die
+„Tradition“
+ist in
+der
+theologischen
+Betrachtungsweise
+bisher ein solcher Missbrauch
+getrieben
+worden, dass
+wir nachgerade
+allen Grund
+haben,
+der kirchlichen
+Ueberlieferung
+das
+grösste
+Misstrauen
+entgegenzubringen.
+M o r 0 s 0 w
+selbst nimmt, wie gesagt,
+die Wende vom vierten zum
+fünften Jahrhundert
+unserer
+Zeitrechnung
+als Zeit
+der Entstehung
+der
+Offenbarung
+an.
+Auch
+er lässt dies Werk von einem Johannes,
+u. zw.
+auf der Insel
+Patmos verfasst sein,
+aber
+nicht
+von
+dem
+sog. Apostel,
+auch nicht von
+dem grossen Unbekannten, dem „Presbyter“ Johannes, der
+nach I r e n ä u s und E u s e b i u s
+ein
+Augenzeuge des Herrenlebens
+(l)
+gewesen
+sein
+soll,
+sondern
+durch
+den
+berühmten
+byzantinischen
+Pre
+diger und Patriarchen
+von Konstantinopel
+J
+o
+h
+a
+n n
+e
+s
+gen.
+C
+hr
+y
+s
+o
+st
+0
+m u s.
+Morosow
+stützt
+sich
+hierbei
+hauptsächlich
+auf zwei Gründe:
+Der
+eine ist ein historisch-biographischer:
+das Leben
+des Chrysostomus
+ist nur verständlich
+unter der Voraussetzung,
+dass
+er
+die Apokalypse
+verfasst
+hat.
+Der
+andere
+—— und dieser ist
+der entschei
+dende
+— ist
+ein
+astronomischer:
+die
+in
+der Apk.
+gegebene
+Schilde—
+rung entspricht
+genau
+dem Bilde
+des
+Sternhimmels,
+wie
+er
+sich
+am
+Abend
+des 30.
+Septembers
+395
+und
+sonst
+niemals
+vorher
+seit
+dem An
+fang unserer
+Zeitrechnung
+v0n
+der
+Insel
+Patmos
+aus
+dem
+Beschauer
+darstellte.
+An
+der Richtigkeit
+dieser
+Behauptung ist kein Zweifel mög
+lich.
+Hervorragende
+Astronomen,
+sowohl
+in
+Russland
+wie
+anderswo,
+haben
+die Rechnungen
+von Morosow
+unabhängig von einander
+nach
+geprüft
+und sind
+dabei
+zu
+ganz
+dem
+gleichen
+Resultate
+gekommen.
+Die Prüfungsergebnisse zweier Astronomen von der Pulkower Sternwarte
+bei St. Petersburg
+sind
+dem Werke Morosows
+als Anhang
+beigefügt.
+Die Berechnung ist
+im Grunde
+so einfach,
+dass jeder,
+der nur etwas von
+der
+Astronomie
+versteht,
+sie selbst
+anstellen kann.
+Und immer wieder
+
+--- Page 23 ---
+XVII
+stösst
+man
+auf das
+gleiche
+Datum.
+Dazu
+kommt,
+dass
+auch
+die histo
+rischen
+Anspielungen
+der Apk.,
+die
+man
+bisher
+auf
+das
+letzte
+Drittel
+des
+ersten
+Jahrhunderts
+glaubte
+beziehen
+zu
+müssen,
+sich
+eben
+so gut,
+ja,
+besser auf die Wende
+der
+vierten Jahrhunderts
+deuten
+lassen
+und
+manches
+erst
+recht
+verständlich
+wird,
+wenn
+man
+nicht
+mit
+der
+obigen
+Erklärung Rom,
+sondern
+mit; Morosow
+die
+byzantinische Staatskirche
+als den eigentlichen Feind
+der Christenheit
+betrachtet,
+gegen
+welchen
+sich die Apk. richtet.
+Man
+beachte
+auch,
+wie einfach
+und natürlich
+sich
+auf dem Standpunkte
+des russischen
+Forschers
+jene
+3‘/2 Jahre erklären,
+die
+den Theologen
+so viele Schwierigkeiten
+bereitet
+haben,
+dass sie sich
+auch
+hier mit
+der
+blossen
+Berufung
+auf die
+Tradition
+begnügen!
+Es
+stimmt alles
+so gut,
+wie man es sich nur irgend wünschen
+kann.
+Nur einen
+Haken
+hat die
+Sache.
+Wir haben
+Zeugnisse,
+dass
+die
+Apk.
+schon
+lange
+vor
+dem Jahre 395
+bei
+den
+christlichen
+Gelehrten
+bekannt war.
+Nach Bousset
+gehört sie
+sogar
+zu
+den
+am
+frühesten
+und am besten bezeugten
+Büchern des N. T.
+Seit J u s t i n und I r e n
+u s
+zieht
+sich
+eine
+fortlaufende
+Reihe
+von
+Bezeugungen
+der Apk. durch die
+ganze
+altehristliche
+Literatur
+hindurch.
+Und wenn
+auch ein grosser Teil
+von
+ihnen
+ziemlich wertlos
+sein
+mag,
+auf späterer
+Eintragung
+beruhen
+und
+der
+gesamten
+altehristlichen
+Literatur
+gegenüber
+die Skepsis kaum
+zu weit
+getrieben
+werden
+kann:
+es
+sind
+doch
+Zeugnisse
+darunter,
+die
+auch der
+ärgste
+Zweifler
+nicht
+so leicht wird
+beiseite
+schieben
+können
+(vgl.
+die Literatur bei Bousset).
+Es
+ist
+der
+wunderlichste
+Widerspruch
+von
+der Welt.
+Auf
+der
+einen
+Seite
+steht
+das Zeugnis
+der
+exaktesten
+aller
+Realwissenschaften,
+deren
+Resultate,
+beruhend
+auf den untrüglichen Operationen der Mathe
+matik,
+die grösste Genauigkeit
+und Sicherheit besitzen.
+Auf
+der
+andern
+Seite steht das Zeugnis
+der Philologie
+und Textvergleichung,
+einer
+höchst
+unsicheren
+Disziplin,
+die
+sich
+stützt auf alte Handschriften
+und
+Drucke,
+von
+denen keiner
+über das 16. Jahrhundert
+hinausreicht,
+stehen die Aus
+sagen
+der christlichen
+Schriftsteller
+der
+ersten
+Jahrhunderte,
+die von
+Einschüben wimmeln,
+deren
+Lesarten
+vielfach zweifelhaft
+sind,
+und
+die
+sich
+unter
+dem Einﬂuss
+der Abschreiber
+die
+mannigfachsten
+Verände
+rungen und
+Zurechtmachungen
+haben
+gefallen
+lassen
+müssen.
+Nur
+zweierlei
+ist
+offenbar
+möglich.
+Entweder
+die
+Texte
+der
+Zeugen
+vor
+395
+sind
+gefälscht,
+oder
+aber
+diese
+hatten
+eine
+andere
+Offenbarung unter dem Namen des Johannes vor sich, die Chrysostomus
+nur überarbeitet und Hieronymus alsdann dem Neuen
+Testamente
+ein
+verleibt
+hat,
+während der ursprüngliche
+Text
+verloren
+gegangen
+ist.
+Es
+kann
+nicht
+die
+Aufgabe
+eines
+Geleitwortes
+sein,
+in
+dieser
+Frage
+Stellung
+zu
+nehmen
+und
+die
+Gründe
+zu
+entwickeln,
+die
+zu
+Morosow.
+Die Offenbarung
+Johannis.
+II
+
+--- Page 24 ---
+XVIII
+einer
+Entscheidung
+in
+diesem
+oder
+jenem
+Sinne
+drängen.
+Mögen
+die
+„Gelehrten
+vom
+Fach“
+die Streitfrage
+zum
+Austrag
+bringen.
+Die
+vorliegende
+deutsche
+Ausgabe
+des unter allen Umständen
+höchst inter
+essanten
+und
+geistvollen
+Werkes
+des
+russischen
+Forschers
+wird
+ihren
+Zweck
+erfüllt
+haben,
+wenn
+sie
+zu
+einer
+erneuten
+Untersuchung
+der
+apokalyptischen
+Frage
+die
+Anregung
+geben
+und
+auch
+nur
+soviel
+er
+weisen
+sollte,
+dass
+die
+Wissenschaft
+bezüglich
+der
+sog.
+Offenbarung
+des
+Johannes
+noch
+keineswegs
+am
+Ende
+ihrer
+Untersuchungen
+an
+gelangt ist. —
+Nikolaus
+Morosow,
+der Verfasser
+des vorliegenden Buches,
+ist
+am
+25.
+Januar
+1854
+als
+Sohn
+eines
+reichen
+Landgutsbesitzers
+im
+innersten Russland
+geboren.
+Durch Neigung
+und
+Talent
+Naturforscher,
+begeisterte
+er
+sich
+im
+Jahre
+1874
+für
+die Bewegung
+der
+russischen
+Menschenfreunde,
+die
+darauf abzielte, ins Volk
+zu
+gehen,
+seine
+Leiden
+und Freuden
+mit
+diesem
+zu
+teilen,
+um
+hierdurch
+Mittel
+und Wege
+zur
+Besserung
+seiner
+sozialen
+Lage
+zu
+ﬁnden.
+Er
+mietete
+sich
+als
+Schmied
+in
+einem
+Dorfe
+ein
+und
+arbeitete
+hier
+als
+gewöhnlicher
+Handwerker.
+Indessen
+nötigten
+ihn
+die
+Verfolgungen
+der politischen
+Polizei,
+die
+hinter
+dem
+Vorgehen
+der
+Volksfreunde
+revolutionäre
+Umtriebe
+witterte,
+schon
+bald,
+ins Ausland
+zu
+verreisen.
+Als
+er im
+Jahre
+1875
+nach
+Russland
+zurückkehrte,
+wurde
+er
+verhaftet
+und,
+ob
+schon
+er
+von
+der
+Anklage,
+die
+russische
+Selbstherrschaft
+zerstören
+zu
+wollen, freigesprochen
+wurde, so wurde er nichtsdestoweniger in administra
+tive Verbannung
+geschickt, aus welcher
+er unter angenommenem
+Namen
+ﬂüchtete.
+Jetzt
+wurde
+er wirklich Revolutionär.
+Als solcher redigierte
+er
+verschiedene
+Zeitschriften,
+die
+sich
+die
+Herstellung
+der
+Republik
+und die Hebung
+des
+russischen
+Volkes
+zum
+Ziele
+setzten.
+Nach
+der
+Beschlagnahme
+der
+geheimen
+Druckerei
+seiner
+Zeitung
+„Volkswille“
+ﬂoh er
+abermals
+ins Ausland.
+Er begab
+sich nach Genf und sammelte
+hier Materialien
+für
+eine
+Geschichte
+der
+revolutionären
+Bewegung
+in
+Russland.
+Schon glaubte
+er im Jahre 1881,
+es wagen zu
+dürfen,
+nach
+Russland
+zurückzukehren,
+als
+man
+ihn an
+der Grenze verhaftete und zu
+lebenslänglicher
+Einzelhaft
+verurteilte.
+Zunächst wurde
+er nun
+in
+die
+schreckliche
+Alexisbastion
+der
+be
+rüchtigten
+Peter-Paulfestung,
+in
+welcher
+schon
+so viele russische
+Frei
+heitskämpfer
+ihren
+Tod
+gefunden
+haben,
+und
+sodann
+im Jahre
+1884
+in
+die Festung
+Schlüsselburg
+eingesperrt.
+Die Zustände
+zumal in
+der
+Peter-Paulfestung
+waren
+die
+fürchterlichsten:
+die
+Zelle
+schauderhaft,
+die
+Nahrung
+ungeniessbar.
+Fünf
+Monate
+lang
+führte
+man
+den
+Ge
+fangenen
+nicht ins Freie
+und später nur eine Viertelstunde lang.
+Während
+mehr
+als
+eines
+halben
+Jahres
+gab
+man
+ihm
+keine Bücher
+und
+dann
+
+--- Page 25 ---
+XIX
+— nach
+beliebtem
+Rezepte
+— nur
+solche
+christlich-religiösen
+Inhalts.
+Der
+Gefangene
+war
+tatsächlich
+so gut wie lebendig
+begraben.
+Seine
+Leidensgenossen
+siechten
+an Schwindsucht und andern Krankheiten
+dahin
+oder
+gaben
+sich
+selbst
+den Tod,
+wie jener unglückliche
+Grachewsky,
+der sich
+aus Verzweiﬂung
+mit Petroleum
+begoss
+und
+verbrannte.
+End
+lich wurde
+man in Petersburg auf die
+erschreckend
+grosse Sterblichkeit
+unter
+den
+Eingeschlossenen
+aufmerksam
+und
+gab Befehl
+zu
+einer
+mil
+deren Behandlung.
+Das war in der Mitte
+der neunziger
+Jahre.
+Morosow
+selbst
+blieb
+trotz
+seiner
+schwachen
+physischen
+Konstitution
+und
+der
+zahlreichen
+Krankheiten,
+wie Skorbut
+usw., von
+denen
+auch
+er
+in
+der
+Gefangen
+schaft
+heimgesucht
+wurde,
+am Leben,
+dank
+vor
+allem
+der
+intensiven
+geistigen
+Tätigkeit,
+der
+er sich
+auch unter den erschwerendsten
+äusseren
+Umständen
+widmete.
+In
+der
+Gefangenschaft
+plante
+er
+seine
+natur
+wissenschaftlichen
+Arbeiten
+aus
+und
+schrieb
+ein
+Buch
+über
+„Das
+periodische
+System
+des
+Baues
+der
+Materie“
+sowie
+die
+„Offenbarung
+in Gewitter und Sturm“.
+Sie
+erschien
+im März
+1907
+und
+machte
+ihren
+Verfasser in Russland
+über
+Nacht
+zum
+berühmten
+Manne.
+Morosow
+hatte
+damals
+das
+Gefängnis
+bereits
+verlassen.
+Nach
+der für
+sie hoffnungslosen
+Regierungszeit
+des
+ﬁnstern
+Alexander III.
+hatte
+endlich der japanische Krieg
+und
+die
+hieran
+sich
+anschliessende
+revolutionäre Bewegung
+den Gefangenen
+am
+17.
+Oktober
+1905
+die Be
+freiung gebracht,
+an welcher sie
+bereits
+verzweifelt
+hatten.
+Volle 24
+Jahre
+und
+9 Monate hatte
+Morosow
+im Kerker
+zugebracht.
+Jetzt
+er
+lebte
+er
+die Genugtuung, dass
+sein Buch auf einmal
+in den Mittelpunkt
+des
+Interesses
+in Russland trat
+und
+das Für
+und Wider
+die
+Gemüter
+in
+seinem
+Vaterlande
+monatelang
+in
+Spannung
+hielt.
+Die
+Zeitungen
+brachten
+spaltenlange
+Aufsätze
+über
+die
+„Offenbarung in Gewitter
+und
+Sturm“.
+In allen wissenschaftlichen
+Kreisen und
+Zeitschriften
+wurde die
+Frage
+nach der Entstehungszeit
+der Apokalypse
+und
+der Persönlichkeit
+ihres Verfassers mit Leidenschaft erörtert.
+In
+einem
+Monat waren die
+ersten
+6000 Exemplare des Werkes verkauft. Die zweite Auﬂage erschien
+noch
+in demselben
+Jahre in
+10000
+Exemplaren.
+Sie
+fanden
+gleichfalls
+einen
+reissenden
+Absatz.
+Jetzt wurde auch
+die
+Geistlichkeit
+aufmerk
+sam,
+und
+während
+die weltlichen
+Gelehrten,
+besonders
+die Astronomen,
+und
+das gebildete
+Publikum
+mit Begeisterung für den Verfasser eintraten,
+eröffneten
+die Vertreter
+der
+Kirche
+gegen
+dessen Buch
+in
+der
+ihnen
+ergebenen
+Presse
+und
+auf der Kanzel
+einen Feldzug,
+der
+an Heftigkeit,
+Ungeniertheit und Niederträchtigkeit
+sich würdig allen ähnlichen Kämpfen
+zur
+Seite
+stellt,
+welche
+die Geistlichkeit
+aller Länder
+seit
+jeher
+gegen
+ihr gefährliche Bücher
+und
+Autoren
+geführt hat.
+
+--- Page 26 ---
+XX
+Ende
+1907
+begann Morosow
+in
+den grösseren
+Städten
+Russlands
+auch
+öffentliche
+Vorträge
+über
+sein Buch
+zu
+halten.
+Sie
+vermehrten
+auf der
+einen
+Seite ebenso
+die Schar
+seiner
+begeisterten
+Anhänger,
+wie
+sie
+den Hass
+der Geistlichkeit
+ihm
+gegenüber
+auf
+die
+Spitze
+trieben.
+Bald
+wusste
+diese
+das Verbot
+seiner
+Vorträge
+bei der Regierung durch
+zusetzen,
+weil
+das Buch
+„für
+die orthodoxe Kirche schädlich“
+sei.
+Ja,
+sie
+brachte
+es
+sogar
+fertig,
+gegen
+Ende
+des
+Jahres
+1908,
+ohne
+von der
+Regierung
+hierzu
+ermächtigt
+zu
+sein,
+die
+„Offenbarung
+in
+Gewitter
+und Sturm“ in das Verzeichnis
+der konﬁszierten Bücher
+einzuschmuggeln
+um damit ihrer
+weiteren
+Verbreitung
+ein
+für
+alle
+mal
+ein
+Ende
+zu
+machen.
+Gegenwärtig
+ist
+der
+Verfasser
+des
+Buches
+von
+neuem
+der
+Gerichtsbarkeit
+verfallen,
+die
+ihn
+wegen
+seines
+jüngst
+erschienenen
+Buches „Sternenlieder“
+zu
+einem Jahr
+Festung
+verurteilt
+hat.
+Morosow
+wurde bald
+nach
+seiner Freilassung
+zum Lehrer
+an der
+unabhängigen
+Hochschule
+in
+St. Petersburg
+ernannt
+und
+hielt
+dort
+in
+den Jahren
+1907 und
+1908
+Vorlesungen
+über Chemie.
+Er ist Professor
+der
+Astronomie,
+Mitglied
+des
+Erziehungsrates
+der
+höheren
+Schulen,
+Ehren-
+oder
+ständiges
+Mitglied
+fast
+aller naturwissenschaftlichen Gesell
+schaften
+Russlands,
+Vorsitzender
+der
+russischen
+Gesellschaft für Natur
+kunde
+und
+Mitglied
+des wissenschaftlichen
+technischen
+Ausschusses
+des
+russischen
+Aeroklubs,
+wie
+er
+denn
+überhaupt
+der Luftschiffahrt
+das leb
+hafteste Interesse entgegenbringt,
+auch selbst auf diesem Gebiete
+tätig ist
+und Vorträge
+über
+den Gegenstand
+hält.
+Im Jahre 1907
+wurde
+er
+zum
+Delegierten in die Duma gewählt,
+aber von der Regierung als ehemaliger
+„politischer
+Gefangener“
+nicht
+bestätigt.
+So
+lebt
+er,
+ganz
+seinen
+wissenschaftlichen
+Arbeiten
+hingegeben,
+als
+einer
+der
+bekanntesten,
+originellsten
+und angesehensten
+russischen
+Gelehrten in St. Petersburg.
+K a r 1 s r u h e.
+Prof.
+Dr. Arthur
+Drews.
+
+--- Page 27 ---
+l‚ Teil.
+Einleitung.
+Morosow‚
+Die Offenbarung
+Johannis.
+
+--- Page 28 ---
+
+--- Page 29 ---
+l. Kapitel.
+Ueber Weltanschauungen
+der Vergangenheit
+und
+die
+Schwierigkeit
+ihresVerständnisses
+für den modernen Menschen.
+Von
+allen schweren
+Aufgaben,
+die
+uns
+beim
+Studium
+einer
+uns
+fremden
+Vergangenheit
+entgegentreten,
+ist
+die
+schwerste
+die,
+dass wir
+uns sowohl die uns ganz fremde Art des Denkens wie auch die Grundlagen
+der Weltanschauung
+ihrer
+Zeitgenossen
+aneignen
+müssen.
+Um
+in
+die
+Seele irgend einer
+vergangenen
+Generation
+sich
+hineindenken
+zu können,
+muss
+man
+überaus
+empﬁndlich
+sein.
+Man
+muss unter
+dem Eindrucks
+einzelner
+zerstreuter Reste,
+die jenes
+geistige
+Leben
+kennzeichnen
+und
+die
+sich
+in den
+alten
+Büchern,
+gleich Versteinerungen,
+erhalten
+haben,
+sich nicht nur diese deutlich vorstellen, sondern
+sich
+sogar
+auch
+eine
+Zeitlang
+als
+einen
+anderen
+Menschen
+fühlen
+können,
+der
+ganz
+anders
+denkt
+und
+der
+an alles
+das
+noch
+glaubt,
+was
+man
+selbst
+schon
+nicht
+mehr
+imstande
+ist,
+zu
+glauben.
+Viele
+sind
+hierzu
+ganz
+unfähig.
+Und
+das
+ist
+selbstverständlich.
+Wie
+kann
+z.
+B.
+ein
+Mensch,
+der
+niemals
+die Frucht eines Brotbaumes gegessen
+hat,
+sich
+den Geschmack
+dieser
+Früchte
+vorstellen?
+Wie
+kann
+einer,
+der
+niemals
+Opium
+ge
+raucht
+hat,
+sich
+in
+den
+Seelenzustand
+derjenigen
+hineinversetzen,
+die
+es tun?
+Wie kann ein Mensch,
+der
+von Kindheit
+an Steine,
+Luft, Bäume
+und Wolken
+für unlebendig zu halten
+gewohnt ist,
+die Gefühle der
+sie
+heiss anbetenden Naturvölker
+verstehen und sich die naive Weltanschauung
+dieser
+Leute
+gerade
+so
+genau
+und
+gut
+vorstellen,
+als
+ob
+es
+seine
+eigene
+wäre?
+Alles
+dies
+ist
+uns
+nur
+in
+dem
+Falle
+möglich,
+dass in unserer
+eigenen
+Seele
+noch
+in irgend
+einer
+Form
+die
+ursprüngliche
+Sinnesart
+unserer Vorfahren
+nachklingt
+und
+dass in ihr noch schwache
+Spuren
+von
+Gefühlen
+und
+Instinkten
+leben,
+die
+für
+unser
+Bewusstsein
+schon
+lange
+verschwunden
+sind.
+Alsdann
+sind
+wir
+unter
+dem
+Eindruck
+einer
+lebendigen
+Erzählung
+irgend
+eines
+grossen Dichters
+imstande,
+eine Zeit
+lang
+von
+unserem
+eigenen
+Ich zu
+abstrahieren,
+fühlen wir in uns
+eine
+fremde
+Seele,
+denken
+wir
+mit
+einem
+fremden
+Verstand,
+schauen
+wir
+mit
+fremden,
+nicht
+mit
+unsern
+Augen
+in
+die Welt
+und
+hassen
+und
+
+--- Page 30 ---
+4
+lieben
+wir auf eine
+eigene
+uns
+ungewöhnliche
+Weise.
+Fehlen jedoch
+in
+unserer
+Seele
+derartige
+Spuren
+der
+alten
+Weltanschauungen
+gänzlich,
+sind
+sie für
+immer
+auf den uns
+unbekannten
+Friedhöfen
+der Geschichte
+begraben,
+dann
+ist alles vergeblich.
+Das Vergangene
+wird
+nicht mehr
+aufleben.
+Wer von
+uns
+hat nicht
+schon
+in reiferen
+Jahren
+eine Erzählung
+oder
+einen
+Roman wieder gelesen,
+der
+auf
+uns
+in
+der Kindheit
+einen
+grossen
+Eindruck
+ausübte,
+und
+sich
+hierbei
+nicht
+verwundert
+gefragt,
+wie
+konnte
+solch
+eine
+kleine
+einfältige,
+eine
+so
+ganz
+unmögliche
+Ge
+schichte
+auf uns
+eine derartige Wirkung ausüben?
+So
+ist
+es
+auch
+mit
+den
+Weltanschauungen
+der
+Vergangenheit.
+Die
+meisten
+von
+ihnen
+können auf uns
+schon
+keinen Eindruck
+mehr
+machen.
+Wir
+betrachten
+sie
+ganz
+teilnahmslos, wie Fremde,
+und
+fragen
+uns nur:
+Wie konnten
+Menschen
+früher
+sich
+über
+derartige
+Lappalien
+aufregen
+und
+sogar
+ihr
+Leben dafür opfern?
+Die
+vor
+unseren
+Augen
+sich
+abwickelnde
+historische
+Tragödie
+des
+Kampfes
+für
+schon
+abgelebte
+Ideen
+ruft
+bei
+uns
+nichts
+anderes
+als
+ein
+Bedauern
+über
+die
+menschliche
+Torheit
+hervor.
+Und
+trotzdem
+waren
+es
+einmal
+keine
+Torheiten.
+Es war
+bloss
+das
+erste Erwachen
+des menschlichen
+Geistes,
+seine
+ersten
+Wan
+derungen
+auf der Suche
+nach der Wahrheit!
+Das
+ist
+der Grund, warum
+diejenigen
+Gebildeten die Seele der
+vergangenen
+Generationen
+am besten
+zu
+verstehen
+imstande
+sind,
+deren
+Köpfe
+von
+ihrer Kindheit
+her
+mit
+Erzählungen
+und Märchen abergläubischer,
+im Volke
+wurzelnder Ammen
+angefüllt
+sind.
+Wenn
+auch
+die
+moderne
+Naturwissenschaft
+solche
+Ge
+spenster
+einer
+dunklen Vergangenheit
+aus
+ihren Köpfen vertreibt,
+die
+Erinnerung
+an
+sie
+bleibt
+doch
+bestehen.
+Ohne
+die
+vergangene
+Welt
+anschauung
+selbst
+zu
+teilen,
+sind
+sie doch
+imstande,
+sich
+in sie hinein
+zuversetzen.
+Mir wurde in dieser
+Beziehung
+ein
+grosses
+Glück
+zuteil.
+Sowohl
+die
+alte
+wie die
+neue Weltanschauung
+wurde von mir selbst
+innerlich
+durchlebt.
+Unter
+dem
+Einﬂuss
+der
+Geschichten,
+die
+mir
+meine
+alte
+Wärterin,
+eine Bäuerin,
+gewöhnlich
+an
+den
+langen Winterabenden oder
+auf
+einsamen
+Spaziergängen erzählte,
+stellte
+sich
+mir
+die
+ganze Welt
+schon
+in frühester Jugend
+als
+eine
+runde
+Scheibe
+dar,
+von
+einer
+Glas
+kuppel,
+dem
+Himmel,
+überdeckt.
+Auf
+der Höhe
+dieser
+Glaskuppel
+stand
+ein Stern, auf dem
+sass Gott,
+ein alter grauer Herr
+mit langem
+weissem
+Bart,
+beständig
+von
+Engeln
+und
+Heiligen
+umringt,
+die
+vor
+ihm
+knieten
+und
+Lieder
+zu
+seinem
+Preise
+sangen.
+Die
+Sterne
+waren
+Wachskerzen,
+die
+nachts
+auf
+dieser
+durchsichtigen
+Kuppel
+brannten,
+und jede von
+ihnen
+war
+ein Menschenleben.
+Der Stern brannte
+aus und
+ﬁel
+vom
+Himmel
+herunter,
+wenn
+auf
+der Erde
+die
+ihr
+entsprechende
+
+--- Page 31 ---
+5
+Seele
+erlosch.
+Unbeseelte
+Dinge
+gab
+es
+für
+mich
+überhaupt
+nicht.
+Jeder Baum,
+jeder
+Pfosten,
+jeder
+Stein
+hatte
+ein
+eigenes
+Leben
+und
+konnte mit
+seinesgleichen
+seine
+Gedanken austauschen.
+Die Blätter
+der
+Räume
+unterhielten
+sich
+miteinander,
+wenn
+sie rauschten,
+die Wellen,
+wenn sie plätscherten.
+Die Wolken
+liefen spielend
+eine der
+andern
+nach.
+Sie eilten auf
+den Flügeln
+des Windes
+einem
+unbestimmten,
+nur ihnen
+allein bekannten Ziele zu und
+nahmen
+dabei
+die Formen
+aller
+möglichen
+Tiere und ihrer einzelnen
+Glieder an.
+Jedes gesprochene Wort, jeder Laut
+war
+für
+mich
+keine
+blosse
+Erschütterung
+der Luft,
+sondern
+ein
+ganz
+besonderes,
+rasch
+verschwindendes,
+unsichtbares
+Wesen,
+das
+sich
+in
+der
+Brust
+des Sprechenden
+bildete,
+aus seinem Munde herausﬂog,
+durchs
+Ohr
+in
+den Kopf
+des
+andern
+einging und
+dort
+die Formen
+derjenigen
+Gegen
+stände
+annehm,
+von denen
+es
+berichten
+wollte,
+um
+alsdann
+auf immer
+zu
+verschwinden.
+Die
+Erinnerung
+an
+diese
+Anschauung
+meiner
+frühesten
+Kindheit
+blieb
+in mir
+so
+lebendig,
+dass
+nach
+vielen Jahren,
+als
+ich
+schon
+auf
+immer
+in
+der
+Alexisbastion
+der
+Peterpaulfestung
+eingesperrt
+zu sein
+glaubte,
+mir
+der
+Gedanke kam,
+diese Anschauung
+in
+eine
+entsprechende
+literarische
+Form
+zu bringen und ein Gedicht
+zu
+schreiben,
+worin
+die
+Worte
+und
+Laute,
+die
+den Lippen
+der
+Menschen
+entﬂiehen,
+als handelnde
+Personen
+auftreten
+sollten.
+Diesem
+Gedichte
+war
+es,
+wie so vielen von
+mir
+geplanten,
+nicht vergönnt,
+die Welt
+zu
+erblicken.
+Jetzt kann ich beinahe nichts von ihm mehr wiederherstellen
+als
+einige
+abgerissene
+Verse,
+wie
+z.
+B.
+die
+traurige
+Erzählung
+des
+„Seufzers“
+auf die Frage,
+die
+ihm
+vom
+zufällig
+in
+sein Gartenhäuschen
+hineingeﬂogenen
+„Gähnemund“
+wegen
+seines
+traurigen
+Aussehens
+ge
+stellt wird:
+Gähnemund,
+mein
+armes Freundchen,
+spricht
+darauf
+der arme Ach,
+Traurig bin ich und
+bekümmert,
+denn ich
+fühl'
+mich
+krank
+und
+schwach.
+Ach, bei einer armen Alten, kam
+ich spät
+bei Nacht
+zur Welt
+Von der Gicht
+gerädert,
+ﬂieg
+ich,
+wirbelnd
+hin
+und
+hergeschnellt
+.
+. . .
+Fiedler.
+Wenn
+es
+aber
+einmal diesem
+Gedichte
+nicht
+vergönnt war,
+sich
+vollständig
+in
+meinem
+Gedächtnis
+zu
+erhalten,
+warum
+erwähne
+ich
+es
+dann?
+Was
+für
+einen
+Zusammenhang
+kann
+es mit
+dem Inhalt des vor
+liegenden
+Werkes
+haben?
+Nur
+diesen,
+dass
+die
+in ihm
+geschilderten
+phantastischen
+Gebilde
+in
+der
+Art
+des
+eben
+erwähnten
+eine
+Grund
+eigentümlichkeit
+der
+alten
+Weltanschauung
+darstellen,
+die alle Völker
+durchgemacht
+haben,
+als sie sich noch
+in
+der Dämmerung
+ihres
+geistigen
+
+--- Page 32 ---
+6
+Lebens
+befanden.
+Wir
+müssen
+nie vergessen,
+dass jene
+die
+umliegende
+Natur
+nicht mit
+den
+Augen
+unserer
+Zeitgenossen
+betrachteten.
+Viele
+von
+uns
+können
+es
+sich
+nicht einmal vorstellen, dass vernünftige
+und
+bewusste
+Wesen
+aus
+etwas
+anderem
+als
+aus Eiweissstoﬂ‘en
+in
+der Form
+des Menschen
+und
+anderer
+höherer
+Tiere
+bestehen
+und
+wo
+anders
+als
+ausschliesslich
+auf
+dieser
+Erde
+existieren
+könnten.
+Die
+Oberﬂächen
+anderer Sterne scheinen
+ihnen
+ewig schweigende
+und unbewohnte
+Wüsten
+zu sein.
+u. Kapitel.
+Ueber die Astrologie und die geheimnisvollen
+Erscheinungen
+auf
+der Himmelskuppel.
+Die
+ganze Welt war für
+unsere Vorfahren voll
+verborgenen
+Lebens
+und
+geheimnisvoller
+Erscheinungen.
+In
+jedem
+Kometen
+mit
+seinem
+Schweif
+erblickten
+sie
+mit Furcht
+ein
+feuriges Schwert,
+das
+an
+der
+durchsichtigen Himmelskuppel
+als
+Zeichen
+eines herannahenden
+Krieges,
+fremder
+Ueberfälle
+oder
+innerer
+bürgerlicher
+Zwietracht
+und
+anderer
+blutiger
+Ereignisse
+erschien.
+In
+jedem
+Meteor,
+das durch
+den nächt
+lichen
+Himmel
+dahinﬂog,
+erblickten
+sie
+einen
+Drachen
+mit
+feurigem
+Schweif,
+in
+jedem
+fallenden Stein
+entweder
+ein
+erloschenes
+Menschen
+leben
+oder
+noch
+öfter eine feurige Lanze,
+die
+von
+einem
+unsichtbaren
+Himmelswesen
+auf
+ein
+anderes,
+ihm
+feindliches
+geschleudert
+wurde.
+„Die Engel
+kämpfen
+mit den Dämonen“,
+sagten die alten Christen,
+wenn sie ängstlich auf
+die
+Sternschnuppen
+schauten,
+und
+machten
+das
+Zeichen
+des Kreuzes
+über
+sich.
+Alle
+alten
+Chronisten
+legten
+diesen
+„Himmelszeichen“
+eine
+so
+wichtige
+Bedeutung
+bei,
+dass
+sie
+dieselben
+gewissenhaft in ihren Auf
+zeichnungen
+bei
+der Darstellung
+der Ereignisse des gewöhnlichen Lebens
+anmerkten.
+Diese
+Aufzeichnungen
+dienten
+den
+heutigen
+Astronomen
+schon
+vielfach
+als
+wichtiges
+Material
+bei
+der
+Ausarbeitung
+der
+Fragen
+über die unzähligen kleinen Körper,
+die sich
+zugleich mit
+den Planeten
+und Kometen um
+die
+Sonne
+bewegen.
+Hier sind z. B. einige,
+zwar
+etwas trockene,
+aber
+um
+so gewissen
+haftere
+Aufzeichnungen
+aus alten Chroniken,
+wie
+sie in
+der Astronomie
+von Arago
+(Bd.
+4, Buch 26, Kap. VI) aufgeführt
+sind.
+Jahr
+1144.
+„Man sagt, in diesem Jahre seien feurige Zeichen am Himmel
+erschienen.
+Feurige
+Kugeln
+leuchteten
+an
+verschiedenen
+Orten
+auf
+und
+verschwanden
+alsdann
+auf der
+andern
+Seite
+des Himmels“
+(Chronik
+des Lykosthenes).
+
+--- Page 33 ---
+7
+Jahr
+1!
+77
+97
+1‘!
+952.
+944.
+1462.
+1665.
+849.
+838.
+918.
+842.
+993.
+1096.
+561.
+839.
+876.
+1002.
+848.
+586.
+„Es wurde
+am Himmel
+ein Drache gesehen“
+(Frodeardische
+Chronik).
+„Feurige Kugeln ﬂiegen durch die Luft“ (WürzburgerAnnalen).
+„Gott
+schickte
+grosse
+Steine
+vom
+Himmel“
+(Chronik
+des
+Lykosthenes).
+„Am
+2. Januar ﬁelen
+vom
+Himmel
+feurige Spiesse.“
+„Am
+2. Januar waren fürchterliche
+Lanzen
+im Norden und
+im
+Osten
+zu erblicken.“
+„Am
+21. Februar
+erschien
+am Himmel
+ein Feuer,
+das wie
+ein
+Drache
+aussah.“
+„Am
+7. Februar
+erscheinen
+am Himmel
+vielfarbige
+feurige
+Lanzen
+und
+ﬂiegen
+gegeneinander
+los.“
+'
+„Am
+18.
+März.
+Die
+schrecklichen
+Lanzen
+erscheinen
+wieder am Himmel
+um 2 Uhr nachts in der Gegend im Osten.
+Sie
+erlöschen
+fortwährend
+und
+leuchten
+von
+neuem‘auf.
+Ein
+grosses
+Licht
+ist
+zwischen
+Osten
+und
+Westen,
+aber
+jene
+Lanzen
+erfüllen hauptsächlich
+den Norden.“
+„Am
+3.
+März
+abends.
+Ein
+Drache
+wurde
+am
+Himmel
+gesichtet.“
+„Am
+10.
+April
+ﬂogen
+fast
+alle
+Sterne
+wie
+Staub
+vom
+Wind getrieben;
+das
+dauerte
+vom
+ersten
+Hahnenschrei
+bis
+zur Dämmerung.“
+„Am
+12.
+November lief am Himmel
+ein
+Feuer
+entlang in
+der
+Todesnacht
+des Clotarius.“
+„Am
+12.
+Mai
+verfolgten
+die
+Sterne
+einander
+während
+der
+ganzen
+Nacht.“
+„Am
+13.
+Dezember.
+niemals
+hier
+zu
+sehen waren,
+erscheinen
+am Himmel.
+sagt,
+dass
+ein blutiger
+Regen gesehen
+wurde.“
+„Im
+Dezember.
+Bei
+Sonnenuntergang
+ﬂog
+ein
+Drache
+durch
+die Luft,
+und
+es waren
+feurige
+Lanzen
+am
+Himmel
+sichtbar.“
+„Am
+31. Dezember
+sind
+im
+Norden
+und
+Osten
+schreck
+liche Lanzen
+am Himmel
+sichtbar.“
+„Ein Licht,
+einem
+Drachen ähnlich,
+erschien
+am Himmel.“
+Fürchterliche
+Lanzen,
+wie
+sie
+noch
+Man
+Mit
+solchen
+Mitteilungen
+sind
+alle alten Berichte
+angefüllt.
+Man kann
+sich
+vorstellen,
+wie
+viel
+abergläubisches
+Gerede
+und
+naive Erklärungen
+die alljährlich
+zu
+beobachtenden
+Meteore
+und Stern
+schnuppen
+im Altertum
+hervorriefen, zumal bei der allgemeinen
+mystischen
+Stimmung
+jener Zeiten und dem gänzlichen Mangel
+genauerer Kenntnisse
+
+--- Page 34 ---
+8
+der
+Natur
+derartiger
+Erscheinungen
+selbst
+in
+den
+aufgeklärtesten
+Köpfen.
+Die theoretische
+Wissenschaft der ersten Jahrhunderte
+unserer
+Zeit
+rechnung
+stand,
+von
+wenigen
+Ausnahmen abgesehen,
+auf der Stufe
+ein
+facher
+Wahrsagerei.
+Wenigstens
+kann
+man
+das
+von
+der
+Astronomie
+behaupten,
+die unwillkürlich in
+die Astrologie
+überging.
+Alle
+Figuren
+der
+12 Gestirne
+des Zodiakus:
+Widder,
+Stier,
+Zwillinge,
+Krebs,
+Löwe,
+Jungfrau,
+Wage, Skorpion,
+Schütze,
+Steinbock, Wassermann
+und Fische,
+die zur Zeit ihrer Entstehung
+lange
+vor
+der christlichen
+Aera nur eine
+rein symbolische Bedeutung gehabt
+hatten,
+wurden im Laufe
+der
+Zeit
+für tatsächlich auf dem Himmelsgewölbe existierende
+unsichtbare Gestalten
+angesehen.
+Sie wurden
+sogar
+zu
+lebendigen
+Wesen,
+denen
+man
+einen
+grossen
+Einﬂuss
+auf die irdischen Ereignisse
+zuschrieb (Bild
+1, 2 u. 3).
+Die Planeten
+oder
+„Wandelsterne“,
+die in
+der
+heidnischen
+Periode
+der römischen
+Geschichte
+die Namen der römischen
+Götter Merkur, Venus,
+Mars, Jupiter und Saturn erhielten, bekamen
+später
+die ihren Namen ent
+sprechende
+Bedeutung und
+traten
+zu jenen
+in
+eine
+gewisse
+geheimnis
+volle Verbindung.
+Der Eintritt des
+„blutdürstigen“
+Mars in
+das Zeichen
+des Löwen
+wurde für
+sehr
+gefährlich
+angesehen
+und
+drohte
+mit Krieg
+und Blutvergiessen.
+Der
+Eintritt
+des
+unheilbringenden
+Saturn in
+das
+Zeichen
+des Skorpions
+bedeutete
+etwas
+noch Schlimmeres und prophezeite
+den Menschen
+die
+Vernichtung
+durch
+Pest
+und
+ähnliche
+Krankheiten.
+Denn
+owohl Saturn
+wie der Skorpion
+galten
+als
+Symbole
+des Todes.
+Um
+nun
+aber
+gewisse
+Ausdrücke
+der
+alten
+Bücher
+genau
+verstehen
+zu
+können,
+dazu
+muss
+man
+eine
+deutliche
+Vorstellung
+der
+täglichen Bewegung
+der Himmelskuppel
+und
+der
+eigenen Bewegung
+der
+Planeten
+zwischen
+den Sternen
+haben.
+Infolge
+der
+gleichzeitigen
+Be
+wegung der Erde
+und
+der Planeten
+um die Sonne stellen sich die schein
+baren Bewegungen der letzteren nicht als stetige,
+sondern
+als sprungweise
+dar.
+Bei
+seiner Bewegung zwischen den Sternen
+von Westen nach Osten
+vermindert zunächst
+jeder
+Planet
+seine
+Geschwindigkeit,
+bleibt
+dann
+ganz
+stehen,
+kehrt
+um
+und vollzieht
+gewissermassen
+eine Rückwärts
+bewegung,
+weil
+er von der Erde
+überholt wird.
+Jetzt bleibt der Planet
+wiederum stehen,
+eilt
+dann
+von
+neuem
+von
+Westen
+nach
+Osten
+in
+be
+schleunigter Bewegung vorwärts,
+wie
+ein
+Rose,
+das nach
+einem
+Halt
+einen
+Sprung
+macht.
+(Bild
+4,
+5 u.
+6.)
+Und
+alles
+dies vollzieht
+sich periodisch
+von Jahr zu Jahr, wenn
+auch
+an verschie
+denen Punkten des Himmels.
+Bei
+dem
+gegenwärtigen
+Stande
+der
+astronomischen
+Kenntnisse
+kann
+die Erklärung
+dieser
+sprungweisen
+Bewegung
+der
+Planeten
+am
+Himmel
+selbst
+für
+ein Kind
+keine Schwierigkeiten
+mehr
+bieten.
+Man
+
+--- Page 35 ---
+J
+‚
+J
+><
+°'
+f
+‘1
+’
+x8
+‚
+‘7
+>
+v-n="
+><(o
+><
+1‘:
+‘
+"5
+<
+»|nl
+x
+2
+91
+:
+__
+.>'I
+<
+II
+h
+I
+-‘
+f“
+IM
+‚
+‘
+4
+.,
+.::Jm‘—'
+_'
+'\__"
+l'
+o
+-‚
+.
+.
+.
+/
+\:ÄL‘
+“
+°’
+W‘5’"
+-'
+'
+t.
+=-
+'ä
+‘
+.
+‘_«
+5
+k
+‚
+Ä
+‘
+t.
+l
+°
+1
+‚.ä
+\
+a
+‘
+x
+_
+l‚'
+I
+xQ
+..
+.
+"‘
+o
+o
+-
+‘ ;_„ -
+u
+)€
+z
+X
+:
+.‘
+><„
+“
+4
+'3
+({l
+'.
+_j
+2.—
+‚4
+°
+Sternbilder:
+Sternbilder:
+Sternbilder:
+Die. Wage und der
+Skorpion.
+Der Krebs und die
+Zwillinge.
+Der Steinbock
+und der Wassermann.
+Bilder
+l.
+2
+u.
+3.
+Beispiele alter Tier-
+und Sternbilder
+des Zodiakalkreises
+nach dem lateinischen
+Manuskript
+Grienbergers,
+das in der
+Bibliothek
+der Pulkowa
+Sternwarte aufbewahrt wird.
+
+--- Page 36 ---
+.10
+halte
+z.
+B.
+eine
+kleine
+Kugel
+vor
+sich
+und
+bewege
+sie
+langsam
+um
+seinen
+Kopf
+in
+der
+Höhe
+des
+Auges,
+von
+rechts
+nach
+links,
+gleichzeitig
+mache
+man
+mit
+dem
+Kopf
+eine
+Bewegung
+in
+gleicher
+am.
+01»...
+«T.
+9h:v-
+‚p
+‚
+Vh
+Iln.
+9h
+I
+/
+|<
+l
+\
+Du.
+9b
+R‚ ß/(‘I'ILÖ/ill'
+‘
+_w.
+des .(0"1rcn j/
+.
+/
+16'
+’‚il‘ﬂ/
+J),
+b
+l
+<vw
+1
+_‚/°‘
+‘i
+/"@
+‘
+“
+des
+rebs'eas'.
+l
+IIIl*-l.t
+Bild
+4.
+Der Weg des Saturn zwischen
+den Sternbildern
+des Krebses
+und des Löwen
+in den Jahren
+1888—1889.
+Bild
+5.
+Der Weg des Juplter
+im Sternbild
+des Schützen
+im Jahre
+1889.
+“Los
+uhu-
+ßL1n
+7g"uhn..
+ulm-.
+uk o...
+nhs-.
+I.L. /
+-r
+d”.
+"
+‚
+M-I Jf4
+1.
+*‘
+'
+‚
+"“
+I"
+/HP/‚
+""
+"“'i
+„u
+_„-"
+[Ä
+-‘ "“‘‚‘
+".
+.*
+knu:“’
+‚.
+'‚”'I:r‚
+15‘P“Iq
+)
+K’„‚_‚ ""”” ‚ad-4%
+‘
+Äi-a
+/
+y/
+s(‚rnlbl'ld
+1'
+.
+„II.
+Bild
+6.
+Der Weg des Mars im Sternbild der Jungfrau
+im Jahre
+1888.
+Richtung
+,
+indem
+man
+vorher
+ein
+Auge
+zugemacht
+hat.
+Dann wird
+das
+andere
+geöffnete
+Auge
+die
+Erde
+darstellen,
+die
+sich
+auf
+ihrer
+Kreisbahn
+bewegt,
+die Kugel den Planeten,
+der
+sich
+auf einer andern,
+von
+der
+Sonne
+weiter
+entfernten
+Kurve
+bewegt.
+Man
+beachte
+dabei
+die Linien,
+welche
+die Projektion
+eines
+Fingers
+auf
+der Wand
+oder,
+
+--- Page 37 ---
+11
+was
+auf
+das
+gleiche
+hinausläuft,
+am
+Himmel,
+vor
+dem Fenster
+oder,
+wenn
+man
+will,
+zwischen
+den
+Aesten
+der
+Bäume
+eines
+Gartens
+be
+schreibt.
+Man wird
+bemerken,
+dass
+man
+dabei
+eine
+Reihe schlingen
+förmiger
+Figuren
+aufzeichnet,
+denen
+ganz
+analog,
+die
+auf
+der
+Himmelsﬂäche
+diejenigen
+Planeten
+be
+schreiben,
+deren
+Bahnen
+weiter
+von
+der
+Sonne
+entfernt
+sind
+als
+die Bahn
+der Erde.
+In
+beiden
+Fällen
+sind
+die
+Ursachen
+der Erscheinung
+die gleichen.
+Die Planeten sind im Vergleich zu ihrer
+Entfernung
+von den Fixsternen
+der Erde
+um
+so
+viel näher,
+wie
+die
+erwähnte
+kleine
+Kugel näher
+zu
+unserem
+Auge
+ist als
+die Wand
+oder
+die Blätter
+des
+Gartens.
+Nur deswegen
+erscheinen
+die
+Bewegungen
+der Planeten, von der Erde
+aus
+gesehen,
+zickzackförmig,
+während
+sie
+tatsächlich
+ganz
+regelmässig
+auf
+ihren Bahnen dahinlaufen.
+Indessen,
+die Alten
+kannten
+diese
+einfache
+Erklärung nicht,
+was
+erst seit Kopernikus
+möglich geworden ist (1543).
+Darum lässt sich
+leicht
+vorstellen,
+was
+für
+einen
+Eindruck
+die
+plötzlichen
+Bewegungen
+der
+Planeten
+nach
+vorwärts
+und
+nach
+rückwärts
+auf die
+alten
+Beob
+achter
+machen
+mussten,
+denen
+die
+wirkliche
+Ursache
+unklar
+war.
+Bild
+7.
+Bild
+8 u. 9.
+Beispiele
+alter
+gallischer
+Münzen
+aus Astronomical
+Myths
+von John
+Blake
+(Bibliothek
+der Pulkowa
+Sternwarte).
+Das
+erste Bild
+stellt
+wahrscheinlich
+den Saturn
+(S) dar, der über die Urne des Wassermanns
+springt.
+das zweite einen Planeten
+au! dem
+der Krebs
+sitzt, darunter der Steinbock.
+Alle
+drei
+ihnen
+bekannten
+Planeten
+ausserhalb
+der
+Erdbahn,
+Mars,
+Jupiter, Saturn,
+stellten
+sie
+sich,
+wie wir
+dies
+aus
+den
+alten
+Büchern
+und
+auf den alten Münzen
+sehen,
+als
+Bosse
+vor,
+die
+im
+Galopp
+auf
+dem
+Zodiakalstreifen
+des
+durchsichtigen
+Himmels
+dahinrennen.
+Die
+Figuren
+des Zodiakus
+selbst
+aber, Schütze,
+Steinbock, Wassermann usw.,
+erschienen
+ihnen,
+wenn
+der
+Planet
+sich
+genau
+unter
+einer
+dieser
+Figuren
+befand,
+als
+Reiter,
+die
+sich
+auf
+die
+Bosse
+gesetzt
+hatten,
+
+--- Page 38 ---
+12
+(Bild
+8 n.
+9)
+und
+die
+auf
+ihnen
+auf
+der
+kristallenen
+Himmelskuppel
+herumritten,
+während
+auf
+der
+einen
+Seite
+des
+Pols
+der
+Thron
+des
+Himmels,
+die
+heutige
+Kassiopeia,
+auf der
+andern
+Seite
+die sieben
+Seelen,
+d.
+h.
+die Gruppe
+des
+grossen
+Bären,
+sich
+befanden.
+Alle
+24 Stunden
+wanderten
+die Gestirne
+mit:
+der
+Sonne
+und dem Mond um den Himmels
+pol, begannen
+ihren
+Lauf
+an
+der
+östlichen
+Seite
+des
+Horizontes
+und
+beendigten
+ihn
+an
+der
+westlichen.
+Die
+vom
+Pol
+am
+weitesten
+ent
+fernten
+Planeten
+verschwanden
+eine Zeitlang
+irgend
+wohin
+unter
+den
+Horizont,
+um
+dann
+plötzlich
+wieder
+auf
+der
+Ostseite
+zu
+erscheinen
+und von
+neuem
+ihre
+tägliche
+Runde
+um
+die
+Sternbilder
+des
+Thrones
+und
+der
+sieben
+Seelen
+zu
+beschreiben.
+Quid
+moveant
+Pisces,
+animossque
+eigne Leonis?
+Lotus et Hesperis
+quid
+Capricornus
+aqua?
+(Was
+werden
+uns die Fische
+und
+die bösen
+Zeichen
+des Löwen:
+bringen?
+Was bringt uns der Steinbock,
+der ganz vom Wasser
+des
+Sonnenunterganges
+überﬂutet
+ist?)
+lli. Kapitel.
+Einiges
+über
+die
+typischen
+Formen der Wolken
+zur Zeit
+der
+Herbstgewitter.
+Ich habe
+dies
+alles ins Gedächtnis
+gerufen
+und
+niedergeschrieben,
+um
+auf
+die
+einfachste
+und
+leichteste
+Weise
+das
+Bild
+verschiedener
+wichtiger
+Gestirne,
+die
+uns
+weiterhin
+öfters
+beschäftigen
+werden,
+dem
+Leser
+vor
+die Augen
+zu
+führen.
+Aber
+auch
+die
+vorhergehenden
+Be
+trachtungen
+würden
+mir
+zum
+Verständnis
+vieler wichtiger
+Stellen
+der
+Offenbarung des Johannes nicht viel geholfen
+haben, wenn in meinem Kopfe
+nicht
+von
+der Kindheit
+her
+sozusagen
+ein
+ganzer Vorrat von Wolken
+bildern
+sich
+angesammelt
+hätte.
+Mit
+diesem
+eigentümlichen Vorrat
+muss
+ich jetzt
+auch
+den Leser bekannt
+machen,
+damit auch
+er
+einen
+klaren Einblick in gewisse
+Stellen
+der Apokalypse
+gewinnt.
+Denn
+diese
+stellt, wie ich
+zeigen
+werde,
+kurz
+gesagt,
+eine Mischung
+astrologischer
+Betrachtungen
+mit ungemein
+poetischen
+Beschreibungen der Bewegungen
+und
+Formen
+von
+Wolken
+dar,
+die
+der
+Verfasser
+der
+Apokalypse
+während
+eines
+Gewitters
+beobachtet
+hat,
+das
+sich
+am
+30.
+September
+395
+über
+der Insel
+Patmos im
+griechischen
+Archipelagus
+entlnd.
+Mein Vorrat an Wolkenbildern,
+von
+dem ich hier spreche,
+stellt an
+sich nichts Besonderes
+vor.
+Im Laufe
+der Zeit bilden
+sich im Kopfe eines
+
+--- Page 39 ---
+13
+jeden
+von uns
+ähnliche Anhäufungen
+von Eindrücken
+und Bildern.
+Ich
+kannte z. B. Leute,
+deren Köpfe
+angefüllt
+waren mit
+einem Vorrat von
+allen möglichen Beleidigungen, die sie in ihrem Leben von anderen
+erfahren,
+während Beleidigungen,
+die sie selbst
+anderen zugefügt hatten,
+dort nicht
+vermerkt
+waren.
+Im
+Kopfe
+eines
+begabten
+Dichters
+beﬁndet
+sich
+ein ganzer Vorrat aller möglichen Bilder,
+die
+der Art
+seines
+Schaffens
+entsprechen,
+im Kopfe
+eines Musikers
+ein
+ebensolcher
+Vorrat aller
+mög‚
+liehen
+Melodien.
+Die
+Auslese
+der
+Gegenstände
+in
+solchen
+Vorrats
+kammern
+ist zweifellos
+durch
+die
+psychischen Eigenschaften
+und Nei
+gungen
+des betreffenden
+Menschen
+beeinﬂusst.
+Jeder
+von uns
+sammelt
+unwillkürlich und
+bewahrt sorgfältig,
+was ihn in
+der umliegenden
+Welt
+am meisten
+erregt und beeinﬂusst.
+Alles übrige,
+was
+uns
+gleichgültig
+lässt,
+verliert
+sich schnell für
+uns
+und
+verschwindet,
+unbekannt wohin.
+So häufte
+sich
+auch
+in meinem Kopf allmählich
+eine ganze Anzahl
+von Bildern
+aller möglichen Wolkenformen
+an,
+nur weil
+ich mich von
+jeher zu den Wolken
+verwandtschaftlich
+hingezogen
+fühlte.
+Mir scheint,
+dass
+etwas
+Aehnliches
+auch
+im
+Kopfe Lermontows
+vorgegangen
+sein
+muss.
+Oder wie hätte er sonst
+so schöne
+Gedichte
+schreiben
+können:
+Wolken, ihr ewigen
+Wand‘rer im Luftrevier!
+Weit durch
+des
+Himmels
+Blau‚
+hoch
+ob der
+Steppe
+Grau!
+Jagt ihr verbrüdert.
+Sagt,
+müsst ihr, verbannt gleich
+mir,
+Von
+dem geliebten
+Nord fernhin
+zum
+Süden
+ziehn?
+Stehst
+mir Rede: verbannt
+euch
+des
+Schicksals
+Spruch?
+Flieht ihr versteckten
+Neid,
+treibt
+oﬂ'ner Hass
+euch fort?
+Folgt
+unversöhnlich
+euch
+eines
+Verbrechens
+Fluch?
+Hetzt euch verleumdendes
+giftiges
+Feindeswort?
+Nein! Nur dem Lande
+enteilt ihr, das Frucht nicht
+trägt!
+Frei
+seid
+des
+Schmerzes
+ihr, frei auch der
+Seligkeit,
+Kennt keine Leidenschaft,
+die uns in Fesseln
+schlägt,
+Kennt nicht
+der Heimat
+Glück,
+noch
+der Verbannung
+Leid.
+An
+dem Busen
+eines
+Felsenriesen
+Schlief zur
+Nacht
+ein goldnes
+Wölklein.
+Heiter
+Zog's
+am Morgen früh im
+Blauen
+weiter,
+Lächelnd
+über Flur und
+Wiesen.
+Doch
+es blieb
+zurück
+dem Felsengreise
+In der Furche eine feuchte
+Spür.
+Oed ragt
+er,
+Tief versenkt
+in Sinnen,
+schmerzlich
+klagt
+er
+Und erbebend
+weint
+er leise, leise . . .‘).
+l) Fr. Fiedler:
+Gedichte
+von
+Lermontcw.
+Reclams
+Universal-Bibliothek,
+Bd.
+3081.
+
+--- Page 40 ---
+14
+Aehnliche Empﬁndungen
+lösten
+auch
+bei
+mir
+die Wolken
+aus,
+und
+nicht
+selten
+wandte ich mich in Gedanken an
+sie mit
+diesen Gedichten.
+Wenn
+an
+einem
+hellen Septembertage
+in
+der
+blauen
+Ferne
+hoch
+über
+der Schlüsselburger Festung sich Herden von Lämmerwolken
+zeigten,
+auf
+Schneestürme
+hindeutend,
+die
+hoch
+oben in einer uns kaum zugänglichen
+und ewig kalten Luftschicht
+tobten,
+während unten
+auf der Erde
+noch
+die
+grünen
+Blätter
+auf
+den
+Bäumen
+rauschten
+und
+die
+ganze
+Natur
+noch
+voll
+Leben war,
+da
+erwachte
+in mir nicht nur
+eine traurige Vor
+ahnung des unabwendbar von
+oben
+herabkommenden
+Winters,
+sondern
+auch eine unüberwindliche
+Sehnsucht,
+selbst
+in diesen Höhen zu schweben
+und
+ebenso frei inmitten
+dieser
+unerreichbaren Räume dahinzuﬂiegen.
+Am meisten
+jedoch überwältigte
+und entzückte
+mich
+der Anblick
+eines
+am Himmel
+sich
+ansammeinden
+oder
+ringsum
+tobenden Gewitters.
+Wenn am Horizont sich langsam eine schwere blaue Wolke mit ihrem
+weissen,
+schaumigen,
+nach
+unten
+umgebogenen
+Rand,
+wie
+eine
+Rolle
+alten Pergaments,
+auftürmte, wenn
+es schien,
+als ob sie daran war, mit
+ihrer
+ganzen
+Wucht
+auf die von Angst verstummte Erde herabzustürzen,
+dann
+konnte ich mich
+von diesem
+Bilde
+oft nicht
+losreissen.
+Während
+alle übrigen
+davoneilten,
+um
+im Hause Schutz
+zu
+suchen,
+blieb ich bis
+zum
+letzten Augenblick
+unter
+freiem
+Himmel,
+bis der Platzregen
+los
+braoh,
+und nahm gierig jede Bewegung des herannahenden
+Gewitters, jeden
+neuen
+Farbenwechsel
+der
+Landschaft,
+jedes
+Auflodern
+der
+entfernten
+Blitze
+in mich auf,
+die
+eine Wolke
+von
+Zeit zu Zeit von hinten,
+ge
+wissermassen
+von innen her, mit einem unheimlichen, bei einigen Gewittern
+rötlichen
+oder blutroten,
+bei
+anderen
+bläulichen
+Licht
+erhellten.
+Und
+wenn diese
+erste Gewitterwolke
+dann
+über die Köpfe hinweg
+raste
+und
+unter
+dem
+entgegengesetzten
+Ende
+des
+Horizontes
+ver
+schwand,
+nachdem
+sie
+die
+Erde
+mit
+dem
+ersten
+starken
+Regenguss
+überﬂutet hatte,
+dann benutzte
+ich jede Pause im Regen,
+um
+am Fenster
+oder
+von
+einer
+offenen
+Stelle
+aus
+zu beobachten,
+welche
+Formen
+die
+ihr
+folgenden
+Wolken
+annahmen,
+wie
+sie unter
+dem Einﬂuss
+des über
+den
+ganzen
+sichtbaren Himmel
+tobenden
+Orkans
+nach
+allen Richtungen
+auseinander
+eilten,
+eine
+der
+anderen
+nachjagten
+und
+dabei
+die
+wunder
+lichsten Formen
+darboten.
+Die
+meisten
+dieser
+Formen
+kennen
+die Un
+eingeweihten
+gar nicht,
+weil
+sie sich gewöhnlich
+im Hause
+verstecken.
+Wenn
+sie
+sich
+etwas
+merken
+und
+sich
+einer Tatsache
+des Gewitters
+erinnern,
+so ist
+es
+meistens
+der Regenbogen,
+und auch der nur, weil
+er
+gewöhnlich
+am
+Schlupse
+des
+Gewitters
+erscheint.
+Und
+doch
+sind
+gerade
+die
+Wolken
+in
+der
+Mitte
+des
+Gewitters
+sehr
+bemerkenswert.
+Von
+diesen
+sonderte
+sich
+noch
+in
+meiner
+Jugendzeit
+eine
+Anzahl
+typischer Formen
+ab,
+und
+manche
+von
+ihnen
+prägten
+sich
+mir
+so deut
+
+--- Page 41 ---
+15‘
+lieh ein,
+dass ich sie
+ohne jede
+Mühe
+aufzeichnen
+könnte.
+Einige
+von
+ihnen
+will
+ich
+hier
+anführen,
+weil
+sie
+mir
+zur
+Erklärung
+einiger
+„Tiere“
+der
+Apokalypse
+dienen
+werden.
+Einst,
+etwa Mitte August,
+kehrte ich von einem am Ufer der Wolga
+gelegenen Walde
+heim.
+Die Sonne war schon stark im Sinken.
+Sie strahlte
+mir gerade ins Gesicht, als unter ihr am Horizont
+sich eine Gewitterwolke
+zusammenballte
+und rasch auf mich zukam.
+Ich eilte,
+noch vor dem Regen
+nach Hause zu kommen,
+wofür jedoch nur wenig Hoffnung vorhanden
+war.
+Bald
+verschwand die
+Sonne
+hinter
+der Wolke,
+und
+es bildete sich
+jene
+eigentümliche
+Art von Beleuchtung,
+die
+immer
+für
+ein
+herannahendes=
+Gewitter
+bezeichnend
+ist.
+Alles,
+worauf
+der Schatten der Wolke
+ﬁel,
+nahm
+sofort eine
+düstere
+Färbung
+an.
+Die
+ganze Natur schien regungs
+los
+in Erwartung
+von
+etwas Sonderbarem
+und
+Merkwürdigem
+zu ver
+harren.
+Ich weiss jetzt
+nicht
+mehr,
+wie lange
+dies
+alles
+dauerte,
+weil
+ich
+über
+etwas
+anderes
+nachdaehte.
+Da
+plötzlich
+blieb
+ich
+wie
+an
+gewurzelt
+stehen,
+durch
+eine
+schroffe und unerwartete Aenderung in der
+Beleuchtung
+der
+ganzen
+umgebenden
+Landschaft
+und
+ein
+merkwürdiges
+Wolkenbild
+aus
+meinem
+Grübeln
+herausgerissen.
+Die
+Sonne
+blickte
+plötzlich
+durch
+eine
+schmale
+Oeﬁ‘nung,
+wie durch den Spalt
+einer eigen
+artigen Wolke, die
+aus zwei übereinander liegenden
+Schichten
+bestand.
+Der
+Gegensatz
+zwischen
+der
+Umgebung,
+nur
+beleuchtet
+durch
+die
+Büschel paralleler Sonnenstrahlen,
+und den weiter entfernten,
+in ﬁnsteren
+Schatten gehüllten Teilen
+der Landschaft
+war
+ein merkwürdiger.
+Um
+zu verstehen,
+was das für ein Bild war, muss man etwas Aehnliches schon
+selbst
+in
+der Natur
+oder auf dem
+Gemälde
+eines
+genialen Künstlers
+be
+obachtet
+haben,
+dann jede Beschreibung ist hier machtlos.
+Da die Lücke
+an
+der
+Sonne
+vorbeiging,
+so
+änderten
+sich
+die
+Schattierungen
+ihres
+Lichtes beständig.
+Die Sonne glich dem Antlitz eines erzümten Menschen,
+der vorsichtig
+seinen Kopf durch den Spalt der Wolke hindurehzuschieben
+schien,
+um zuzusehen,
+was auf der Erde vorginge.
+Diese Aehnlichkeit
+mit
+einem
+menschlichen
+Antlitz
+wurde noch
+dadurch
+erhöht,
+dass
+der obere
+Teil
+der
+schmalen
+Oeffnung
+in den bleigrauen Wolken,
+durch die Sonnen
+strahlen von hinten beleuchtet,
+das Aussehen eines
+dichten
+schneeweissen
+Haarbüschels
+über
+dem
+zornigen Antlitz
+der
+Sonne
+annahm,
+während
+der untere Rand den Eindruck
+einer Art Pelzkragen von der gleichen
+schnee
+weissen
+Farbe
+darbot,
+der
+sein Kinn
+bedeckte.
+Quer
+über
+die
+Sonnen
+seheibe aber legte sich ein schwarzer länglicher Wolkenstreifen,
+der ungefähr
+'
+so aussah,
+wie ein altertümliches zweischneidiges
+Schwert,
+das die Sonne
+in ihrem Munde hielt.
+Zweifellos war die
+scheinbare
+Lücke
+in den Wolken eine
+perspek
+tivische Erscheinung,
+eine
+einfache Erweiterung
+des schmalen
+Zwischen-
+
+--- Page 42 ---
+16
+raumes
+zwischen
+den
+beiden
+Wolkenschichten,
+die
+übereinander
+lagen.
+Die
+schmale
+und
+bei
+gewöhnlichen
+Verhältnissen
+ganz
+unbemerkbare
+Teilung
+in
+den Schichten
+setzte
+sich
+auch
+weiter
+mit Verengerungen
+und
+Erweiterungen
+des Zwischenraumes fort,
+da
+die
+schrägen
+Sonnen
+strahlen
+von
+hinten
+durch
+die
+benachbarten
+Erweiterungen
+{hindurch
+gingen und
+auf beiden Seiten der ﬁnster dreinschauenden
+Sonne
+mehrere
+leuchtende
+Punkte
+bildeten,
+die wie rechts
+und
+links
+von
+dem zornigen
+Antlitz
+der
+Sonne
+aufgestellte ﬂammende
+Fackeln
+aussahen.
+Alles
+dies
+geschah
+so
+unerwartet,
+war
+so
+voll
+eigenen
+Lebens
+und Bewegung,
+dass,
+mag
+es
+auch
+lächerlich
+sein,
+es zu bekennen,
+ich
+geradezu
+erschreckt
+und
+nahe
+daran
+war,
+mit
+abergläubischer Furcht
+zu fragen:
+Was
+ist
+geschehen?
+Was willst
+du
+von
+mir?
+Diese
+Erscheinung,
+die
+uns
+buchstäblich
+im
+ersten
+Kapitel
+der
+Apokalypse
+begegnet,
+dauerte nicht länger
+als
+eine Minute.
+Dann ver
+schwand
+die
+Sonne
+hinter
+dem
+unteren
+Rande
+der
+Oeﬁ'nung
+und nahm
+dabei
+unter
+den
+sie immer mehr
+verschleiernden Dämpfen
+ein
+düsteres
+unheimliches Aussehen an.
+Schliesslich
+blieb
+an
+der
+Stelle
+der
+Sonne
+nur
+eine
+gewaltige
+Fackel
+heller
+Strahlen
+mitten
+in
+einem
+goldenen
+Büschel
+anderer
+Strahlen
+übrig.
+Eine
+halbe
+Stunde später
+kam
+das Gewitter
+heran,
+und
+was
+dann
+weiter
+geschah,
+dessen
+weiss
+ich mich nicht
+mehr
+zu erinnern.
+Ein
+anderes
+Mal,
+als
+ich während
+eines
+Gewitters
+zwischen zwei
+Regengüssen
+auf
+einen
+freien
+Platz
+hinausging,
+um
+die
+Bewegungen
+und
+Formen
+der
+Wolken
+bei
+diesem
+Stadium
+des Gewitters
+zu
+beob
+achten,
+erblickte ich hoch
+oben
+gegen
+Südwesten
+im
+Blau
+des teilweise
+aufgehellten
+Himmels
+eine
+lange
+Reihe
+schneeweisser
+spiralförmig
+gewundener
+Wolken.
+Sie
+ﬂogen
+schnell
+hintereinander
+her,
+den Weg
+eines
+in
+der Höhe
+tobenden
+Wirbelwindes
+bezeichnend,
+und ihre ganze
+Spirale
+deutete
+die
+Drehungszentra
+der
+entsprechenden
+Teile
+der Luft
+an,
+wobei
+infolge
+plötzlicher
+Luftverdünnung
+sich
+leichte
+Wasser
+dämpfe
+ausbreiteten.
+Aber
+von
+unten
+sah
+es unwillkürlich
+so aus,
+als
+ob
+am
+Himmel
+eine
+Reihe
+unsichtbarer
+Engel
+ﬂöge,
+die
+mitten
+im
+Gewitter
+ihre Posaunen
+bliesen.
+Als ich nach
+einiger Zeit
+noch
+einmal
+ins Freie trat, erblickte
+ich
+hoch
+im Norden
+ein
+anderes
+grossartiges Bild.
+Drei
+grosse
+weissliche
+Wolken,
+die
+sich
+über
+den
+ganzen
+oberen Teil des Himmels erstreckten,
+hatten
+ganz
+die Form
+riesenhafter
+Kröten
+angenommen,
+die
+einander
+an
+den
+Vorderpfoten
+hielten
+und
+sich
+eilends
+in
+einem
+wilden
+Tanz
+um
+den Nordpol
+schwangen.
+Diese
+Illusion
+eines
+Tanzes in
+der Luft
+wurde
+durch
+ihre
+krummlinigen
+Bewegungen
+hervorgerufen,
+indem
+sie während
+ihres
+Fluges
+bald
+diese,
+bald
+jene
+Pfote
+ausstreckten
+und
+
+--- Page 43 ---
+17
+sich
+dabei
+unförmlich
+verzerrten
+und
+krümmten.
+Aber
+auch
+diese Er
+scheinung
+dauerte
+nicht
+lange.
+Schon
+nach
+einigen
+Minuten
+zerﬁelen
+alle Kröten
+in vier
+verschiedene
+Wolken in
+der Art von Gruppenwolken.
+Aehnliche
+Formen
+konnte
+ich
+auch
+im
+Mittelstadium
+von
+andern
+Gewittern
+beobachten.
+Hier will
+ich
+nur
+zwei
+Fälle
+erwähnen,
+die
+uns
+später
+noch
+nützlich
+sein
+werden.
+Einmal,
+nach
+einem
+Augustgewitter,
+das
+bei
+Sonnenuntergang
+endete,
+als
+das Abendrot
+bereits
+den
+ganzen
+westlichen
+Horizont
+mit
+blutigen
+Streifen
+bedeckte,
+nahm
+eine
+der letzten Wolken eine
+höchst
+originelle
+Form
+an.
+Auf
+dem
+feurigen Hintergrunde
+des Himmels
+sass
+eine
+stolze
+Frauengestalt
+in
+glänzendem
+rötlichem
+Gewande
+und hielt
+in der ausgestreckten
+Hand
+einen Kelch, ähnlich wie die,
+deren man sich
+in
+der Kirche
+zum
+Abendmahl
+bedient.
+Von
+den
+durchschimmernden
+reﬂektierten Strahlen der
+untergehenden
+Sonne
+beleuchtet,
+schien
+dieser
+Kelch
+aus
+Gold
+zu
+sein,
+und
+die Frauengestalt
+selbst
+schien
+von
+allen
+Seiten mit goldenen
+Spitzen
+geschmückt
+zu sein.
+Infolge
+der langsamen
+Bewegung der Wolken schien
+sie
+sich
+sanft zu neigen, wie,
+als
+ob
+sie
+jemandem
+den Kelch
+reichen
+wollte.
+Ihre
+Hand
+senkte
+sich
+mehr
+und
+mehr
+dem
+Süden
+zu,
+um
+sich
+schliesslich
+nach
+ein
+paar
+Minuten
+ganz
+vom
+Körper
+loszulösen, worauf
+die Wolke in zwei Teile zerﬁel
+(Apk.,
+Kap.
+17).
+Den zweiten merkwürdigen Fall,
+der
+sich
+auf die Wolken bezieht,
+die mitten im Gewitter
+am Horizont
+erscheinen,
+beobachtete
+ich
+nicht
+in Russland,
+sondern
+in
+der Schweiz.
+Ich kehrte in Gesellschaft
+meh
+rerer Genfer Studierender von einem Ausﬂuge
+heim,
+als
+Wir von
+einem
+Gewitter
+überrascht
+wurden.
+Plötzlich
+bemerkte
+einer
+von
+uns
+am
+Himmelsrand,
+auf dem wir hier und da
+einige
+zerrissene
+Wolken
+sahen,
+ein
+neues Wolkengebilde
+von
+ganz
+merkwürdigem
+Aussehen.
+Es
+sah
+aus,
+als ob im Südwesten
+der
+graue
+Rücken
+eines
+vorsintﬂutliohen Un
+geheuers,
+bedeckt
+mit Auswüchsen und Kämmen,
+herannahte.
+Fünf oder
+sechs Windhosen,
+die
+über
+dieser Wolke
+kreisten,
+bildeten
+über ihr
+mehrere
+spiralförmige
+weisse Wolken,
+die
+an
+langgestreckte
+schlangen
+förmige Hälse erinnerten.
+Diese
+endeten
+in weissen Wolken in der Form
+von
+missgestalteten
+Köpfen.
+„Schaut,
+da kommt ein vielköpﬁger Drache
+aus
+der Erde
+herauf,“
+bemerkte einer
+unserer
+Gefährten, und alle
+stimmten
+ihm zu.
+Einen
+besseren Vergleich
+hätte
+man
+für
+das uns
+erscheinende
+Un
+geheuer
+in
+der Tat nicht
+ﬁnden
+können.
+Morosow,
+Die Offenbarung
+Johannis.
+2
+
+--- Page 44 ---
+18
+iV. Kapitel.
+Die
+erste
+Begegnung
+mit der Apokalypse.
+Oft kam mir
+der Gedanke:
+kann
+man
+alle diese Wolkenbildungen
+im Mittelstadium
+eines Gewitters
+für
+ebenso
+charakteristisch
+ansehen,
+wie die allgemein
+bekannte
+Wolke
+in
+Form
+einer
+Pergamentrolle,
+die
+nach
+der
+Erde
+zu
+mit
+ihrem
+einen
+Ende
+aufgerollt
+ist?
+Kann
+man
+sagen,
+dass
+man
+alle diese Zwischenformen ebenso
+oft
+beobachten
+kann,
+wie
+z. B.
+den Regenbogen?
+Natürlich
+sind
+alle
+diese
+Bilder
+perspek
+tivischen Charakters,
+und
+zu ihrer Beobachtung
+muss
+man sich in einem
+bestimmten
+Punkte
+in
+bezug
+auf das Bewegungszentrum
+des Gewitters
+beﬁnden.
+Auch
+muss
+man
+das Gewitter in einer gewissen
+Periode seiner
+Entwickelung
+ins Auge
+fassen.
+Aber
+dies alles kann
+man ja auch
+von
+der vorderen
+Wolke sagen, und trotzdem ist ihre typische Form allgemein
+bekannt.
+Aus
+diesem Grunde
+möchte
+ich gern
+erfahren,
+ob jemand
+inmitten
+eines
+Gewitters
+die
+gleichen
+oder
+ähnlichen
+Wolken
+gesehen
+hat.
+Wenn ja,
+dann
+liessen
+sich
+vielleicht
+alle Gewitter
+in
+mehrere
+Typen
+einteilen,
+und
+man
+könnte
+am Ende
+sogar
+die Hauptformen
+der
+nach
+folgenden
+Wolken
+sehon
+allein
+nach
+dem
+Aussehen
+der
+Vorderwolke
+voraussagen.
+Ausserdem
+zeigen
+die Gewitter
+zwei
+verschiedene
+Arten,
+die
+man
+deutlich
+nur in später
+Nachtstunde
+unterscheiden
+kann:
+bei
+der
+einen
+sind
+die
+Blitze
+bläulich-weiss,
+bei
+der
+andern
+von
+hellroter,
+oft
+sogar
+blutroter Farbe,
+weil
+sie wahrscheinlich
+das Spektrum
+des Wasserstoﬂ'es
+geben,
+der durch Zerlegung
+der \Vasserdämpfe entsteht.
+Hellrote Blitze
+beobachtete
+ich oft an Juliabenden.
+Ihr Aufleuchten
+färbte den ganzen
+Horizont
+mit blutigem Glanz.
+Welche
+\Volkenformen
+sind für die
+eine
+oder
+die
+andere Art von
+Gewittern
+typisch?
+Bevor
+ich in
+der Alexis
+bastion
+der Peter-Paulfestung
+eingeschlossen
+wurde,
+hatte
+ich
+nirgends
+irgendwelche Aeusserung hierüber
+gefunden.
+Dort gab
+man
+mir
+sieben Monate lang überhaupt keine Bücher zu
+lesen
+und
+dann
+plötzlich
+(als
+man
+mich
+wahrscheinlich
+für
+genügend
+religiös vorbereitet hielt)
+händigte
+man
+mir zur Unterweisung
+im ortho
+doxen
+Glauben
+eine alte französische
+Bibel
+ein,
+die
+wahrscheinlich
+noch
+von
+den Dekabristen
+herstammte.
+Sie
+trug
+die Jahreszahl
+1817.
+Man
+legte
+sie mir in Ermangelung
+einer
+russischen
+Ausgabe hin, da
+man
+die
+russischen
+Exemplare
+unter
+meine
+Genossen
+verteilt
+hatte.
+Als frei
+
+--- Page 45 ---
+19
+denkender
+Mann,
+begann
+ich sofort, dies Buch als eine Probe der antiken
+Weltanschauung
+zu
+studieren,
+und
+ﬁng
+mit
+der
+Apokalypse
+an.
+Bis
+dahin
+hatte
+ich
+sie nie gelesen
+und
+hielt
+das Buch
+nach
+der Bemerkung
+Rachmetows in Tehernyschewskis
+bekanntem
+Roman
+„Was
+tun?“
+für das Werk
+eines
+Wahnsinnigen.
+Mit dieser Vorstellung
+machte
+ich
+mich
+an
+die
+Lektüre.
+Aber
+schon
+vom
+ersten
+Kapitel
+an wurde
+ich
+stutzig
+und
+sah
+mich
+genötigt,
+meine
+Meinung
+über dieses Buch
+voll
+kommen
+zu ändern.
+Wie ein
+Botaniker,
+der
+seine
+geliebten
+Pﬂanzen
+nach
+einigen
+be
+schreibenden
+Worten
+erkennt,
+während
+diese Beschreibung
+für
+andere
+nur
+leere
+Worte
+enthält,
+die nur undeutliche Begriffe hervorrufen,
+er
+kannte ich schon
+vom
+ersten Kapitel
+an in
+den apokalyptischen
+Tieren
+eine
+teils
+allegorische,
+teils
+buchstäblich
+genaue,
+und
+zwar
+ausser
+ordentlich künstlerische Beschreibung der mir längst bekannten
+Gewitter
+bilder,
+ausserdem
+aber
+noch
+eine
+grossartige Beschreibung
+der
+Stern
+bilder
+des
+Altertums
+und
+der Planeten
+in
+diesen
+Sternbildern.
+Nach
+einigen
+Seiten
+schon
+stand
+es für
+mich
+ausser
+Zweifel,
+dass
+der wahre
+Ursprung
+dieser
+alten Prophezeiung
+eines
+von
+jenen
+Erdbeben war,
+die
+auch
+heute
+nicht
+selten
+das
+griechische
+Inselmeer heimsuchen,
+sowie
+ein
+das
+Erdbeben
+begleitendes
+Gewitter
+nebst
+der
+unheildrohenden
+astro
+logischen
+Lage
+der Planeten in den Sternbildern.
+Diese uralten Zeichen
+des
+göttlichen
+Zornes
+sah
+der Verfasser
+unter dem Einﬂusse
+religiöser
+Ergriffenheit
+für eine
+Offenbarung
+an,
+die Gott ihm eigens
+habe zuteil
+werden
+lassen,
+weil
+er ihn
+gebeten
+hatte,
+er
+möchte
+durch
+irgend
+ein
+Zeichen
+angeben,
+wann endlich Christus
+wieder
+auf
+die
+Erde
+kommen
+werde.
+Der Verfasser
+dieses
+Buches
+erschien
+plötzlich
+vor meinen
+Augen
+als
+ein Mann
+mit
+einem
+liebenden
+Herzen,
+einem
+sehr
+empfänglichen
+poetischen
+Gemüt, der aber durch die rings um ihn herrschende
+Heuchelei,
+Bigotterie
+und
+sklavische
+Unterwürﬁgkeit
+der
+damaligen
+christlichen
+Kirche
+den
+„Herrschern
+der Erde“
+gegenüber
+ganz
+zermartert und zer
+quält war.
+Vorn
+ersten
+Kapitel
+an stellte sich mir dieser
+unbekannte
+Johannes
+dar,
+wie
+er
+einsam
+am Ufer
+der Insel Patmos sassjund
+in traurige Ge
+danken
+vertieft
+war.
+Er
+erwartete
+die
+von
+ihm für diesen
+Tag
+nach
+dem damals gebräuchlichen
+Saros’schen Zyklus berechnete Sonnenﬁnsternis.
+Mit Hilfe
+astrologischer Betrachtungen
+versuchte
+er,
+die
+Zeit
+des von
+ihm
+so leidenschaftlich
+erwarteten
+zweiten
+Erscheinens
+Christi
+festzu
+stellen, ohne zu bemerken,
+dass hinter ihm sich ein Gewitter zusammen
+zog.
+Da
+auf einmal riss ihn
+ein
+plötzlich
+aufleuchtender Sonnenstrahl,
+der
+sich
+durch
+die
+schmale
+Oeﬁ‘nung
+grauer Wolken
+hindurchstahl,
+aus
+
+--- Page 46 ---
+20
+seiner
+Träumerei,
+und
+als
+er
+sich
+umwandte,
+gewahrte
+er
+die erzürnte
+Sonne
+die
+aus
+den Wolken
+auf
+ihn
+herniederschaute,
+genau
+wie
+ich
+selbst
+es
+auch
+einmal
+gesehen
+habe.
+Was
+für
+einen
+Eindruck
+dieses
+Bild
+des Zornes
+auf ihn machen
+musste,
+das in dem Augenblick
+erschien,
+wo er
+ein
+derartiges,
+für
+die
+ganze
+damalige
+Welt
+so entsetzliches
+Er
+eignis,
+wie
+eine
+Sonnenﬁnsternis,
+erwartete,
+das ist
+aus seiner
+eigenen
+Beschreibung
+nicht schwer zu
+verstehen.
+Es sollte aber
+sogleich
+noch
+viel schlimmer
+kommen.
+Etwas
+anderes,
+ungleich
+Schrecklicheres
+er
+eignete
+sich —
+ein
+Erdbeben.
+Entsetzt
+ﬁel
+er auf die Knie,
+und
+nun
+erschien
+ihm
+alles,
+was
+vorher geschah,
+als
+eine fortlaufende Reihe
+von
+Himmelszeichen,
+die
+eigens
+zu dem Zweck gesandt werden waren, damit
+er sie
+aufschriebe
+und so deutete,
+wie die „göttliche Offenbarung“ es von
+ihm
+verlangte,
+d. h. jene
+enthusiastische
+Entzückung,
+die jeder wahrhaft
+poetischen
+Seele
+bekannt
+ist,
+und
+die
+er für einen Widerhall der Gottes
+gedanken
+in
+seiner
+eigenen
+Seele
+ansah.
+Aber
+der
+Leser urteile lieber selbst
+nach
+der
+von
+mir
+versuchten
+Auslegung
+dieses
+merkwürdigen
+Buches.
+Nach
+der hier angegebenen
+Lage der Planeten in bestimmten
+Stern
+bildern
+des Zodiakus
+gelang
+es
+mir,
+auf
+astronomischem
+Wege,
+also
+mit vollkommener
+Genauigkeit
+zu
+berechnen,
+dass
+das hier beschriebene
+Gewitter
+am Sonntag
+den
+30.
+September
+395
+der julianischen
+Zeitrech
+nung
+über
+Patmos
+niederging.
+Das
+ganze
+Buch,
+eine
+stenographisch
+genaue Beschreibung des Himmelsbildes,
+das nur einmal in diesem ganzen
+historischen
+Zeitraum
+gerade
+so
+erscheinen
+konnte,
+wurde
+zweifellos
+nach unmittelbaren Aufzeichnungen
+noch am selben Tage und
+der hierauf
+folgenden
+Nacht konzipiert
+und endgültig
+in den folgenden
+Tagen nieder
+geschrieben,
+d. h.
+anfangs
+Oktober
+des gieichen
+Jahres.
+Damals war
+die
+christliche
+Kirche
+schon
+seit
+einigen
+Jahrzehnten
+(seit dem Jahre 330) in beiden Teilen des römischen Reiches die herrschende,
+aber, ebenso
+wie das Reich,
+ein
+Gegenstand
+beständiger
+Streitigkeiten
+und gegenseitiger
+Intriguen
+ihrer ehrgeizigen und
+lasterhaften
+Bischöfe.
+Nach
+diesem
+Zeitpunkt
+und
+nach
+dem Inhalt des Buches selbst
+war
+es
+nicht
+schwer,
+auch
+die Persönlichkeit
+des Verfassers
+festzustellen.
+Das
+war Johannes
+Chrysostomus
+aus Antiochia,
+der
+um
+das Jahr 354
+geboren,
+später
+durch den Kaiser Arkadius
+auf Grund des Beschlusses
+des
+Konzils
+der
+Bischöfe
+im Jahr
+403
+verschickt
+wurde
+und
+in
+der
+Verbannung
+im
+Jahre
+407
+gestorben
+ist.
+Meine
+astronomischen
+Be
+rechnungen,
+die
+gar keinen
+Zweifel
+an
+der Richtigkeit
+des Zeitpunktes
+lassen
+‘),
+werden
+später,
+im
+dritten
+Teil
+meiner
+Untersuchung
+auf
+geführt.
+Hier lege ich zur Erläuterung
+zunächst das Buch des Johannes
+selbst vor.
+
+--- Page 47 ---
+21
+Meine Wiedergabe
+der Apokalypse
+ist keine peinlich genaue Ueber
+setzung,
+wie
+die
+gewöhnliche
+kirchliche.
+Sie ist
+gewissermassen
+eine
+Popularisierung
+derselben,
+denn
+eine
+einfache
+Uebersetzung wäre
+hier nicht
+am
+Platze.
+Der Gegenstand,
+den
+der
+Verfasser
+in
+seinem
+Werke
+behandelt,
+d. h.
+die Sternbilder
+des Himmels,
+ihre Figuren,
+die
+Bewegung
+der
+Planeten
+in
+ihnen
+und
+deren
+eigene
+Bewegung
+an
+der
+scheinbaren
+Himmelskuppel,
+ist
+den
+Nichtastronomen
+so
+wenig
+be
+kannt,
+dass
+die
+blosse
+Anführung
+dieser
+Dinge,
+wie
+der Verfasser
+sie
+gibt, für
+die Mehrzahl
+einfache
+Worte
+ohne irgendwelchen Sinn enthalten
+würde.
+Damit
+der wahre Sinn
+des Verfassers den allgemein gebildeten
+Menschen
+klar
+werde,
+musste
+ich bei jedem
+„Kunstausdruck“
+sofort die
+entsprechende
+Erklärung beifügen.
+So z. B. schrieb
+ich statt des blossen
+Wortes
+„Drache“,
+welches
+in
+der Astrologie
+und
+Astronomie
+das ent
+sprechende
+Sternbild bezeichnet,
+„das Sternbild des Drachen“;
+statt
+des einfachen
+Wortes
+„Pferdezügel“
+schrieb
+ich zur Erläuterung
+in Klam
+mern:
+„Pferdezügel“
+(eine
+Sterngruppe
+im Sternbild
+des
+Fuhrmanns)
+usw.
+Ebenso gab
+ich bei
+der Beschreibung
+der \Volken
+formen
+die erläuternden Ergänzungen,
+z. B. statt des kurzen Ausdruckes
+im Text:
+„Die
+sitzende
+Figur
+ähnelte
+den Steinen
+Jaspis
+und Karneol“,
+schrieb
+ich:
+„Die
+sitzende Figur
+hatte
+an
+einigen
+Stellen
+die weissen
+und
+dunklen
+Streifen
+des Jaspis
+und
+an
+anderen
+die
+orange
+roten
+Schattierungen
+des
+Karneols“.
+Der
+ursprüngliche
+Sinn
+blieb
+auch
+in
+dieser
+meiner
+populären
+Schilderung
+der
+gleiche.
+Aber
+der
+Leser
+versteht
+sofort
+daraus,
+was
+der
+Verfasser
+eigentlich
+hat
+sagen
+wollen,
+und
+braucht
+nicht
+erst
+nach
+einem
+Lehrbuch
+der
+Mineralogie
+zu greifen,
+um
+nachzusuehen,
+welche Farben
+und
+welche
+Schattierungen
+der Jaspis
+und
+der
+Karneol
+haben.
+In
+meiner
+volkstümlichen
+Uebertragung
+aus
+dem Griechischen ist
+alles
+das
+geblieben,
+was
+auch
+im Original
+und
+in
+den
+gewöhnlichen,
+ganz
+unbrauchbaren Uebersetzungen’)
+enthalten
+ist.
+Nur tritt hier
+in
+vollem Mass
+der
+Unterschied
+zwischen
+der
+alten
+und
+neuen
+Art
+der
+Bearbeitung
+wissenschaftlicher Gegenstände
+hervor.
+Der
+alte
+Verfasser
+schrieb
+ausschliesslich für
+einen
+begrenzten
+Kreis
+von
+Leuten,
+die
+in
+alle Geheimnisse
+seiner
+Wissenschaft
+eingeweiht
+waren,
+und
+gab
+sich
+nicht
+selten die grösste
+Mühe, von den Uneingeweihten
+nicht
+verstanden
+zu werden.
+Der
+moderne Verfasser
+hingegen
+bietet
+alles auf,
+um
+mög
+lichst
+allgemein verstanden
+zu
+werden.
+'
+Aber
+trotz
+dieser
+gemeinverständlichen Art
+der
+Uebersetzung
+des
+Originals
+hielt
+ich
+mich
+doch
+möglichst
+streng
+an
+den
+griechischen
+Urtext
+und übersetzte
+ihn sogar wörtlich,
+wobei ich in den Anmerkungen
+die
+griechischen
+Worte
+in allen
+den Füllen
+angeführt
+habe,
+die zur Be
+
+--- Page 48 ---
+22
+stimmung
+der
+Entstehungszeit
+der
+Apokalypse
+und
+zur
+Feststellung
+der
+Weltanschauung
+des Verfassers bedeutsam
+waren.
+l) Nachgeprüft
+durch
+zwei
+Astronomen
+der Sternwarte
+von
+Pulkowa.
+’) Man stelle
+sich
+z. B. einen Menschen
+vor,
+der ein Buch
+über Astronomie
+aus
+dem Englischen
+übersetzt,
+ohne
+diese
+Wissenschaft
+zu kennen
+und
+sogar
+ohne
+es
+zu
+ahnen,
+dass
+er
+es mit astronomischen
+Begriffen
+zu tun hat, und
+man wird verstehen,
+wie
+eine solche
+Uebersetzung
+ausfallen
+wird.
+
+--- Page 49 ---
+li. Teil.
+Offenbarung
+in Gewitter
+und Sturm
+in den vier
+Stössen
+des Erdbebens
+auf
+der Insel Patmos
+am 30. September
+395.
+
+--- Page 50 ---
+Volkstümliche
+Wiedergabe
+nach
+der
+griechischen
+Ausgabe:
+77;;
+Kanu}; Ata8ﬁxqg "Arravraz.
+dazwivq
+ü};
+Bpsravrurr7g
+Bi,‘llun';g ‘Erouplag
+npo';
+dreidoo'w
+tri'iv
+äyfeov
+ypapa'iv
+€v
+re
+zfj
+Meya'l,q
+Bgeravvfgr.
+1902.
+Einige Berichtigungen
+sind
+nach
+der
+alten Ausgabe des Erasmus
+und andern
+alten Ausgaben gemacht.
+Die
+eingeschalteten
+Erläuterungen,
+Angaben in Klammern,
+gesperrt
+und
+fettgedruckt,
+stammen
+von
+mir.
+
+--- Page 51 ---
+Karte der Lage der Sterne über
+der Insel Patmos
+ungefähr um 5 Uhr abends den 30. September
+395 des julianischen Jahres
+und
+Erläuterungen
+zu ihr.
+‚
+*l
+\'2‚/’M«<
+‚°
+J\
+_
+<
+o,
+(u‘ißtäf
+\
+.‚
+. {J
+.
+\
+: J'r;rd(w
+‚ ‚
+Bild
+10.
+Die Lage
+der Sternbilder
+über Patmos
+zur Zeit ihrer astronomischen
+Be
+stimmung
+durch Johannes
+in den Kap. 6—12 der Apokalypse.
+Zur Benutzung
+dieser Karte
+muss
+man
+sich
+denken,
+dass
+man auf
+dem südlichen
+Ufer der Insel Patmos mit dem Gesicht
+gegen Süden
+stehe,
+wobei
+die auf ihr dargestellten
+Sternbilder gewissermassen
+über den Kopf
+des Beobachters
+zurückgehoben
+werden.
+Man
+muss
+also
+die Karte
+über
+seinem Kopfe
+halten,
+gerade
+so,
+wie
+der Stemhimmel
+sich
+über
+uns
+be
+ﬁndet.
+Gesehen
+wurden
+nur
+die
+Sternbilder,
+die
+sich
+in
+dem
+unteren
+Kreise
+beﬁnden,
+der
+den Horizont
+von Patmos darstellt.
+Die
+senkrechte
+Linie ist der Meridian
+dieses Horizontes,
+und
+das Kreuz
+auf ihr ist
+der
+
+--- Page 52 ---
+26
+Zenit,
+d.
+h.
+der Punkt, welcher
+sich
+direkt
+über dem Kopfe
+des Beob
+achters
+beﬁndet.
+Gerade
+im Süden
+erscheint
+über dem Horizont
+die
+obere
+Hälfte
+des Sternbildes
+des Altars
+und
+über ihm der Skorpion,
+in dem sich
+der Planet
+Saturn
+befand.
+Rechts
+(nach
+Westen
+zu)
+war
+die
+Wage
+(dort stand
+der Merkur),
+die Jungfrau
+(in welcher sich
+die Sonne
+und
+der Mond
+befanden)
+und
+der
+bereits
+zur
+Hälfte
+untergangene
+Löwe.
+Links,
+gegen
+Osten,
+waren
+der
+Schütze
+(in
+dem
+sich
+der
+Jupiter
+befand),
+der Steinbock, der Wassermann
+und Pegasus.
+Gerade
+im Norden
+stiegen
+über dem Horizont
+die zwei kleinen
+Sterne
+(ö und
+15)
+des Fuhrmanns auf,
+die man die Pferdezügel
+nennt,
+und
+links
+von
+ihnen,
+gegen
+Osten,
+der
+obere
+Teil
+des Perseus
+mit
+seinem Schwert,
+unter welchem
+damals
+der Planet
+Mars
+stand.
+Im Zenit stand
+die Leier,
+nördlich
+von
+ihr
+der Drache
+und
+hinter
+diesem
+der
+mit
+dem
+Polarstern
+gezierte
+Himmelspol,
+das
+Drehungszentrum
+des Himmelsgewölbes
+mit
+den
+24 strahlenförmig
+von
+ihm ausgehenden Stunden
+der Sternzeit (die sog. Stunden
+des gerad en
+Aufsteigung der Sterne).
+Rechts von ihm befanden
+sich
+die sieben
+Leuchter
+des grossen Bären
+und
+links
+die Kassiopeia,
+die
+früher
+auch
+der Thron
+genannt
+wurde.
+Ziemlich
+tief unter
+dem
+nördlichen Teil
+des Horizontes
+stand
+das
+Sternbild
+des Stieres,
+östlich
+von
+ihm
+der Widder
+oder das Lamm
+im
+Begriffe,
+aufzugeben.
+Alle
+diese Sternbilder
+und
+deren
+Lage
+sind
+in
+der
+„Offenbarung“
+angegeben.
+Ausserdem sind
+noch
+genannt:
+die Krone
+zwischen
+dem
+Zenit und dem Westen
+und
+die Schlange
+südlich
+von
+ihr.
+Ferner
+sind genannt:
+die Sichel oder
+die
+oberen
+Sterne
+des Bootes,
+die
+sich
+zwischen
+dem
+Zenit
+und
+dem
+Westen
+befanden,
+und
+die
+südliche
+Krone
+am südlichen Horizonte
+neben
+dem Altar.
+
+--- Page 53 ---
+Die Offenbarung.
+l. Kapitel.
+Das
+zornige
+Antlitz
+der
+Sonne
+in
+der Wolke,
+der Vorbotin
+des Gewitters.
+Johannes
+—
+den sieben kleinasiatischen Gemeinden
+1).
+1
+Gnade
+euch
+und Friede
+von
+dem,
+der war, ist
+und
+sein wird,
+und4
+von
+den sieben
+Seelen (die im Sternbilde
+des grossen Bären leuchten.
+Bild 11) gegenüber
+seinem Thron“)
+und
+vom
+getreuen
+Verkünder
+ders
+Bild ll.
+Sternbild des Thrones (jetzt Kassiopeis)
+und das Sternbild
+der Sieben Seelen (jetzt der grosse Bär) ihm gegenüber,
+auf der
+anderen Seite der Himmelspoi.
+Wahrheit
+Jesus,
+dem
+Gesalbten.
+Auferstanden
+von
+den Toten
+und
+Be
+herrscher
+der
+irdischen Könige,
+hat
+er
+uns
+in
+sein
+Herz
+geschlossen,
+uns
+durch
+sein
+Blut
+von
+unseren
+Sünden
+gereinigt
+und
+uns
+selbst
+3)
+6
+zu
+Königen
+und
+Priestern
+Gottes,
+seines
+Vaters,
+gemacht.
+Ihm
+sei
+Ehre
+und Macht
+in alle Ewigkeit!
+Amen!
+Siehe,
+er
+kommt
+in
+den Wolken des Gewitters,
+und
+es wird7
+ihn sehen
+jedes
+Auge
+und
+die
+ihn
+durchstochen
+haben,
+und jammern
+werden
+über
+ihn alle Geschlechter der Erde‘).
+
+--- Page 54 ---
+28
+9
+Ich,
+Johannes,
+euer Bruder
+und
+Genosse
+in Kummer
+und
+Freude,
+in der geduldigen
+Erwartung
+seines Kommens,
+war auf der Insel
+Patmos
+um
+der
+göttlichen
+Lehre
+und
+des
+Zeugnisses
+Jesu,
+des
+Gesalbten"),
+willen.
+10
+Am
+Sonntag
+bemächtigte
+sich
+meiner
+eine Begeisterung,
+und
+ich
+hörte
+im
+Rauschen
+der Wellen hinter
+mir
+eine
+Stimme
+wie eine
+Posaune
+tönen:
+11
+Ich bin der erste
+und
+der
+letzte
+Buchstabe
+des Alphabets,
+der An
+fang
+und
+das Ende.
+Das,
+was
+du
+sehen wirst,
+schreib
+in eine Buch
+rolle
+und
+sende
+es
+den
+sieben
+Gemeinden
+in Kleinasien:
+nach
+Ephesus,
+12 Smyrna,
+Pergamon, Thyatira,
+Sardes,
+Philadelphia
+und
+Laodicea.
+Ich
+schaute mich
+um
+nach
+dieser Stimme.
+Da erblickte ich (in den Wolken
+formen,
+durch welche
+die Sonne
+hindurchschaute)
+sieben
+goldene Leuch
+13 ter 6) und
+in deren Mitte
+ein
+aus Wolken
+bestehendes
+Ebenbild
+eines
+menschlichen
+Wesens’),
+in
+das
+weisse
+Gewand
+der jüdischen
+Hohen
+priester
+gekleidet
+und unter der Brust
+mit einem
+goldenen
+Gürtel
+um—
+14 gürtet.
+Sein
+Haupt
+-—
+die
+Sonne
+—
+und
+seine
+Haare
+(die
+Ränder
+der Wolken
+über
+ihm)
+leuchteten
+grell,
+wie
+ein
+weisser
+Flaum,
+wie
+15 Schnee.
+Seine Augen waren wie Feuerﬂammen,
+seine Füsse (die Strahlen—
+büschel,
+die durch die Wolken
+zur Erde
+gingen) wie im Ofen geglühtes
+16 Erz.
+Seine
+Stimme
+klang wie
+das Rauschen
+der Wegenmenge.
+Rechts
+hielt
+er
+in
+seiner Wolkenhand
+die
+sieben
+Sterne“)
+des
+grossen
+Bären.
+Aus
+seinem
+Munde ging ein an beiden
+Seiten
+spitzes
+Schwert
+hervor,
+und
+sein Antlitz war wie die
+Sonne
+in ihrer vollen Kraft.
+17
+Als ich ihn sah,
+ﬁel ich wie tot zu seinen Füssen nieder.
+Er aber
+streckte
+seine
+rechte
+Wolkenhand
+über
+mich °)
+und
+sprach:
+Fürchte
+dich
+nicht!
+Ich
+bin
+der Erste
+und
+der Letzte;
+ich
+bin
+13 lebendig,
+aber
+ich
+war tot,
+und
+siehe ich
+werde
+leben
+in alle Ewig
+19 keit.
+Mir
+gehören
+die
+Schlüssel
+des Todes
+und
+der Unterwelt.
+Schreib
+nunmehr
+alles
+nieder,
+was
+du gesehen hast,
+was
+du jetzt siehst und was
+20 nachher
+geschehen
+wird.
+Der geheime Sinn der
+sieben
+Sterne
+in meiner
+Rechten
+und
+der
+sieben
+goldenen
+Leuchter
+in
+den Wolken ist der
+folgende:
+Die
+sieben
+Sterne
+sind
+die
+Verkünder
+10)
+der
+sieben
+klein
+asiatischen
+Gemeinden,
+und
+die
+sieben
+Leuchter
+sind
+die
+Gemeinden
+selbst.
+‘)
+Ich habe die ungeschickte
+und lauge Ueberschrift,
+mit
+welcher
+der alte Ab
+schreiber
+dieses
+Buch versehen hat, hierher
+in die Anmerkungen
+verlegt.
+Hier
+ist sie:
+„(1)
+Offenbarung,
+gegeben von Gott
+an
+Jesus Christus,
+um seinem Diener
+kundzutun,
+was bald
+geschehen soll.
+(2)
+Christus
+sandte
+es
+durch
+seinen
+Boten
+dem
+Johannes,
+seinem Knecht,
+und Johannes
+übergab
+die
+Worte
+Gottes
+und
+die
+Nachricht
+Jean
+Christi
+und
+was
+er
+selbst
+gesehen
+hat
+(B).
+Glücklich,
+wer liest
+und hört
+die Worte
+
+--- Page 55 ---
+29
+dieser Verkündigung
+und
+beachtet,
+was
+ich geschrieben
+habe,
+denn die Zeit
+der Er
+füllung ist nahe.“
+Alle
+erläuternden
+Ueberschriften
+zu den
+Kapiteln
+sind
+nach
+dem
+Muster
+der
+alten lateinischen
+Abschriften
+von mir gemacht.
+’) Das Sternbild
+des
+grossen
+Bären
+heisst noch
+heute
+in
+Südfrankreich
+„der
+Wagen
+der Seelen“, wie dies
+aus derErzählung von Alphonse Daudet „Die Sterne“
+zu ersehen ist.
+Im Altertum war
+diese
+Benennung
+noch
+gebräuchlicher.
+Ferner,
+im
+Kap.
+4, V.
+5 der Apokalypse
+heisst
+es
+von
+demselben
+Sternbild
+„und
+es
+brannten
+gegenüber
+(dem
+Sternbilde)
+des
+'l‘hrones
+sieben Lampen,
+sieben Seelen,
+die
+stets
+vor
+Gott sind (offenbar
+dachte
+man sich,
+dass Gott
+am Nordpol
+des Himmels,
+dem Zentrum
+des Kreislaufs der
+Sterne,
+sitze).
+Der
+Ausdruck
+des
+Originals
+("nur
+1lvsv'yrr1a
+(sieben
+Seelen,
+Begeisterungen)
+auf
+die Sterne angewendet,
+bezeugt,
+dass der Verfasser
+ein An
+hänger
+des Origenes
+war.
+Origenes
+war
+im zweiten
+Jahrhundert unserer
+Zeit
+rechnung
+der erste unter den christlichen
+Lehrern.
+der behauptete,
+dass die himmlischen
+Gestirne
+Seelen der Menschen
+seien, die in leuchtende
+Gewänder
+gehüllt
+seien.
+Was
+das Wort Thron,
+im Urtext .9go'vog‘, snbetriﬂ‘t,
+so bedeutet es in der Astro—
+nomie
+und
+Astrologie
+immer
+das Sternbild
+des
+Thrones, jetzt Kassiopeia
+genannt
+’)
+au'm';
+selbst, derselbe.
+‘) Hier
+ist
+(vom
+Abschreiber,
+der
+vomugegdden
+hat?)
+ein
+Ausdruck
+ein
+geschaltet,
+der
+im
+Original
+erst
+nach
+dem
+nächsten
+Satze
+im
+elften
+Verse
+dieses
+Kapitels
+vorkommt.
+„Ich bin
+der erste und
+der
+letzte
+Buchstabe
+des
+Alphabets,
+der
+Anfang und
+das Ende,
+spricht
+Gott
+der Herr, der da war,
+ist und
+sein wird,
+der All
+mächtige.“
+Bei
+Erasmus
+ist
+im
+Gegenteil
+dieser Satz
+ohne
+die Worte „der Anfang
+und das Ende“
+beibehalten,
+aber später
+ausgelassen
+worden.
+‘) Im Urtext
+‘1qdoü
+Xguﬂoü.
+Jesus
+(Jesous)
+ist
+der
+verstümmelte
+hebräische
+Name
+Jehoschua,
+was soviel
+wie Hilfe Gottes
+bedeutet.
+So
+nannte
+er
+sich selbst,
+so
+redete ihn
+auch seine Umgebung
+in
+Palästina
+an.
+Die
+Griechen
+änderten
+diesen
+Namen
+in Jessus,
+die Lateiner in Jesus,
+die
+Franzosen
+in Schesü,
+die
+Engländer
+in
+Dschisos
+usw.
+Schliesslich
+ist vom ursprünglichen
+Namen kein einziger Laut mehr übrig
+geblieben.
+Dagegen
+ist Christus
+(Xgwrdg)
+ein einfaches
+Adjektiv
+und bedeutet
+im
+ge
+wöhnlichen
+Griechisch:
+der
+Gefärbte,
+Angestrichene,
+Gesalbte
+und
+in
+übertragenen
+religiösem
+Sinne:
+der ins Priesteramt,
+in die
+religiösen
+Geheimnisse
+durch
+die
+sym
+bolische
+Salbung
+mit
+Oel bei der Aufnahme
+Eingeweihte.
+Deswegen
+sehe
+ich
+keinen
+Grund,
+dieses
+Adjektiv
+unübersetzt
+zu lassen.
+°)
+Ä.v1viav, Kelche
+zur Beleuchtung.
+In diese schüttete man Oel hinein,
+in welches
+man
+den
+Docht
+stellte.
+7) vlo'; dv99uinov,
+Sohn
+des
+Menschen,
+menschliches
+Wesen.
+8) Rechts
+von der Sonne
+oben war
+der grosse Bär oder die sieben Seelen;
+dort
+hin wies die
+„Hand“
+des
+Wolkengebildes
+vom
+Standpunkte
+des
+Johannes
+aus.
+')
+e'1u'3qxs
+neigte
+herunter,
+liess sich
+herab
+(auf mich).
+‘°)
+Das griechische
+Wort
+r’r'vyslo;
+(Angeles)
+kann
+man in dem alten griechischen
+Texte nicht
+unübersetzt
+lassen.
+Die gewöhnliche
+Bedeutung
+des Wertes
+ist: Bote,
+Ge
+sandter,
+Herold, im übertragenen
+Sinn
+— Verkünder;
+so hiess der Vorleser
+der
+alten origenetischen
+Gemeinden.
+In
+diesem
+letzten
+Sinne
+ist
+das
+Wort
+An gelos
+hier
+gebraucht
+werden,
+wie
+aus Kap.
+3,
+V.
+16
+hervorgeht,
+wo
+der Verfasser
+einem
+von
+ihnen
+droht,
+dass
+Gott
+„ihn
+aus
+seinem
+Munde
+ausspeien
+werde“,
+weil
+er
+„weder
+kalt,
+noch
+warm
+sei.“
+Dieser
+Ausdruck
+wäre
+in
+bezug
+auf
+einen
+wirklichen Engel nicht
+am
+Platze.
+
+--- Page 56 ---
+30
+IV. Kapitel.
+-l-)
+Das Bild des Sternhimmels
+hinter
+dem blauen
+Vorhang
+des Tages.
+1
+Nach einiger Zeit
+schaute
+ich auf,
+und
+siehe,
+da erblickte
+ich eine
+Tür in den Wolken
+geöffnet,
+und
+die vorige
+Stimme
+des Meeres,
+die
+ich wie eine Posaune mit mir
+reden
+hörte,
+sprach:
+Komm
+herauf,
+komm im Geiste
+hierher,
+und ich will
+dir zeigen,
+was hernach
+geschehen
+soll.
+2
+Alsbald
+bemächtigte
+sich
+meiner
+die
+Verzückung,
+und
+siehe
+da,
+an
+derselben
+Stelle
+1)
+befand
+sich
+am Himmel
+(nach
+astronomischer
+Be
+rechnung
+2)
+das Sternbild des Thrones
+mit
+der
+darauf
+sitzenden
+Wolke,
+die mit ihrem
+Aussehen
+an
+den
+ge
+streiften Jaspis
+und
+den orange
+.
+roten
+Sardonyx
+erinnerte.
+Der
+_ ‚"‘
+Thron
+aber
+befand
+sich in der Mitte
+des
+Regenbogens,
+der
+Milch
+strasse")
+(im blauen Tagesgewande
+des
+Himmels),
+der
+dem
+bläulich
+grünen
+Smaragd ähnelte.
+Rings
+um
+das
+Sternbild
+des
+Thrones waren vierundzwanzig Stühle
+Bild
+12.
+Die nördliche
+Krone.
+die Flügel
+des
+—-
+vierundzwanzig
+flügelähn
+Himmels
+und
+die kreuzweise
+auf der Ekllptik
+.
+.
+liegenden
+vier Tiere
+des Johannes.
+11
+c
+h
+e
+Str
+e
+1
+fe n
+d
+e
+3
+g
+e
+1'
+3
+d
+e
+II
+Himmelsaufstiegs‘)
+— und auf
+ihnen sassen vierundzwanzig
+Greise — die Stunden
+des Tages und
+der Nacht, in hellen
+Gewändern“)
+des blauen Tageslichtes,
+mit
+5
+goldenen
+Kronen
+(Bild
+12)
+auf
+ihren
+Häuptern
+°).
+Und
+aus
+dem
+Throne
+gingen
+Blitze,
+Donner
+und
+Töne
+des heraufziehenden
+Ge
+witters
+hervor
+7).
+Und
+gegenüber
+dem
+Throne
+brannten
+sieben
+a
+Fackeln
+des grosse n Bären,
+die
+sieben
+Seelen
+Gottes.
+Um
+den
+Thron
+aber
+befand
+sich
+ein
+gläsernes
+Meer
+-—— die Himmelskuppel,
+durchsichtig
+wieiKrystall,
+und
+inmitten
+dieses
+Meeres
+°)
+und
+rings
+um
+das Sternbild
+des Thrones
+befanden
+sich
+die Tiere der vier
+J
+ahres
+zeiten,
+voller Augen — der ewig funkelnden
+Sterne — vorn und
+rückwärts.
+1
+Das
+erste
+von
+ihnen
+—-
+das Sternbild
+des alles verschlin
+genden
+Herbstes
+(Bild
+13)
+glich
+einem Löwen;
+das zweite,
+das
+
+--- Page 57 ---
+31
+Sternbild
+des nährenden Sommers (Bild
+14) glich
+einem Stier;
+das dritte, das Sternbild des alles tötenden Winters
+—— der Schütze
+1::
+„p
+«_eJ\
+Cmnlr'rl/'
+/
+‚__
+....‚ \____
+-„. _„___.
+—.===
+T:
+U '
+sa.„ß.'r‘*si’-K
+\l
+Bild 13.
+Das Sternbild des Löwen.
+wo die Sonne vor Beginn des Herbstes
+verweilt.
+nach
+dem Manuskript
+Grienbergers
+1612, aufbewahrt
+in
+der
+Bibliothek
+der Sternwarte zu Pulkows.
+(Bild
+15) hatte
+das Antlitz eines Menschen,
+und das vierte — das Stern
+bild
+des Frühlings,
+der geflügelte Pegasus
+(Bild
+16),
+glich
+E
+.
+F‘
+l! J‘ ‘11F
+l“
+0
+TAVIV.I'
+XXIII
+1.
+Bild
+14.
+Das Sternbild des Stieres. wo die Sonne vor Beginn des Sommers
+verweilt,
+nach Grlenberger.
+einem
+ﬂiegenden Adler
+9).
+Und
+sie hatten
+je
+sechs Flügel (ﬁügelähnlicbe
+Streifen
+-—
+Stunden
+des
+geraden
+Himmelsaufstiegs),
+die
+kreisförmige
+gelagert
+waren,
+und
+ringsherum
+und
+inwendig
+1°)
+waren
+sie mit Augen
+
+--- Page 58 ---
+32
+— Sternen — übersät;
+und
+hatten
+keine Ruhe weder tags noch
+nachts
+und
+riefen durch ihr Funkeln:
+x;m
+.
+Es
+l’l
+.
+\\
+"
+‚l SAOXTTARIVS
+X
+l‘)ju
+) COPONA
+Bild
+15.
+Sternbild
+des Schützen,
+wo
+die Sonne zu Beginn
+des Winters
+verweilt,
+nach Orienberger.
+Heilig,
+heilig,
+heilig ist
+der Herr
+Gott,
+der Allmächtige,
+der
+da
+9 war,
+der
+da
+ist
+und
+sein
+wird!
+Und
+während
+die
+Tiere
+der vier
+Bild
+16.
+Sternbild
+des Pegasus, wo die Sonne zu Beginn
+des Frühlings
+verwelll.
+nach Grlenberger.
+Jahreszeiten
+den,
+der
+auf
+dem
+Throne
+sass,
+lobten
+und
+priesen,
+w der
+da lebt in alle
+Ewigkeit,
+ﬁelen
+die
+vierundzwanzig
+Greise
+—
+Stunden — ‘nacheinander
+vor ihm nieder,
+d. h.
+sie sanken zum
+
+--- Page 59 ---
+33
+Horizont
+bei jeder
+täglichen Drehung
+des
+Himmels,
+und
+lobten den,
+der
+da lebt von Ewigkeit zu Ewigkeit, und legten täglich
+das Sternbild
+der Krone
+vor dem Throne“)
+nieder,
+und
+damit sprachen
+die Greise
+— die Stunden:
+Bild
+i7.
+Die Sternbilder
+des Adlers,
+Delphins
+und des
+Antinous
+nach Grienberger.
+Würdig bist du,
+unser Herr, zu empfangen
+Preis,
+Ehre und
+Macht,
+11
+denn
+alles ist
+von
+dir
+geschaffen
+und
+durch
+deinen Willen ist
+es
+ent
+standen
+und besteht
+es.
+—l-)
+Die Kapitel
+2
+und
+3
+enthalten
+spezielle Mahnungen
+an die kleinasiatischen
+Ge
+meinden
+in bezug
+auf ihre
+privaten
+Angelegenheiten,
+die
+gar
+keinen
+Zusammenhang
+mit
+dem allgemeinen
+Inhalt
+des Buches haben.
+Darum
+setze ich sie für sich im IV. Teil
+dieser Abhandlung.
+Dort ist ihr eigentlicher
+Platz bei
+der Biographie
+des
+Verfassers
+und
+der Beschreibung
+seiner
+Zeit.
+1)
+33mm
+statt ärsi':
+An
+derselben
+Stelle.
+‘-')
+Jeder
+beobachtende
+Astronom
+wird
+mit
+Leichtigkeit
+durch
+eine
+einfache
+Rechnung
+herausﬁnden,
+wo
+sich ein
+beliebiges
+Sternbild
+in
+einer
+gegebenen
+Tages
+stunde beﬁndet,
+wenn
+es auch hinter
+dem Vorhang
+des
+Tageshimmels
+verborgen
+ist.
+Vielleicht aber hatte
+J
+ohannes auch Instrumente
+bei sich.
+')
+Das Sternbild
+des
+Thrones
+beﬁndet
+sich in der Milchstrasse.
+‘)
+Siehe
+die Himmelskarte
+am Ende
+des
+Buches.
+‘)
+Zeuxo'; — hell,
+glänzend,
+blendend
+weiss;
+daher
+das
+lateinische
+lucidus.
+°)
+Hier handelt
+es sich augenscheinlich
+um
+das Sternbild
+der nördlichen
+Krone,
+das um
+4
+Uhr nachmittags
+gerade im Zenit der scheinbaren
+Himmelskuppel
+stand.
+Aber
+die
+Abschreiber,
+welche
+den
+astronomischen
+Sinn
+dieses
+Bildes
+nicht
+verstanden,
+än
+Morosow,
+Die Offenbarung
+Johannls.
+3
+
+--- Page 60 ---
+34
+N
+derten
+den ursprünglichen
+Ausdruck
+u1e'z;avov
+;(gwoüv (goldene Krone)
+in
+srrupa'vovg
+19110017; (goldene Kronen)
+um.
+Solch
+eine
+Neigung
+zu
+Verbesserungen
+hat
+viele
+Varianten
+in den biblischen
+Büchern
+verursacht.
+’)
+rpwvui — Töne,
+Stimmen.
+') Statt Meer
+steht in den griechischen
+Abschriften
+Thron,
+augenscheinlich
+ein Fehler
+des
+Abschreibers,
+wenn
+man nicht
+annehmen
+will,
+der Verfasser
+habe in
+diesem Falle die ganze Himmelskuppel
+Thron genannt.
+') Das griechische
+Wort {der
+bedeutete
+im Altertum
+ein Säugetier
+und
+nicht
+einen Vogel.
+Folglich kann
+dieser Ausdruck
+sich
+nicht
+auf
+das
+Sternbild
+des Adlers
+beziehen (Bild
+17),
+sondern
+auf das
+einzige
+Säugetierbild
+unter
+den
+dargestellten
+ge
+ﬂügelten
+Tieren
+— den
+Pegasus.
+Es
+ist
+zu
+bemerken,
+dass
+jedes
+von
+diesen
+vier
+Tieren beim Eintritt der betreffenden Jahreszeit in den Strahlen
+der Sonne verschwindet.
+'°)
+s"o'wßev :mi xuxlo'.9w‚
+inwendig
+und ringsum.
+Schon
+dieser
+Ausdruck
+allein
+zeigt,
+dass
+es sich
+hier
+um die Bilder
+der
+alten
+Sterngruppen
+handelt.
+Bei
+welchen
+anderen
+Tieren
+können
+Augen
+inwendig
+und ringsum
+vorhanden
+sein?
+")
+Die
+nördliche
+Krone
+steigt
+bei ihrer
+täglichen
+Bewegung
+in den Breiten der
+Insel Patmos
+bis
+zum Zenit
+und
+sinkt
+dann wieder
+im nördlichen
+Teil
+des Horizontes.
+Um die ganze Poesie
+dieses
+merkwürdigen
+Kapitels
+zu
+verstehen,
+ist
+es
+not
+wendig,
+nicht
+nur
+die Verteilung
+der Sternbilder
+auf der scheinbaren
+Himmelskuppel,
+sondern
+auch deren tägliche
+Bewegung
+sich klar vorzustellen.
+Denjenigen,
+die es nicht
+wissen,
+geht
+die ganze
+Schönheit
+des
+hier
+beschriebenen Bildes
+beinahe
+ganz verloren.
+Diesen
+kann
+ich
+nur
+folgendes
+sagen:
+Der
+gesamte
+Sternhimmel
+wurde
+seit jeher
+in vierundzwanzig
+ﬂügelartige
+Streifen
+eingeteilt,
+die an den Himmelspolen
+zusammen
+laufen
+(Bild
+11),
+und
+die
+man
+Sternstunden
+oder
+die
+Stunden
+des
+geraden
+Auf
+stiegs der in ihnen
+beﬁndlichen
+Sterne
+nennt.
+In
+der
+nördlichen
+gemäßigten
+Zone
+der Erdkugel gehen die oberen Teile jeder
+Sternstunde
+(ungefähr
+bis
+zur Höhe
+der nördlichen
+Krone Bild
+12)
+niemals
+unter,
+hingegen
+die
+unteren
+Teile,
+gewisser
+massen die Kniee
+dieser Streifen,
+sinken bald unter
+den Horizont
+hinab,
+bald
+steigen
+sie
+über
+ihn
+empor.
+In
+dieser
+Weise
+erhebt
+sich
+jede
+Sternstunde
+auf
+ihren
+Knien
+im
+östlichen
+Teile
+des
+Horizontes
+und
+fällt
+wiederum
+am
+westlichen
+Teile
+auf
+sie
+nieder,
+als
+ob
+sie
+sich
+vor
+dem
+Zentrum
+der
+ganzen
+Bewegung,
+dem
+nördlichen
+Himmelspol,
+verneigte.
+Dieses hier
+beschriebene
+Bild
+der
+täglichen
+Umdrehung
+des
+Sternbimmels
+mit seinen
+24
+Greisen,
+den Stunden,
+die der Reihe
+nach
+sich
+vor
+der
+Ewigkeit — symbolisiert
+im
+unbeweglichen
+Himmelspole
+— verbeugeu,
+ist
+ungemein
+poetisch.
+V. Kapitel.
+Ein
+Lämmerwölklein
+ﬂiegt
+über
+den
+Himmel.
+Hymne auf
+das Sternbild
+des Widders.
+In
+der Hand
+dessen,
+der
+auf dem Throne
+sass, war
+eine Papyrus
+rolle
+l)
+-— der Streifen des Zodiakus
+—, die war innen und aussen
+herum
+mit
+Sternbildern
+beschrieben
+und
+auf
+der
+Rückseite
+mit
+sieben
+Siegeln
+(mit
+einzelnen
+haufenartigen Wolken?)
+versiegelt.
+Da
+‘
+erblickte
+ich
+einen
+gewaltigen
+Boten —
+das
+Meer”),
+das
+mit
+der
+mächtigen
+Stimme seiner Wellen
+rief:
+
+--- Page 61 ---
+35
+Wer ist würdig
+zu öffnen
+diese Papyrusrolle
+und
+seine Wolken
+siegel zu lösen?
+Und
+es war‘niemand,
+weder
+im Himmel,
+noch
+auf Erden,
+noch
+3
+unter
+der
+Erde,
+der
+diese
+Rolle
+zu
+öffnen
+vermochte
+oder
+sie durch
+die Wolken hindurch
+hätte
+einsehen
+können.
+Ich
+(der ich an
+diesem
+4
+Tage
+die
+Sonnenﬁnsternis
+erwartete)
+war
+sehr betrübt,
+dass
+es
+nie
+mand
+gab,
+der
+würdig
+gewesen
+wäre, dies
+zu
+tun.
+Aber
+einer
+vons
+den
+Greisen
+—
+eine
+der
+Stunden
+dieses
+Tages
+——
+sprach
+zu mir:
+Weine
+nicht!
+Siehe,
+das Sternbild
+des Löwen, (Bild
+18)
+aus
+dem
+Stamme
+des
+Bekenntnisses,
+die Wurzel der Liebe a)
+(der Vorläufer
+des
+Sternbildes der Jungfrau),
+hat die Wolken besiegt;
+es wird
+die Rolle
+des
+Zodiakus
+öffnen
+und
+die
+sieben
+Wolkensiegel
+von
+ihm
+nehmen.
+Bild
+18.
+Sternbild
+des Löwen,
+der hinter sich die Jungfrau
+führt.
+(Der Himmel
+begann,
+sich von
+der
+Seite
+des Sternbildes
+des Löwen
+her
+aufzuhellen.)
+Da
+erblickte
+ich
+—
+in
+einer
+Lämmerwolke,
+inmitten
+der s
+vier Tiere,
+des Thrones
+und
+der vierundzwanzig
+Greise — Stunden
+—— ein Lamm (Widder),
+das wie geschlachtet
+dastand, mit sieben Hörnern
+und sieben Augen — Oeffnungen
+in der Wolke —, welche
+die sieben
+Geister Gottes versinnbildlichten,
+die
+über
+die
+ganze
+Erde
+gesandt
+sind.
+Das
+L ä m m er w ö lk 1 e i n ‘)
+trat
+herzu
+und
+nahm
+die
+Rolle
+aus 7
+den Händen dessen,
+der auf dem Throne
+sass
+(es näherte
+sich den Stern
+bildern
+des Zodiakus).
+Die Tiere
+der
+v i e r J a h r e s z e i t e n
+und
+die 8
+vierundzwanzig
+Greise — Stunden — umwandelten
+5) den
+Hirn mel
+vor
+dem Sternbilde 6)
+des Lammes (Widders)
+mit Harfen
+und
+goldenen
+Schalen
+voll
+Räucherwerks
+—
+dampfenden
+kleinen
+Wolken
+in
+verschiedenen
+Teilen
+des Himmels —
+welche
+die
+Gebete
+der
+Heiligen
+darstellten,
+und
+sangen
+dem Widder
+ein
+neues Lied:
+
+--- Page 62 ---
+36
+9
+Ja, würdig bist du
+nur,
+das
+Buch
+aufzutun,
+Zu brechen
+die Siegel,
+zu lesen drin
+nun!
+Nur Kränkungen waren
+und Muttern dein Teil;
+Dein Blut
+hat erkauft
+uns
+das
+ewige Heil.
+Dafür
+singt
+im Lieds dir Dank
+und
+Preis
+In allen Zungen
+der Erdenkreis.
+10
+Zu Königen
+hast du
+uns Knechte
+gemacht,
+Geführt
+uns
+zum Lichte
+der Gottheit
+aus
+Nacht.
+Wo frei einst gewesen
+ist nur
+der Despot,
+Gehorcht jetzt ein jeder dem eignen
+Gebot.
+Dafür
+singt
+im Lieds
+dir Dank
+und Preis,
+In allen
+Zungen
+der
+Erdenkreis.
+Fiedlsn
+u
+Und ich sah umher und hörte die Stimmen von vielen Boten um
+das
+Sternbild
+des
+Thrones
+und
+die
+vier
+Tiere
+und
+die
+vierundzwanzig
+Greise,
+und
+ihre
+Zahl
+war
+tausendmal
+Tausend
+und.
+myriadenmal
+i? Myriaden,
+die
+sprachen
+mit lauter
+Stimme:
+Würdig ist
+das Lamm,
+das geschlachtet
+ist, zu
+empfangen
+Macht
+und Reichtum
+und. Weisheit
+und Kraft und Ehre
+und Preis
+und
+Ruhm!
+13
+Und
+alle Kreatur
+im Himmel
+und auf Erden
+und unter der Erde
+und auf dem Meere
+und alle Wesen im Meere
+hörte ich sagen:
+Dem,
+der auf dem Throne
+sitzt,
+und dem Lamme
+sei Preis
+und
+Ehre
+und Ruhm
+und Macht
+von Ewigkeit zu Ewigkeit.
+14
+Und
+die
+Tiere
+der vier Jahreszeiten
+sprachen:
+Amen.
+Und
+die
+vierundzwanzig
+Greise
+— Stunden
+—
+gingen")
+um
+den
+Himm elspol
+und verneigten sich vor dem, der da lebt in alle Ewigkeit.
+1) ßtßlioy,
+ein Streifen
+Papyrus.
+Auf
+solche
+Streifen
+wurde
+im
+Altertum
+ge
+schrieben;
+man wickelte
+sie
+in Rollen zusammen.
+Bücher
+gab
+es damals noch
+nicht.
+") dyyelos',
+der Bote,
+der Verkünder.
+Ich
+wiederhole
+noch
+einmal,
+dass
+im
+Griechischen
+dies ein gewöhnliches
+Wort.
+der Umgangssprache
+war,
+das in den alten
+Schriften
+keinesfalls
+mit „Engel“ übersetzt
+werden
+darf.
+’)
+Das hebräische
+Wort "\J1
+oder
+D’1D1(Dowid
+oder
+Dodim)
+heisst Liebe.
+Hier ist
+das
+ein Wortspiel über den hebräischen
+Sinn
+des
+Wortes.
+‘)
+or'pvlov bedeutet in der Meteorologie
+ein kleines Wölklein,
+das man noch jetzt
+volkstümlich
+Lämmerwölklein
+nennt.
+‘)
+e"neo'rw ist von ina;u,
+herumfahren,
+her-umgehen,
+kommen,
+erscheinen,
+aus
+in,riso'av
+verstümmelt.
+°) a'pyloy bedeutet
+in der Astronomie
+das
+Sternbild
+des Widders,
+in der Meteoro
+logie
+das
+Lämmerwölklein.
+Die
+Zusammenstellung
+des
+Sternbildes
+des
+Widders
+mit
+einem
+Lämmerwölklein
+ist ganz im Sinne
+der alten Symbolik,
+die in allem geheimnis
+volle
+Beziehungen
+auf Grund
+der Namensähnlichkeit
+suchte.
+Das Sternbild
+des Widder!
+begann
+nach
+den astronomischen
+Berechnungen
+aufzugeben.
+Der
+Verfasser
+bringt
+es
+mit
+dem
+aus
+dem
+gleichen
+Orte
+kommenden
+Lümmerwölklein
+in Zusammenhang.
+’)
+6’neaav,
+Vergangenheit
+(Imperfectum)
+von
+s”rm;u,
+verstümmelt
+aus
+e’ny'mar.
+
+--- Page 63 ---
+37
+VI. Kapitel.
+Die Lage
+der Planeten
+inmitten
+der Sternbilder
+des Zodialtus
+während
+des Gewitters
+am 30. September
+395.
+Und
+ich
+sah‘),
+wie
+der
+Widder
+das
+erste
+der
+sieben
+Siegel1
+öﬂ'nete,
+(d. h.
+es wurde
+augenscheinlich
+das Sternbild
+des Schützen von
+der Seite des Widders
+her von Wolken
+frei),
+und eines
+der vier Tiere
+sprach
+zu mir mit
+Donnerstimme :
+Komm
+und
+sich! ‚Ich
+machte
+mir die
+Lage
+der
+Sterne
+klar,
+und
+siehe
+da:
+an
+derselben
+Stelle befand
+sich
+(nach
+astr0
+nomischer
+Berechnung) ein
+glänzend
+weisses
+Rosa”)
+(der
+Jupiter),
+und
+der
+darauf sass
+(der Schütze)
+hatte einen Bogen, und
+es war
+ihm
+ein
+Kranz gegeben,
+und siegreich
+zog
+er
+aus, zu siegen (Bild
+19).
+Als
+der Widder
+das zweite Siegel
+ent
+fernte
+(d. h. als das Sternbild des Perseus von
+Wolken frei wurde), da sagte das zweite Tier:
+Bild
+19.
+Die
+Lage
+des Jupiter
+(‘21)
+am
+30. September 395 im
+Sternbild
+3
+des Schützen
+(die Sternbilder
+werden
+auf einer höheren Sphlre
+als die der
+Planeten
+vorausgesetzt).
+Komm
+und
+sich!
+Und
+es
+zog dahin,
+auf die
+andere
+Seite,
+ein4
+feuerrotes
+Boss
+(der
+Mars),
+und
+dem,
+der
+darauf
+sass (Perseus),
+war
+verliehen,
+den Frieden
+von
+der Erde
+zu
+nehmen,
+dass
+die
+Menschen
+einander
+töteten,
+und
+es war ihm ein grosses Schwert gegeben (Bild 20).
+Bild
+20.
+Der Mars
+am 30. September 395 in der Mitte
+des Widders,
+unter dem Schwert des Perseus.
+
+--- Page 64 ---
+38
+5
+Als
+aber
+der Widder
+das dritte
+Siegel
+öffnete
+(vom
+Sternbild
+der
+Wage),
+da
+sprach
+das dritte Tier:
+6
+Komm
+und
+sich!
+Ich
+schaute,
+und
+siehe
+da,
+auf
+derselben
+Stelle
+befand
+sich
+ein
+dunkles Boss
+(der
+in jenen
+Tagen
+unsichtbare
+Merkur‘),
+und
+der,
+der
+darauf
+sass
+(Bild 21), hatte eine Wage 5) in der Hand.
+Und ich hörte das Rauschen des Windes
+inmitten der 4 Tiere,
+der sprach
+(zu dem
+Planeten
+des
+Handels,
+dem Merkur):
+Eine Tagesportion für einen Denar 6)
+und
+für
+einen
+Denar
+drei tägliche Por
+_
+'
+tionen
+Gerste.
+Dem
+Oele
+aber
+und
+dem
+7
+,‘3,1‘1,f,{;gﬂfdßiäi,;f,jjel3313321323123;
+Weine
+schade
+nicht.
+Als
+der Widder
+(Lamm)
+das vierte Siegel
+öffnete,
+hörte
+ich
+die
+Stimme
+(des
+Donners)
+des
+vierten Tieres
+(des Sternbildes,
+des
+Pegasus),
+das sagte:
+3
+Komm
+und
+sich!
+Ich
+schaute
+empor
+(auf
+die
+von
+Wolken
+be
+freite neue Stelle
+des Zodiakalstreifens),
+und
+siehe da: hier befand
+sich
+ein
+fahles 8) Boss (der unheilverkündende Planet Saturn),
+und
+der darauf
+steigende,
+hiess der Tod“) (der Skorpion, Bild 22), und das Totenreich folgte
+ihm nach
+(der
+Schütze,
+der Steinbock,
+der
+Wassermann
+und
+die
+Be
+wohner
+der
+Meerestiefe,
+die Fische),
+und
+es war ihnen“)
+Macht gegeben
+über das
+von
+ihnen
+bedeckte
+südöstliche
+Viertel
+der Erde,
+um
+dort die Menschen
+durch Schwert, Hunger, Pest und wilde Tiere
+zu
+töten.
+9
+Als
+der
+Widder
+das
+fünfte
+Siegel
+öffnete, da sah ich (in den zerfetzten
+Wolken?)
+unter
+dem Altar (Bild
+23)
+die
+Seelen
+derer,
+die für
+die göttliche Lehre
+und
+für die Ver
+kündigung
+der
+Wahrheit
+hingeschlachtet
+waren.
+Die
+schrieen
+mit
+lauter
+Stimme
+(wahrschemlrch
+heulte
+ein klagender W1nd-
+B„„„„_ S„„m(,l,nehen
+den K„„g„,
+'
+des Skorpion
+in seiner Koplbrust
+am
+813038).
+30. September
+395.
+10
+Wie
+lange,
+du
+unser
+heiliger
+und
+ge
+rechter
+Herr,
+richtest
+du
+nicht
+und
+rächest
+unser Blut an
+denen,
+die
+n auf
+der
+Erde
+wohnen?
+Und
+es
+war
+jeder
+von
+ihnen
+ein
+weisses
+Wolkengewand
+verliehen
+und
+es war ihnen
+gesagt,
+dass
+sie
+sich
+noch
+eine
+kleine
+Weile
+gedulden
+sollten,
+bis die
+Zahl
+ihrer
+Brüder
+und
+Mitarbeiter,
+die
+auch,
+wie
+sie,
+getötet
+werden
+sollten,
+voll
+sein
+werde.
+
+--- Page 65 ---
+39
+Als
+aber
+der
+Widder
+das
+sechste
+Siegel
+öffnete,
+ertönte
+das
+12
+erste
+Krachen
+des
+Erdbebens“),
+und
+die
+Sonne
+(verdunkelt
+durch
+eine Gewitterwolke) wurde ﬁnster,
+wie ein schwarzer härener Sack 12), und
+der Mond
+wurde
+wie
+ein
+Blutﬂeck
+(infolge
+der
+von
+Johannes
+er-
+13
+warteten
+Finsternis
+am
+30.
+September
+395)“),
+und
+die
+Sterne
+—— so
+schien
+es —
+ﬁelen
+auf
+die Erde,
+wie
+ein Feigenbaum
+seine unreifen
+Früchte
+abwirft,
+wenn
+er vom
+starken Winde
+geschüttelt wird.
+Ein Teil
+des Himmelsgewölbes
+löste
+sich
+los “)
+und
+wickelte
+14
+sich wie eine Rolle in Gestalt
+einer Gewitterwolke
+zusammen,
+und jeder Berg
+und
+die Insel
+selbst
+wurden
+von
+ihrer
+Stätte gerückt.
+Bild
+23.
+Slemblld
+des Altars
+am südlichen
+Horizont
+der Insel Patmos.
+Da verbargen
+sich
+die Könige
+der Erde,
+die Herrscher und Heer-
+15
+führer,
+die Reichen und Mächtigen,
+die Freien
+und
+die Sklaven
+in
+die
+Höhlen
+und
+unter
+die Felsen
+der
+Berge und sprachen
+zu den
+Bergen
+und Felsen:
+Fallet auf uns
+und
+bedeckt
+uns
+vor
+dem Antlitz
+dessen,
+der auf 16
+dem Throne
+sitzt,
+und
+vor dem Zorn
+des Lammes,
+denn
+der grosse Tag
+17
+seines
+Zornes
+1"’)
+ist
+gekommen,
+und wer kann
+bestehen?
+1)
+i’Jov ich sah, bemerkte,
+dachte nach,
+überlegte.
+")
+1ewm’;‚
+glänzendweiss,
+leuchtend;
+das
+lateinische
+lux,
+das Licht,
+und
+lucidus,
+leuchtend,
+sind
+hiernit
+verwandt.
+Dass
+es sich hier um den Jupiter handelt,
+daran kann
+kein Zweifel
+sein, weil
+das
+andere glänzendweisse
+Rosa, die Venus,
+nicht
+im Sternbilde
+des Schützen
+sein kann,
+wenn
+die Sonne,
+wie
+dies im Kap.
+12,
+1
+angegeben ist, sich
+im Sternbilde
+der Jungfrau
+beﬁndet.
+Ausserdem
+wird
+hier
+der Jupiter
+mit
+seinem
+Beinamen
+„der Siegreiche“
+gekennzeichnet.
+
+--- Page 66 ---
+40
+") xni
+(”5511.9evd'llo;
+(verstümmelt
+aus
+dünn)
+inne;
+7lv@(io';‚
+d. h.
+„und
+es
+zog dorthin,
+auf
+die
+andere Seite,
+ein feuerrotes
+Boss.“
+Hier
+handelt
+es sich offenbar um den Planeten Mars,
+weil
+nur
+er von feurig-roter
+Farbe
+ist
+(nvgiöo'g).
+Das Wort
+e’5ﬁläev
+ist nur
+in bezug
+auf
+dieses
+Ross
+gebraucht
+und
+zeigt,
+dass nur
+der Mars zur Zeit
+der Beobachtung
+des
+Johannes
+gegenüber
+allen
+anderen
+Planeten
+auf
+der andern
+Seite
+des
+Himmels
+unter
+dem Horizonte
+stand.
+Desgleichen
+ist 52.10;
+nur
+in bezug auf den Mars gebraucht.
+Daraus schliesse ich,
+dass
+es
+das nicht
+zu Ende
+geschriebene
+(17.1065 ist.
+‘)
+i’7mog‘ ,uü.a;,
+dunkles
+Boss.
+Dass
+es
+sich
+hier
+um
+den Merkur handelt,
+der
+am Sternbild
+der Wage
+vorbeiging,
+unterliegt
+keinem
+Zweifel.
+Er ist der
+von
+allen
+den Alten bekannten
+Planeten
+am
+schwächsten
+leuchtende,
+der
+im vollen
+Sinne
+des
+Wortes
+unsichtbare
+Planet.
+Viele
+Astronomen
+haben
+ihn
+niemals
+mit
+blossem Auge
+gesehen.
+Deswegen
+hielt
+ihn Johannes
+für dunkel,
+ähnlich
+dem Mond zur Zeit
+seiner
+Unsichtbarkeit.
+Ausserdem
+ist er in der
+nächsten
+Zeile
+ganz
+deutlich
+nach
+seinen
+astrologischen
+Eigenschaften
+gekennzeichnet:
+Merkur
+war
+der Planet des Handels.
+‘)
+Cvyo'g,
+Wagebalken:
+das
+Sternbild
+der Wage.
+“) Deuar,
+eine römische
+Münze,
+etwa
+30
+Pfennig.
+Eine
+tägliche
+Portion Brot
+hiess
+10i'mä.
+’) Nachklang
+einer Missernte
+in bezug auf Getreide,
+da der hier angegebene Preis
+für Brot und
+Gerste für die
+damalige
+Zeit
+sehr
+hoch
+ist.
+Oliven
+und
+Reben
+ver
+sprachen
+in jenem Jahre
+eine gute Ernte.
+l‘)
+IÄwgo'g',
+totenbleich,
+blass-grünlich.
+Bei allen
+alten
+Gelehrten wird der Saturn
+durch
+diese Farbe
+charakterisiert.
+°)
+Hier
+ist statt:
+xm9:}ywog
+in'uvroü,
+wie
+es in bezug
+auf
+die andern
+Planeten
+hiess, geschrieben:
+1u9q'y‚sv0;
+e‘mz'vw
+mitoö,
+d.
+h. „der
+sich
+darauf
+setzte“,
+weil
+das
+Sternbild
+des
+Skorpions,
+das
+Symbol
+des Todes
+in der
+Astrologie,
+gewissermassen
+auf den Saturn
+hinaufkroch
+(Bild
+22).
+1°)
+av’roig,
+„ihnen“,
+nicht
+„ihm“,
+wie man
+es gewöhnlich
+übersetzt.
+n)
+o'ue'po‘g
+,uiyac
+Zys’vro:
+das
+Wort
+0’sm’yo';
+heisst
+buchstäblich:
+Erbeben,
+Erschütterung.
+Es wurde
+auch zum Andeuten
+eines
+plötzlichen
+Windstosses
+gebraucht.
+Daher
+das
+Wort
+duo'yozriag,
+Sturm,
+Regen, Wirbelwind.
+In bezug
+aber auf die Erde
+heisst
+o'uo’yo';
+Erdbeben
+(auquo‘;
+n];-
+yic).
+Bei
+Johannes
+werden
+wir
+noch
+drei
+solchen
+Stössen
+des Erdbebens
+auf Patmos
+begegnen.
+")
+Grimm;
+IQÄZLVOQ', hüener
+Sack.
+13)
+Diese
+Finsternis,
+die nach
+der Zeit
+auf Patmos
+vor Sonnenuntergang
+begann,
+dauerte bis dicht
+an
+die Mitternacht
+daselbst.
+Sie
+war
+ringförmig,
+d.
+h.
+der Mond
+stand
+vor
+der
+Sonne
+in
+Form
+eines
+Fleckes.
+Die
+Finsternis
+ging
+durch
+den Stillen
+Ozean,
+Südamerika
+und
+den
+südlichen
+Teil
+des
+Atlantischen
+Ozeans.
+Aus
+den
+oben
+angeführten
+Zeilen
+geht
+unzweifelhaft
+hervor,
+dass
+der
+Verfasser
+diese
+Finsternis
+nach dem
+damals
+gebräuchlichen
+Saros’scheu
+Zyklus
+berechnet
+hat.
+Aber
+es fehlte
+ihm
+die Möglichkeit,
+die Zeit
+der Finsternis
+und
+die Stelle,
+von
+wo
+sie sichtbar
+sein
+würde,
+genau anzugeben.
+Als
+daher
+die Gewitterwolke
+an
+diesem Abend
+die Sonne
+bedeckt hatte und
+die bei Gewittern
+übliche
+Dunkelheit
+eintrat,
+meinte
+er,
+dass
+oben
+über den Wolken
+die
+erwartete
+Finsternis
+bereits
+begonnen
+habe, und
+beschrieb
+sie
+nach der früher
+von
+ihm
+gesehenen
+Finsternis
+vom
+20.
+November
+393,
+die
+durch
+Konstantinopel
+und Kleinasien
+ging.
+“)
+rr'n51wgle'9q
+von
+a’7101wgiCw,
+ich
+trenne
+ab, löse los.
+‘°)
+Wir
+haben
+schon
+gesehen,
+dass
+in
+dem Perseus,
+d.
+h
+in dem Widder,
+zu
+jener
+Zeit
+sich
+der Planet
+des Zornes,
+Mars,
+befand.
+
+--- Page 67 ---
+41
+VII. Kapitel.
+Die Totenstille
+vor
+dem herannahenden
+Gewitter
+nach
+den
+ersten
+scharfen
+und
+kurzen
+Windstössen.
+Darauf
+sah
+ich (in
+den
+neuen
+Wolken
+am Horizont?)
+vier Engel!
+(die altgriechischen
+Aeolen)
+an
+den
+vier
+Ecken
+der Erde
+stehen;
+die
+hielten
+die vier Winde zurück,
+dass
+sie
+nicht
+über
+die Erde,
+das Meer und. die Bäume bliesen.
+Und
+ich
+sah,
+wie
+ein
+Bote
+von
+ganz
+anderer
+Art
+(das Sternbild
+des Pegasus,
+Bild 24) von Sonnenaufgang
+her
+emporstiegl‘)
+Er
+trug
+das
+Zeichen
+des lebendigen
+Gottes
+und rief mit lauter Stimme (dem
+unterirdischen
+Getöse
+des Erd
+bebens)
+den
+vier
+Engeln
+zu,
+denen
+die Macht
+gegeben
+war,
+der
+Erde
+und
+dem
+Meer
+zu
+schaden:
+Schädigt
+weder
+die
+3
+Erde noch
+das Meer noch die Bäume,
+bevor wir dieWolkensiegel an die
+Knechte
+unseres Gottes gelegt
+haben — an die Himmelslichter.
+-—
+Und
+ich hörte die Zahl der Versiegelten.
+Es waren ihrer
+144 Tausend 4
+aus
+allen zwölf
+Häusern
+der Kinder
+des Gotteskämpfers 2):
+Bild
+24-
+Sternbild
+des Pegasus,
+nach Flemstid.
+(V. 5.) Aus dem Hause
+des
+Glaubens
+Sternbild
+des
+Schützen
+.
+12000
+„
+„
+„
+der Vorsehung
+„
+„
+Widders
+.
+.
+12000
+„
+„
+„
+des Erfolges
+„
+„
+Stieres
+.
+.
+12000
+(V. 6.)
+„
+„
+„
+des
+Wohlergehens
+„
+„
+Wassermannes
+12000
+„
+„
+„
+des
+Kampfes
+„
+der
+Fische
+.
+.
+.
+12000
+„
+„
+„
+der Gerechtigkeit
+„
+„
+Wage
+.
+.
+12000
+(V. 7.)
+„
+„
+„
+des
+Gehorsams
+„
+„
+Jungfrau
+.
+.
+12000
+„
+„
+„
+der Vereinigung
+„
+„
+Zwillinge .
+.
+12000
+„
+„
+„
+der Vergeltung
+„
+des
+Steinbockes
+.
+12000
+(V. 8.)
+„
+„
+„
+der Festigkeit
+„
+„
+Krebsen
+.
+.
+12000
+„
+„
+„
+des
+Zuwachses
+„
+„
+Löwen
+.
+.
+.
+12000
+„
+„
+„
+des
+Todes
+„
+„
+Skorpions
+.
+12000“)
+Hierauf
+schaute
+ich
+in
+Gedanken
+auf
+zum
+Himmel.
+Dort:
+befanden
+sich
+(in
+der Form
+von Sternen)
+grosse
+Mengen‘),
+die niemand
+zählen konnte,
+aus allen Nationen,
+Stämmen,
+Völkern
+und
+Sprachen.
+
+--- Page 68 ---
+42
+Sie
+standen
+vor
+dem Sternbild
+des
+Thrones
+und
+des
+\Vidders,
+in
+hellen
+Gewändern
+mit
+Palmzweigen
+(aus
+Federwolken‘?)
+in
+den
+10 Händen.
+Und
+sie
+riefen
+mit lauter Stimme (des Windes ?): Heil unserem
+11 Gott,
+der
+auf dem Throne
+sitzt,
+und
+dem Widder!
+Und alle Boten des
+herankommenden Gewitters
+standen
+rings
+um
+den Thron,
+die
+Greise —
+die
+Stunden
+—
+und
+die
+vier Tiere,
+und
+ﬁelen
+vor
+ihm
+auf ihr
+Angesicht
+nieder,
+neigten
+sich
+vor
+Gott
+(die
+Gewitterwolke
+bog
+sich mit ihrem
+vorderen
+Rand
+nach
+unten)
+und
+sprachen:
+Amen!
+12 Lob
+und Weisheit
+und Macht,
+Dankbarkeit,
+Ehre
+und Kraft sei unserem
+13 Gott
+in
+alle
+Ewigkeit.
+Amen.
+Und
+einer
+von
+den
+Greisen
+—
+den
+Stunden
+dieses Tages
+—— wandte
+sich
+zu
+mir
+und
+fragte
+mich:
+Wer
+sind
+diese Wesen in hellen Gewändern,
+woher kommen
+sie?
+Ich
+14 antwortete:
+Du
+musst
+es
+besser
+wissen
+als ich.
+Da
+sprach
+er zu mir:
+Das
+sind
+diejenigen,
+die
+da
+kommen
+aus
+grosser
+Trübsal.
+Sie haben
+ihre Gewänder
+im Blute
+des Lammes
+gewaschen
+und dadurch hell
+ge
+15 macht.
+Darum
+beﬁnden
+sie
+sich jetzt vor
+dem Throne Gottes
+und
+preisen
+ihn Tag
+und
+Nacht in
+seinem
+Hause, und der
+auf dem Throne
+16 sitzt,
+wird
+über
+ihnen
+sein
+himmelblaues
+Zelt
+errichten.
+Sie
+17 werden
+nicht
+mehr
+hungern
+und
+dürsten.
+Weder
+die Sonne
+noch
+die
+Hitze
+wird
+sie
+quälen.
+Der Widder in
+der Mitte
+des
+Himmelsthrones
+wird
+sie
+weiden;
+er
+wird
+sie
+zu
+den Wassern
+des Lebens führen
+(zu
+dem Untergangsbade
+im
+Ozeanﬂusse),
+und
+Gott
+wird
+alle Tränen
+von
+ihren Augen
+abwischen.
+’) Der Pegasus
+ging
+an diesem Tage
+am Horizont
+von Patmos
+nach Mittag auf.
+') Israel
+ist der hebräische
+Ausdruck
+für Gotteskämpfer.
+Ich halte
+es für not
+wendig,
+hier
+den Sinn aller
+Eigennamen
+zu übersetzen,
+weil
+der Verfasser
+sie
+ständig
+als Epitheta
+ornantia,
+d.
+h.
+zur
+Kennzeichnung
+der Eigenschaften
+der
+von
+ihm
+be
+zeichneten
+Personen
+oder
+Gegenstände
+gebraucht.
+Ferner
+wird im Kapitel
+14 Vers 1
+deutlich
+von Johannes
+selbst darauf
+hingewiesen,
+dass
+er die Anzahl aller
+Sterne
+zu
+144
+Tausend
+rechnet,
+d.
+b.
+100
+Sterne
+auf
+jede
+Minute
+des
+geraden
+Aufganges
+des
+sichtbaren
+Himmels.
+Nach
+der Lehre
+des Origenes
+waren
+es die in lichte
+Gewänder
+gehüllten
+Seelen
+der
+verstorbenen
+Heiligen.
+‘)
+Schon seit sehr alter Zeit wurden bei den astrologischen
+Horoskopen,
+unabhängig
+von
+den Sternbildern
+des Zodiakus,
+noch
+weitere
+zwölf keilförmige
+Streifen
+eingeführt,
+die den Himmel in zwölf gleiche Teile teilten,
+und
+von
+denen jeder
+zwei
+Stunden
+des
+geraden
+Aufganges
+enthielt.
+Diese Streifen
+hiessen
+Häuser.
+Die Namen
+dieser „astro
+logischen
+Häuser“
+stammen
+von
+den Namen
+der
+ihnen
+im Altertum entsprechenden
+Namen
+der Sternbilder
+des
+Zodiakus,
+aber
+ihre
+astrologische
+Bedeutung
+stimmte nicht
+immer
+mit
+dem Sinne
+überein,
+den
+die Namen
+der
+Sternbilder
+ursprünglich
+hatten.
+In
+der
+zweiten Kolonne
+der
+hier
+beigefügten
+Tabelle
+führe
+ich
+diese astrologiscben
+Häuser
+parallel
+mit
+den entsprechenden
+Namen
+der Zeichen des Zodiakus
+(in der ersten
+Kolonne)
+und
+den Sinn
+der
+hebräischen
+Namen
+der
+Kinder
+Israels
+—
+des
+Gottes
+kiimpfers,
+an
+(in
+der dritten
+Kolonne).
+
+--- Page 69 ---
+43
+I.
+II.
+III.
+Der Widder
+.
+.
+.
+Das Haus
+der Vorsicht
+Das Haus
+der Vorsehung
+(Raben).
+„
+Stier
+.
+.
+.
+.
+„
+„
+des Erfolges
+und
+„
+_.,
+des Erfolges
+(Gad).
+Reichtums
+Die Zwillinge
+.
+.
+„
+„
+derBruderschaft
+„
+„
+der Vereinigung
+(Levi).
+Der Krebs
+.
+.
+.
+„
+„
+der
+verwandt-
+„
+„
+der
+Festigkeit
+(Schulen).
+schaftl.Baude
+„
+Löwe
+.
+„
+„
+der
+Neugebore-
+‚.
+„
+des
+Zuwachses
+(Joseph).
+neu
+Die Jungfrau.
+.
+.
+„
+„
+der Bereitwillig«
+„
+„
+des
+Gehorsams
+(Simeou).
+keit
+„
+Wage
+.
+.
+.
+.
+„
+„
+des
+Gerichtes
+u.
+‚.
+„
+der
+Gerechtigkeit
+(Den,
+der Ehe
+Maussse).
+Der
+Skorpion
+.
+.
+„
+„
+des
+Todes
+„
+„
+des
+Sohnes
+des
+Todes
+‘
+(Benjamin).
+„
+Schütze
+.
+„
+des
+Glaubens
+des
+Glaubens
+(Juda).
+derVergeltung (Issaschar),
+des
+Wohlergeheus
+(Asser).
+des
+Kampfes
+(Naphtali).
+Vergleichen
+wir den Sinn
+der hebräischen
+Benennungen
+der zwölf
+Häuser
+oder
+Stämme
+Israels
+—
+des
+Gotteskiimpfers
+— in
+der dritten
+Kolonne mit
+dem Sinn
+der
+zwölf
+astrologischeu
+Häuser
+in
+der
+zweiten Kolonne
+oder
+mit
+dem Sinne
+der Stern
+bilder
+des Zodiakus,
+so
+können
+wir nicht
+verkennen,
+dass
+die Urheber
+der Legende
+von
+den Kindern
+Israels
+—
+des
+Gotteskämpfers
+-— jedem
+von
+ihnen
+den Namen
+des
+jenigen
+astrologischen
+Hauses gegeben haben, unter welchem es der Voraussetzung
+nach
+geboren
+war.
+Johannes Chrysostomus
+stammte
+aus
+Antiochieu
+in
+Syrien
+und
+kannte
+daher
+die
+hebräische
+Sprache
+und
+diesen astrologischeu
+Zusammenhang
+der Namen.
+Deswegen
+gab er hier Israel — dem Gotteskiimpfer
+— den Sinn
+des gestirnten
+Himmels,
+seinen zwölf
+Stämmen
+den Sinn
+der astrologischen
+Häuser.
+Die Reihenfolge
+ihrer Auf
+zählung
+ist hier
+wahrscheinlich
+durch
+die Reihenfolge
+bedingt,
+in welcher
+sie
+von
+den
+Wolken verhüllt
+wurden.
+‘)
+ö‚ylog ein Haufen,
+gerade
+so
+in bezug auf Menschen
+wie
+in bezug auf Wellen,
+Sterne
+oder
+andere
+Gegenstände.
+5) uxerw'au
+von
+0'zevo'w ich baue
+ein Zelt,
+verhülle
+mit einem Zelt.
+Hier handelt
+es sich um
+das
+blaue Zelt
+des
+Himmels,
+das
+die Sterne
+verhüllt.
+„
+Steinbock
+.
+.
+„
+„
+der
+Vergeltung
+„
+Wassermann
+„
+„
+derFreuudschaft
+Die
+Fische
+.
+„
+„ der Feindseligkeit
+3:s:s:r
+11333
+vm. Kapitel.
+Die ersten Regengüsse
+des Gewitters
+mit Donner
+und
+Blitzen.
+Als
+der Widder
+(Lamm)
+das
+siebente Wolk ensiegel
+öffnete,
+1
+da trat
+im Himmel
+eine Stille
+ein,
+die
+dauerte
+ungefähr
+eine
+halbe
+Stunde
+lang.
+Und
+ich
+sah
+sieben neue Boten
+des
+Gewitters,
+die von
+Gott
+standen
+mit
+sieben
+Posaunen
+in
+den Händen.
+Und
+ein auderers
+Bote
+(das Sternbild
+des Schlangenträgers?)
+kam
+hinzu
+und blieb über
+
+--- Page 70 ---
+44
+dem
+Sternbilde
+des
+Altars
+(Bild
+23)‘)
+am südöstlichen
+Teil des
+Horizontes
+stehen
+mit
+einer
+goldenen
+Rauchpfanne
+in
+Form
+einer
+Gewitterwolke
+in
+der Hand.
+Und
+es wurde ihm viel wohlriechendes
+Räucherwerk
+(von weissen
+flockigen Wolken)
+gegeben,
+um
+es
+4 auf den
+goldenen
+Altar
+vor
+dem Throne
+zu legen.
+Da stieg der Rauch
+der Wohlgerüche
+der
+Gebete
+der
+Heiligen
+aus
+der
+Hand
+des
+Boten
+5vor
+dem Antlitz
+Gottes auf,
+und
+der
+Bote
+nahm
+seine
+Rauchpfanne,
+die Wolke,
+füllte
+sie
+mit
+dem
+Feuer
+vom
+Sternbilde
+des
+Altars
+und warf
+es auf die Erde.
+Da
+entstanden
+Blitze,
+Donner
+und.
+Getöse
+und
+der zweite
+Stoss
+des Erdbebens.
+6
+Und
+die
+sieben
+Boten des Sturmes
+mit
+den
+Posaunen
+machten
+sich
+fertig
+zum
+Blasen.
+7
+Der
+erste
+Engel
+stiess
+in
+die Posaune.
+Da
+entstand
+Hagel
+und
+Feuer
+mit Blut
+gemischt
+(ein
+blutroter Blitz
+ﬂammte
+auf).
+Die
+ﬁelen
+zur Erde,
+und
+der
+dritte Teil
+der Bäume
+und
+alles
+grüne
+Gras
+ver
+brannte
+(wurde
+vom
+blutroten
+Schein dieses
+Blitzes
+beleuchtet)
+’).
+s
+Nun
+stiess
+der
+zweite Bote
+in
+die
+Posaune,
+und
+etwas
+wie
+ein
+grosser
+feuriger Berg (ähnlich
+dem Aufleuchten
+des Blitzes
+hinter
+dem
+9
+Regen)
+ﬁel
+ins Meer.
+Und
+der
+dritte Teil
+des Meeres
+wurde zu Blut
+(vom Schein dieses Blitzes), und der
+dritte Teil der Geschöpfe
+im Wasser
+und
+der
+dritte Teil
+der
+Schiffe wurde, wie es schien,
+beschädigt.
+10
+Und
+der
+dritte Bote
+stiess
+in die Posaune.
+Da
+ﬁel
+ein
+grosses
+Blitzlicht
+vom
+Himmel,
+das wie
+eine Fackel
+brannte;
+es
+ﬁel
+auf
+n den dritten Teil der Flüsse und auf die \Vasserquellen der Erde.
+Wermuth
+ist
+sein Name,
+und der
+dritte Teil
+des Flusswassers
+der Insel
+wurde
+(durch das
+vom
+Sturm hinausgtriebene
+Meerwasser)
+s)
+zu Wermuth,
+und
+viele Menschen
+starben
+vom
+bitter
+gewordenen
+Wasser.
+12
+Der
+vierte
+Bote
+stiess
+in
+die
+Posaune.
+Da
+wurde
+(durch
+die
+hinter
+den
+Wolken
+vermutete
+Sonnenﬁnsternis)
+der
+dritte
+Teil
+der
+Sonne
+und
+der
+dritte
+Teil
+des
+Mondes
+verdeckt,
+und
+es
+verschwand
+ein Drittel der
+Sterne,
+und
+der
+Tag
+verlor
+ein Drittel seiner Helligkeit
+13 und
+wurde
+der
+Nacht
+gleich
+‘).
+Ich
+schaute
+auf
+und
+hörte
+einen
+Adler5),
+der
+mitten
+über
+den
+Himmel
+ﬂog
+und
+dort
+mit
+gewaltiger
+Stimme rief:
+Hai,
+uai, uai!
+d.
+h.
+weh,
+weh,
+weh den Bewohnern
+der
+Erde
+wegen
+der drei Boten,
+die
+nachher
+die Posaunen blasen
+werden!
+l)
+.9vmmrrq'gwv
+heisst
+in
+der
+Astronomie
+und
+Astrologie
+das
+Sternbild
+des
+Altares.
+Von
+ihm steigt
+der helle
+Streifen
+der Milchstrasse,
+wie
+ein
+Opferrsuch,
+in
+die Höhe.
+’)
+Die Blitze haben bei
+Gewittern
+oft
+einen
+rötlichen,
+beinahe
+blutroten
+oder
+bläulichen
+Schein.
+Ersteres
+beobachtete ich am häuﬁgsten bei Abendgewittern,
+letzteres
+bei Nachtgewittern.
+
+--- Page 71 ---
+‚2.3:..5m
+E:n
+„E
+:2so
+95
+EuM
+3..
+2.
+au
+8:»:
+=«=«äN
+..2„
+ES:EB
+250m
+2v
+2.22.»
+=„..::„.
+.
+=n=.::w
+‚.2.
+==»
+Q
+23:59::7.
+.mu
+25
+
+--- Page 72 ---
+46
+3) Jeder
+starke Wind
+treibt
+das
+bitter-salzige
+Meerwasser
+in die Mündungen
+der
+Flüsse
+und verdrängt
+das Süsswasser
+nicht
+selten auf ganz bedeutende Entfernungen
+von
+der Mündung.
+‘) Oﬂ‘enbar sind
+viele
+Stellen
+dieses Kapitels in ihrem Stil durch die Abschreiber
+entstellt
+worden.
+In
+einer
+der
+auf uns
+gekommenen
+Kopien
+steht
+hier
+xai
+r} m'5
+o';soiw;
+— und
+die Nacht
+desgleichen.
+Ich
+übersetzte
+hier,
+wie
+auch
+den
+Ausdruck
+im vorherigen
+Verse,
+nach
+dem
+logischen
+Zusammenhang
+der
+Stelle.
+Es
+ist
+nicht
+schwer,
+zu ersehen,
+dass
+der
+Verfasser
+hier
+auf
+die
+von
+ihm
+zu dieser Zeit hinter
+den Wolken vermutete Sonnenfinsternis
+anspielt,
+wobei
+die Sonne und der Mond gegen
+seitig
+ein Drittel
+vom
+anderen
+bedecken;
+aber
+auch vom
+Sternhimmel
+war
+zu dieser
+Zeit
+ein Drittel durch
+die Gewitterwolken
+verhüllt.
+") In den alten Texten
+steht hier
+u’rroü (des Adlers) gerade so wie der Ruf: Uni!
+Er gehört
+offenbar
+einem Vogel und
+ist der
+griechische
+Ausdruck
+für
+weh!
+IX. Kapitel.
+Das Bild
+des vom Gewitter
+aufgewühlten
+Meeres.
+l
+Der
+fünfte
+Bote blies in
+die Posaune,
+und
+ich sah
+abermals
+eine
+2 Gewitterfackel
+vom Himmel
+auf die Erde fallen. Er besass den Schlüssel
+zur Quelle des Meeresgrundes,
+und der Meeresgrund
+wurde aufgeschlossen
+und
+ﬁng
+an
+zu rauchen
+vom
+Wasserstaub
+und
+den
+Spritz
+wellen,
+wie Rauch von einem gewaltigen Ofen.
+Da wurden das Tages
+31icht‘)
+und
+die Luft
+verﬁnstert
+von
+diesem
+Rauch,
+und
+es
+kamen
+aus
+ihm heraus
+und
+gingen
+aus Ufer
+Heuschrecken
+— Meereswellen”).
+Denen
+wurde
+auf
+dem Meere
+dieselbe
+Macht
+gegeben,
+welche
+die
+Skorpione
+auf
+dem
+Lande
+haben.
+(Die
+Wellen
+jagten
+vom
+Sternbild
+4des
+Skorpions
+her.
+Bild
+26).
+Den Wellen
+aber
+wurde
+anbefohlen,
+weder das Gras, noch
+die Bäume,
+noch irgend ein Grün auf dem Ufer
+zu
+beschädigen
+(weil
+sie fern
+von
+der Brandung wuchsen),
+sondern
+nur die
+jenigen,
+welche
+(wie die
+Kieselsteine)
+kein Siegel
+der Gottheit
+an
+sich
+hatten.
+Und
+es
+wurde
+ihnen
+die Macht verliehen,
+sie nicht
+zu
+töten,
+sondern
+während der bevorstehenden
+fünf stürmischen
+Monate
+(Oktober,
+November,
+Dezember,
+Januar,
+Februar)
+3)
+nur
+zu
+peinigen.
+Ihre
+Pein
+ist wie
+die Qual von einem Skorpion,
+wenn
+er einen Menschen
+6 mit dem Stich seines Schwanz es verwundet. In jenen Tagen werden
+die
+Menschen
+(auf dem Meere?)
+den Tod
+suchen,
+aber
+ihn nicht
+ﬁnden,
+sie
+werden
+sich
+sehnen,
+zu
+sterben,
+aber
+der
+Tod
+wird
+vor
+ihnen
+7 ﬂiehen.
+Ihrem
+Aussehen
+nach
+gleichen
+diese
+Heuschrecken -
+die
+Meereswellen
+—
+zum
+Kriege
+gerüsteten
+Bossen.
+Ihre
+Köpfe
+sind
+mit Wellenkämmen,
+wie mit Kränzen
+von
+Gold,
+geschmückt,
+und
+sihre
+Antlitze
+sind
+wie
+Menschenantlitzs.
+Ihre
+Mähnen — Schaum
+
+--- Page 73 ---
+47
+wellen
+—
+breiten
+sich
+aus
+wie
+Weiberhaare,
+und
+ihre
+Zähne
+sind
+kräftig
+wie
+Löwenzähne.
+Sie
+tragen
+Panzer
+wie
+aus
+Stahl
+(der 9
+metallische
+Widerschein
+der
+Wellen
+unter
+den
+Gewitterwolken),
+und
+das
+Rauschen
+ihrer
+Flügel
+ist
+wie
+das
+Rasseln
+der
+Wagen
+und
+der
+Bosse,
+die in die Schlacht
+rennen.
+Ihre
+Schwänze
+‚— Sturzwellen
+10
+— waren
+wie
+die
+Schwänze
+von
+Skorpionen
+mit
+Stacheln auf
+den
+Wellenrücken.
+In den fünf Wintermonaten
+war ihnen
+die Macht
+11
+verliehen,
+den Menschen
+Leid
+zuzufügen.
+Und
+es
+herrschte
+über
+sie
+(lenkte sie vom Horizont
+zum Ufer)
+der Geist des Meeresgrundes
+— das
+Sternbild
+des Skorpions
+—,
+der
+auf
+hebräisch
+der
+Zerstörer‘),
+Bild
+26.
+Sternbild
+des Skorpions
+und des Altars
+am Horizont
+zu Patmos
+am 30. September 395.
+auf griechisch
+der Vertilger
+heisst.
+Dies Wehe ist
+vorüber,
+aber
+zwei 12
+neue Wehe folgen nach.
+Der
+sechste
+Gewitterbote
+stiess
+in
+die
+Posaune.
+Da
+vernahm
+13
+ich
+eine
+Stimme
+aus
+den vier Hörnern
+des
+goldenen Altars
+(Bild 25
+und
+27),
+der vor Gott steht;
+die
+sprach
+zum
+rechten
+Engel
+mit
+der
+14
+Posaune:
+‘
+Lass
+die vier Boten los (alle vier Winde
+des Gewitters)“),
+die
+ge
+bunden
+sind im Osten
+über
+dem
+grossen
+Strome Euphrat.
+Und
+die
+vier Boten wurden
+losgelassen,
+die
+schon
+bereit
+standen
+l5
+auf jene Stunde,
+Tag, Monat
+und Jahr,
+den dritten Teil
+der Menschen
+zu
+vernichten.
+Und
+die
+Zahl
+der
+Reiterscharen
+—
+der Wasserwälle
+—1e
+war
+zweihundert
+Millionen;
+ich
+hörte
+ihre
+Zahl.
+Da
+erblickte
+ich 11‘
+
+--- Page 74 ---
+48
+(in
+den Wellen,
+die
+plötzlich
+von den durch
+die
+Wolken
+brechenden
+Sonnenstrahlen zu glitzern
+anﬁngen)
+Bosse
+und Reiter
+in
+feurigen lila
+und
+schwefelgelben
+Licht-Panzern“).
+Die
+Köpfe
+der
+Bosse
+glichen
+Löwenköpfen,
+und
+aus ihren Mäulern
+ging Feuer der reflektierten
+Sonnenstrahlen,
+Rauch
+des Wasserstaubes
+und
+Schwefel —
+das
+mit
+aufgewühltem
+Sande
+vermischte
+gelbe Wasser.
+18 Durch
+sie,
+so schien
+es mir,
+kam
+der
+dritte Teil
+der Menschen
+um,
+19 denn
+die
+Kraft
+dieser
+Bosse
+war
+in
+ihren
+Mäulern
+und
+Schwänzen;
+die
+wenden
+sich
+gleich Schlangen,
+und mit ihren Köpfen
+schlugen
+sie
+20um
+sich.
+Die
+übrig
+gebliebenen
+(in
+den
+vom
+Winde
+schwankenden
+Gräsern
+symbolisierten?)
+Menschen
+aber,
+die durch diese Plagen
+nicht
+getötet
+wurden,
+bekehrten
+sich
+nicht
+von
+den
+Werken
+ihrer
+Hände,
+7'7' ‚rf‚fa..0 rf.f1asauf'
+I1Ä'b Vf' 1fwai'r"-lvrpp n<v<‚.?„v
+l'artl bgdvld (Arm
+la<=<
+-ß.
+‘l>l_'eJl
+l'rv‘ rr.7mr‚'r
+l
+[mit Aqvn4rhs ‚man
+/7 J„ „gyü‚„
+a
+f
+Bild
+27.
+Die
+Erde nach Kosmos
+Indikopleustes
+im 6. Jahrhundert
+mit dem
+sie umgebenden Ozeaniluss
+und den Aeolen,
+den Beherrschern
+der “ﬁnde.
+hörten
+nicht
+auf,
+die
+Geister
+der Verstorbenen’),
+die goldenen,
+silber
+nen,
+ehernen,
+steinernen
+und
+hölzernen Götzen anzubeten,
+die
+weder
+21 sehen,
+noch
+hören,
+noch
+gehen
+können,
+und
+taten
+auch
+nicht
+Busse
+wegen
+ihrer Mordtaten,
+ihrer Zaubereien,
+Ausschweifungen
+und
+Dieb
+stähle.
+x)
+'r‚7.m; heisst auf griechisch
+nicht
+nur die Sonne,
+sondern
+wird
+auch
+meta
+phorisch
+im Sinne
+des Tageslichtes
+gebraucht,
+aber
+auch
+im
+Sinne
+des Wohl
+befi nd en
+s
+im
+allgemeinen.
+’)
+Im griechischen Text steht
+a'xgid‘z; - Heuschrecken,
+als
+metaphorischer
+Aus
+druck der unzähligen
+Wellen,
+die auf
+das Ufer
+zustürmen.
+')
+Nach
+den
+astronomischen
+Berechnungen
+stürmte dieses
+Gewitter
+über Patmos
+am 80. September
+395.
+Die fünf Monate,
+die auf den September
+folgen,
+gelten als
+die
+stürmischsten
+auf dem Mittelmeere.
+‘)
+;1“1)R
+(awaddön)
+—- Vernichtung,
+Zerstörung.
+
+--- Page 75 ---
+49
+’) Der Wind
+schlug jäh
+um und begann,
+von Südosten
+her
+zu
+blasen.
+Dass die
+Boten
+die
+östlichen
+Herrscher
+darstellen,
+ist
+direkt
+im Kap.
+16,
+Vers
+12 der Apo
+kalypse
+gesagt.
+Am Ende
+des
+4. Jahrhunderts wurde
+das byzantinische
+Reich
+ständig
+von
+den Euphratvölkern,
+Armenien,
+Persern,
+Arabern,
+Sarazenen,
+überfallen.
+°)
+0nou'd'q;
+-—- schwefelfarben.
+T) d‘aq.w'vur
+—
+Die
+Geister
+der Verstorbenen,
+die
+Schutzgenien.
+In
+„Dämonen“
+verwandelten
+sie
+sich
+erst im
+Mittelalter.
+X. Kapitel.
+Der
+erste
+vorübergehend
+erscheinende
+Regenbogen.
+Der
+Sturm
+wirft dem Johannes
+ein
+Stück
+Rinde
+zu.
+Und
+ich
+sah
+einen
+andern
+gewaltigen
+Boten,
+der nicht zur
+den sie ben
+gehörte,
+vom
+Himmel
+im
+Wolkengewand
+herab
+steigen
+1).
+Ueber
+seinem
+Haupte war
+ein
+Regenbogen.
+Die
+Sonne,
+die
+auf einen Augenblick
+inmitten
+der Wolken erschien,
+war
+ihm
+gegenüber
+’),
+und
+seine
+Beine
+waren
+wie
+feurige
+Säulen.
+(Er
+2
+hatte
+in
+seiner
+Hand
+3)
+ein
+Stück
+losgelöster,
+aufgerollter
+Rinde
+(die
+auf
+den
+Wellen
+schwamm?)
+‘),
+setzte
+seinen
+rechten
+Fuss
+aufs
+Meer,
+seinen
+linken
+auf
+das
+Land
+und
+rief
+mit
+Donnerstimme,
+wie
+wenn
+3
+ein Löwe brüllt.
+Als er gerufen,
+erhoben
+die sieben Donner ihre Stimmen.
+Ich
+wollte
+den Sinn
+ihrer Worte
+niederschreiben,
+aber ich hörte
+eine4
+Stimme
+aus
+dem Himmel
+(ein
+neuer
+Donnerschlag?),
+die
+mir
+zurief:
+Verheimliche,
+was
+die
+sieben Donnerschläge gesagt
+haben
+(was,
+wie wir
+später
+sehen
+werden,
+nur
+für
+die Könige
+der
+_Erde
+bestimmt
+war)
+‘).
+Schreibe
+es nicht!
+Da
+hob
+der Bote,
+den
+ich
+auf
+dem
+Meere
+und
+auf dem Landes
+stehen
+sah,
+seine Hand zum Himmel
+und schwur
+bei
+dem,
+der
+da lebt
+6
+in
+alle Ewigkeit,
+der
+den Himmel
+und die
+Erde
+geschaffen
+hat und
+alles,
+was
+darauf
+und
+darinnen
+ist
+nichts
+zeitliches wird
+mehr
+sein;
+sondern
+in
+den Tagen,
+wo
+die Stimme des siebenten
+Boten,
+der in
+die
+Posaune
+stossen
+will,
+ertönt,
+da wird
+sich
+das göttliche Geheimnis voll
+enden, wie er es seinen Dienem, den Propheten, vorher verkündigt hat (d.h.
+Jesus
+wird
+vom
+Himmel
+herunterkommen,
+alle
+Könige
+der Erde
+mit
+seinem
+Schwert
+vernichten
+und
+selbst
+statt
+ihrer
+auf Erden
+herrschen
+Kap.
+11,
+V.
+15
+und
+Kap.
+19, V.
+18.)
+Und
+die
+Stimme des Sturms,
+die
+ich
+aus
+dem Himmel
+gehörtß
+hatte,
+sprach
+abermals
+zu mir und sagte:
+Geh zum Ufer und
+nimm
+das Stück
+Rinde,
+das
+von
+der
+Hand
+des Boten,
+der
+auf
+dem
+Meere
+und
+dem
+Lande
+steht,
+auseinander
+gerollt‘)
+ist.
+Und
+ich
+trat
+vor9
+Morosow,
+Die Offenbarung
+Johannis.
+4
+
+--- Page 76 ---
+50
+den Boten und sprach
+zu
+ihm:
+Gieb
+mir
+diese
+Rinde!
+Und
+er
+ant
+wortete mir:
+Nimm
+sie
+und
+verschling
+sie.
+In deinem
+Leibe
+wird
+sie
+bitter
+sein,
+aber
+in deinem
+Munde wird
+sie süss wie Honig
+sein
+7).
+Da
+nahm
+ich
+die Rinde
+aus
+der Hand
+des Boten
+und verschluckte
+sie.
+Sie
+war
+süss wie Honig
+in
+meinem
+Munde,
+aber
+als ich
+sie gegessen hatte,
+wurde
+sie bitter
+in
+meinem
+Magen.
+Du
+musst
+abermals,
+sagte
+sie mir, mit ihrer Bitterkeit
+in
+deinen
+Prophezeiungen
+gegen
+Stämme,
+Völker,
+Sprachen
+und
+gegen
+viele Könige
+auftreten.
+l)
+Hier
+gibt
+der Verfasser
+direkt
+an, welcher Art seine Boten
+sind, indem er auf
+ihre
+Wolkengewänder
+hinweist.
+Der
+Leser
+wird wohl
+schon bemerkt
+haben,
+dass Johannes
+der Zahl sieben eine
+mystische Bedeutung
+beilegt.
+indem
+er sieben Sterne im Sternbild,
+sieben Hörner in der
+Wolke,
+sieben Boten
+des Sturmes
+aufzählt.
+Infolge
+dieser
+vorgefassten
+Idee
+ist
+er
+oft
+gekünstelt,
+indem
+er jeden
+Ueberschuss
+ausschlissst.
+So
+hat
+er auch
+in
+diesem
+Falle,
+den Boten
+aus
+der Zahl
+der
+von
+ihm
+genannten
+sieben
+ausgeschlossen
+und
+ihn
+zu einem besonderen,
+nicht
+zu den sieben gehörigen
+Boten
+gemacht.
+’)
+In den auf uns gekommenen Kopien steht hier
+xai
+ro‘
+1xgo'awnov
+av’roü, wahr
+scheinlich
+durch
+die
+Abschreiber
+aus
+zum?
+ngo’aumov
+au‘roü
+gemacht,
+weil
+die Sonne
+unbedingt
+dem Regenbogen
+gegenüber
+steht.
+")
+efpv
+s'v
+15 lugt —- hatte in der Hand, hatte in seiner
+Macht.
+‘)
+Das Wort:
+ßt,ünrgld‘wv
+bedeutet
+hier
+ein Stück
+Rinde zum Schreiben;
+es ist
+das
+Diminutiv
+von
+ßt;ü.r.ov — ein Blatt Rinde
+aus
+Papyrus
+oder
+überhaupt
+ein Stück
+jeder
+Rinde,
+die im Altertum zum
+Schreiben
+verwendet
+wurde,
+wo
+man
+noch
+kein
+Papier
+herzustellen
+wusste.
+‘)
+Das
+ist aus Kapitel
+11,
+Vers
+15;
+Kapitel
+19,
+Vers
+18 und
+aus
+dem Vers
+7
+dieses
+selben Kapitels zu
+ersehen,
+wenn
+wir
+sie
+miteinander
+vergleichen.
+‘)
+u’vot‘yvuyr
+bedeutet
+gewöhnlich:
+ich
+rolle
+auseinander,
+öffne.
+")
+Wahrscheinlich
+war
+die
+Rinde
+süss,
+aber
+als
+übelerregend
+bekannt.
+Diese
+ganze naive
+Stelle
+ist vorn
+alten mystischen,
+alles belebenden Standpunkt
+aus
+durchaus
+verständlich.
+Der Sturm
+warf ihm
+ein Stück
+abgerissener Rinde zu, und, schon erregt
+durch
+die
+ihm
+gesandte Erscheinung
+vom
+Himmel,
+glaubte
+Johannes,
+dass
+in
+diesem
+Sturms
+nichts
+vorhanden
+sein könne,
+was keine
+mystische
+Bedeutung
+habe.
+Gewöhnt,
+seine Briefe auf
+ein Stückchen
+Rinde
+zu
+schreiben,
+wie
+es damals
+alle taten,
+trat
+er
+natürlicherweise
+heran
+und
+nahm
+das
+Stück
+in
+die
+Hand,
+weil
+er
+glaubte,
+es
+sei
+etwas für ihn
+darauf
+geschrieben.
+Als er jedoch
+nichts fand,
+schloss er daraus,
+dass
+es
+ein mystisches
+Schreiben
+wäre,
+das man
+aufessen
+müsse,
+um
+seinen Inhalt
+zu fühlen.
+
+--- Page 77 ---
+51
+XI. Kapitel.
+Das
+Meer wirft
+dem Johannes
+ein Schilfrohr zu.
+Das
+Bild
+des Kampfes
+zweier
+Möven
+mit
+dem
+Sturm.
+Erscheinung
+eines
+neuen
+Regenbogens.
+Und
+es
+ward
+mir
+vom
+Me er
+ein
+Schilfrohr
+1)
+übergeben,l
+gleich einem
+Stube,
+und
+der
+Bote
+im Wolkengewand
+war
+schon ins
+Meer
+getreten
+*)
+und sagte mir:
+Nimm es und miss damit nachher (wahr
+scheinlich nach
+den Ausdehnungen eines Weizenfeldes auf Patmos
+“’))
+den
+Tempel Gottes — den Himmel — und das Sternbild
+des Altars und zähle
+die
+im
+Gotteshause
+anbeteu
+-—— die Sterne.
+Aber
+den
+Durch-2
+gangsraum‘) im Gotteshaus,
+— die Erde
+—
+lass'
+aus,imiss
+sie nicht,
+denn
+sie ist
+den Heiden preisgegeben.
+Die
+werden
+die heilige Feste ——
+den Himmel
+—
+zertreten
+zweiundvierzig
+Monate
+lang (1260
+Tage
+waren
+es bis
+zum
+13.
+März
+399,
+an
+welchem
+nach
+der Berechnung des
+Verfassers der
+von
+den Toten
+auferstehende
+Jesus
+auf die Erde kommen
+sollte).
+Aber
+ich
+werde
+meinen
+zwei
+Zeugen
+Macht
+geben
+während3
+dieser
+1260 Tages),
+dass
+sie in ihren
+weissen Sackkleidern
+6)
+weissagen.
+Das
+sind
+meine
+zwei
+Oelbäume,
+zwei
+Leuchter
+(wahrscheinlich
+zwei4
+Ufermöven),
+die
+ihre
+Wohnstätte
+vor
+dem
+Herrn
+der
+Erde
+gewählt
+haben.
+(Werden
+diese
+geschädigt,
+so
+wird
+Feuer
+aus
+ihrem
+Mundes
+gehen
+(es
+blitzt?)
+und
+ihre
+Feinde
+verzehren,
+und
+wer sie beleidigen
+will,
+der
+muss
+also
+sterben.
+Diese
+da haben
+")
+die Macht,
+den Himmelö
+zu
+schliessen
+(der
+Regen
+hörte
+auf?),
+damit
+es
+nicht
+regnet
+während
+ihrer Weissagung.
+Sie können
+die Wellen
+blutig
+machen
+(durch
+einen
+neuen Widerschein
+eines
+roten
+Blitzes?)
+und
+die
+Erde,
+so
+oft
+sie
+es
+nur
+wünschen,
+mit
+einer
+beliebigen
+Plage
+schlagen.
+Wenn
+sie
+ihr7
+Zeugnis
+vollendet
+haben,
+dann
+wird
+das
+Tier,
+das
+jetzt
+aus
+des
+Meeres
+Tiefe
+heraufkommt
+(in
+Form
+einer
+neuen
+Gewitterwolke)
+mit
+ihnen
+kämpfen
+und
+sie
+besiegen
+und
+sie
+töten.
+Da
+werden
+ihres
+Leichname
+auf
+den
+Gassen
+der
+grossen
+Feste
+liegen
+(einem
+grossen
+Felsen
+am
+Ufer),
+die
+da
+geistig
+gesprochen
+Sodom
+und
+Aegypten
+heisst,
+wo
+auch
+Christus
+gekreuzigt
+werden
+ist
+B).
+Und viele
+Scharen‚s
+Volksmengen,
+Stämme
+und
+Sprachen
+(versinnbildlicht
+durch
+die Wellen
+des
+tobenden
+Mittelländischen
+Meeres,
+wie
+dies
+der
+Verfasser selbst
+im
+Kapitel
+17, Vers
+15
+sagt)
+werden
+während der Zeit
+von dreiundeinhalb
+Sonnenkreisen
+g)
+auf ihre Leichname schauen
+und werden
+nicht
+zulassen,
+dass
+sie ins Grab
+gelegt
+werden
+(sich
+in die
+vom
+Meere
+überschwemm
+ten
+Nester
+am
+Felsenabhang
+verstecken
+?).
+Und
+die
+Bewohner
+der
+10
+
+--- Page 78 ---
+52
+Erde
+werden
+sich
+freuen
+und
+darüber
+frohlocken
+(die Gräser
+am Ufer
+beugten
+sich
+vor
+einander,
+vom Winde
+geschaukelt?)
+und
+werden
+sich
+gegenseitig
+Geschenke
+senden,
+weil
+die
+zwei Propheten
+die Bewohner
+der Erde
+gepeinigt_
+(die Gräser
+durch
+ihren Fall
+zerdrückt)
+haben
+1°).
+11 Aber
+nach
+dreiundeinhalb Zeitabschnitten fuhr
+der Geist
+des Lebens von
+Gott
+in sie (die Möven kamen
+wieder zu sich
+?).
+Sie stellten sich
+auf ihre
+Füsse,
+und
+eine
+grosse
+Furcht bemächtigte
+sich
+derer,
+die
+sie
+sahen
+(die
+Gräser
+beugten
+sich
+von
+einem
+starken
+Windstoss
+zur
+Erde?).
+12 Jene
+aber
+hörten
+eine
+gewaltige
+Stimme,
+die
+sprach
+zu
+ihnen:
+Steigt
+hierher
+herauf!
+Und
+sie
+stiegen
+zum
+Himmel
+hinauf
+in
+einer
+Wolke,
+und
+ihre
+Feinde
+— die Wellen und
+die Wolken —
+13 schauten
+ihnen zu.
+Im selben
+Augenblick
+ertönte
+der dritte
+Schlag
+des Erdbebens, und der
+zehnte Teil
+der Feste — des Felsabhanges
+— stürzte ein,
+und dabei kamen
+siebentausend
+— Gräser — Ebenbilder
+des Menschen
+um“);
+die
+übrigen
+aber
+gerieten
+in Furcht (alle Gräser
+wurden
+durch
+einen
+neuen Windstos
+zur
+Erde
+gedrückt)
+und
+gaben
+dem Gotte
+des Himmels
+die Ehre ").
+14
+Nun
+stiess
+der
+siebente
+Bote
+des Sturmes in
+die Posaune (und
+mit
+ihm
+schaute
+die
+Sonne
+wieder
+aus
+den Wolken
+hervor).
+Da
+er
+hoben
+sich
+laute Stimmen im Himmel,
+die riefen:
+Von
+nun an ist
+das
+Reich
+der Welt
+zum
+Reich
+unsere
+Herrschers
+und
+seines Gesalbten ge
+15 worden,
+der
+wird
+herrschen
+in
+alle
+Ewigkeit.
+Und
+die
+vierund
+zwanzig
+Greise
+-—- Stunden
+—-,
+die vor Gott
+auf
+den
+Thronen
+der
+Ewigkeit
+sassen,
+ﬁelen
+auf ihr Antlitz
+und verneigten
+sich vor Gott
+16 und
+sprachen:
+Wir
+danken
+dir,
+unser
+Herrscher
+und
+allmächtiger
+Gott,
+der
+da war,
+der
+da ist und sein wird:
+du
+hast deine
+gewaltige
+Macht
+an
+dich
+genommen
+und
+hast
+selbst
+die
+Herrschaft
+ergriffen.
+Empört
+sind
+die Völker durch
+die Un
+g
+er
+e
+c
+hti
+g
+k
+eit
+e
+n.
+Nun
+ist
+die
+Stunde
+deines Zornes gekommen; die Zeit ist
+da,
+die Toten
+zu rich
+ten
+und
+deine
+Knechte
+zu belohnen,
+die Propheten,
+die Heiligen
+und
+alle,
+die
+deinen
+Namen ehren,
+die Grossen
+und
+die Kleinen,
+und zu ver
+11 derben
+die,
+welche
+die Erde
+verderben.
+Da öffnete sich zwischen den
+Wolken
+das blaue
+Zelt Gottes
+am
+Himmel,
+und
+es
+erschien
+ein
+R
+e
+g
+e
+n
+b
+o
+g
+e
+n
+,
+der Aufbewahrer
+l“)
+der
+Verheissnng,
+die Gott
+dem
+Noah
+gegeben
+hatte,
+keine Sintflut
+mehr
+hereinbrechen
+zu lassen,
+und
+es
+entstanden
+Blitze,
+Donner, Erdbeben
+und
+grosser
+Hagel.
+')
+xa'Änqso; — Schilfrobr.
+')
+etanjam — Plusquamperfectum
+von
+1'6rryu,
+ich
+stehe,
+trete.
+a)
+Dieser
+Fall
+ist
+in
+mystischer
+Beziehung
+besonders
+interessant.
+Aus
+dem
+Kapitel
+21, Vers
+15
+u. folg.
+werden
+wir
+sehen,
+dass
+Johannes
+früh
+am Morgen
+des
+folgenden
+Tages
+tatsächlich
+mit
+diesem Schilfrohr etwas, wahrscheinlich
+ein Weizenfeld
+
+--- Page 79 ---
+53
+auf der Insel,
+ausgemessen
+hat.
+Dabei
+nahm
+er
+an ‚
+dass
+die
+Grösse
+des
+Feldes
+die
+Grösse
+der Welt,
+das Sehilfrohr seiner Länge nach
+ein Stadion,
+seiner Dicke
+nach eine
+Elle symbolisiere
+und
+dass
+der auf dem Felde
+vom
+Winde bewegte Weizen
+nach dem
+bekannten
+Gleichnis
+vom Weizen
+und
+der
+Spreu
+die betenden
+Gläubigen
+darstelle.
+‘)
+av'2q' — Durchgangsraum.
+5) Dieser
+Frist
+von
+1260
+Tagen
+legt
+der
+Verfasser
+eine
+so
+gr0sse
+Bedeutung
+bei,
+dass
+er
+sie
+wiederholt
+auf
+verschiedene
+Arten
+ausdrückt,
+wahrscheinlich
+für den
+Fall einer Entstellung
+des
+Textes
+durch
+die Abschreiber.
+Hier
+hat er sie in zwei Arten
+dargestellt:
+als 42
+Monate
+und
+als
+1260
+Tage.
+Weiter werden
+wir
+sehen,
+wie
+er sie
+als
+die Summe
+von
+einem Jahr, zweier Jahre und einem halben Jahre ausdrücken
+wird,
+was ebenfalls
+1260
+Tage
+ausmacht.
+Alles dies deutet auf den vorletzten
+Sonntag
+vor
+der Frühlings-Tagundnachtgleiche
+des
+Jahres
+399 hin,
+die
+ebenfalls
+auf einen
+Sonntag
+ﬁel,
+weil
+damals
+der Tag
+morgens
+und
+nicht,
+wie
+heute,
+um Mitternacht,
+begann.
+‘)
+o’a’xxo; — Sakkos,
+ein
+Mantel
+aus
+Ziegenfell
+ohne Aermel,
+der
+über
+dem
+gewöhnlichen
+Anzug
+getragen
+wurde,
+so
+dass
+die
+Aermel
+aus
+dem
+Sakkos
+wie
+die
+schwarzen
+Flügel einer Möve herausragten.
+’)
+051m
+— von
+05105
+— diese da, dieser.
+ß) Diese Aeusserung
+des Verfassers
+über Jerusalem
+am Ende des 4. Jahrhunderts
+erklärt
+sich
+dadurch,
+dass
+dort
+zu jener
+Zeit
+wohl
+schon
+das
+Hinabsenken
+feuriger
+Fackeln
+vom Himmel auf
+das
+Grab
+Christi
+im
+Gebrauche
+war,
+wie
+dies jetzt
+an den
+Osterfeiertagen
+der Fall
+ist.
+Diese Vermutung
+wird durch
+den
+Ausdruck Kapitel
+18,
+Vers
+13 bestätigt,
+wo
+es
+heisst:
+Sogar
+die
+Funken
+liess
+der
+falsche
+Prophet
+vom
+Himmel herunter
+auf die Erde fallen.
+Den
+Ausdruck
+der überkommenen
+kanonischen
+Kopien no'lew;
+1ﬁ;
+yeyu'Äq;
+über
+setze
+ich mit: der gross en Fe ste,
+weil 1w'hg gleichzeitig
+Stadt,
+Festung
+und Staat be
+deutet, was man nur
+in dem Worte „Feste“
+vereinigen
+kann.
+") Das
+griechische
+ri|u€(m — Tag
+wird
+sinnbildlich
+für
+jeden
+Zeitabschnitt
+ge
+braucht.
+Hier handelt
+es sich wieder
+um diese 3’/„ Jahre
+oder
+1260
+Tage,
+die
+bis
+zum
+13. März 399 blieben.
+‘°)
+Der Leser möge
+nicht
+glauben,
+dass
+diese Symbolistik
+nicht überzeugend
+sei.
+Am Schlusse des 17. Kapitels deutet der Verfasser
+selbst darauf hin,
+dass die Wellen
+des
+Meeres
+bei ihm
+S
+eharen, Volksm esse n u. dgl. versinnbildlichten.
+Dies ganze Buch
+ist ein typisches Muster
+alter Wahrsagung
+nach
+den Sternen,
+dem Flug der Vögel, dem
+Schwanken
+der
+Gräser,
+dem Zug der Wolken usw.
+Alles
+in
+der
+Natur
+schien dem
+Verfasser
+symbolisch
+zu
+sein.
+")
+6'voya
+— der Name,
+das
+Symbol
+eines Gegenstandes.
+")
+Hier
+ist von jemandem
+ein ganz überﬂüssiger
+Satz
+eingefügt
+werden:
+„das
+zweite
+(P?) Wehe
+ist vorüber,
+das
+dritte (?!)
+kommt
+bald“,
+während
+weiterhin
+gar kein
+Unheil, sondern
+eine Freude
+beschrieben
+wird.
+")
+mßwtdg rﬁc
+d'un9'lxqt; - Aufbewahrer
+der
+Verheissung,
+so
+nennt
+der Ver
+fasser den Regenbogen
+nach
+der Legende
+im Kapitel
+9,
+Vers
+12—16
+der Genesis.
+
+--- Page 80 ---
+54
+XII. Kapitel.
+Das Bild
+der Sonne
+im Sternbilde
+der jungfrau.
+Ein
+neuer
+Kampf der Wolken.
+Und
+es
+erschien
+am
+Himmel
+inmitten
+d e r
+Wolken
+ein
+lneues Zeichen,
+gross
+und
+wunderbar,
+ein Weib,
+mit der Sonne bekleidet
+Bild 28.
+Die Sonne und der Mond
+im Sternbilde
+der Jungfrau
+am
+30. September 395.
+
+--- Page 81 ---
+55
+(Bild 28).
+Zu ihren Füssen war
+der Mond
+und
+über
+ihrem Haupte
+ein
+Kranz von 12 Sternen — das Sternbild der Haare der Berenike‘).
+Sie
+war
+schwanger
+(eine
+Wolke
+umhüllte
+sie)
+und
+vergoss
+Tränen
+2
+von
+den
+Wehen
+und
+Qualen
+der
+Geburt
+(Tropfen
+des
+Regens,
+die
+Bild
+29.
+Das Stemblld
+des Herkules,
+der die Schlange
+mit
+der
+Keule
+erschlägt.
+(Nach
+dem Manuskript
+Grlenbergers
+auf
+der
+Stemwarte zu Pulkowa.
+von der
+entgegengesetzten
+Seite
+den
+Regenbogen
+hervorgerufen
+hatten,
+ﬁelen
+zwischen
+der
+Sonne
+und
+Johannes,
+wie
+helle
+Tränen
+einer
+weinenden
+Jungfrau).
+Während
+sie
+sich
+zur
+Niederkunft
+anschickte,
+erschien
+am
+Himmel
+ein
+Zeichen
+anderer
+Art:
+siehe,
+ein
+gewaltiger,
+s
+feuriger
+Drache
+mit
+sieben
+Häuptern
+(eine
+unförmliche
+Wolke,
+die
+sich
+durch
+das
+Sternbild
+der
+Schlange
+zu
+Füssen
+der
+Jungfrau
+
+--- Page 82 ---
+56
+wand,
+Bild
+28)
+und
+zehn
+Hörnern.
+Auf
+seinen
+Häuptern
+waren
+sieben
+4Krouen’)
+(d.
+h. Wölkchen
+im
+Sternbild
+der
+nördlichen
+Krone),
+und
+sein
+Schweif
+fegte
+ein
+Drittel
+der
+Sterne
+und
+schleppte
+sie
+mit
+sich
+nach Westen
+auf die Erde.
+Und
+der Drache trat
+vor das Weib,
+das
+gebären
+sollte, und wollte ihr Kind verschlingen
+(das
+von
+den Wolken
+befreite
+Sternbild
+des Herkules
+über
+der Jungfrau
+verdecken),
+sobald
+5sie
+es
+geboren
+haben
+würde.
+Und
+es
+kam
+zur
+Welt
+aus
+den
+Wolken heraus
+der gewaltige”) Sohn Herkules
+(Bild 29),
+welcher
+Galle Schlangen‘)
+mit:
+eiserner
+Keule
+weiden
+soll.
+Und
+langsam
+wandelte”)
+ihr
+Kind vor
+Gott
+und
+seinem
+Thron,
+das Weib
+aber
+ﬂoh
+Bild
+30.
+Das Sternbild
+des Drachen.
+(Nach
+Bild
+31.
+Das Sternbild
+der Jungfrau.
+(Nach
+dem Manuskript
+Orienbergers.
+dem Manuskript
+Grienbergers.)
+hinter die Wolken in
+die Wüste
+des Himmelsraumes,
+wo
+sich
+inmitten
+der Sternbilder
+des Zodiakus
+eine
+für
+sie
+von
+Gott
+bereitete
+Stätte befand,
+dass sie dort noch
+1260 Tage lang ernährt würde
+7 (d.
+h. bis
+zum
+13.
+März
+des Jahres
+399).
+Und
+nun
+erhob
+sich
+ein
+Kampf
+am Himmel
+(zwischen
+den Wolken,
+die
+gegen
+einander
+zogen).
+Das gottähnliche“) Sonnenantlitz und seine leuchtenden Wolken
+b 0 t en kämpften gegen
+den Drachen
+(richteten
+sich
+in
+die Höhe
+gegen
+8 dieses
+Sternbild).
+Der
+Drache
+und
+seine f i n s t e r e n
+G e w i t t e r
+b 0 ten
+stritten
+gegen
+sie und konnten
+nicht
+standhalten
+und
+mussten
+9 weichen
+aus
+dem
+Himmel.
+Da
+sank
+(ging
+durch
+den
+Meridian)
+der
+grosse
+Drache
+nach
+unten
+(Bild
+30)
+und
+die
+alte
+Schlange,
+die
+da
+Verleumderin
+’)‚
+und
+Verhinderin“)
+heisst,
+die
+den
+ganzen
+bewohnbaren
+
+--- Page 83 ---
+57
+Erdkreis
+verführt,
+begann,
+sich
+bei
+ihrer
+täglichen Drehung
+samt
+ihren Boten unter
+den Horizont
+zu senken.
+Und
+ich
+hörte eine gewaltige
+Stimme des Windes
+im Himmel
+10
+ertönen: Die Erlösung
+ist gekommen,
+die Macht,
+die Herrschaft
+unseres
+Gottes
+und
+der
+Sieg
+seines
+Gesalbten!
+Gestürzt
+ist
+der
+Ankläger
+unserer
+Brüder,
+der
+sie
+vor Gott
+Tag
+und
+Nacht
+verleumdete.
+Aber
+11
+sie
+haben
+ihn überwunden durch das Blut
+des Widders
+und
+durch das
+Wort
+ihres
+Zeugnisses,
+die
+ihre
+Seele
+nicht
+geschont
+haben
+bis
+zu
+ihrem Tode.
+Freuet
+euch,
+ihr Himmel
+und
+die
+darin
+wohnen!
+Aber
+12
+webe
+denen,
+die
+auf
+der Erde
+und
+auf dem
+Meere sich
+beﬁnden!
+Zu
+Bild
+32.
+Der
+Untergang
+der Schlange
+und
+des Schlangenträgers
+im
+Mittelliindischen
+Meer auf dem Horizont
+In Patmos.
+euch
+ist
+der
+Teufel
+hinabgestiegen
+in
+furchtbarer Wut
+darüber,
+dass
+seine Frist
+so kurz ist! Und
+als
+der Drache sah,
+dass er zur Erde herab-
+13
+sank,
+verfolgte er die Jungfrau,
+die den gewaltigen Sohn — Herkules
+—
+das
+Tageslicht
+erblicken
+liess.
+Ihr
+aber
+wurden
+zwei
+Flügel
+des 14
+grossen
+Adlers
+gegeben (Bild 31),
+damit
+ﬂog sie
+vom
+Drachen fort
+an
+ihre
+Stätte
+in
+der
+Wüste
+des Himmelsraumes,
+um
+dort während
+der Frist
+eines Jahres,
+zweier Fristen”)
+und
+einer
+halben
+Frist
+zu
+leben
+(d. h. immer
+die
+1260
+Tage).
+Das Sternbild
+der
+Schlange
+‘°)
+15
+aber
+spie
+aus seinem Rachen Ströme von Begenwasser (Bild 32) hinter
+der Jungfrau
+her,
+um sie durch das Wasser wegzuschwemmen.
+Aber
+die
+16
+Erde
+kam dem Weibe
+zu Hilfe.
+Sie
+öffnete
+ihre Poren
+und
+verschlang
+die Fluten,
+die
+der Drache
+aus
+seinem
+Rachen
+gespieen
+hatte.
+Da
+er-
+17
+
+--- Page 84 ---
+58
+grimmte
+der
+Drache
+über
+die
+Jungfrau
+und
+zog
+sich hinter
+die
+Wolken zurück,
+um sich
+für den Krieg mit ihren
+andern
+Kindern
+zu
+rüsten,
+welche
+die Gebote Gottes halten und die das Zeugnis Jesu haben.
+‘) Dieses Sternbild
+stand damals
+gerade
+über dem Kopfe
+der Jungfrau
+in
+der
+Richtung zum Zenit.
+Der Verfasser
+zählt
+in ihm zwölf Sterne,
+wobei
+er augenschein
+lich
+alle kleinen
+Sterne
+weg liess.
+’) Wir wollen
+uns erinnern,
+dass
+der Drache
+auf diese Weise
+bei allen Sonnen
+ﬁnsternissen
+des
+Altertums
+erscheint.
+Gerade
+über
+dem Kopf
+der
+Schlange
+beﬁndet
+sich
+auch
+das
+Sternbild
+der nördlichen
+Krone.
+')
+rii(i(ißy,
+männlich,
+kräftig, gewaltig.
+‘) Hier liegt
+oﬂ'enbar ein
+Fehler
+der
+Abschreiber
+vor,
+die den astronomischen
+Sinn
+dieses
+Bildes
+nicht
+verstanden
+haben.
+Statt
+10v‘;
+drpsug'.
+die Schlangen,
+steht
+n?
+s'8w;‚
+die Völker.
+Aus
+dem
+Sinn
+dieser
+ganzen
+Stelle
+und
+dem Ausdruck
+„der
+gewaltige
+Sohn“
+ist klar,
+dass
+es sich
+hier
+um das Sternbild
+des Herkules
+handelt,
+der
+die
+Schlangen
+mit seiner eisernen Keule weidet.
+5) ir'pmu,
+ich
+wandle
+langsam,
+feierlich.
+") Michael
+heisst im Hebräischen:
+der welcher ist wie Gott.
+Der Ver
+fasser benützte
+diesen Ausdruck bildlich,
+um
+die Gott
+ähnliche
+Sonne
+zu
+bezeichnen.
+’)
+6’idß0109,
+der Verleumder,
+vom
+gewöhnlichen
+griechischen
+Wort
+Juz,iiolq'‚
+die
+Verleumdung.
+°) Satanas
+heisst im Hebräischen:
+Hindernis.
+') Hier
+ist
+wieder
+ein
+oii‘enbarer
+Fehler
+des
+Abschreibers:
+statt
+des
+Duale
+xm'gw
+steht
+in
+den
+überkommenen
+Kopien
+der
+Plural
+xaigozig‘,
+obwohl
+dem
+Sinne
+nach
+es klar ist,
+dass
+es
+sich
+hier
+um die gleichen
+3‘/‚ Jahre
+oder
+1260 Tage
+handelt,
+die
+bis
+zur Wiederkunft Jean
+am
+13. März
+399
+nach der Berechnung
+des
+Verfassers
+blieben.
+‘°)
+(kp;
+heisst
+in der Astronomie
+das
+Sternbild
+der Schlange.
+Ebenso
+bedeutet
+d'pa'xaw,
+der
+Drache,
+das
+entsprechende
+Sternbild
+des
+Drachens
+oder
+der
+grossen
+Schlange.
+Hier
+spielt
+der Verfasser
+mit der doppelten
+Bedeutung
+dieser Worte,
+in
+dem er
+sie
+bald
+auf
+die
+Sternbilder,
+hauptsächlich
+auf
+die
+drachenartige
+Schlange
+Ophiuchos,
+bald
+auf
+die
+in
+diesen
+Sternbildern
+beﬁndlichen
+seltsamen
+Formen
+der
+Gewitterwolken
+anwendet.
+
+--- Page 85 ---
+59
+XIII. Kapitel.
+Weitere
+Beschreibung
+der
+gespenstischen
+Wolke
+mit
+den
+sieben
+Köpfen
+und
+einer
+andern
+Wolke
+mit zwei
+Hörnern,
+die vor ihr Gottesdienst
+verrichtet.
+‚—
+Ich
+stellte
+mich
+auf
+den Sand
+des Meeres,
+um
+das Tier
+zu
+be
+trachten,
+das
+aus
+dem
+Meere
+herauskam
+(in Form
+einer
+ungeheuren
+Gewitterwolke)
+mit sieben Köpfen und zehn Hörnern. Auf seinen Hörnern
+waren
+zehn
+Kronen
+und
+über seinem
+Kopfe
+das Symbol‘)
+der Gottes
+lästerung
+(der
+zum
+Himmel
+erhobene
+Kopf
+des
+Sternbildes
+der
+Schlange?).
+Das
+Ungeheuer,
+das ich in den
+Wolken
+sah,
+glich
+in Wahrheit
+einem Panther.
+Seine Füsse waren wie
+bei
+einem
+Bären und sein Rachen
+wie
+bei
+einem
+Löwen
+(die Umrisse
+des by
+zantinisch'römischen
+ReiChes
+Blld
+33.
+Byzantinisch-römisches
+Reich
+vom
+Und
+der
+Drache gab
+ihm seine Kraft,
+57513?’.li;3.“333223‘2i1.‘?ääi°5
+R.i
+J."f.°.‘ä
+seinen
+Thron
+und
+seine
+grosse
+Macht.
+O'ie°h°"'and'
+"‘ä,„i’,f,l„,fli"'
+Bä'e"
+("m'a
+Und
+ich
+sah
+einen
+seiner
+Köpfe,
+wie
+tödlich verwundet,
+aber diese Todeswunde wurde heil (der Rumpf der tier
+ähnlichen Wolke
+näherte
+sich
+dem
+abgerissenen
+Kopfe),
+und die
+ganze
+Erde
+bewunderte
+dieses Tier.
+Und die Menschen
+beteten
+den Drachen an
+(durch
+die im Winde
+schwankenden
+Gräser versinnbildlicht
+?),
+verneigten
+sich
+vor
+ihm,
+der
+dem Tiere
+die Macht
+verliehen
+hatte,
+und
+sprachen
+dabei: Wer ist
+diesem Tier gleich und wer kann
+sich mit ihm messen?
+Es
+wurde ihm
+ein Maul
+gegeben,
+das stolz-spöttisch
+Lästerungen
+5
+aussprach
+und
+die Macht, zweiundzwanzig
+Monate lang Krieg zu führen,
+(immer
+diese
+1260
+Tage bis
+zum
+Sonntag
+den
+13.
+März
+399').
+Und
+es
+öffnete
+sein Maul,
+um Gott
+zu lästern,
+dessen Ruhm
+a)
+und
+s
+seine Wohnstätte
+am Himm el (auf welchem
+wahrscheinlich eine Wolke
+mit
+einem
+Donnerschlag
+über
+dem
+Sternbild
+des Altars
+emporstieg)
+und
+seine Bewohner
+zu
+verhöhnen.
+Es
+wurde
+ihm
+aber
+gestattet,
+mit
+den Heiligen
+Krieg
+zu führen
+1
+und
+sie zu besiegen.
+Und
+es wurde ihm
+die Macht verliehen über alle
+Völker und
+Geschlechter
+der Erde,
+über alle Sprachen und
+Mundarten
+(versinnbildlicht
+durch
+die
+Wellen
+des
+Mittelmeeres
+(s.
+Kap. 17,
+15).
+Und alle Bewohner der Erde werden vor ihm niederfallen (wie die Gräser,
+s
+die
+vom
+WVinde
+zur Erde
+niedergebeugt
+wurden),
+deren
+Namen nicht
+‘
+
+--- Page 86 ---
+60
+im Lebensbuch
+des Widders
+geschrieben
+steht,
+der in seinem Stern
+bild
+bei
+der Weltschöpfung ‘)
+geschlachtet
+wurde.
+9
+Wer Ohren
+hat,
+zu hören,
+der höre!
+Wer in
+die Gefangenschaft
+führt,
+der
+soll
+selbst
+dorthin
+geführt
+werden,
+wer mit
+dem Schwert
+1° tötet,
+der
+muss
+selbst
+vom
+Schwerte
+fallen!
+Darin
+beruht
+die Geduld
+und
+die
+Hoffnung
+derer,
+die
+die
+Wahrheit
+lieben.
+11
+Und
+ich sah
+ein
+neues Tier
+(das Symbol der Staatskirche
+in Form
+einer
+anderen
+unförmlichen
+Wolke)
+vom
+Lande
+her
+aufsteigen.
+Das
+hatte
+zwei Hörner,
+gleich
+den
+Hörnern
+des Widders
+(Lammes),
+redete
+aber
+wie
+ein Drache (mit einem
+Donnerschlage
+aus
+diesem
+Sternbild?)
+12 und
+es erhielt
+die gleiche Macht,
+wie
+das
+erste Tier — das Reich —
+und zwang
+die
+ganze
+Erde
+und
+ihre Bewohner
+(im
+Symbol
+des
+vom
+Winde
+gebeugten
+Feldgrases),
+das
+erste
+Ungeheuer anzubeten,
+bei dem
+13 die Kopfwunde
+geheilt war.
+Dieses zweihörnige Tier tut grosse Wunder,
+sogar
+das Feuer
+lässt
+es
+aus
+dem Himmel
+(im
+Blitz?)
+auf
+die Erde
+vor
+den
+Leuten
+herabkommen
+und
+verwirrt
+die
+Erdbewohner
+durch
+\Vundertaten,
+die
+es
+vor
+dem
+ersten
+Tier vollbringt,
+und zwingt
+die
+Bewohner
+der Erde,
+ein Bild
+des Tieres
+anzubeten,
+das
+die Schwert
+wunde hatte und
+von
+ihm geheilt wurde.
+15
+Und
+es wurde ihm
+gegeben,
+dem Bilde
+des Tieres
+(von
+dem jetzt
+ein starker \Vindstoss
+ausging) Odem
+einzuﬂössen
+damit
+es
+redete
+(mit
+Donnerschlägen?),
+und zu
+bewirken,
+dass
+getötet
+werden
+sollten (durch
+Blitzschläge
+auf
+die
+unbeweglichen Felsenspitzen
+der
+Insel?)
+alle die
+jenigen,
+welche das Bild
+des Tieres nicht
+anbeten.
+Und
+das Tier (d.
+h.
+das byzantinische Reich
+des 4. Jahrhunderts,
+versinnbildlicht
+durch
+die tierähnliche
+Wolke),
+bestimmt jetzt "),
+dass
+allen
+Grossen
+und Kleinen,
+Reichen
+und Armen,
+Freien
+und Sklaven
+ein
+Malzeichen
+auf
+die
+rechte
+Hand
+und
+auf
+die
+Stirne
+gemacht
+werde
+(nach Untersuchungen
+Newtons
+Kreuze)
+°),
+damit niemand
+weder
+Ä.
+=
+30
+u =
+l
+r
+= 300
+e
+=
+5
+l‚
+=
+10
+y =
+50
+0
+=
+70
+;
+=
+200
+Summa =
+666
+Bild
+34.
+Die Summe
+der Zahlenbedeutung
+der Buchstaben
+des griechischen
+Wortes:
+Äunivo;
+(lateinisch).
+
+--- Page 87 ---
+61
+kaufen noch
+verkaufen
+dürfe
+(wie
+es
+ein Edikt
+des Kaisers
+Theodosius
+im Jahre
+395
+befahl),
+der nicht
+das
+Zeichen
+dieses
+Tieres
+oder
+seinen
+Namen (Lateiner)
+oder
+eine Darstellung
+seines
+Namens
+durch Zahlen
+—— der
+Summe
+der Buchstaben
+—
+seines
+Namens
+an
+sich
+trägt.
+Hier
+ist
+Weisheit.
+Wer
+es versteht,
+der
+berechne
+die Zahl
+des
+Tieres,
+weil
+dies
+dem
+Menschen
+zugänglich
+ist.
+Und
+seine
+Zahl
+ist
+sechshundertsechsundsechzig
+(Bild 34).
+1) d'royo:
+ﬁlao'q:q|ufnzg
+— der
+Name
+(Benennung,
+Symbol)
+der Gotteslästerung.
+") Wir sehen, wie
+der
+Verfasser
+mit allen
+möglichen Mitteln immer
+die
+gleiche
+Frist
+von
+1260
+Tagen
+hervorhebt,
+die
+bis
+zur
+Erfüllung
+seiner
+Prophezeiung
+am
+13. März
+399
+verstreichen
+sollte,
+als
+ob er fürchtete,
+dass die Abschreiber
+und Fälscher
+seinen Text verderben
+könnten.
+a) ö'v0,uoz bedeutet bildlich Ruhm.
+‘) Dieser Ausdruck
+ist
+augenscheinlich
+dadurch
+entstanden,
+dass
+das
+Bild des
+Widders in seinem Sternbild,
+mit dem die
+„Weltschöpfung“
+begonnen
+haben sollte,
+auf
+den Karten mit einem
+nach hinten
+hängenden
+Kopfe
+dargestellt
+wurde,
+wie
+als
+ob
+er
+angeschnitten
+wäre.
+°) nur? — ordnet
+an, hier
+als
+Praesens
+und
+nicht
+als Futur-um.
+°) The merk + or the name
+Z.uretvo;
+er the number
+thereof
+159
+666 I. Newton
+opera
+tome
+V.
+Londini
+1785.
+In
+meinem
+Besitz
+und
+im
+Besitz
+der
+Pulkowaer
+Sternwarte).
+Leider
+fand
+ich in dieser Auslegung
+der Apokalypse
+von
+Newton
+keine
+Andeutungen
+darüber,
+dass
+Newton
+die astronomische
+und meteorologische
+Bedeutung
+der
+apokalyptischen
+Tiere
+verstanden
+hat.
+Die
+griechischen
+Buchstaben
+bedeuteten
+zu gleicher
+Zeit
+die folgenden
+Zahlen:
+a'=l
+;'=6
+x'=20
+o'=
+70
+1'=300
+w=800
+ß’:=2
+C=7
+Ä'=30
+7f=80
+v’=400
+8'=900
+y'=3
+q':
+8
+y’=40
+q'=
+90
+q<'=500
+ß:1000
+d'=4
+3'=9
+y'=50
+Q'=IOO
+1'=600
+ß=2000
+s'=5
+f=10
+S’=60
+0’=200
+IP=7OO
+..
+So
+konnte
+man
+für jeden
+Namen
+auch
+„seine
+Zahl“,
+d.
+h.
+die
+Summe
+der
+Buchstaben
+ausrechnen,
+wie
+es denn hier Johannes auch tut.
+Rauen
+meinte,
+dass
+es
+die
+Summe
+der
+Buchstaben
+der
+hebräischen
+Worte Kaiser Neron
+(1Dp 711))
+sei.
+In der Tat geben diese Worte die Zahl 666,
+aber
+der Fehler liegt
+darin,
+dass
+es kein
+einfacher
+Name
+ist,
+wie
+dies der
+Verfasser
+fordert,
+sondern
+zwei Worte:
+der
+Name
+und
+der Titel
+der Person,
+die ihn
+trägt.
+Das ist
+der
+Grund,
+warum
+die Erklärung
+Newtons
+mir die einzig richtige zu sein scheint.
+Das Zeichen
+des Tieres, das Kreuz (T) deutet
+darauf
+hin,
+dass
+das
+lateinisch-byzantinische
+Reich ein christliches
+war
+und
+dass
+die
+Heiden
+und
+alle,
+die nicht
+zur
+damaligen
+herrschenden
+Kirche
+(der
+nikolaitischen,
+wie
+wir später
+sehen werden)
+gehörten,
+starken
+Verfolgungen
+ausgesetzt
+waren,
+wie dies
+aus
+einem
+Edikt
+des
+Kaisers
+Theodosius,
+das
+zu
+Beginn
+des Jahres
+395
+erlassen
+wurde,
+zu ersehen ist.
+Hierdurch
+nämlich
+wurden
+alle
+Ketzer
+(zu
+denen
+offenbar
+auch Johannes
+zählte)
+der Bürgerrechte
+verlustig
+erklärt
+und ihnen
+sogar
+verboten,
+ihr
+Eigentum
+durch
+Erbschaft
+anderen
+Personen
+zu
+vermachen.
+(Schlossers
+Welt
+geschichte
+I.
+2. S. 221).
+
+--- Page 88 ---
+62
+XIV. Kapitel.
+Der
+Aufgang
+des
+Sternbildes
+des
+Widders.
+Jubelnde
+Er
+wartung
+einer
+stillen Sternnacht
+nach dem Gewitter und dem
+Erdbeben.
+Blutige
+Streifen
+des Abendrotes.
+1
+Ich
+schaute
+mich
+um;
+und siehe,
+ein Widder (Lamm)
+stand
+über
+2dem
+Grabhügel')
+(Bild 35);
+ihm
+folgten
+144
+Tausend
+Sterne,
+auf
+deren
+Antlitz
+der
+Ruhm
+seines
+Vaters
+geschrieben
+stand.
+Und
+ich
+*l'*I
+c
+-;(.
+*
+-iß
+/
+A'
+‚.'
+a
+’
+/l
+.
+u
+1’”
+—. ‘
+l.
+'
+*
+|f
+‘
+1
+V
+_
+\
+ff“
+/l
+/‚
+‘%g ‘><eä‚
+*
+“
+1
+/
+»
+‘91.
+\_»\„_7
+\ä„
+‚h\‚
+\
+’/
+g
+—
+‚
+—
+/
+"
+'
+\
+_‘‚}
+/
+Bild
+35.
+Der Aufgang
+des Widders.
+hörte —
+im Tosen
+des Meeres
+und
+im Wiiten
+des Sturmes
+-—
+eine
+Stimme
+vom
+Himmel,
+wie
+das Rauschen
+vieler Wellen, wie
+das Rollen
+eines
+gewaltigen
+Donners,
+und
+ich
+hörte
+es
+im stillen
+Funkeln
+der
+ersten
+erscheinenden
+Sterne
+wie
+Musik
+von
+3Harfenspielern,
+die
+auf
+ihren
+Harfen
+spielten.
+Die
+sangen
+ein
+neues
+Lied,
+einen
+Hymnus
+auf den Widder
+2)
+vor
+dem Sternbilde
+des Thrones
+und vor
+den vier Tieren
+und vor
+den vier Greisen
+-—
+Stunden
+des
+Tages
+und
+der Nacht.
+Und
+niemand
+konnte
+dieses
+Lied
+singen
+4
+ausser
+den
+144 Tausend Ueberirdischen.
+Sie sind jungfräulich
+rein in
+ihrer
+Seele
+und
+folgen darum
+dem Widder (Lamm),
+wohin
+er
+geht
+(bei
+
+--- Page 89 ---
+63
+seiner
+täglichen Bewegung
+auf
+der Himmelskuppel).
+Sie sind
+erkauft
+aus
+der Menschheit als
+Geschenk
+für Gott
+und
+den Widder.
+In ihrem
+Munde ist keine Lüge;
+sie
+sind
+untadelig vor Gott.
+5v
+Da
+sah
+ich
+einen Boten
+anderer Art (wahrscheinlich
+eine Taube e
+oder
+eine Schwalbe) inmitten
+des Himmels
+ﬂiegen,
+der
+hatte
+eine
+freu
+dige
+Botschaft zu verkündigen:
+das Ende des Gewitters,
+allen die
+auf der Erde
+wohnen,
+den Völkern,
+Stämmen,
+Sprachen
+und Nationen.
+7'
+Und
+er rief mit lauter Stimme: Ehret
+Gott
+und
+lobet ihn,
+denn
+die
+Stunde
+seines Gerichtes ist gekommen.
+Betet an
+den Schöpfer des
+Himmels,
+der Erde,
+des Meeres
+und
+der Wasserquellen.
+Und
+ein
+anderer
+Bote folgte ihm und
+rief:
+8
+Gefallen,
+gefallen
+ist
+die
+grosse
+Feste —
+das Tor Gottes a)
+(die
+Staatskirche),
+gefallen,
+weil
+sie mit dem
+empörenden
+Wein ihrer Un
+zucht alle Völker (beim
+Abendmahl?) ‘) getränkt
+hat.
+Und
+ein
+dritter
+Bote
+eilte
+ihnen
+nach
+und
+rief
+mit
+gewaltiger
+9
+Stimme:
+Wer
+das
+Tier —
+das Reich
+und
+sein Bild
+anbetet
+und
+sein
+Zeichen
+(das Kreuz)
+nimmt,
+um
+es
+auf
+der
+rechten
+Hand
+zu
+tragen
+oder
+auf
+dem
+Kopfe,
+der
+wird
+den
+Wein
+der
+göttlichen
+Empörung
+1o
+trinken,
+der
+in
+dem
+Becher
+seines
+Zomes
+zubereitet
+ist
+(das
+Sternbild
+des Bechers
+ging zu
+dieser
+Zeit in dem feurigen Streifen der
+Abendröte unter), und
+er soll gepeinigt
+werden
+mit Feuer und brennen
+dem
+Schwefel
+(versinnbildlicht
+durch
+die
+verschiedenen
+Farben
+der
+ﬂammenden
+Abendröte) vor
+dem heiligen Boten
+und
+dem Widder.
+Und u
+der Rauch
+von
+ihren Leiden
+wird
+aufsteigen
+in
+alle Ewigkeit.
+Und
+es werden
+keine Ruhe
+haben
+Tag
+und Nacht
+die,
+welche
+das Tier und
+sein Bild
+anbeten
+und
+die
+das
+Zeichen
+seines
+Namens
+annehmen.
+Hier
+12
+ist
+der Grund
+der Geduld
+der Heiligen,
+die Gottes Befehle
+achten
+und
+den Glauben an Jesus
+festhalten!
+Und ich hörte
+eine Stimme aus
+dem Himmel,
+die
+sprach
+zu mir:
+13'
+Schreibe:
+Von
+nun
+an sind
+selig
+diejenigen,
+die
+sterben,
+nachdem
+sie
+die göttlichen Gebote
+gehalten.
+Ja!
+sagt
+die Eingebung,
+sie werden
+von ihrer Arbeit
+ausruhen,
+und ihre Werke
+folgen
+ihnen
+nach!
+Ich schaute
+gen Westen:
+da war
+eine helle Wolke,
+und
+auf der
+14
+Wolke
+sass
+die untergehende Sonne,
+das Ebenbild
+des Menschen
+sohnes,
+mit
+einer
+goldenen
+Strahlen krone
+auf
+dem Kopfe
+und
+mit
+einer
+scharfen
+Sichel
+des neugeborenen“)
+Mondes
+in
+der Hand“).
+Und
+ein
+anderer
+leichter Wolkenbote
+trat
+aus
+dem Hause 15.
+Gottes
+-—
+dem Himmel
+— hervor
+und
+rief mit lauter Stimme dem
+zu,
+der auf der Wolke
+sass:
+Lege
+deine
+Sichel
+an und
+beginne
+die Ernte.
+Denn ihre Zeit ist
+
+--- Page 90 ---
+64
+gekommen,
+der Weizen ist auf dem Acker
+(hinter welchem
+der
+sichel
+artige Mond unterging) reif.
+16
+Und
+der
+auf der Wolke
+sass, liess
+seine Sichel — den Mond
+—
+zur Erde
+herab,
+und
+auf der Erde
+wurde
+abgeerntet.
+17
+Da trat ein anderer Bote (das Sternbild
+des Ochsentreibers,
+Bild 36)
+aus
+dem Hause Gottes im Himmel,
+ebenfalls
+mit
+einer
+scharfen
+Sichel
+13 in
+der
+Hand,
+und
+noch
+ein
+anderer
+Bote,
+der
+die
+Macht
+über
+das
+Feuer
+hatte
+(in
+Gestalt
+einer
+im
+Abendrot
+feurig
+glühenden
+Wolke)
+kam
+vom Sternbild
+des Altars
+und
+rief mit lauter
+Stimme
+zu dem
+Boten
+mit
+der
+Sichel
+(dem
+hinter
+einem
+Weinberg
+niedergehenden
+Ochsentreiber)
+:
+Leg’
+deine
+scharfe
+Sichel
+an und
+schneide
+die Trauben
+des Wein
+stookes
+auf
+der
+Erde,
+denn
+die
+Beeren
+sind reif!
+(Es
+erchien
+das
+Stemlein dritter Grösse
+im Sternbild
+der Jungfrau,
+das man im Altertum
+die Winzerin — Vindemiatrix nannte.)
+m.
+Bild
+36. Sternbild des Ochsentreibers mitselner
+Bild
+37. Sternbild des Fuhrmsnns,
+der Plerdeziiigei
+Sichel
+(nach dem Manuskript
+Grienbergers).
+und des Perseus (n. dem Manuskript
+Grlenbergers).
+Da
+legte
+der Bote seine Sichel
+an auf Erden
+und
+schnitt gleich
+sam
+die Trauben
+am
+Weinstock
+ab
+und warf sie in
+die
+grosse Kelter
+des Zornes
+Gottes (die blutroten Streifen der Abendröte,
+von
+denen sich
+19 die dunklen Umrisse
+eines Weinberges abhoben).
+Und er trat die Kelter
+mit
+den Füssen
+ausserhalb
+der bewohnten
+Erde, jenseits des Welt
+randes,
+und
+das Blut der Abendröte ﬂoss über
+den Rand der Kelter
+—
+des Horizontes —
+tausendsechshundert
+Stadien
+weit
+bis
+zu den
+
+--- Page 91 ---
+65
+Pferdezügeln.
+(Eine Anzahl
+Sterne
+im
+Sternbilde
+des
+Fuhrmanns,
+der
+sich
+damals
+beinahe
+ganz
+im
+Norden
+befand
+7).
+Bild
+37.)
+1)
+113 heisst
+auf
+hebräisch
+Grabhiigel,
+ein
+Haufen
+Steine
+(auf einem
+Grab).
+’)
+Ich
+habe schon
+gesagt,
+dass
+der
+Widder
+am
+30. Septbr.
+395
+ungefähr
+um
+6
+Uhr abends bei Sonnenuntergang
+aufging.
+a)
+Bab-Ilu
+heisst: Tor
+Gottes.
+‘)
+Das ist ersichtlich
+aus
+Kap.
+17,
+Vers
+4—5.
+‘)
+Nach
+den
+astronomischen
+Berechnungen
+befand
+sich
+der Mond
+damals
+in
+der
+Neumondphase,
+durch
+die Finsternis
+vom
+30. Sept. 396
+begleitet,
+welche in diesem
+Augenblick
+durch
+den stillen Ozean ging.
+Aber der Verfasser
+hat sich augenscheinlich
+ein
+wenig
+in
+seiner Berechnung
+versehen,
+und
+als
+er die Sonne
+hinter
+den Wolken
+nicht
+erblickte,
+glaubte
+er,
+dass
+die Finsternis
+schon vergangen
+sei.
+°)
+In der russischen Ausgabe
+seines
+Werkes
+„Das jüngste Gericht
+als eine astrale
+Allegorie“
+bemerkt
+hierzu
+Daniel Swiatsky:
+„An dieser Stelle macht Morosow zwei Voraussetzungen:
+1.
+dass
+der
+aus dem
+Wohnsitz
+Gottes
+herausgekommene
+Bote
+ein Wölklein
+sei,
+und
+2.
+dass
+der Acker und
+der reif gewordene
+Weizen
+tatsächlich
+am Horizonte sichtbar
+waren.
+Nun
+ist
+die
+Notwendigkeit
+zu
+solchen
+Voraussetzungen
+gar
+nicht
+vorhanden.
+Aus der
+Geschichte
+der mythologischen
+Benennungen
+der Sternbilder
+wissen wir,
+dass
+das Sternbild
+des
+Ochsentreibers
+hie und
+da der Verkündiger
+1)
+genannt
+wird.
+Folg
+lich
+ist der Bote,
+der
+mit
+gewaltiger
+Stimme
+ausriet‘,
+kein Wölklein,
+sondern
+das
+Sternbild
+des
+Ochsentreibers.
+Das
+Sternbild
+der Jungfrau
+wurde
+öfters
+mit
+der
+Ceres,
+der
+Göttin
+der Ernte,
+identiﬁziert,
+weshalb
+man ihr auch einen Halm in die
+Hand
+zu
+geben
+pﬂegte
+(die
+Aehre
+der Jungfrau,
+der
+hellste
+Stern
+in diesem Stem
+bilde).
+Auch beﬁndet
+sich über
+der Jungfrau
+das
+Sternbild
+der Haare
+der Berenike,
+das
+im Altertum,
+wie sich jetzt
+herausgestellt
+hat,
+ab
+und zu in Form einer
+Weizen
+garbe
+dargestellt
+wurde.
+So ist
+z. B.
+auf der Darstellung
+des
+Sternbildes
+des Ochsen
+treibers
+bei Hygin
+vom Jahre
+1485
+an Stelle
+der Haare
+der Berenike
+eine Weizen—
+garbe
+sichtbar,
+ebenso wie auch im Atlas
+B
+siers (1603)
+2).
+Folglich ist es nicht
+not
+wendig,
+einen am Horizont sichtbaren
+Acker reifen
+Weizens
+anzunehmen,
+weil
+in der
+Apokalypse
+die Rede
+ist
+von
+den Sternbildern
+der Weizengarbe
+und
+der
+Jungfrau,
+der
+Göttin
+der
+Ernte,
+die
+deren
+Beginn
+segnete,
+(das
+Sternbild
+der Jungfrau
+mit
+der
+Aehre,
+die Mondsichel
+und die Haare
+der Berenike
+gingen
+fast gleichzeitig
+unter)
+und
+nicht
+von
+einer
+tatsächlichen
+auf
+der
+Erde
+stattﬁndenden
+Ernte,
+weil
+für die
+letztere
+die Zeit
+schon lange vorbei
+war
+(Ende
+September).“
+7)
+„Hier“, lesen wirweiter bei Swiatsky‚ „sind ausser einer genauen und malerischen
+Beschreibung
+des astronomischen Bildes wiederum die folgenden Voraussetzungen
+gemacht:
+l.
+Der
+Bote,
+der die Macht
+über
+das Feuer
+hatte, ist ein Wölklein,
+das
+von den
+Strahlen
+der Abendröte
+mit
+feurigen
+Farben
+belichtet
+wird,
+und
+2.
+die
+Trauben
+als
+dunkle
+Abrisse
+der Weintrauben,
+die
+sich
+auf
+dem
+Hintergrunde
+der Abendröte
+abmalten.
+Aber
+wiederum
+besteht
+gar
+keine Notwendigkeit
+zu
+diesen Voraussetzungen,
+wenn wir uns
+zur Geschichte
+der mythologischen
+Benennungen
+der Sternbilder
+wenden.
+Die
+Trauben
+sind ebenfalls
+am
+Himmel
+vorhanden
+gewesen,
+nämlich
+im Stern
+e
+der
+Jungfrau.
+Er
+heisst
+auf
+lateinisch
+„Vindemiatrix“,
+d.
+h.
+die
+Winzerin
+(französisch
+l)
+Flamarion:
+Der
+Sternhimmel
+und
+seine
+Wunder.
+’)
+Ibidem.
+Morosow. Die Offenbarung
+Johannis
+5
+
+--- Page 92 ---
+66
+„Vendangeuse“).
+In verschiedenen
+alten Sprachen,
+z. B. im Arabischen,
+Persischen
+und
+mitunter
+auch im Griechischen,
+in welchem die Apokalypse
+geschrieben
+werden,
+hatte
+dieser Stern
+den gleichen
+Namen.
+Dieser
+Stern
+bildet
+mit
+seinen
+Nachbarsternen
+eine Gruppe,
+welche,
+ähnlich
+dem Sternbild
+des
+Ochsentreibers,
+Verkündiger
+oder
+Ausschreier
+hiess').
+Da
+er sich
+im Streifen
+der Abendröte
+befand,
+so
+wurde
+er
+auch
+der
+über
+das
+Feuer
+Macht
+habende Bote,
+der mit
+gewaltiger
+Stimme
+ausrief‚
+genannt.
+Der
+Ausdruck
+aber,
+dass
+dieser Bote
+vom
+Sternbilde
+des Altars kam,
+bedeutet
+augenscheinlich
+die Richtung,
+in der der Stern
+s der Jungfrau
+von Südwesten,
+wo
+am
+Horizont
+noch
+das
+Sternbild
+des Altars sich befand,
+am
+westlichen
+Horizont verschwand.
+Herr N. A. M orosow
+war
+mit dieser Ansicht einverstanden
+und lenkte meine
+Aufmerksamkeit
+auf den Umstand,
+dass
+der Stern,
+„die Winzerin“,
+sich an den Füssen
+des
+Ochsentreibers
+beﬁndet,
+der
+die Trauben
+mit
+den Füssen
+zerquetschte
+und
+diese
+in
+das
+Blut der Abendröte
+umwandelte
+(V. 20).
+So
+sehen
+wir,
+dass
+die
+Richtigkeit
+der Morosowschen
+Methode
+sich
+sogar
+ohne sein Zutun
+bestätigt.
+Und zwar
+wurden
+diejenigen
+Einzelheiten
+der Apokalypse
+unklar,
+wo
+er von
+deren astraien Deutung
+abgewichen
+ist.“
+‘) Ibidem.
+Kapitel XV.
+Die
+ersten grossen
+Sterne
+erscheinen
+am
+östlichen
+verdunkelten
+Teil
+des Himmels.
+2
+Und
+ich
+sah
+es
+über
+mir 1)
+wie
+ein
+gläsernes
+Meer mit
+dem
+Feuer
+der Ab endröte
+gemischt,
+und
+die,
+welche Sieger über das
+Tier — das Reich
+und
+sein Bild
+in der Wolke
+—- und
+sein Zeichen
+(das
+Kreuz)
+und
+die
+Zahl
+seines
+Namens
+geblieben
+waren,
+standen
+auf diesem
+gläsernen
+Meere in Ge
+stalt von Sternen mit der himm
+lischen Zither 2) (Sternbild der Leier,
+Bild
+38),
+das
+im
+Zenith
+stand?)
+Sie sangen
+den Hymnus
+des Moses,
+des
+Knechtes
+Gottes:
+„Höre
+zu,
+Himmel;
+ich werde
+sprechen.
+Höre,
+Erde,
+die
+Worte
+meines
+Mundes.
+Ergiessen wird
+sich
+wie
+der Regen
+meine
+Lehre,
+wie Tau
+wird
+meine
+Rede sein,
+wie ein Sprühregen
+auf
+das Grüne,
+wie
+ein
+Platzregen
+auf
+das
+Gras.
+Ich
+preise
+den
+Namen
+Bild 38.
+Sternbild
+des
+Schwanes
+und der Leier
+ren1
+Gott
+(nach dem Manuskript
+Orienbcrgers
+1612).
+des
+Herrn'
+Gebet
+unse
+
+--- Page 93 ---
+67
+die Ehre! Er ist die Feste,
+und seine Werke
+sind vollkommen
+. . . Gott ist
+wahrhaftig,
+bei ihm ist
+keine Lüge“),
+und sie
+sangen
+einen
+Hymnus
+auf den Widder:
+Gross
+sind
+deine Werke und unerforschbar,
+Du
+mächtiger
+Herrscher
+der Welt!
+Auf Wegen,
+die
+ewig
+gerecht
+sind
+und wahr,
+Fährst du deine Heil‘gen
+ins Feld.
+Wer zollt deinem Namen
+nicht Lob
+und nicht Preis ?
+4
+Wer fürchtet
+auf Erden dich nicht?
+Es kommen
+die Heiden
+und danken
+dir
+heiss,
+Denn
+offenbar
+ward
+dein Gericht“)
+*) Uebers.
+von F. F. Fiedler.
+Und
+nun
+öﬁnete
+sich
+im Himmel
+das Innere
+des blauen
+Zeltes
+5
+des
+Zeugnisses
+(die
+ersten
+grossen
+Sterne
+leuchteten
+auf),
+und
+es
+er- 6
+schienen
+im Westen
+sieben
+neue Wolkenboten
+mit
+den
+letzten
+sieben
+Plagen
+—— Regengüssen.
+Sie waren in helle Leinwand
+gekleidet,
+um
+die Brust
+trugen sie
+goldene
+Gürtel
+(von
+dem Schein der Abendröte).
+Eins
+von
+den
+vier
+Tieren
+(Sternbild
+des
+Schützen)
+‘)
+gab
+ihnen
+7
+sieben
+goldene Wolkenschalen,
+die
+waren voll von
+dem Zorne des
+ewigen Gottes.
+Und
+das von den Sternen
+bewohnte
+Haus Gottes füllte
+8
+sich
+mit
+Rauch
+(wurde
+in Nebel
+gehüllt)
+von
+der
+Herrlichkeit
+Gottes
+und seiner Macht, und niemand
+konnte
+in das Innere des Himmels
+hineinschauen,
+bis die
+sieben
+Plagen
+der
+sieben
+Wolkenboten
+beendigt
+waren.
+l) Der
+erste Vers
+ist
+von
+mir in das
+andere Kapitel übertragen
+werden,
+von
+wo
+er von
+dem vorausgelaufenen
+Abschreiber
+hierher
+gesetzt werden
+ist, wie
+dies
+aus
+dem Sinne klar hervorgeht.
+’) Das Pluralis
+gehört
+augenscheinlich
+dem Abschreiber.
+”) 2.
+Moses,
+Kapitel
+32,
+Der
+Anfang.
+‘) Dies
+war
+damals auf
+der Südseite
+des
+Horizontes,
+und die Wolken
+mit
+den
+Schalen
+waren
+im Westen,
+wie
+das
+aus
+ihrer
+goldenen
+Färbung
+zu
+schliessen ist.
+
+--- Page 94 ---
+68
+XVI. Kapitel.
+Sieben
+kurze Regengüsse
+aus
+den Wölkchen,
+den Begleitern
+des Gewitters,
+die während
+der Abendröte vorbeiﬂogen.
+1
+Da
+sah
+ich
+am
+Himmel
+ein
+neues
+Zeichen,
+gross
+und
+wunder
+bar:
+sieben
+Boten
+mit
+den
+letzten
+sieben
+Plagen,
+damit
+dem
+Zorne
+Gottes durch
+sie Genüge
+geleistet
+würde
+l),
+und ich hörte
+eine gewaltige
+Stimme
+aus
+dem
+von
+den Sternen
+bewohnten
+Teil
+des
+Himmels,
+die sprach:
+Ziehet
+hin
+und
+giesset
+die
+sieben
+Schalen des Zornes
+Gottes auf
+die Erde!
+2
+Da
+ging
+der
+erste
+Bote
+hin
+und
+goss
+seine
+Schale
+aus
+auf
+das
+Uf
+e
+rl and — und
+es entstand
+ein verderblicher böser Ausschlag (Spritzen
+des Schlammes?)
+bei
+den Menschen
+(die wahrscheinlich
+aus Furcht vor
+dem Erdbeben
+hierher
+zusammengelaufen
+waren),
+die
+das Zeichen
+des
+Tieres
+(des Kreuzes)
+hatten
+und
+sein Bild
+anbeteten.
+3
+Der
+zweite
+Bote
+goss
+seine
+Schale aus über
+das
+Meer,
+und
+es
+wurde zu Blut,
+wie von
+einem
+Ermordeten
+(wahrscheinlich
+infolge
+des
+blutigen
+Scheines
+der
+Abendröte),
+und
+jedes
+lebende
+Wesen erstarb im
+Meer (schlief bis zum Morgen
+ein).
+4
+Der
+dritte
+Bote
+goss
+seine
+Schale
+aus
+über
+die
+Ströme
+und
+5Wasserquellen
+der
+Insel.
+Da
+wurden
+auch
+sie
+zu Blut.
+Und
+ich
+hörte
+den Boten der Gewässer
+eines murmelnden
+Baches
+sagen:
+Gerecht
+bist
+du,
+unser
+Herrscher,
+der
+de.
+ist,
+der
+da war,
+der
+6
+Heilige,
+der
+du
+dieses
+Gericht
+vollzogen
+hast.
+Denn sie haben das Blut
+der Heiligen
+und Propheten vergossen,
+und du hast ihnen Blut zu trinken
+gegeben.
+Sie haben
+es verdient.
+7
+Und ich hörte
+(im
+Plätschern
+des fast
+ruhig gewordenen
+Meeres?)
+eine
+andere
+Stimme vom
+Sternbild
+des Altars her:
+Ja,
+Herr,
+allmächtiger
+Gott,
+wahr
+und
+gerecht
+sind
+deine
+Ge
+richte!
+8
+Und
+der
+vierte
+Bote
+goss
+seine
+Schale
+aus
+über
+die unter
+9
+gegangene
+Sonne:
+da
+ward ihm
+die Macht
+verliehen,
+die
+Menschen
+im Feuer
+der Abendröte
+zu verbrennen.
+Und
+die Menschen
+wurden
+glühend von der
+gewaltigen Hitze
+und
+lästerten den Namen des Gottes,
+der Macht
+hatte
+über
+solche Plagen,
+aber sie
+taten keine Busse,
+ihm die
+Ehre
+zu geben.
+10
+Und
+der
+fünfte
+Bote
+goss
+seine
+Schale
+aus
+auf
+den Thron
+des
+Tieres
+—— des Kaisers“);
+und
+sein Reich wurde verﬁnstert
+(in
+der
+zu
+n nehmenden
+Abenddämmerung)‚
+und
+sie
+bissen
+sich
+auf die Zunge
+vor
+
+--- Page 95 ---
+69
+Pein
+und
+lästerten
+Gott
+im
+Himmel
+wegen
+ihrer
+Leiden
+und
+ihres
+Unglücks,
+aber
+sie taten
+nicht
+Busse
+wegen
+ihrer Werke.
+Der
+sechste Bote goss seine Schale über den grossen Strom Euphrat
+12
+aus.
+Da
+trocknete
+sein
+Wasser
+aus,
+um
+den Königen
+im Osten
+den
+Weg
+zu
+bereiten
+(versinnbildlicht
+durch
+das hinter
+dem Euphrat
+auf
+gehende
+Sternbild
+des Perseus
+mit
+seinem
+hoch
+erhobenen
+Schwert).
+Und
+ich
+sah
+aus
+dem Maul
+des Sternbildes des Drachen auf13
+der Hirn melshöhe
+und
+aus
+dem
+Rachen
+des
+Tieres
+(von
+Spanien
+her, Bild
+33) und aus
+dem Munde
+des
+Pseudopropheten
+(von Jerusalem
+her?)
+drei
+unreine
+Geister
+(dunkle,
+unförmliche Wolken)
+hervorgehen,
+die
+wie Frösche
+aussahen.
+Das sind Geister von heidnischen
+Göttern,
+welche Zeichen
+tun.
+Sie
+ziehen
+hin
+zu
+den
+Königen
+der
+ganzen
+Erde,
+um
+sie
+zum
+14
+Kampfe
+gegen
+den Widder
+am
+grossen
+Tage
+des
+allmächtigen
+Gottes
+zu
+versammeln.
+Und
+sie
+versammelten
+sich
+an
+dem
+Orte,
+der
+auf 15
+hebräisch
+Hüter der frohen Botschaft
+genannt
+wird
+(Sternbild
+des
+Schützen,
+das
+astrologische
+Haus
+des
+Glaubensbekenntnisses).
+(Siehe,
+ich komme
+wie
+ein Dieb!
+Selig, wer da wacht und
+seine
+16
+Gewande
+bereit
+hält,
+dass
+er
+nicht
+nackt
+wandle
+und
+man
+seine
+Schande
+sehe.)
+Der
+siebente
+Bote
+goss
+seine Schale aus in
+die Luft
+(eine Wolke 17
+ging
+ohne Regen
+vorbei),
+und
+aus
+dem
+von
+den Sternen
+bewohnten
+Inneren
+des
+Himmelszeltes
+ertönte
+vom Thron
+her
+eine laute Stimme
+und
+rief:
+Es ist
+geschehen!
+Da
+kamen Blitze
+und Stimmen und Donnerpfeilä)
+und der vierte
+18
+Stoss
+des Erdbebens,
+wie
+noch
+keines
+gewesen,
+seit
+Menschen
+auf der
+Erde
+wohnen.
+Solch ein gewaltig
+grosses
+Erdbeben!
+Und
+die
+grosse
+19
+Feste
+(die
+felsige
+Uferwand)
+zerbarst in drei Teile,
+und die
+Städte
+der
+Heiden
+sanken
+dahin.
+Und
+von
+Gott
+wurde
+des
+grossen
+Tores
+des
+Himmels‘)
+(der
+herrschenden
+Kirche)
+gedacht,
+damit
+er
+ihm
+aus
+dem 20
+Becher
+seiner
+Empörung
+und
+seines
+Zornes
+zu trinken
+gäbe.
+Und
+die
+ganze
+Insel 5)
+schien
+davonzulaufen (eine
+gewöhnliche
+Illusion infolge
+des
+vom Ufer
+wegen
+der
+Bodenschwankungen
+abgeﬂossenen
+Wassers),
+und
+die
+Höhen
+am Ufer
+verschwanden.
+Ein
+Hagel
+von
+Steinen,
+21
+wie ein Talent °) schwer,
+ﬁel herab
+vom
+Himmel auf die
+Menschen
+(die
+am Ufer zusammengelaufen
+waren?)
+Und
+die
+Menschen
+lästerten Gott
+wegen
+des Hagels,
+denn ihre
+Schmerzen
+waren
+sehr
+gross.
+l) Diese
+Zeile
+ist
+durch
+den Irrtum
+des
+Abschreibers
+in den Anfang
+des
+vor
+herigen
+Kapitels gestellt,
+wo
+sie
+ihrem Inhalte nach gar keinen Platz hat.
+Wahrschein
+lich begann
+er
+dieses Kapitel
+sofort
+nach
+dem fünfzehnten
+abzuschreiben.
+Er bemerkte
+
+--- Page 96 ---
+70
+den Irrtum
+auch
+sogleich;
+da
+er
+aber
+das
+teure Pergaxnent
+nicht
+vernichten
+wollte,
+liess er den Vers dort.
+’) D. h. in
+der Richtung
+gegen Konstantinopel.
+') a'o‘tgnmmf — Donner-Pfeile,
+Blitze,
+abgekürzt
+von
+a'0'tegormi.
+‘) Babylon
+(Bab Jlu)
+heisst Tor
+des
+Gottes.
+"')
+mies:
+yi;o'og— die ganze Insel.
+°)
+IaÄ.rwnaio;
+—- ein Talent
+schwer =
+55 Pfund und 2Lot,
+etwa l‘/, Zentner.
+XVII. Kapitel.
+Die
+Wolkensilhouette
+des Weibes mit dem Kelche
+auf dem
+purpurnen
+Hintergrunde
+der verlöschenden
+Abendröte.
+l
+Und
+wiederum
+erschien
+am Himmel
+einer
+von
+den
+sieben Wol
+kenboten,
+die vorher
+die
+sieben
+Schalen gehabt
+hatten.
+Der
+ﬂüsterte
+mir also zu
+‘):
+„Komm
+her,
+ich
+werde
+dir
+das
+Gericht
+über
+die
+grosse
+Dirne
+2
+zeigen
+(die
+Staatskirche
+2),
+die auf den
+vielen
+Wellen
+— Völkern
+—
+sitzt.
+Die Könige
+der Erde
+haben
+init ihr
+gebuhlt,
+und
+die Bewohner
+der Erde
+haben
+sich
+an
+dem Weine
+ihrer
+Unzucht
+berauscht.
+Und
+er
+führte
+mich,
+da
+ich
+im Zustande
+der Verzückung
+mich
+a
+befand,
+an
+einen
+einsamen
+Ort.
+Da
+gewahrte
+ich
+(in
+den
+Umrissen
+der Wolken
+auf
+dem feurigen
+Hintergrunde
+der Abendröte)
+ein Weib,
+das
+sass
+auf
+einem
+scharlachroten
+Tier
+mit
+sieben
+Köpfen
+und
+zehn
+Hörnern,
+voll
+mit
+Symbolen
+der
+Gotteslästerung
+(das
+Sternbild
+der
+4
+weiblichen Hydra).
+Das Weib war bekleidet mit Purpur
+und
+Scharlach
+der Ab endröte und über und über mit Gold und Perlen und Edelsteinen
+geschmückt.
+In
+der
+Hand
+hielt
+es
+einen
+goldenen
+Becher
+(aus
+Wolken
+oder
+auch
+den Becher
+auf der Hydra, Bild 39),
+voll
+Greuel
+5
+und
+Unreinlichkeit
+ihrer Unzucht.
+Auf ihrer Stirne
+stand
+geschrieben:
+Mysterium!
+")
+Die
+grosse
+Feste
+„die Pforte Gottes“,
+die Mutter der Buhler
+und aller Greuel
+auf Erden!
+e
+Und
+ich
+sah
+das
+Weib
+(auf
+dem
+Hintergrunde
+der
+Abendröte)
+tranken
+vom Blut
+der Heiligen
+und
+vom Blut
+der
+Zeugen
+Jesu.
+Als
+7ich
+sie
+erblickte,
+verwunderte
+ich
+mich
+sehr.
+Der Bote aber
+sprach
+zu mir:
+Warum
+wunderst
+du
+dich?
+Ich
+werde
+dir
+das
+Geheimnis
+dieses
+Weibes
+und
+des Tieres erklären,
+von
+dem
+sie
+getragen
+wird,
+mit
+den
+
+--- Page 97 ---
+71
+sieben
+Häuptern
+und
+den
+zehn ‚Hörnern.
+Das
+Tier,
+das
+du
+gesehenß
+hast,
+war
+und ist nicht mehr
+(das Reich
+war
+schon
+zwischen Arkadius
+und Honorius
+geteilt) ‘)
+und wird wieder aus dem Abgrund
+heraufsteigen
+und
+ins
+Verderben
+gehen.
+Und
+staunen
+werden
+die
+Bewohner
+der
+Erde,
+deren
+Namen nicht von Anbeginn
+der Welt
+an 5) im Lebensbuche
+geschrieben
+stehen,
+wenn
+sie
+das Tier sehen,
+dass
+es früher war und
+jetzt
+nicht
+mehr
+ist
+und
+wieder
+erscheinen
+wird.
+Hier ist
+ein
+weiser 9
+Sinn:
+Die
+sieben Häupter
+sind sieben Hügel,
+auf denen das Weib thront
+\»
+n
+r-
+4EYI°
+.
+T"
+Fa
+.TF;_._
+H
+7*rK
+“"""
+1.:;‚__A_‚
+1,.
+’Qr
+w
+n
+‚J
+y
+Iv{\'e
+'
+m“
+l\e f '‚Il'° Y
+Bild
+39.
+Sternbild
+der weiblichen
+Hydra
+und des Bechers nach dem Manuskript
+Grienbergers
+l612.
+(die
+Staatskirche)
+und
+zu
+gleicher Zeit
+sind
+es
+auch
+sieben
+Könige
+6).
+10
+Fünf
+von
+ihnen
+haben
+schon
+regiert (Konstantin,
+Konstantins,
+Julian,
+Valens,
+Theodosius),
+der
+sechste
+(Arkadius)
+herrscht
+noch,
+der
+siebente
+aber
+(J
+ovianus, der während des Feldzuges
+363
+zum
+Kaiser
+ausgerufen,
+aber
+ohne Konstantinopel
+erreicht zu
+haben,
+unterwegs gestorben
+war)
+ist
+noch
+nicht
+gekommen;
+wenn
+er
+aber
+kommt,
+so
+wird
+er
+nicht
+lange
+bleiben (nur bis zum
+13. März
+399).
+Das Tier aber,
+das vorher
+11
+(in
+den Wolken war)
+und jetzt
+nicht mehr vorhanden
+ist, ist
+der
+achte
+Herrscher
+(das Reich
+selbst);
+es besteht
+aus
+diesen
+sieben
+und
+geht
+ins Verderben.
+Die
+zehn
+Hörner,
+die du gesehen hast,
+sind zehn Könige,
+12
+welche
+die Herrschaft
+noch
+nicht
+angetreten
+haben,
+aber
+mit Hilfe
+des
+Tieres — des Reiches — auf eine Stunde die Macht
+erhalten werden.
+13
+Alle
+werden
+sie einmütig
+sein und ihre Macht und Gewalt dem Tiere zur
+Verfügung
+stellen.
+Sie
+werden
+mit
+dem
+Widder
+kämpfen,
+aber
+der
+14
+
+--- Page 98 ---
+72
+Widder
+wird sie besiegen,
+denn er ist der Herr der Herren,
+der König der
+15 Könige, und seine Genossen sind die Berufenen,
+Auserwählten und Getreuen.
+Und
+er sprach
+zu mir:
+Die Wellen
+des Mittelmeeres,
+welche
+du
+siehst,
+wo
+die
+Buhlerin
+sitzt,
+stellen
+Völkerscharen,
+Nationen,
+16 Stämme
+und
+Sprachen dar.
+Das Weib selbst
+aber
+bedeutet
+die
+grosse
+Feste,
+die Staatskirche,
+die über die irdischen Könige
+herrscht“).
+17 Die
+zehn
+Hörner,
+die
+du
+in
+den Wolken
+auf
+dem
+Tiere
+gesehen
+hast,
+werden
+sie hassen,
+sie ausplündern,
+entblössen,
+sie verzehren
+und
+18 sie im Feuer
+verbrennen.
+Denn Gott hat ihnen ins Herz gegeben,
+seinen
+Willen
+auszuführen,
+einmütig
+zu handeln
+und
+darauf
+ihre Herrschaft
+dem Tiere zu übergeben,
+bis die Worte Gottes vollendet
+sind.
+’) Ä«Hw — ich
+töne,
+zwitschere,
+schwütze,
+düstere.
+2) D. h. die Partei
+des
+Theophilos
+von Alexandria,
+die im Jahre
+395
+in Byzanz
+die
+herrschende
+war.
+Diese ganze Periode
+der byzantinischen
+Geschichte
+ist bekannt
+durch
+den rücksichtslosen
+Kampf
+der staatlichen
+Kirche
+in Byzanz
+mit
+den
+Parteien
+des
+Christentums,
+die den Bund
+der Kirche
+mit
+dem Staat
+nicht
+anerkennen
+wollten.
+Im
+Haupte
+der Opposition
+stand
+zu
+jener
+Zeit
+der
+begabteste
+Prediger
+der
+ersten
+Jahrhunderte
+des
+Christentums
+— Johannes
+Chrysostomus.
+Im
+letzten
+Teil
+meines
+Werkes
+werde
+ich zeigen,
+dass
+die Apokalypse
+fast zweifellos
+eines
+von seinen Pam
+phleten
+ist.
+3) ‚uvo‘rq'gwu
+heisst religiöses Geheimnis,
+Mysterium.
+Für ein gewöhn
+liches
+Geheimnis
+brauchte
+man andere Worte
+z. B.
+112 xgvnro’.
+Hier
+handelt
+es sich
+offenbar
+um
+das
+Geheimnis
+des
+Abendmahls,
+welches
+in
+allen
+östlichen
+Kirchen
+in
+goldenen
+Bechern
+dargereicht
+wird.
+Offenbar
+gossen
+die
+Bischöfe
+des IV.
+Jahr
+hunderts
+zum
+Wein
+des
+Abendmahls
+irgend
+ein
+„Greuel“
+bei,
+das
+dem Wein den
+Anschein
+und
+den
+Geschmack
+des
+Blutes
+verlieh,
+und
+gaben
+dies für eine Wundertat
+aus.
+Nur
+dann
+erst
+beginnen
+alle
+Ausdrücke
+des
+Johannes,
+die
+man
+in
+diesem
+Buche
+ﬁndet,
+verständlich
+zu werden,
+und warum
+er (Kap. XVI) alle,
+die dem Tiere
+dienen (Kirche
+und
+Staat) Blut zu trinken
+zwingen
+will.
+Stellen
+der Apokalypse,
+die diesen Gedanken
+bestätigen,
+sind folgende:
+„Alle Völker kosteten den abscheulichen
+Wein
+ihrer
+Hurerei
+(nogveinrg,
+Kap. XVIII,
+3)
+. .
+.
+„Handelt mit
+ihr,
+wie
+sie mit
+euch
+gehandelt
+hat.
+Bezahlt
+ihr
+das
+Doppelte
+für
+ihren
+Betrug:
+in
+den
+Schalen,
+worin
+sie
+euch
+den
+Wein
+verdünnt
+hat,
+verdünnt
+ihn
+ihr
+selbst
+zweimal
+(Kap.
+XVIII,
+6) . . . . . . „Mit
+dieser Mixtur
+(qmgymrsirr) sind alle Völker irregeführt
+worden!
+(Kap. XVIII,
+23)
+.
+.
+.
+.
+„Wer
+sich
+vor
+dem
+Tiere
+verbeugt,
+wird
+den Wein
+der
+göttlichen
+Empörung trinken,
+der ohne
+Zutaten
+in der
+Schale
+seines Zornes
+vor
+bereitet
+ist (Kap. XIV,
+10).
+Der
+Leser
+wird
+selbst noch
+andere
+Texte
+gleicher Art ﬁnden.
+Wenn die byzantinischen
+Bischöfe
+der Staatspertei
+zum Wein einfaches warmes
+Wasser
+zugemischt
+hätten,
+so
+hätte der Verfasser
+keinen Grund
+gehabt,
+diese
+Mischung
+eine Abscheulichkeit
+und Unreinlichkeit zu nennen
+und
+der
+grossen
+Feste
+zu
+drohen,
+dass
+ihr selbst doppelt
+so
+viel
+auf die gleiche
+Art
+zugemischt
+werde.
+Ich
+füge
+noch
+hinzu,
+dass
+Babylon
+(Bub-Du)
+in
+Uebersetzung
+„das Tor
+Gottes“
+heisst,
+wodurch
+erklärt
+wird,
+dass
+Johannes
+diesen Namen für die byzan
+tinische Kirche verwendete.
+‘) Im Januar
+395, acht Monate
+vor
+diesem
+Sturm.
+
+--- Page 99 ---
+73
+"’)
+aino‘ xataﬁol'r];
+xo'o'you — vom Anbeginn der Welt.
+Diese Ausdrücke
+beziehen
+sich, wie
+es scheint,
+auf
+das
+vor
+ihnen
+stehende Wort
+ßrßlllov.
+In der Kopie,
+aus
+der
+ich übersetzte,
+steht dieser
+ganze Ausdruck
+in Klammern,
+als
+eingeschaltet.
+‘)
+Der
+Begründer
+des
+byzantinischen
+Reichs,
+Konstantin
+I.
+vom Jahre
+330
+bis
+337
+und
+sein
+Nachfolger
+Konstantius
+(337—361);
+Julian
+(361—363);
+der
+nicht
+bis
+Byzanz
+gelangte Jovianus
+(363—364);
+Valens
+(364—378);
+Theodosius
+(378 bis 17. Ja
+nuar
+396)
+und
+endlich
+Arkadius (17. Januar
+395—408).
+7)
+Diesen
+Satz,
+den
+der
+Abschreiber,
+aus
+Versehen,
+wie
+es
+scheint,
+an
+den
+Schluss
+des
+Kapitels
+gestellt hat,
+habe
+ich,
+um
+den
+logischen
+Zusammenhang
+des
+Ganzen
+beizubehalten,
+hierher
+übertragen.
+xvm. Kapitel.
+Das
+nächtliche
+Meteor und
+das Wehklagen
+aller Könige und
+Händler
+der
+Erde
+über
+den
+Untergang
+der
+grossen
+Feste
+„der
+Pforte Gottes“.
+Darauf
+gewahrte
+ich
+in
+der
+eingetretenen
+nächtlichem
+Dunkelheit
+einen
+neuen Boten
+(ein
+helles
+nächtliches Meteor),
+der
+kam
+vom
+Himmel
+mit:
+grossem
+Glanz.
+Die Erde
+leuchtete
+von
+seinem
+Ruhm.
+Und
+er rief mit starker Stimme:
+2
+Sie ist
+gefallen,
+gefallen
+ist
+die
+grosse Feste,
+„die Pforte
+Gottes“.
+Sie
+ist
+eine
+Wohnstätte
+der
+heidnischen
+Götter
+l)
+und.
+ein Aufenthalt
+für alle unreinen Geister
+und
+aller unreinen und
+hässlichen
+Vögel
+ge
+worden!
+Von
+dem
+Wein
+ihrer
+Unzucht
+haben
+alle Völker getrunken,
+3
+und
+die Könige
+der
+Erde
+haben
+mit
+ihr
+gebuhlt,
+und
+die
+Kaufleute
+der Erde
+sind
+durch
+ihre
+ungewöhnliche
+Ueppigkeit
+reich
+geworden!
+Und
+ich
+hörte
+eine
+andere
+Stimme
+vom
+Himmel,
+die
+sprach:4
+Gehe
+fort
+von hier,
+mein Volk, damit du nicht
+an ihren
+Sünden
+teil
+nimmst
+und
+von
+ihren Plagen
+mit
+betroffen
+wirst,
+denn ihre Sündens
+reichen
+bis
+zum
+Himmel,
+und
+Gott hat ihres Frevels
+gedacht.
+Tut mit
+s
+ihr,
+was
+sie
+mit
+euch
+getan
+hat!
+Vergeltet
+ihr
+doppelt
+nach
+ihrem
+Tun
+2).
+In
+dem Kelche,
+in
+dem
+sie
+euch
+den
+Wein
+gemischt
+hat“),
+mischt ihr doppelt soviel desselben Greuels
+und der Unreinlich-7
+keit!
+So
+viel
+sie
+geprunkt
+und
+geschwelgt hat,
+so viel
+gebt
+ihr
+an
+Qual und Jammer.
+Spricht
+sie
+doch
+in ihrem Herzen: Ich throne hier
+als
+Königin,
+und
+Witwe
+bin
+ich
+nicht
+und
+Trauer
+werde
+ich
+nicht
+sehen!
+Deshalb
+sollen
+an
+einem
+und
+demselben
+Tage
+auf
+sie
+kommenß
+Plagen
+und
+Unheil
+und Vernichtung
+und Erniedrigung
+und Armut.
+Mit
+Feuer soll
+sie verbrannt
+werden,
+denn
+stark ist Gott,
+der Herr,
+der
+sie
+richten wird!
+
+--- Page 100 ---
+74
+9
+Und
+weinen
+und.
+wehklagen
+werden
+über sie alle Könige der Erde,
+die
+mit
+ihr
+gebuhlt
+und geschwelgt haben,
+wenn sie
+den Rauch ihres
+10 Brandes
+sehen
+werden.
+Von
+ferne
+werden
+sie stehen,
+ihre
+Qual und
+Furcht
+miterleben
+und
+ausrufen:
+Wehe,
+wehe
+dir,
+du
+grosse
+Feste,
+„Pforte Gottes“.
+In
+einer
+Stunde
+ist dein Geschick
+entschieden
+werden.
+11
+Und
+die
+Kaufleute
+der
+Erde
+weinen
+und
+klagen über sie,
+denn
+12 niemand
+kauft
+jetzt
+mehr
+ihre Ware:
+Ware
+von
+Gold,
+Silber
+und
+Edelstein
+und
+Perlen
+feine Leinwand
+und
+Seide,
+Purpur,
+Scharlach
+und
+Thujahölzer
+‘),
+Erzeugnisse
+aus Elfenbein
+und
+allerlei
+Gerät aus kost
+barem
+Holz,
+aus Erz,
+Kupfer
+und
+Marmor.
+Und
+niemand
+kauft jetzt
+13 Zimmet
+und
+Räucherwerk‘)
+und
+Myrrhen
+und
+Weihrauch
+und
+Wein
+und
+Gel und
+Weizen
+und Korn und
+Grossvieh
+und
+Schafe
+und
+Bosse,
+Wagen
+und
+Menschenleiber
+oder
+Seelen.
+14
+Die Früchte,
+die Lust
+deiner
+Seele,
+sind
+von
+dir
+gewichen,
+und
+aller Flitter
+und Glanz sind dir verloren;
+du wirst sie nicht mehr
+ﬁnden!
+15
+'
+Und
+von
+ferne
+werden
+alle
+stehen,
+die
+dir
+Waren
+verkauften
+und reich geworden
+sind durch dich;
+mit Furcht
+werden
+sie deine
+Qualen
+16 miterleben,
+heulend,
+klagend,
+und werden
+sprechen:
+Wehe,
+wehe dir, du
+grosse
+Feste!
+Mit
+feiner
+Leinwand,
+mit
+Purpur
+und
+Scharlach
+warst
+du bekleidet und
+über
+und
+über
+mit Gold,
+Perlen
+und Edelsteinen
+ge
+17 schmückt. In
+einer
+Stunde
+ist all dieser grosse Reichtum verschwunden.
+18
+Und
+alle
+Steuerleute,
+Küstenführer,
+Schiffer
+und
+alles,
+was zur
+See
+fährt,
+standen
+von
+fern
+und jammerten,
+als
+sie
+den Rauch ihres
+Brandes
+sahen,
+und
+riefen:
+Was ist dieser
+grossen
+Feste
+gleich
+gewesen?
+19
+Und
+sie
+streuten
+Asche auf ihre Häupter
+und
+riefen
+unter Heulen
+und
+Wehklagen:
+Wehe,
+wehe,
+du
+grosse
+Feste,
+durch
+deren
+Ueppigkeit
+reich
+ge
+worden
+sind
+alle,
+die
+Schiffe
+auf
+dem Meere
+besitzen!
+Verwüstet
+in
+einer
+Stunde!
+20
+[Freue
+dich
+darüber,
+Himmel,
+und
+ihr
+heilige
+Apostel
+und
+Propheten,
+denn
+Gott hat sein Gericht
+an ihr vollzogen
+!]
+21
+Da
+nahm
+der
+eine
+von
+den starken Boten
+(die
+in
+der
+Dunkelheit
+der
+Nacht
+unsichtbar
+waren)
+vom
+Ufer
+einen
+Stein,
+so
+gross
+wie
+ein
+Mühlstein‚
+und
+warf ihn
+ins Meer
+(man
+hörte
+in der Dunkelheit
+das Wasser
+von
+seinem Falle plätschern)
+und
+sagte
+dadurch:
+Mit
+solchem
+Schwunge wird
+auch
+die
+grosse
+Feste,
+„die
+Pforte
+Gottes“
+gestürzt
+werden
+und
+für immer verschwinden!
+22
+Und
+man
+wird
+nicht
+mehr
+vernehmen
+in dir
+den Ton
+der Harfen
+spieler
+noch
+die
+Stimmen
+der
+Sänger
+und
+Posaunenbläser
+noch
+die
+Musik der Flötenspieler
+und
+die
+Spiele
+anderer
+Instrumente!
+Weder
+
+--- Page 101 ---
+75
+Kunst
+noch
+Künstler
+wird
+man
+in
+dir
+ﬁnden,
+und
+das Geräusch
+der
+Mühlsteine
+wird
+verstummt
+sein!
+Das Licht der Lampe
+soll dir nicht 23
+mehr
+scheinen,
+die
+Stimme
+des Bräutigams
+und
+der Braut
+soll in dir
+nicht mehr gehört werden,
+denn
+du
+hast
+die Machthaber
+der Erde
+mit
+dir handeln lassen,
+und durch
+dein Gemisch (im
+goldenen
+Kelche)
+sind
+betrogen
+worden alle Völker.
+Und
+gefunden
+ist in dir
+das Blut aller Verkünder
+der
+Wahrheit,
+24
+aller Unschuldigen
+und
+aller,
+die
+um
+der Wahrheit
+willen
+auf Erden
+zu Tode gemartert sind.
+l) J‘ai/Jury — heidnische
+Gottheit,
+Genius,
+Schutzgeist,
+der
+heimische
+Gott
+bei
+den Griechen
+und
+Römern.
+’)
+Z'gyov
+— die Tat,
+das Werk, die Einbildung.
+‘)
+ixe'gom'e von
+xegcx'vvvyc
+ich
+verdünne
+mit
+Wasser.
+‘) 0vla — Thuja, Cypresse.
+l’)
+.9vpia,un — Weihrauch,
+hiervon
+.9vyrq8q'gwv
+-— die Weihrauchschale.
+XIX. Kapitel.
+Nächtliche Träume
+des Johannes.
+Hierauf
+vernahm
+ich
+im Flimmern
+der
+Sterne
+im Himmell
+etwas wie eine Hymne unzähliger Scharen,
+die sprachen: Gelobt
+sei,
+der
+die Welt
+erschaffen
+hat!
+Glückliche
+Rückkehr!
+Heil,
+Ehre
+und
+Macht
+dem Herrn,
+unserem
+Gott!
+Wahrhaftig
+und gerecht
+sind seine Gerichte!
+2
+Gerichtet
+hat
+er
+die
+grosse
+Buhlerin,
+welche
+die
+Erde
+durch
+ihre
+Unzucht
+verunehrt
+hat,
+das Blut
+seiner
+Getreuen
+hat er
+an ihr gerächt,
+womit
+sie
+ihre
+Hände
+beﬂeckt hat!
+Und
+abermals
+riefen
+alle
+aus:
+3
+Gelobt
+sei,
+der
+die
+Welt
+geschaﬂen
+hat! Und
+der Rauch
+ihrer
+Qualen
+stieg (in Gestalt
+des Meernebels)
+auf zur Ewigkeit.
+Und
+die vier Tiere
+4
+der Jahreszeiten
+und die
+vierundzwanzig
+Greise
+— Stunden —
+verneigten sich vor dem Throne im Himmel und sprachen
+dadurch:
+Amen!
+Gelobt
+sei,
+der
+die Welt
+erschaffen
+hat!
+Und
+eine
+Stimme
+ertönte
+von
+dem Sternbild
+des Thrones:
+Lobets
+unsern Gott,
+alle
+seine Knechte
+und alle,
+die ihn ehren,
+klein und gross!
+Und
+ich
+hörte
+es
+im
+Rauschen
+der
+Brandung
+wie
+eines
+Hymne
+einer
+vielzähligen Schar Volkes,
+die ertönte
+wie Rauschen vieler
+Wogen
+und
+die Stimmen mächtiger Donner:
+Gelobt
+sei,
+der
+die Welt
+erschaffen
+hat!
+Gott,
+der Allmächtige
+selbst
+ist Herrscher
+über
+uns
+geworden.
+Wir
+wollen
+uns
+freuen
+und
+jubeln
+und
+ihn preisen!
+Die Hochzeitsstunde
+des Widders,
+Mitternacht,
+7
+
+--- Page 102 ---
+76
+ist
+eingetreten
+(die Zeit seines Durchganges durch
+den Meridian
+im Sep
+8 tember (Bild 40)
+1).
+Schon hat sich sein Weib — die Erde
+-— bereit ge
+macht und kleidet
+sich
+in
+ein reines,
+dünnes Linnen
+des nächtlichen
+N eh els.
+Diese Leinwand
+ist das
+Symbol
+der
+Unschuld
+der
+reinen
+Seelen.
+Da sprach der Bote, der
+Himmel,
+zu
+mir:
+Schreibe:
+Selig
+sind,
+die zum Hochzeitsmahl
+’)
+des
+Widders
+geladen
+sind;
+das
+sind die wahrhaftigen Worte
+Gottes im Himmel.
+Ich ﬁel zu seinen Füssen
+nieder,
+um ihn anzubeten,
+er
+aber sprach
+zu mir:
+Nicht
+doch!
+Ich
+bin
+Bild
+40.
+Durchggp}g g:ise‘nl‚iedrtääsltäiliäh
+den Meridian
+dein
+Mitknecht
+und
+einer
+deiner Brüder,
+die von Jesus
+zeugen.
+Bitte
+zu Gott,
+denn
+das Zeugnis Jean
+ist der Geist der \Veis
+sagung.
+11
+Und
+ich
+sah
+den Himmel
+offen
+(indem
+ich mich in Gedanken in
+die Zeit
+nach 3‘/, Jahren
+versetzte)
+3):
+da erblickte
+ich ein weisses Boss
+(Jupiter),
+und der darauf sass (Widder),
+heisst
+der Wahre
+und
+der Treue
+12 oder
+Gerechte
+im
+Gericht
+und
+im
+Kampf.
+Seine
+Augen
+(die Sterne)
+sind wie Feuerﬂammen.
+Auf seinem
+Haupte
+hat er viele Diademe (aus
+den
+ihn
+umgebenden
+Sonnenstrahlen),
+und
+den Namen,
+der auf ihm ge
+schrieben
+steht,
+kennt
+niemand,
+ausser
+ihm selbst.
+13
+Er
+hat
+ein
+Gewand
+an,
+das
+mit
+Blut
+besprengt
+ist,
+und
+sein
+14 Name heisst Wort Gottes. Alle himmlischen Genossen — Sternbilder —
+folgten
+ihm
+auf ihren
+weissen
+Bossen,
+gekleidet in weisse,
+reine
+Ge
+15 wä.nder.
+Ein
+scharfes
+Schwert
+(des
+allmächtigen
+Wortes?)
+ging
+aus
+seinem Munde,
+um mit ihm alle Götzendiener (der herrschenden
+Kirche)
+‘)
+zu vernichten.
+Er weidet sie mit
+eisernem
+Stabe,
+tritt
+die Kelter des
+16 Zornweines
+des
+allmächtigen
+Gottes
+auf
+die
+grosse
+Buhlerin").
+Auf
+seinem
+Gewand
+ist
+auf
+der
+Hüfte
+sein Name
+geschrieben:
+König
+der Könige
+und Herr
+der Herren.
+17
+Und
+ich
+sah
+im Geiste
+einen
+himmlischen
+Boten
+(das
+Sternbild
+des
+Perseus“),
+der
+über
+der
+Sonne
+stand.
+Er
+frohlockte
+mit lauter
+Stimme allen Vögeln
+zu,
+die inmitten
+des Himmels ﬂiegen
+(in den Stern
+
+--- Page 103 ---
+77
+bildern
+des Adlers
+und
+des Raben, Bild 41 und 42). Flieget
+herbei und
+18
+versammelt
+euch
+zum
+grossen
+Mahle Gottes!
+Fresst
+die
+Leichen
+der
+Könige,
+der Feldherrn,
+die Leichen
+der hohen Beamten,
+die Leichen
+der
+Bosse
+und
+ihrer
+Reiter
+und
+die L e i c h n a m e aller Freien
+und
+Knechte,
+der
+Grossen
+und
+der
+Kleinen!
+Und
+ich sah
+das Tier
+-— das
+Reich
+—
+und
+die Könige
+der Erde
+und ihre Heere versammelt,
+um
+zu
+streiten
+gegen
+den,
+der
+auf
+dem
+Bosse sass,
+und
+seine
+Heerscharen.
+Aber
+das
+Tier
+wurde
+besiegt
+und
+mit ihm auch
+der Lügenprophet (die
+mit ihm verbündete
+Kirche),
+der vor
+seinem Angesichte Wunder verrichtete
+und mit diesen alle diejenigen
+in sein
+Netz
+lockte,
+die
+das
+Zeichen
+des
+Tieres
+(das
+Kreuz)
+angenommen
+hatten
+und
+sein
+Bild
+anbeteten.
+Beide
+wurden
+in
+den
+(die
+Bi'äellinsiiiß“utä"fnfciidätiiää3€l"i'tiif“
+Abendröte) geworfen,
+die mit Schwe
+fel brennt.
+Die
+anderen
+aber
+wurden
+getötet
+mit
+dem
+Schwerte,
+das 21
+aus dem Munde
+desjenigen,
+der auf dem Bosse
+sass, hervorging,
+und alle
+Vögel
+ersättigten
+sich
+an
+ihrem
+Fleische.
+‚I
+0
+l
+20
+Bild
+42.
+Sternbild
+der weiblichen
+Hydra
+und des Bechers.
+‘) Das Sternbild
+des Widders
+geht nur
+im September
+um Mitternacht
+durch
+den
+Meddian.
+’)
+d‘etnwov
+die Hauptmahlzeit
+und
+die Mittagszeit.
+
+--- Page 104 ---
+78
+3) Alles
+dies
+bezieht
+sich
+wiederum
+auf
+den Sonntag
+den
+13. März 399,
+den
+von
+Johannes
+astrologisch
+berechneten
+Tag
+des
+Wiederkommens
+Jesu auf
+die Erde,
+weil
+das weisse siegreiche
+Rosa — Jupiter
+(Kapitel
+6,
+2),
+das
+ausgezogen
+war,
+um
+zu
+siegen“,
+zu dieser
+Zeit
+im Widder
+sein
+und
+der Widder
+sich auf ihm
+zur Erde herab
+lassen würde.
+‘) In den kanonischen
+Kopien steht: n?
+Zähe;
+—
+ein Wort,
+das
+bei
+den kirch
+lichen
+Schriftstellern
+gleichzeitig
+die Völker,
+die Heiden und die Götzendiener
+bedeutet.
+Uebrigens
+ist am
+Schluss
+dieses
+Kapitels (V.
+29)
+direkt gesagt,
+dass
+die Kaiser und
+die
+falschen Propheten,
+und
+nicht
+ganze Völker
+getötet
+werden.
+"')
+Wahrscheinlich
+die gleiche,
+von
+der
+im Kapitel
+14, V. 20,
+und Kapitel
+17
+die
+Rede
+ist.
+°)
+Am Tage der von
+Johannes
+erwarteten
+Wiederkunft
+J
+esu,
+am
+18. März 399,
+musste Perseus
+fast über
+der Sonne
+stehen.
+XX. Kapitel.
+Dämmerungsträume
+des Johannes.
+In dieser Nacht sah ich
+einen
+neuen
+Boten
+(das
+Sternbild
+des
+Schlangenträgers)
+im Westen
+von der Höhe
+der Himmelskuppel,
+mit
+einer
+grossen
+Kette
+(dem
+Himmelsäquator,
+Bild
+43)
+in
+seiner
+Hand
+Bild
+43.
+Das Sternbild
+der Schlau
+enträgers
+mit
+dem
+Himmelsilquator,
+der
+die
+sie tbare
+Kuppel
+umringt
+(nach dem Manuskript
+Grienbergers).
+herabsteigen.
+Der hatte den Schlüssel
+vom
+Abgrund
+des Mittelländi
+sehen Meeres in Besitz
+(in dessen
+Tiefe
+er
+unterging
+1)‚
+Er
+hielt
+ein
+drachenähnliches
+Ungetüm
+2)‚
+die alte
+Schlange,
+die Verleumderin und Ver
+hinderin,
+gefasst
+und
+band
+sie fest
+(mit dem Himmelsäquator?)
+auf tau
+send Jahre
+(für die
+ganze
+Nacht
+bis
+zum Morgen) und versenkte
+sie in den
+Abgrund
+des Meeres (wo die Schlange
+unterging)
+und
+verschloss
+sie
+dort
+und
+legte
+die Siegel des Meeres
+nebels
+über
+sie,
+damit
+sie
+die
+Völker nicht
+mehr
+verführe,
+bis
+die
+ihr vorgeschriebene
+Frist abgelaufen
+sein werde
+').
+Alsdann
+muss sie noch
+einmal
+auf
+eine
+kurze
+Zeit
+losge
+lassen
+werden
+(sie muss
+im
+Morgen
+grauen
+zu
+Beginn
+des
+Tages
+auf
+gehen,
+um
+sofort wieder im Lichte
+des
+Morgenrotes
+zu
+verschwinden,
+Bild 44).
+
+--- Page 105 ---
+79
+Und
+ich
+sah
+auf dem wieder hell gewordenen
+Himmel-1
+Stühle und die,
+welche
+darauf
+sassen
+(die
+24 Stunden
+des Tages).
+Es
+war
+ihnen
+die
+Macht
+verliehen,
+die
+Menschen
+zu
+richten.
+Ich
+er
+blickte
+die
+Seelen
+derer,
+die für
+die Verkündigung
+Jesu
+und das gött
+Bild
+44.
+Aufgang
+der
+Schlange
+ap1pMorgen
+des i.
+Oktober
+395 auf
+der
+nse
+atmos.
+liebe
+Werk
+getötet
+waren,
+und
+die
+Seelen
+derjenigen,
+die
+das
+Tier,
+das Reich,
+und
+dessen
+Bild
+nicht
+angebetet
+und
+die
+sein
+Zeichen
+(das Kreuz),
+um
+es
+auf ihrer Stirne
+oder
+an ihrer Rechten zu tragen,
+nicht
+angenommen
+hatten.
+Sie wurden alle wieder lebendig (in der Ge
+stalt von Sternen,
+die von
+neuem
+aus
+dem Nebel
+hervortraten).
+Sie
+herrschten
+wieder mit
+dem Gesalbten
+(dem Widder,
+der in dieser ganzen
+Nacht
+bis
+zum
+Sonnenaufgang
+nicht unterging)
+tausend
+Jahre (bis zum
+Ende
+der Nacht).
+‘
+Die übrigen Toten
+aber (die schon untergegangenen
+Sterne)
+wurden 5
+nicht wieder lebendig (gingen
+nicht wieder auf),
+bis die Frist abgelaufen
+war.
+Das ist
+das
+erste
+Erwachen!‘)
+Selig und heilig
+sind,
+die
+an
+der 6
+ersten
+Auferstehung
+teil haben“)
+Sie werden
+nicht
+zum
+zweiten Male
+sterben
+(werden
+nicht
+untergehen
+bis zum
+Sonnenaufgang),
+sondern
+sie
+werden
+Priester
+Gottes und seines Eingeweihten
+sein
+auf tausend Jahre.
+Wenn
+aber
+die
+tausend
+Jahre
+um
+sein
+werden
+(diese
+ganze
+1
+Nacht
+vergangen
+sein
+wird),
+dann
+wird
+der
+Verleumder
+aus
+seinem
+Gefängnis
+losgelassen
+werden
+(der
+Kopf
+der
+Schlange
+wird
+im Nord
+osten,
+wo
+damals
+die
+Hunnen
+und
+Mongolen
+lebten,
+über
+die
+Erde
+herausragen)
+und
+wird
+die Völker verführen,
+die
+in
+der vierten Ecke
+der Erde
+wohnen,
+den Gog und Magog
+°)‚
+um
+sie zum Krieg zu führen.
+Ihre
+Zahl
+aber
+ist wie der
+Sand
+des
+Meeres.
+
+--- Page 106 ---
+80
+8
+Und
+sie
+zogen
+herauf über
+die Fläche
+der Erde
+(über
+die
+Steppen
+hinter
+dem Dnjepr?)
+und
+umringten
+das Lager
+der Heiligen
+und
+die
+9 geliebte
+Stadt.
+Da
+aber
+ﬁel
+ein Feuer von Gott
+aus
+dem Himmel
+(die
+feurigen Streifen
+des Morgenrotes,
+das im Nordosten
+aufleuchtete) und
+10 verzehrte sie.
+Der Verleumder
+und
+Verführer
+aber
+(das Sternbild
+der
+Schlange)
+wurde
+in
+das
+Feuer
+und
+den Schwefelpfuhl
+geworfen (ver
+schwand in
+diesem
+Streifen
+der Morgenröte),
+wo gestern
+abend
+auch
+das Tier und
+der Lügenprophet
+sich
+befunden
+hatten.
+Und
+dort werden
+sie gepeinigt
+werden
+Tag
+und Nacht
+in alle Ewigkeit.
+11
+Ich sah
+einen
+grossen
+hellen Thron und den,
+der darauf sass.
+Vor
+dessen Antlitz, so schien es, entwichen der Himmel und die Erde, und
+12 es
+fand
+sich
+keine Stätte mehr
+für sie.
+Da erblickte
+ich in
+den
+er
+bleichenden Sternen
+die Toten, kleine und grosse,
+die
+standen
+vor
+Gott,
+und Papyrusrollen
+wurden
+entrollt,
+und
+eine
+andere
+Belle,
+der
+Papyrus
+des Lebens—der Streifen
+des Zodiakus.
+Und
+die Toten
+wurden gerichtet nach
+dem,
+was in
+den Rollen
+geschrieben
+stand,
+und
+13 nach
+ihren Werken.
+Das
+Meer
+gab
+die Toten
+wieder heraus,
+die
+es
+barg,
+und
+der
+Tod
+und
+der
+Gott
+der
+Unterwelt
+7)
+gaben
+ihre Toten
+heraus,
+und
+ein
+jeder
+wurde
+gerichtet
+nach
+seinen
+Werken.
+14
+Der
+Tod
+aber
+und
+der
+Gott
+der
+Unterwelt
+und
+alle,
+welche
+15 nicht
+im
+Papyrus
+des
+Lebens
+eingeschrieben
+waren,
+wurden
+in
+den
+Feuersee
+der Morgenröte
+geworfen.
+Das ist der zweite Tod!
+1) Dies
+war
+vor
+Mitternacht.
+') Jgn'xwv—Schlange,
+Drachen,
+schlangenartiges
+Ungetüm.
+Aus dem Bilde geht
+hervor,
+dass
+Johannes
+hier
+nicht
+das
+Sternbild
+des
+Drachens
+meint,
+sondern
+der
+Schlange,
+die der Schlangenträger
+hielt.
+“) d.
+h. 1000 Jahre,
+indem wahrscheinlich
+jede Stunde
+dieser Nacht
+für ein Jahr
+hundert
+gerechnet
+wird.
+‘)
+a'wz'amoug — Erwachen,
+Aufstehen.
+") a'wifm‘u; —
+Auferstehung.
+o) An
+dieser Stelle der kanonischen
+Kopien sind
+meiner Ansicht nach zwei Aus—
+drücke entstellt:
+l. Statt „auf der vierten Ecke der Erde“
+steht:
+„auf den vier Ecken der
+Erde“.
+Aus
+dem
+astronomischen
+Sinne
+dieser
+Stelle
+ist
+aber
+ersichtlich,
+dass
+hier
+nur
+von
+der
+nordöstlichen
+Ecke
+der Erde,
+die
+Johannes
+sich
+als
+quadratisch
+vor
+stellte,
+vom
+alten
+Eden
+gerechnet,
+die
+Rede
+ist.
+2.
+Die
+Benennungen
+Gog
+und
+Magog sind
+hier
+durch
+den Abschreiber
+aus
+Hunnen
+und
+Mongolen
+geändert
+werden
+und
+zwar
+folgenderweise:
+Fuiy
+anti Mayw'y = G0g
+und
+Magog.
+I‘0EV xai
+Moyw'2. = Hun
+und Mogol.
+Entstanden
+ist diese Entstehung
+wahrscheinlich
+dadurch,
+dass
+die Handschrift
+des
+Johannes
+undeutlich
+war,
+hauptsächlich
+in
+den Endbuchstaben,
+wie
+es bei allen
+Leuten
+vorkommt,
+die
+viel
+und
+schnell
+schreiben.
+Zu Gunsten
+meiner
+Vermutung
+sprechen
+auch
+die
+historischen
+Tatsachen:
+die
+Hunnen
+(Chunn-nu
+der
+chinesischen
+Schriften)
+versetzten damals den ganzen nordöstlichen
+Teil der dem Johannes bekannten
+
+--- Page 107 ---
+81
+Erde in Schrecken.
+Sie
+überﬁelen
+unerwartet
+das
+byzantinische
+Reich
+im Jahre
+875,
+genau 20 Jahre
+vor
+dem in
+diesem
+Buche
+beschriebenen
+Gewitter.
+") äd„;=ätd„;—Hades
+oder Bluten,
+Gott
+des
+unterirdischen
+Reiches
+der alten
+(irischen, woher
+im Mittelalter
+auch
+das
+Wort
+Hades = Hölle entstanden
+ist.
+XXI. Kapitel.
+Der Morgen
+des
+neuen
+Tages.
+Johannes
+misst
+mit
+einem
+Rohr,
+das
+ihm
+das
+Meer
+zugeworfen
+hat,
+die
+Grösse
+des
+Weltalls.
+Im Schimmer
+der Morgendämmerung
+sah ich einen
+neuem
+Himmel
+und
+eine
+neue Erde,
+denn
+der vorige, gestrige
+Himmel
+und
+die vorige, gestrige
+Erde
+waren vergangen,
+und
+das Meer war nicht
+mehr
+vor mir
+(da ich mich
+auf der Insel
+vom Ufer entfernt
+hatte).
+Da
+sah
+ich,
+Johannes,
+die heilige Stadt — das
+neue Reich
+des 2
+Friedens‘)
+(den
+neuen
+blauen Himmelsvorhang)
+aus
+der Höhe von Gott
+herunterkommen,
+wie
+eine Braut,
+die
+sich
+für
+ihren
+Bräutigam
+ge<
+schmückt
+hat.
+Und ich
+vernahm
+eine
+mächtige
+Stimme vom Himmel,
+die sprach: 3
+Siehe
+die Wohnstätte
+Gottes
+und
+der
+Menschen!
+In ihr wird
+er
+mit ihnen
+wohnen.
+Sie werden
+sein Volk
+sein,
+und
+Gott
+selbst,
+der
+mit ihnen
+leben
+wird,
+wird
+deren
+Gott
+sein.
+Gott
+wird
+alle Tränen 4
+von
+ihren Augen
+abwischen,
+und
+der Tod wird nicht
+mehr
+sein.
+Und
+es
+wird
+weder
+Tränen
+noch
+Leid
+noch
+Krankheiten
+mehr
+geben,
+weil
+alles vorige
+vergangen
+ist.
+Und
+der auf dem Throne
+sass, sprach:
+5
+Siehe: ich mache
+alles neu
+. . . .
+Schreibe
+diese Worte
+auf,
+denn
+sie sind
+wahrhaftig
+und
+zuverlässig.
+Alles vergeht.
+Ich bin
+der
+erste
+und
+der
+letzte Buchstabe
+des Alphabetes,
+der Anfang
+und
+das Ende.
+Ich werde
+den Dürstenden aus der Wasserquelle des Lebens erquicken
+2).
+6
+Der
+Sieger
+soll
+alles
+erben.
+Ich will
+sein Gott
+sein,
+und
+er soll
+mein
+8
+Sohn
+sein.
+Das
+Schicksal
+der
+Feiglinge
+und
+der Verräter
+aber,
+der
+sittlich
+Gefallenen,
+der
+Mörder,
+Betrüger
+und
+derjenigen,
+welche die
+Mischung
+im goldenen Kelche
+bereiten
+und
+die
+Bilder
+anbeten,
+und
+allen
+Betrügern
+soll
+ihr Teil
+werden
+im Pfuhl,
+darin Feuer
+und
+Schwefel
+brennen.
+Das ist ihr zweiter Tod!
+Und
+es
+erschien
+vor
+mir
+in
+der
+ersten
+rosigen
+Morgen-9
+welke
+einer
+der
+sieben
+Boten, die
+gestern
+mit den sieben Vergeltungs
+schalen aufgetreten
+waren,
+und
+ﬂüsterte mir zu:
+Komm,
+ich
+werde
+dir
+die Braut
+zeigen,
+das Weib
+des Widders.
+Morosow,
+Die Offenbarung
+Johannis.
+6
+
+--- Page 108 ---
+82
+‘.v‘4erfqiäqä"“j
+‘
+-
+« V‚—._-„'Vs
+‘..i<.‚;‚-sn..r-
+\.‚...;i
+'|aunugg
+wap im:
+aß[o;uaq|ag
+rang u} usq:uuq
+s:|p pun ss|muaH
+sap 's.|a8311u08u2|1pg sap ‘SBOIÖJOMS sep .lap|}qu1aß al(]
+‘g‚ p||g
+10
+Da führte er mich im Schwunge der Begeisterung auf einen grossen
+hohen Berg und zeigte mir von dort in dem Halbdunkel der Morgen
+dämmerung
+die
+ganze
+heilige Feste,
+das
+neue Reich
+des Friedens
+-—
+
+--- Page 109 ---
+83
+das
+neue
+Blau
+des
+Himmels,
+das
+von
+Gott
+aus
+dem
+Himmel
+herunterkam.
+Der
+Ruhm
+Gottes
+lag
+auf ihr,
+und
+sein Licht — die
+11
+aufgehende Sonne
+—
+glich
+einem
+kostbaren Edelstein,
+einem rot
+gelben Jaspiskristall.
+Sie ist hinter dem Horizont
+von einer grossen
+12
+hohen
+Mauer mit
+zwölf
+Toren umringt,
+auf ihnen beﬁnden
+sich
+zwölf
+Boten
+(Zeichen
+des Zodiakus).
+Auf
+diesen
+sind
+die Namen
+der
+zwölf
+Stämme
+des Gotteskämpfervolkes
+geschrieben
+').
+An
+allen
+vier Welt
+gegenden
+—-
+Osten,
+Norden,
+Süden,
+Westen — sind
+je
+drei Tore.
+Und
+13
+unter
+den zwölf Teilen
+der Mauer zwischen
+den Toren
+(beim
+Horizont
+14
+der Erde) sind zwölf Grundsteine gelegt und darauf die
+Namen
+der zwölf
+Boten des Widders
+(Zeichen
+des Zodiakus).
+Der
+mir
+Zuﬂüsternde
+hatte
+als
+Massstab
+ein
+goldenes
+Bohr
+(das
+gestern
+während
+des
+Sturmes
+vom
+Meere
+herausgeworfen
+war)
+5)
+zu
+seiner
+Verfügung‘).
+Das
+hielt
+ich
+zum
+Ausmessen
+der
+heiligen
+Stadt mit ihren Mauern
+und
+ihren Toren
+(wahrscheinlich
+symbolischer
+Weise
+nach
+dem Umfange
+des Kornfeldes
+im Hinblick auf das bekannte
+Gleichnis
+vom
+Weizen
+und.
+dem
+Unkraut).
+Die
+Feste
+bildet
+ein
+16
+Viereck;
+ihre
+Länge
+ist
+dieselbe
+wie
+ihre
+Breite.
+Die
+Messung
+17
+mit
+dem
+Bohrstab
+aber
+ergab
+zwölftausend
+Stadien
+(wahrscheinlich
+wurde
+die Länge
+des Rohres für
+ein Stadion
+genommen)°).
+Die Höhe
+der
+Feste
+(die
+Entfernung
+bis
+zur Höhe
+der Himmelskuppel)
+ist
+die
+gleiche
+wie
+die
+Länge
+und
+die
+Breite.
+Und
+er
+mass
+die
+Höhe
+der
+Mauer (worauf
+das Himmelsgewölbe ruht) zu hundertvierundvierzig Ellen
+(wahrscheinlich
+nach
+der
+Höhe
+des
+Geländes
+jenes
+Feldes,
+indem
+er
+dabei
+die Dicke
+des Rohres
+symbolisch
+zu
+einer Elle
+rechnete).
+Das
+Mass wurde jetzt
+von den Menschen
+gehandhabt;
+es war
+aber dasselbe,
+das
+der Bote gehabt
+hatte (der gestern
+dieses Bohr hinausgeworfen
+hatte).
+Und
+die Mauer
+war
+aus Jaspiskieselsteinen,
+und
+die
+Stätte,
+18
+die
+sie
+umgab
+—
+das Himmelsgewölbe
+— war
+golden
+und
+rein,
+wie
+durchsichtiges
+Glas.
+Ihre
+Grundsteine
+schillerten
+(im
+Schein
+des 19
+Morgenrotes) nach
+einander
+in allen möglichen
+Farben aller erdenklichen
+Edelsteine:
+wie
+orangegelber
+Jaspis,
+blauer Saphir,
+milchweisser
+Chal- 20
+cedon,
+grüner
+Smaragd,
+weisser
+Sardonik
+mit seinen
+rötlichen
+Streifen
+(des Morgenrotes), roter
+Sardion, gelbgrüner Chrysolith,
+blauer Beryll,
+durchsichtiger
+Topas,
+grünlicher
+Chrysopras,
+rötlicher
+Hyazinth
+und
+violetter Amethyst
+7).
+Und
+die zwölf Tore (von der Erde
+zum
+Himmel)
+21
+sind zwölf Perlen,
+jedes
+Tor
+aus
+einer
+Perle.
+Die Plätze
+der Feste
+(die
+Oberﬂäche
+des Morgenhimmels)
+waren
+reines
+Gold,
+durchsichtig
+»
+wie Glas.
+Einen
+Tempel
+aber
+sah
+ich
+in ihr nicht,
+denn ihr Tempel 22
+ist der allmächtige Gott
+selbst
+und
+der Widder.
+Und
+sie bedarf weder
+23
+der
+Sonne
+noch
+des
+Mondes,
+weil
+der
+Glanz
+Gottes
+sie
+erleuchtet,
+5
+
+--- Page 110 ---
+84
+24 und
+ihre Leuchte
+ist
+der Widder
+selbst.
+Die
+Scharen
+der Geretteten
+25 werden
+in
+seinem
+Lichte
+") wandeln.
+Ihre Tore werden
+tagsüber
+nicht
+26 geschlossen
+werden, und Nächte wird
+es dort nicht
+geben.
+Und in
+sie
+27 hinein
+wird
+man
+den Ruhm
+und
+die Ehre
+der Völker bringen.
+Nichts
+Unreines wird
+in
+sie hineingehen, nichts,
+was der Gemeinheit und der
+Lüge
+zugetan
+ist,
+sondern
+nur
+die,
+deren
+Namen im Lebensbuche des
+Widders
+geschrieben
+stehen.
+‘) Jerusalem
+heisst
+auf
+hebräisch
+das
+Reich
+des
+Friedens.
+Hier
+braucht Jo
+hannes
+dieses
+Wort
+als
+ein ausschmückendes
+Beiwort.
+’) Allem Anschein
+nach versteht
+der Verfasser
+unter
+der Quelle des leben
+digen
+Wassers
+die
+Milchstrasse
+und
+unter
+dem Sieger
+den
+Schlangen
+träger,
+der
+mit
+den Füssen
+auf
+den Skorpion tritt.
+(Bild 45.)
+') Früher in Anmerkung
+2
+zu Kapitel
+7
+haben wir
+schon den Zusammenhang
+zwischen
+dem Sinn
+der
+12 Geschlechter
+des
+Volkes
+Gotteskämpfer
+und
+den Namen
+der
+12
+Zeichen
+des
+Zodiakus
+und
+der
+12 astrologischen
+Häuser
+gesehen.
+‘)
+6 Au1a7y yet' 4'ßoü J,yr
+ist wahrscheinlich
+durch
+die
+Abschreiber,
+die
+den
+Sinn
+nicht
+verstanden
+haben,
+falsch
+berichtigt
+werden:
+aus
+o' 1a2.u3v eile ‚uu'
+r',uoö,
+oder
+aus
+6 1u2.uiv prr'
+s'yoü
+571! pn’
+i,uoü,
+das
+heisst
+der
+mit
+mir
+Redende
+hatte
+durch
+meine Vermittlung ein goldenes Rohr
+(miiiu,uov
+19vdoiiv).
+‘) Kap.
+11, Vers l.
+') Ein Stadion
+ungefähr
+gleich
+125
+Schritten.
+") Der Verfasser,
+der allem Anschein
+nach in einer reichen Familie
+aufgewachsen
+ist,
+kennt
+alle
+Schattierungen
+der
+Edelsteine
+so
+gut,
+dass
+er
+hier
+sich
+mit
+den
+blossen
+Benennungen
+derselben
+begnügt,
+ohne
+zu bedenken,
+dass
+der
+Mehrzahl
+der
+Leser
+diese
+unbekannt
+sind.
+Deshalb
+habe
+ich
+sie
+mit
+der Farbe
+jedes
+Steines
+cr
+giinzt,
+um
+das
+von Johannes
+beschriebene
+Himmelsbild
+dem Leser
+verständlich
+zu
+machen.
+Er
+zählt
+hier
+alle
+Farben
+des
+Horizontes
+auf,
+die
+er
+am l. Oktober
+395
+beobachtet
+hat, beginnend
+mit
+dem Westen,
+über den Norden
+nach dem Osten, Süden
+und zurück
+nach
+dem Westen
+gehend.
+') Hierher
+ist von
+jemand
+der Vers
+26
+dieses
+Kapitels gebracht,
+nur
+statt u?
+i'd‘mz ist
+o! ﬂuuü.si;
+gesetzt worden,
+was ganz dem Kap.
+19,
+Vers
+18—19
+und
+anderen
+derartigen
+Stellen
+widerspricht.
+XXII. Kapitel.
+Schlusswort.
+,
+Der Bote, der mir
+dies
+zuﬂüsterte,
+zeigte
+mir am Himmel
+einen
+leuchtenden
+Strom von Lebenswasser
+(die Milchstrasse)
+durchsichtig
+wie
+Kristall,
+der
+ﬂoss hervor
+aus
+dem
+Thron
+Gottes
+und
+des
+Widders.
+2Dort
+in
+der Mitte
+der glatten Oberﬂäche
+der Himmelskuppel,
+von
+der einen
+Seite des Stromes
+bis zur
+anderen
+(von
+der nördlichen Halb
+kugel
+bis
+zur
+südlichen)
+sich
+erstreckend,
+beﬁndet
+sich
+die Achse
+des
+Lebens
+(die
+Umdrehungsachse
+der
+Himmelskuppel),
+die
+zwölfmal
+im
+
+--- Page 111 ---
+85
+Jahre
+ihre Gaben bringt,
+jeden
+Monat
+eine
+besondere,
+und
+mit
+deren
+Zweigen
+(den Sternstunden)
+die Völker
+beschützt.
+Und nichts Verﬂuchtes wird mehr
+am Himmel
+sein
+(weder Drache 3
+noch
+die
+Schlange
+noch
+andere
+Ungeheuer),
+nur
+der
+Thron
+Gottes
+und des Widders,
+und alle
+Getreuen
+werden
+Gott
+dienen.
+Sie werden4
+ihn schauen,
+und sein Name wird auf ihren Stirnen
+geschrieben
+stehen!
+Und
+es
+wird
+dort keine
+Nacht
+mehr
+geben,
+man wird dort
+auch keins
+Bedürfnis
+mehr
+nach
+Licht
+haben,
+weder von
+einer
+Lampe
+noch
+von
+der
+Sonne.
+Gott
+selbst
+im Himmel
+wird
+ihnen sein Licht
+spenden,
+und
+sie
+werden herrschen
+in alle Ewigkeit.
+Diese
+Worte
+sind
+ganz
+sicher
+und
+zuverlässig,
+sagte
+mir
+noch°
+einmal der Bote.
+Unser Herr selbst,
+der Gott
+der heiligen Propheten,
+hat seinen Boten (das gestrige
+Sturmwetter) gesandt,
+um seinen Knechten
+zu
+zeigen,
+was bald geschehen
+soll
+‘).
+Und
+ich,
+Johannes,
+habe
+alles
+dies gehört und gesehen!
+Da
+ﬁel
+s
+ich dem himmlischen Boten,
+der mir das alles zeigte,
+zu Füssen,
+um ihn
+anzubeten,
+aber
+er
+sprach
+zu mir:
+9
+Nicht
+doch!
+Ich bin
+ein Mitknecht
+dir und deinen
+Brüdern,
+der
+Verkündiger
+der Wahrheit.
+Bete den Schöpfer der Welt
+an
+und
+ver- 10
+siegle
+die Worte
+dieser
+Prophezeiung
+nicht,
+denn
+die Zeit
+der Erfüllung
+ist
+nahe.
+Der
+Frevler
+möge
+noch
+weiter
+freveln,
+der
+Unreine
+sich 11
+noch
+mehr
+verunreinigen,
+der
+Gerechte
+möge
+noch
+mehr
+Gutes tun,
+und der
+Seelenreine
+werde noch
+reiner.
+Siehe,
+ich
+komme
+bald, spricht Jesus,
+und
+werde
+meinen
+12
+Lohn
+mitbringen
+und. werde jeden
+nach
+seinen
+Werken
+belohnen.
+Ich 13
+bin
+der erste
+und
+letzte Buchstabe des Alphabets,
+der Anfang
+und das
+Ende.
+Selig, wer meine
+Gesetze befolgt: die Achse des Weltlebens
+14
+wird
+in ihren Händen
+sein,
+und sie werden
+in die Feste des Himmels
+durch
+die
+Tore
+eingehen.
+Aber
+alle
+Schmeichler,
+Betrüger,
+Buhler,1s
+Mörder
+und
+Götzendiener
+und
+alle, welche die Unwahrheit
+liebten und
+tun,
+die
+werden
+draussen
+bleiben.
+Ich,
+Jesus,
+habe
+meinen Boten gesandt,
+um alles dies in
+den Ver-
+16
+sammlungen
+der Gläubigen
+zu
+bezeugen.
+Ich
+bin
+die
+Wurzel,
+und
+Nachkomme
+der Liebe,
+der
+leuchtende,
+strahlende
+Morgenstern!
+Und
+der Geist
+und
+die Braut
+-—
+die Erde
+sprachen
+zu
+ihm:
+11
+Komm!
+So
+soll
+auch,
+wer
+es hört,
+sagen:
+Komm!
+Und
+wer dürstet,
+der kommt, und wer Verlangen hat, der soll Wasser
+des Lebens umsonst
+empfangen!
+
+--- Page 112 ---
+86
+13
+Und
+ich
+bezeuge jedem,
+der
+die Worte
+dieser
+Weissagung
+hört:
+wenn jemand zu ihnen
+etwas
+von sich
+hier zufügt,
+dem wird Gott
+alle
+19 die Plagen
+auferlegen,
+die in diesem
+Buch
+beschrieben
+sind.
+Und wenn
+jemand
+etwas
+von
+ihnen hinwegnimmt,
+dem wird
+Gott
+den Anteil
+am
+Buche
+des Lebens
+wegnehmen!
+“’°
+Der Verkünder
+alles dieses
+spricht:
+Siehe,
+ich komme
+bald!
+O komme
+doch,
+unser
+Herr
+Jesus!
+21
+Die
+Gnade
+unseres Herrn
+Jean,
+des Gesalbten,
+sei mit
+euch
+allen!
+Amen!
+1) Hier
+ist ein Satz
+eingeschoben
+werden,
+der
+den Zusammenhang
+stört.
+Von
+Jemandem
+ist
+hineingeschrieben
+werden:
+„Bald
+komme
+ich!
+Glücklich
+ist,
+der
+die
+prophetischen
+Worte
+dieses
+Buches
+befolgt.“
+
+--- Page 113 ---
+III. Teil.
+Wann ist „die Offenbarung in Gewitter
+und Sturm“
+geschrieben
+worden?
+Bestimmung der Zeit ihrer Abfassung
+nach den in ihr selbst beﬁndlichen
+astronomischen
+Angaben.
+
+--- Page 114 ---
+
+--- Page 115 ---
+Wie
+man
+in
+einfacher Weise auf astronomischem
+Wege
+die
+Zeit
+der
+Abfassung
+der
+Apokalypse
+genau
+ermitteln
+kann.
+Als
+ich
+während
+meiner
+Gefangenschaft
+in der Alexisbastion
+der
+Peter
+Paul-Festung
+zum
+ersten
+Male
+die Apokalypse‘)
+gelesen
+hatte,
+fasste
+ich\ ihren
+astronomisch-geschichtlichen
+Inhalt
+sofort
+so
+auf,
+wie
+es hier in meiner
+Uebersetzung wiedergegeben
+ist.
+Ich
+war
+einfach
+er
+staunt
+und
+frag
+mich
+unwillkürlich:
+wie war
+es möglich,
+dass bisher
+noch
+niemand
+in
+der Apokalypse
+das
+gesehen
+hat,
+was
+für
+mich,
+trotz
+der
+schlechten
+französischen
+Uebersetzung, in
+der ich
+das Buch gelesen
+hatte,
+so einleuchtend
+war?‘).
+Ist
+doch
+der
+grösste
+Teil
+der
+Sternbilder
+unseres
+nördlichen
+Himmels hier direkt
+beim Namen genannt
+und
+durch
+die
+Figuren
+der
+sie darstellenden
+Tiere
+ganz
+genau
+beschrieben,
+deren
+Benennungen
+bei
+den
+entsprechenden
+Sterngruppen
+bis
+auf
+unsere
+Zeit
+geblieben
+sind.
+Ueberall
+ist
+darauf
+hingewiesen,
+dass
+diese
+Figuren
+sich
+am
+Stem
+himmel beﬁnden,
+und
+dieser
+Himmel
+selbst
+mit allen seinen
+jährlichen
+und
+täglichen
+Bewegungen
+ist ausserordentlich poetisch
+beschrieben.
+Ebenso
+ist
+von
+allen
+beim
+gewöhnlichen Verlauf eines Gewitters
+aufeinanderfolgenden
+Bildern
+kaum
+ein
+einziges
+ausgelassen
+werden.
+Wir ﬁnden
+hier
+die charakteristische Totenstille
+in der Natur im Augen
+blicke
+des Herannahens
+der Hauptgewitterwolke
+mit ihrem
+nach
+unten
+wie
+ein
+Stück
+Pergament
+umgebogenen
+vorderen
+Bande.
+Wir ﬁnden
+diese Wolke selbst,
+jeden
+Donnerschlag
+der
+darauf folgenden
+Wolken,
+dieser Boten des Sturmes,
+deren Regengüsse
+mit jedem Blitze anschwellen,
+das Erscheinen
+des Regenbogens
+und
+die charakteristischen
+seltsamen
+Figuren
+der in Stücke
+zerrissenen
+Wolken,
+die
+immer,
+sobald
+die
+erste
+Gewitterwolke
+hinweggezogen
+ist, über
+dem Kopfe_
+des
+Beobachters
+er
+scheinen
+— endlich
+die
+mehrfachen
+nachträglichen kleinen
+Regengüsse
+aus
+diesen
+Wolken.
+Alles
+dies
+ist
+hier
+ohne
+jede Umschreibung
+und
+dabei
+mit höchster
+künstlerischer Vollendung
+dargestellt.
+Bei
+meinen
+einsamen
+Betrachtungen
+über
+diese
+Gegenstände
+in
+der Alexisbastion
+kam
+es mir oft in den Sinn, wie wenig
+die
+meisten
+
+--- Page 116 ---
+90
+Theologen
+von
+diesen Erscheinungen
+wissen,
+die sich über ihren Köpfen
+an
+diesem
+unendlichen
+Sternhimmel abspielen,
+und deren Schönheiten wir
+so oft in klaren Winternächten
+bewundern.
+Ich bemerkte
+sofort,
+dass
+es
+nach
+der Lage
+der
+Planetenrosse in
+den
+von
+Johannes
+bezeichneten
+Sternbildern
+nicht schwer sein
+könnte,
+mit
+astronomischer
+Genauigkeit
+die Zeit
+zu
+bestimmen,
+wann
+dieses
+von ihm beschriebene
+Gewitter niederging,
+und das Jahr,
+den Monat,
+den
+Tag, ja,
+sogar
+bestimmte
+Teile
+des Tages für jede
+einzelne
+Periode des
+selben
+mit
+einer
+Genauigkeit
+bis zu einer
+halben Stunde festzustellen.
+Schon
+die
+einfache
+Ueberlegung
+nach
+der
+Wahrscheinlichkeitsrechnung
+zeigte
+mir,
+dass,
+wenn
+das Bild
+des
+von
+Johannes
+so ausführlich
+be
+schriebenen
+Sternhimmels
+nur
+seine
+eigene
+Erﬁndung
+wäre,
+wir
+es in
+der
+ganzen
+langen
+Geschichte
+des Altertums
+niemals
+ﬁnden
+würden,
+dass
+aber,
+falls
+es Wirklichkeit
+sein
+sollte,
+wir
+es nur
+einmal
+ﬁnden
+könnten, nämlich in demjenigen
+Jahr, an demjenigen
+Tage, wo es tatsäch
+lich
+existiert
+hat.
+Aber
+alles
+deutet
+darauf
+hin,
+dass
+das Buch
+des
+Johannes
+keine Erﬁndung,
+sondern
+eine
+genaue
+gewissenhafte
+Wieder
+gabe
+des
+von
+ihm
+selbst
+Beobachteten
+und dass
+das Buch unter dem
+unmittelbaren
+Eindruck
+dieser
+Beobachtungen
+in
+den
+nächstfolgenden
+Tagen
+geschrieben
+worden ist.
+Indessen
+war
+es
+für
+mich
+damals
+unmöglich,
+sofort
+mit
+den
+nötigen Berechnungen
+zu
+beginnen.
+In
+den
+ersten zwölf Jahren
+meiner
+Gefangenschaft in der Bastion
+und in der Sehlüsselburger Festung
+fehlten
+mir nicht blos die für diesen Zweck erforderlichen Tafeln von Leverrie r,
+sondern
+auch
+die
+einfachen
+Tabellen
+der
+Planetenbahnen,
+mit
+deren
+Hilfe
+man
+derartige
+Berechnungen
+mit
+ausreichender
+Genauigkeit
+machen
+kann.
+Erst später,
+nach
+zehn
+Jahren
+oder
+noch
+später
+bekam
+ich
+diese
+Elemente
+in
+einigen
+der
+mit
+grosser
+Mühe
+von
+mir
+beschaﬁ‘ten
+Lehr
+bücher
+der Astronomie
+—
+allein
+damals
+war
+ich
+schon
+mit
+anderen
+wissenschaftlichen
+Arbeiten
+beschäftigt.
+Meine
+Betrachtungen
+in
+der
+Alexisbastion
+über
+dieses
+Buch
+lagerten
+sich
+nach
+und
+nach
+in jenes
+geheime
+Winkelchen
+des
+Gehirns,
+wo
+bei
+jedem
+von
+uns
+ein
+ganzer
+Haufen
+halbvergessener
+Gedanken aufbewahrt wird,
+über
+die wir
+lange
+gar
+nicht
+nachdenken,
+oder
+die,
+wenn wir
+ab und zu diesen
+Gegen
+ständen
+unsere
+Aufmerksamkeit
+schenken,
+unser
+Denken infolge
+ihres
+Alters doch
+nicht in dem Masse
+interessieren,
+um uns zu einer speziellen
+Bearbeitung
+zu
+veranlassen.
+Erst jetzt,
+im Jahre
+1903,
+regte
+die Bitte
+meiner Leidensgenossin
+in der Schlüsselburger Festung, der Vers Nikolajewna Figner,
+etwas
+aus
+meinen
+Betrachtungen
+und
+Forschungen
+für
+sie
+zu
+schreiben,
+mich
+
+--- Page 117 ---
+91
+dazu
+an,
+ein
+wenig
+in
+meinem
+Kopfe
+nachzusuchen
+und
+ganz
+über—
+raschend
+für
+mich
+selbst
+diesen
+halbvergessenen
+Gegenstand
+von
+dort
+hervorzuholen
+3).
+Vor
+allem
+begann
+ich die Berechnungen,
+um
+zuerst die Zeit
+der
+Entstehung
+der Apokalypse
+genau
+festzustellen.
+Dann
+erst
+versuchte
+ich,
+den
+genauen
+Sinn
+einiger
+ihrer Stellen
+mir klar zu
+machen,
+die
+sich
+auf
+historische
+Ereignisse
+und
+das
+Leben
+jener
+Zeit
+beziehen.
+Denn
+ohne
+die
+Kenntnis
+der Zeit,
+in
+welcher
+dieses Buch
+geschrieben
+ist,
+hätte
+man
+auch
+nicht
+einmal
+versuchen
+können,
+sich
+Klarheit
+über
+die
+darin
+beﬁndlichen
+Anspielungen
+auf die
+damaligen
+Ereignisse
+zu verschaffen.
+Anfänglich
+machte
+ich
+diese Berechnungen,
+indem
+ich
+dabei
+von
+der
+sog.
+heliozentrischen
+Lage
+jedes
+Planeten
+ausging,
+d.
+h.
+von der
+Stelle, wo er sichtbar ist,
+wenn
+man
+ihn
+vom
+Zentrum der Sonne
+aus
+betrachtet.
+Sodann
+ging
+ich
+auf
+trigonometrischem
+Wege
+zu
+dessen
+geozentrischer
+Lage
+über,
+d.
+h.
+zu
+der Stelle,
+von
+welcher
+aus
+der
+Planet
+von
+der
+Erde
+her
+zu
+sehen
+war.
+Nach
+einigen
+Wochen
+solcher
+ermüdender
+Berechnungen
+fand ich, dass der Sternhimmel in den
+ersten
+acht Jahrhunderten
+unserer
+Zeitrechnung niemals,
+von
+der
+Insel
+Patmos
+aus
+gesehen,
+das von Johannes Geschilderte darbot,
+mit
+Ausnahme
+eines
+einzigen
+Falles:
+des Abends
+vom
+30.
+September
+395
+nach
+dem julianischen
+Kalender.
+An jenem Abend
+war
+alles
+bis
+auf die kleinste Kleinigkeit genau
+so,
+wie
+dies
+in
+unserem
+Buch
+angegeben
+ist.
+Ich konnte sogar
+fest
+stellen,
+dass
+die Hauptgewitterwolke
+zwischen
+3—4
+des Nachmittags
+über
+die Insel
+zog,
+dass
+der
+Regenbogen
+um
+5
+Uhr erschien
+und
+dass
+die
+letzten Wölkchen
+mit
+„den
+Kelchen
+des
+Uebels"
+sich
+bald
+nach
+Sonnenuntergang
+bildeten,
+der
+an jenem Tage etwa um 53/, Uhr abends
+stattfand.
+Damit
+war
+aber
+die Arbeit
+nicht vollendet.
+Kaum
+war
+die ganze
+Berechnung gemacht
+und
+durchgesehen,
+so erging
+es mir,
+wie
+dies
+oft
+(wenigstens
+bei
+mir)
+in ähnlichen Fällen
+vorkommt:
+ich fand,
+dass man
+dies
+alles
+zehnmal
+schneller auf eine andere Art hätte
+berechnen
+können,
+die
+den Vorzug
+besitzt,
+dass jeder,
+der
+auch
+nur
+einigermassen
+mit
+den
+Anfangsgründen
+der
+Astronomie
+vertraut
+ist,
+die
+Berechnungen
+wiederholen
+und
+sich
+persönlich
+davon
+überzeugen
+kann,
+dass
+das von
+mir
+gefundene
+Datum
+des
+30.
+September
+395
+das
+einzig
+richtige
+von
+allen
+nur
+irgendmöglichen
+ist.
+Diese
+Berechnungsart
+werde
+ich jetzt
+meinem
+Leser
+vorführen,
+werde
+sie
+aber
+einem
+besonderen
+Kapitel
+überweisen,
+damit
+der
+Liebhaber
+derartiger
+Berechnungen
+oder
+der
+jenige,
+der
+sich
+für
+die Lösung
+der Frage,
+wann die Apokalypse
+ent
+
+--- Page 118 ---
+92
+standen
+ist,
+interessiert,
+selbst
+alle Berechnungen
+durchmachen
+kann.
+Derjenige
+aber,
+der
+sich
+nicht für kompetent
+halt,
+hat auf diese Weise
+die
+Möglichkeit,
+dieses
+Kapitel
+einfach
+auszulassen
+und
+sich
+an
+das
+nächstfolgende
+zu machen‘).
+‘) Im Herbst
+1882.
+") Nach
+meinem Austritt
+aus
+der Schlüsselbnrger
+Festung
+im November
+1905,
+ﬁel mir in der Bibliothek der Pulkowa-Sternwarte
+die Erklärung Newtons
+der Apo
+kalypse
+in
+die
+Hand (J. Newtoni
+opera. T. V. Londoni 1785),
+aber ich habe darin
+nichts
+anderes
+als Mystik gefunden.
+Newton
+muss,
+nach meiner tiefsten Ueberzeugung,
+den astronomischen
+Charakter
+dieses
+Buches
+gut
+verstanden
+haben,
+aber er fürchtete
+sich,
+diesen Sinn
+dem
+Leser
+zu erklären.
+a) Dieses
+ganze Buch
+ist
+in
+der
+Schlüsselburger
+Festung
+geschrieben
+werden.
+Hinzugefügt
+sind nur
+einige
+Anmerkungen
+am
+Schlusse
+des
+Buches
+und
+die Beilagen.
+‘) Nach
+erlangter
+Freiheit
+wurden
+meine Berechnungen
+durch
+die Astronomen
+der Pulkowaschen
+Sternwarte,
+Kamensky
+und N. M. Liapin
+nachgeprüft,
+die für den
+30. September
+395
+die
+gleiche
+Lage
+der Sonne
+und Planeten
+feststellten,
+die
+auch
+ich
+bestimmt
+hatte.
+Ein
+Leser,
+der mit
+der Astronomie
+nicht
+bekannt
+ist, kann
+sich
+demnach
+auf die Genauigkeit
+meiner
+Rechnungen
+verlassen.
+Eine einfache Methode zur Bestimmung
+der Zeit, wann das von
+uns behandelte Buch geschrieben wurde, und wie man diese Be
+stimmung
+auf verschiedene
+Art ganz einfach nachprüfen
+kann.
+Im
+12.
+Kapitel
+der
+„Offenbarung“
+wird
+gesprochen
+„von
+der
+Frau, die mit
+der Sonne
+bekleidet
+war,
+und
+zu deren Füssen
+sich
+der Mond befand“.
+Daraus
+geht
+hervor,
+dass
+die
+Sonne
+zu jener Zeit
+1k.h.h0m-
+1‘1.h.0_m
+13‚l1.10‚n_
+‘.\
+4’
+‚c!
+\ .‚(
+„.
+eJs
+\\l_“
+in,“
+"
+66“
+.‘B
+‘\
+_‚
+.
+\
+91‘
+""‘ /
+W.sae
+'
+*"'
+'.
+l
+l
+ä.
+Äl""
+ä
+lt
+l/
+er
+C
+4
+‚u
+M
+‚9* *
+U"’
+59
+’lll/
+\JUQHLFK.5\U.
+a
+‘\
+xi
+‚1°
+1
+=\i>
+Bild
+46.
+Die
+Lage der Sonne im Sternbild
+der Jungfrau
+für den 30. September 395
+des julianischen
+Jahres.
+
+--- Page 119 ---
+93
+sich
+im Sternbilde
+der Jungfrau
+befand.
+Ein
+anderes
+weibliches Wesen
+ist
+in
+den
+Sternbildern
+des
+Zodiakus
+nicht
+vorhanden.
+In den fol
+genden
+Kapiteln
+heisst
+es,
+dass
+an
+jenem
+Tage Neumond
+war
+(die
+scharfe Sichel,
+die gleich
+nach
+der Sonne
+unterging
+Kap.
+14, V. 15 und
+andere
+Stellen).
+Folglich
+war
+auch
+die
+Sonne
+im
+unteren
+Teil
+der
+Füsse
+der
+Jungfrau,
+nahe
+ihrer Hüfte,
+ungefähr
+unter
+dem
+kleinen
+Sterne
+n
+der Jungfrau,
+welcher
+nach
+den Koordinaten
+vom
+Ende
+des
+19. Jahrhunderts
+sich auf 13h 48‘n der Rektaszension befand.
+Um
+12 Uhr
+mittags
+nach
+Petersburger
+Zeit
+stand
+die
+Sonne
+beinahe
+genau
+unter
+dem
+gleichen
+Stern
+am
+10.
+Oktober
+1895
+nach
+julianischem
+Kalender
+und
+nimmt
+auch
+jetzt
+jedes
+Jahr
+an
+demselben
+Datum
+die
+Stelle
+ein
+(Bild 46).
+Da wir mit
+einer
+Zeit
+zu
+rechnen
+haben,
+von der
+uns
+nicht
+weniger
+als
+1500 Jahre
+trennen,
+so müssen
+wir vor allen Dingen
+be
+rechnen,
+an
+welchem
+Datum
+nach
+dem julianischen
+Kalender
+in
+den
+ersten Jahrhunderten
+unserer
+Zeitrechnung
+die
+Sonne
+jedes
+Jahr
+sich
+unter dem
+gleichen
+Stern n
+der Jungfrau
+befand.
+Mit dieser Frage habe
+ich mich denn
+auch
+zuerst
+befasst
+und.
+festgestellt,
+dass
+die
+Sonne
+da
+mals
+sich
+jährlich
+um
+den
+30.
+September
+herum
+nach
+julianischem
+Kalender
+am
+gleichen
+Punkte
+des Himmels
+befand.
+Dies
+ist unser
+Ausgangspunkt.
+Das Ereignis
+spielte
+sich
+also
+im Herbst
+um
+den
+30.
+September
+herum
+ab.
+Dies
+geht
+nicht nur aus
+der Lage
+der
+Sonne
+in
+der Jung
+frau,
+sondern
+auch
+aus
+anderen Stellen
+des von
+uns behandelten
+Buches
+hervor,
+so z. B. wenn
+es
+am Ende des 14. Kapitels
+heisst,
+dass zu dieser
+Zeit
+die
+Trauben
+schon
+reif waren.
+Infolgedessen brauchen
+wir bei
+unseren
+astronomischen
+Berechnungen nicht nachzuforschen,
+welche
+Lage
+dieser
+oder
+jener
+Planet
+in
+den
+anderen
+Jahreszeiten
+einnahm.
+Wir
+brauchen
+nur ihre Lage
+im September
+oder
+Oktober zu wissen,
+als
+ob
+die Erde
+sich
+niemals
+von
+demjenigen
+Punkt
+ihrer Bahn fortbewegt
+hätte,
+von
+welchem
+die
+Sonne
+unter dem Stern n der Jungfrau sicht
+bar ist;
+oder
+noch
+besser,
+als
+ob
+der
+Beobachter
+am
+30. September
+von
+der
+Erdkugel
+in
+einem
+der
+ersten
+Jahrhunderte
+unserer
+Zeit
+rechnung
+abgefallen
+und
+die
+ganze
+Zeit
+an
+dem Punkte
+der Erdbahn
+hängen
+geblieben
+wäre,
+den
+wir
+den apokalyptischen Punkt
+nennen
+wollen.
+Jetzt
+lässt
+sich
+die Frage
+nach
+der Entstehungszeit
+der
+„Offen
+barung“
+ausserordentlich
+einfach
+lösen,
+wie der Leser
+selbst
+sich
+über
+zeugen
+wird,
+wenn
+er
+einige
+Seiten
+weiter
+gelesen
+hat.
+
+--- Page 120 ---
+94
+A.
+Die
+Durchgangszeiten
+des Saturn
+durch den Skorpion.
+Nehmen wir zuerst den Saturn,
+der in
+der Astrologie
+durch
+seine
+unheildrohenden
+Eigenschaften
+bekannt
+ist
+—
+das
+fahlbleiche
+ROSS
+—
+welches
+nach Kapitel
+6
+sich
+im
+astrologischen Symbol
+des Todes,
+im Skorpione,
+befand.
+Aus den gewöhnlichen Kalenderdaten
+für
+diesen
+Planeten
+werden
+wir leicht
+entnehmen
+können,
+dass
+er
+zum
+letzten Male
+im Jahre
+1896
+aus
+der Wage
+in
+den Skorpion
+getreten
+ist und
+dass
+er
+am
+10.
+Ok
+tober jenes Jahres
+sich
+unmittelbar
+bei
+der
+Schere
+des Skorpions
+6
+be
+fand.
+Dieses
+Datum
+entspricht
+unserem
+apokalyptischen Punkt
+der
+Erdbahn,
+von
+dem
+aus
+die
+Sonne
+unter
+dem Stern
+n
+der Jungfrau
+zu
+erblicken
+ist.
+Aber
+vom Beginne
+unserer
+Zeitrechnung bis zum
+10. Oktober
+1897
+nach
+jnlianischem
+Kalender
+sind
+1896 Jahre
+verstrichen
+(das Jahr
+zu
+365
+‘/,
+Tagen) und
+dazu
+noch
+288,
+d.
+h. im ganzen
+also
+692 797 Tage.
+Es
+ist
+klar,
+dass,
+wenn
+wir
+von
+dieser
+Zahl
+einmal
+nach
+dem
+anderen
+den
+vollen
+Kreislauf
+des Saturn
+(107591235
+Tage)
+abziehen,
+wir jedesmal
+die Zeit
+erhalten,
+wann
+unser
+Beobachter,
+der
+sich
+ge
+wissermassen
+von
+der
+Erdbahn
+losgerissen
+hat
+und
+sich
+ständig auf
+dem apokalyptischen Punkt der Erdbahn
+beﬁndet,
+Saturn in die Schere
+des Skorpions
+treten
+sieht.
+Wir
+wollen
+nun
+den Kreislauf
+des
+Saturn
+64mal
+nehmen,
+was
+688591 Tage
+beträgt,
+und
+diese Zahl
+von
+der
+gefundenen
+Zahl
+der
+Jahre abziehen.
+Dann bleiben 4206 Tage
+oder
+11 julianische Jahre
+und
+188„5 Tage vom Anfang unserer
+Zeitrechnung.
+Das bedeutet,
+dass
+188,25
+Tage nach Beginn des zwölften Jahres
+unserer
+Zeitrechnung Saturn
+zum
+ersten
+Male
+für
+unseren
+am
+apokalyptischen
+Punkte
+der
+Erde
+fest
+stehenden
+Beobachter in
+das Sternbild
+des Skorpions
+getreten
+ist.
+Als
+die
+Erde
+Ende
+September
+des
+zwölften
+Jahres
+an
+diesem Punkt
+an
+langte,
+blieb Saturn
+immer noch
+im
+Skorpion,
+da
+er
+mehr
+als
+2
+Jahre
+braucht,
+um
+durch
+ein
+Sternbild
+des
+Tierkreises
+zu
+gehen.
+Aber
+zu
+dieser
+Zeit kann
+das
+von
+uns
+behandelte
+Buch
+nicht
+geschrieben
+worden
+sein,
+da Jesus
+damals
+noch
+ein Kind war,
+in
+dem Buch
+aber
+von
+ihm als
+von
+einem
+von
+den Toten Auferstandenen gesprochen
+wird.
+Wir
+müssen
+also
+zu diesem Grunddatum
+noch
+einen
+vollen Umlauf
+des
+Saturn
+(d.
+h.
+10759,„5 Tage = 29 Jahre,
+167 Tage)
+hinzufügen,
+um
+den
+nächstfolgenden
+Zeitpunkt
+seines
+Erscheinens
+im Skorpion
+heraus
+zuﬁnden.
+Dann
+werden
+wir
+leicht
+die
+beigefügte
+Tabelle
+I
+ﬁnden.
+
+--- Page 121 ---
+95
+Tabelle l.
+Der
+julianische
+Zeitpunkt
+des Eintritts
+des Saturn
+in
+das Stem
+bild
+des Skorpions
+(beim
+6 der Skorpionsschere) für
+den Beobachter,
+der
+sich
+auf dem „apokalyptischen Punkt“
+der Erdbahn beﬁndet,
+von dem
+aus
+die
+Sonne
+unter
+der Hüfte
+der Jungfrau
+zu sehen ist:
+Zum
+l. Male im
+12. Jahre
+am
+188.
+Tage
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(im Juli).
+„
+2.
+„
+„
+41.
+„
+„
+354.
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+Dezember).
+„
+s.
+„
+„
+71.
+‚.
+„
+156,5.
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+Juni).
+„
+4.
+„
+„
+100.
+„
+„
+323,5
+„
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(„
+November).
+„
+5.
+„
+„
+130.
+„
+„
+125„5
+„
+.
+.
+.
+.
+.
+.
+.
+. .(„
+Mai).
+„
+6.
+„
+„
+159.
+„
+„
+192„_.‚
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+Oktober).
+„
+7.
+„
+„
+189.
+„
+„
+94.
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+April).
+„
+8.
+„
+„
+218.
+„
+„
+261.
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+September)
+„
+9.
+„
+„
+248.
+„
+„
+62‚.„
+„
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(„
+März).
+„
+10.
+„
+„
+277.
+„
+„
+230,.5
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+August).
+„
+11.
+„
+„
+307.
+„
+„
+31,.
+„
+.
+.
+.
+.
+.
+.
+.
+. .(„
+Februar).
+„
+12.
+„
+„
+836.
+„
+„
+198,5
+„
+.
+.
+.
+.
+.
+.
+.
+.
+. („
+Juli).
+„
+13.
+„
+„
+365.
+„
+„
+364„
+„
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(„
+Dezember).
+„
+14.
+„
+„
+395.
+„
+„
+166,„
+„
+‚
+.
+.
+.
+.
+.
+.
+.
+.
+(am 16.Juni).
+Da
+der
+Saturn
+ein Jahr braucht,
+um
+durch
+das
+Sternbild
+des
+Skorpions
+zu
+gehen,
+dann
+aber
+in
+das Sternbild
+des Schlangenträgers
+tritt
+und
+nach
+2 Jahren
+in
+den Schützen
+übergeht,
+so ist
+es klar,
+dass
+das Buch
+des Johannes
+nur in
+dem
+diesem
+Datum
+folgenden
+Sep
+tember
+des
+gleichen
+oder
+des nächstfolgenden
+Jahres
+geschrieben
+sein
+kann (wenn wir
+den Schlangenträger
+aus den Sternbildern des Zodiakus
+ausschliessen),
+denn
+in
+allen
+anderen
+Jahren
+beﬁndet
+sich der Saturn
+in
+anderen
+Sternbildern.
+So
+erhalten wir
+das
+Erste Ergebnis.
+Wenn
+die Apokalypse
+in
+den
+ersten
+vier Jahrhunderten
+ge
+schrieben
+wurde,
+so
+könnte
+dies,
+nach
+dem
+Saturn
+zu urteilen,
+nur in
+den folgenden
+Jahren
+geschehen
+sein:
+12—13;
+42—43;
+71—72;
+101—102;
+130-131;
+160—161;
+189
+bis
+190;
+218—220;
+248—249;
+277—279;
+307—308;
+336—337;
+395.
+B.
+Die Durchgangszeiten des Jupiter
+durch
+den Schützen.
+Wir
+wollen
+nun
+auch
+für
+den Jupiter
+das
+gleiche
+Verfahren
+an
+wenden.
+Aus
+dem
+von
+uns
+vorgeführteu Bilde
+des Himmels mit
+der darauf
+bezeichneten
+Bahn des Jupiter oder aus den entsprechenden
+Kalenderdaten
+
+--- Page 122 ---
+96
+ist ersichtlich, dass nach den Koordinaten jener Zeit der Jupiter am 10. Ok'
+tober
+1889
+von der Erde
+aus auf die Stelle beinahe
+gerade
+über dem
+7.
+des Schützen‘),
+d. h. ungefähr bei
+18h 23‘“, projiziert
+wurde.
+Aber
+ge
+rade
+hier beginnt der Bogen des Schützen.
+Solange
+der Planet
+diesen
+Punkt nicht überschritten hat, beﬁndet
+er
+sich
+noch
+nicht im Schützen.
+Bei
+Johannes
+wird
+Jupiter
+als
+ein
+leuchtend
+weisses
+(leweu'g)
+Rose
+bezeichnet,
+und
+dann
+heisst
+es im
+6. Kapitel „dass der Reiter
+auf
+dem leuchtend
+weissen Rose in der Hand einen Bogen
+hatte,“
+dass
+ausserdem
+„ihm
+ein
+Kranz
+gegeben
+ist“.
+Eine
+andere
+Figur mit Bogen
+und Kranz gibt
+es
+ausser
+dem Schützen unter
+den Sternbildern
+des Zodiakus
+nicht.
+Es
+handelt
+sich also
+zweifellos
+um
+den
+Schützen.
+Auch
+gibt
+es
+im Sonnensystem
+keinen
+leuchtend
+weissen (lewrög) Planeten ausser dem Jupiter und der Venus. Aber die Venus
+entfernt
+sich
+nie
+so weit
+von
+der
+Sonne,
+um
+sich
+im
+Schützen
+beﬁnden
+zu können,
+wenn die
+Sonne
+in
+der Jungfrau steht,
+wie dies in Kap.
+12
+anzunehmen
+ist, wo von
+„der
+Frau,
+bekleidet von der Sonne“
+die Rede
+ist.
+Also
+handelt
+es
+sich
+hier
+zweifellos
+um
+den Jupiter,
+was
+auch
+durch
+das ihm beigefügte
+Prädikat
+der
+„siegreiche“
+bestätigt
+wird.
+Wir
+wollen
+nun
+berechnen,
+wann
+Jupiter
+das
+I.
+des
+Schützen
+überschritt,
+d. h. wann
+er in den ersten vier Jahrhunderten
+des Christen
+tums
+in
+den Schützen
+eintrat.
+Im Jahre
+1889
+geschah
+dies,
+wie wir
+erwähnt haben,
+geozentrisch ungefähr am
+10. Oktober
+nach julianischer
+Zeitrechnung,
+und
+die
+Sonne
+war
+genau
+zu dieser
+Zeit
+nach
+den An
+gaben des Johannes im Kap.
+12, V. 1 in die Hüfte der Jungfrau projiziert.
+Wir
+haben
+hier also
+gerade
+den Fall des Eintretens des Jupiter in
+den
+Schützen
+für
+den
+„auf
+dem
+oben
+erwähnten
+apokalyptischen
+Punkt“
+der
+Erdbahn
+beﬁndlichen
+Beobachter.
+Durch
+diesen
+Punkt
+ging
+die
+Erde
+in
+den
+ersten
+Jahrhunderten
+unserer
+Zeitrechnung
+un
+gefähr am
+30.
+September.
+Bis
+zum
+10. Oktober
+1889
+des julianischen
+Kalenders
+sind
+1888
+Jahre
+und
+283 Tage vergangen,
+das sind 689875 Tage.
+Es ist klar,
+dass,
+wenn
+wir
+auch hier so verfahren,
+wie beim Saturn,
+d. h. aus dieser
+Anzahl
+von
+Tagen
+den
+vollen
+Sternumlauf
+des Jupiter
+einmal
+oder
+mehrere
+Male
+abziehen,
+der Rest
+uns
+ein
+genügend
+genaues
+Datum für
+irgendein
+früheres
+Eintreten
+des Jupiter
+in
+den Schützen liefern wird.
+Wir
+wollen
+z. B.
+159mal
+den
+vollen Umlauf
+des Jupiter,
+d.
+h.
+688 881
+Tage,
+abziehen.
+Der Rest ergibt
+dann
+994
+Tage
+oder
+2 Jahre
+und
+263,6
+Tage.
+Somit
+sehen wir,
+dass Jupiter
+seit Christi Geburt
+am
+263„.
+Tage
+des
+dritten Jahres
+unserer
+Zeitrechnung
+zum ersten
+Male
+in
+den Schützen eintrat.
+Wenn wir zu diesem Datum einen Sternumlauf
+Jupiters
+nach
+dem
+andern
+(= 4332,m
+Tage =
+11 julianische Jahre und
+
+--- Page 123 ---
+97
+314„„,5
+Tage) hinzufügen,
+so erhalten
+wir alle
+folgenden
+Daten, wie sie
+in
+der Tabelle II aufgeführt
+sind.
+Tabelle II.
+Die
+Zeitpunkte
+(nach
+julianischem
+Kalender)
+für
+das
+Eintreten
+des Jupiter
+in
+das Sternbild
+des
+Schützen
+beim
+i.
+seines
+Bogens
+für
+unseren
+Beobachter,
+der
+sich
+auf
+dem
+apokalyptischen
+Punkte
+der
+Erdbahn
+beﬁndet:
+Das
+l. Mal im
+3. Jahre
+und 263„
+Tage
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(im
+September).
+„
+2.
+„
+„
+15.
+„
+„
+218,m
+„
+.
+.
+.
+(„
+August).
+„
+s.
+„
+„
+27.
+„
+„
+1ea„„m
+„
+.
+(.,
+Juni).
+„
+4.
+.
+„
+39.
+„
+„
+111„50
+„
+(„
+April).
+„
+5.
+‚.
+„
+51.
+„
+„
+61„u
+„
+(„
+März).
+„
+6.
+„
+..
+63.
+,.
+„
+10„„,
+„
+(„
+Januar).
+„
+7.
+„
+„
+74.
+„
+,.
+325.m
+„
+.
+(‚.
+November).
+„
+8.
+‚.
+„
+86.
+„
+‚.
+275„„,
+„
+(„
+September).
+„
+9.
+„
+„
+98.
+„
+„
+224„„
+„
+.
+.
+.
+.
+(„
+August).
+„
+10.
+..
+„
+110.
+„
+„
+174‚„,
+„
+.
+(„
+Juni).
+„
+11.
+„
+„
+122.
+„
+‚.
+123„„
+„
+.
+(„
+Mai).
+„
+12.
+„
+„
+134.
+„
+„
+vs„„
+‚.
+.
+(„
+März).
+„
+13.
+„
+„
+146.
+„
+,.
+23„„
+„
+.
+(„
+Januar).
+„
+14.
+„
+,.
+157.
+„
+„
+338„„„,
+„
+(„
+Dezember)
+„
+15.
+„
+„
+169.
+„
+„
+287,„_,
+„
+.
+(.,
+Oktober).
+„
+16.
+„
+„
+181.
+„
+„
+236„„,
+„
+.
+(.,
+August).
+„
+17.
+,.
+„
+193.
+„
+„
+185„„
+„
+.
+(„
+Juli).
+„
+18.
+„
+„
+205.
+„
+„
+135,„„
+„
+(„
+Mai).
+„
+19.
+„
+„
+217.
+„
+„
+84‚„‚
+„
+(„
+März).
+.,
+20.
+„
+„
+229.
+„
+„
+34„„,
+„
+(.,
+Februar).
+„
+21.
+„
+‚.
+240.
+‚.
+„
+349„„
+„
+(„
+Dezember).
+„
+22.
+„
+„
+252.
+„
+„
+298,„0
+„
+(‚.
+Oktober).
+„
+23.
+„
+„
+264.
+„
+„
+24.8,m
+„
+(„
+September).
+„
+24.
+,.
+„
+276.
+„
+„
+198,100
+„
+(„
+Juli).
+„
+25.
+„
+„
+288.
+„
+„
+147„m
+„
+.
+.
+(„
+Mai).
+n
+26-
+71
+rv 300—
+71
+n
+971270
+n
+(n
+April)
+„
+27.
+„
+„
+312.
+„
+„
+46„‚„„
+„
+.
+(„
+Februar).
+‚.
+28.
+‚.
+„
+323.
+„
+„
+361„,„,
+„
+(„
+Dezember).
+„
+29.
+„
+,.
+335.
+„
+.,
+311,m
+„
+(„
+November).
+„
+30.
+„
+„
+347.
+„
+„
+260„,„
+„
+.
+(.,
+September).
+..
+31.
+„
+„
+359.
+,.‚
+„
+210,m
+„
+(„
+Juli).
+„
+32.
+„
+„
+371.
+„
+„
+160„,„
+„
+.
+(„
+Juni).
+..
+33.
+„
+„
+383.
+„
+„
+109,m
+„
+.
+(.,
+April).
+„
+34.
+„
+„
+395.
+„
+„
+59„„0
+„
+.
+(„
+März).
+Da Jupiter,
+wenn
+man
+ihn
+von
+demselben
+Punkte
+der
+Erdbahn
+beobachtet,
+niemals
+länger
+als
+11
+‘/„
+Monate
+im
+gleichen
+Sternbilde_
+bleibt,
+so
+konnte
+er
+im
+Schützen
+nur
+in
+denjenigen
+September
+und
+Oktobermonaten
+der
+ersten
+vier
+Jahrhunderte
+des
+Christentums
+sein,
+Morosow.
+Die Offenbarung
+Johannis.
+7
+
+--- Page 124 ---
+98
+welche unmittelbar
+nach
+den in
+der
+obigen
+Tabelle
+angegebenen
+Daten
+folgen.
+Zweites Ergebnis.
+Wenn
+die Apokalypse
+in
+den
+ersten
+vier Jahrhunderten
+der
+christlichen
+Aera
+geschrieben
+wurde,
+so
+kann
+dies,
+nach
+dem
+Jupiter
+zu urteilen, nur in den folgenden
+Jahren
+geschehen
+sein:
+3,
+15,
+27,
+39,
+51,
+63,
+75,
+86,
+98,
+110,
+122,
+134,
+146,
+158,
+170,
+181,
+193,
+205,
+217,
+229,
+241,
+253,
+264,
+276,
+288,
+300,
+312,
+324,
+336,
+(beim
+Ausgang)
+347,
+359,
+371,
+383,
+395.
+C.
+Wann
+war
+Jupiter
+im Schützen
+und
+Saturn
+im
+Skorpion
+zur
+selben Zelt, während
+welcher die Sonne
+sich in der Jungfrau befand?
+Wir
+wollen
+jetzt
+in chronologischer Reihenfolge
+die
+von
+uns
+be
+rechneten Jahre (erstes Ergebnis
+dieses Kapitels),
+in
+welchen
+der Saturn
+sich im Skorpion
+befand,
+mit
+den Jahren
+vergleichen,
+in
+denen Jupiter
+im Schützen stand (zweites Ergebnis),
+und zwar für einen Beobachter,
+der
+ständig auf dem apokalyptischen
+Punkte
+der Erdbahn
+sich beﬁndet,
+durch
+welchen
+in
+den
+ersten
+vier Jahrhunderten
+des Christentums unser
+Planet
+ungefähr am
+30. September
+ging.
+Dann
+bekommen
+wir die nach—
+stehende
+Tabelle III (S.
+99).
+Sie zeigt,
+dass
+im Laufe
+der
+ersten vier Jahrhunderte
+unserer Zeit
+rechnung
+das
+gleichzeitige
+Verweilen
+des Saturn
+im Skorpion
+und des
+Jupiter
+im
+Schützen
+im
+Herbst
+nur
+im
+4. Jahrhundert
+im Jahre 395
+stattﬁnden konnte.
+(Dass
+das Jahr 336 nicht in Betracht kommen kann,
+ist im Texte
+dargelegt).
+Betrachten wir
+diese Tabelle
+genauer,
+so
+werden
+wir in ihr etwas
+sehr
+Merkwürdiges
+gewahr
+werden: in allen ersten
+drei
+und
+ein
+viertel Jahrhunderten
+nach
+Christi
+Geburt
+gab
+es keinen einzigen
+Fall,
+in
+welchem
+sich Jupiter zu derselben
+Zeit
+im
+Schützen befunden
+hätte,
+in
+welcher Saturn
+sich
+im Skorpion
+befand,
+wie
+es
+das Kap.
+6 (V. 8
+und
+2)
+der
+Apokalypse
+erfordert.
+Jedesmal,
+wo Saturn
+im Skorpion
+zu
+sehen war,
+befand
+sich Jupiter nicht
+im Schützen und
+umgekehrt!
+Nur
+im Jahre
+336
+gewahren
+wir
+zum
+erstenmal
+eine
+schwache
+Andeutung eines solchen Zusammentreffen.
+Allein dieses Jahr kann nicht
+in Betracht
+kommen,
+da
+es
+sich
+bei
+einer
+genaueren
+Betrachtung
+er
+geben
+hat
+(wie
+auch
+aus
+der
+einfachen
+Vergleichung
+der Tabellen
+für
+die
+beiden
+Planeten
+hervorgeht),
+dass
+im Jahre 336 Jupiter
+schon
+aus
+dem Mantel
+des Schützen herausgetreten
+war und sich im Zwischenraum
+zwischen ihm
+und
+dem
+Steinbock
+befand.
+Die
+Lage
+des
+Mars
+hat
+
+--- Page 125 ---
+99
+Tabelle III.
+I.
+II.
+I.
+]1‚
+Die Jahre, in
+Die Jahre,
+in
+Die Jahre,
+in
+Die Jahre, in
+welchen Jupiter im
+welchen Saturn
+im
+welchen Jupiter im
+welchen Saturn
+im
+Schützen
+zu
+sehen
+Skorpion
+zu sehen
+Schützen
+zu
+sehen
+Skorpion zu
+sehen
+war.
+W81".
+war.
+W".
+l. Jahrhundert
+3. Jahrhundert
+Im
+3. Jahr
+Im 205. Jahr
+Im I2. Jahr
+„
+217.
+„
+„
+13-
+„
+Im
+218. Jahr
+„
+15.
+„
+„
+219.
+„
+„
+27-
+n
+„
+220.
+„
+„
+39.
+„
+„
+229.
+„
+„
+42.
+„
+„
+241
+„
+„
+43.
+„
+‚.
+248.
+„
+51.
+.‚
+‚.
+249.
+„
+63.
+„
+„
+253.
+„
+7l-
+„
+„
+264.
+„
+„
+72-
+„
+„
+276.
+„
+„
+75.
+„
+.
+277.
+„
+„
+86.
+„
+„
+278.
+„
+„
+es.
+„
+„
+279.
+„
+.
+288.
+„
+2. Jahrhundert
+„
+300.
+n
+Im
+101. Jahr
+„
+102_
+„
+4. Jahrhundert
+Im
+110. Jahr
+Im
+807. Jahr
+n
+122
+n
+„
+308.
+„
+„
+130.
+„
+Im 312. Jahr
+„
+131.
+„
+.‚
+324.
+„
+„
+134‚
+„
+„
+336.
+„
+„
+336.
+„
+„
+14(5_
+„
+(beim
+Austreten)
+(beim
+Eintreten)
+„
+158.
+„
+Im
+337. Jahr
+„
+160.
+„
+Im
+347. Jahr
+„
+161.
+„
+„
+359.
+„
+'
+„
+170.
+„
+„
+366.
+„
+„
+181.
+„
+„
+367.
+„
+„
+189.
+.,
+„
+371.
+-.
+„
+190.
+„
+„
+383.
+„
+„
+193.
+„
+„
+395.
+„
+„
+395.
+„
+sich
+gleichfalls
+für dieses Jahr
+unbrauchbar erwiesen,
+und
+nur
+das Jahr
+395 scheint
+in diesen
+ersten
+vier Jahrhunderten
+in
+allen astronomischen
+Beziehungen
+2) der Apokalypse
+genau
+zu entsprechen.
+Folglich
+hat
+sich
+das Gewitter
+mit Erdbeben,
+von
+dem hier die
+Rede
+ist,
+ungefähr
+am
+30.
+September
+395
+nach
+dem
+julianischen
+Kalender
+ereignet.
+Berücksichtigen
+wir ausserdem
+den Umstand,
+dass
+
+--- Page 126 ---
+100
+nach
+Kap.
+12 (V. l)
+der Apokalypse
+der Mond
+zu dieser Zeit sich unter
+den Füssen
+der Jungfrau
+befand,
+so werden wir leicht berechnen
+können,
+dass
+das Ereignis
+genau
+am Abend
+des 30.
+September
+395
+stattfand,
+keinen
+Tag
+früher und keinen Tag
+später.
+’) Auf
+den
+Zeichnungen
+4,
+5
+u.
+6 (S. 10)
+sind
+die Daten
+nach
+neuem Stil
+an
+gegeben.
+Infolgedessen
+befand
+sich
+der
+Jupiter
+nicht
+am
+10.
+Oktober,
+sondern
+am
+28.
+September
+über
+dem
+2. des
+Schützen.
+') Nach
+den
+Koordinaten
+des Jahres
+1905
+auf
+Grund
+der
+Berechnungen
+der
+Tabellen
+von Leverrier
+bekommt
+man für den
+30. September
+395
+folgende Lagen:
+Jupiter:
+a=292°2’
+(19h
+28m1)
+und d”: —22°29'
+Saturn:
+n=241°17'
+(16h
+5‘“1)
+und d: =
+9°4'.
+Siehe
+Anhang
+am
+Schluss
+des
+Buches.
+Andere astronomische Beweise,
+die den gleichen Zeitpunkt
+für
+das Entstehen
+der Apokalypse ergeben, und durch welche
+die
+vorherige
+Berechnung
+bestätigt
+wird.
+Nach dem Vorhergegangenen
+ist die Zeit der Entstehung des Buches
+des Johannes
+gewissermassen
+mit
+unverwischbaren
+Buchstaben
+an
+den
+Himmel
+selbst
+geschrieben,
+die
+noch
+niemand
+bei
+den politischen
+und
+religiösen
+Streitigkeiten
+des Mittelalters
+zugunsten
+eigener
+Ansichten
+fälschen
+konnte,
+als
+die
+überhitzten
+und
+fanatisierten Köpfe
+in
+ihrer
+Sucht, um jeden Preis ihre Meinung durchzusetzen,
+keine Mittel
+scheuten
+und uns mit ganzen Haufen untergesohobener
+Dokumente überschütteten.
+Am
+merkwürdigsten
+ist, dass wir im gegebenen Falle den gleichen
+Zeitpunkt
+nicht nur auf die
+von
+mir
+angeführte
+Weise,
+sondern
+auch
+durch
+andere
+astronomische,
+von
+jener
+unabhängige
+Mittel
+berechnen
+können.
+Man kann
+z. B.
+die Bewegungen
+des Jupiter,
+die
+ich
+vorher
+benutzt habe,
+durch
+die von ihm unabhängigen
+Bewegungen
+des Mars
+(des feuerroten
+Rosses
+unter dem Perseus, von
+dem
+im Kap.
+6 die Rede
+ist)
+ersetzen
+oder
+durch
+die
+Bewegungen
+des
+Mondes,
+von
+dem
+im
+Kap.
+12
+der
+Neumond
+angegeben
+ist.
+Dabei
+ergibt
+sich
+schliesslich
+immer der
+gleiche
+Zeitpunkt:
+der
+30.
+September
+395.
+Es
+ist,
+als
+ob
+Johannes
+voraus
+geahnt
+hätte,
+dass
+die
+Zeit
+der
+Entstehung
+seines
+Buches vergessen
+oder
+gefälscht
+werden
+könnte,
+und
+für
+diesen
+Fall
+eine
+ganze
+Reihe, nur für
+den Uneingeweihten verhüllter astronomischer
+Andeutungen
+gegeben
+hätte,
+mit
+deren
+Hilfe
+man
+nicht nur die
+wahre
+
+--- Page 127 ---
+101
+Entstehungszeit
+seines
+Werkes
+bestimmen,
+sondern
+dies
+auch
+durch
+verschiedene
+astronomische
+Berechnungen
+bestätigen
+kann.
+Hier sind
+z. B.
+einige
+von diesen
+Bestätigungsweisen:
+1.
+Bestätigung.
+Im
+l. Kapitel
+heisst
+es,
+dass
+das
+beschriebene
+Gewitter
+am Sonntag
+stattgefunden
+hat.
+Was für
+ein
+Tag war
+nun
+der
+30.
+September
+395?
+Mit Hilfe der
+gewöhnlichen Tabellen,
+die in
+allen genaueren
+Kalendern zur Berechnung eines beliebigen Wochentages
+für
+ein
+bestimmtes
+Datum
+des julianischen
+Kalenders
+enthalten
+sind,
+ﬁnden
+wir
+ohne
+Mühe,
+dass
+der
+30.
+September
+des
+395. julianischen
+Jahres
+ein Sonntag
+war.
+2. Bestätigung.
+Im Kapitel 6 heisst
+es,
+dass
+der
+Reiter
+auf
+dem
+feuerroten Bosse
+(d. h.
+dem einzigen
+feuerroten
+Planeten
+Mars)
+in‘ der
+Hand
+ein
+grosses Schwert
+hielt.
+Unter allen Figuren
+der astronomischen
+Sternbilder
+über der Ekliptik
+besitzt nur Perseus
+ein Schwert.
+Folglich
+befand
+sich
+Mars
+zu
+der
+Zeit,
+als Johannes
+seine
+Beobachtungen
+an
+stellte,
+unter
+dem
+Perseus.
+Ist
+also
+das
+von
+uns
+gefundene
+Datum
+richtig,
+so
+muss
+dies
+auch
+tatsächlich
+der Fall
+sein;
+wenn
+nicht,
+so
+sagt
+schon
+die einfache
+Berechnung nach
+der Wahrscheinlichkeitstheorie,
+dass von einem
+Zufall
+hier nicht
+die Rede sein kann.
+Bei
+Benützung
+derselben
+Berechnungsmethode,
+die
+ich an
+dem
+Beispiel
+des Jupiter und
+des Saturn
+erklärt
+habe,
+fand
+ich,
+dass
+am
+30.
+September
+395
+Mars
+nach
+den
+jetzigen Koordinaten
+von
+der Erde
+aus
+am 34.° der
+Rektaszension,
+d. h. in der Brust
+des Widders (Bild 44)
+zu sehen war.
+Der mögliche Fehler
+übersteigt hier keine drei Längengrade
+1) und
+Bild
+44.
+Der Mars
+unter dem Perseus
+im Widder
+(nach dem Manuskript
+Grienbergers).
+
+--- Page 128 ---
+102
+ist für
+uns
+ganz
+bedeutungslos,
+weil
+Mars
+trotzdem unter
+dem Perseus
+bleibt,
+der
+den
+ganzen
+Widder
+überdeckt.
+So bestätigt
+also
+auch
+die Lage
+des Mars
+die Richtigkeit
+unserer
+ersteren
+Behauptung,
+wonach
+das Buch
+des
+Johannes
+im
+Herbst
+395
+geschrieben
+wurde, weil
+der Mars während des ganzen
+Septembers
+dieses
+Jahres
+durch
+den
+Widder
+ging,
+sich
+vom
+Stier
+in
+rücklaufender
+Be
+wegung
+gegen
+die Fische
+wandte,
+sodann
+beim Austritt aus dem Widder
+in
+die
+Fische Halt
+machte,
+um
+in
+den
+nächsten
+Monaten
+unter
+dem
+selben
+Perseus sich umzudrehen und
+in
+fortschreitender Bewegung
+aus
+dem
+Widder
+in
+den Stier
+zurückzukehren.
+Aber
+warum hat
+der Verfasser
+nicht
+direkt
+gesagt,
+dass auf
+dem
+feuerroten
+Bosse
+der Widder sass?
+Warum
+hat
+er
+es
+vorgezogen,
+eine
+Figur
+zu
+nennen,
+die
+sich
+über
+dem Widder beﬁndet?
+Vor allem
+darum,
+weil
+er
+die
+Annäherung
+des
+Perseus
+an
+das
+Kriegsross
+-—— Mars
+—- für ein Symbol
+eines
+nahen
+Einfalls der Perser
+hielt,
+da er im Kapitel 16 ausdrücklich
+sagt, dass das Wasser des grossen
+Stromes Euphrat
+ausgetrocknet
+sei,
+um
+den Herrschern
+des Ostens
+den
+Weg
+zu bereiten; von ihnen
+aber waren diejenigen
+der Perser die ersten.
+Ferner:
+zur
+Zeit,
+als
+Johannes
+seine
+Beobachtungen
+anstellte,
+d.
+h. ungefähr um 4—5
+Uhr abends
+am
+30.
+September
+395
+des
+julia
+nischen
+Kalenders,
+war
+der Widder
+mit
+dem
+Mars
+noch
+unter
+dem
+Horizont
+versteckt.
+Er
+bereitete
+sich
+gerade
+zum
+Aufgang
+vor;
+und
+seine Lage
+ergab
+sich aus
+derjenigen
+des Perseus, der
+gewissermassen
+in
+derselben
+Gegend
+des
+Horizontes
+sich
+befand.
+Es
+ist
+wahrscheinlich
+und stimmt vollkommen
+mit
+der
+mystischen
+Stimmung
+des
+Verfassers
+überein,
+dass
+er
+es
+geradezu
+für
+einen
+Fingerzeig
+des Himmels
+ansah,
+nicht zu sagen,
+der Mars
+befand
+sich
+im Widder,
+sondern
+seine Lage
+durch
+das über ihm
+beﬁndliche Sternbild
+zu bestimmen,
+das
+schon
+über
+dem Horizonte
+war.
+Trotzdem
+sind indirekte
+Andeutungen,
+dass Mars
+sich
+gerade
+hier
+befand,
+an
+anderen Stellen
+des Buches
+vorhanden.
+Die
+Anwesenheit
+dieses Planeten
+des Zornes
+und
+des
+Krieges
+im
+Widder
+musste
+den Johannes
+zu
+dem
+Schlusse
+führen,
+dass
+der
+„geschlachtete
+Widder“
+schliesslich wutentbrannt in den Krieg gegen
+seine Feinde
+ziehe
+und dass sein Krieg nach 3‘/., Jahren
+beendet sein werde,
+wenn
+„das sieg
+reiche helle Pferd“
+—— der Jupiter — in dasselbe Sternbild eintreten
+werde.
+Aber
+mag
+der Wert
+meiner
+Betrachtung
+in den Augen
+des Lesers
+sein,
+wie er will,
+die Tatsache bleibt
+bestehen:
+Mars
+befand
+sich
+unter
+dem Perseus, und wir
+fanden
+ihn dort
+an
+dem
+gleichen
+Zeitpunkt,
+den
+wir auch
+auf anderem
+Wege
+festgestellt haben.
+3.
+Bestätigung.
+Merkur
+ist
+im
+6.
+Kapitel
+als
+dunkles
+Boss
+bezeichnet
+(7mm; ye'lag
+—— dunkles,
+ﬁnsteres,
+trübes Boss).
+Auf keinen
+
+--- Page 129 ---
+103
+anderen
+Planeten
+kann
+man
+diese Bezeichnung
+anwenden;
+auf Merkur
+passt
+sie vollkommen.
+Er ist der kleinste
+von
+allen
+fünf im
+Altertum
+bekannten
+Planeten
+und
+im
+vollen
+Sinn
+des
+Wortes
+der
+unsichtbare
+Planet.
+Mit
+blossem
+Auge kann
+man
+ihn in der
+gemässigten
+Zone
+der
+Erde nur unter besonderen Umständen wahrnehmen, ab und zu im Herbst
+vor
+Sonnenaufgang
+oder
+im
+Frühjahr
+sofort
+nach
+Sonnenuntergang,
+und
+das nur
+wenige
+Minuten,
+weil
+er bald in
+den Strahlen
+des Abend
+rotes
+erlischt.
+Vielen
+Astronomen
+der nördlichen Gegenden
+ist
+es
+nie
+mals
+gelungen,
+den
+Merkur
+mit blossem Auge wahrzunehmen.
+Auf dem
+Mittelmeer aber, wo die atmosphärischen
+Verhältnisse günstiger sind, kann
+man
+ihn
+ab
+und
+zu sehen,
+und das
+auch
+nicht einmal jedes
+Jahr.
+Da
+die
+Beobachtungen
+des Johannes
+in
+der Herbstzeit
+stattfanden
+(als die
+Sonne
+sich
+im Sternbilde der Jungfrau befand),
+so konnte er des
+Abends
+den
+Merkur
+nicht
+sehen,
+weil
+Merkur
+zu
+dieser
+Zeit
+(auch
+während
+seiner
+grössten
+Entfernung
+von
+der
+Sonne)
+sehr
+niedrig
+über
+dem Horizonte
+steht
+und
+sich
+in
+den
+Strahlen
+des
+Abendrots
+verliert.
+Darum
+ist
+er hier
+als das dunkle,
+d. h. das unsichtbare, R088 bezeichnet,
+ebenso
+wie
+der dunkle
+Mond
+während
+des
+Neumondes
+unsichtbar ist.
+Aber
+Johannes,
+der
+nach
+dem
+berühmten
+Astronomen
+Ptolemäus
+lebte,
+hatte
+schon
+vollkommen
+genügende
+Mittel,
+um
+die Lage
+dieses
+Planeten
+zwischen
+den
+Sternbildern
+des
+Zodiakus
+für
+eine
+beliebige
+Woche festzustellen.
+Diese Lage gibt er auch genau in demselben
+6. Kapitel
+an,
+wo er
+sagt,
+dass
+der Reiter
+auf dem dunklen Boss
+die Wage in
+der
+Hand
+hielt
+(Cuyög —
+der
+Wagebalken).
+Dieses
+Wort
+—-
+Zvy6g
+—
+wurde in
+der griechischen Astronomie
+und.
+Astrologie
+zur Bezeichnung
+des Sternbildes
+der Wage
+gebraucht;
+so
+dass hier also
+gar kein
+Missverständnis
+möglich
+ist.
+Unter
+dem Reiter auf dem dunklen
+Boss ist
+aber
+offenbar
+das
+Sternbild
+der
+Schlange
+zu
+verstehen,
+das
+sich direkt
+über der Wage
+beﬁndet.
+In
+demselben
+6. Kapitel,
+gleichsam
+um
+auch
+den
+letzten Zweifel
+am
+Wesen
+des dunklen
+Rosses
+zu
+heben,
+wird
+auch
+seine
+astro
+logische Spezialität
+erwähnt.
+Merkur
+ist
+in
+der
+Mythologie
+der Gott
+des Handels.
+So
+ist auch
+der ihm
+erteilte Befehl
+verständlich:
+„Eine
+Tagesportion
+Brot für
+einen Denar
+und
+drei Tagesportionen Gerste auch
+für
+einen
+Denar!
+Aber
+dem
+Oele
+und dem Weine
+schade
+nicht.“
+Mit
+einem
+solchen
+Befehle konnte
+man sich nur an einen Planeten wenden —
+an Merkur.
+Dieser Umstand
+gibt
+uns
+auch
+ein
+neues
+und.
+vorzügliches
+Mittel
+zur Prüfung
+des von
+uns
+bestimmten
+Zeitpunktes.
+Wenn
+unsere
+Da
+tierung
+richtig
+ist,
+so
+war
+am
+30.
+September
+395
+nach
+julianischer
+Zeitrechnung
+Merkur
+im
+Sternbilde
+der Wage.
+
+--- Page 130 ---
+104
+So
+war
+es
+auch
+tatsächlich.
+Die
+astronomischen
+Berechnungen,
+die ich nach
+den Zyklen
+seines Durchganges durch die
+Sonne
+gemacht
+habe,
+ergaben,
+dass Merkur
+sich
+an
+diesem Tage tief im Sternbilde
+der
+Wage
+befand.
+Er war
+eben im Begriffe,
+von
+seiner
+geraden
+Bewegung
+in
+die
+umgekehrte
+abzugeben,
+und
+befand
+sich
+auf dem Wege zu seiner
+unteren
+Verbindung
+mit
+der
+Sonne,
+die, wie wir schon
+wissen,
+sich an
+der Hüfte
+der Jungfrau,
+unweit
+des Sternbildes
+der Wage
+befand
+2).
+4.
+Bestätigung.
+Vom
+Monde
+ist
+im
+12.
+Kapitel
+ganz
+genau
+und
+ohne
+jede
+Zweideutigkeit
+die
+Rede.
+Dort
+heisst
+es,
+dass
+unter
+den
+Füssen
+der Jungfrau
+sich der Mond
+befand.
+Dies
+deutet
+auf den Neu
+mond
+am
+selben Tage,
+dem
+30. September
+des Jahres
+395,
+da der Mond
+sich
+sehr
+schnell bewegt und in
+einem
+Tag
+etwa 13‘/„° durchschreitet,
+während
+die
+Sonne
+nach
+den
+weiteren Angaben
+zu
+dieser
+Zeit
+schon
+in
+der Hüfte
+der Jungfrau
+stand.
+Man konnte
+sogar
+im
+Moment
+des
+Neumondes
+sagen,
+dass
+der Mond
+sich
+„unter den Füssen“
+der Jungfrau
+befand,
+denn
+nach
+der Abweichung
+befand
+er
+sich
+tatsächlich in ihrem
+unteren
+Teil in
+der Richtung
+zum
+Horizont
+(Fig. 45).
+Dies gibt
+uns
+sofort die Möglichkeit,
+einige
+dunkle Ausdrücke
+zu
+verstehen,
+die
+sich
+an zwei Stellen
+der Apokalypse
+beﬁnden.
+Als ich das
+erste
+Mal
+am Schlusse
+des
+6.
+Kapitels
+den
+Satz
+las:
+„und die
+Sonne
+wurde dunkel wie ein
+härener
+Sack
+3)
+und
+der ganze‘)
+Mond
+(infolge
+des Neumondes)
+wie
+ein
+Blutﬂecken“,
+und
+die
+„Sterne
+am Himmel fielen5)
+auf die Erde“,
+kam mir sofort der Gedanke, dass
+hier
+von
+einer
+Sonnenﬁnsternis
+die
+Rede
+sei.
+Zum
+gleichen Ergebnis
+führte
+auch
+der
+Schluss des
+8.
+Kapitels,
+wo
+es heisst:
+„da
+ward
+ge
+schlagen
+der dritte Teil
+der
+Sonne
+und
+der dritte Teil
+des Mondes“.
+Als
+ich
+festgestellt
+hatte,
+dass
+am
+30.
+September
+395
+wirklich
+Neumond war,
+benützte ich
+diesen
+Umstand,
+um
+nachzusehen,
+ob
+er
+nicht vielleicht
+von
+einer
+Sonnenﬁnsternis begleitet war.
+Im gegebenen
+Falle liess sich
+die Aufgabe
+auf
+die
+einfachste
+Weise
+lösen.
+In
+dem
+mir zur Verfügung
+stehenden Journal cf Knowledge,
+V01. 26 befand sich
+eine
+genaue Formel
+zur Bestimmung
+der Lage
+des Mondes
+für jede Zeit.
+Hiernach
+habe
+ich berechnet,
+dass
+am
+Abend
+des 30.
+September
+tat
+sächlich eine ringförmige Sonnenﬁnsternis stattfand, die durch Südamerika
+hindurchging.
+Von
+diesem
+Augenblick
+an wurden
+mir
+auch
+die
+zwei
+oben
+an
+geführten rätselhaften Ausdrücke
+klar.
+Als
+einer
+der eifrigsten Astro
+nomen
+und
+Astrologen
+seiner
+Zeit,
+musste
+Johannes
+unbedingt
+den
+Saros’schen
+Zyklus
+der Finsternisse
+kennen
+(alle
+18 Jahre und
+11 Tage),
+mittelst
+dessen
+die Chaldäer schon lauge vor ihm die Finsternisse voraus
+sagten.
+Dieser Zyklus
+wurde
+zu
+seiner Zeit
+auch
+von griechischen
+und
+
+--- Page 131 ---
+105
+ägyptischen Astronomen
+gebraucht.
+Zwar
+gab
+er Johannes
+nicht
+die
+Möglichkeit,
+genau
+die Tageszeit
+zu
+berechnen,
+an
+dem
+die Finsternis
+stattﬁnden
+werde.
+Auch
+konnte
+man mittelst
+dieser Formel
+die Punkte
+Bild
+45.
+Die La
+e der Sonne
+und des Mondes
+am 30. September 395.
+(Der Mond
+st ein wenig
+südlicher
+als die Sonne gezeichnet)
+der Erdoberﬂäche,
+von
+denen
+aus
+sie
+sichtbar würde,
+nicht
+angeben.
+Aber
+dank
+dem Zyklus
+wusste Johannes
+ganz
+gut,
+dass
+an
+diesem
+Tage
+die Finsternis
+unbedingt
+eintreten
+müsse,
+und
+dass
+sie
+vielleicht
+
+--- Page 132 ---
+106
+schon
+irgendwo auf der Erde
+sichtbar
+sei
+und
+„alle Herrscher
+der Erde
+ﬂüchteten,
+um
+sich
+in
+den Höhlen
+der Berge zu
+verstecken.“
+Augenscheinlich
+erwartete er
+sie diesen
+ganzen Tag;
+deswegen
+war
+er
+ans Ufer
+der Insel
+Patmos
+gegangen.
+Im Augenblicke
+daher,
+als die
+Sonne
+durch
+die
+ﬁnsteren
+Gewitterwolken
+bedeckt,
+es plötzlich
+dunkel
+wurde und
+„das
+zürnende Antlitz“
+der
+Sonne
+zwischen
+den Wolken
+erschien,
+da
+nahm
+er
+an,
+dass
+die erwartete Finsternis
+dort oben hinter
+den Wolken bereits
+begonnen
+habe.
+—
+7“\———=‘äl;_——’W_
+——'
+(
+„‚=*Q;t‘ \&.w\
+\
+v„&„(
+u\
+_._.
+_________\
+__
+_
+r* \\m
+‘v„»
+0
+\o\
+Bild 46.
+Der Verlauf
+der Sonnenfinsternis
+am 30. Sept. 395 nach der Zeit zu Patmos.
+Ob Johannes
+die
+wahre Ursache
+der
+Sonnenﬁnsternis, nämlich das
+Dazwischentreten
+des
+Mondes
+zwischen
+Sonne
+und
+Erde,
+kannte,
+ist
+sehr
+zweifelhaft.
+Seine
+eigene
+Beschreibung
+zeigt,
+dass
+er
+solche
+Naturerscheinung
+für
+ein
+besonderes
+Zeichen Gottes hielt,
+das
+einer
+bestimmten
+Gesetz
+mässigkeit
+unterworfen sei.
+Bekanntlich
+wussten die alten Naturforscher
+mit
+den Mondﬁnsternissen
+nicht
+zustande
+zu
+kommen.
+Solange
+die
+Erde
+nicht
+als ebensolcher
+Planet,
+wie
+die
+anderen,
+galt,
+solange
+man
+sie
+sich,
+wie Johannes,
+als
+den
+viereckigen
+Boden
+eines
+Weltkastens
+vorstellte,
+der mit einer Glaskuppel
+bedeckt
+ist,
+auf der
+die Himmels
+lichter
+herumwandern,
+solange
+konnte
+man
+eine
+Mondﬁnsternis
+sich
+nicht
+erklären,
+und
+dies warf
+auch auf die ihnen
+entsprechenden
+Sonnen
+ﬁnsternisse
+einen
+geheimnisvollen
+Schatten.
+Allerdings
+war
+in
+der
+zweiten Hälfte
+des
+zweiten Jahrhunderts
+das
+Buch
+des
+Ptolemäus
+bereits
+erschienen,
+das die Erde als kugelförmig hinstellte und die Himmels
+erscheinungen
+dadurch
+zu
+erklären
+suchte,
+dass
+die
+Sonne
+und
+der
+Mond
+sich in Zyklen,
+d.
+h.
+in Kreisen,
+um
+die Erde
+bewegten,
+wobei
+
+--- Page 133 ---
+107
+sich
+die
+anderen
+Planeten
+in Zyklen
+(in
+der
+Astronomie
+Deferenten
+genannt)
+und
+Epizyklen,
+d. h. Ueberkreisen,
+„wie,
+als
+ob
+ein
+Rad
+sich
+in
+einem
+Bade
+befände“
+(Ezechiel l)
+bewegten.
+Aber
+dieses
+System
+war
+infolge
+der
+Stellung
+der
+Erde
+im Zentrum
+des Weltalls
+so
+ver
+wickelt,
+dass
+es
+bei Leuten,
+die,
+wie Johannes,
+die Bibel
+für
+eine
+un
+mittelbare
+Offenbarung
+Gottes
+selbst
+hielten, ein Misstrauen her
+vorrufen
+musste.
+Von
+einem Manne mit
+einer
+Weltanschauung,
+wie
+sie
+in
+den
+ersten
+Kapiteln
+des
+1. Buches
+Moses beschrieben
+ist, musste
+die
+Tatsache, dass die Mondﬁnsternisse
+nur in die Nächte des Vollmondes
+und
+die Sonnenﬁnsternisse nur in
+die Tage des Neumondes fallen, für
+einen
+einfachen
+Zufall
+angesehen
+werden.
+Alles,
+was Johannes, der,
+wie wir es
+aus
+seinem
+Buche
+ge
+sehen
+haben,
+die biblische W elt-
+Bild
+4„7,‘m?zsesp
+‘“°
+anschauung
+teilte,
+bei diesem An
+lass hätte sagen können, hätte etwa gelautet,
+dass Gott den alten Chaldäern
+den Saros’schen
+Zyklus
+der Finsternisse offenbart
+und
+sie damit in einen
+Teil seiner geheimnisvollen
+Vorsehung
+eingeweiht
+habe.
+Auf die Frage
+aber, auf welche Weise Gott die Gestirne verﬁnstert, hätte er vielleicht ge
+antwortet,
+dass
+er dies einzig und allein
+„durch
+sein
+allmächtiges Wort
+vollbringe“.
+Die
+Regelmässigkeit
+dieser
+Erscheinungen
+aber
+würde
+er
+wohl
+ohne
+Zögern
+für
+einen
+von
+Gott in
+seinen
+Vorherbestimmungen
+festgesetzten
+Beschluss erklärt
+haben.
+Aber
+wie Johannes
+über
+diese
+Dinge
+gedacht
+haben
+mag,
+aus
+seinem
+Buch
+ist
+folgendes
+klar:
+er
+wusste
+im
+voraus,
+dass
+an
+dem
+betreffenden
+Tage
+eine
+Sonnenﬁnsternis
+stattﬁnden
+werde.
+Und
+diese
+Tatsache dient als
+neuer Beweis für die Richtigkeit
+unserer
+Berechnung.
+‘)
+Die Pulkower
+Astronomen
+M.
+M. Kamensky
+und
+N. M. Ljapin,
+die
+nach
+den Tabellen Leverri ers
+meine
+Berechnungen
+nachprüften,
+fanden
+die Rekt
+aszension
+des Mars 32°
+52’,
+d.
+h.
+um
+1° 8’
+weniger
+als
+ich,
+was durch
+die grossen
+Unregelmäßigkeiten
+der Bewegungen
+des Mars zu erklären ist (nachträgliche
+Bemerkung).
+’)
+Die
+Berechnungen
+der
+prüfenden
+Astronomen
+der
+Pulkower
+Sternwarte
+ergaben für den Merkur einen Wert, der dem meinen sehr nahe kommt:
+u = 299°5’ = 15h
+16 m2 und
+‚3 = —3°1
+ganz tief in
+der der
+Wage.
+B) o'a'xzo;
+rgtlwo;
+—- Haarsack.
+
+--- Page 134 ---
+108
+‘)
+Ö'Äq — ganz, vollkommen.
+"’)
+i'nwrw rl;
+1„‘v ;n}v
+ist, vom Abschreiber
+aus
+imiumv u‘;
+rr,‘v yrjv,
+treten vor
+der Erde auf,
+passe
+ind6ﬁni
+von
+i'7ruyr,
+ich
+trete vor
+jemandem
+auf,
+nähere
+mich
+etwas;
+d; bedeutet:
+hier,
+gegenüber,
+in
+Gegenwart,
+auf.
+Von 1u'nnu,
+ich falle, darf
+man
+es hier
+nicht
+ableiten.
+IV.
+Ergebnis.
+Die
+mannigfachen
+astronomischen
+Angaben,
+die
+über
+die
+ganze
+Apokalypse
+hin
+zerstreut
+sind,
+lassen
+somit
+keinen Zweifel
+darüber,
+dass
+das
+von
+Johannes
+beschriebene
+Gewitter
+gegen
+5
+Uhr
+abends
+am
+30.
+September
+395
+sich
+über
+die Insel
+Patmos
+entladen
+hat.
+Das von
+ihm
+beschriebene
+Aussehen hat der Sternhimmel, aller
+Wahrscheinlich
+keit
+nach,
+während
+der
+ganzen
+historischen Zeit
+‘)
+kein
+einziges
+Mal
+gehabt,
+ausser
+an
+dem
+hier angegebenen
+Tage.
+Würden
+gegen
+diesen
+Zeitpunkt
+auch
+ganze
+Berge alter Manuskripte
+protestieren,
+so
+müsste
+man
+sie alle für
+gefälscht
+erklären.
+Aber
+in Wirklichkeit
+haben
+wir während
+der
+ersten
+vier Jahr
+hunderte
+über
+sie
+gar
+keine
+ernst
+zu
+nehmenden
+Angaben
+ausser
+einigen
+zehn
+Zitaten,
+die
+sich
+gegenseitig
+widersprechen,
+ohne jede
+Be
+gründung
+dem
+einen
+oder
+dem
+anderen
+christlichen
+Bischof
+zu
+geschrieben
+werden,
+und
+die
+noch
+dazu
+nur
+in Abschriften
+der mittel
+alterlichen
+Mönche
+auf
+uns
+gekommen
+sind.
+Dagegen
+ﬁnden
+wir
+in
+der
+„Offenbarung
+in Gewitter
+und
+Sturm“
+selbst
+ein
+ziemlich
+gut er
+haltenes
+Dokument
+aus
+dem Altertum,
+worin ausser
+den
+astronomischen
+eine
+ganze
+Reihe
+historischer
+Angaben
+enthalten
+sind,
+die darauf hin
+weisen,
+dass
+es,
+im Einklang
+mit
+unseren
+Berechnungen,
+dem
+Ende
+des
+4.
+Jahrhunderts
+angehört.
+Sein
+ganzer
+Inhalt
+handelt
+von
+den
+Streitigkeiten,
+die
+damals
+zwischen
+den
+verschiedenen
+Parteiungen
+der
+christlichen Welt obwalteten, von der
+hohen
+Stellung,
+die
+die byzanti
+nische
+Geistlichkeit
+im Staate
+einnahm,
+von ihrem Luxus,
+ihrem Ein
+ﬂuss
+und
+ihren
+verschiedenen
+Lastern,
+die
+sie
+in
+den Augen
+aller
+an
+ständigen
+und
+ernsthaften
+Leute jener Zeit kompromittierten.
+Einige
+von
+diesen
+historischen Hinweisen
+habe
+ich bereits
+in
+den
+Anmerkungen
+zu
+meiner Uebersetzung aufgeführt.
+Andere
+werden
+sich
+weiter
+von
+selbst
+ergeben.
+Was
+aber
+den
+Umstand
+anbelangt,
+dass
+Johannes
+als
+den
+Tag
+der
+Erfüllung
+seiner
+astrologischen
+Prophezeiung
+den
+Sonntag
+den
+13.
+März
+399
+nach
+dem
+neuen Stil bestimmt
+hat,
+so ist
+diese Tatsache
+ungemein
+bezeichnend
+und
+im
+vollen
+Einklang
+mit
+den
+mystischen
+
+--- Page 135 ---
+109
+Anschauungen
+des Verfassers über Zahlen
+und
+Jahre.
+Im März
+dieses
+Jahres
+waren für viele alte Christen,
+darunter augenscheinlich auch
+für
+Johannes,
+ganze
+vier Jahrhunderte
+seit
+dem
+von
+ihm vorausgesetzten
+Geburtstag
+Christi
+abgelaufen.
+Die
+Sache
+ist nämlich
+die,
+dass
+unsere
+jetzige Zeitrechnung erst im 6. Jahrhundert
+von einem Mönch Dionysius
+dem Kleinen (Dionysius Exiguus), gestorben
+gegen 556, erfunden worden
+ist.
+Er „stellte fest“,
+dass
+die
+Geburt
+Jesu
+am
+Samstag
+dem
+25.
+De
+zember
+753
+seit
+der Gründung Roms“) (wahrscheinlich
+von Samstag auf
+Sonntag) stattgefunden
+habe, und bestimmte
+als den ersten Tag der christ
+lichen Zeitrechnung
+das
+754. Jahr
+seit
+der Gründung Roms (in welchem
+der
+25.
+Dezember
+auf einen
+Sonntag ﬁel).
+Diese
+Zeitrechnung
+wurde
+ofﬁziell
+in
+Italien
+erst
+im
+10.
+Jahrhundert
+unter
+dem
+Papst J o
+hannes XIII.
+(968—970)
+angenommen
+und
+verbreitete
+sich
+nachher
+auch
+in
+andern
+Ländern
+des
+europäischen
+Kontinents,
+indem
+sie
+im
+14. Jahrhundert
+nach
+Spanien,
+im
+15.
+nach Griechenland
+und
+im Jahre
+1700
+nach
+Russland
+gelangte.
+In
+den
+ersten vier Jahrhunderten
+unserer
+Zeitrechnung
+aber
+wusste
+man
+von
+dieser
+Rechnungsweise
+gar nichts.
+Man
+zählte
+die
+Jahre
+im
+römisch-byzantinischen
+Reich
+von
+der
+an
+genommenen
+„Gründung
+Roms“,
+während
+das Jahr,
+der Monat
+und
+der
+Tag
+der
+Geburt
+Jesu
+ofﬁziell
+noch
+gar
+nicht
+festgestellt
+waren.
+In
+einer
+der Reden,
+die
+dem Johannes
+Chrysostomus
+zugeschrieben
+werden
+(aus den ersten Jahren
+des 5. Jahrhunderts),
+sind die Streitigkeiten
+erwähnt,
+die zwischen
+den Christen seiner Zeitgenossen
+in bezug auf den
+Monat und
+den Tag
+der
+Geburt Christi
+herrschten.
+Was
+aber
+das Jahr
+seiner
+Geburt
+anbelangt,
+so
+bestimmen
+es Historiker
+und Theologen bis
+auf den
+heutigen Tag
+sehr
+verschieden.
+Einige
+Theologen
+des 4.
+und
+5. Jahrhunderts
+behaupteten,
+dass
+er vier Jahre vor
+der von uns jetzt
+angenommenen
+Aera geboren
+sei,
+andere bestimmten
+dieses Ereignis zwei
+Jahre vor
+dieser Zeit, wie dies
+bis heute
+noch
+englische
+Theologen tun.
+Rechnen
+wir
+auf
+diese
+letzte
+Weise,
+so
+ﬁnden
+wir,
+dass
+der
+13. März
+399,
+den Johannes
+als
+die
+Zeit
+der Erfüllung
+seiner
+astro
+logischen Prophezeiung
+angibt,
+der
+13.
+März
+des Jahres
+401
+nach
+dem
+vermutlichen Geburtstage Christi war,
+d. h.
+der Zeitpunkt
+der Erfüllung
+wurde
+auf
+das Anfangsjahr
+des neuen fünften Jahrhunderts
+nach diesem
+bedeutsamen
+Ereignis
+festgestellt.
+Ausserdem
+dürfen wir nicht vergessen,
+dass
+das Jahr damals
+nicht
+mit
+dem Januar,
+wie jetzt,
+sondern
+im März
+begann,
+in
+welchem
+am
+20.
+die
+Frühlings-Tagesgleiche
+stattfand.
+Mit
+derselben
+Tagesgleiche
+begann
+nach
+der
+hebräicben
+Zeitrechnung
+auch
+das
+neue
+Jahr,
+während
+die
+Bürger
+des
+römischen
+Reiches
+ihr
+Jahr
+vom
+l.
+März
+ab
+rechneten.
+
+--- Page 136 ---
+110
+Warum
+hat
+nun Johannes
+die Erfüllung seiner
+Prophezeiung
+ge
+rade
+auf den
+13. März
+verlegt?
+Offenbar deswegen,
+weil,
+von
+astro
+logischen
+Gründen
+abgesehen,
+dies
+der
+letzte
+Sonntag
+des
+vierten Jahrhunderts
+war,
+da
+der
+folgende
+Sonntag,
+der
+20. März
+des Jahres
+399
+unserer
+Zeitrechnung
+oder
+der
+20. März
+401
+nach
+der
+von ihm
+angenommenen
+Geburt
+Christi,
+schon
+der Sonntag
+des neuen
+fünften Jahrhunderts
+war.
+In
+dieser
+bedeutungsvollen Woche
+zwischen
+dem 13. und
+20. März
+sollte auch der vom Verfasser beschriebene
+Kampf
+Jesu
+mit
+seinen
+byzantinischen
+Feinden,
+dem Klerus,
+und
+sein
+Gericht
+über diese
+stattfinden,
+und
+das
+neue
+fünfte Jahrhundert
+sollte
+schon
+vom
+Himmel
+auf die
+erneuerte
+Erde
+niederkommen.
+Alles das stimmt
+vollkommen
+mit
+der
+mystischen
+Weltanschauung
+des
+Verfassers über
+ein,
+nach
+welchen die
+ganze Welt und Menschheit in strenger Ordnung
+nach
+gewissen
+Jahren
+und
+Tagen eingeteilt war.
+Wir haben dies
+schon
+mehrfach
+in
+der
+„Offenbarung
+in Gewitter
+und
+Sturm“
+gesehen,
+wo
+neben
+der Zahl
+des
+Tieres,
+666,
+auch
+noch
+andere
+Zahlen
+eine Rolle
+spielen:
+die
+sieben
+Boten
+des
+Sturmes,
+die
+sieben
+Boten
+mit
+den
+Schalen,
+die vier Tiere
+vor
+dem Thron
+des Weltschöpfers
+usw.
+Alle
+diese
+einzelnen
+Fälle der Anwendung
+von Zahlen sind
+nur
+verschiedene
+Aeusserungen
+einer
+und
+derselben
+mystischen
+Anschauung
+des
+Ver
+fassers
+über
+die Zahl
+als
+einen
+Hauptfaktor
+im
+Weltgebäude.
+l) Ich
+dehnte meine Berechnungen
+noch
+bis zum
+10. Jahrhundert
+aus,
+aber
+ich
+ﬁnde
+es
+überﬂüssig,
+diese
+hier
+aufzuführen
+in Anbetracht
+des
+Umstandes,
+dass
+die
+Suche
+zweifellos
+am
+80.
+September
+895 war
+und nicht
+später.
+’)
+Dies
+war
+das
+vorerste
+oder minus
+erste Jahr unserer
+Zeitrechnung.
+
+--- Page 137 ---
+IV. Teil.
+Das byzantinische Reich am Ende des
+IV. Jahrhunderts
+und das Sendschreiben
+des Verfassers
+der
+Apokalypse
+an
+die
+sieben
+kleinasiatischen
+Gemeinden.
+
+--- Page 138 ---
+
+--- Page 139 ---
+Die
+Hauptparteien
+der
+christlichen
+Gemeinde
+am Ende des
+vierten jahrhunderts.
+Wenn
+man
+bei
+langen
+Wanderungen auf einem dunklen
+und
+noch
+wenig
+erforschten
+Gebiete
+der
+Wissenschaft
+einer
+unerwarteten Ent
+deckung
+auf die Spur kommt, so hat diese Spur immer etwas
+Unvvider
+stehliches
+und
+lockt
+einen unwillkürlich immer weiter
+und
+weiter, wie
+ein
+kaum
+sichtbarer
+Pfad
+einen
+immer
+tiefer
+in
+das
+Dunkel
+eines
+Waldes
+zieht.
+Man verfolgt
+den Weg,
+bis
+man
+zu unbekannten Stellen
+gelangt,
+verliert
+ab und zu
+die kaum
+sichtbare
+Spur,
+kehrt wieder zu
+ihr
+zurück,
+bis
+der
+Pfad
+sich
+entweder
+ganz
+verliert
+oder
+uns
+zu
+einem
+bewohnten
+Orte bringt,
+wobei er
+einen
+weit
+und
+in
+entlegene
+Gegenden
+fortgezogen
+hat,
+die
+man
+anfangs
+zu besuchen
+nicht
+die Ab
+sicht hatte.
+Genau
+so erging
+es
+auch mir,
+als ich mich mit dem astrologischen
+und
+zeitgeschichtlichen Teil
+der Apokalypse
+befasste,
+der in das Gebiet
+meiner
+gewöhnlichen
+Studien
+ﬁel.
+Er
+führte
+mich
+zeitweilig
+in
+ein
+Gebiet,
+welches
+scheinbar
+gar keinen Zusammenhang
+mit den physika
+lisch-mathematischen
+Wissenschaften hat:
+in die Geschichte der
+ersten
+Jahrhunderte
+des Christentums.
+Und
+dies
+alles
+war ganz unvermeidlich,
+ein Schritt führte zum
+anderen,
+und
+bei einem Punkte
+stehen zu bleiben,
+ohne
+zum
+andern
+überzugehen,
+hätte
+geheissen,
+die
+ganze
+Arbeit ein
+fach
+aufgeben.
+Kaum
+war
+die
+astronomische
+Berechnung
+fertig,
+die
+mich
+un
+erwarteterweise
+die
+späte
+Entstehung
+der
+Apokalypse
+erkennen
+liess,
+als
+sich
+auch
+schon
+die Fragen
+aufdrängten:
+Wer
+könnte wohl
+deren
+Verfasser
+sein?
+Wie
+hat
+sich
+ihr
+weiteres
+Schicksal
+gestaltet?
+Zu
+welchem
+Zweck
+oder
+aus
+welchen
+Gründen
+haben
+die byzantinischen
+Theologen
+des Mittelalters
+sie einer
+ganz
+anderen Zeit und einem
+ganz
+anderen
+Verfasser
+zugeschrieben
+und
+dadurch
+alle
+anderen
+Forscher
+irregeführt?
+Morosow.
+Die Offenbarung
+Johannis‚
+8
+
+--- Page 140 ---
+114
+Zum Glück
+standen
+mir
+in
+der
+Schlüsselburger
+Festung
+ausser
+meinen
+früheren
+Kenntnissen
+in
+der
+Geschichte
+des Altertums
+einige
+meinen
+Zwecken dienliche Bücher
+zur Verfügung,
+nämlich
+die „Sprüche
+des hl. Johannes Chrysostomus“ (6. Auﬂ., Moskau, 1877), „Die Geschichte
+der
+ersten
+vier Jahrhunderte
+des Christentums“
+von Mu rawjew (1866)
+und
+12
+umfangreiche
+Bände
+über
+„Das
+Leben
+der Heiligen“,
+die im
+Jahre
+1852
+mit
+Berichtigungen
+nach
+einer
+Ausgabe
+vom
+Jahre
+1689
+neu gedruckt
+waren
+l).
+Die letzteren Bücher hatten trotz ihrer Einseitig
+keit
+einen
+ganz
+besonderen
+Wert
+für
+mich,
+weil
+sie
+sozusagen
+doku
+mentarisch sind.
+Sie
+enthielten hauptsächlich
+Uebersetzungen alter by
+zantinischer
+Geschichtsschreiber und Schriftsteller,
+die
+der beschränkte
+und naive Makarius
+von
+Moskau
+gesammelt,
+und
+die später
+von De
+metrius
+aus
+Rostow
+redigiert
+worden
+sind.
+Dieser liess sie in
+der
+Form,
+in welcher
+sie
+geschrieben
+waren,
+ohne
+durch
+seine Bearbeitung
+die ursprüngliche
+Färbung
+der
+Urkunden
+zu verwischen.
+Alles hier aufzuführen,
+was
+ich in
+bezug
+auf meinen
+Gegenstand
+gelesen
+habe,
+wäre
+natürlich
+nicht
+am Platze.
+Darum
+werde
+ich hier
+auch
+nur
+einen
+kurzen
+Ueberblick
+über
+den Zustand
+der
+christlichen
+Welt
+zur
+Zeit
+der
+Entstehung
+der
+Schrift
+des
+Johannes
+und
+sein
+eigenes
+Leben
+geben,
+indem
+ich
+alle
+unbedeutenderen
+Einzelheiten
+unerwähnt
+lasse.
+Am Ende
+des vierten Jahrhunderts,
+zur Zeit
+des sechsten
+by
+zantinischen Kaisers Theodosius
+des Ersten
+(378—394)
+treffen wir
+das römische Reich im Zustande
+seines endgültigen Zerfalles in zwei Teile,
+einen
+östlichen und einen westlichen.
+Nach Konstantin
+dem Ersten
+(325—337),
+der
+die Hauptstadt
+des Reiches
+von Rom
+nach Byzanz
+ver
+legt (330)
+und
+das
+Christentum
+zur
+Staatsreligion
+erklärt
+hatte,
+ob
+wohl
+er
+selbst
+sich
+bis
+zu seinem
+Tode nicht
+taufen
+liess,
+wurde
+das
+Reich
+sehr
+oft zwischen zwei
+oder
+mehr
+Herrschern
+geteilt.
+Die Söhne
+und Verwandten
+jedes verstorbenen
+Kaisers
+begannen
+sofort nach
+dessen
+Tode blutige Kriege
+untereinander, bis
+es
+einem von
+ihnen
+gelang,
+alle
+seine Verwandten
+und Mitherrscher
+aus
+dem Wege zu räumen,
+um
+die
+Alleinherrschaft
+zu erlangen.
+Das von uns für
+das Buch
+des Johannes
+berechnete
+Jahr
+395
+war zugleich
+auch
+das Jahr
+der
+endgültigen Tren
+nung
+der
+beiden
+Reichshälften,
+von
+denen
+jede
+von
+dieser
+Zeit
+ab
+(17. Januar 395)
+ihren
+eigenen Weg einschlug,
+ohne
+fernerhin
+den Ver
+such
+nach
+einer
+Wiedervereinigung
+zu machen.
+In dieser
+ganzen
+langen
+Periode von Trennungen und Vereinigungen
+waren beide
+Teile
+des Reiches beständigen
+Ueberfällen
+von
+aussen
+aus
+
+--- Page 141 ---
+115
+gesetzt.
+Schon
+im Jahre 363,
+nachdem
+der Kaiser J ulian im Kampfe
+mit
+den Persern gefallen
+war,
+schloss sein Nachfolger J ovian (363—364)
+einen
+ungünstigen
+Vertrag
+mit
+ihnen
+ab,
+in
+dem
+er
+nicht
+nur ver
+schiedene
+Städte abtrat,
+sondern
+auch
+seinen Verbündeten,
+den
+armeni
+schen Kaiser,
+den Feinden
+ausliefern
+musste.
+Aber
+auch
+dies
+führte
+nicht
+zu
+einem
+Einvernehmen.
+Sofort
+nach
+dem Tode Jovians
+(364),
+der starb,
+ohne
+seine Hauptstadt Konstantinopel
+erreicht zu haben,
+er
+klärte
+der
+persische
+Kaiser
+den Vertrag
+für
+ungültig.
+Seine
+Truppen
+begannen
+von
+neuem,
+die
+kleinasiatische
+Grenze
+zu
+bedrohen
+bis zu
+der Zeit,
+wo
+nach
+unserer
+Berechnung
+das
+Buch
+des
+Johannes
+ge
+schrieben
+wurde.
+Dadurch
+erklärt
+sich
+dessen
+Prophezeiung,
+das
+Wasser
+im
+Euphrat
+werde
+austrocknen,
+„um
+den
+Königen
+von
+Sonnenaufgang
+2)
+den
+Weg
+freizugeben,“
+—-
+ein
+Ereignis,
+das
+nach
+seiner
+Ansicht
+durch
+die Lage
+des
+Planeten Mars unter dem Perseus
+vorausgesagt
+wurde.
+Das
+Nomadenvolk
+der
+Hunnen,
+die
+Hun-nu
+der
+chinesischen
+Annalen,
+ging
+20 Jahre
+vor
+dem Erscheinen
+der Apokalypse
+aus
+dem
+Innern
+Asiens
+über
+den
+Uralﬂuss,
+überschritt
+den
+Don
+und
+unter
+warf
+im
+Jahre
+375
+die
+westlich
+von
+ihm
+wohnenden
+Westgoten.
+Deren
+Nachbarn
+aber
+und
+Blutsverwandte,
+die
+Ostgoten,
+die zwischen
+dem Bug
+und
+der
+Donau wohnten,
+gingen,
+durch
+diesen Einfall
+auf
+gescheucht,
+über die Donau
+nach Thrakien
+und
+begaben
+sich
+unter die
+Schutzherrschaft
+des
+byzantinisch-römischen
+Reiches.
+Allein
+bald
+riefen
+die Erpressungen
+der eigennützigen
+Vögte,
+die zu ihnen geschickt
+waren,
+einen
+Aufstand
+unter
+ihnen
+hervor.
+Im Jahre
+378
+schlugen
+die
+Ostgoten
+bei Adrianopel
+die
+gegen
+sie gesandten
+römischen
+Heere,
+und das
+ganze
+Land
+bis dicht an Konstantinopel
+ﬁel
+den „Barbaren
+in
+die Hände,“
+die übrigens schon lange Christen, und zwar Arianer
+waren.
+Nur die
+befestigten
+Städte
+des
+Reiches hielten stand.
+Endlich
+gelang
+es
+dem
+neuen
+Kaiser
+Theodosius,
+eine
+Vereinbarung
+mit
+ihnen
+zu
+schliessen
+und
+sie wieder in Thrakien
+anzusiedeln.
+Allein sofort nach
+seinem
+Tode,
+am
+17. Januar 395, kurz
+vor
+dem Erscheinen der „Offen
+barung
+in
+Gewitter
+und
+Sturm“,
+erhoben
+sie
+sich
+von
+neuem,
+ver
+wüsteten
+das Donaugebiet
+und
+ﬁelen
+im Jahre 396
+in Hellas
+und den
+Peloponnesus
+ein,
+indem
+sie damit
+gleichsam
+die Prophezeiung
+des Jo
+hannes
+bestätigten.
+Bald
+darauf jedoch wurden sie durch den römischen
+Feldherrn Stilicho
+wieder zurückgedrängt.
+Ebenso plünderte vor dem
+Erscheinen der Apokalypse
+auch derjenige
+Teil
+der arianischen
+Goten
+das
+Land,
+der zur Verteidigung
+der kleinasiatischen Grenzen
+angesiedelt
+war.
+Eine
+vollkommene
+Zerrüttung
+herrschte
+auch
+in
+den
+übrigen
+Grenzgebieten
+des Reiches.
+Die
+Alemannen
+verwüsteten
+Gallien
+und
+
+--- Page 142 ---
+116
+Rhätien,
+die
+Sarmaten
+und
+Quaden
+Pannonien,
+die
+Pikten,
+Skoten,
+Sachsen,
+Franken
+und
+Friesen Britannien,
+die
+mauretanischen
+Völker
+die
+Provinz
+Afrika.
+In
+ganz
+Europa
+begann
+ein
+ﬁeberhafter
+Drang
+der
+„Barbaren“-Völker,
+in grossen
+Massen
+von Osten
+nach Westen vor
+zurücken.
+Diese
+Bewegung ist unter
+dem
+Namen der
+grossen
+Völker
+wanderung vom vierten
+und
+fünften Jahrhundert
+bekannt.
+Es ist
+selbst
+verständlich,
+dass
+alles
+dies
+ein
+allgemeines
+Gefühl
+der Unbehaglich
+keit hervorrufen
+musste,
+das
+dem_Erscheinen
+eines
+solchen
+Buches,
+wie
+die Apokalypse, sehr günstig war und das lesende Publikum
+zur Empfäng
+lichkeit
+stimmte.
+Nicht
+weniger
+erregt
+war
+auch
+der
+innere
+Zustand
+der
+christ
+lichen Kirche.
+Sie hatte jetzt
+die Herrschaft
+über
+die Heiden errungen
+und
+suchte,
+ihnen
+mit
+grosser
+Erbitterung
+die letzten Schläge
+beizu
+bringen.
+Kaum
+war
+der
+Kaiser
+Konstantin
+der Erste
+nach
+Beseitigung
+aller
+seiner Verwandten
+und
+Mitbewerber
+um
+den Thron
+im Jahre 325
+zur
+Alleinherrschaft
+emporgestiegen,
+so
+erkannte
+er
+auch
+sofort
+die
+christliche
+Religion
+als
+Staatsreligion
+an.
+Aber
+in
+dieser
+vollzog
+sich bereits
+ein Zerfall
+in
+mehrere
+Parteien
+mit
+den
+unvermeidlichen
+Zwistigkeiten,
+Beschimpfungen
+und
+Anfeindungen.
+Da
+rief
+Kon
+stantin
+zum
+Zwecke
+der
+Verständigung
+im
+Jahre
+337
+deren
+Be
+vollmächtigte
+zu
+einem
+„allgemeinen
+Konzil“
+nach
+Nicäa
+bei
+Kon
+stantinopel
+zusammen.
+So
+wurde
+dieses
+berühmte
+christliche
+Konzil
+unter dem
+Vorsitz
+eines
+heidnischen
+Kaisers
+eröffnet,
+da Konstantin
+un
+getauft
+starb
+oder
+sich
+erst
+auf dem
+Sterbebette
+taufen
+liess“).
+Das
+Ergebnis
+dieses Konzils
+war
+aber nicht nur
+das Fehlschlagen
+einer Ver
+ständigung,
+sondern
+eine
+noch
+grössere
+Zersplitterung
+der
+Kirche
+in
+zwei
+einander
+feindliche Parteien,
+deren
+gegenseitiger
+Hass sich schliess
+lich
+dermassen
+steigerte,
+dass
+jede
+über
+die
+andere
+den
+kirchlichen
+Fluch
+verhängte
+und
+ihre Streitigkeiten
+auf
+den
+Strassen
+nicht
+bloss
+zu Prügeleien,
+sondern
+oft
+sogar
+zu Blutvergiessen
+führten.
+Die
+erste
+dieser
+Parteien,
+deren
+Hauptvertreter
+auf dem Konzil
+zu
+Nicäa
+Arius,
+Ensebius
+von
+Cäsarea.
+und
+Eusebius
+von
+Nikomedien
+waren,
+ging
+in
+ihrer
+Vorstellung
+über
+Jesus
+von
+den
+Ansichten
+der Christen
+des
+ersten
+Jahrhunderts
+aus
+und
+behauptete,
+dass
+er
+ein
+Uebergangswesen
+zwischen Gott und Mensch
+(d.
+i.
+eine Art
+Halbgott)
+sei.
+Sie nannte
+ihn
+einen Gottähnlichen‘)f
+Die zweite Partei
+hatte
+als
+führenden
+Vertreter
+den Bischof und
+Wundertäter
+aus Myrlikien, Nikolaus,
+und Alexander aus Ale
+xandrien
+mit
+seinem
+Diakon
+Athanasius.
+Sie
+betrachtete
+Jesus
+(wie es auch auf Grund der Begriﬂ‘sentwicklung zu erwarten war) als Gott
+gleichen
+5),
+indem
+sie damit
+sagen wollte,
+dass
+er
+eine andere Persönlich
+
+--- Page 143 ---
+117
+keit oder Erscheinung (persona) desselben göttlichen Wesens sei. Trotzdem
+hielt
+die Partei des Wundertäters Nikolaus
+und seiner
+Glaubensgenossen
+auch
+die
+alte biblische Annahme
+aufrecht,
+dass
+die „Gottheit“
+eine
+sei
+und
+nicht,
+wie
+die „Menschheit“,
+in
+Persönlichkeiten
+zerfalle.
+Durch
+die
+Vereinigung
+dieser
+zwei
+miteinander
+unvereinbaren
+Vor
+stellungen,
+unter
+Hinzufügung
+der
+gleichwertigen
+heiligen
+Be
+geisterung
+(nvzö‚uu),
+die,
+wenn
+sie
+sich
+des
+Menschen
+bemächtigt,
+ihm
+die
+Gabe
+der Schöpfung und der Prophezeiung
+verleiht,
+aber
+der
+Natur
+nach
+selbst
+ein Geist
+(d. h.
+ein
+beseeltes
+Gas)
+ist,
+bildete
+sich
+später
+die Lehre
+von der Heiligen Dreieinigkeit,
+die sich bis zur Gegen
+wart in der Mehrzahl
+der
+christlichen Konfessionen
+erhalten
+hat.
+Wäh
+rend
+des Konzils
+zu Nicäa
+wurde
+diese
+ganze
+theologische
+Sophistik
+ausgearbeitet.
+Die
+neue
+Religion
+musste
+sich
+auf
+die
+gleiche
+Weise
+entwickeln,
+wie
+alle anderen.
+Ihr
+„Stifter“
+Jehoschua
+aus Nazareth 6)
+musste
+im Laufe
+der Zeit
+mehr
+und mehr
+göttliche Eigenschaften
+an
+nehmen.
+Aus
+einem
+einfachen
+Menschen,
+für
+welchen
+ihn
+seine Zeit
+genossen
+hielten,
+musste
+er
+sich
+auf dem
+entwicklungsgeschichtlichen
+Wege zuerst
+in einen
+Halbgott
+verwandeln
+(wie
+es
+auch
+das Adjektiv
+Christus
+ausdrückt,
+ein gewöhnliches griechisches
+Wort,
+das Gesalbter,
+Gefärbter,
+Eingeweihter
+in
+eine
+höhere
+geistige
+Würde
+bedeutet)
+und
+später
+auch
+in
+einen
+vollständigen
+Gott,
+der
+nur
+zeitweise
+die Gestalt
+eines
+Menschen
+annahm.
+Die
+Anhänger
+des
+Arius
+konnten
+natürlich
+ihre
+Uebergangs
+vorstellungen
+über
+Jesus
+nicht
+beibehalten.
+Darum
+konnte
+bei
+dem
+Konzil
+zu Nicäa nichts anderes als ein endgültiger Bruch herauskommen.
+Dasjenige,
+worüber
+man
+sich
+hier wundern kann,
+und was speziell zu
+erklären
+der Mühe wert
+wäre,
+das
+sind die
+historischen Ursachen, in
+folge
+deren
+es
+den
+Arianern
+sofort
+nach
+dem
+Tode
+Konstantins
+des
+Ersten
+(337)
+gelang,
+sich
+wieder
+der
+Oberherrschaft
+zu
+bemächtigen
+und
+sich
+als
+führende
+Partei
+volle
+44 Jahre,
+bis
+dicht an
+das Jahr
+381
+zu halten,
+als
+der
+neue Kaiser
+Theodosius
+sich
+wiederum zu den An
+hängern
+des
+Nikolaus
+aus Myrlikien
+bekannte.
+Die Angriffe
+des Arius
+auf
+dem Konzil
+zu Nicäa
+im Jahre 325
+waren
+augenscheinlich
+nicht
+bloss
+Erwiderungen
+rein
+theoretischer
+Natur,
+sie trugen auch
+(wie
+so
+oft
+in
+stürmischen
+Zeiten
+der
+inneren
+Kämpfe
+zwischen
+politischen
+und
+religiösen Parteien)
+den Charakter
+von Beschuldigungen
+der
+gegnerischen
+Partei
+wegen Dummheit, Falsch
+heit,
+Betrügerei
+und
+dergleichen.
+Zur
+Veranschaulichung
+dessen
+braucht man ja nur
+die Redner von
+heute anzuhören,
+wenn
+verschiedene
+Parteien
+mit
+einander
+zu polemisieren anfangen.
+Im
+Altertum
+ging
+es
+dabei
+natürlich
+viel
+urwüchsiger
+zu.
+Diese
+Beschuldigungen
+brachten
+
+--- Page 144 ---
+118
+aus
+irgend welchem
+Grunde den
+Bischof
+Nikolaus
+aus Myrlikien,
+ge.
+nannt
+der Wundertäter,
+vollständig
+aus
+dem Gleichgewicht.
+Auf Grund der Tatsache,
+dass die Unechtheit der meisten Schriften,
+die sich auf das Konzil zu Nicäa beziehen,
+und der zweifelhafte Charakter
+der
+anderen
+gegenwärtig
+bewiesen
+ist,
+können
+wir nur
+vermuten,
+dass
+Arius ihn zum Gegenstande
+gewisser
+Beschuldigungen
+machte
+(vielleicht
+wegen
+seiner
+uns nicht bekannten
+Wunder).
+Statt
+sich
+zu rechtfertigen,
+antwortete
+ihm
+Nikolaus
+mit
+einem
+Schlag
+ins
+Gesicht.
+Auf
+dem
+Konzil
+entstand
+grosser
+Lärm
+und
+Verwirrung.
+Nikolaus
+wurde
+hinausgeworfen.
+Als Hauptverteidiger
+der
+substantiellen Einheit
+Jesu
+mit
+Gott
+trat
+nach
+ihm
+ein
+einfacher
+Diakon
+des
+alexandrinischen
+Bischofs Athanasius
+auf,
+der
+später
+selbst
+zum
+Bischof in Alexandria
+aufrückte.
+Nach
+vielen
+stürmischen
+Auseinandersetzungen
+beschloss
+das
+Konzil
+endgültig,
+Jesus
+als
+zweite
+Person
+der
+Gottheit
+anzu
+erkennen.
+Ueber
+die Arianer
+wurde
+der kirchliche Bann verhängt, und
+der
+Kaiser
+Konstantin
+erkannte
+die
+Lehre
+der
+nikolaitischen
+Partei
+—
+denn
+so
+nannte
+wahrscheinlich
+die
+arianische
+Partei
+ihre
+Gegner nach
+dem
+persönlichen
+Zusammenstosse
+ihres Führers mit Niko
+laus 7) — als
+die Religion
+seines
+Staates
+an.
+Hierin
+liegt
+nach
+meiner
+Ueberzeugung
+auch
+die Erklärung
+des
+Wortes
+„Nikolaiten“,
+das
+zweimal
+in vorwurfsvollem
+Sinne
+vom
+Ver
+fasser
+der
+„Offenbarung
+in Gewitter
+und
+Sturm“
+in
+seinen
+Briefen
+an
+die
+sieben
+kleinasiatischen
+Gemeinden
+angewandt
+wird,
+die wir später
+anführen.
+Der
+Name Nikolaiten
+ist von Nikolaus
+abgeleitet,
+ähnlich
+wie Jesuiten
+von
+Jesus.
+Aber
+im
+vierten
+Jahrhundert
+gab
+es keinen
+andern
+hervorragenden
+Nikolaus,
+und
+darum
+kann in
+der Apokalypse,
+als
+einer
+Schrift vom Ende
+des vierten Jahrhunderts,
+auch
+nur von den
+Anhängern der Lehre
+des Nikolaus
+aus Myrlikien
+die Rede
+sein
+und
+nicht
+von den
+legendarischen
+Nikolaiten
+des
+ersten
+Jahrhunderts,
+die wahr
+scheinlich
+nie existiert
+haben
+und
+im Mittelalter
+erfunden
+werden sind,
+um
+das Wort
+„Nikolaiten“
+in der Apokalypse
+zu erklären.
+Die Gründe,
+warum
+dieser
+Name
+der
+in Byzanz
+am Ende
+des
+vierten Jahrhunderts
+herrschenden
+Partei
+uns
+nicht durch
+die byzanti
+nischen
+Schriftsteller
+überliefert wurde, sind sehr
+begreiﬂich.
+Jede
+der
+beiden
+Parteien
+nannte
+sich
+die allgemeine
+(auf griechisch katho
+lische),
+erklärte
+die
+andere
+für
+eine
+abtrünnige und
+nannte
+sie nach
+dem Namen desjenigen
+ihrer Vertreter,
+der
+auf
+dem Konzil
+zu Nicäa
+am
+meisten
+zur Trennung
+beigetragen
+hatte.
+Ob sich
+dieser
+Vertreter
+durch
+einen
+Faustschlag
+ins
+Gesicht
+des
+Gegners
+oder
+durch
+sein
+Rednertalent ausgezeichnet
+hatte,
+war für
+die Alten
+einerlei.
+Der,
+über
+den
+man
+am meisten
+gelärmt hatte,
+musste
+auch
+einen Namen
+zur Be
+
+--- Page 145 ---
+119
+zeichnung
+seiner
+Parteigenossen
+hergeben.
+Ueber Nikolaus
+waren
+die
+Arianer
+auf
+dem
+Konzil
+von
+Nicäa
+am
+meisten
+entrüstet.
+Folglich
+können wir
+in
+unseren
+nikolaitischen
+Quellen
+aus
+dem Mittelalter
+nur
+die
+Bezeichnung Arianer
+als
+den Namen
+ihrer Gegner
+ﬁnden,
+aber
+nicht
+denjenigen
+der
+Nikolaiten.
+Hingegen
+in
+den
+arianischen
+Quellen
+(die leider im Mittelalter
+ganz
+vernichtet wurden) würden wir
+überall
+den Nikolaiten
+oder
+Athanasianern,
+jedoch niemals
+Arianern
+begegnet
+sein.
+Diese Art,
+sich
+nach
+demjenigen
+Parteigenossen zu benennen,
+der
+sich
+am
+meisten
+hervorgetan
+hatte,
+war
+um so mehr
+am Platz
+und
+un
+vermeidlich,
+als die Partei
+des Nikolaus
+(wie wir oben bemerkt haben)
+nicht
+lange
+am Ruder
+blieb
+und
+bald
+selbst
+eine
+von
+der Regierung
+nicht anerkannte Partei
+wurde.
+Sofort
+nach
+dem Tode des Konstantin,
+als sein Sohn Konstantius (337—361) kaum
+den byzantinischen Thron
+bestiegen
+hatte,
+begann
+ein
+Umschwung
+zugunsten
+der
+Arianer,
+die
+bei Hof
+alsbald
+die Anhänger
+des
+Nikolaus
+und
+des Athanasius
+ver‚
+drängten.
+Nachdem
+sie
+diese
+auf
+dem
+von
+Konstantins
+zusammen
+gerufenen
+Konzil in Bann getan hatten,
+verfuhren
+sie mit ihnen ebenso,
+wie
+diese
+selbst,
+so lange
+sie
+die Macht
+besassen,
+mit
+ihnen
+verfahren
+waren.
+Als Konstantins
+im
+Jahre
+361
+starb,
+verzichtete
+sein
+Nach
+folger Julian (Flavius Claudius, 361—363), in beiden
+Parteien
+ent
+täuscht, auf die
+Dienste sowohl
+der
+einen
+wie anderen
+und verkündete
+die
+vollkommene
+Glaubensfreiheit.
+Er
+selbst
+sympathisierte
+mit
+den
+damals
+verfolgten Göttern
+des alten Pantheons,
+was ihm von seiten
+der
+Christen
+den
+Namen
+des
+Apostaten
+eingetragen
+hat.
+Als
+dann
+Jovian durch
+die kleinasiatischen
+Truppen
+zum Kaiser
+erwählt
+wurde
+(363—364)
+und
+in Kleinasien
+vor
+dem Eintreffen
+in
+der Residenz
+an
+einer
+Wunde
+starb,
+kehrte
+das Reich
+wieder zum
+Christentum
+zurück,
+und
+der Nachfolger Jovians,
+Valens (364—378) erklärte
+die arianische
+Kirche
+von
+neuem
+zur Staatskirche.
+Dies
+dauerte
+bis
+zu
+seinem
+Tode,
+welcher
+der Herrschaft
+der
+Arianer
+für
+immer
+ein
+Ende
+machte.
+Als
+nämlich
+der
+neue
+Kaiser
+Theodosius
+der Erste (378—394)
+den Thron
+bestieg,
+umgab
+er sich
+nur
+mit „Nikolaiten“.
+Unter
+ihnen war Theophilus,
+der Bischof
+von Ale
+xandrien,
+der Todfeind
+des Johannes Chrysostomus
+(des vermutlichen
+Verfassers
+der Apokalypse),
+der
+einﬂussreichste.
+Das
+vom
+Kaiser
+im
+Jahre 381
+zusammengerufene
+Konzil
+von
+Konstantinopel,
+das, wie
+man
+annimmt,
+ausschliesslich
+aus
+östlichen
+Bischöfen
+ohne
+die
+römischen
+bestand,
+verdammte
+die Arianer
+von
+neuem,
+und
+nach
+dem Beschluss
+des
+Konzils
+begann
+Theodosius
+die
+Anhänger
+dieser
+Richtung
+zu
+sammen
+mit
+den Heiden
+und
+allen
+anderen
+wenig verbreiteten
+christ
+
+--- Page 146 ---
+120
+lichen Parteien
+in
+der
+grausamsten
+Weise
+zu
+verfolgen.
+Auf
+diesem
+(ersten)
+Konzil
+zu
+Konstantinopel
+wurde
+auch,
+wie
+man
+sagt,
+die
+zweite Hälfte
+des
+bekannten
+„Glaubensbekenntnisses“
+festgestellt,
+wie
+es
+bis
+heute
+in
+den
+beiden
+orthodoxen
+Parteien
+der
+„allgemeinen“
+Kirche
+in Geltung
+geblieben
+ist.
+Dies ist in
+den
+allgemeinsten
+Umrissen
+die
+Geschichte
+der
+wech
+selnden
+Herrschaft
+der
+zwei Hauptparteien
+der
+christlichen
+Kirche
+des
+vierten Jahrhunderts
+bis
+zum
+ersten Jahr
+der Regierung
+des Arkadius,
+wo
+am
+30.
+September
+395
+jenes
+Gewitter
+in
+Begleitung
+eines
+Erd
+bebens
+über
+die
+Insel
+Patmos
+ausbrach, das
+die
+Veranlassung
+zur
+Offenbarung
+gegeben
+hat.
+Zu welcher von diesen
+Parteien
+gehörte
+nun
+deren
+Verfasser?
+Alles
+deutet
+darauf hin — zu keiner.
+Diese Parteien
+waren
+nach
+seinen
+Worten
+„nur zwei Hörner,
+ähnlich
+den Hörnern
+des
+Widders“,
+und beide
+gehörten
+dem zweiten Tier,
+dem Tiere
+der Staats
+kirche,
+an,
+das „wie ein Drache redete“
+und solche Macht erlangt hatte,
+wie
+das Tier
+-—
+das Reich
+Aber
+ausser
+diesen
+beiden
+Parteien,
+die
+um
+die Macht
+stritten,
+gab
+es in
+der christlichen Welt
+des vierten Jahrhunderts
+noch
+mehrere
+andere
+verhältnismässig
+kleine,
+getrennte
+Gruppen,
+die
+nicht
+nach
+der
+ausschliesslichen
+Herrschaft
+trachteten,
+und
+die
+darum
+weder
+von
+der
+einen
+noch
+von
+der
+anderen
+in
+den Bann
+getan wurden.
+Diese
+nahmen
+zwischen
+ihnen
+eine
+neutrale
+Stellung
+ein.
+Besonders
+trat
+zu jener
+Zeit unter
+ihnen
+die
+Partei
+der Origeniten
+hervor,
+die
+in
+kleinen
+Gemeinden,
+hauptsächlich
+in
+Kleinasien,
+Aegypten
+und
+Syrien
+ver
+breitet waren.
+Ihren
+Namen
+hatte
+diese
+Partei
+von
+dem
+berühmten
+alexandrini
+schen
+Gelehrten Origenes
+(185—254),
+dem Schüler
+des Ammonius
+Sakkas,
+eines Philosophen
+der
+neuplatonischen
+Schule.
+Sein Vater,
+ein
+Christ,
+wurde zur Zeit des Septimius Severus
+im Jahre
+202 im Zirkus
+zu Tode gemartert,
+und
+dieser
+Umstand
+erschütterte
+den Knaben
+bis
+aufs äusserste.
+Er begann,
+eine
+sehr strenge Lebensweise zu führen und
+widmete seine ganze Zeit den Wissenschaften
+und
+der
+frommen
+Betrach
+tung.
+Seine Begabung soll so gross
+gewesen sein,
+dass trotz seines jugend
+lichen Alters,
+das gar nicht mit den Vorstellungen
+der Alten
+über \Veis
+heit und Autorität im Einklang
+stand,
+Schüler in
+grossen
+Massen
+ihm
+zuströmten.
+Nachdem
+sein
+Ruhm
+als
+eines
+genialen
+Predigers
+und
+Lehrers
+begründet
+war,
+wollte
+der alexandrinischc Bischof Demetrius
+ihn
+ausnützen
+und
+machte
+ihn
+zu
+seinem
+„Verkündiger“
+(Angelos).
+
+--- Page 147 ---
+121
+Die
+direkte
+Obliegenheit
+einer
+solchen
+Persönlichkeit
+war,
+den
+Neophyten
+zu „verkündigen“,
+d.
+h.
+sie
+im Wesen
+der christlichen
+Lehre zu unterrichten,
+und
+ausserdem
+die
+von
+anderen
+christlichen
+Ge
+meinden
+einlaufenden
+Nachrichten
+und
+Mitteilungen
+durchzulesen.
+Da
+durch wird
+es
+erklärlich,
+warum
+die
+„Oﬂ’enbarung
+in Gewitter
+und
+Sturm“
+auch,
+wie
+wir
+später
+sehen
+werden,
+an
+die Angelos,
+d.
+h.
+Verkündiger
+oder Lehrer,
+der
+sieben
+kleinasiatischen
+Gemeinden
+ge
+richtet wurde,
+die,
+wie
+sich
+später
+herausstellen
+wird,
+Anhänger
+des
+Origenes
+waren.
+Die Lehre
+des
+Origenes
+und
+später
+seiner
+Anhänger,
+der
+Orige
+niten,
+war
+unvergleichlich
+tiefer
+und
+vielseitiger
+als
+die
+der
+andern
+christlichen Parteien.
+Origenes
+behandelte
+ausser der biblischen Legende
+und
+der Geschichte des Christentums
+noch
+die
+Geometrie,
+Astronomie,
+Geographie,
+Philosophie,
+Logik
+und
+andere
+„heidnische“
+Lehrfächer,
+in
+dem
+Bestreben,
+bei
+seinen
+Zuhörern
+das
+Verlangen
+zur
+„Erkenntnis
+Gottes aus
+seinen
+Schöpfungen“
+zu erwecken.
+Es
+ist sehr wahrscheinlich,
+dass
+gerade
+diese
+ungewöhnliche Er
+weiterung
+seines Programms ihn
+auch
+mit
+dem Bischof Demetrius
+ver
+feindet
+hat,
+denn im Jahre
+229 verliess
+Origenes
+Alexandria
+für
+immer
+und begab sich nach Cäsarea in Palästina, wo der dortige Bischof Theokti
+stos im Einverständnis mit seinem Obersten,
+dem Bischof
+von Jerusalem
+namens Alexander,
+ihn
+zum
+Presbyter
+(d.
+h.
+Aeltesten)
+ernannte.
+Origenes
+eröffnete
+hier
+eine
+neue
+Schule
+mit
+nicht
+minderem
+Erfolg
+und
+mit demselben
+breiten
+Programm.
+Das brachte
+seinen
+ehemaligen
+Bischof Demetrius dermassen
+ausser sich,
+dass
+er ihn sofort
+der
+falschen
+Auslegung
+der
+heiligen Schriften
+beschuldigte
+und
+ihn
+ausserdem
+noch
+mit Kränkungen
+persönlicher
+Art verfolgte,
+die
+offenbar
+nur durch die
+eigene Erbitterung
+hervorgerufen
+waren.
+Alsdann
+berief Demetrius ein
+Konzil
+seiner
+Untergebenen
+nach
+Alexandrien
+und
+verhängte
+über
+den
+Origenes
+in seinem
+Sprengel den kirchlichen
+Bann.
+Indessen
+schädigte
+das
+den
+Origenes
+in den Augen
+seiner Behörde keineswegs.
+Allem An
+schein
+nach
+fand
+vielmehr gerade
+das Gegenteil statt.
+Er wurde nicht
+nur, allen Protestationen des Demetrius zum Trotz,
+in seinem
+Amt
+ge
+lassen,
+sondern
+er erlangte
+auch
+einen grossen Einﬂuss
+auf die Bischöfe
+der
+Nachbarschaft,
+die
+sich
+an
+ihn
+in
+schwierigen
+Fällen
+um
+Rat
+wandten.
+Zu
+den Besonderheiten
+der Lehre
+des Origenes
+gehörte
+unter
+an
+derm
+auch
+die Behauptung,
+dass
+die Himmelskörper
+durch
+„in
+ihnen
+eingeschlossene
+Geister
+(nvsii',ua)“
+sich
+bewegen,
+die
+verschiedene
+Stufen
+der Läuterung
+durchmachen
+und
+sich
+dabei
+in
+immer
+hellere
+Gewänder
+kleiden.
+Die
+gleiche
+Ansicht
+vertritt
+auch
+der Verfasser
+der
+„Offen
+
+--- Page 148 ---
+122
+barung
+in
+Gewitter
+und
+Sturm“,
+wenn
+er
+im VII.
+Kapitel
+davon
+spricht,
+wie
+den
+Sternen
+vor
+dem
+Gewitter
+Siegel
+angelegt
+werden.
+Von
+den übrigen Punkten,
+in welchen
+Origenes
+mit
+der
+herrschenden
+Kirche
+nicht übereinstimmte,
+sind die bemerkenswertesten
+die folgenden:
+Er behauptete,
+die
+menschliche
+Seele
+werde
+vor
+der Geburt
+des Men
+schen
+geschaffen,
+infolgedessen
+sei
+sie nicht mit
+der Erbsünde
+belastet,
+die
+nach
+der Lehre
+der
+Kirche
+von
+den Eltern
+auf
+die Kinder
+über
+geht.
+Er
+leugnete
+die Ewigkeit der Höllenqualen,
+weil
+dies
+der gött
+lichen
+Barmherzigkeit
+widersprechen
+würde,
+und
+fasste
+das
+irdische
+Paradies
+und
+andere
+Stellen
+in
+der Bibel
+allegorisch
+auf.
+Die Theo
+logen
+schreiben
+ihm
+mehr
+als
+tausend
+Werke,
+Dialoge
+und
+andere
+Schriften,
+zu.
+Aber
+welche
+von
+diesen
+wirklich
+von
+ihm
+stammen,
+welche
+gefälscht
+sind,
+das
+muss
+noch
+die Zukunft
+lehren.
+Der Ausbruch
+einer
+örtlichen Verfolgung
+zur Zeit des Regierungs
+antritts
+des Maximinus (235—238) zwang den Origenes,
+in seinem fünf
+undfünfzigsten Jahre
+aus
+Oäsarea
+in Palästina
+nach
+einem anderen,
+ent
+legeneren
+Ort
+zu ﬂüchten.
+Später
+liess
+er
+sich
+in Tyros
+nieder,
+von
+wo
+er sich
+nach
+Achaja
+und
+Basra
+in
+Mesopotamien
+begab,
+um jedoch
+später
+wieder
+nach
+Tyros
+zurückzukehren.
+Hier widmete
+er
+sich
+in
+Ruhe
+seinen
+literarischen
+Arbeiten,
+bis
+ein
+neuer
+Ausbruch
+von Ver
+folgung
+zur Zeit
+des Decius
+im
+Jahre 253
+ihn, den bereits
+achtund
+sechzigjährigen Greis, traf.
+Er wurde gemartert
+und
+starb infolge hier
+von im nächsten
+Jahre.
+Trotz
+des
+Kirchenbannes,
+mit
+dem
+Origenes
+durch
+den
+ersten
+alexandrinischen
+Bischof
+Demetrius
+belegt
+war,
+war
+seine
+Volkstüm—
+lichkeit
+in der
+ganzen
+christlichen Welt
+des dritten
+und
+vierten Jahr
+hunderts
+gross.
+Er gilt für
+den
+berühmtesten
+aller christlichen
+Schriftsteller.
+In
+folge
+der
+grossen
+Forderungen
+an
+die
+geistige
+Entwickelung,
+die Ori
+genes
+an seine Anhänger
+stellte, konnten
+weder
+er noch
+seine Schüler
+eine
+grosse
+Partei
+ins
+Leben
+rufen.
+Sie bildeten bis
+zum Jahre 553
+(als
+man
+auf dem fünften allgemeinen
+Konzil
+über
+sie alle den Kirchen
+bann
+verfügte)
+eine
+besondere
+Gruppe
+von Gelehrten
+und
+waren
+so
+wohl
+den Arianern
+wie
+den Nikolaiten
+verdächtig.
+Von Zeit
+zu Zeit
+beschuldigte man
+sie der Zauberei;
+aber,
+wie
+schon erwähnt,
+hatte noch
+niemand
+ausser
+Demetrius
+von
+Alexandrien
+den kirchlichen
+Bann über
+sie
+ausgesprochen.
+In
+der Zeit, von der wir
+sprechen.
+d. h.
+im Jahre des Erscheinens
+der
+„Offenbarung in Gewitter
+und Sturm“,
+war die Partei
+nach wie vor
+nicht
+gross.
+In
+den Jahren
+darauf,
+nach
+dem Erscheinen
+der
+„Offen
+barung“
+erhielt
+sie
+(offenbar
+infolge
+hiervon)
+eine
+unerwartete
+Ver
+
+--- Page 149 ---
+123
+breitung.
+Ihr
+neigte
+sich
+eine
+Zeitlang
+(im
+Jahre
+398)
+sogar
+der
+Bischof Johannes zu Jerusalem
+zu,
+der
+sich
+deswegen
+mit
+dem unver
+söhnlichen
+Gegner
+der Origeniten,
+dem Bischof Epiphanius
+von Cypern,
+entzweite.
+Zu
+dieser Gruppe
+zählte,
+wie wir
+später
+sehen werden,
+auch
+der Verfasser
+der
+„Offenbarung in Gewitter
+und
+Sturm“.
+Bevor wir jedoch zur Bestimmung seiner Persönlichkeit
+übergehen,
+wollen wir
+erst
+die Uebersetzung
+seines
+Buches
+zu Ende
+führen
+und
+die
+sieben
+Sendschreiben
+an
+die
+kleinasiatischen
+Origeniten
+anführen.
+Nur an
+diese konnte er
+meiner Ansicht
+nach
+sein Buch gerichtet haben,
+nachdem
+er alle anderen christlichen Parteien,
+weil
+sie ihm feind waren,
+beiseite
+gelassen
+hatte.
+Diese Briefe
+umfassen
+das
+ganze
+zweite
+und
+dritte
+Kapitel
+der
+„Offenbarung
+in
+Gewitter
+und
+Sturm“.
+Da
+aber
+deren Inhalt
+gar keine
+Beziehungen
+zu
+dem
+übrigen
+hat,
+sondern
+in
+Gestalt
+eines
+Vorwortes
+irrtümlicherweise
+in
+die Mitte
+des
+Buches ge
+raten
+ist
+(was
+den
+Zusammenhang
+desselben
+stark beeinträchtigt),
+so
+beschloss
+ich, sie
+gesondert
+zu übersetzen.
+Die
+Ausdrucksweise
+ist
+in
+ihnen
+auch
+eine
+ganz
+besondere;
+es
+ist
+eine
+Nachahmung
+der
+gewöhnlichen
+Form
+der
+alttestamentlichen
+Prophezeiungen,
+wo
+die
+Mahnungen
+nicht
+vom
+Verfasser
+selbst
+aus
+gehen,
+sondern
+gleichsam
+ihm
+von Gott,
+der
+zu ihm redet,
+in
+die Feder
+diktiert
+sind.
+I) Bei
+meinem Austritt
+aus
+der Schlüsselburger
+Festung
+wandte
+ich
+mich
+sofort
+den
+ausländischen
+Quellen
+zu, die
+in der öffentlichen
+Bibliothek,
+sowie
+in denjenigen
+der
+Universität
+und
+der
+Akademie
+der Wissenschaften
+vorhanden
+waren,
+um
+diese
+Arbeit
+zu ergänzen und zu berichtigen,
+fand
+aber mit Ausnahme
+einiger Bestätigungen
+meiner
+Schlüsse
+in
+ihnen
+nichts
+Neues.
+Deshalb
+lasse
+ich jetzt meine Arbeit in der
+Fassung
+drucken,
+wie
+ich
+sie
+in meiner
+„alten
+Behausung“
+geschrieben
+habe,
+wobei
+ich nur einige Hinweise
+auf die folgenden
+Bücher
+hinzugefügt
+habe: Amäd es Thierry:
+St. Jean
+Chrysostome
+et
+l’impöratrice
+Eudoxie
+(Paris,
+1872),
+Dialogus
+Historicus
+Palladii,
+.‘‚'wxpa'rov
+Szolmxnxori
+'Exxlqamanxq‘
+'Ioropr’a (in
+der Ausgabe
+Patrologiae
+cursus completus,
+1859),
+Aimä Puech:
+St. Jean
+Chrysostorne
+et
+les
+moeurs
+de
+son
+temps
+(Paris,
+1891)
+und
+manche
+andere.
+Alle
+diese Ergänzungen
+sind
+mittelst
+be
+sonderer
+Hinweise
+unten
+an
+den Seiten
+angegeben.
+’) Apokalypse,
+Kap. 9,u
+und 16„,.
+8) Schlosser
+und
+andere.
+‘)
+o'ywu'cno;
+— abgekürzt
+von
+c'yolo-ov'mo;
+— ähnlich
+seiend.
+")
+riyo-oli0‘io;
+— wird gewöhnlich
+durch
+o'yov'o'w;
+-— gleich
+seiend abgekürzt.
+") Jehoschua
+ist der wahre Name Christi,
+wie
+er sich selbst und
+auch
+seine
+Ver
+wandten
+ihn nannten.
+7) Auf
+folgende
+Art
+ist in dem „Leben
+der Heiligen“
+der Ueberfall
+des Nik0‘
+laus auf den Arius nach
+dem Wortlaut
+des Johannes
+von
+Studien
+dargestellt.
+In
+göttlichem
+Eifer
+entbrannte Nikolaus,
+wie
+ein zweiter Elias, und wagte Arius nicht
+nur
+durch Worte,
+sondern
+auch
+durch
+eine Tat zu beschämen,
+indem
+er
+ihn
+ins Gesicht
+schlug.
+Hierüber erzürnten
+die heiligen
+Väter
+und entkleideten
+ihn
+für diese freche
+
+--- Page 150 ---
+124
+Tat
+seiner geistlichen
+Würde (Dezember,
+103).
+Aber später wurden
+ihm
+diese
+alle
+wieder
+zurückgegeben.
+Wissenswert
+ist,
+dass
+die römische
+Kirche
+den Nikolaus
+lange
+nicht
+als
+Heiligen
+anerkennen
+wollte,
+während
+die
+griechische
+Kirche
+die Echtheit
+seiner
+Reliquien
+in Bari bestritt.
+Das
+Gleiche
+ﬁnden wir in
+allen
+alten
+Quellen,
+obwohl
+die Einzelheiten
+und
+die
+Ursachen
+des
+Zwischenfalles
+auf
+dem Konzil
+zu
+Konstantinopel
+überall
+offensichtlich
+tendenziös
+geschildert
+werden.
+“) Apokalypse
+13, „-—„.
+Die
+mitten
+in
+die
+„Offenbarung
+in
+Gewitter
+und
+Sturm“
+eingeschobenen
+Briefe
+des Johannes
+an
+die
+sieben
+klein
+asiatischen Gemeinden seiner Gesinnungsgenossen
+(Kapitel
+11
+und lll der Apokalypse).
+Dem Verkündiger
+l) der Gemeinde
+in Ephesus
+schreibe:
+So spricht,
+der
+die
+sieben
+Fackeln
+in
+seiner
+Rechten hält
+und
+inmitten
+der
+sieben
+goldenen
+Leuchter
+(um
+den Himmel) herumwandelt 2) (d. h.
+das
+uns
+schon
+bekannte
+zornige
+Antlitz
+der
+Sonne,
+die
+durch
+eine
+Spalte
+zwischen zwei Schichten
+der Gewitterwolken
+herausschaut
+— das Sym
+bol
+des erzürnten Jesus).
+Ich
+weiss
+von
+deinem
+Tun,
+deiner
+Mühsal
+und
+Geduld
+und
+dass
+du
+die
+Schlechten
+8) nicht
+ertragen
+kannst.
+Du
+hast geprüft,
+die
+sich
+selbst
+rühmen, J esu
+Gesandte
+zu sein,
+aber
+es
+tatsächlich
+nicht
+sind,
+und hast
+gefunden,
+dass
+sie Lügner
+sind.
+Du
+bist umsichtig und hast
+viel Geduld,
+du
+hast
+für
+mich
+gekämpft
+und
+bist nicht
+müde
+geworden.
+Aber
+ich habe
+gegen
+dich,
+dass
+du
+deine
+erste
+Liebe
+verlassen
+hast
+(hier ist
+ein
+Wortspiel:
+üyoim;
+heisst
+gleich
+zeitig Liebe und Ab endversammlung
+der Christen der ersten Jahr
+hunderte).
+Ja,
+denke
+daran,
+wovon du
+abgefallen
+bist, erkenne
+deinen
+Irrtum und stelle den ursprünglichen Zustand wieder her ‘);
+wenn nicht,
+so werde
+ich bald zu dir
+kommen
+und deinen Leuchter von seiner Stelle
+stossen.
+Aber
+du
+hast
+ein
+Verdienst,
+dass
+du nämlich
+die Werke
+der
+Nikolaiten
+hassest,
+die
+auch
+ich hasse.
+Wer Ohren hat,
+der
+höre,
+was
+die Eingebung
+den Gemeinden
+sagt!
+Wer überwindet, wird vom Baume
+des Lebens
+geniessen,
+der
+sich
+inmitten
+des
+Gartens
+Gottes
+beﬁndet
+E').
+Dem Verkündiger
+der Gemeinde
+in Smyrna
+schreibe:
+So spricht der
+Erste
+und
+der Letzte,
+der tot war
+und
+wieder
+lebendig
+wurde
+(d.
+h.
+dasselbe
+zornige
+Antlitz
+der
+Sonne,
+das
+Jesus
+versinnbildlicht,
+die
+an
+diesem
+Tag
+sich
+verﬁnsterte
+und
+sich
+von
+neuem
+erhellte):
+Ich
+
+--- Page 151 ---
+125
+kenne
+deine
+Werke,
+deine
+Drangsale
+und
+deine
+Armut
+(obwohl
+du
+eigentlich reich bist) und
+die Anklagen
+von
+seiten derer,
+die sich Juden
+nennen
+und
+keine
+sind,
+sondern
+eine
+Versammlung
+von
+Hindernissen
+(zwischen
+Gott
+und
+den
+Menschen)
+Fürchte
+dich
+nicht
+vor
+den
+Leiden,
+die
+du zu dulden
+haben
+wirst.
+Siehe,
+der Angeber wird
+einige
+von euch ins Gefängnis werfen,
+um
+euch zu verführen,
+und ihr werdet
+Trübsal
+leiden
+zehn Tage lang
+(nach
+irgendwelchen astrologischen Mut
+massungen).
+Sei getreu
+bis in
+den Tod,
+so will ich dir
+die Krone
+des
+Lebens geben (Sternbild
+der Krone?)
+").
+Wer Ohren
+hat,
+der
+höre,
+was
+die
+Eingebung
+den
+Gemeinden
+sagt.
+Wer
+überwindet,
+der
+soll
+vom
+zweiten Tode nichts zu leiden
+haben!
+Dem Verkündiger
+der Gemeinde
+zu Pergamon schreibe: So spricht,
+der das scharfe Schwert mit zwei Spitzen hat (das gleiche zornige Antlitz der
+Sonne,
+über
+welches
+quer
+eine
+lange
+spindelförmige Wolke
+lag):
+Ich
+kenne
+deine Werke
+und weiss,
+dass
+du wohnst, wo
+der Thron
+des An
+gebers
+ist (wahrscheinlich irgend
+eines Bischofs,
+der sich
+mit Angeberei
+befasste
+und
+das Wunder
+mit dem
+goldenen
+Kelche tat.
+Siehe Kap.
+17),
+dass
+du
+an meinem Namen festhältst und den Glauben nicht verleugnest,
+selbst in solchen Tagen nicht, als bei euch, wo der Verhinderer wohnt, mein
+treuer Anhänger Antipas
+getötet wurde (wahrscheinlich einer,
+der jenen
+Bischof
+entlarvt hat
+B).
+Aber
+ich
+habe
+einiges
+wider
+dich,
+weil
+bei dir
+solche
+sind,
+die zur
+Lehre
+des
+Bileam
+halten
+(eines
+alten
+hebräischen
+Propheten),
+der
+den
+Balak9)
+(den
+König
+der
+heidnischen
+Moabiter)
+lehrte,
+die
+Söhne
+Israels — des Gotteskämpfers
+— zu
+verführen,
+dass
+sie Götzenopfer ässen und
+Unzucht trieben mit
+den Machthabern.
+Auf diese Weise
+‘°)
+sind auch bei dir Anhänger der Lehre des Niko
+laus, die mir
+verhasst
+sind.
+(Wir wollen uns erinnern, dass das eigent
+liche Haupt
+der
+nikolaitischen
+Partei
+im
+Jahre
+395
+der
+Todfeind
+des
+Johannes Chrysostomus, nämlich Theophilos
+von
+Alexandrien,
+war).
+Bessere
+dich also;
+wenn nicht,
+so werde ich schnell zu dir kommen
+und
+werde
+sie
+bekämpfen
+mit
+dem
+Schwerte
+meines
+Mundes.
+Wer
+Ohren
+hat,
+der
+höre,‘
+was
+die Eingebung
+den
+Gemeinden
+sagt!
+Wer
+überwindet,
+dem werde
+ich
+vom
+geheimen
+himmlischen
+Brot“)
+geben,
+und ich will ihm einen
+weissen
+Wahlstein
+l“)
+und
+einen
+neuen Namen
+geben,
+der auf diesem Stein geschrieben
+steht,
+und der
+niemandem
+ausser
+dem,
+der ihn
+empfängt,
+bekannt ist.
+
+--- Page 152 ---
+126
+Dem Verkündiger
+der
+Gemeinde
+zu Thyatira
+schreibe:
+So spricht
+der Sohn Gottes,
+dessen Augen
+sind wie Feuerﬂammen
+und dessen Füsse
+aus
+Bronze
+(dieselbe
+zornige Gestalt in den Wolken):
+ich
+kenne
+deine
+Werke,
+deine
+Liebe,
+deine
+Dienste
+und
+Treue
+und
+Geduld
+und deine
+letzten Handlungen,
+die
+mehr
+sind,
+als
+die ersten.
+Aber ich habe wider
+dich, dass du deiner J esabel“)
+(mit diesem Namen
+bezeichnet
+Johannes
+Chrysostomus
+die ihm feindliche Partei
+der byzantinischen Geistlichkeit),
+die
+sich eine Prophetin
+nennt,
+erlaubt hast,
+zu lehren und meine Knechte
+zu verführen,
+und Unzucht
+zu treiben
+mit der weltlichen Macht,
+und zu
+essen,
+was
+den Götzenbildern
+geweiht ist.
+(Daraus ist gut
+zu
+ersehen,
+dass
+es
+sich
+auch
+hier
+um
+die Nikolaiten
+handelt,
+mit
+denen
+die
+Ge
+meinde der Origeniten zu Thyatira
+wahrscheinlich in gutem Einvernehmen
+lebte.)
+Ich habe
+ihr Zeit
+gegeben
+zur
+Busse,
+aber
+sie will
+sich
+nicht
+von ihrer
+Unzucht
+bekehren.
+Nun
+werde
+ich sie aufs Siechbett werfen
+und ihre Buhler
+mit ihr in grosse
+Not,
+wenn
+sie
+sich
+nicht von ihrem
+Treiben
+abwenden.
+Und
+ihre Kinder
+werde
+ich
+mit
+dem Tode
+treffen,
+und alle werden
+es
+erfahren,
+dass
+ich
+der
+bin,
+der
+die
+Herzen
+und
+Nieren
+prüft,
+und
+jedem
+von euch werde ich nach seinem Tun vergelten.
+Allen
+anderen
+in Thyatira,
+welche
+diese
+Lehre
+nicht
+halten
+und
+die
+sog.
+Geheimnisse“)
+des
+Verhinderers
+nicht
+kennen,
+sage
+ich,
+dass
+ich auch
+keine
+andere Last auferlege;
+nun
+haltet
+an dem,
+was ihr habt,
+bis zu Ende,
+bis
+ich komme.
+Dem,
+der überwindet (symbolisch durch
+das Sternbild
+des Herakles
+versinnbildlicht)
+und
+meine Werke hält,
+dem
+will ich Macht
+geben
+über die Schlangen 15),
+und
+er wird sie mit eiserner
+Keule
+weiden
+(Bild 47) und wird
+sie in
+Scherben
+schlagen
+wie Töpfer
+ware,
+wie
+auch
+ich
+(Christus,
+versinnbildlicht
+durch
+den
+Schlangen
+träger)
+solche
+Macht
+von
+meinem
+Vater
+empfangen
+habe.
+Und
+ich
+werde
+dem
+Ueberwinder
+den
+Morgenstern
+(die
+Venus,
+die
+sich
+im
+Schlangenträger")
+unter dem Herakles
+befand)
+geben.
+Wer Ohren hat,
+der
+höre,
+was
+die Eingebung
+den
+Gemeinden
+sagt.
+Dem Verkündiger
+der
+Gemeinde
+zu Sardes
+schreibe:
+So
+spricht,
+der
+die
+sieben
+Offenbarungen
+und
+die
+sieben Sterne (des grossen Bären)
+hat.
+Ich kenne
+dein
+Treiben,
+du
+trägst den
+Namen
+(eines
+Origeniten)
+wie
+ein Lebendiger,
+aber
+du bist tot.
+Wach
+auf und stärke die übrigen,
+die
+dem Tode nahe
+sind,
+denn
+ich ﬁnde deine Werke
+nicht vollkommen
+vor
+meinem Gott.
+Bedenke,
+wie viel")
+du
+empfangen
+und gehört hast;
+bewahre
+es
+und
+bekehre
+dich.
+Wenn du aber nicht aufwachst,
+so werde
+ich zu dir
+kommen,
+unerwartet,
+wie ein Dieb,
+und
+du wirst
+nicht
+er
+fahren,
+zu welcher Stunde ich zu dir
+kommen
+werde.
+Aber
+es sind in
+
+--- Page 153 ---
+127
+"
+g; ““‘.
+s
+I
+\
+‚
+I
+.
+l:
+„ ’
+gilt
+il:
+.r‘eqqy‘
+:
+_.
+\
+’
+an
+‘&
+#i
+„,*‘i
+‚g
+‚*
+k
+'2
+“C
+‘l‘
+*
+*i
+‚v&
+y
+'g
+"‘.g
+ll‘“lf
+.l
+)(
+:7
+n
+5
+*'“
+&
+_
+_<
+“AR
+%
+4„'.
+0
+\
+Op/o|dxoy
+‘
+_
+\_
+.
+\\
+‘\‘\r
+8
+.
+.\
+.‘
+‘
+‘
+\\ .‚
+E
+{t
+‘,
+\
+«*
+(_
+„|
+g.
+.
+\
+*-
+"4
+.
+‘
+\,
+1:
+*
+\,‘
+.
+. E90017
+=
+41K
+\
+‘
+\s
+‘3
+O
+"
+‘\
+\\.l'8z
+_
+‘\
+‚
+'n
+J(
+"
+"
+’
+":s'z;"""" u
+0
+g
+1
+„
+4',
+a
+-4"3’_’_7;
+s
+)k#
+"‘
+*
+.
+l\\
+J‘\
+%
+l»
+zu?
+.
+l
+;'\
+‘.
+E
+‘
+3
+VI
+r:ß)
+3
+2
+I
+5
+Blld
+47.
+Sternbild
+des Schlangentr‘a'gers, der mit dem Fass den Tod
+(den
+Skorpion),
+und
+das Sternbild
+des Herakles.
+der mit dem Fuss den
+rechten Hacke des
+Schlangenträgers und ist dort durch einen dunklen
+Punkt
+bezeichnet.
+Drachen
+zerdrückt;
+letzterer
+weidet
+mit
+der
+eisernen Keule
+seine
+Kinder.
+Sardes
+etliche Namen (öv6pam),
+die ihre Gewänder nicht beﬂeckt
+haben;
+die
+werden
+mit mir im Kreise wandeln (als neue Sterne um den Himmels
+pol),
+in hellen Gewändern,
+weil
+sie
+fehlerlos
+sind.
+Wer
+überwindet,
+
+--- Page 154 ---
+128
+wird
+mit hellen Gewändern
+angetan
+werden.
+Ich werde
+seinen Namen
+nicht
+aus
+dem Buche
+des Lebens austilgen,
+sondern
+werde ihn bekennen
+vor meinem
+Vater
+und vor
+seinen
+Boten.
+Wer Ohren
+hat,
+der
+höre,
+was
+die Eingebung
+den
+Gemeinden
+sagt!
+Dem
+Verkündiger
+der
+Gemeinde
+zu
+Philadelphia
+schreibe:
+So
+spricht
+der Heilige
+und Wahrhaftige,
+der
+den Schlüssel des Geliebten“)
+hat,
+der
+so
+öffnet,
+dass
+niemand
+zuschliessen
+kann,
+und
+so zuschliesst,
+dass
+niemand
+öffnen
+kann.
+Ich
+kenne
+deine Werke.
+Siehe,
+ich
+habe
+vor
+dir
+eine
+Türe
+geöffnet,
+und
+niemand
+kann
+sie
+zuschliessen.
+Du
+hast
+wenig Kraft,
+aber
+du
+hast
+meine
+Lehre
+beibehalten
+und
+meinen
+Namen nicht
+verleugnet.
+Siehe,
+ich
+werde
+zu Lügnern
+machen
+alle
+aus
+der
+Gemeinde
+des Widerstandes,
+die
+sich Juden
+nennen,
+aber keine
+sind.
+Ich
+werde
+sie
+zwingen,
+zu
+kommen
+und
+dir
+zu
+Füssen
+zu
+fallen,
+und
+sie
+werden
+erkennen,
+dass ich dich liebe.
+Weil
+du
+meine
+Worte
+von
+der Geduld bewahrt
+hast,
+werde
+ich
+dich
+vor
+der
+Stunde
+der
+Versuchung
+bewahren,
+die
+über
+die
+ganze Welt kommen
+muss,
+um
+die
+Bewohner
+der Erde
+zu
+bessern.
+Siehe,
+ich
+komme
+bald.
+Halte
+fest,
+was
+du
+hast,
+damit dir
+niemand
+deinen Kranz
+wegnehmen
+kann.
+Den Ueberwinder
+werde
+ich
+zu
+einer
+Säule
+im
+Tempel
+meines
+Gottes
+machen
+und
+werde
+ihn mit
+einer
+Mauer”)
+umgeben,
+damit
+er
+nicht
+wieder
+herausgehe,
+und ich
+werde
+auf
+ihm
+den
+Namen
+meines
+Gottes
+und
+den Namen
+meiner Feste
+schreiben,
+des neuen Reiches des Friedens,
+das vom Himmel
+von Gott herabkommt,
+und meinen
+neuen Namen.
+Wer
+Ohren hat zu hören,
+der höre,
+was
+die Eingebung
+den Gemeinden
+sagt!
+Dem Verkündiger
+der Gemeinde
+zu Laodicea
+schreibe:
+So spricht
+die Wahrheit,
+der
+treue
+und
+wahrhaftige
+Zeuge,
+das
+erste
+Geschöpf
+Gottes:
+ich kenne
+deine
+Werke,
+du
+bist
+weder
+kalt
+noch
+heiss;
+nur
+lau bist
+du,
+so will ich
+dich
+aus
+meinem
+Munde ausspeien.
+Du sagst:
+„Ich
+bin
+reich,
+habe Ueberﬂuss
+und
+habe keinen
+Mangel“
+und du weisst
+nicht,
+dass
+du
+ein Elender
+und
+Erbärmlicher
+bist
+und
+arm
+und blind
+und
+nackt!
+Ich rate dir,
+bei
+mir Gold
+zu
+kaufen,
+das
+im Feuer
+ge
+läutert
+ist,
+damit du
+wahrhaftig
+reich
+würdest,
+und
+helle
+Gewänder,
+dass du dich
+in sie hüllst,
+damit
+die Schande
+deiner Blässe nicht offenbar
+werde.
+Reibe
+deine
+Augen
+besser 2°),
+um zu sehen.
+Ich züchtige alle,
+die ich
+liebe,
+und
+ermahne
+sie.
+So
+sei nun eifrig und tue Busse.
+Siehe,
+ich
+stehe vor
+der Türe
+und
+klopfe
+an.
+So
+jemand mein
+Klopfen
+hört
+und
+mir die Türe
+auftut, zu dem werde
+ich gehen
+und
+mit ihm speisen
+und
+er mit mir.
+Dem,
+der überwindet, will ich neben
+mir auf meinem
+
+--- Page 155 ---
+129
+Thron Platz
+geben,
+gleich wie
+auch
+ich überwunden,
+und
+mit
+meinem
+Vater
+mich auf seinen
+Thron
+gesetzt
+habe.
+Wer Ohren hat,
+zu
+hören,
+der höre,
+was
+die Eingebung
+den
+Gemeinden
+sagt!
+Hiermit
+endigen
+die Briefe
+des Johannes
+an
+die
+kleinasiatischen
+Gemeihden
+seiner
+Gesinnungsgenossen.
+Der Leser
+sieht,
+wie ich
+bereits
+gesagt
+habe,
+dass
+diese
+sieben
+Briefe
+gar keine Beziehung zu dem
+übrigen Inhalt
+des Buches
+haben.
+Aber sie sind für die Geschichte jener Zeit in gewissem
+Sinne bedeutsam.
+Sie
+zeigen,
+dass
+der
+Verfasser
+nicht
+der
+zu
+seiner
+Zeit
+herrschenden
+Kirche
+angehört
+hat,
+sonst
+hätte
+er
+seine
+Sendschreiben
+nicht
+aus
+schliesslich
+an
+die
+sieben
+kleinasiatischen
+Städte gerichtet,
+als
+ob
+alle
+anderen
+es nicht verdient hätten,
+auf ein
+so
+wichtiges Ereignis,
+wie
+die
+baldige WiederkehrChristi
+auf die Erde, vorbereitet zu werden.
+Jedenfalls
+würde
+er Rom
+nicht
+ausgeschlossen
+haben,
+das
+seit
+Petrus
+trotz aller
+Verfolgungen
+der
+ersten Jahrhunderte
+oder
+gerade
+wegen
+derselben
+das
+natürliche
+Zentrum
+des Christentums war.
+Aus
+diesem
+Umstand
+allein
+geht
+hervor,
+dass
+er
+zu
+einer
+der
+kleinen
+Gruppen
+gehörte,
+die
+im Jahre
+395
+eine autonome
+Organisation
+nur in diesen sieben Städten besassen,
+in allen übrigen jedoch
+sich
+nicht
+von
+den
+beiden
+Hauptparteien
+der Arianer
+und Nikolaiten
+absonderten.
+Schon
+aus
+dem
+astrologischen
+Charakter
+des
+Buches
+ersieht
+man
+leicht,
+dass
+es
+am
+meisten
+dem
+Geiste
+der
+Anhänger
+des
+Origenes
+entsprach,
+die
+sich
+in ihrer Theologie
+nicht nur mit
+dem
+eifrigen Stu
+dium der Bibel,
+sondern
+auch mit allen damaligen
+Zweigen der heidnischen
+Wissenschaften
+und
+besonders
+mit
+der Astronomie
+und
+der Astrologie
+befassten,
+da
+sie durch das Studium
+des
+Himmels,
+der
+ihnen
+für
+den
+Sitz Gottes galt,
+nach
+der Lehre des Origenes,
+Gott
+selbst
+zu
+ergründen
+suchten.
+Zum
+gleichen
+Ergebnis
+führen,
+wie
+wir
+das
+weiter
+sehen
+werden,
+auch
+noch
+andere
+historische Tatsachen.
+‘) Verkündiger:
+rqi
+a'yyüi_u
+n}; iv
+'Eqzs'dq: e’xxlqatug.
+’) nspmars'w
+— gehe um etwas herum,
+spaziere.
+’)
+xaxo’; — bös, feige,
+gemein.
+‘)
+ra‘ nguim
+igya
+noir;0'ov,
+wo
+nou'w schaffen, wieder
+aufbauen,
+feststellen,
+ein
+richten
+heisst.
+") D. h. die Himmelskuppel
+mit
+ihren
+Tiersternbildern.
+Hier steht:
+nugnid‘uao;
+—- ein grosser Park
+mit Tieren,
+vom
+persischen
+Paradaiza,
+Garten,
+Park.
+Dieses
+Wort
+ist ganz
+gewöhnlich
+im Persischen
+und Altgriechischen,
+und
+nur wir geben ihm
+den
+ausschliesslichen
+Sinn
+des
+Edens
+mit Adam und
+Eva.
+°) Satans
+(Schatan)
+heisst auf hebräisch:
+Hindernis.
+") Achnlich,
+wie
+der Verfasser
+weiter
+im
+Briefe
+an die
+Gemeinde
+zu Thyatira
+den
+Gläubigen
+als
+Belohnung
+den Morgenstern,
+die
+Venus,
+verspricht.
+Morosow.
+Die Offenbarung
+Johannls.
+9
+
+--- Page 156 ---
+130
+')
+Der Hinweis
+in diesem Brief auf Antipas
+gab
+selbst Veranlassung
+zur Aus
+bildung
+einer Sage
+von
+einem
+Märtyrer Antipss,
+Bischof
+von
+Pergamon
+(siehe
+das
+„Leben der Heiligen“).
+Aber
+es ist derart inhaltlos
+und mit losen
+Fäden
+schnell
+nach
+diesen Briefen
+zusammengenäht,
+dass
+es
+nicht
+der Mühe
+wert
+ist,
+davon
+zu
+reden.
+Dieser
+Name
+ist
+am
+Schlusse
+des
+vierten Jahrhunderts zu suchen.
+') Hier der Inhalt der Sage von Bileam
+und Balsk (4 Moses,
+Kap. 22—25).
+Bileam
+war
+ein Prophet,
+der
+am
+Euphrat
+wohnte.
+Der
+Mosbiterkönig
+Balak
+schickte
+zu ihm Gesandte mit Geschenken
+und
+lud
+ihn
+zu sich
+ein, damit
+er das Volk
+Israel verﬂuchte,
+das mit Moses
+aus
+der Wüste
+gekommen
+war und
+sich neben
+seinem
+Lande ansiedelte.
+Des Nachts
+jedoch kam Gott zu Bileam
+und fragte:
+„Was sind das für
+Leute bei dir? gehe nicht mit.
+ihnen.
+Verﬂuche
+dieses
+Volk
+nicht,
+weil
+es
+gesegnet
+ist.“
+Allein Bileam
+fuhr trotzdem.
+Und
+siehe,
+die Eselin,
+auf
+der er ritt,
+sah vor sich
+einen
+Engel
+mit
+gezücktem
+Schwert
+und
+blieb
+stehen.
+Bilesm
+ﬁng
+an,
+sie
+zu
+schlagen,
+aber Gott öffnete den Mund der Eselin,
+und
+sie frug:
+„Was
+habe ich dir
+getan?
+Warum schlägst
+du mich
+schon
+des
+dritte Mal ?“
+Bileam antwortete:
+„Dafür,
+dass
+du mich
+verspottet
+hast.“
+Die
+Eselin
+aber
+sagte:
+„Bin
+ich
+dann
+nicht.
+deine
+Eselin,
+auf
+der du geritten
+bist vom Anfang bis zum heutigen Tag?
+Hatte ich
+denn
+—die
+Gewohnheit,
+so
+mit
+dir
+zu
+handeln?“
+Bileam
+antwortete:
+„Nein“.
+Da
+sah
+er
+einen Engel,
+der ihm
+den Weg versperrte.
+Und der Engel sprach
+zu ihm:
+„Warum
+hast
+du die Eselin
+dreimal
+geschlagen?
+Ich kam,
+um dich hieran
+zu hindern.“
+Bileam
+bedauerte
+sein Vergehen
+und wollte zurückkehren.
+Als der Engel
+das
+gesehen hatte,
+erlaubte
+er ihm
+im
+Gegenteil,
+zu Balak
+zu
+gehen, doch sollte er nur das
+predigen,
+was
+ihm
+erlaubt
+sein werde.
+Anstatt
+es zu verﬂuchen,
+segnete Bileam
+das Volk
+Israel
+dreimal.
+Dar-nach
+machte
+er sich
+auf und
+ging
+zu seinem früheren
+Ort,
+und
+Balak
+ging
+auch
+seines
+Weges.
+Und Israel lebte
+in Sittim
+neben
+den Mosbitern,
+und
+das
+Volk
+begann
+sich den Töchtern der Moabiter zuzugesellen,
+und
+sie
+luden
+das Volk
+zu
+den Opfern
+ihrer Götter,
+und
+das Volk ass ihre Opfer und beugte sich vor ihren Göttern.
+Und Israel hängte
+sich
+an den Baal-Peor.
+Da
+entbrannte
+der Zorn Gottes
+über Israel.
+So
+sehen
+wir,
+dass
+in
+der
+modernen
+Bibel
+ganz
+im
+Einklang
+mit
+der
+lateinischen
+Vulgata
+keine
+Andeutung
+vorhanden
+ist,
+dass Bileam
+beim Wegreisen
+dem
+Balak den Rat gegeben
+habe,
+auf diese
+Weise
+das Volk Israel zu
+verführen.
+F01g
+lich war
+das Manuskript
+des
+vierten Jahrhunderts,
+das Johannes
+benutzte,
+ein anderes,
+in dem der Sachverhalt
+gerade so geschildert
+war,
+wie Johannes
+ihn
+hier
+anführt.
+1")
+oiitw; oder
+oriuuds'
+auf diese Weise,
+unter
+diesen Umständen.
+")
+sind
+106 ‚uniwa roü' xi:gugvyplvov
+wo prima: Gries,
+himmlisches Brot bedeutet.
+Ich mache darauf
+aufmerksam,
+dass hier das Adjektiv xrxgvp,uivog
+und nicht ßvdrqgutöt;
+beigefügt
+ist.
+Letzteres
+bedeutet
+mystisch,
+zu
+den Geheimnissen
+gehörig
+und ist in
+bezug
+auf
+den
+Kelch
+mit
+dem Wein im Kapitel
+17 angewandt.
+")
+Hier
+steht
+tpﬁrpo;
+ein Kiesel,
+glatter
+Flussstein,
+Wahlkiigelchen‚ Urteil,
+Bestimmung,
+da im Altertum
+die Wahlen
+augenscheinlich
+mit.
+weissen
+und
+schwarzen
+Steinen
+vorgenommen
+wurden,
+die vielleicht
+auch
+mit.
+den entsprechenden
+Aufschriften
+versehen
+waren.
+Ein
+gewöhnlicher
+Stein
+heisst
+auf griechisch
+1r&190;.
+")
+rq‘v yvvar‘xa 606
+’lr4'aßrji.
+deiner Wirtin
+Jesabel.
+Das Wort
+yvwj
+heisst auf
+griechisch
+nicht
+nur
+Frau,
+sondern
+auch
+im
+übertragenen
+Sinne
+Wirtin.
+Jesabel
+war
+die legendarische
+Frau
+des
+legendarischen
+Königs
+Ahsb,
+die
+einen
+allgemeinen
+Götzendienst
+eingerichtet
+hatte
+und
+dadurch
+den
+Zorn
+des
+Propheten
+Elias
+erregte
+(B. Buch der Könige, Kap.
+16—22).
+“)
+ni ‚801.91;105
+anruvqi ist sehr schwer
+zu übersetzen,
+wenn
+man vorher
+nicht
+weiss,
+um
+was
+es
+sich handelt.
+T6 ßu'804‘ bedeutet
+die Tiefe,
+die Höhe,
+das Viele,
+
+--- Page 157 ---
+131
+die grosse Anzahl.
+Hier muss man darunter
+augenscheinlich
+irgend
+ein religiöses
+Ge
+heimnis
+verstehen,
+das vor
+den Uneingeweihten
+verborgen
+wurde.
+15)
+In
+der Vulgata und
+in den gewöhnlichen
+modernen Ausgaben
+ist hier (wahr
+scheinlich)
+ein Fehler entstanden.
+Statt im? fair o’quuiv über
+den Schlangen,
+haben
+die
+griechischen
+Abschreiber
+geschrieben
+eni
+nüv
+t‘äwüv
+über
+die Völker.
+So
+kommt
+der Sinn heraus,
+als ob der
+Verfasser
+dieses
+Buches,
+bei
+dem überall
+die Liebe
+zur
+Menschheit
+durchblickt,
+alle Völker
+mit
+eiserner Keule, wie ein irdenes
+Geschirr,
+zer
+schlagen
+wolle.
+Aber
+der Sinn
+des
+ursprünglichen
+Textes
+ist ganz klar.
+Es
+handelt
+sich hier
+um den Schlangenträger,
+der
+mit
+den
+Füssen
+den Tod,
+den Skorpion, zer
+tritt,
+und
+der zum Thron
+des
+Himmels,
+zum Pol, emporsteigt,
+und
+um Herakles,
+der
+seinen Fass
+auf
+den Kopf
+des
+Drachens
+setzt (Abbild. 47)
+und
+mit
+der Keule die
+Schlangen
+erschlägt.
+Augenscheinlich
+wurden
+die ersten Leser,
+denen Johannes
+seine Prophezeiung
+schickte,
+durch
+die
+sie
+erwartende
+Belohnung,
+„Schlangen
+zu weiden“,
+derart
+über
+rascht
+und
+erschreckt,
+dass
+sie
+einen Fehler in
+der Handschrift vermuteten.
+Das Ver
+bessern
+war
+aber hier sehr leicht,
+und
+bei
+nicht
+sehr
+deutlicher
+Handschrift
+konnte
+das
+griechische
+Wort
+„Schlangen“
+ohne
+weiteres
+für das Wort
+„Völker“
+genommen
+werden.
+In der Tat,
+man vergleiche
+nun
+die beiden Ausdrücke:
+ini wir
+o'q:wiv
+über
+die Schlangen
+s'1ri mir
+e’.9müv über
+die Völker.
+Wie
+konnte man da nicht
+bei
+der grossen Unlust,
+Schlangen
+zu weiden,
+und bei
+dem
+grossen Verlangen,
+Völker
+zu führen,
+den
+einen Ausdruck für den
+unklar
+ge
+schriebenen
+zweiten
+nehmen?
+Erst
+nachdem
+mir
+die
+astronomische
+Berechnung
+gezeigt
+hatte,
+dass
+an diesem Tage
+(am
+30.
+September
+des
+395.
+julianischen
+Jahres)
+der Morgenstern,
+die Venus
+im
+Schlangenträger
+unter
+dem Herakles
+stand,
+der
+mit
+einer Keule die Schlangen
+schlägt,
+begriff ich, um
+was
+es
+sich
+hier
+handelt.
+Daraus
+‘
+kann
+man zum Schlusse
+kommen,
+dass
+ein ähnlicher
+Satz
+in einem der Lieder, die man
+dem David zuschreibt,
+dorthin
+aus der Apokalypse
+gelangt
+ist.
+1“)
+Nach
+der von mir gemachten
+Berechnung
+befand
+sich der Morgenstern
+oder
+der Planet
+Venus
+zu
+jener
+Zeit
+genau
+in den Füssen
+des
+Sternbildes
+des
+Schlangen
+trägers
+oder
+Ophiuchos.
+Er
+war
+in
+diesem Moment
+in
+der
+Phase
+seiner
+Abend
+sichtbarkeit,
+aber
+die Griechen
+wussten
+schon längst,
+dass der Morgen- und Abendstern
+der gleiche
+ist.
+Der Sinn
+dieser
+Stelle
+ist
+der,
+dass
+Jeschua
+—
+Jesus,
+symbolisiert
+durch
+den
+Schlangentriiger
+(Ophiuchos),
+verspricht,
+den jetzt
+bei
+ihm
+beﬁndlichen
+Morgenstern
+dem Herakles
+zu
+geben,
+der mit
+seinem
+Fusse
+den
+Drachen
+zertritt,
+und mit
+seiner Keule die Schlangen
+erschlägt.
+Wir
+sehen,
+dass
+auch
+hier
+immer
+die
+gleiche Astrologie herrscht.
+") mö;
+wie
+viel.
+")
+1011 da,5id‘
+ein
+Wortspiel,
+weil
+hebräisch:
+Geliebter
+heisst.
+")
+e’Ew die Zukunft von
+F
+1m,
+ich
+umfange,
+umringe.
+’°) fy]gictm xoU.ov'gwv toüg
+o'q:3si)„uolig
+den.
+Kollzigrz
+eine besondere Art eines
+länglich
+runden
+Brotes,
+aber
+dieses
+Wort
+passt hier
+offenbar
+nicht.
+Die
+Uebersetzer
+der Vulgats.
+und
+nach
+ihnen
+auch
+die
+übrigen
+nahmen
+an,
+dass
+es
+sich
+hier
+um
+irgend
+eine Augensalbe Kollurium — handelt.
+Wie kann
+dann
+hier der Akku
+sativ
+stehen?
+Augenscheinlich
+ist hier
+xoÄÄOv'gtov
+statt
+zrzÄÄoxiguuv
+gebraucht
+worden.
+Das letztere
+ist eine lokale
+Diminutivform
+von zuU.iwv
+und
+bedeutet:
+besser.
+
+--- Page 158 ---
+132
+Die Sitten
+der byzantinischen
+Geistlichkeit
+am Ende des
+4. Jahrhunderts
+l).
+Die Sitten
+der Reichen
+am Ende
+des
+4.
+Jahr
+hunderts
+waren
+noch
+sehr
+oft
+heidnisch
+und
+herrschten
+während
+der
+ganzen
+Dauer
+des
+Reiches.
+Der
+Luxus war
+ganz
+außergewöhn
+lich,
+die Ausschweifung
+allgemein
+und
+frei.
+Aim6 Puecb.
+Die
+apokalyptische
+Beschreibung
+der
+grossen
+Buhlerin,
+„bekleidet
+mit Perlen, Purpur und
+Edelsteinen“,
+wie
+sie
+die
+„Gerechten verfolgt“
+und
+mit
+den
+Königen
+der
+Erde
+Unzucht
+treibt,
+malt
+die Sitten
+der
+byzantinischen
+Kirche
+am Ende
+des
+4.
+Jahrhunderts
+unter dem üppigen
+Patriarchen
+Nektarius
+dermassen
+klar,
+dass
+man
+schon
+deswegen
+allein
+das Buch
+des
+Johannes
+in diese
+Zeit
+setzen
+müsste.
+Der
+französische
+Akademiker
+Thierry
+beschreibt
+diese
+Sitten
+folgendermassen
+’):
+„Bei
+der Aufzählung
+der Laster
+der (byzantinischen) Geistlichkeit
+hebt Palladius
+besonders
+drei
+hervor,
+die
+schon
+für
+sich
+allein
+den
+Untergang
+der Kirche
+herbeiführen mussten:
+Wollust,
+Gefrässigkeit und
+Habsucht.
+Das war
+die
+wahre
+Mutter aller Laster
+3)
+(die apokalyptische
+„Mutter aller Hurer und aller Greuel
+der Erde“),
+denn
+sie
+empﬁng
+sie in ihrem Leib
+und
+erzog sie.“
+„Das Laster
+der Wollust,
+dessen Palladius
+die byzantinische Geist
+lichkeit
+beschuldigt‘),
+äusserte
+sich
+besonders
+in
+der Sitte,
+mit
+den
+Schwestern,
+den Agapeten
+(geliebten
+Schwestern)
+oder
+zugeführten‚
+Weibern
+(mulieribus
+subintroductis)
+zusammenzuleben.
+Wenn
+man dem
+Johannes
+Chrysostomus,
+dem Verfasser
+der Apokalypse
+selbst,
+wie wir
+es
+später
+sehen
+werden,
+glauben
+darf,
+so blühte
+diese vor kurzem
+auf
+gekommene
+Sitte in
+so
+hohem Grade und
+hatte
+sich
+derartig wie Spreu
+überallhin
+verbreitet,
+dass
+sie
+die
+ganze
+christliche Welt
+(d.
+h.
+die
+Kirche)
+sowohl
+im
+Osten
+wie
+im
+Westen
+angesteckt
+hatte
+und
+zu
+einer
+kirchlichen
+Verordnung
+zu
+werden
+drohte.
+Umsonst
+protestierten
+die
+Gelehrten,
+umsonst
+schlenderten
+die
+Konzile
+ihren Bann dagegen,
+ja,
+selbst
+die bürgerlichen Gesetze
+eiferten
+gegen
+dieses
+Zusammenleben
+der Geistlichkeit
+mit Mädchen und
+deren
+Prostituierung
+vergeblich,
+das
+ebenso
+schädlich
+für
+die Disziplin
+wie
+entehrend
+für
+die Kirche
+war.
+Der Missbrauch widerstand allen Gegen
+mitteln.
+Ein Teil
+der Geistlichkeit,
+der
+von
+diesem Laster
+angesteckt
+
+--- Page 159 ---
+133
+war,
+bildete
+eine
+mächtige
+Organisation
+(die
+grosse
+Feste
+der
+Apokalypse),
+an
+welcher
+so
+mancher
+Doktrinär
+und
+so
+mancher
+Bischof
+zerschellte.
+Johannes
+Chrysostomus
+wurde
+im
+Jahre
+397
+nicht
+das
+erstemal
+in
+diesen
+gefährlichen
+Kampf verwickelt.
+Als
+er
+noch
+Diakon
+in Antiochien
+war
+(d.
+h.
+einige
+Jahre vor
+der
+Verfassung
+der
+„Offenbarung
+in Gewitter
+und
+Sturm“
+im
+Jahre
+395)
+schrieb
+er
+zwei bekannte
+Abhandlungen,
+die
+eine
+an
+die Geistlichkeit,
+die
+andere
+an
+die Mädchen gerichtet, die
+sich den Ausschweifungen
+dieser
+falschen
+Brüderschaft
+hingaben.
+„Der
+strenge
+Chirurg
+forderte (im Jahre 397)
+diejenigen
+vor
+sein
+Gericht,
+die
+auf
+diese
+Weise
+lebten,
+verjagte
+die
+einen
+und
+entlarvte
+die
+andern“.
+„Böses
+für
+Böses,“
+sprach
+er
+zu
+ihnen:
+„Zuhälter
+sind
+mir lieber
+als
+solche
+Diener
+der Kirche,
+wie ihr.“
+„Treten
+wir,“
+sagt
+er,
+„in
+das Gemach,
+in welchem
+sie zusammen
+mit den Mädchen
+hausen,
+und
+nehmen
+zunächst
+an,
+das Mädchen sei
+arm
+und
+gezwungen,
+mit
+seinen
+eigenen
+Händen
+zu
+arbeiten.
+Der Geistliche
+ist immer um
+sie.
+Sie
+haben
+ein
+gemeinsames
+Zimmer,
+eine gemeinsame
+Einrichtung.
+Was
+für
+ein Bild stellt
+sich,
+sagst
+mir,
+euch in der Wohnung
+eines Menschen
+dar,
+der
+sich
+seinem Stande
+nach
+zu
+beschaulicher
+Einsamkeit
+bestimmt
+hat?
+Weiberröcke,
+Gürtel
+und Priesterhut
+hängen
+da nebeneinander
+an
+einer Wand.
+Im Zimmer ist
+das Weihrauchfass,
+Spinnrad
+und
+Spindel.
+Und
+dies ist
+der
+Schmuck einer Priesterwohnung!“
+„Jetzt
+stellen wir
+uns vor,
+die
+„geistliche Schwester“
+sei reich.
+Sie
+darf
+in
+nichts Mangel
+leiden,
+denn
+die
+feinsten
+Damen
+der
+Ge
+sellschaft
+sind
+nicht
+so
+anspruchsvoll,
+wie
+diese
+Mädchen,
+und
+der
+Priester
+muss
+sie mit allem versorgen!
+Wieviel Lauferei
+ist nötig,
+um
+sie
+zu befriedigen!
+Zuerst
+eilt
+er
+zum
+Silberwarenhändler,
+um
+zu er
+fahren,
+ob
+das Tischgeschirr
+fertig,
+ob
+der Spiegel für Damen zu ge
+brauchen
+sei,
+ob
+die Weinamphora
+oder
+das Fläschchen
+wohlriechenden
+Oele
+zur
+rechten
+Zeit zugestellt
+sein wird.
+Vorn Juwelier läuft
+er ins
+kosmetische
+Magazin,
+da
+diese Art
+von Damen
+die
+Schönheitsmittel
+lieben, und
+sie
+brauchen
+davon
+sehr verschiedenartige und teuere
+‘).
+Der
+Priester
+erklärt
+dem Verkäufer,
+welche
+von diesen
+seine Dame bevor
+zugt.
+Darauf
+kommen
+Stoff-
+und
+Teppichfabrikanten
+an
+die
+Reihe.
+Der
+ganze
+Tag
+des Priesters
+vergeht
+in Läufereien
+von
+einem
+Laden
+zum anderen.
+Seine
+Seele
+ist
+nicht
+mehr
+in
+der Kirche,
+sondern
+auf
+dem Markt!“
+„Aber
+da
+öffnet
+sich die Basilika.
+Wieviel
+neue
+Schmach,
+wie
+viel
+neue Skandalszenen
+treten
+uns
+da entgegen!
+Der Priester
+erwartet
+vor
+der
+Türe
+das
+Erscheinen
+seiner
+Dame,
+und
+wenn
+sie hindurch
+geht,
+so
+läuft
+er ihr
+voraus,
+wie ihr Eunuch
+oder
+ihr
+Pförtner.
+Er
+
+--- Page 160 ---
+134
+bahnt ihr
+den Weg,
+indem
+er
+die
+Menge
+mit den Schultern
+wegstösst,
+und
+bekommt
+längs
+des
+ganzen
+Weges
+die
+Spöttereien
+der
+Menge
+zu
+hören.
+Ja,
+es
+kommt vor,
+dass
+er deswegen
+nicht nur nicht
+errötet,
+sondern
+sich
+sogar
+etwas
+darauf einbildet.
+Wenn der Schauer erregende
+Augenblick
+des
+Sakramentes
+herannaht,
+so ist
+dem Priester seine Dame
+dabei
+behilflich.
+Er wendet
+ihr
+den Kopf zu
+und fragt
+sie
+gleichsam
+mit seinen
+Blicken
+um
+Rat.“
+„Diese
+Weiber
+haben
+die
+Sucht,
+sich
+in
+alles
+einzumischen,
+sie
+entscheiden
+in kirchlichen
+Fragen
+und säen
+überall
+Zwist.“
+„Das zweite Laster,
+von welchem
+die Geistlichkeit
+Konstantinopels
+angesteckt
+war, war
+die Gefrässigkeit,
+die
+Schlemmerei,
+die Sucht nach
+Leckerbissen
+und
+Gastgelagen,
+mit
+einem
+Wort
+der
+„Schlund“,
+wie
+der Autor sich
+drastisch auf lateinisch ausdrückt.
+Die Priester
+und die
+Diakonen
+führten
+in
+der
+Stadt
+der
+Ueppigkeit
+und
+des
+Genusses
+das
+üppigste und
+prunkvollste
+Leben.“
+Die Habsucht
+war
+das dritte und das allergefährlichste Laster der
+verkommenen
+Geistlichkeit!
+Nachdem
+Johannes
+Chrysostomus
+(gegen
+seinen Willen) Nachfolger
+des
+prachtliebenden
+Nektarius
+geworden
+war,
+der
+die
+Gebräuche
+eines
+grossen Aufwandes
+auf den bischöflichen Stuhl
+gebracht
+hatte
+und
+sich
+darin
+nicht
+von
+den
+städtischen
+Präfekten
+unterschied,
+machte
+er
+es
+sich
+von
+Anfang
+an
+zu
+einer
+Ehrensache,
+diesen Prunk zu vernichten“).
+„Er
+befahl,
+alle seidenen
+und goldenen
+Zierate.
+womit die Altäre
+der Basiliken
+bei
+seinem
+Einzug
+drapiert waren,
+alle Purpurstoffe
+und
+reichen
+Priestergewänder
+zu verkaufen’).
+Die prunkvollen
+Marmorver
+kleidungen
+und
+Monolitsäulen,
+die Nektarius
+zur Ausschmückung
+der
+Kirchen
+des Anastasius
+bestimmt
+hatte,
+und
+die in Erwartung
+des
+Architekten
+auf
+dem Boden
+herumlagen,
+wurden
+gleichfalls
+öffentlich
+versteigert.
+Er
+zerbrach
+und
+verkaufte
+die
+heiligen
+Kelche E'),
+die
+grosse
+Summen
+gekostet
+hatten,
+und wollte nur ganz einfache ') haben.“
+Den grössten
+Teil
+der Diakonen,
+die
+ein
+sehr
+weltliches Leben führten
+und
+die
+nicht
+selten
+die
+heiligen
+Orte
+und
+Altäre
+zur
+Stelle
+ihrer
+Liebesabenteuer machten,
+verurteilte
+er zu kirchlicher
+Busse
+und ent
+liess ihn ‘°).
+Dieser ganze Auszug
+aus
+dem Buche von Amedäe Thierry,
+„Der
+heilige Johannes Chrysostomus
+und
+die Kaiserin
+Eudoxia“
+entspricht so
+sehr
+der Beschreibung
+der
+grossen babylonischen
+Feste
+in der
+Apokalypse
+und
+die
+Rolle
+des grossen
+Propheten
+jener Zeit,
+des Jo
+hannes
+Chrysostomus, passt
+so gut zur Rolle des Verfassers
+der „Offen
+bamng in Gewitter
+und Sturm“,
+dass
+es eigentlich gar nicht
+am Platze
+wäre,
+einen
+anderen Autor zu suchen.
+Aber
+in der Voraussetzung,
+dass
+
+--- Page 161 ---
+135
+die
+meisten Theologen
+sich nicht ohne Vorurteil gegenüber
+meiner Unter
+suchung verhalten werden,
+wollen wir
+annehmen,
+dass alles dies
+noch
+erst
+bewiesen
+werden
+müsse.
+Wir wollen
+die Frage
+systematisch
+be
+handeln,
+so,
+als
+ob
+wir
+noch
+keine Hinweise
+auf
+die
+Persönlichkeit
+des Verfassers
+der
+Apokalypse
+hätten
+und
+auf Grund
+unserer
+astrono
+mischen
+Berechnungen
+nur
+wüssten,
+dass
+das Buch
+unter dem unmittel
+baren
+Eindruck
+des Gewitters
+verfasst ist,
+welches
+sich
+über Patmos
+am
+30.
+September
+395
+nach
+julianischem
+Kalender
+entlud,
+sowie
+des
+Erdbebens,
+das
+die Insel
+am gleichen Tage
+erschütterte.
+‘) Dieses ganze Kapitel
+wurde
+von mir bei Entlassung
+aus
+der Schlüsselburger
+Festung
+zum ursprünglichen
+Text
+des
+Buches
+hinzugefügt.
+') Amedäe
+Thierry:
+St.
+Jean
+Chrisostome
+et
+l'Impäratrice
+Eudoxie.
+1872.
+p.
+24
+etc.
+a) Malorum omnium
+metropolium
+avariciam:
+Palladius,
+Dialogus.
+p.
+18.
+‘) Intendit (Chrisostomus)
+sermonem
+adversus
+ﬁctam
+sororiam,
+ut vocant,
+vitae
+societatem,
+revera
+autem
+adversus
+inverecundam
+et improbam
+vitam
+cum mulieribus
+illis, quae dicuntur
+subintroductae.
+(Pallad,
+ibid.)
+") Hinc
+iterum
+ad
+unguentarium
+currit
+collocuturus
+de
+aromatibus
+dominae:
+uruntur
+autem
+virgines
+unquentis
+et
+variis
+et pretiosis.
+Chriscst.
+de
+Subintroductis,
+p. 242.
+’
+°) Thierry, p. 34.
+’)
+D.
+h.
+alle
+prächtigen
+Kleider
+der
+grossen
+apokalyptischen
+Feste:
+„Ganze
+Ladungen
+von Gold
+und
+Silber
+und Edelsteine
+und Perlen und
+feiner
+Leinwand
+und
+Seide
+und Purpur und Scharlach
+und Thujahölzern,
+sowie Kunstgegenstände
+aus Elfen
+bein
+und
+teuerem Holz, Erz,
+Eisen,
+Kupfer
+und
+Marmor“
+. . . „Zimmet
+und Räucher
+wcrk und Myrrhen und
+Weihrauch
+und Wein und
+Oel usw.“.
+') Den
+goldenen
+Becher
+der grossen
+Buhlerin.
+') A. Thierry, St. Jean
+Chrisostome,
+34.
+l°)
+Amed60
+Thierry,
+St. Jean
+Chrisostome
+et l’1mperatrice
+Eudoxie.
+
+--- Page 162 ---
+
+--- Page 163 ---
+V.Teil.
+Die Persönlichkeit
+des Verfassers
+der „Offenbarung
+in Gewitter und Sturm“.
+johannes
+Chrysostomus
+als Revolutionär
+und Volksmann.
+
+--- Page 164 ---
+Hauptquellen:
+Dialogus
+historicus
+Palladii
+episcopi
+Helenopolis
+cum
+Theodoro,
+ecclesiae
+Romanae
+diacono
+de
+vita.
+et
+conversatione
+beati
+Joannis
+Chrysostomi‚
+episcopi
+Constantinopolie.
+Emxga'rovg
+Epiao'ruzoö
+'Exxlqo‘aa0‘uxr‘;
+‘Io'zog/a.
+(Beide
+Bücher
+in
+der
+Ausgabe
+Patrologiae
+Cursus
+Completus.
+Patrologiae
+Graeeae
+tomus
+57.
+1858.)
+Das Leben
+der Heiligen.
+1852.
+Amedäe
+Thierry:
+St. Jean
+Chrysostome
+et l’impäratrice Eudoxie.
+Paris
+1872.
+Aimä
+Puech‚
+St.
+Jean
+Chrysostome
+et les
+moeurs
+de
+son temps.
+Paris
+1872.
+Murawjew:
+Die Geschichte der ersten vier Jahrhunderte des Christen—
+tums.
+1866.
+‘Eg‚uslou
+ZwCopevoi
+’Exxlqo'mo’nxr‘;
+'Io'rogfa.
+1858.
+
+--- Page 165 ---
+Die Hauptbedingungen,
+denen der Verfasser der „Offenbarung
+in Gewitter und Sturm“
+genügen
+muss.
+Die
+„Offenbarung in Gewitter
+und
+Sturm“
+gibt
+selbst
+eine
+ganze
+Reihe
+von
+Hinweisen
+auf die
+Persönlichkeit
+ihres Verfassers.
+Hier sind
+z. B.
+einige
+derselben:
+1. Der Verfasser
+hiess
+Johannes.
+2. Er lebte
+in Kleinasien
+oder
+in
+dessen Nähe.
+3. Er lebte
+am Ende
+des 4. Jahrhunderts.
+4. Im Jahre
+395 war
+er nicht
+besonders
+jung,
+weil
+er wie jemand
+schreibt,
+der
+in
+den
+sieben
+Städten
+Kleinasiens
+ein
+gewisses
+Ansehen
+genoss,
+aber
+auch
+nicht
+besonders
+alt, weil
+er zu jener Zeit
+noch
+seine
+ganze Einbildungskraft
+und Empﬁndung
+für
+die ihn umgebenden
+Natur
+erscheinungen
+besass.
+5. Er besass
+eine
+ausserordentliehe
+literarische Begabung und eine
+grosse
+Meisterschaft
+der Sprache,
+wie
+das
+aus
+dem
+„Wehklagen
+der
+Machthabenden
+über
+den
+Untergang
+der
+grossen
+Feste“
+und
+anderen
+Stellen
+seines Buches zu
+ersehen
+ist.
+6.
+Seine
+gewöhnliche
+Sprache
+war
+das
+Griechische.
+Seine
+Aus
+drucksweise
+bezeugt
+eine
+geübte
+Hand,
+und
+darum
+kann
+es
+nicht
+zweifelhaft
+sein,
+dass
+er
+nicht
+nur
+diese
+eine
+Schrift
+verfasst
+hat,
+sondern
+auch
+eine Reihe von
+anderen
+Büchern in griechischer
+Sprache,
+von
+denen
+unmöglich
+jede
+Spur
+aus
+der
+Geschichte
+verschwunden
+sein
+kann.
+7. Er
+stammt
+aus
+einer
+reichen
+Familie,
+da Edelsteine ihm eine
+so
+natürliche
+Sache
+sind,
+dass
+er
+sie
+ohne
+jede
+Erläuterung
+zur Be
+schreibung
+der
+verschiedenen
+Färbungen
+des
+Morgenhimmels
+und
+der
+Wolken
+verwendet,
+ohne
+sich
+darüber
+Rechenschaft
+zu geben,
+dass
+für
+die
+meisten
+Menschen
+die
+Benennungen
+dieser
+seltenen
+Dinge
+leere
+Worte
+ohne
+jede
+bestimmte
+Vorstellung
+sind.
+Diesen
+Fehler
+begehen
+gewöhnlich
+Schriftsteller,
+die
+von Kindheit
+an
+mit
+Dingen
+vertraut
+sind, die für
+andere
+eine Seltenheit
+darstellen.
+
+--- Page 166 ---
+140
+8. Er hat
+eine für
+seine Zeit
+glänzende
+Erziehung
+genossen,
+weil
+er
+tadellos
+die
+Astronomie
+beherrschte.
+Anzunehmen,
+dass
+er
+ein
+Fischer
+oder ein Hirt oder etwas Aehnliches war,
+wäre einfach lächerlich.
+9. Er war
+ein christlicher
+Theologe.
+'
+10. Er
+war
+ein
+Revolutionär
+und
+ein Republikaner,
+da
+er mit
+Donner und Blitz gegen die irdischen Herrscher wetterte. Nun waren aber
+in
+den
+ersten
+Jahrhunderten
+unserer
+Zeitrechnung
+die
+hervorragenden
+Schriftsteller,
+Dichter und Revolutionäre nicht so häuﬁg bei den Griechen,
+dass
+man
+sie
+lange
+suchen
+müsste,
+wenn
+ihr
+Namen,
+der
+Ort
+und
+die Zeit
+ihres
+Lebens
+genau
+festgestellt
+sind.
+Man
+kann
+mit Sicher
+heit
+sagen,
+dass,
+wenn
+nur
+einer
+von den kleinasiatischen
+Trägern
+des
+Namens
+Johannes
+am Ende des 4. Jahrhunderts
+allen diesen Forderungen
+entsprochen
+hätte,
+man alsdann
+nach keinem
+anderen
+zu suchen brauchte.
+So
+wandte ich
+mich
+dann,
+nachdem
+meine
+astronomische
+Berech
+nung, die
+das 395. Jahr
+ergab,
+beendet
+war,
+sofort der
+Geschichte
+der
+ersten vier Jahrhunderte
+des Christentums zu und stiess
+auch alsbald auf
+eine
+solche
+alte Berühmtheit,
+deren
+Namen
+bis
+auf unsere
+Zeit gelangt
+ist, auf den
+berühmten
+byzantinischen
+Volksmann,
+Redner und Schrift
+steller Johannes
+aus Antiochien,
+Chrysostomus
+oder Goldmund genannt.
+Alles
+in
+seiner
+Biographie
+entsprach
+den
+von
+mir
+aufgestellten
+Bedingungen.
+Es zeigte
+sich,
+dass er auch tatsächlich der Verfasser war
+und
+dass
+der tödliche Hass
+von
+seiten
+des byzantinischen
+Kaisers
+wie
+der des Klerus gegen ihn unmittelbar im Zusammenhangs
+mit der Veröffent
+lichung dieses Buches
+stand.
+Hier folgt in Kürze
+seine Biographie, die ich
+hauptsächlich auf Grund
+alter griechischer Erzählungen
+über
+seine Per
+sönlichkeit
+zusammenstellte.
+Wie
+arm
+und
+einseitig diese Quellen auch
+sind:
+ihr historischer
+Gehalt
+genügt vollkommen,
+um
+die
+Richtigkeit
+meiner
+Vermutung
+zu bestätigen,
+dass
+er
+der wahre Verfasser
+des
+von
+uns
+behandelten
+Buches
+vom
+Ende
+des 4. Jahrhunderts
+ist‘).
+‘)
+Nach
+der Durchsicht
+anderer
+ausländischer
+Biographien
+des
+Johannes
+seit
+meiner
+Befreiung
+aus
+der
+Schlüsselburger
+Festung
+kann
+ich jetzt
+nur
+hinzufügen,
+dass
+diese
+mir
+nur
+noch
+neue
+Bestätigungen
+für meine
+Ansicht
+geliefert
+haben (nachträg
+liche
+Bemerkung).
+
+--- Page 167 ---
+141
+Die
+Legenden
+der Kindheit und Jugend
+des Johannes
+von
+Antiochien vor
+dem
+Erscheinen
+der
+„Offenbarung“.
+Johannes
+Chrysostomus,
+der
+berühmte
+byzantinische
+Revolutionär
+und
+Gegner
+der
+zu
+seiner
+Zeit
+herrschenden
+Staatskirche
+(der
+nach
+seinem
+Tode
+auf
+uns
+unbekannte
+Weise
+zu
+ihrem
+eigenen
+Heiligen
+erhoben
+wurde) ist im Jahre 354
+oder
+355,
+d.
+h. 41 Jahre vor
+dem Er
+scheinen
+der
+„Offenbarung
+in
+Gewitter
+und
+Sturm“
+l),
+geboren.
+Seine
+Eltern
+waren Heiden,
+sehr
+reiche
+Leute,
+und
+gehörten
+dem
+höheren
+Stande
+an.
+Sie
+gaben
+ihm
+eine
+für
+jene
+Zeit
+glänzende
+Erziehung.
+Sein Vater
+war
+Ofﬁzier
+mit
+dem Namen Sekundus,
+seine
+Mutter
+hiess
+Anphusa
+2).
+Sie
+wohnten
+im
+syrischen
+Antiochien,
+in
+der Nähe
+der
+Mündung des Flusses Orontes‚
+der sich unweit vom südlichen Ufer Klein
+asiens
+in
+den kyprischen
+Meerbusen
+ergiesst,
+und
+besassen
+dort grosse
+Ländereien.
+Nachdem Johannes herangewachsen
+war, wurde er zuerst dem Sophi
+sten Libanius
+und
+dem Philosophen Andragaphius‘)
+übergeben,
+um
+von ihnen in der Astrologie, Mathematik, Geographie und allen damaligen
+Wissenschaften
+unterrichtet
+zu
+werden.
+Nach
+den
+Mitteilungen
+des
+Libanius
+wurde er im Jahre 370
+durch Meletius‘),
+damaligen
+Bischof
+von Antiochien,
+der von der christlichen Kirche seiner
+Zeit nicht
+aner
+kannt war,
+zum
+Christentum
+bekehrt.
+Nach
+anderen
+glaubwürdigeren
+Quellen
+nahm
+Johannes
+nach
+dem
+Tode
+seiner
+Mutter,
+im Alter von
+23 Jahren
+das Christentum
+an.
+Sein Vater
+starb,
+als
+Johannes
+noch
+nicht
+ganz
+5
+Jahre
+alt
+war,
+und
+liess
+dessen
+Mutter
+Anphusa
+als
+ganz junge Witwe zurück.
+Sie war kaum 20 Jahre
+alt und hatte ausser
+Johannes
+keine anderen
+Kinder.
+Als er das achtzehnte Jahr erreicht hatte (also ungefähr im Jahre 372,
+als
+die
+herrschende
+Kirche
+noch
+arianisch war),
+begab
+sich Johannes
+nach
+Athen,
+um
+in
+der
+dortigen
+berühmten
+Schule
+seine
+Bildung
+zu
+vollenden.
+Diese Schule war heidnisch und
+in ihr wurden alle Wissen
+schaften
+jener Zeit in vollem Umfange vorgetragen.
+Wie lange Johannes
+dort
+geblieben,
+ist
+unbekannt.
+Wir
+wissen
+nur,
+dass
+er,
+nachdem
+er
+den Lehrgang
+mit
+glänzendem
+Erfolg
+beendet
+hatte,
+wieder
+nach An
+tiochia
+zurückkam,
+im
+Besitz
+der
+ganzen
+Summe
+des Wissens
+jener
+Zeit,
+aber,
+wie
+es
+scheint,
+mit
+betrübtem
+Herzen und mit
+der Neigung
+zum
+Mystizismus,
+die sich auf diesem
+Boden
+entwickelt
+hatte.
+
+--- Page 168 ---
+142
+Diese
+Neigung
+hat
+ihn
+wahrscheinlich
+auch
+dazu
+veranlasst,
+im
+23.
+Lebensjahre
+zum
+christlichen Glauben
+überzutreten,
+indem
+er
+den
+Ermahnungen
+seines Jugendfreundes,
+eines
+gewissen Basilius,
+nacbgab,
+der in
+sehr jugendlichem Alter
+zum christlichen Bischof
+ernannt
+worden
+war.
+Worin
+seine Enttäuschung
+bestand,
+ist schon daraus
+nicht
+schwer
+zu erraten,
+dass seine byzantinischen Biographen darüber gänzlich schwei
+gen.
+Er befand
+sich
+damals
+in dem Alter, in
+welchem
+für jeden
+unver
+krüppelten
+Menschen
+das
+Bedürfnis
+nach
+Liebe
+sich
+meldet
+und
+zu
+gleicher Zeit auch der Gegenstand
+erscheint,
+auf welchen
+sich diese richten
+musste.
+Wahrscheinlich
+war dies
+auch
+mit Johannes in Athen der Fall.
+Es
+ist
+sehr
+möglich,
+dass
+der
+unerwartete Tod
+eines
+geliebten
+Mad
+chens
+diesen
+plötzlichen
+Drang
+zum
+Mystizismus
+und
+nach
+Askese bei
+ihm
+hervorgerufen
+hat und
+ihn zur Annahme
+des
+christlichen Glaubens
+führte,
+der
+ihm
+ein Wiedersehen nach
+dem Tode in Aussicht
+stellte.
+Dieser
+Drang
+war
+so
+stark,
+dass
+Johannes
+sich
+sofort
+auf
+die
+Berge
+in
+eines
+der
+dortigen
+Klöster
+zurückziehen
+wollte.
+Indessen
+gelang
+es
+seiner
+Mutter,
+ihn
+von
+diesem
+Entschluss
+abzulenken.
+Bald
+darauf jedoch
+starb
+seine Mutter,
+und
+so blieb für ihn
+keine Abhaltung
+mehr.
+Johannes
+verteilte
+sein
+ganzes
+Vermögen
+an
+Bedürftige,
+liess
+alle seine Sklaven
+und
+Sklavinnen
+frei
+und
+begab
+sich
+in eine
+der
+ein
+samen
+Wüsten
+unweit
+von
+Antiochia
+in
+die
+Berge,
+wahrscheinlich
+nach
+Kleinasien,
+das
+an diese Stadt
+grenzte.
+Alles
+dies
+ereignete
+sich
+fast
+17 Jahre vor
+dem Erscheinen
+der
+„Offenbarung in Gewitter
+und
+Sturm“,
+um
+das Jahr
+378,
+als Johannes
+ungefähr 24 Jahre
+alt war.
+Zu
+dieser Zeit
+war die
+herrschende
+Staats
+kirche im byzantinischen Reiche immer noch die arianische.
+Die Gruppe
+der
+Origeniten,
+für
+die Johannes
+nach
+seiner
+hohen
+Bildung
+eine
+be
+sondere
+Vorliebe
+haben
+musste“),
+hatte
+sich
+noch
+durch
+nichts
+vor
+anderen
+Gruppen,
+die
+nicht
+der
+herrschenden
+Kirche
+angehörten,
+aus
+gezeichnet.
+Sehr wahrscheinlich
+ist,
+dass
+die Anhänger
+des
+Origenes
+damals
+noch
+in
+guten
+Beziehungen
+zu
+den
+„Nikolaiten“
+standen,
+die
+auf
+dem
+Konzile
+zu
+Nicäa
+die
+Gleichheit
+Jesu
+mit
+Gott
+verkündigt
+hatten,
+obwohl
+die
+herrschende
+arianische
+Kirche
+über
+diese
+letztere
+Partei
+schon
+mehrfach
+den Kirchenbann
+verhängt
+hatte,
+während die
+Origeniten
+noch
+unbehelligt
+waren.
+Aus
+dieser
+Periode
+seines
+Lebens
+stammen,
+wie
+man
+annimmt,
+verschiedene
+von
+ihm geschriebene
+Bücher,
+z. B.
+das Buch
+vom
+„Leid
+des
+Herzens“
+und
+ein
+zartes
+ermunterndes
+Sendschreiben
+„An
+den
+ge
+fallenen Mönch Theodor“.
+Inwiefern
+diese Bücher
+echt
+und
+durch die
+Abschreiber nicht verdorben
+sind,
+die im übrigen aber sehr gut zu seinem
+zarten
+und
+offenbar
+ganz
+zerschlagenen
+Herzen
+passen,
+ist schwer
+zu
+
+--- Page 169 ---
+143
+sagen,
+weil
+diese
+ganze
+Periode
+seines
+Lebens
+mit
+legendarischen
+Er
+zählungen überfüllt
+ist.
+Man erzählt
+z. B.,
+wie
+ein in
+derselben
+Ein
+samkeit lebender,
+sehr „durchtriebener“ Greis
+He_ s ychius
+beobachtete,
+dass
+nachts,
+als
+alles
+übrige
+schlief,
+zwei
+Männer
+ins
+Zimmer
+zum
+Johannes
+schlichen.
+Einer
+von
+ihnen
+gab
+ihm
+eine
+Papyrusrolle
+und
+sagte:
+„Nimm
+diese Rolle
+aus
+meiner
+Hand!
+Ich
+bin
+Johannes,
+der
+beim
+Abendmahl
+an
+der
+Brust
+des Herrn
+lag.
+Von
+dort
+bekam
+ich
+die
+göttliche „Offenbarung“
+(griechisch = Apokalypsis).
+Gott
+gibt
+dir
+daraus
+die
+ganze
+Wahrheit
+zu
+erkennen,
+damit du
+die
+Menschen
+mit
+der unvergänglichen
+Sprache
+und
+Weisheit
+sättigst
+und
+die ketze
+rischen
+und
+jüdischen
+"‘)
+Mäuler
+stopfest,
+die Gesetzwidriges
+gegen
+un
+seren Gott
+reden.“
+Weiter folgen in den byzantinischen Urkunden
+aus
+dem Mittelalter,
+unseren
+einzigen
+Quellen
+"),
+alle gewöhnlichen sog. Heldentaten,
+die nach
+der
+Meinung
+der
+alten
+christlichen
+Geschichtsschreiber
+für
+die
+Rolle
+eines Propheten unerlässlich
+sind,
+so: Heilung
+eines Auges,
+das monate
+lang auf der Wange
+eines
+guten
+Menschen
+heraushing;
+ferner,
+die auf
+mysteriöse
+Weise
+erfolgte
+Tötung
+eines
+menschenvertilgenden
+Löwen,
+dem
+niemand
+mit einer Waffe hatte den Garaus
+machen können — mit
+einem Wort,
+eine ganze Sammlung aller möglichen unglaubwürdigen
+Erzählungen.
+Uebrigens
+sind
+diese
+viel
+besser
+als die mit ihnen ver
+mischten
+glaubwürdigen Erzählungen,
+d.
+h.
+der Wahrheit
+ähnlichen
+Erdichtungen,
+weil
+die
+letzteren
+in
+einigen
+Fällen
+von
+tatsächlichen
+Geschehnissen
+fast gar nicht
+zu
+unterscheiden
+sind.
+Die
+soeben
+ange
+führte Erzählung
+über
+den
+Besuch,
+den Johannes
+von
+einem
+anderen,
+viel älteren Johannes empﬁng,
+habe ich absichtlich
+fast in ihrem
+ganzen
+Umfange
+hier
+angeführt,
+weil
+sie
+gewissermassen
+ein
+Nachklang
+der
+einst
+herrschenden
+Meinung
+ist,
+nach
+der
+die
+„Offenbarung in Gewitter
+und Sturm“,
+wenn
+sie
+auch
+durch
+Johannes
+von
+Antiochia
+veröffent
+licht
+ist,
+doch
+tatsächlich
+einem
+anderen,
+grösseren
+Johannes,
+dem
+Fischer
+des
+„Sees
+von
+Genezareth“,
+gehört
+habe.
+Wir
+sehen
+hier
+gewissermassen
+das Ende
+der Brücke,
+auf
+der im
+fünften
+Jahrhundert
+der Uebergang
+von
+einem
+Johannes
+zum
+anderen
+gemacht wurde:
+zu
+erst
+wurde Johannes
+von
+Antiochia
+nicht
+zum
+selbständigen
+Verfasser
+der Apokalypse,
+sondern
+nur
+zu
+ihrem Ueberlieferer
+oder
+sogar
+zum
+Plagiator
+des
+Buches
+gemacht,
+das in Wirklichkeit
+dem unmittelbaren
+Schüler
+Christi
+zugehört
+haben
+sollte,
+dann
+aber
+wurde,
+um
+keine
+Zweifel
+an
+der
+Echtheit
+des
+Buches
+zu
+erwecken,
+die
+Vermittelung
+des
+zweiten Johannes
+ganz
+verschwiegen.
+Aber
+darüber
+werden
+wir
+später
+bei
+der Beschreibung
+der
+letzten Verfolgungen
+des Johannes noch
+handeln.
+
+--- Page 170 ---
+144
+Vier Jahre verbrachte
+Johannes
+in seinem Bergkloster
+in ununter
+brochener
+Beschäftigung
+mit
+wissenschaftlichen Arbeiten
+und
+theolo
+gischen
+Betrachtungen.
+Er lebte
+weit
+von
+der
+lärmenden
+Welt, wo zu
+jener Zeit
+sehr
+wichtige Veränderungen
+und
+Ereignisse
+sich
+abspielten.
+Im
+ersten Jahre
+seines Verweilens
+im Kloster
+starb der Kaiser Valens
+(364—373),
+und mit seinem Tode liess
+der Einﬂuss
+der Arianer
+bei Hofe
+nach.
+Wodurch
+sie
+sich
+die Ungnade
+des
+neuen Kaisers Theodosius
+zugezogen
+haben,
+ist unbekannt.
+Jedenfalls
+begann
+dieser,
+sich offen
+kundig
+auf die Seite ihrer Feinde,
+der Nikolaiten,
+zu stellen.
+Im dritten
+Jahre
+seiner
+Regierung
+rief
+er
+das
+sog. zweite,
+d.
+h.
+das
+konstanti
+nopolitanische Konzil (381)
+gegen
+den
+damaligen
+Bischof von Konstanti
+nopel,
+Macedonius,
+zusammen.
+Dieser oberste
+Prälat bekannte,
+ent
+sprechend
+seinem
+arianisehen
+Glauben, dass Jesus
+nur ein gottähnliches
+Wesen
+sei.
+Er erblickte
+im
+heiligen Geist
+(d.
+h. in der heiligen Ein
+gebung,
+die
+den Menschen
+den Verstand
+und
+die schöpferische
+Tätigkeit
+des
+Denkens
+gibt)
+ein
+einfaches
+Werkzeug
+Jesu
+und
+ein Mittelwesen
+zwischen Gott
+und
+Mensch.
+Das Konzil
+(das,
+wie man
+annimmt,
+nur
+von
+den Vertretern
+der
+östlichen
+Kirche besucht
+war,
+ohne
+die
+west
+lichen,
+die
+von Rom abhängig waren)
+verdammte
+diese
+arianische
+Lehre
+und.
+mit ihr auch die Gruppe der „Apomäer“,
+Anhänger des Ascius und
+Eunomius,
+die
+behaupteten,
+dass Jesus
+dem Gott-Vater
+nur ähnlich
+sei.
+Auf diesem Konzil
+wurde auch,
+wie man
+behauptet,
+das gewöhn
+liche
+Glaubensbekenntnis
+festgestellt,
+das
+für
+jeden
+rechtgläubigen
+Christen
+massgebend
+ist, und
+wurden noch einige
+Vorschriften gegeben,
+deren
+Anzahl
+aber
+von
+verschiedenen
+alten
+Schriftstellern
+verschieden
+angegeben
+wird.
+Johannes
+war,
+nebenbei
+bemerkt,
+zu
+diesem Konzil
+nicht
+einge
+laden
+oder
+ist
+selbst
+nicht hingefahren,
+obwohl
+er schon ein bekannter
+christlicher
+Schriftsteller
+und
+hervorragender Prediger
+war
+und
+diesem
+Konzil
+nicht nur ganz
+unbedeutende
+Presbyter,
+sondern
+sogar Diakonen
+beiwohnen durften.
+Wie stellte
+er
+sich
+nun
+zu
+den Aenderungen
+und
+Grunddogmen
+der
+christlichen
+Religion,
+die
+auf
+diesem
+Konzil
+ver
+kündigt
+wurden?
+Bei
+der Durchsicht
+der
+auf uns
+gekommenen
+Quellen und Doku
+mente
+ﬁnden
+wir,
+dass
+er
+um
+diese Zeit
+oder
+etwas
+später
+heimlich
+aus
+seinem Kloster
+geﬂohen
+war.
+In
+der Tat,
+wenn
+wir als
+das glaub
+würdigste Datum
+seiner Geburt
+das Jahr 354
+annehmen,
+wie dies in den
+„Mineen“
+angegeben
+ist,
+wenn
+wir
+ferner
+berücksichtigen,
+dass
+er
+im Alter
+von
+18 Jahren
+nach
+Athen
+zur
+Vollendung
+seiner
+Bildung
+ging,
+wo
+er
+etwa
+4 Jahre weilte,
+und
+dass ungefähr nach
+einem Jahre
+seine Mutter
+starb,
+so kommen
+wir direkt
+zum Jahre 377,
+als zu dem
+
+--- Page 171 ---
+145
+jenigen,
+wo
+er zum Christentum
+übertrat
+und
+sich
+von
+der Welt in ein
+Kloster
+zurückzog.
+Wenn wir zu dieser Jahreszahl
+die vier Jahre
+hinzu
+fügen,
+die Johannes
+nach
+dem Berichte
+der Historiker
+im Kloster
+zu
+gebracht
+hat,
+so
+kommen
+wir
+zu
+dem Ergebnis,
+dass
+seine Flucht aus
+dem Kloster
+im
+bedeutungsvollen Jahr
+381
+stattfand,
+in welchem das
+Konzil
+zu Konstantinopel
+die
+nikolaitische
+Religion
+zur
+herrschenden
+machte
+und das „Arianertum“
+verdammte.
+Im selben Jahre ')
+ernannte,
+wie erzählt
+wird,
+der Gegner der Staatskirche,
+der Bischof Meletius in
+Antiochia,
+den Johannes
+zu seinem
+Diakon.
+Seine
+byzantinischen
+Biographen
+machen
+natürlich
+diese
+für
+sie
+unbequeme
+chronologische Aufstellung
+nicht.
+Sie
+sagen:
+Nachdem er
+vier Jahre in diesem Kloster
+verweilt
+hatte,
+entfernte
+sich Johannes,
+der
+sich nach
+einem
+lautlosen Dasein
+sehnte, heimlich in
+die Wüste,
+und
+als
+er
+eine
+Höhle
+gefunden
+hatte,
+wohnte
+er
+in ihr und
+blieb
+da
+selbst zwei Jahre,
+ganz in Betrachtungen
+über Gott") versenkt.
+Aber der
+gesunde
+Verstand
+sagt
+einem
+einfach,
+dass für
+die frag
+liche Flucht des Johannes
+aus
+dem Kloster
+sofort nach
+dem allgemeinen
+Konzil,
+zu
+dem
+er nicht
+eingeladen
+war,
+schwerwiegende
+Gründe
+vor
+gelegen haben müssen.
+Unsere Zusammenstellung der verschiedenen
+Daten
+und Begebenheiten
+zeigt deutlich,
+dass
+die Flucht
+des Johannes
+in Ver
+bindung
+mit
+den
+Veränderungen
+stand,
+die in
+der christlichen
+Kirche
+und
+sogar
+in
+der Religion
+selbst
+zur Zeit
+des Regierungsantritts
+des
+Theodosius
+vor
+sich
+gegangen
+waren.
+Vor
+diesem
+Ereignis,
+vzur Zeit
+der Herrschaft
+der Arianer,
+gehörten
+die Bewohner
+des Klosters
+von
+Johannes
+wahrscheinlich
+zu
+den Verfolgten,
+wie alle Nichtarianer.
+Nach
+dem Regierungsantritt
+des Theodosius
+hingegen,
+als alles in die entgegen
+gesetzte
+Richtung
+umschlug,
+hätten
+sie
+sich
+leicht
+auf die Seite der
+Nikolaiten
+stellen können,
+die jetzt
+am
+Ruder
+waren.
+An
+der
+Spitze
+dieser
+Partei
+stand
+aber
+damals,
+wie wir
+dies
+später
+sehen werden,
+der
+schlimmste Gegner des Johannes: Theophilus
+von
+Alexandrien.
+Schliesslich
+wandelten
+sich
+die
+verfolgten
+Glaubensgenossen
+des
+Johannes
+plötzlich
+(im Jahre 381)
+selbst
+in Verfolger
+und Verdammer
+um-
+Bis
+zum
+Regierungsantritt
+des
+Theodosius
+und
+dem
+Konzil
+in
+Konstantinopel
+tadelten sie
+selbst
+die Arianer
+für
+das Bündnis
+mit
+der
+weltlichen
+Macht
+gegen
+die
+übrigen christlichen
+Parteien
+und drückten
+wahrscheinlich
+ihren
+Vorwurf,
+wie
+immer
+in
+ähnlichen
+Fällen,
+in
+prinzipieller
+Weise
+aus,
+indem
+sie
+die arianische Partei,
+„die
+grosse
+babylonische
+Feste“
+nannten;
+jetzt
+hatten
+sie
+selbst
+deren
+Stelle
+ein
+genommen.
+Personen
+mit
+unentwickeltem
+moralischem
+Gefühl
+ﬁnden
+Morosow.
+Die Offenbarung
+Johannls.
+10
+
+--- Page 172 ---
+146
+sofort
+in
+ähnlichen
+Fällen
+Gründe
+für
+ihre
+Rechtfertigung
+und
+ver—
+gossen
+alles,
+was
+sie früher
+gesagt
+haben.
+Aber Johannes
+gehörte
+allem
+Anschein
+nach
+nicht zu ihnen.
+Er
+hatte eine
+und" dieselbe Moral
+für
+andere
+wie für sich,
+und darum
+blieb
+ihm bei
+diesem
+plötzlichen Umschwung
+nichts anderes
+übrig,
+als,
+nach
+dem
+er
+alle Gründe
+erschöpft
+und immer wieder
+an
+die
+stattgehabten
+Angriffe
+gegen jedes
+Bündnis
+mit
+der weltlichen
+Macht erinnert hatte,
+sich
+von
+allen seinen
+früheren Genossen
+ohne
+ein Wort
+des Abschieds
+zu
+trennen.
+Die Geschichte
+seines
+zweijährigen
+Aufenthalts
+in
+der Wüste
+in
+einer
+bis
+heute
+unbekannten
+Höhle
+ist, wie
+sich denken
+lässt,
+eine eben
+solche
+Legende,
+wie
+die
+hundert
+anderen,
+mit
+denen
+sein
+Leben
+an
+gefüllt
+ist.
+Wenn
+eine
+solche Höhle
+existierte,
+so wäre sie
+schon längst
+ein Wallfahrtsort_der
+Gläubigen
+geworden.
+Ausserdem
+gehörte
+Johannes,
+dieser
+feurige
+und glänzende
+Prediger,
+nicht zu denen,
+die vor der Welt
+davonlaufen.
+Auch
+ﬁnden
+wir für dieses Anachoretentum
+in der Chrono
+logie
+seines
+Lebens
+keine
+entsprechende
+Zeit.
+Bei
+der
+Zusammen
+stellung
+aller
+uns
+bekannten
+Begebenheiten
+kommen
+wir zu
+dem End
+ergebnis,
+dass
+er
+aus
+dem Kloster
+direkt
+nach
+Antiochia
+zum
+Bischof
+Meletius,
+dem
+Anhänger
+des
+Origenes,
+geﬂüchtet
+ist,
+der
+ihn
+im
+gleichen
+381.
+Jahre,
+d. h. bald nach
+dem Konzil zu Konstantinopel
+10),
+zu seinem
+Diakon
+ernannte.
+In Antiochia,
+das
+nach
+Bedeutung
+und
+Grösse
+die
+dritte Stadt
+des
+byzantinischen
+Reiches
+war,
+herrschte
+zu
+jener
+Zeit
+unter
+den
+Christen
+eine
+grosse
+Spaltung.
+Ein Teil
+von
+ihnen
+gehörte
+zu
+der
+da—
+mals im byzantinischen Reich herrschenden Partei
+der Nikolaiten
+und stand
+mit deren
+formellem Oberhaupt,
+dem Papst, in Verbindung.
+Sie hatten
+ihren
+eigenen,
+den
+einzigen
+orthodoxen
+Bischof
+in Antiochia,
+zuerst
+Paulinus
+und
+nachher
+den Evagrius.
+Zur Zeit der Rückkehr
+des Jo
+hannes
+predigte
+im
+Tempel
+des
+Paulinus
+der
+bekannte
+Gegner
+der
+Origeniten
+und
+persönliche
+Feind
+der
+Johannes,
+Hieronymus
+der
+Selige,
+der schon im Jahre 379 zum Presbyter des Paulinus ernannt war.
+Die andere Partei
+der antiochenischen
+Christen erkannte
+weder Pau
+linus
+noch
+Hieronymus
+an
+und
+wählte
+sich ihre
+eigenen
+Bischöfe,
+die
+nicht zur herrschenden
+Kirche
+gehörten,
+und die
+der Zugehörigkeit
+zum
+Origenitentum beschuldigt wurden.
+Ihr Führer
+war zuerst Meletius“)
+und später Flavianus.
+Der
+letztere
+wurde
+sogar
+nach
+Rom
+befohlen,
+um
+sich gegen
+die Anklage
+der Ketzerei
+zu verantworten,
+aber
+er weigerte sich,
+dem Befehle Folge
+zu leisten,
+da
+er
+den Papst
+nicht als seinen Obersten
+anerkennen
+wollte.
+Zu ihnen, d. h.
+zu Meletius
+und
+seinem Nachfolger
+Flavianus,
+und
+
+--- Page 173 ---
+147
+nicht
+zum
+orthodoxen
+Paulinus,
+zog Johannes,
+nachdem
+er sich
+zwei
+Jahre
+an unbekannten
+Orten
+aufgehalten
+hatte.
+Meletius
+ernannte
+ihn
+zu
+seinem
+Diakon
+und
+Flavianus
+im Jahre 386
+zum Presbyter").
+Die Tätigkeit
+eines Presbyters,
+besonders
+eines von der Opposition,
+zu
+der Johannes
+gehörte,
+war
+zu jener Zeit nicht nur eine rein formelle,
+wie
+sie
+dies
+jetzt
+in den orthodoxen Kirchen
+ist.
+Sie bestand
+haupt
+sächlich
+in
+Unterweisungen
+nicht
+nur
+religiöser,
+sondern
+oft
+auch
+wissenschaftlicher Art
+und
+in
+der
+Polemik
+mit
+den
+Gegnern,
+unter
+denen in Antiochia,
+wie wir dies
+schon
+früher erwähnt
+haben,
+Hierony
+mus
+der
+Selige
+die
+Hauptrolle
+spielte.
+Unter
+den Reden,
+die
+dem
+Johannes
+zugeschrieben
+werden,
+ﬁnden
+wir
+z.
+B.
+solche,
+welche
+Physiologie,
+Astronomie
+u. dgl. behandeln.
+Aber nicht der Inhalt wurde
+am
+meisten
+von den Zuhörern bewundert,
+sondern
+dass
+er seine Rede
+frei hielt
+und
+sie nicht
+aus
+einer
+Niederschrift
+ablas.
+„Vor
+ihm hatte
+man
+in jener Stadt
+weder
+gesehen
+noch
+gehört (man
+bemerke
+wohl in
+einer
+Hauptstadtl),
+dass
+man
+ohne
+Buch
+oder
+Handschrift
+das
+Wort
+Gottes gepredigt
+hätte.
+Er war
+der
+erste
+der Prediger
+1“)
+dieser
+Art.“
+Wenn wir seine Reden in den modernen
+Ausgaben lesen,
+so müssen
+wir
+vor
+allem
+den
+folgenden
+wichtigen
+Umstand berücksichtigen:
+Da
+es mit den griechischen
+Buchstaben nicht nur unmöglich ist, stenographisch
+überhaupt
+rasch
+zu schreiben,
+so sind alle Proben
+seiner Reden,
+die in
+den Werken
+der
+mittelalterlichen
+Mönche
+auf
+uns
+gelangt
+sind,
+als
+Fälschungen
+zu
+betrachten
+oder
+als
+solche,
+die
+später
+aus
+dem
+Ge
+dächtnis
+von
+einem
+der Zuhörer
+aufgeschrieben
+sind.
+Es haben
+sich in
+ihnen wohl nur
+die Themata
+erhalten,
+alles
+übrige stammt
+von den Ver
+fassern
+und
+Korrektoren,
+oder
+diese
+haben
+doch
+jedenfalls
+viele
+Stellen
+neu
+eingefügt
+und
+Veränderungen
+mit
+ihnen
+vorgenommen.
+Die
+alten
+mönchischen
+Abschreiber
+fremder
+Handschriften
+konnten sich
+nämlich niemals
+enthalten,
+Korrekturen
+mit jenen
+vorzunehmen,
+sobald
+es
+sich
+um
+eine
+religiöse Ansicht
+der Verfasser
+handelte.
+Alles,
+was
+ihnen
+bei den von ihnen verehrten
+Autoren
+nicht ganz
+orthodox erschien,
+wurde
+nach
+eigenem
+Ermessen
+umgedeutet
+und
+in
+entstellter Form
+als
+das
+ihrige
+herausgegeben
+oder
+es
+wurde
+einfach
+beim
+Abschreiben
+weggelassen,
+als
+ob
+es
+vom
+vorhergehenden
+Abschreiber
+hinzugefügt
+wäre,
+und
+durch eigene
+Betrachtungen,
+oftmals
+von
+ganz
+entgegen
+gesetztem
+Sinne, ersetzt.
+Trotz
+alles
+Misstrauens jedoch,
+das wir der Echtheit oder Identität
+aller
+seiner
+Reden
+und
+überhaupt allen
+Reden des Altertums
+entgegen
+bringen
+-—
+schon
+der
+Beiname
+„Goldmund“
+allein
+bezeugt
+genügend,
+dass
+sich alle.
+seine
+Reden
+durch
+eine
+zu
+jener
+Zeit
+ungewöhnliche
+hinreissende Kraft
+auszeichneten.
+
+--- Page 174 ---
+148
+Jedesmal,
+wenn
+in Antiochia
+bekannt wurde,
+dass Johannes
+reden
+würde,
+verliessen
+alle
+seine
+Anhänger
+ihre Beschäftigungen
+und
+liefen
+zu
+ihm
+in
+die Kirche.
+Aber
+daraus
+folgt
+noch
+nicht,
+dass Johannes
+besonders klar und
+volkstümlich
+gesprochen
+hätte.
+Im Gegenteil:
+seine
+Rede
+zeichnete
+sich
+durch
+dieselbe
+Eigenart
+aus,
+die wir
+so
+deutlich in
+der „Offenbarung in Gewitter
+und
+Sturm“
+kennen
+gelernt
+haben.
+Für
+sie
+ist
+immer
+ein
+gewisser
+dichterischer
+Schwung,
+gemischt
+mit
+für
+einen
+Uneingeweihten
+unverständlichen Allegorien,
+charakteristisch,
+die
+trotzdem
+durch ihre unerwartete Art
+Staunen
+verursachten.
+Darin
+sind
+alle
+einig,
+dass
+seine
+Reden
+sich
+durch
+eine
+merk
+würdige
+Vielseitigkeit
+auszeichneten.
+In
+bezug
+auf die
+sozialen
+Fragen
+war
+er
+sicher
+sehr
+radikal
+und
+neigte
+stark
+zum
+Sozialismus.
+Er hat,
+sagt
+einer
+der
+neuesten
+französischen
+Historiker“),
+über
+die Ursache
+der
+Ungleichheit
+der
+Menschen
+Gedanken
+ausgesprochen,
+in
+denen wir
+mit Verwunderung
+eine
+grosse
+Aehnlichkeit
+mit den Ideen Rousseaus
+ﬁnden.
+„Alles Uebel kommt von
+diesem
+kalten Wort
+‚mein
+und dein“
+(der
+erste Brief an Timotheus,
+12).
+Der Herkunft
+und
+der Natur
+nach
+sind
+alle
+Menschen
+gleich,
+sie
+haben
+die
+gleichen
+Bedürfnisse
+und
+die
+gleichen Rechte.
+Der
+kommunistische
+Zustand ist infolgedessen
+natür
+licher
+als
+das
+Eigentum.
+Niemand streitet
+über
+das,
+was Allgemein
+gut ist:
+weder
+über
+die
+Sonne
+noch
+die Luft
+noch
+wegen
+des Wassers,
+die alle mit
+dem gleichen Recht
+benützen.
+Es gibt keinen Streit
+über
+öffentliches
+Besitztum,
+um
+Plätze,
+Tore
+und
+Bauten,
+auf
+die alle
+das
+gleiche Recht
+haben.
+In
+dieser
+Stellung
+eines
+berühmten
+Predigers
+bei
+dem
+von der
+Kirche
+nicht
+anerkannten Flavianus
+verblieb Johannes
+bis
+zum
+Jahre
+387.
+Und nun
+gerade,
+einige Monate
+nach
+der Ernennung
+dieses
+„Volksführers“
+zum
+Presbyter
+in
+der
+oppositio
+nellen Kirche
+des Flavianus
+erhebt
+sich
+die Bevölkerung
+Anti
+ochias
+gegen
+den
+politischen
+und
+religiösen Despotismus
+von
+Byzanz,
+zerschlägt
+auf
+den
+Plätzen
+der
+Stadt
+die
+Standbilder
+des
+damaligen
+Kaisers
+Theodosius
+nebst
+seiner
+zu jener
+Zeit
+schon
+gestorbenen
+Ge
+mahlin Flakilla und seiner
+Kinder,
+der Thronerben Arkadius
+und
+Honorius!
+Der
+erzümte
+Theodosius
+sandte
+sofort
+seine
+Mannschaften
+nach
+Antiochia,
+und es begannen
+Folterungen
+und Gewalttaten.
+Die
+Mehrzahl
+der
+Einwohner
+lief in
+die Umgegend, und an
+deren
+Stelle
+strömten
+die
+oppositionellen,
+zu jedem Opfer
+bereiten
+Geister
+aus
+den
+angrenzenden
+Wüsten
+und Klöstern
+herbei
+und
+wetterten
+gegen
+die
+Behörden.
+Der
+bekannte Einsiedler
+Macedonius,
+der
+von
+seinen
+Bergen herabgeeilt
+war,
+hielt
+auf
+der
+Strasse
+die
+zum
+Gericht
+geschickten
+kaiserlichen
+
+--- Page 175 ---
+149
+Würdenträger
+an und „befahl ihnen,
+von den Pferden herunterzusteigen.“
+Als
+die
+abergläubischen Machthaber
+seinen
+Namen
+hörten,
+folgten
+sie
+blindlings,
+und
+er hielt
+ihnen eine
+lange Predigt
+über
+das
+Thema,
+dass
+„kupferne Figuren
+nichts im
+Vergleich
+mit lebendigen
+und intelligenten
+Figuren seien“,
+die
+sie jetzt vernichteten,
+und drohte
+ihnen mit dem Zorn
+des
+himmlischen Gottes
+für ihre Grausamkeiten.
+Alles
+dies
+zeigt,
+dass
+das Umwerfen
+der in Antiochia
+aufgestellten
+Standbilder
+nicht
+aus
+irgendeinem
+bürgerlichen Aufruhr,
+z. B.
+wegen
+der
+üblichen
+Erhöhung
+von
+Umlagen
+entstanden
+ist,
+sondern
+viel
+mehr
+aus
+religiösen
+Gründen,
+die
+auch
+in
+anderen
+Orten
+einen
+ge
+spannten
+Zustand hervorgerufen
+hatten.
+Durch
+diesen
+gespannten
+Zu
+stand
+erklärt
+es
+sich auch,
+warum
+es dem
+damals sofort nach Konstanti
+nopel
+gereisten
+(oder
+zur Rechtfertigung
+dorthin
+bestellten)
+Bischof
+des
+Johannes,
+dem Flavianus,
+gelang,
+im
+Frühjahr 388
+den
+Theodosius
+zum
+Einstellen
+seiner
+Rache
+zu
+bestimmen
+und
+seine
+Drohung,
+An
+tiochia
+dem Boden gleichzumachen,
+nicht
+auszuführen.
+Warum
+aber
+begab
+sich
+zur Rechtfertigung
+gerade
+der
+verdäch
+tigte,
+von
+der
+herrschenden
+Kirche
+nicht
+anerkannte Bischof Flavian
+nach
+Konstantinopel
+und
+nicht
+der
+ofﬁzielle
+und
+anerkannte Paulinus
+von
+Antiochia?
+Das
+allein
+beweist
+schon,
+dass
+das
+Umwerfen
+der
+Standbilder
+der
+Gemeinde
+des Flavian
+und
+dem Johannes
+zugeschrieben
+wurde
+und
+dass
+das Gewitter
+sich
+nur auf deren
+Anhänger
+und
+nicht
+auf die
+orthodoxen
+Anhänger
+des
+Paulinus
+entlud.
+Hat
+Johannes
+irgendwelchen
+Anteil
+an
+der
+Niederwerfung
+der
+kaiserlichen
+Standbilder
+gehabt?
+Man darf
+es
+annehmen.
+Er war
+ein
+geborener Volksmann, wie ihn der byzantinische Schriftsteller Zosimus
+lls)
+charakterisiert.
+Aus
+seiner
+weiteren Biographie
+werden
+wir
+ersehen,
+dass
+er während seines Aufenthaltes
+in Konstantinopel,
+zehn Jahre nach
+diesen
+Ereignissen
+in
+seinen
+Reden Himmel
+und
+Hölle
+beschwor,
+als
+man auf irgendeinem
+Platze der Stadt ein Standbild
+der Kaiserin Eud oxia
+errichtet
+hatte.
+Er
+verlangte
+in
+seinen
+Predigten
+die
+sofortige Ent
+fernung
+dieser
+Bilder,
+trotz
+des
+dadurch
+hervorgerufenen Zornes
+der
+Kaiserin.
+Es
+ist
+zweifellos,
+dass
+er
+auch
+in Antiochia
+der
+gleichen
+Meinung
+war.
+Waren
+vielleicht
+auch
+hier
+seine Predigten
+(ähnlich
+den
+in
+der
+Apokalypse
+aufgeführten
+über die Anbeter
+der Bilder)
+die Ur
+sache
+des Umwerfens
+der königlichen
+Standbilder?
+Die
+ihm zugeschrie
+benen
+Reden
+„Ueber
+die
+Standbilder
+an
+das Volk
+von
+Antiochia“,
+die
+nach Erinnerungen
+abgefasst
+oder
+von
+seinen
+Verehrern
+im Mittelalter
+für ihn
+gedichtet
+werden sind,
+sagen
+allerdings
+nichts von den Stand
+bildern
+und
+der Notwendigkeit,
+sie umzuwerfen.
+Aber
+ihr
+Ton ist
+sehr
+charakteristisch.
+
+--- Page 176 ---
+150
+„Es
+ist
+anzunehmen,“
+sagt
+einer
+seiner
+neuesten
+Biographen“),
+„dass
+er
+die Schuld
+der Schuldigen
+teilte,“
+wie
+einer
+der Teilnehmer
+die Angst
+und
+die Gefahr
+empﬁndet,
+dass
+die Verfolgung,
+die
+ihnen
+droht,
+auch
+ihn
+treffen
+wird.
+Aber
+wenn
+Johannes
+zu jener Zeit
+auch
+noch
+kein
+so erbitterter
+Gegner
+der
+Aufstellung
+von
+königlichen
+Standbildern
+auf
+den
+öffent
+lichen Plätzen
+war,
+wie später
+in Konstantinopel,
+so musste
+doch
+der
+Anblick
+der Grausamkeiten,
+die
+der
+Untersuchung
+dieses Ereignisses
+folgten,
+bei ihm
+den Hass
+gegen
+den
+sozialen
+und religiösen Despotis
+mus
+der
+byzantinischen
+Kaiser
+wachrufen.
+Und
+dieser
+Hass
+erlosch
+bei
+ihm
+auch
+tatsächlich
+bis
+zu
+seinem
+Tode nicht.
+Seine
+feindliche
+Stellung
+zur
+byzantinischen
+Selbstherrschaft
+verschärfte
+sich
+bei ihm
+noch
+mehr
+im Jahre 393
+bei
+einem
+blutigen Racheakt,
+den
+der Kaiser
+Theodosius
+an
+den Einwohnern
+von
+Thessalonike
+(jetzt
+Saloniki)
+für
+irgendeinen
+Aufstand
+nahm,
+dessen
+Gründe
+durch die Geschichtsschreiber
+noch
+nicht
+aufgeklärt
+sind.
+Diese
+Bestrafung
+war so
+grausam,
+dass
+sie
+sogar
+die
+öffentliche
+Meinung in der
+westlichen Hälfte
+des
+römisch
+byzantinischen
+Reiches
+aufrüttelte
+und
+dass
+der Bischof
+von
+Mailand,
+Ambrosius,
+bei der Durchfahrt
+des
+Kaisers
+durch Mailand
+ihm
+den
+Besuch
+seiner
+Kirche
+als Strafe
+für
+seine
+rohen
+Gewalttaten
+in Thes
+salien verweigerte.
+Ebenso konnte auf das Verhalten des Johannes
+zum byzantinischen
+Reich
+die
+im Jahre 394,
+d.
+h.
+ein Jahr
+vor
+der von uns
+berechneten
+Zeit
+des
+Entstehens
+der
+Apokalypse,
+begonnene
+grausame
+religiöse
+Verfolgung
+nicht
+ohne Wirkung bleiben,
+unter
+der
+die Heiden gerade
+so
+wie
+die
+Christen,
+die
+der
+herrschenden
+nikolaitischen
+Kirche
+nicht
+angehörten,
+zu leiden
+hatten.
+Sie wurden aller bürgerlichen
+und
+persönlichen
+Rechte verlustig
+erklärt
+und durften nicht einmal ihr Ver
+mögen
+durch Vererbung
+abtreten.
+Sie
+durften
+ohne
+eine
+spezielle
+Be
+scheinigung
+ihrer
+Rechtgläubigkeit
+und ihrer
+guten
+Aufführung
+weder
+kaufen noch
+verkaufen, wie
+dies
+auch
+im Kapitel
+13 der „Offenbarung“
+gesagt
+wird:
+Und
+er
+ordnete
+jetzt
+an,
+dass
+man allen
+Grossen
+und
+Kleinen,
+Reichen und Armen,
+Freien
+und
+Knechten
+besondere
+Zeichen
+(nach
+der
+Untersuchung
+Newtons
+Kreuze
++)
+zum
+Tragen
+an
+der
+rechten Hand oder
+auf dem Kopf austeilte, damit alle
+diejenigen
+weder
+verkaufen noch
+kaufen könnten, die
+das
+Zeichen
+des
+Tieres
+oder dessen
+Namen
+(Lateiner)
+oder
+den
+Zahlenausdruck
+seines
+Namens
+(666)
+nicht
+bei sich trugen.
+Alle
+diese Verfolgungen
+mussten
+ganz
+besonders
+stark
+auf
+den
+Johannes
+wirken.
+Sie
+waren
+gegen
+seine
+Glaubensgenossen
+gerichtet,
+weil
+er,
+wie
+wir
+es
+schon
+wissen,
+der
+Gemeinde
+des von der Staats
+
+--- Page 177 ---
+151
+kirche
+nicht anerkannten Flavianus
+zugehörte,
+der
+sich
+weigerte,
+sich
+zum Papst
+zur Rechtfertigung
+zu
+begeben,
+und nicht zu der
+Gemeinde
+des Paulinus,
+des allein
+ofﬁziell
+anerkannten
+antiochenischen
+Bischofs.
+Aber
+was
+wurde
+aus Johannes
+nach
+dem
+Umstürzen
+der
+Stand
+bilder in Antiochia?
+Für
+alle die sieben Jahre,
+die
+nach
+der antiochenischen
+Verfolgung
+bis
+zum
+Erscheinen
+der
+„Offenbarung
+in
+Gewitter
+und
+Sturm“
+am
+30. September
+395
+(und
+dem darauf
+erfolgten Tode
+des Kaisers
+Theo
+dosius)
+verﬂossen,
+haben
+wir
+in
+seiner
+Biographie
+eine Lücke.
+Nach
+einigen Quellen und Kombinationen
+können wir nur
+vermuten,
+dass er
+unmittelbar
+nach
+dem Umwerfen
+der Standbilder
+in Antiochia
+von Theo
+dosius in dem gleichen
+Kloster in Einzelhaft
+gesperrt
+wurde,
+aus
+dem
+er,
+wie
+wir
+es
+schon
+wissen,
+im Jahre
+381
+ﬂüchtete.
+Aber
+nach
+zwei
+Jahren
+des Verbleibens
+daselbst,
+wie
+der Biograph
+sagt,
+„in schweig
+samem Leben“ scheint
+er wieder von dort geﬂüchtet
+zu sein,
+wobei er sich
+während
+dieser
+Zeit
+einen
+starken Rheumatismus in
+den Füssen zuzog,
+von
+dem
+er sich sein
+Leben lang nicht
+mehr
+erholt
+hat.
+Wir können
+diese
+siebenjährige Lücke
+seiner
+Biographie
+bis
+zum
+Tode
+des Theo
+dosius nicht ausfüllen,
+wenn
+wir
+nicht
+anerkennen,
+dass
+er
+der Ver
+fasser
+der
+„Offenbarung“
+war
+und
+folglich,
+wie
+dies
+auch
+aus
+dem
+Buche
+selbst
+zu ersehen ist, in
+dieser Zeit in Kleinasien
+umherwanderte.
+Hier
+gründete
+er
+Gemeinden
+seiner
+Gesinnungsgenossen
+in Laodicea,
+Philadelphia,
+Sardes,
+Thyatira,
+Pergamon,
+Smyrna
+und
+Ephesus und
+an
+die
+hat
+er
+dann
+später
+im
+41.
+Lebensjahr
+sein Buch
+geschickt,
+nachdem
+er,
+seinem
+eigenen
+Wunsche
+gemäss
+oder
+durch Theodosius
+dorthin
+verbannt, auf
+die
+einsame
+Insel
+Patmos gelangt war.
+1) Von seinen Biographen
+ist
+Ti116mont
+für das Jahr
+347,
+Stilting dagegen für
+das Jahr
+344.
+Ich
+ziehe
+die
+unmittelbaren
+Daten
+der byzantinischen
+Biographen
+in
+den Büchern
+des
+Altertums
+vor.
+’)
+Zmxgnirov
+Izolao'ruzoü Exxlr;;. 'Iawgfa.
+T. VI, irup.
+7'.
+ß)
+Swxg. Z;(ol., T. VI, urp- y'.
+‘)
+Aim6 Puecb,
+St. Jean
+Chrysostome
+et les
+moeurs
+de
+son temps. Paris
+1891.
+‘)
+Dessen hat
+ihn
+später
+auch das Konzil
+der Bischöfe
+beschuldigt:
+Origenistas
+suscepit
+et
+eos
+qni
+sum
+ecclessia
+communicant
+in carcerem
+detrusos
+non
+cursvit
+sed
+in ipsa
+mortnos
+neque
+omnino
+respexit
+(Act.
+Synod
+ad
+Quersum
+apud
+Phot.
+59).
+°)
+Das
+Leben
+der
+Heiligen.
+November.
+Ausgabe
+J.
+1852.
+Man
+erinnere
+sich
+an
+die Worte über
+diejenigen,
+die
+sich
+als Juden
+sufspielten
+aus
+dem Brief an
+die
+Gemeinde
+von
+Smyrna
+in der Apokalypse.
+’)
+Ich
+habe einige
+davon in der öffentlichen Bibliothek durchgesehen,
+aber ausser
+Sinnlosigkeiten
+fast nichts
+gefunden.
+')
+Aimä
+Pusch,
+St. Jean
+Ohrysostome.
+°)
+Das Leben
+der Heiligen. November.
+Ausgabe
+1852.
+’°)
+Aim6
+Pusch,
+p. 381.
+
+--- Page 178 ---
+152
+“)
+Die Fahrt
+des
+Meletius
+nach
+Konstantinopel
+zur
+Ernennung
+des
+Gregor
+von
+Nazianz
+ist eine reine Erﬁndung,
+weil
+die
+Patriarchen
+von Konstantin0pel
+durch
+den Bischof von Thrakien durch
+Handauflegung
+ins Amt eingesetzt wurden.
+") Aim6
+Puech, St. Jean
+Chrysostome.
+"‘)
+Das Leben
+der Heiligen.
+November.
+")
+Aimä
+Puech.
+S.
+67.
+"')
+311
+ya‘g
+6
+du.9@amo;
+ti'Äoyov
+ö'zÄov
+drmya'yeo‘tm
+d‘sw0';
+(er war
+ein ungemein
+dazu geeigneter
+Mann
+eine stark
+erregte
+Volksmenge
+zu leiten.
+Zod. V. 23).
+1“)
+Aimö
+Puech,
+St. Jean
+Chrysostome.
+p. 25—26.
+Die
+gewaltsame
+Ernennung
+des Johannes
+zum Bischof von
+Konstantinopel
+nach
+dem
+Erscheinen
+der
+„Offenbarung“.
+Sein
+Leben
+bis
+zum
+13. März 399,
+dem Tag,
+an
+welchem
+die Erfüllung
+dieserästrologischen
+Prophezeiung
+angesagt war.
+(Die
+Zeit
+vom
+30.
+September
+395
+bis
+zum
+13. März 399.)
+Es gibt Fälle,
+wo
+ein
+moderner
+Geschichtsschreiber
+ohne irgend
+welche
+schriftlichen
+Urkunden
+trotzdem die volle Möglichkeit
+hat,
+die
+Stimmung
+einer
+beliebigen
+Gesellschaft
+viel
+genauer
+und
+richtiger
+zu
+beschreiben,
+als
+die
+alten Urkunden
+dies ihm mitteilen
+könnten.
+Wenn
+er
+z. B.
+weiss,
+das
+am
+20.
+November
+des Jahres
+393
+nach
+unserer
+Zeitrechnung
+eine
+Sonnenﬁnsternis
+stattgefunden
+hat,
+deren
+Zentrum
+durch Griechenland,
+Konstantinopel
+und
+Kleinasien
+ging, und
+dass
+der
+Himmel
+dort damals
+klar war,
+so hat der
+moderne
+Geschichtsschreiber
+die volle Möglichkeit,
+die
+allgemeine
+Panik,
+die
+dieses Naturereignis,
+welches
+zwei Jahre
+vor
+dem Erscheinen
+der Apokalypse
+stattfand,
+in
+den
+wenig
+gebildeten
+Schichten
+der
+Gesellschaft
+von
+Konstantinopel
+hervorgerufen
+hat,
+zu
+beschreiben.
+Wenn
+er nur in den
+Grenzen
+der
+nötigen
+Mässigung bleibt
+und
+sich
+daran
+hält,
+was
+in anderen Ländern
+in
+ähnlichen
+Fällen
+sich ereignet,
+die auf der gleichen
+Kulturstufe
+stehen,
+so wird
+sein Bild
+ganz
+richtig, ja,
+ogar
+viel
+besser sein,
+als diejenigen,
+die
+ihm
+durch
+Vermittlung
+der
+alten
+Geschichtsschreiber
+hätten
+zu
+gehen
+können.
+Darin
+werden
+wenigstens‘
+weder
+„ﬂiegende
+Drachen“
+noch
+„Stimmen
+unsichtbarer
+Engel“
+noch
+„aus
+ihren
+Gräbern
+auf-.
+erstandene Tote“ noch andere unwahrscheinliche oder, was noch schlimmer
+ist
+,
+w
+a
+hr
+s
+c
+h
+ei
+n]
+i
+c
+h
+e
+Erdichtungen
+und
+Zutaten enthalten
+sein
+,
+mit:
+denen
+die
+alten
+leichtgläubigen Geschichtsschreiber
+beständig
+die Wirk
+lichkeit
+vermengen,
+besonders
+wenn sie zur Geistlichkeit
+gehören.
+
+--- Page 179 ---
+153
+In einer
+solchen
+Lage
+beﬁnden
+wir uns in bezug
+auf die Zeit, in
+welcher
+plötzlich
+das Buch
+des
+Johannes
+erschien.
+Wir wissen,
+was
+für
+einen Schrecken
+im Mittelalter,
+ja,
+sogar
+in
+der Neuzeit
+diese wilde
+Phantasmagorie
+der
+„Offenbarung“
+auf
+wenig
+gebildete
+Leser
+aus
+geübt
+hat.
+Alle
+diese Schrecken riefen die apokalyptischen Ungeheuer
+des Johannes
+sogar
+dann
+noch
+hervor,
+als
+sein Buch
+schon
+lange
+der
+Vergangenheit
+angehörte
+und
+infolgedessen
+die Erfüllung der Prophe
+zeiung unwillkürlich
+in
+die
+ferne
+Zukunft
+verlegt wurde.
+Man kann
+sich
+vorstellen,
+wie
+die
+unmittelbare
+Wirkung
+des
+Erscheinens
+der
+Apokalypse
+war,
+als jeder ihren Inhalt buchstäblich verstand und
+den
+Eintritt
+der verkündeten Schrecknisse jeden
+Augenblick
+erwartete! Die
+aus
+jeder
+Zeile
+sprechende
+Aufrichtigkeit
+des
+Verfassers,
+seine
+tiefe
+Ueberzeugung
+von
+der
+Wahrheit
+seiner
+eigenen
+Worte,
+das
+Chaos
+der
+schrecklichen Bilder,
+die hastig übereinander
+getürmt sind,
+und der hin
+reissende
+lyrische
+Schwung
+einiger
+Stellen
+—
+alles
+dies
+schloss
+den
+Gedanken
+eines
+beabsichtigten
+Betruges
+aus.
+Das Buch
+des
+Johannes
+musste
+bei
+den
+christlichen
+Lesern
+und
+sogar
+bei
+der
+zusammen
+mit
+ihnen wohnenden
+heidnischen
+Welt
+eine
+solche Panik hervorrufen,
+wie
+sie
+in
+der
+Geschichte
+des
+menschlichen
+Aberglaubens
+noch
+nicht
+da
+gewesen
+ist
+1).
+Die
+Tatsache
+dieser
+Panik
+ist
+geradeso
+über
+jeden
+Zweifel
+er
+haben,
+wie
+das
+Vorhandensein
+der
+Apokalypse
+selbst.
+In
+jeder
+Stadt,
+in
+jedem
+Dörflein,
+wo
+sie
+zuerst
+gelesen
+wurde,
+musste
+sie ein allgemeines Entsetzen
+unter den Gläubigen
+hervorrufen.
+Angefangen mit Ephesus,
+wohin
+sie
+zuerst
+gelangte,
+musste sich dieses Entsetzen mit dem Buch auch nach Smyrna, Pergamon,
+Thyatira,
+Sardes,
+Philadelphia
+und
+Laodicea
+erstrecken
+und
+sich
+nachher,
+gleich
+einer
+unaufhaltsamen Welle,
+über
+die
+ganze
+übrige
+christliche Welt in dem Masse
+verbreiten,
+wie von der ursprünglichen
+Handschrift
+neugemachte
+Abschriften in andere Städte
+gelangten.
+Selbst
+verständlich
+musste
+die Langsamkeit
+des
+Kopierens,
+die Seltenheit und
+Kostspieligkeit
+des
+Papyrus
+sowie
+die
+Abneigung
+der
+alten
+Sekten
+brüder, ihre Geheimnisse
+mit den Angehörigen
+feindlicher Bekenntnisse
+zu teilen,
+besonders
+in den
+ersten
+Monaten
+die Verbreitung
+des Buches
+stark hindern,
+und
+wahrscheinlich
+kamen
+die
+ersten
+Abschriften
+dieses
+Buches
+nicht vor
+dem Jahre
+396
+über
+die Grenzen von Kleinasien.
+Zu
+dieser
+Zeit war Theodosius
+schon
+mehrere
+Monate tot,
+und
+der
+„seiner
+Zahl
+nach
+verhängnisvolle“
+siebente
+Kaiser Arkadius
+hatte
+seine Stelle
+in Byzanz
+eingenommen.
+Der
+neue Kaiser
+war
+zu jener Zeit
+noch
+nicht
+19 Jahre
+alt.
+Er
+hatte
+erst
+vor
+kurzem
+die
+Tochter
+eines
+fränkischen
+Heerführers,
+
+--- Page 180 ---
+154
+Eudoxia,
+geheiratet,
+ein
+Mädchen,
+das
+gerade
+so
+abergläubisch,
+aber
+viel lebhafter und energischer
+war
+als er.
+Arkadius
+geriet infolge seiner
+Charakterschwäche
+und
+Unschlüssigkeit
+sofort
+unter
+die
+Herrschaft
+seines
+Weibes,
+welches
+denn
+auch
+bald
+durch
+seine Vermittlung
+über
+das
+ganze
+Reich
+zu
+regieren
+anﬁng.
+Obschon
+nun
+die
+durch
+die
+„Offenbarung“
+blossgestellten
+Vertreter
+der nikolaitischen
+Partei
+daran
+interessiert waren,
+dass
+das Buch
+des Johannes nicht'vor das Herrscher
+paar gelangte,
+so
+war das doch in Anbetracht
+des gewaltigen Eindruckes,
+den
+es auf die Nikolaiten
+gemacht,
+und
+des Schreckens,
+den
+es unter
+ihnen
+verbreitet
+hatte,
+unmöglich.
+Früher
+oder
+später
+musste
+e
+bis
+zu Arkadius
+und Eudoxia
+gelangen
+und
+diese
+noch
+viel
+mehr
+als alle
+anderen
+Anhänger
+des Bundes der Kirche
+mit
+dem Staat mit Schrecken
+und Entsetzen
+erfüllen.
+Was
+blieb
+ihnen
+in
+diesem
+unabwendbaren
+Uebel
+zu
+tun
+übrig?
+Natürlich
+nichts
+anderes,
+als den Verkünder
+des Unheiis
+selbst
+zu
+rufen
+und
+als
+ihren
+eigenen
+Propheten
+anzuerkennen.
+Alles,
+was
+ihm anzuordnen belieben
+würde,
+sollte sofort ausgeführt,
+alles was
+er
+verneinen
+würde,
+sofort
+verbannt
+werden.
+Für
+alles,
+was
+man
+ge
+sündigt, sollte unbedingt Busse
+geleistet
+und
+ein Gelübde
+der Besserung
+abgelegt werden!
+Alles
+dies
+wurde
+auch
+genau
+mit Johannes
+in Byzanz
+verwirk
+licht.
+Im Jahr 397
+(d. h.
+etwa
+anderthalb
+Jahre nachdem Johannes
+sein
+Buch
+geschrieben
+hatte und
+die
+von
+ihm
+hervorgerufene
+Panik
+schon
+bis nach
+Konstantinopel
+gelangt war)
+starb
+hier
+sehr
+zur rechten
+Zeit
+der kranke und altersschwache
+Bischof Nektarius.
+Da verlangten, wie
+uns
+einer
+von
+den allerrechtgläubigsten
+Geschichtsschreibern
+in
+seiner
+halbkirchlichen
+Sprache
+erzählt, nicht nur
+das byzantinische Kaiserpaar
+„und die
+gesamte
+byzantinische
+Geistlichkeit
+nebst
+den
+umwohnenden
+Bischöfen, sondern
+das ganze Volk“, kaum dass sie den Tod ihres Bischofs
+erwarten konnten, dass „unter Auslassung aller eigennütziger Bewerber“ ")
+kein anderer
+an seine Stelle eingesetzt
+werden
+sollte, als der schlichte,
+bis
+dahin
+ofﬁziell
+nicht
+anerkannte
+Presbyter
+Johannes,
+der
+von
+dem
+Bischof
+Flavianus
+eingeweiht,
+und der niemals
+in Konstantinopel
+ge
+wesen
+war!
+Wie
+hat
+dies
+nun
+Johannes
+selbst,
+der auf
+so unerwartete Weise
+Erhöhte,
+hingenommen?
+Zu
+dieser Zeit
+treffen
+wir ihn wieder in seiner
+Heimat Antiochia
+an, wohin
+er wahrscheinlich von Flavianus
+und seinen
+alten Bekannten
+eigens
+zu dem Zwecke
+gerufen
+war,
+um
+von
+ihm in
+der Apokalypse
+unterwiesen
+zu
+werden.
+Da
+kam
+ein
+vom
+Kaiser
+ge
+schickter
+Gesandter
+in Begleitung
+einer
+Ehrenwache
+nach
+Antiochien
+und übergab
+dem Flavianus
+eine Verfügung,
+Johannes
+nach
+Konstanti
+
+--- Page 181 ---
+155
+nopel
+gehen
+zu
+lassen,
+da
+er
+zum
+ersten
+Bischofs,
+„zum Patriarch“,
+der östlichen Kirche
+ernannt
+sei.
+Johannes
+hielt
+das
+offenbar
+für
+eine
+List,
+um ihn vor Gericht
+zu stellen.
+Er versteckte sich vor dem kaiser
+lichen Gesandten
+in
+der Kirche,
+wie
+dies alle Leute
+taten,
+die
+sich
+vor
+den
+kaiserlichen
+Behörden
+fürchteten,
+„und
+ganz
+Antiochia
+lief
+zu
+dieser
+Kirche,
+um ihn zu verteidigen.“
+Ausserstande, gegen Johannes und die ihn verteidigende Bevölkerung
+etwas
+anzufangen,
+kehrte
+die
+feierliche
+Gesandtschaft
+unverrichteter
+Sache zum
+Kaiser
+und der Kaiserin
+zurück.
+Unter
+gewöhnlichen Umständen
+hätte
+sich
+gegen
+die
+Widersacher
+des kaiserlichen
+Befehls
+ein Zorngewitter
+entladen.
+Der widersetzliche
+Johannes
+wäre
+ins
+Kloster
+gesperrt
+und
+auf
+den
+ihm
+angetragenen
+hohen
+Posten
+wäre
+„einer von
+den eigennützigen Bewerbern
+um diesen
+Bischofsstuhl“
+gesetzt
+worden.
+Aber
+in
+diesem Falle
+geschah
+nichts
+dergleichen,
+und
+die
+kaiserliche
+Gewalt
+handelte
+auf eine
+ganz
+eigen
+tümliche Art.
+Dem
+neuen
+kaiserlichen
+Gesandten,
+dem Adjutanten
+Ascerius,
+wurde
+befohlen,
+ihn
+aus Antiochia
+zu entführen.
+Der
+Stadtbauptmann
+von Antiochia
+lockte
+ihn
+unter
+dem Vorwande,
+sich wegen
+religiösem
+Zweifel
+mit ihm besprechen
+zu wollen,
+in
+die Vorstadt
+3),
+und
+als jener
+nichtsahnend
+dorthin
+kam,
+wurde
+er unter allen möglichen
+Ehrungen
+und Verbeugungen
+gegen
+seinen
+Willen
+in
+einen
+Wagen
+gesetzt
+und
+unter
+Begleitung
+einer
+vor
+Furcht
+und
+Ehrerbietung
+zitternden
+Be
+deckung nach
+Konstantinopel
+gebracht.
+So
+geschah
+es,
+dass Johannes
+am
+26.
+Februar
+398‘),
+genau
+ein
+Jahr vor
+der Erfüllung
+der
+Prophezeiung
+(die
+auf
+den
+13.
+März
+399
+angesetzt
+war)
+in
+der
+Hauptstadt
+des
+byzantinischen
+Reiches
+an
+kam.
+„Und
+ihm
+(der unter Bewachung
+geführt wurde), damit er nicht
+entﬂiehe,
+ging
+die
+ganze
+Stadt
+mit
+zahlreichen
+Würdenträgern
+ent
+gegen,
+die
+vom
+Kaiser
+gesandt
+waren,
+um ihn mit Ehren
+‘)
+im Namen
+des Kaisers,
+des ganzen
+Konzils
+t’)
+und des Volkes
+zu
+empfangen.
+Und
+alle
+freuten
+sich
+über
+dieses
+Kirchenlicht“
+(das
+sie
+vor
+zwei Jahren
+nicht
+als
+eines
+der Ihrigen
+hatte
+anerkennen
+wollen).
+Wie konnte man Johannes veranlasst haben
+(nach allem,
+was er in
+seiner Offenbarung geschrieben
+hatte),
+die
+Stellung
+des Erzbischofs
+von
+Konstantinopel
+anzunehmen?
+Wahrscheinlich
+haben die Tränen der Menge,
+die Busse und Bitten
+des Volkes
+sein
+Herz
+erweicht, und er entschloss
+sich
+angesichts
+der
+allgemeinen
+von
+ihm
+hervorgerufenen
+Panik und
+in Erwartung
+des Weltunterganges
+für
+sie zu Gott zu beten
+').
+Aber die Tatsachen sprechen
+dafür,
+dass
+er
+auch
+dieses
+nicht
+so
+fort getan hat.
+Er weigerte sich, die Ernennung anzunehmen,
+bevor nicht
+
+--- Page 182 ---
+156
+in Konstantinopel
+ein
+allgemeines
+Konzil
+der
+gesamten
+byzantinischen
+Geistlichkeit
+zusammengerufen
+wäre;
+und
+diese Forderung
+wurde auch
+sofort
+vom
+Kaiser
+Arkadius
+erfüllt.
+Alle
+Erzbischöfe
+wurden
+alsbald
+nach
+der Hauptstadt
+befohlen.
+Sogar der Todfeind
+des Johannes,
+Theo
+philus
+von Alexandria,
+musste
+aus Furcht der Abberufung
+sich
+einver—
+standen
+erklären
+und
+„hat selbst
+den Johannes
+ins Amt eingeführt“.
+Wenn
+man
+dieses
+ungewöhnliche
+Konzil
+im
+Zusammenhang
+mit
+der Tatsache betrachtet,
+dass Johannes mit Gewalt herbeigebracht worden
+war
+und
+dass
+er
+in
+der
+„Offenbarung“
+die
+herrschende
+Partei
+des
+Theophilus
+(d.
+h.
+die Nikolaiten)
+blossgestellt
+hatte,
+so
+wird
+uns
+die
+Abneigung
+des
+Theophilus
+und
+seiner
+Anhänger,
+die
+den
+Kopf
+noch
+nicht
+ganz
+verloren
+hatten,
+zu
+diesem Konzil zu reisen,
+ganz
+verständ
+lich.
+Wenn
+auch
+die
+orthodoxen
+Geschichtsschreiber
+uns
+versichern,
+dass
+dieses Konzil
+nur
+deswegen
+zusammengerufen
+wurde,
+weil
+„der
+Kaiser
+die feierliche Ernennung des Johannes wünschte“, so sind
+dies doch
+bloss leere Worte,
+weil
+für keinen anderen
+weder
+vor
+noch
+nach Jo
+hannes“)
+ein
+allgemeines
+Konzil
+einberufen
+wurde,
+sondern
+die Ein
+weihung
+wurde
+einfach
+durch
+den Bischof
+von
+Thrakien")
+vollzogen,
+der
+zu
+diesem
+Zwecke
+nach
+Konstantinopel
+berufen
+wurde.
+War
+es
+doch
+auch
+zu jener Zeit bei den
+schlechten
+Wegen gar nicht
+so leicht,
+ein
+Konzil
+zusammenzubringen.
+Der
+Grund
+zur
+Berufung
+des
+all
+gemeinen
+Konzils
+erscheint
+hingegen
+ganz
+klar,
+wenn
+wir uns
+einiger
+Stellen
+der
+„Offenbarung“
+erinnern.
+Augenscheinlich
+wollte und konnte
+der
+Verfasser
+die
+Stelle
+des
+Oberhauptes
+der
+östlichen
+Kirche
+gar
+nicht
+annehmen,
+solange
+die Leute,
+mit denen
+er als
+mit Kollegen
+zu
+verkehren
+gehabt
+hätte,
+ihm
+nicht
+das feierliche Versprechen gegeben
+hatten,
+die Handlungen,
+für
+die
+er
+gegen
+sie Donner
+und
+Blitze
+ge
+schleudert hat,
+nicht
+mehr
+zu
+begehen.
+Erst
+als
+alle
+diese Versprechungen
+von
+den
+Bischöfen
+gegeben
+waren, welche
+die Furcht vor
+der
+baldigen
+Wiederkunft- Christi lähmte,
+wie
+sie in der
+„Offenbarung“
+beschrieben
+war,
+erklärte
+wahrscheinlich
+Johannes
+sich
+bereit,
+sie
+zu
+den Seinigen zu
+rechnen.
+Auf die Furcht aber,
+die unter den Christen
+herrschte,
+sowie
+auf
+die
+bei
+seiner Ernennung
+herrschende
+ungewöhnliche religiöse Stimmung
+weisen
+alle Quellen hin.
+„Rennbahnen und
+Theater“,
+sagt Murawiew
+etwas
+hochtrabend
+in
+seiner
+„Geschichte
+der
+ersten
+vier Jahrhunderte
+des
+Christentums“
+10),
+„standen
+(im
+ersten
+Jahre seiner
+Anwesenheit)
+eine
+Zeit
+lang
+leer,
+ähnlich
+dem
+Ufer,
+das
+infolge
+der
+vom
+starken
+Winde
+vertriebenen
+Wellen
+austrocknet.
+Die Volkswellen
+überﬂuteten
+die
+Kirche.
+Die
+Kanzel
+erschien
+zu
+weit
+entfernt,
+um
+seine
+Worte
+zu
+hören,
+er
+
+--- Page 183 ---
+157
+wurde
+gezwungen
+von
+einem
+Rednerpult
+inmitten
+der Kirche
+aus zu
+sprechen.“
+Was
+aber
+predigte
+er in jener Zeit?
+Ich habe
+es
+schon
+mehrfach
+gesagt,
+dass
+man
+guten
+Grund hat,
+an
+der Echtheit
+aller auf uns
+ge
+langten
+Reden
+der
+Redner
+des Altertums
+zu
+zweifeln.
+Alle
+sind sie
+stark
+durch
+die
+alten
+Abschreiber
+verändert
+und
+entstellt
+werden,
+welche
+die Reden aller,
+mit denen
+sie sympathisierten,
+nach
+der Art
+ihrer
+eigenen
+Predigten
+zurechtmachten,
+die
+Worte
+der Gegner jedoch
+bis
+zur
+völligen
+Torheit
+oder
+Sinnlosigkeit
+verdrehten,
+von
+den Fäl
+schungen
+gar nicht zu reden.
+Aber
+wenn
+wir annehmen,
+dass die Reden,
+die
+man
+Johannes
+für
+diese
+Zeit
+zuschreibt,
+nicht
+sonderlich
+ver
+stümmelt
+sind,
+so
+sind
+sie
+sehr
+charakteristisch.
+Manche
+von ihnen
+spricht
+unmittelbar
+von
+der
+baldigen
+Wiederkunft
+Christi,
+ja,
+ein
+oder
+zweimal
+spielt
+er
+direkt
+auf
+das Jahr 400
+nach
+dessen
+Geburt
+an,
+was
+auch
+dem
+von uns
+berechneten
+399. Jahre entspricht,
+da
+die
+Zeit
+der Geburt Jesu
+ein
+oder
+zwei Jahre
+vor
+unserer
+Zeitrechnung
+angesetzt
+wurde.
+„Der Herr ist nahe.
+Erwartet
+ihn.
+Wir
+sind
+nicht weit von der
+Erfüllung
+(der Prophezeiung).
+Schon
+neigt
+die Welt
+sich
+ihrem Ende
+entgegen.
+Das
+verkünden Kriege,
+Leiden,
+Erdbeben.
+Dies zeigt sich
+durch
+das Aussterben
+der
+Liebe
+an.
+Wie
+der Leib
+im
+Todeskampfe
+alle möglichen
+Schmerzen
+erleidet,
+wie ein Haus vor
+dem
+Zusammen
+sturz
+seine
+Dielen
+von
+den
+Wänden
+und
+Dächern
+fallen
+lässt,
+so
+verkündet
+das Elend,
+das
+von
+allen
+Seiten
+heranströmt,
+das Ende
+der
+Welt.“
+Aehnliche
+Worte
+ﬁnden
+wir auch
+in
+anderen
+Reden,
+die
+dem
+Johannes
+zugeschrieben
+werden“).
+In ihnen allen klingt ausserdem
+noch eine Saite an,
+die vollkommen
+dem gegenwärtigen Moment entsprach.
+Er spricht überall
+von
+der un
+begrenzten
+Barmherzigkeit
+Gottes
+gegen
+die
+reuigen
+Sünder
+und
+von
+der Notwendigkeit,
+selbst
+bei
+den schrecklichsten
+Sünden
+nicht
+an
+der
+Erlösung
+zu verzweifeln,
+wenn
+man
+nur
+rechtzeitig
+Busse
+tue.
+„So
+gar
+seinem
+eigenen
+Verräter
+Judas,“
+sagt
+er in
+seiner
+ersten
+Rede aus
+dieser
+Zeit
+12)
+„würde Jesus
+verziehen
+haben,
+wenn
+er nicht
+aus Ver
+zweiflung
+sich
+selbst
+erhängt
+hätte.
+Judas
+bereute
+seine
+Tat.
+‚Ich
+habe gesündigt,
+sagte
+er,
+indem
+ich
+das unschuldige Blut verraten habe.
+Der Verführer
+hörte
+diese Worte;
+er verstand,
+dass jener
+den Weg zur
+Besserung einzuschlagen
+im Begriffe war,
+dass
+er
+sich
+seiner
+Errettung
+zu nähern
+begann,
+und er erschrak vor dessen Errettung.
+Zudem,
+meinte
+er,
+hat
+er
+einen
+barmherzigen Herrn:
+als Judas
+ihn verraten wollte,
+weinte er
+über
+ihn
+und
+suchte
+durch Ermahnungen
+auf ihn einzuwirken
+(diese
+Ermahnungen
+sind
+in
+den auf
+uns
+gelangten
+Evangelien
+nicht
+
+--- Page 184 ---
+158
+enthalten).
+Wieviel
+eher
+also
+wird
+er
+einen
+Reuigen
+annehmen.
+Da
+trieb
+er
+ihn
+an,
+sich
+zu erhängen,
+und
+führte ihn aus
+diesem
+Leben
+hinaus und
+beraubte
+ihn
+des Strebens
+nach
+Busse.
+Dass er aber Judas
+erlöst
+hätte,
+wenn
+er
+leben
+geblieben
+wäre,
+wird
+dadurch
+bestätigt,
+dass Jesus diejenigen,
+die ihn ans Kreuz
+schlugen,
+erlöste
+und am Kreuze
+selbst zum
+Vater
+für
+sie betete.“
+Alle neun
+Reden, die
+diese
+Serie
+der Ermahnungen bilden, stellen
+nur
+verschiedene
+Variationen
+eines
+und
+desselben
+Gedankens
+dar,
+der
+ganz
+zu dem
+allgemeinen
+Schrecken
+und
+der Bussfertigkeit
+vor
+dem
+Weltende
+passt.
+Aber
+es
+sind
+auch
+andere
+Gedanken da,
+die vielleicht
+gleich dem
+ersten Jahre
+seines
+Aufenthalts
+in
+Konstantinopel
+angehören.
+Ja,
+in
+einer
+dieser
+Reden
+empﬁehlt
+Johannes
+z. B.
+reichen
+Leuten,
+„nachts
+von ihren prächtigen Betten aufzustehen
+und die Bewegung der Himmels
+gestirne
+inmitten
+des
+tiefen
+Schweigens
+und
+der
+grossen
+Stille
+der
+Nacht
+zu
+betrachten,
+die
+einem
+die
+Seele
+erfrischt
+und
+das Herz
+er
+leichtert,
+weil
+die Dunkelheit
+und
+die Ruhe
+der Nacht
+eine weihevolle
+Stimmung hervorrufen, während
+die Leute,
+die in ihren Betten wie in
+Särgen
+liegen,
+das Ende
+der Welt versinnbildlichen.“
+In
+den
+zwei Jahren
+seit
+der Zeit,
+wo
+er
+die
+„Offenbarung“ auf
+der einsamen
+Insel
+verfasst
+hatte,
+hat Johannes natürlich
+vieles
+durch
+denken
+und
+durchleben
+müssen.
+Während
+alle
+andern
+Menschen
+mit
+jedem
+neuen
+Monat
+von
+immer
+grösserer
+Furcht
+ergriffen
+wurden,
+mussten
+bei ihm selbst
+immer mehr Zweifel darüber
+entstehen,
+ob seine
+Prophezeiung
+in derjenigen
+Form,
+in der
+er sie
+gegeben
+hatte,
+in Er
+füllung
+gehen
+würde.
+Daran
+freilich,
+dass
+sie
+von
+Gott
+stammte,
+zweifelte
+er,
+wie wir
+aus
+einigen
+seiner
+Predigten
+ersehen,
+bis
+zum
+Ende
+nicht.
+Allein
+die
+Nichterfüllung
+mehrerer
+Zwischenereignisse
+musste
+ihm
+schon
+lange vorher
+die Vermutung
+eingeben,
+dass Gott mit
+ihm, wie mit
+dem Propheten Jonas,
+gehandelt
+habe,
+dem
+er aufgetragen
+hatte,
+den Untergang
+der
+grossen Stadt Ninive
+zu verkünden,
+um
+diese
+dennoch
+später
+um
+der
+allgemeinen
+Busse
+ihrer Einwohner
+willen
+zu
+versehenen.
+Tat
+es
+vielleicht
+auch
+dem Johannes leid,
+dass
+ein Teil
+des von ihm vorausgesagten
+Schreckens
+von Gott schon aufgehoben
+warf?
+Allem Anscheine nach nicht, weil er sehr weichherzig war.
+Seine
+„grosse
+Feste,
+das Tor des Herrn“ erschien
+ihm jetzt wie die büssende Magdalena,
+was sie in diesem
+Zeitpunkt
+auch wirklich war,
+wo alle nikolaitischen
+Bischöfe
+glaubten,
+dass
+das
+Damoklesschwert
+sich
+schon
+auf
+ihre
+Köpfe
+senkte.
+Und
+so
+kam
+es
+schliesslich,
+dass
+es
+dem Johannes,
+der
+die Er
+füllung
+der
+vorausgesagten
+Plagen
+nicht
+erlebte,
+schien,
+als ob Gott;
+l
+_
+‚
+_-‚__..‚_‚l
+
+--- Page 185 ---
+159
+sich
+über
+die
+sündigen
+Bischöfe
+erbarmt
+und
+auf
+den
+grössten
+Teil
+der
+für
+sie in
+der
+„Offenbarung“
+bestimmten
+Strafen
+verzichtet
+habe.
+Wenigstens
+heisst
+es
+in
+vielen
+der
+ihm
+zugeschriebenen
+Predigten
+geradezu,
+dass
+Gott
+seinen
+Propheten
+häuﬁg
+solche
+Verkündigungen
+0ﬂ‘enbare,
+denen
+die
+Erfüllung
+nicht
+vergönnt ist,
+mit
+dem einzigen
+Zweck,
+die
+Sünder
+zu
+erschrecken
+und
+sie
+zur
+Busse
+zu
+bewegen,
+später
+aber
+die
+für
+sie
+bestimmte
+Strafe
+nicht
+in
+Anwendung
+bringe.
+Ausserordentlich
+bemerkenswert
+sind
+in
+dieser Beziehung
+einige Stellen
+in
+diesen
+Reden,
+aber
+ich
+werde
+sie
+später
+anführen,
+weil
+viele von
+ihnen
+sich
+schon
+auf
+die Jahre
+399
+und
+400
+beziehen,
+als
+die
+Kata
+strophe
+bereits
+vollständig
+Fiasko
+gemacht
+hatte
+und
+sich
+nun
+ein
+Sturm
+der Verfolgung
+gegen
+Johannes
+zu
+erheben
+begann.
+Während
+dieser
+Zeit,
+d.
+h.
+von
+seiner
+gewaltsamen
+Ernennung
+zum Patriarchen
+von
+Konstantinopel
+am
+26. Februar
+398 bis
+zum Ende
+des Jahres
+400
+(als
+infolge
+der
+glücklichen
+Vollendung
+des
+4. Jahr—
+hunderts
+alle
+plötzlich
+wieder
+aufatmeten),
+bestand
+seine
+Tätigkeit
+hauptsächlich in
+der Bekämpfung
+verschiedener
+Laster,
+die
+sich
+in
+der
+byzantinischen Kirche
+angehäuft
+hatten,
+in der Verkürzung
+der formellen
+Seite
+des Gottesdienstes,
+in
+der Einführung
+von Abendmahlsversamm
+lungen
+in
+der Art der
+alten
+Christen
+(wie
+er
+dies
+auch
+in
+der
+„Offen
+barung“
+in
+seinem
+Schreiben
+an
+die
+ephesischen
+Gesinnungsgenossen
+geschrieben
+hatte)
+sowie
+in
+Versuchen,
+die
+feindlichen
+Parteien
+der
+christlichen Welt miteinander zu versöhnen.
+Vor allen Dingen
+versuchte
+er natürlich,
+die
+seiner
+Ansicht
+nach
+erneuerte
+herrschende
+Partei
+mit ihrem
+früheren Bischof
+Flavianus
+zu
+versöhnen,
+den
+sie
+auch
+nach
+der Erhöhung
+des Johannes
+nicht
+als
+ihren Bischof
+anerkennen
+wollte.
+Zu
+diesem Zwecke
+reisten
+auf seinen
+Wunsch
+der Bischof Akakius
+und der Presbyter Isidor
+nach Rom. Was
+früher
+für
+unmöglich
+gehalten
+war,
+erwies
+sich
+jetzt
+als ganz leicht
+erreichbar:
+sie
+kehrten
+schnell zurück
+und brachten dem Flavianus
+13)
+und
+damit
+selbstverständlich
+auch
+allen Anhängern
+des Origenes
+das
+entsprechende
+Anerkennungsschreiben.
+Auf
+die
+gleiche
+Weise
+gelang
+es ihm,
+auch
+die Arianer
+für sich
+zu
+gewinnen.
+Der
+Hass
+zwischen
+ihnen
+und
+den
+Nikolaiten
+war
+so
+gross,
+dass
+zwischen
+beiden
+Parteien
+ständig
+auf
+den
+Strassen
+Kon
+stantinopels und
+anderer
+Städte
+Prügeleien
+stattfanden,
+besonders
+wenn
+zwei Prozessionen
+der feindlichen Parteien
+sich
+begegneten.
+Unter
+ge
+wöhnlichen
+Umständen
+wäre
+es
+ganz
+unmöglich
+gewesen,
+sie zu ver
+söhnen.
+Dem Johannes
+hingegen
+in seiner Ausnahmestellung
+gelang
+es,
+sogar
+dieses,
+wenn
+auch
+nur für kurze
+Zeit,
+zu bewerkstelligen.
+Die
+arianische Partei
+war
+ihm
+so
+zugetan,
+dass
+die
+gotischen
+Arianer
+ihn
+
+--- Page 186 ---
+160
+darum
+angingen,
+den Presbyter Ulinas
+eigenhändig
+einzuweihen,
+was
+von Johannes
+auch
+erfüllt
+wurde.
+Jetzt,
+wo wir
+die Zeit
+des
+Erscheinens
+der
+Offenbarung
+kennen
+und uns
+schon
+überzeugen
+konnten,
+dass
+der Verfasser kein anderer
+als
+Johannes
+selbst
+war,
+können
+wir geradezu
+sagen,
+dass
+es in den ersten
+Jahren
+seiner
+Verwaltung
+weder
+Nikolaiten
+noch
+Arianer
+noch
+andere
+christliche
+Sekten gab
+oder
+geben
+konnte.
+Alle
+waren
+Origeniten
+oder
+richtiger
+Johanniten,
+wie
+sich
+damals
+die Anhänger
+des Johannes
+auch
+nannten.
+Später,
+als die
+drei
+schrecklichen Jahre der
+ständigen
+Erwartung
+des Weltendes
+vergangen
+waren,
+als
+das
+neue
+5. Jahrhundert
+begonnen
+und
+Johannes
+selbst
+zweifellos
+erklärt
+hatte,
+dass
+Gott
+sich
+der
+Sünder
+erbarmt
+und
+seine Wiederkunft
+auf Erden
+auf lange Zeit ver
+schoben
+habe,
+da
+entbrannten
+alle früheren Leidenschaften, wie wir bald
+sehen
+werden,
+mit
+neuer
+Gewalt
+und fegten
+den Johannes
+selbst
+und
+seine
+Freunde und Anhänger
+weg.
+l) Eine
+solche Panik
+herrschte
+auch
+im Jahre
+1000
+und
+1492
+unserer
+Zeit
+rechnung,
+7000
+Jahre
+nach
+der
+„Zeit
+der biblischen
+\Veltschöpfung“
+im Jahre
+5508
+vor Christi
+Geburt.
+’) Murawiew:
+Die
+Geschichte
+der
+ersten
+vier
+Jahrhunderte
+des
+Christentums,
+S.
+336.
+a) Dialogus
+historic.
+Palladii
+episcopi
+Helenopolis
+cum Theodoro
+diacono
+dis
+logus V.
+‘) Aimä
+Puech.
+St.
+Jean
+Chrysostome,
+286.
+‘)
+Leben
+der Heiligen.
+November.
+S. 146 f.
+') dui
+d‘e‘ 16
+a'Ero'mgrov
+1ﬁr;
+1ugorom'ag'
+nugr]dav
+Ex ßmnhxm)’ ngoo'ﬂiypato;
+7103.10! 15 xori
+ri'Äloa
+e'nio'xonoi‚
+Xai
+dq‘ ami‚ o' n]; Als5ard‘gsiu;
+966rp:10;(2wxgrifovg
+2‘10
+).mrnxoü
+Exxlr‚amanxﬁ
+‘Iamgia.
+Ke(p.
+ß’, Toyo; VI.
+p.
+661.
+") Ein
+Edikt
+des
+Kaisers
+Arkadius
+und Honorius
+zu
+Anfang
+des Jahres
+399
+verbot
+alle Theatervorstellungen
+an
+Sonntagen.
+Im Frühjahr
+des Jahres 400
+wurde
+dazu
+noch
+die Woche
+vor
+und
+nach
+Ostern
+hinzugefügt
+usw. (Aimö Puech.
+p. 282).
+So
+war
+die Panik vor Beginn
+des
+5. Jahrhunderts.
+Wir müssen uns erinnern,
+dass
+in
+Byzanz
+das
+neue Jahr mit
+dem Frühling begann.
+') Murawiew:
+Die
+Geschichte
+der
+ersten
+vier
+Jahrhunderte
+des
+Christentums,
+S. 336—337.
+°) Ebenda,
+S.
+345.
+‘°)
+S. 338.
+“) Aimä Pusch:
+St. Jean
+Chrysostome,
+p.
+310.
+") Die
+Reden
+des
+Heiligen
+Johannes
+Chrysostomus.
+Ausgabe
+vom Jahre
+1877.
+S.
+e‘ (in altrussischer
+Sprache).
+") Murawiew:
+Die
+Geschichte
+der ersten
+vier Jahrhunderte
+des
+Christentums,
+S. 314 u.
+315.
+
+--- Page 187 ---
+161
+IV.
+Der verhängnisvolle
+13. März
+des jahres 399.
+Das Versagen
+der astrologischen
+Prophezeiung.
+Die Versuche des Johannes,
+sich
+zu
+rechtfertigen.
+Ich werde
+mich nicht
+bei
+einer Reihe wunderbarer Ereignisse auf
+halten,
+mit
+denen
+die
+alten
+byzantinischen
+Geschichtsschreiber
+diese
+ganze
+Periode im Leben
+des Johannes
+ausgeschmüekt
+haben,
+damit aus
+meiner
+Schilderung
+nicht
+eine Erzählung
+in
+der Art von
+Tausend und
+einer Nacht
+herauskommt.
+Ich werde
+unmittelbar
+zum
+verhängnisvollen
+13. März
+399
+über
+gehen,
+an
+dem nach
+seinen
+astrologischen Berechnungen
+das Lamm
+aus
+dem
+Sternbilde
+des
+Widders
+auf
+dem
+hellweissen
+Boss-Jupiter
+auf
+die Erde
+herunter kommen
+sollte
+(dass
+das Herabkommen Christi
+auf
+die Erde
+gerade
+an
+eben
+diesem Sonntag geschehen sollte, wusste
+wahr
+scheinlich nur
+er allein, weil
+er
+diesem
+Tag
+in
+den Kapiteln
+11,
+12 und
+19
+der
+„Offenbarung“
+so in
+Chiﬂ’ren
+versteckt
+hat,
+dass
+ganze
+andert
+halb Jahrtausende
+niemand
+sich
+daraus
+verständigen konnte.
+Aber man
+kann
+sich
+denken,
+dass er in
+allgemeinen
+Anspielungen
+oft darauf hin
+gedeutet
+und sogar seinen Freunden gegenüber
+in intimen Unterhaltungen
+sich direkt
+hierüber
+ausgesprochen
+haben
+wird,
+dass alles im Jahre 399
+enden
+und
+das
+darauffolgende
+fünfte
+Jahrhundert
+schon
+„das
+Reich
+unseres Herrn Jesus,
+des Gesalbten,
+sein
+werde ‘)“.
+Von seinen
+näheren
+Freunden
+musste
+diese Mitteilung
+sich
+unbedingt
+von
+Mund
+zu
+Mund
+weiter verbreiten.
+Schliesslich
+war
+es
+für
+die
+Gläubigen
+ein
+offenes
+Geheimnis,
+dass
+das Ereignis
+mit den
+letzten
+Jahren
+des
+vierten Jahr
+hunderts nach Jesu Geburt
+im Zusammenhang
+stehe,
+obwohl
+niemand
+den
+genauen
+„Anfang“
+des fünften Jahrhunderts
+wusste,
+weil
+die Zeit
+der Geburt Jehoschuas (Jesu)
+damals
+noch nicht ofﬁziell festgestellt
+war.
+Vier Jahrhunderte
+seien
+den
+Menschen
+gegeben
+worden,
+damit
+sie
+an
+ihn
+glaubten,
+ein
+fünftes
+Jahrhundert
+werde
+es
+nicht
+mehr
+geben,
+so
+meinten
+die Anhänger
+des Johannes,
+und das
+entsprach
+den Ansichten
+der Alten,
+dass alles in
+der Welt mit Zahlen in Zusammenhang
+stehe
+"’).
+Während
+nun
+die
+anderen
+Personen
+noch
+in Angst
+auf
+die Er
+füllung
+der Prophezeiung
+warteten,
+war
+der
+verhängnisvolle
+Tag ﬁir
+Johannes
+schon
+vergangen,
+und
+nichts
+Besonderes
+hatte
+sich in
+der
+Natur
+ereignet.
+Wie
+hat
+Johannes
+sich
+hierzu
+gestellt?
+Die
+Hin
+weise
+hierauf
+ﬁnden
+wir
+in
+seinen
+eigenen
+Reden,
+die
+sich
+auf
+die
+Prophezeiungen
+des
+Jonas
+beziehen.
+Die
+Geschichte
+der
+beiden
+Pro
+Morosow,
+Die Offenbarung
+Johannis.
+11
+
+--- Page 188 ---
+162
+pheten
+ist derart ähnlich,
+dass ich
+die kleine biblische Sage
+über Jonas
+fast
+in ihrem ganzen
+Umfange hier anzubringen wage:
+„Es
+erging aber
+das Wort Jahves
+an Jonas,
+den
+Sohn
+Arnithais:
+,Auf,>begib dich
+nach
+Ninive,
+der
+grossen‚ Feste 8) (wie
+es'
+auch
+dem
+Johannes
+geboten
+war,
+gegen die grosse Feste Babylon zu predigen),
+und
+predige
+ihr;
+denn ihre Bosheit ist heraufgekommen
+vor mein Angesicht.‘
+Und
+Jonas
+machte
+sich
+auf,
+um
+vor
+Jahve
+nach
+Tharsis
+zu
+ﬂiehen
+(wie
+auch
+vielIeicht
+Johannes
+nach
+Patmos).
+Da
+aber
+erhob
+sich ein Sturm,
+und
+die
+Schiffer
+warfen Jones
+ins
+Meer,
+wussten
+sie
+doch,
+dass er sich
+auf der Flucht vor Jahve
+befand,
+denn
+er hatte
+es
+ihnen
+mitgeteilt.
+Jahve
+aber
+veranlasste
+einen
+grossen Fisch, Jonas zu verschlingen.
+Und.Jonas war
+im Leibe
+des Fisches
+drei Tage unddrei
+Nächte.
+Da
+betete
+Jonas
+im
+Leihe
+des
+Fisches
+zu Jahve,
+seinem
+Gott,
+und
+es
+befahl Jahve
+dem Fisch,
+Jonas
+auf das Land
+zu
+speien.
+'
+Da
+machte
+sich Jones
+auf und
+begab sich nach Ninive,
+wie Jahve‘
+befohlen
+hatte.
+Ninive
+aber
+war
+eine
+gewaltige grosse Stadt
+bei Jahve,
+drei Tagereisen gross.
+Und Jonas
+ﬁng an, in die Stadt
+hineinzugehen,
+um
+zu
+predigen,
+und
+sprach:
+‚Noch
+vierzig
+Tage‘),
+und
+Ninive
+wird
+zerstörti‘
+Das
+glaubten die Leute
+von Ninive
+und
+riefen
+ein Fasten
+aus
+und
+zogen
+Trauergewänder
+an vom
+Grössten bis zum Kleinsten
+(wie
+auch die Ein
+wohner
+von Konstantinopel
+bei
+Johannes).
+Und
+als
+die
+Kunde
+zum
+Könige
+von Ninive
+gelangte,
+erhob
+er sich
+von
+seinem Throne (wie Ar»
+kadius bei Johannes),
+. legte
+seinen
+Mantel
+ab
+und
+hüllte
+sich
+in ein
+Trauergewand,
+sodann
+setzte
+er
+sich
+in den Staub.
+Als
+nun Gott ihr Tun gewahrte,
+dass sie sich von ihrem schlimmen
+Wandel
+bekehrten,
+da. liess er sich das Unheil
+gereuen,
+das
+er ihnen
+angedroht hatte,
+und führte
+es nicht
+aus.
+' Das
+verdross
+Jonas
+schwer und
+er
+geriet
+in Zorn
+und
+betete
+zu
+Jahwe
+und
+sprach:
+‚Ach, Jahwe,
+das ist’s ja,
+was
+ich dachte,
+als ich
+noch
+in meiner
+Heimat
+war,
+darum
+wollte
+ich
+nach
+Tharsis
+ﬂiehen!
+Denn ich wusste
+wohl,
+dass
+du
+ein
+gnädiger
+und
+barmherziger
+Gott
+bist, langsam
+zum
+Zorn
+und
+reich
+an Huld,
+und
+dass du dich das Uebel
+gereuen
+lässest.
+So
+nimm
+nun,
+Jahve,
+mein
+Leben
+dahin,
+denn
+es
+ist»
+besser
+für
+mich,
+ich sterbe,
+als
+dass ich leben bleibe
+(als Lügenprophet).‘
+Jahve
+aber
+sprach:
+‚Bist
+du
+mit
+Recht
+so
+erzürnt?‘
+Hierauf
+verliess Jones
+die Stadt
+und
+nahm
+seinen
+Aufenthalt
+östlich
+von
+der.
+Stadt.
+Selbst machte
+er
+sich
+eine Hütte
+und
+setzte
+sich
+darunter
+in
+den Schatten,
+um
+abzuwarten,
+was
+mit
+der
+Stadt
+geschehen
+würde.
+Da liess
+Jahve-Gott
+einen
+Rizinus
+über
+Jones
+empcrwachsen,
+damit er
+
+--- Page 189 ---
+163
+Schatten über seinem Haupte hätte
+und ihm von seinem Unmute geholfen
+würde;
+und Jonas
+hatte
+grosse
+Freude
+über
+den Rizinus.
+Als aber des
+andern
+Tages
+die Morgenröte
+anbrach,
+veranlasste
+Gott
+einen
+Wurm,
+den Rizinus
+zu stechen,
+dass
+er verdorrte.
+Als
+nun
+die Sonne
+aufging,
+veranlasste
+Gott
+einen
+Ostwind,
+und
+die
+Sonne
+stach
+Jonas
+auf
+sein
+Haupt,
+dass
+er gänzlich
+ermattete.
+Da
+wünschte
+er
+sich
+den Tod
+und
+sprach: ‚Es
+ist besser
+für
+mich,
+ich
+sterbe,
+als
+dass ich leben
+bleibe!‘
+Da
+sprach
+Gott
+zu Jonas:
+‚Bist
+du mit Recht
+so
+erzürnt
+wegen
+des
+Rizinus?‘
+Er
+antwortete:
+‚Mit Recht
+zürne
+ich
+bis
+zum
+Tode!“
+Jahve
+aber
+sprach:
+‚Dich jammert
+der
+Rizinus,
+obschon
+du dich nicht
+um ihn bemüht,
+noch
+ihn
+gröss
+gezogen
+hast,
+der in
+einer
+Nacht
+ent
+stand
+und
+in
+einer
+Nacht
+zugrunde
+ging.
+Und
+mich
+sollte
+es
+nicht
+jammern
+Ninives,
+der
+grossen
+Feste,
+in
+der
+sich
+mehr
+als
+120000
+Menschen
+beﬁnden,
+die nicht zwischen rechts
+und links zu unterscheiden
+wissen,
+und viele Tiere?“
+Aus dieser kurzen Legende wehen
+einem
+so stark die neutestament
+lichen
+Vorstellungen
+von
+Gott
+aus
+den
+ersten
+Jahrhunderten
+des
+Christentums
+entgegen
+und
+sie erinnert
+dermassen
+an
+die
+Geschichte
+des
+Johannes
+selbst,
+wie
+sich
+diese
+nach
+meiner
+Berechnung
+der Zeit
+der
+„Offenbarung“
+darstellt,
+dass ich
+schon
+öfters
+daran
+gedacht
+habe,
+ob
+sie
+nicht vielleicht
+dem Anfang
+des
+fünften Jahrhunderts
+angehört
+und
+ob
+ihr
+nicht
+die
+Geschichte
+der nicht erfüllten
+Prophezeiung
+des
+Johannes
+zugrunde
+liegt.
+Sogar
+der
+Name Jonas
+könnte
+leicht
+auch
+der Name des Johannes
+in fremdländischer Aussprache
+sein.
+Hat
+sich
+doch
+Johannes
+bei
+verschiedenen
+Völkern
+in Jan,
+Jean,
+John
+usw.
+verwandelt!
+Indessen
+dieser Vermutung widerspricht der Umstand, dass Johannes
+selbst
+in den ihm zugeschriebenen
+Reden mehrfach
+auf die
+Legende
+des
+Jonas
+hinweist
+(die
+von
+verschiedenen
+mittelalterlichen
+Theologen
+in
+das Jahr 862 vor Chr. Geburt verlegt wird),
+und zu einer astronomischen
+Berechnung
+ihrer
+Entstehungszeit
+gibt
+die
+Legende
+von
+Jonas
+gar
+keinen
+Anhaltspunkt“).
+Aber
+für
+uns
+ist
+dies
+in
+diesem
+Falle
+nicht
+wichtig.
+Ist
+die
+Legende
+christlichen
+Ursprungs,
+so
+bezieht
+sie
+sich
+zweifellos
+auf Johannes,
+dessen Leben
+mit
+allen
+möglichen
+Legenden
+überfüllt
+ist,
+und
+zeigt,
+wie er selbst
+und
+seine
+Umgebung
+und
+das
+ganze Volk
+im
+Orient
+das Fehlschlagen
+seiner
+Prophezeiung erklärten.
+Ist
+sie aber
+früheren
+Ursprungs,
+so
+musste
+sie ihm zur Erklärung seiner
+eigenen
+Lage
+dienen.
+Und in
+der Tat
+ﬁnden
+wir
+in
+den
+Reden,
+die
+man
+dem Johannes
+zuschreibt,
+und
+die
+der
+Zeit
+seiner
+Tätigkeit
+in
+Konstantinopel
+angehören,
+eine
+ganze
+Reihe
+von
+Hinweisen
+auf Jonas
+und
+andere Propheten, deren Prophezeiungen von
+Gott unerfüllt
+gelassenv
+
+--- Page 190 ---
+164
+seien.
+Mit
+solchen
+Hinweisen entschuldigt
+er sich gewissermassen
+selbst,
+oder
+noch
+besser
+taten
+dies
+spätere
+Schriftsteller,
+die
+nach
+der Erinne
+rung
+anderer
+diese Reden wiedergaben.
+Da sind z. B. einige Zitate aus
+der
+Sammlung
+seiner
+(?) Predigten
+„über
+die Busse“,
+herausgegeben
+zu
+Moskau
+im Jahre
+1877
+in
+sechster
+Auflage
+in
+der
+kirchen-slavischen
+Sprache.
+In
+der
+ersten
+dieser
+Reden
+heisst
+es
+(Seite
+3):
+„Die
+ganze
+Stadt
+Ninive
+rettete
+sich
+auf diese Art (d. h. indem
+sie für ihre Sünden
+Busse
+tat und Gott hat, sich
+ihrer zu erbarmen),
+obwohl
+der Beschluss
+Gottes
+sie zur Verzweiflung
+brachte,
+weil
+der Prophet ihnen nicht gesagt hatte,
+dass
+sie
+sich
+retten
+würden,
+wenn
+sie Busse
+täten,
+sondern nur einfach:
+‚Noch
+drei Tage,
+und
+Ninive
+wird
+untergehen.‘
+(In
+der
+lateinischen
+Vulgata
+in modernen
+Abschriften
+sind
+es statt drei Tagen vierzig.)
+Aber
+obwohl Gott
+drohte
+und
+der Prophet jammerte
+und
+seine Verkündigung
+von keiner Verschiebung
+oder
+Bedingung
+sprach,
+so
+gaben
+sie doch den
+Mut und
+die Hoffnung
+nicht
+auf.
+Darum
+eben
+hat
+Gott
+auch
+keine
+Bedingung
+hinzugefügt
+und
+auch
+nicht
+gesagt,
+dass
+sie im Falle
+ihrer
+Besserung gerettet
+werden
+würden, damit auch wir, die wir (jetzt)
+Gottes
+Beschluss,
+der
+uns
+ohne
+Bedingung
+verkündet
+wird,
+hören,
+in Anbetracht
+dieses
+Beispieles
+den Mut
+nicht
+verlieren
+und nicht
+schwach
+werden.“
+Die
+gesperrten
+Wörter sind
+hier
+sehr
+be
+zeichnend:
+wir
+hören
+gar nicht
+so
+oft
+von
+„Gottes Bestimmungen,
+die
+ohne Bedingung
+ausgesprochen
+werden“,
+dass
+man
+über sie in gewöhn
+licher Zeit
+ohne
+weiteres
+so
+reden
+könnte.
+Wahrscheinlich
+bezieht
+sich
+eben
+diese
+Stelle auf jene Erwartung
+der zweiten Ankunft Christi
+und
+auf die in
+der
+„Offenbarung“
+vorausverkündigten
+Leiden.
+In
+der
+zweiten Rede (Seite
+9) wird
+das Beispiel
+der
+unerfüllten
+Prophezeiung
+des Elias
+gegenüber
+dem
+Ahab
+angeführt:
+„Und
+Elias
+übermittelte
+dem Ahab
+die
+Bestimmung Gottes
+in
+folgenden
+Worten:
+‚So
+spricht Jahve: Weil
+du Naboth
+getötet
+und
+seinen
+Weinberg
+an
+dich
+genommen
+und
+das Blut
+eines
+unschuldigen Menschen
+vergossen
+hast,
+so
+soll
+auch
+dein Blut vergossen
+werden,
+und
+die Hunde
+wer
+den
+es
+lecken,
+und
+Dirnen
+werden sich
+darin
+waschen‘
+(in der Vulgata
+und in modernen
+Ausgaben ist dieser
+letzte Ausdruck
+nicht
+enthalten,
+und die
+ganze
+Stelle ist anders
+wiedergegeben
+(siehe
+das l. Buch
+der
+Könige,
+Kap.
+21,
+am
+Schluss).
+Aber
+Ahab
+bekannte sein Unrecht
+und
+Jahve hob
+sein Urteil auf.“
+Aber
+Johannes
+fährt in seiner
+Rede fort:
+Vorher
+entschuldigte
+sich Jahve vor Elias,
+damit
+dieser
+nicht
+als
+Lügner
+dastehe
+und
+das zu erdulten hätte,
+was Jonas zu erdulden hatte.
+Was sagt
+aber Jahve
+zu Elias?
+Hast
+du gesehen
+(sagte
+er), wie Ahab
+ging, weinte und
+vor mir jammerte?
+Ich werde
+nicht
+tun,
+wie
+er
+es
+
+--- Page 191 ---
+165
+nach
+seiner
+Bosheit verdient“
+(in
+der Vulgata
+und
+den
+modernen
+Aus
+gaben heisst
+es,
+dass Gott die Rache vom Vater
+auf den
+Sohn
+übertrug).
+Ferner
+wird
+auch
+in
+dieser Rede die ganze Erzählung
+von Jonas wieder
+holt,
+den ganzen
+übrigen Inhalt aber
+bildet
+die Hoffnung
+auf die Barm
+herzigkeit
+Gottes
+gegenüber
+den reuigen Sündern.
+In
+der
+fünften
+Rede
+kommt
+der
+Verfasser
+wiederum
+auf Jonas
+zurück,
+und
+nach Wiederholung
+der
+ganzen
+Erzählung
+von
+seiner
+miss
+glückten Prohezeiung
+schliesst er diese Rede folgendermassen:
+(Seite 23)
+„Warum,
+Gott,
+Allmächtiger,
+verkündest
+du
+das
+Leiden
+voraus?“
+„Deswegen“, gibt er zur Antwort,
+„damit ich das nicht ausführe,
+was ich
+prophezeie“.
+Darum
+drohte
+er
+auch
+uns
+mit
+einer
+Hölle (wahrschein
+lich in der unlängst erschienenen
+„Offenbarung in Gewitter
+und Sturm“),
+um
+uns
+nicht dorthin
+zu
+schicken:
+„Vor
+meinen Worten
+sollen sie sich
+fürchten, von den
+Sachen
+aber
+sollen sie kein Leid erdulden!“
+Jn der
+siebenten
+Rede wird
+auf den Sinn
+der
+siebentägigen
+Frist
+beim Sturze Jerichos
+hingewiesen,
+und
+dort heisst
+es
+(Seite 38):
+„Du
+bist stark
+(Gott),
+Berge
+von
+der
+Stelle zu
+bewegen
+und
+ins Meer
+zu
+werfen,
+aber
+die
+eine hartnäckige Stadt willst du nicht vernichten,
+son
+dern
+bestimmst
+sieben Tage für ihre Vernichtung!
+Warum?
+Nicht meine
+Macht ist kraftlos,
+antwortet
+er,
+sondern
+meine Barmherzigkeit
+ist lang
+sam!
+Ich
+gebe
+ihr
+sieben
+Tage,
+wie
+ich Ninive
+drei
+gegeben
+habe.
+Es kann ja sein,
+dass
+diese
+Stadt
+die
+Mahnung
+zur
+Busse
+annehmen
+und
+sich
+dadurch
+retten
+wirdl“
+Hier
+kommt
+ein
+derartiger
+Wunsch
+des Verfassers
+zum
+Vorschein,
+möglichst viele Beispiele
+aus
+der
+Bibel
+über
+die
+von
+Gott
+abgeänderten
+Prophezeiungen
+anzuführen,
+dass
+er
+sogar
+unwillkürlich übertreibt
+und
+dem
+Befehl
+Jahves
+an Josua,
+den
+Sohn Nuns,
+eine
+sehr
+gezwungene
+Auslegung
+gibt,
+sieben
+Tage
+lang,
+bevor die
+Mauern von Jericho fallen,
+mit Posaunen
+um
+die Stadt
+zu
+gehen.
+In
+der Bibel
+ist von einer
+solchen Erklärung, wie Johannes
+sie
+diesen
+Umzügen
+gibt, nicht
+die geringste Spur
+vorhanden.
+In der
+vierten Rede
+dieser
+Reihe
+(die
+wahrscheinlich
+die
+letzte
+von
+ihm
+war,
+weil
+ihre
+Reihenfolge
+nicht
+festgestellt
+ist)
+lesen
+wir
+schliesslich auf Seite 14:
+„Als
+wir
+infolge
+von
+Hunger
+und
+Krankheit,
+von
+Hagel
+und
+Trockenheit,
+von
+Bränden
+und
+feindlichem
+Ueberfall
+betrübt
+waren,
+war
+da
+nicht
+unsere
+Kirche
+zu
+eng
+wegen
+des Volkes,
+das
+sich
+dort
+angesammelt
+hatte?
+Da nun aber
+Gott
+seinen
+Zorn
+beruhigt
+und
+dem
+Leiden
+ein
+Ende
+gemacht
+und
+nach
+solchem
+Sturm
+wieder
+Stille
+hatte
+eintreten
+lassen,
+so konnten wir von
+neuem
+zu
+unseren
+alten Be
+schäftigungen
+zurückkehren.
+Und
+obwohl
+ich
+während
+der
+Zeit
+der
+Versuchung
+nicht
+aufgehört
+habe,
+dies
+zu
+prophezeien
+und
+zu
+ver
+
+--- Page 192 ---
+166
+kündigen,
+so
+habt ihr
+das nicht
+ausgenützt.
+Ihr
+habt
+dies
+alles
+aus
+eueren Gedanken
+fortgeworfen, wie
+einen Traum der vergangenen
+Nacht.
+Deswegen
+fürchte
+ich jetzt
+mehr
+als
+damals,
+dass ihr
+euch
+noch viel
+schlimmere
+Leiden
+als früher
+zuziehen
+und
+dass ihr von Gott
+mit
+einer
+unheilbaren Wunde
+geschlagen
+werdet.“
+Aus
+dieser
+Rede
+fühlt
+man
+heraus,
+dass
+das Volk
+sich
+gewisser
+massen
+schon
+von der allgemeinen
+Panik erholt
+hatte,
+durch welche die
+gewaltsame
+Ernennung
+des
+Johannes
+in Konstantinopel
+hervorgerufen
+worden war,
+als
+die Zirkusse
+und
+Theater leer standen,
+wie
+die Ufer
+austrocknen
+infolge
+der
+vom
+Winde
+vertriebenen
+Wellen.
+Natürlich
+liegt mir
+der Gedanke fern (wie ich
+dies
+schon
+oft
+gesagt
+habe),
+dass
+diese
+Reden
+nach
+den Worten
+des Johannes
+selbst
+stenographiert
+und
+nicht vielmehr nachträglich
+aus Erinnerungen und Ueberlieferungen unter
+seinem Namen zusammengestellt
+worden sind.
+Der Vergleich
+derjenigen
+von ihnen, die
+zu uns in zwei alten Kopien gelangt sind,
+zeigt genügend,
+wie wenig
+genau
+man
+es mit ihnen
+genommen
+hat“).
+Dennoch
+zeigen
+verschiedene
+Besonderheiten
+der von uns
+angeführten
+Serien
+eine grosse
+Wahrscheinlichkeit.
+Hiefür
+spricht
+vor allem
+die völlige
+Abwesenheit
+irgend
+welcher Bezugnahme
+auf die
+„Offenbarung“
+und
+auf
+das Evan
+gelium
+des Johannes,
+obwohl
+die
+anderen
+drei
+Evangelien
+sowie
+andere
+Schriften
+aus
+der Bibel
+und
+besonders
+die Briefe Pauli ausgiebig zitiert
+werden.
+Unwillkürlich
+drängt
+sich einem
+das Gefühl
+auf,
+dass
+diese Reden
+von Leuten
+verfasst worden
+sind,
+für
+die
+die
+Ueberlieferung
+der
+Zu
+gehörigkeit
+der
+Apokalypse
+zu
+Johannes
+selbst
+noch
+nicht
+verloren
+gegangen
+war.
+Sogar an denselben
+Stellen, wo speziell von der Wieder
+kunft
+Christi
+gehandelt wird,
+z. B. in
+der Rede „Am Tage
+der Nieder
+kunft
+des heiligen
+Geistes“
+(auf Seite
+122)
+wagte
+der Verfasser keine
+Zitate
+aus
+der
+„Offenbarung“
+anzuführen:
+„Wollt
+ihr,
+so
+werde
+ich
+auch
+auch
+etwas
+Furchtbares
+sagen,
+aber nicht
+um
+euch
+zu betrüben,
+sondern
+zu
+bessern.
+Dann
+wird
+ein Feuerstrom ")
+von
+diesem
+Throne
+(d. h. vom Himmel)
+ﬂiessen
+und
+werden
+Papyrus- Rollen geöffnet
+werden.
+Es wird
+ein
+furchtbares
+und
+strenges
+Gericht
+abgehalten
+werden,
+und
+es werden
+die Vermerke
+über unser
+Leben
+vorgelesen
+werden,
+wie bei
+den
+irdischen
+Gerichten.“
+Von
+solchen
+Rollen
+haben
+aber
+die
+Pro
+pheten
+nicht
+gesprochen.
+Zur
+Bestätigung
+dieser
+Worte
+führt
+der Abschreiber
+der
+Reden
+des Johannes
+Zitate
+aus
+Moses
+und David,
+die
+Worte
+Jesu
+bei Lukas
+an,
+ferner
+zitiert
+er Maleachi,
+die Sprüche
+Salomos
+und den Brief des
+Paulus
+an
+die Kolossers).
+Kurz,
+er
+sammelt
+von
+jenen
+im
+„alten
+und
+neuen
+Testament“,
+das
+zu
+seiner
+Zeit
+vorhanden
+war,
+alle
+kleinsten
+
+--- Page 193 ---
+167
+Brocken,
+aber die wichtigste der neuesten Prophezeiungen,
+noch dazu eine
+solche,
+die jetzt
+dem Lieblingsjünger
+Jesu
+zugeschrieben
+wird,
+erwähnt
+er mit
+keinem
+Wort!
+Wenn
+diese
+Reden
+später
+geschrieben
+worden
+wären
+und
+dabei
+von
+einem
+Manne,
+der
+von
+der
+Zugehörigkeit
+der
+„Offenbarung“
+zu Johannes
+nichts gewusst hätte,
+so
+hätte
+er unbedingt
+das
+ganze
+20. Kapitel
+der
+„Offenbarung“
+abgeschrieben,
+das
+speziell
+diesem
+„schrecklichen
+und strengen
+Gericht“ und
+diesem ‘„Feuerstrom
+oder
+See“
+gewidmet ist.
+‚
+.
+Fasst
+man
+alle
+hier
+angeführten
+Stellen
+über Jonas
+und
+über
+andere
+unerfüllte
+Prophezeiungen
+zusammen‚
+so
+kann
+es
+einem
+nicht
+entgehen,
+dass
+der Verfasser
+dieser
+Reden
+aus
+irgend
+einem
+Grunde
+bemüht
+ist,
+auf
+sie
+bei jeder
+passenden
+und
+unpassenden
+Gelegenheit
+hinzudeuten.
+Warum
+also
+zieht
+es ihn
+so zu
+diesem
+Gegenstande
+der
+unerfüllten
+Prophezeiungen,
+denen
+alle
+anderen
+Schriftsteller
+gerade
+aus
+dem
+Wege
+gehen,
+weil
+sie
+bemüht
+sind,
+die
+Bestimmungen
+Gottes
+als unabwendbar hinzustellen?
+Aus dem einfachen
+Grunde, ant
+worte
+ich,
+weil
+er
+es
+nötig
+hatte,
+hierdurch
+die
+Nichterfüllung
+der
+Prophezeiung
+des Johannes
+sowohl in
+seinen
+eigenen
+Augen
+wie
+auch
+in denjenigen
+der
+anderen
+zu rechtfertigen.
+Die
+Rede,
+in
+der Johannes
+ofﬁziell im Jahr 399 oder 400 ankündigen musste,
+dass alle
+von
+ihm vor
+ausgesagten
+Leiden
+und
+mit
+ihnen
+auch
+die Wiederkunft
+Christi
+auf die
+Erde, infolge der allgemeinen
+Busse auf unbestimmte
+Zeit hinausgeschoben
+seien,
+ist nicht auf uns
+gelangt.
+Sie
+konnte
+auch
+gar
+nicht
+auf
+uns
+komm’en, nachdem
+man beschlossen
+hatte,
+die Prophezeiung einer
+anderen
+Person
+und
+einer
+anderen
+Zeit
+zuzuschreiben.
+Hingegen
+haben
+sich
+geringere Nachklänge
+von
+untergeordneter Bedeutung
+über
+die
+Recht»
+fertigungen
+des Johannes,
+die, wie wir bald sehen Werden,
+aus anderen
+Anlässen vorgetragen wurden, in ﬂüchtigen Notizen erhalten,
+gleichgültig,
+ob
+sie
+die
+eigenen Reden
+des Johannes darstellen
+oder einige Jahrzehnte
+später von seinen
+Anhängern
+aus
+der
+Erinnerung
+verfasst sind.
+Auf
+Grund
+einiger
+von
+uns
+zitierter
+Stellen
+und
+des
+weiteren
+Benehmens
+des Johannes
+kann
+man
+annehmen,
+dass
+nach
+der
+ersten
+Zeit
+der Niedergeschlagenheit
+infolge
+der Nichterfüllung
+seiner
+Prophe
+zeiung,
+als Johannes
+wahrscheinlich,
+wie Jonas,
+Gott
+um
+den
+Tod an
+ﬂehte,
+ihm
+der Glaube und die Zuversicht
+zurückkehrten
+und
+er
+sich
+zu
+denjenigen
+Propheten
+zählte,
+die
+von Gott von
+der Aufhebung
+seines
+Beschlusses
+rechtzeitig
+benachrichtigt
+werden wären.
+Seine
+Ansichten
+über
+die
+„göttliche
+Eingebung“
+geben
+ihm
+dazu
+vollkommen
+Recht.
+Hatte
+Gott nicht in
+seine
+Seele
+das
+Erbarmen
+mit den reuigen Sünden
+
+--- Page 194 ---
+168
+gepﬂanzt?
+Hatte
+er nicht
+seine
+Entführung
+aus Antiochia
+zugelassen?
+Hatte
+er nicht
+eine Reihe von Strafen nicht vollzogen?
+Deutlich
+aber
+hatte
+ihm Gott
+gewissermassen
+selbst
+angeordnet,
+an
+der
+Unumstöss
+lichkeit
+der
+Prophezeiung
+zu
+zweifeln
+und
+alle
+durch
+die
+Hoffnung
+auf Verzeihung
+im Falle der Busse zu beruhigen.
+In diesem
+Sinne
+wenigstens
+hat Johannes
+in
+Konstantinopel
+ge
+handelt.
+Er predigte
+die
+ganze
+Zeit von der Busse
+als
+einem Mittel,
+die
+Verzeihung
+Gottes
+zu
+erlangen.
+Er
+räumte
+energisch
+mit
+vielen
+Lastern
+der
+Geistlichkeit
+seines
+Patriarchats
+auf,
+zu
+dem
+6 Bischof
+sitze
+in Thrakien,
+11
+in Kleinasien
+und
+11
+in Pontus
+gehörten
+g).
+In einer Zeit,
+wo
+andere
+uns
+bekannte
+Prediger
+des
+Altertums
+sich durch ihre Leichtgläubigkeit
+in
+bezug
+auf Wunder
+auszeichneten
+und alle möglichen zu
+ihrer Zeit
+umgehenden
+Fabeln
+zur Bestätigung
+der
+Wahrheit
+ihrer Lehre
+verbreiteten,
+wagte
+es Johannes
+allein,
+die
+Möglichkeit,
+Wunder
+zu
+tun,
+im
+Prinzip
+wenigstens
+in
+Abrede
+zu
+stellen.
+„Aus
+welchem
+Grunde
+ist
+jetzt
+den
+Menschen
+die
+Wohltat
+genommen
+worden (durch Wunder
+ihr Recht zu beweisen)?
+Nicht weil
+Gott
+uns
+kränken,
+sondern
+im Gegenteil,
+weil
+er
+uns
+ehren
+wollte!
+Um unsern Glauben zu erweisen,
+richtet
+er
+es
+so ein,
+dass wir ihm auch
+ohne
+handgreifliche
+Beweise
+glauben.
+Jene
+da
+(die
+früheren
+Menschen)
+würden
+unsichtbaren Beweisen
+nicht
+geglaubt
+haben,
+wenn
+sie
+nicht
+vorher Wunder
+zum Pfande erhalten hätten,
+ich
+aber
+glaube
+auch
+ohne
+Wunder.
+Das ist
+der Grund,
+warum
+es jetzt keine Wunder
+mehr gibt.“
+1)
+In
+den Reden,
+die man
+dem
+Johannes
+aus Antiochia (Goldmund)
+zuschreibt,
+sind
+direkte
+Andeutungen
+auf diesen Tag vorhanden;
+auf
+das Jahr 400 nach der Ge
+burt
+Christi
+(899
+unserer
+Zeitrechnung).
+Siehe
+Aim6
+Puech,
+St. Jean
+Chrisostome
+et les
+moeurs
+de
+son temps.
+1891,
+p. 811.
+’)
+Ich
+habe schon
+erwähnt,
+dass
+ähnliche
+Prophezeiungen
+auf
+das
+Jahr
+1000
+unserer Zeitrechnung
+und
+auf das 7000. Jahr nach
+dem biblischen
+Weltschöpfnngstage
+gemacht
+worden
+sind.
+')
+Ich
+übersetze
+hier
+das
+griechische
+Wort
+no'iu;
+mit
+Feste,
+weil
+es
+in
+der
+Apokalypse
+so
+übersetzt
+ist.
+‘)
+In den Abschriften
+des
+4.
+Jahrhunderts waren
+es
+nur
+3
+Tage,
+wie
+bei
+der
+Prophezeiung
+des Johannes
+3'/, Jahre.
+")
+Die
+Stelle
+bei Lukas (XI,
+29—30)
+kann
+man
+als
+eine durch
+die Abschreiber
+hineingebrachte
+ansehen.
+°)
+Man vergleiche
+z. B. die Rede
+über Judas
+Ischariot,
+die in der angeführten
+Sammlung
+in zwei
+Abschriften
+hineingeraten
+ist:
+die
+erste Variation
+unter der Ueber
+schrift:
+„Am
+heiligen
+und
+grossen Donnerstag“
+auf
+Seite 64,
+und
+die zweite
+unter
+der Ueberschrift
+„Vom
+göttlichen
+Abendmahl“
+Seite
+70.
+")
+Es ist bezeichnend,
+dass
+sich
+im
+russischen
+Volke
+noch
+bis
+zur
+Mitte
+des
+19. Jahrhunderts die Vorstellung
+der Abendröte
+als
+eines Feuerstromes
+erhalten
+hat,
+der jenseits
+des
+Horizontes
+ﬂiesst.
+So
+waren
+auch
+meine
+eigenen
+Vorstellungen
+von
+
+--- Page 195 ---
+169
+ihr, die ich von einer alten Wärterin überliefert
+bekommen habe.
+Wenn man Johannes
+über
+den Ort,
+wo sich
+die Hölle
+beﬁndet,
+frag,
+so
+antwortete
+er:
+„Jenseits
+des durch
+eine Kuppel überdeckten
+Kästchens“,
+das von
+seinen Zeitgenossen
+oder von
+ihm selbst
+für das Weltall angesehen wurde;
+i'5w
+toü
+xo'o'yov
+rov'rov
+navto';.
+Das entspricht
+voll
+kommen
+den
+Ansichten,
+die in Kapitel
+14, V.
+20
+ausgedrückt
+sind,
+wo
+der feurige
+Streifen
+der
+Abendröte
+sich
+jenseits
+der
+Feste
+beﬁndet.
+Siehe
+bei
+Aim6
+Puech,
+St. Jean,
+1881,
+pag.
+194.
+°) Hier sind alle
+diese Zitate:
+bei Moses,
+„Verzeihe
+ihnen ihre Sünde,
+wo nicht,
+so tilge
+auch mich
+aus
+dem
+Buche,
+in
+das
+du mich
+eingeschrieben
+hast“.
+(Exod, 32,
+32) Bei Lukas:
+„Freust
+euch,
+dass
+eure
+Namen
+im
+Himmel
+aufgeschrieben
+sind“.
+(10,
+20.)
+In den Psalmen
+(138, 16):
+„In
+deinem Buche
+sind
+alle für mich bestimmten
+Tage
+eingeschrieben,
+als noch keiner
+von ihnen
+da war“.
+Bei Maleachi
+(3,
+16):
+„Vor
+seinem Angesichts
+wird
+das Buch
+derer
+geschrieben,
+die
+Gott
+fürchten“.
+Zum
+Beweis
+dafür,
+dass
+bei unserer
+Reue
+„die
+Sünden
+nicht
+nur
+ausgewischt
+werden“
+(aus
+diesen
+Rollen),
+sondern
+derart
+ausrsdiert
+werden,
+dass
+„auch
+nicht
+eine Spur
+von Tinte nachbleibt“
+(Seite
+123)
+wird
+das Zitat aus Paulus
+angeführt:
+„Ver
+nichtet hat (Jesus)
+durch
+seine Lehre die gegen uns veriertigte
+Handschrift. (K01. 2, 14.)
+') Murawjew,
+Die
+Geschichte
+der
+ersten
+vier
+Jahrhunderte
+des
+Christentums,
+Seite
+340.
+V.
+Die
+Fahrt
+des Johannes
+nach Asien.
+Er und
+die Anhänger
+des Origenes
+werden
+verfolgt.
+Sehr interessant erscheint
+von
+unserem
+Gesichtspunkt
+aus
+die
+ge
+heime
+Versammlung
+der
+kleinasiatischen
+und einiger
+anderer
+Bischöfe
+in Konstantinopel
+im Jahre 400,
+gleich
+nach
+dem Misserfolg
+der
+apo
+kalyptischen
+Prophezeiung
+des Johannes.
+Aus welchem
+Grunde
+kamen
+sie
+zusammen?
+Die
+alten
+Geschichtsschreiber
+wollten
+dies
+der
+Nach
+kommenschaft
+nicht verraten.
+Nur Palladius
+macht
+eine unbestimmte
+Andeutung
+über
+diese
+Zusammenkunft,
+sagt
+aber
+nichts
+über
+deren
+Zweck
+1).
+Jetzt
+können wir
+direkt
+sagen:
+die Freunde
+des Johannes
+kamen
+zusammen,
+um
+darüber
+zu
+beraten,
+was sie jetzt
+tun sollten,
+da Jesus
+zu
+der
+bestimmten
+Frist
+nicht
+erschienen
+war.
+Auf die gleiche
+Weise
+erklärt
+sich
+auch
+seine dreimonatliche Reise
+durch Kleinasien
+nach
+den Weihnachtsfeiertagen
+in dem
+gleichen
+Jahre
+400.
+Wir müssten
+die Psychologie
+der Alten
+schlecht
+kennen,
+wenn
+wir zugeben
+wollten,
+dass
+die Einwohner
+und
+Behörden
+ihn aus Kon
+stantinopel
+herausgelassen
+hätten,
+bevor die ihnen drohende
+Gefahr
+des
+Unterganges
+vollständig
+beseitigt
+wäre,
+d.
+h.
+vor
+dem
+25. Dezember
+des Jahres
+400.
+Wusste
+Johannes
+sie
+auch
+nach
+dem
+13. März
+399
+zu beruhigen,
+so
+musste
+doch
+in
+den Augen
+derjenigen,
+die seine Astro
+logie nicht
+verstanden
+hatten,
+das
+Ereignis
+unbedingt
+mit
+dem
+Ende
+
+--- Page 196 ---
+170
+|
+der
+ersten
+vier
+Jahrhunderte
+in
+Verbindung
+stehen,
+vor
+dieser
+Zeit
+‘
+konnten
+sie
+sich
+nicht
+beruhigen.
+Und
+wenn
+Johannes
+sie
+anlügt?
+Man lässt ihn
+aus der Stadt hinaus,
+und vielleicht wird Gott gerade dann
+alle vorausgesagten
+Leiden
+herabsenden.
+Nein, lieber möge er als Geisel
+dableiben.
+Gott wird
+sich
+seiner
+erbarmen
+und wird
+die
+Stadt
+durch
+das
+angekündigte Erdbeben
+nicht
+zerstören,
+durch
+ein Erdbeben,
+wie
+es noch
+nie,
+„seit dem
+Menschen
+auf der
+Erde wohnen,
+da war“.
+Ja,
+man
+kann
+sicher
+sein,
+dass
+alle
+ihn
+genau
+beobachteten,
+dass
+er
+nicht entwischte;
+war
+er
+doch
+auch mit Gewalt unter Bedeckung seinen
+zeit hierher gebracht werden!
+Uebrigens konnte ja Johannes
+selbst
+bis
+zu dieser Zeit nicht ganz
+sicher sein,
+dass Jesus
+gar nicht
+kommen
+werde.
+Er hätte ja vielleicht
+seinegWiederkunft
+auf die Erde
+bis
+zum
+Schluss
+der
+ersten
+vier Jahr
+hunderte
+verschieben
+können.
+Das
+aber
+entspricht
+durchaus
+den Vor
+stellungen,
+die
+nicht
+bloss
+der Verfasser
+der
+„Offenbarung“,
+sondern
+überhaupt
+das
+gesamte
+Altertum
+mit
+den Zahlen verband.
+Die
+Astrologie
+selbst
+widersprach
+dem
+keineswegs,
+weil
+der
+Durchgang
+der Sonne,
+des
+Mondes,
+des
+Merkur
+und
+vielleicht
+noch
+irgend
+eines Planeten
+durch
+das übeldrohende
+Sternbild
+des Skorpions
+ja
+erst
+am
+8.
+Dezember
+2)
+des
+Jahres
+400
+beendet
+sein
+musste.
+Und
+nun
+gingen
+auch
+diese
+gefährlichen Tage glücklich
+vorüber!
+Johannes beruhigte natürlich
+alle in Konstantinopel
+und
+erhielt
+schliess
+lich
+die Erlaubnis,
+nach
+Kleinasien
+zu reisen
+und
+persönlich
+die
+Sach
+lage
+in
+jenen
+sieben
+Städten
+zu
+erklären,
+an
+die
+er
+seine
+Prophe
+zeiung unmittelbar
+gerichtet hatte.
+Er begab
+sich schleunigst nach Ephesus und anderen Städten Klein
+asiens
+„ungeachtet
+der Winterszeit
+und
+seines
+schlechten
+Gesundheits
+zustandes.“
+Die Gründe,
+die von den byzantinischen Geschichtsschreibern
+hierfür
+angegeben
+werden,
+sind
+ebenso
+widerspruchsvoll
+und
+un
+genügend,
+wie
+die Gründe aller
+andern
+ungewöhnlichen Vorkommnisse
+im Leben
+des Johannes
+nach
+dem Erscheinen
+der Apokalypse.
+Warum konnte er nicht
+die zwei bis drei Monate bis zum Sommer
+anfang
+abwarten?
+Warum
+reiste
+er
+trotz
+seiner
+Krankheit
+und.
+des
+„Rheumatismus
+in den Beinen?“
+Darum,
+antwortet uns Palladius
+‘),
+weil
+Eusebius,
+der Bischof
+von Valentinopol,
+den Bischof Antonius
+von
+Ephesus
+„des Eigennutzes“
+beschuldigte,
+sich jedoch mit ihm versöhnte,
+noch
+bevor
+Johannes
+zur
+Untersuchung
+der
+Sache
+eintraf.
+Antonius
+selbst starb bald, aber
+die
+Gemeinde
+von Ephesus
+ﬂehte
+den Johannes
+trotzdem an,
+persönlich zu kommen,
+um
+die Ordnung
+bei ihr
+wieder
+herzustellen,
+und Johannes
+eilte
+(am
+9.
+Januar 401)
+auf ihre ﬂehende
+Bitte dorthin‘).
+a. < _.4—\*-‘__
+
+--- Page 197 ---
+171
+Für
+uns
+sind jetzt
+diese Eile
+und
+diese Verworrenheit
+der byzan
+tinischen
+Geschichtsschreiber,
+die
+die
+wahre
+Ursache
+nicht
+verraten
+wollten,
+vollkommen klar.
+Der Verfasser
+der
+Offenbarung hatte
+es un
+bedingt nötig,
+diese Reise auszuführen, um
+sich
+mit
+den
+„sieben
+klein
+asiatischen Städten“,
+wohin
+er
+sein Buch
+geschickt
+hatte,
+persönlich
+und an Ort und Stelle
+bei
+der
+ersten besten Gelegenheit auszusprechen.
+Wenn
+Gott
+selbst
+nach
+den
+Worten
+des Johannes
+sich
+bei
+seinen
+Propheten
+wegen
+der
+Aufhebung
+ihrer
+Prophezeiungen
+entschuldigte,
+wie
+sollte
+dann
+ein
+Prophet
+nicht
+eilen,
+sich
+vor denjenigen
+zu ent
+schuldigen,
+die
+er unabsichtlich
+betrogen
+hatte? Natürlich
+hinderte ihn
+niemand
+daran,
+bei
+diesem
+Anlass
+einige
+Privatangelegenheiten
+zu er
+ledigen,
+wie
+z. B.
+die Einsetzung
+seines Diakons Heraklides
+an Stelle
+des
+verstorbenen
+Bischofs Antonius,
+oder
+eine Anzahl
+ihm
+feindlicher
+Bischöfe ihres Amtes‚zu
+entheben“).
+Aber
+das
+Ziel
+seiner
+Zusammenberufung
+der
+kleinasiatischen
+Bischöfe
+zuerst
+nach
+Konstantinopel
+und
+nachher
+nach
+Ephesus
+zu ge
+wissen
+geheimen
+Beratungen
+ist
+für
+uns
+jetzt
+ganz
+klar.
+Er musste
+doch
+schliesslich
+seinen
+Glaubensbrüdern
+die Methode seiner
+Prophezei
+ung erklären
+und
+ihnen
+mitteilen,
+dass alle schrecklichen Tiergestalten
+und die Bilder von allen möglichen Leiden ihm nur symbolisch in Form
+von
+Gewitterwolken
+und
+Sternbildern
+des
+Himmels
+gezeigt
+werden
+waren.
+Hierbei
+konnte
+er
+ihnen
+auch
+seine
+Theorie
+der
+„heiligen
+Eingebung“
+erklären,
+d.
+h.
+ihnen
+auseinandersetzen,
+was das
+heisst,
+in
+einem
+solchen
+entrückten Zustande zu sein,
+wo man
+glaubt
+und
+liebt,
+wo
+man
+sich
+mit
+seinem
+ganzen
+Wesen
+mit
+der
+ganzen
+umgeben
+den
+Welt
+eins
+fühlt
+und
+wo
+man
+in
+jeder
+Erscheinung
+der
+um
+gebenden
+Natur
+einen
+geheimnisvollen
+Widerhall
+auf
+seine
+eigenen
+Empﬁndungen vernimmt.
+Wie
+konnten
+seine
+prosaischen
+Zuhörer,
+die
+nicht
+nur
+niemals
+etwas Aehnliches
+empfunden
+hatten,
+sondern
+die
+auch
+gar nicht
+fähig
+waren,
+sich
+solches
+bei anderen
+vorzustellen,
+alles dieses
+aufnehmen?
+Die weitere Geschichte
+des Johannes zeigt
+es zur Genüge.
+In
+demselben
+Augenblick
+brach
+gegen
+ihn und überhaupt
+gegen
+alle Anhänger
+des
+Origenes
+in
+der
+ganzen
+östlichen Kirche
+ein wahrer Sturm
+los.
+Alle
+diese
+„Vorsteher
+der
+grossen
+Feste“,
+alle
+diese
+„gierigen Mitbewerber
+um
+seinen
+Bischofsstuhl“,
+die
+vorher Busse
+getan
+hatten,
+sie
+erhoben
+sich
+jetzt
+gegen
+ihn
+und
+seine
+Anhänger
+mit
+um
+so
+grösserer
+Wut,
+je stärker während dieser
+Zeit
+ihre Furcht
+und Erniedrigung
+gewesen
+waren.
+Ihm
+aber,
+der immer noch überzeugt war,
+dass nur Gott selbst
+ihm
+die Prophezeiung
+gegeben
+und
+sie
+nur
+später
+in Anbetracht
+der
+allgemeinen
+Busse
+unerfüllt
+gelassen
+habe,
+blieb nichts
+anderes
+übrig,
+
+--- Page 198 ---
+172
+als
+auf
+den
+Schlag
+mit
+einem
+Schlag
+zu antworten,
+und
+das
+tat er
+denn
+auch
+bei
+seiner
+Abreise
+nach
+Kleinasien.
+Allein
+damit
+goss er
+nur Oel ins Feuer.
+Noch war
+er
+nicht nach
+Konstantinopel
+zurückgekehrt,
+als
+dort
+sein
+ihn
+vertretender
+„Freund
+Severian“,
+der
+Bischof
+von
+Gabala,
+seine
+dreimonatliche
+Abwesenheit
+dazu
+benutzte,
+die
+junge
+Kaiserin
+Eudoxia,
+die
+über
+ihren Mann Arkadius
+und
+durch
+ihn
+das
+ganze
+by
+zantinische
+Reich
+regierte,
+gegen
+ihn
+aufzureizen.
+Welche
+Mittel
+er
+hierbei
+benutzte,
+ist nicht
+schwer zu erraten.
+In
+der
+„Offenbarung“
+ﬁnden
+sich Stellen,
+wie
+die
+„von
+einem Weibe,
+angetan
+in Purpur und
+Scharlach,
+die
+über die irdischen Könige
+herrscht“
+(wie Eudoxia
+über
+ihren
+Mann),
+und
+von
+der Jezabel,
+dem Weibe
+Ahabs,
+„die
+Unzucht
+treibt
+und
+von den Opfern geniesst,
+die
+den Götzenbildern
+dargebracht
+werden.“
+Dies
+alles
+bezog
+sich,
+wie wir
+wissen,
+auf die Kirche,
+war
+aber
+in
+eine
+so allegorische Form
+verhüllt,
+dass
+es Leuten,
+die
+an In
+triguen gewöhnt waren,
+kaum Mühe kostete,
+die Kaiserin
+zu überzeugen,
+dass alles dies
+sich
+nur auf sie
+bezöge.
+Tatsächlich
+lassen
+auch
+die
+byzantinischen
+Geschichtsschreiber
+den Unwillen
+der Kaiserin
+dadurch hervorgerufen sein,
+dass
+er
+sie
+in
+seiner
+Rede J ezabel
+genannt
+habe,
+die mit
+den irdischen Kaisern
+Un
+zucht triebe.
+Was
+für
+einen Eindruck
+derartige Verdächtigungen
+auf ein junges
+Weib
+ausüben
+mussten,
+das
+noch
+nicht einmal 25 Jahre alt war
+und
+das
+ausser
+seinem Gatten gar keinen Geliebten
+hatte“),
+ist nicht schwer
+zu verstehen.
+Gewissermassen
+als
+eine Bestätigung
+dieser Deutung
+der
+Reden
+des
+Johannes
+erschien
+auch
+seine
+ofi'eubare
+Abneigung
+gegen
+jeglichen
+Verkehr
+mit dem kaiserlichen
+Paare.
+Im
+Gegensatz
+zu allen
+seinen
+Vorgängern
+und
+allen
+nachfolgenden
+Bischöfen
+von
+Konstan
+tinopel
+ging Johannes
+niemals
+zu
+den
+kaiserlichen
+Festen
+und
+feier
+lichen
+Empfängen,
+sondern
+brachte
+die
+Zeit
+zu
+Hause
+beim
+Lesen
+von Büchern
+zu.
+Indessen
+die Verdächtigungen
+des
+Severianus
+taten
+dem Johannes
+noch
+keinen besonderen
+Schaden.
+Der Arohidiakon Sara
+pion
+machte
+ihn
+bei
+seiner
+Rückkehr
+aus Kleinasien
+auf
+den
+heim
+lichen Feind
+aufmerksam,
+und
+Severianus wurde
+eine Zeitlang
+aus der
+Residenz
+entfernt.
+Der Sturm,
+der Johannes
+stürzen
+sollte,
+erhob
+sich
+gegen
+ihn
+nach
+seiner
+Reise
+nach
+Kleinasien
+von
+überall
+her,
+aber
+der
+erste
+Schlag
+ﬁel
+nicht auf
+ihn,
+sondern
+auf seine Anhänger,
+die
+Origeniten
+in Aegypten,
+und
+diesen
+Schlag
+führte
+niemand
+anders
+als
+sein
+alter
+Feind
+Theophilus,
+der
+Bischof
+von
+Alexandrien.
+Das
+war
+derselbe
+
+--- Page 199 ---
+173
+Bischof,
+der
+im Jahre
+389
+in Alexandrien
+ein
+ganzes
+Stadtviertel
+in
+Brand
+gesetzt
+hatte,
+in dem sich der
+berühmte
+Tempel
+des Serapis be
+fand
+7).
+Er war in Alexandrien
+als
+Universität
+verwendet werden und
+hatte
+viele
+Denkmäler
+aus
+dem Altertum
+und
+besonders
+auch
+die
+be
+rühmte alexandrinische Bibliothek
+enthalten,
+in der
+sich zu
+jener Zeit
+etwa
+42000 Papyrusrollen
+befunden
+hatten,
+von
+denen
+es
+dann
+den
+durch das Feuer überraschten Priestern
+nur
+sehr
+wenige
+zu retten ge
+lungen
+war.
+Während
+der
+Schreckenszeit
+von
+398—399
+hatte
+sich
+auch Theophilus,
+wie viele
+andere,
+zu den Johanniten
+geschlagen,
+ja, er
+hat,
+wie wir wissen,
+den Johannes
+eigenhändig
+zum
+obersten
+Bischof
+von
+Konstantinopel
+eingeweiht,
+da
+er
+der
+älteste
+von allen Bischöfen
+war,
+die
+am
+26. Februar
+398
+des Johannes
+wegen
+nach
+Konstantinopel
+gekommen
+waren
+B)‚
+und
+zwar
+weil jener nicht
+vom
+Kaiser
+ernannt zu
+werden
+gewünscht
+und
+darum
+ein Konzil verlangt
+hatte“).
+Jetzt
+aber
+stellte sich
+Theophilus
+plötzlich
+an
+die Spitze
+der Gegner des Johannes,
+und
+sobald
+das Versagen
+der
+Prophezeiung
+sich
+erwiesen
+hatte,
+d.
+h.
+noch
+im Jahre
+401
+oder
+zu
+Beginn
+des
+Jahres
+402,
+begann
+er
+gegen
+den Propheten
+zu
+intrigieren.
+Das
+stiess
+natürlich
+alle treuen
+Johanniten,
+von
+denen
+die Origeniten
+die
+ersten
+waren,
+von
+ihm
+ab.
+Unter
+diesen
+zeichneten
+sich in Alexandria
+besonders
+vier Brüder
+aus:
+Dioskoros,
+Ammonius,
+Ensebius
+und
+Enthymius,
+die
+sogenannten
+„langen
+Brüder“,
+weil
+sie
+nach
+dem Ausdruck
+des Sozomenos
+„dem
+Leibe
+nach
+nicht klein
+waren“ ‘°).
+Zur
+Zeit, als Johannes
+hoch
+in Ehren
+stand,
+machten
+ihnen nicht
+nur
+die Alexandriner,
+sondern
+sogar
+Theophilus
+selbst
+den Hof.
+Den
+ältesten
+von
+ihnen,
+Dioskoros,
+ernannte
+er
+„gegen
+seinen
+eigentlichen
+Willen“
+zum Bischof
+von
+Hermopolis").
+Die
+anderen
+„bat er,
+bei ihm
+zu bleiben,
+und
+zwang
+sie,
+die Stellen
+von
+Presbytem
+anzunehmen“.
+So ging
+es bis zum Jahre 401‚
+wo Theophilus
+nach
+dem Fehlschlagen
+der Prophezeiung
+sich
+plötzlich
+als
+Gegner
+der
+Origeniten
+erklärte.
+Die
+„langen
+Brüder“
+wollten nicht mehr
+bei ihm
+als Presbyter
+bleiben.
+Sie gingen
+in
+die nitrische
+Wüste
+in Aegypten 1’)‚
+wohin in jenen un
+ruhigen Jahren
+schon
+mehrere
+tausend
+Menschen
+sich
+zurückgezogen
+hatten,
+um
+in
+Askese
+und
+Entsagung
+sich
+vor
+dem
+Ende
+der Welt
+zu retten.
+Theophilus
+befahl den
+ihm
+unterstellten Bischöfen,
+sie
+alle
+von
+den
+Bergen
+und
+aus
+den
+Wüsten
+als
+schädliche
+Ketzer
+zu
+ver
+jagen.
+Das wurde auch
+sofort von seinen
+eifrigen,
+nun
+wieder zu Mut
+gekommenen
+Helfern
+ausgeführt.
+Die
+vertriebenen
+Nitrier
+kamen
+in
+Alexandria
+zusammen.
+Einige
+von
+ihnen
+begaben
+sich
+zu Theophilus,
+um
+mit
+ihm
+zu verhandeln,
+da
+die
+Origeniten
+zu jener Zeit
+noch
+von
+keinem
+Konzil
+von
+der
+Kirche
+ausgestossen
+waren.
+Aber
+Theophilus
+
+--- Page 200 ---
+174
+schaute
+sie,
+wie
+es in den „Minei“
+heisst,
+mit blutunterlaufenen
+Augen
+an
+und
+mit vor Wut heiserer Stimme fuhr
+er auf sie,
+wie vom
+Teufel
+besessen,
+los.
+Er warf dem Ammonius
+sein Ornophor
+(ein
+langes Stück
+Leinwand
+mit
+einer
+Schleife,
+wie
+es
+noch
+heute
+von
+den
+griechisch
+9rthodoxen
+Bischöfen
+getragen
+wird)
+über
+den Hals,
+schlug
+ihn mit
+seinen Händen blutig
+und kreischte dabei:
+„Du Ketzer,
+verﬂuche
+1')
+den
+Origenes!“
+Ebenso
+schlug
+er
+auch
+die
+anderen
+Abgeordneten
+blutig
+und jagte
+sie mit Schimpf und Schande
+zum
+Hause hinaus.
+Die
+geschlagenen
+Einsiedler
+sagten
+sich
+von
+Origenes
+nicht
+los.
+Sie
+gingen
+in ihre Hütten
+auf dem nitrischen Berg
+zurück.
+Theophilus
+aber
+rief
+in Alexandrien
+gegen
+Ende
+des Jahres
+401
+oder
+zu Anfang
+des
+Jahres
+402
+ein
+Konzil
+seiner
+Bischöfe
+zusammen
+und
+verhängte
+über die vier Brüder
+und alle ihre Anhänger
+in Nitrien als
+Origeniten
+und Ketzer
+den
+kirchlichen
+Bann,
+nachdem
+er
+irgend welche Zeugen
+gefunden
+hatte,
+die
+sie
+des Nachts in astrologische Studien vertieft
+ge
+sehen
+haben
+wollten.
+Mit
+ihnen
+wurde
+auch
+ein
+Mönoh,
+der
+greise
+Isidor, in den Bann getan, den Theophilus irgend einer
+„widernatürlichen
+Sünde“ beschuldigte.
+Nachdem er
+den Beschluss
+des Konzils erlangt,
+begab
+sich Theo
+philus
+mit ihm sofort zum
+städtischen
+Exarchen
+(d.
+h.
+dem militärischen
+und
+bürgerlichen Oberhaupt).
+Er liess sich von ihm fünfhundert Krieger
+geben
+und
+ging mit
+diesen
+in
+die
+Gegend
+von
+Aegypten,
+wo
+sich der
+nitrische
+Berg
+befand.
+Die
+Expedition
+war
+mit
+Absicht
+so
+ein
+gerichtet,
+um
+die
+Origeniten
+nachts
+unverhofft
+zu
+überfallen.
+Die Be
+waffneten
+stürzten
+von
+allen
+Seiten
+auf
+den Berg
+und
+begannen,
+die
+Türen
+der Höhlen
+und
+der Hütten
+zu
+zertrümmern.
+Unter
+dem Vor
+wande,
+nach
+verbotenen
+Büchern
+zu
+suchen,
+raubten
+sie
+das
+ganze
+Eigentum
+der Einsiedler,
+erschlugen mehrere
+von ihnen
+")
+und steckten
+alsdann ihre Behausungen in Brand.
+Alles
+dies
+geschah
+am
+10. Juli
+1“)
+des Jahres
+402.
+Alle,
+die
+es
+konnten, ﬂüchteten
+in
+der
+Dunkelheit
+mit
+den vier
+„langen Brüdern“
+und mit Isidor,
+welch
+letzterer
+sich
+ebenfalls
+nach
+seiner
+Verbannung
+aus
+Alexandrien
+auf
+dem
+nitrischen
+Berge
+angesiedelt
+hatte,
+in
+die
+Umgebung.
+Zunächst
+begaben
+sich
+die
+Flüchtlinge
+in
+das
+benachbarte
+Pa
+triarchat
+von Jerusalem.
+Aber der oberste Bischof
+dieses
+Gebietes,
+Sil vanus,
+der währendv
+der Zeit
+der Furcht
+sich
+ebenfalls
+als Anhänger
+des
+Origenes
+und des
+Johannes
+erklärt
+hatte,
+empﬁng
+sie
+jetzt
+als Ketzer.
+So
+gingen
+sie
+weiter,
+um
+bei
+Johannes
+selbst
+Schutz
+zu
+suchen.
+Dieser
+beruhigte
+sie
+und
+nahm
+sie
+bei
+sich
+in
+der Kirche Anastasia
+in Konstantinopel
+
+--- Page 201 ---
+175
+auf ;' dem Theophilus
+aber
+schrieb er
+einen
+Brief,
+in
+dem
+er
+ihn hat,
+den
+Bann
+von
+ihnen
+zu
+nehmen,
+da
+sie
+„von
+Gott
+durchaus
+richtig
+sprechen“
+‘°).
+Als Antwort darauf bekam
+er von Theophilus
+ein Schreiben, worin
+dieser
+ihm
+selbst
+drohte.
+Die
+ﬂüchtigen
+Origeniten
+wurden während
+dieser
+Zeit
+von
+ihm
+aus
+den Mitteln
+einer
+reichen
+jungen Frau
+namens
+Olympiade,
+einer
+berühmten
+Schönheit
+aus
+der
+guten
+Gesellschaft
+von
+Konstantinopel,
+unterhalten,
+die
+früh
+ihren
+Gatten
+verloren
+und
+dem Johannes ihr ganzes
+Vermögen zur Unterstützung
+der Armen
+und
+zur
+Errichtung
+von
+Herbergen
+für
+kranke
+und
+alte
+Leute
+abgetreten'
+hatte.
+Sie
+unterhielt
+die
+ganze
+Zeit
+eine
+grosse
+Freundschaft
+zu Jo
+hannes
+und
+diente
+als
+Diakonissin‘
+in
+einer
+seiner
+besten
+Basiliken.
+Diese intime Freundschaft
+diente
+als Vorwand,
+um Johannes
+unter an
+derem
+auch
+einer
+unmönchischen
+Lebensweise zu bezichtigen.
+Als die ausgeschlossenen
+Origeniten
+die
+Erfolglosigkeit
+der
+Be-.
+mühungen
+des Johannes
+sahen,
+reichten
+sie eine schriftliche Klage gegen
+den Theophilus
+beim
+Kaiser
+ein
+und
+verlangten
+ein
+weltliches
+Gericht
+über ihn,
+ganz
+gegen
+den Willen
+des Johannes,
+der keine Bittschriften
+an
+das kaiserliche
+Paar in religiösen Angelegenheiten
+zuliess.
+Daraus
+entsprang
+alsdann
+ein
+neues Unglück
+für
+den Propheten.
+Theophilus
+verständigte
+sich
+mit
+dem
+eitlen.
+Bischof
+von
+Cypern,
+dem
+heiligen
+E piphanius"),
+der sich
+ebenfalls
+nach
+dem endgültigen Versagen der
+Prophezeiung
+(d. h. im Jahre
+401)
+in
+einen
+unversöhnlichen
+Gegner
+des Johannes
+und
+der Origeniten
+verwandelt
+hatte.
+Zum
+Theophilus
+gesellte
+sich auch
+der
+selige
+Hieronymus,
+der
+Gegner
+des Johannes
+seit
+der Zeit,
+wo
+sie
+beide
+in Antiochia,
+zwei
+gegnerischen
+christlichen
+Parteien
+angehörig,
+sich
+gegenüber
+gestanden
+hatten.
+Unter
+dem Vorwande,
+die Anklage
+gegen
+Theophilus
+unter
+stützen
+zu
+wollen,
+begannen
+die jetzt
+zahlreich
+gewordenen
+Feinde
+des
+Johannes ein allgemeines Konzil in Konstantinopel
+zu organisieren,
+um
+ganz
+unerwartet
+über
+Johannes
+selbst
+und
+die
+Origeniten
+Gericht
+zu halten.
+Alles dies
+ist
+einem Roman ähnlich
+und ist
+doch Wirklich
+keit.
+Es wurde auch ein Schreiben an den römischen
+Papst Innocentius
+gesandt,
+damit
+er
+auch
+die Vertreter
+der westlichen Kirche
+auf dieses
+Konzil
+sende.
+Aber der Papst
+wollte,
+wie
+es
+scheint,
+sich
+nicht in
+diese
+Sache
+mischen,
+und
+seine
+Bevollmächtigten
+kamen nicht,
+unter
+dem Vorwande,
+dass
+„sie
+noch
+auf eine
+weitere Einladung
+zu warten
+hätten“.
+Schliesslich
+kam
+dieses
+Konzil
+im
+Februar
+des
+Jahres
+403
+aus Angehörigen
+der nikolaitischen
+Partei
+der byzantinischen Geistlich
+keit zustande.
+Weder
+die östliche noch
+die
+römische
+Kirche zählen
+es'
+gegenwärtig zu den ihrigen
+und
+nennen
+es
+„ein
+Räuberkonzil“,
+ähnlich
+
+--- Page 202 ---
+176
+demjenigen
+„Räuberkonzil“
+(Synodus latronus,
+.4vo’nrr;
+o‘1'modog),
+das nach
+45 Jahren in Ephesus (im Jahre 449)
+unter dem Vorsitze
+des Dioskoros
+von Alexandria
+stattfand und das Dogma feststellte,
+dass
+das
+mensch
+liche Wesen Christi
+ganz
+im göttlichen
+aufginge.
+Ganz
+besonders
+eiferte
+der
+heilige Epiphanius
+von Cypern
+gegen
+Johannes
+und
+die
+Origeniten.
+Noch während der Vorbereitungen
+zum Konzil
+benahm
+er sich
+so
+herausfordernd
+gegen
+den Propheten,
+dass
+alle
+orthodoxen Biographen
+des Johannes
+gezwungen
+sind,
+die Tatsache
+durch Phrasen
+zu
+ersetzen.
+‚
+Theophilus
+verleumdete
+den
+Johannes,
+indem
+er
+sagte
+(berichtet
+der
+Verfasser
+der „Minei“)‚
+dass
+er
+ein Ketzer
+sei,
+die
+Origeniten
+bei sich
+aufnehme
+und
+ihnen
+das
+heilige
+Abendmahl
+erteile.
+Epiphanius
+war
+jedoch nicht bösartig.
+Er durchschaute
+die Schliche des Theophilus
+nicht
+und glaubte
+der
+Lüge,
+wie
+geschrieben
+steht:
+„Der
+Gutmütige
+glaubt
+jedem Wort.“
+Da
+er
+aber
+ein
+eifriger Frommer war,
+so verdammte
+er
+(noch
+vor
+seiner
+Ankunft
+in Konstantinopel)
+auf
+einer
+örtlichen
+Ver—
+sammlung seiner cyprischen Bischöfe die Bücher des Origenes und schrieb
+an Johannes
+„er möge das Gleiche tun.
+Indessen Johannes hatte hier
+mit keine Eile,
+sondern
+übte
+sich in
+der heiligen
+Schrift 18).“
+Mit
+anderen
+Worten:
+Johannes
+weigerte
+sich
+entschieden,
+die
+Bücher
+des
+Origenes
+zu
+verdammen,
+die
+wahrscheinlich
+die
+astrolo
+gischen Weisungen
+enthielten,
+die
+er
+selbst
+bei
+der
+Aufstellung
+der
+„Offenbarung“ benützt hatte.
+Eine
+solche
+Hartnäckigkeit
+des Propheten
+nach
+dem
+offenbaren
+Fehlschlage
+seiner
+Prophezeiung
+erzümte
+den
+hei
+ligen Epiphanius,
+der
+bei
+seinem Alter
+von
+mehr
+als
+hundert Jahren
+an allgemeine
+Unterwürﬁgkeit
+gewöhnt war, derart,
+dass er schon
+einige
+Wochen
+vor
+dem
+angesagten
+Termin
+nach
+Konstantinopel
+eilte.
+Zum
+Zeichen,
+dass
+er Johannes
+nicht als Bischof anerkenne, stieg er
+sieben
+Kilometer
+vor Konstantinopel
+aus,
+begab
+sich
+in
+eine
+daselbst
+beﬁnd
+liche Kirche,
+die
+zum Bezirk
+des Johannes
+gehörte,
+und
+begann
+da
+selbst eigenmächtig Amtshandlungen
+vorzunehmen").
+Er
+hielt
+einen
+liturgischen
+Gottesdienst
+ab
+und
+weihte
+einen
+Mann
+zum
+Diakonen
+ein,
+ganz
+gegen
+die
+kirchlichen
+Vorschriften,
+die
+es
+einem
+Bischof
+verboten,
+eine
+solche
+Handlung
+mit
+jemandem
+in
+einem
+fremden
+Episkopate
+vorzunehmen *°).
+Als
+er
+sodann
+in
+Kon
+stantinopel
+angekommen
+und
+dort
+in
+einem
+Privathause
+abgestiegen
+war,
+weigerte
+er
+sich,
+mit
+Johannes
+zusammenzukommen,
+und
+gab
+dessen Abgesandten zur Antwort: „Solange Johannes nicht den Dioskoros
+mit
+seinen
+Mönchen
+aus
+der
+Stadt
+verjagt
+und
+damit
+nicht
+die Ver
+werfung
+der Bücher
+Origenes
+unterschreibt,
+habe ich keinerlei
+Gemein
+schaft mit ihm“ ").
+
+--- Page 203 ---
+177
+Das Kaiserpaar
+war
+schon
+seit
+dessen Reise nach
+Kleinasien
+sehr
+gegen
+den
+Johannes
+aufgebracht
+und
+wünschte
+jetzt
+nach
+Befreiung
+von
+dem
+Schrecken
+ebenso
+seine Entfernung
+aus Konstantinopel,
+wie
+es
+damals
+seine Einsetzung
+daselbst verlangt
+hatte.
+Aus diesem Grunde
+eilte Epiphanius
+sofort ins
+kaiserliche
+Schloss,
+wo
+er wie
+ein Erlöser
+mit allen möglichen
+Beweisen
+der Achtung
+empfangen
+wurde
+und
+wo
+er öfters
+Beratungen
+über
+die Art
+der Absetzung
+des
+Johannes
+hatte.
+Er liess
+sich
+sogar
+so weit hinreissen,
+dass
+er in einem
+der
+städtischen
+Haupttempel,
+dem Tempel
+der Apostel,
+den Johannes
+öffentlich über
+führen und
+ihn
+als
+einen
+Ketzer
+verdammen
+wollte.
+Aber
+vorsichtige
+Leute hielten ihn
+davon
+ab,
+indem
+sie darauf hinwiesen,
+dass
+bei
+der
+grossen
+Beliebtheit
+des Johannes
+beim
+Volke
+hierbei
+nichts
+als
+eine
+Verprügelung
+des Epiphanius
+selbst
+herauskommen
+werde.
+Unterdessen
+begannen
+auch
+die übrigen Oberhäupter der byzanti
+nischen
+Geistlichkeit
+sich
+zu versammeln.
+Auch Theophilus
+traf
+ein
+und
+brachte
+für
+das
+kaiserliche
+Paar
+und
+dessen
+nächste
+Würdenträger
+mehrere
+Galeeren
+mit,
+„angefüllt
+mit
+indischen
+Gewürzen,
+Früchten
+und
+kostbaren
+Stoffen
+aus
+Seide
+mit
+Gold
+durchwirkt.“
+Mit ihm zu
+sammen
+kam auch
+„eine
+Menge“
+nikolaitischer Bischöfe, Presbyter
+und
+Diakonen.
+Die Arianer,
+Origeniten, Johanniten
+und alle anderen
+christ
+lichen Sekten wurden, mit Ausnahme
+der
+herrschenden,
+ausgeschlossen,
+wie
+es ebenso
+auch
+auf anderen
+„Weltkonzilen“
+vorkam.
+Die Hauptanführer
+dieser Clique waren
+ausser Theophilus
+und dem
+heiligen Epiphanius:
+Akakius,
+der Bischof
+von
+Peräa und Antiochus
+von
+Ptolemais.
+Aus
+dem
+Patriarchat
+des
+Johannes
+selbst
+stiessen
+der uns
+schon
+bekannte
+Severian aus Gabala
+zu
+ihnen,
+der
+die Kaiserin
+während
+dessen Aufklärungsreise
+nach
+Kleinasien
+gegen
+den Propheten
+aufgehetzt
+hatte,
+und
+der thrakische Bischof Paulus aus Heraklia,
+der
+das Amt des Vorsitzenden
+am Tage
+der Verurteilung
+des Johannes
+be
+kleidete,
+da der ursprüngliche Vorsitzende
+an
+jenem
+Tage,
+Theophilus
+aus
+Alexandrien,
+das
+Präsidium
+niedergelegt
+hatte 2’).
+Zu
+ihnen
+ge
+sellten
+sich
+mehrere
+Bischöfe
+aus
+Kleinasien,
+die
+von
+Johannes
+nach
+seiner
+Reise nach
+Kleinasien
+und
+von den Origeniten
+abgefallen
+waren.
+Die übrigen Bischöfe
+seines Patriarchates
+(etwa
+vierzig,
+die
+ihm
+treu
+geblieben
+waren) sammelten
+sich
+um
+ihn.
+Man liess
+sie als Ketzer nicht
+zur Versammlung
+zu.
+1)Tertia
+decima
+indictione
+venerunt
+Constantinopolim
+episcopi
+necessitstum
+quarundam
+gratis
+(Pallad.
+Dial.
+S.
+50).
+')
+Gegenwärtig
+ist
+der
+Durchgang
+der
+Sonne
+erst
+gegen
+den
+17. Dezember
+des julianischen
+Kalenders
+zu
+Ende,
+weil
+das
+Sternjahr
+dem
+julianischen
+Jahre
+nicht
+entspricht.
+Morosow,
+Die Offenbarung
+Johannis.
+12
+
+--- Page 204 ---
+178
+a) Pallsd. Dial.‚
+p.
+50.
+‘) Das Leben
+der
+Heiligen.
+November,
+Seite
+153.
+Murawjew:
+Geschichte
+der
+ersten
+vier Jahrhunderte
+des
+Christentums,
+S. 341.
+Amed6e
+Thierry:
+St.
+Chrysostome
+et l’imp6ratrice
+Eudoxie,
+und
+deren Urquelle:
+Palladius
+Dialogus
+p. 53.
+‘) Uns die sedecim episcopos
+deposuisse
+et
+suos
+loco
+illorum
+ordinasse (Psllad.
+Dial.‚
+p. 49).
+‘) Die
+Verdächtigung
+Zosimos
+gegen
+den kaiserlichen
+Adjutanten
+Johannes
+ist,
+augenscheinlich
+später
+ausgeheckt
+worden:
+Pleriqne perhibebant
+(loannexn)
+ejus ﬁlii,
+quem Arcadius habebat
+patrem
+esse
+(Zosim.
+V.
+18).
+Thierry,
+5.
+") Socr.,
+V.
+16.
+8) Gewöhnlich
+wurden
+die Bischöfe
+von Konstantinopel
+durch
+den Bischof von
+Thrakien in ihr Amt. eingesetzt
+(Murawjew,
+S. 345).
+“) Quiconque
+n’admirait
+pas
+Origäne
+et
+ne
+se declarait
+point
+son disciple
+fut
+taxö per
+lui
+d’anthropomorphisme
+et d‘h6r6sie . . . tel 6t3it a cette
+6poque, c'est-ä-dire
+dans
+les
+dernieres
+annäes
+du IV
+si(‘:cle‚
+le
+zöle
+orig6niste
+de
+Th60phile
+(A. Thierry.
+St. Jean
+Uhrysostome.,
+p.
+116).
+1°)
+Das Leben
+der Heiligen.
+November
+Seite
+157—158.
+Socr. VI,
+7.
+Sozom.
+VI, 30.
+")
+Der
+Leser
+sieht,
+dass
+die herrschende
+Kirche
+nicht nur den Johannes,
+son
+dern
+auch die anderen
+Origeniten
+mit
+Gewalt
+zu Bischöfen
+ernannte.
+")
+Disciples
+ﬁdeles
+de
+l'ecole
+d’Alexandrie,
+ils
+(les Lougs-Fräres) professsient
+dans
+les
+retraites
+de Nitrie
+et
+de
+Scete
+un origenisme
+eclectique“
+(Thierry, p. 117).
+"')
+Ammonio viro
+grandaevo,
+cum mslis
+ejus plagas
+inﬂixisset
+et pugnis
+nares
+ejus cruentasset,
+inclamans
+bis vocibus:
+„Hacretice,
+anathematiza
+Origenem!“
+(Pallad.
+Dial., p. 22).
+Thierry, p.
+121.
+") Thierry‚
+125.
+“)
+Das Leben
+der Heiligen.
+Oktober,
+u.
+Murawjew,
+S. 344; Thierry, p.
+124.
+‘°)
+„Ut communionem
+eis
+restitueret,
+quippe
+qui
+de Deo
+recte
+sentirent“.
+So
+zom. VIII,
+13.
+")
+Se cum illo sentire
+scripsit,
+et Origenis
+libros tanquam hujus modi dogmatum
+auctoris
+calumniari
+coepit.
+Sozom. VDI,
+18.
+"")
+Das Leben
+usw.
+November,
+S.
+160—161.
+"’)
+Zeug.
+2101m
+'Exxlw.
+'lcrogtnr.
+Kup.
+-id".
+’°) Thierry, p.
+158.
+")
+Thierry, p.
+165.
+”)
+Thierry:
+St. Jean
+Chrysostome,
+p.
+202.
+VI.
+Verurteilung
+des Johannes
+und
+sein
+Ausschluss
+aus
+der
+Kirche.
+Seine Rettung infolge des Erdbebens
+zu Konstantinopel
+im Jahre
+403.
+Die Sitzungen
+des Konzils begannen
+im März
+403
+in
+der
+Peter
+Paulskircbe
+in
+der
+chalkedonischen
+Vorstadt
+von
+Konstantinopel,
+wo
+sich
+auch
+das
+kaiserliche
+Palais
+befand.
+Auf
+eine
+dreifache
+Auf
+
+--- Page 205 ---
+179
+forderung‚
+dorthin
+zu seiner
+Rechtfertigung
+zu
+erscheinen,
+antwortete
+Johannes mit
+einer entschiedenen
+Weigerung,
+die er dadurch
+begründete,
+dass
+das Konzil
+nur
+aus Vertretern
+der
+ihm
+feindlichen
+Parteien
+be
+stehe,
+deren Urteil
+er nicht
+anerkenne.
+Er hielt
+sogar
+gegen
+diese
+in
+seiner
+Basilika
+eine
+donnernde
+Rede
+1),
+die,
+wie
+es
+heisst,
+folgende
+Worte
+enthielt:
+„Rufet
+zu
+mir
+die
+unverschämten
+Propheten,
+welche
+die
+Speise
+der Jsebel
+essen“
+(d. h.
+die
+von
+dem byzantinischen
+Reich unterhalten
+werden),
+„damit ich
+ihnen,
+wie Elias,
+sagen
+kann:
+wie
+lange
+werdet
+ihr noch
+auf beiden
+Beinen hinken?
+Gibt
+es
+einen
+allmächtigen Gott,
+so folgt
+ihm
+nach;
+wenn
+aber
+die
+Speise
+Jsebels
+euer
+Gott
+ist,
+so
+soll
+es
+euch
+übel
+ergehen,
+wenn
+ihr
+davon
+esset“).
+Diese Worte
+bezogen
+sich,
+wie wir jetzt wissen,
+auf die zu Gericht
+über
+ihn
+versammelte
+nikolaitische
+Partei
+der byzantinischen Geistlich
+keit,
+die Johannes im Briefe
+an Thyatira
+(„Offenbarung“ Kap. II) alle
+gorisch als Jsebel,
+die
+Gattin
+des biblischen Königs
+Ahab,
+bezeichnet
+hatte.
+Aber jetzt
+wurden
+sie
+als
+eine Anspielung
+auf
+die
+Kaiserin
+Eudoxia
+gedeutet
+und
+erbitterten
+diese noch
+mehr gegen
+den Propheten.
+Der Kaiser
+selbst
+befahl
+ihm,
+vor
+dem
+Gericht
+zu
+erscheinen,
+aber
+Johannes
+weigerte sich
+auch
+dieses Mal,
+da
+er
+dem Kaiser
+das Recht
+absprach,
+sich
+in religiöse Angelegenheiten einzumischen.
+Am
+Ende
+wurden
+in
+Konstantinopel
+zwei
+Konzile
+abgehalten.
+Das eine
+bestand
+aus Johanniten,
+wie
+man
+damals
+die Anhänger
+des
+Johannes
+nannte,
+indem
+man
+sie
+von
+den Origeniten
+als
+eine
+besondere
+Sekte unterschied,
+das
+andere
+aus
+den Vertretern
+der reinen Nikolaiten.
+Das erste
+forderte
+den Theophilus
+vor Gericht für
+sein
+grausames
+Vor
+gehen gegen die ägyptischen
+Origeniten; das andere forderte
+den Johannes
+selbst,
+und
+dabei
+in
+sehr
+grober
+Form,
+indem
+es
+ihn
+nicht
+Bischof
+nannte.
+Eine Verständigung
+erwies sich
+als unmöglich.
+Drei johanni
+tische
+Bischöfe,
+die in die
+chalkedonische
+Vorstadt
+als Dolmetscher des
+Johannes
+gegangen
+waren,
+wurden
+von
+ihren Gegnern
+überfallen
+und
+durchgehauen.
+Auf der zwölften
+Sitzung
+des nikolaitischen
+Konzils,
+bei
+welcher
+45 Mitglieder
+anwesend
+waren,
+beschuldigte
+man
+den Johannes
+nach
+Photius
+und
+anderen
+byzantinischen
+klerikalen
+Geschichtsschreibem
+der
+nachstehenden
+Vergehen:
+1.
+Dass
+er
+gepredigt
+habe,
+„der
+kirchliche
+Altar
+sei
+voller
+3)
+Greuel“,
+ein
+oﬂ'enbarer
+Hinweis
+auf diejenige
+Stelle
+des Kapitels
+17
+der Apokalypse,
+wo Johannes sagt:
+„in ihrer Hand (nämlich der grossen
+Feste, der „Gottespforte“)
+war
+ein Kelch
+voll Greuel
+und Unsauberkeit
+ihrer Unzucht.“
+
+--- Page 206 ---
+180
+2. Dass er die Kaiserin
+Eudoxia
+Jsebel‘)
+genannt
+habe,
+offenbar
+in
+missdeutendem
+Hinblick
+auf
+jene
+Stelle
+des Kapitels II
+der
+Apo
+kalypse,
+wo
+Johannes
+dem Verkündiger
+der
+Gemeinde
+der
+Gläubigen
+in Thyatira
+sagt:
+„Ich
+habe
+wider
+dich,
+dass du dem Weihe Jezabel,
+die
+sich
+eine Prophetin
+nennt,
+gestattest,
+meine
+Diener
+zu
+belehren
+und zu
+verführen, Unzucht
+zu
+treiben,
+und
+Götzenopfer zu
+essen.“
+Das Weib
+Jezabel
+(die
+Frau
+des
+biblischen
+Königs
+Ahab)
+wurde
+von
+Johannes
+ausser
+in
+der
+Apokalypse,
+auch
+in
+anderen
+Prophezeiungen
+im
+alle
+gorischen
+Sinne für die Staatskirche
+verwendet;
+aber
+jene
+wurden erst
+nach
+diesem
+Gerichte
+ausgesprochen.
+7
+3. Dass er einst während des Gottesdienstes
+ausgerufen
+habe:
+„Ich
+werde
+verrückt
+vor lauter Liebe“
+").
+4.
+Dass
+er die Origeniten zu den Seinigen zählte,
+diejenigen
+jedoch,
+die
+sich
+zu
+der Staatskirche
+zählten,
+im
+Gefängnis
+nicht
+habe
+heilen
+wollen“).
+5.
+Dass
+er
+sich
+der Heiden
+angenommen
+habe,
+die
+die Christen
+schlecht
+behandelten,
+ihnen
+Schutz in der Kirche
+gewährte und für
+sie
+betete
+7).
+Und
+schliesslich
+6.
+dass
+er kirchliches
+Eigentum
+entwendet
+habe.
+Dieser letzte
+geheimnisvolle Punkt
+ist
+von
+unserem
+Standpunkt
+aus
+besonders
+interessant.
+Davon,
+dass
+Johannes
+etwa
+materielle
+Reichtümer
+sich
+angeeignet
+hätte,
+konnte natürlich
+bei
+seinen
+schlauen
+Gegnern
+nicht
+die Rede sein,
+die,
+statt eine Verfolgung
+des
+Johannes
+herbeizuführen,
+keineswegs
+Lust
+hatten,
+sich
+selbst
+einem
+Zornesaus
+bruch
+des Volkes
+und
+der
+bürgerlichen
+Gesellschaft
+auszusetzen.
+War
+doch
+allen
+die Einfachheit
+seiner
+Lebensweise,
+seiner
+Kleidung,
+seiner
+ganzen
+häuslichen
+Ausstattung
+bekannt,
+wodurch
+er
+sich
+stets
+von
+seinen
+Vorgängern
+auszeichnete.
+Auch
+war
+es allgemein bekannt, dass
+er
+sein
+ganzes
+grosses
+Erbteil
+unter
+die
+Armen
+und
+Notleidenden
+verschenkt
+hatte
+und sich auch jetzt
+durch seine Mildtätigkeit
+auszeich
+nete,
+wozu
+ihm
+Olympiade
+die
+Mittel
+lieferte,
+indem
+sie
+ihm
+das
+Einkommen
+ihrer
+gewaltigen Besitzungen
+bei Konstantinopel
+zur Ver
+fügung stellte.
+Infolgedessen
+konnte die Anklage
+sich
+nur auf seine einzigen all
+gemein
+bekannten
+Reichtümer beziehen,
+die
+ihm
+ein
+so grosses Ansehen
+bei
+der Gesellschaft verschafften,
+d.
+h.
+auf
+seine
+literarischen
+Werke,
+die
+man
+bemüht
+war
+als
+der Allgemeinheit
+unbekannte,
+von
+ihm
+ge
+stohlene
+Manuskripte
+hinzustellen,
+die
+er für
+die
+seinigen
+ausgab.
+Eine
+derartige Verdächtigung
+traf
+die
+einzige
+schwache
+Stelle
+des
+Johannes,
+denn
+sie untergrub seinen gewaltigen Einﬂuss als eines grossen
+Schriftstellers
+und lieferte ihn
+sozusagen
+nackt
+und hilflos
+den Händen
+
+--- Page 207 ---
+181
+seiner
+Gegner
+aus.
+Jede
+materielle
+Schuld
+wäre
+ihm
+vom
+Volke
+in
+Anbetracht
+seiner
+begeisternden
+Werke verziehen
+werden;
+auch
+würde
+niemand
+eine
+derartige
+Anklage
+geglaubt
+haben,
+wenn
+man
+ihn
+der
+gewöhnlichen
+Habgier
+geziehen
+hätte.
+Wenn
+dieser
+Punkt der Anklage
+damit zusammengenommen
+wird,
+dass
+die
+ihm
+angehörige
+„Offenbarung
+in
+Gewitter
+und
+Sturm“
+vom
+Beginn
+des
+Mittelalters
+an
+einem
+anderen
+Verfasser
+zugeschrieben
+wurde,
+so
+kommt
+einem unwillkürlich
+der
+Gedanke,
+dass
+man
+ihn
+auf
+dem Konzil beschuldigte,
+während
+seiner
+Flucht
+aus
+dem
+Bergkloster
+bei
+Antiochia
+im Jahre 381
+die
+dort
+beﬁndlichen
+alten
+Handschriften
+mitgenommen
+und
+für
+die
+seinigen
+ausgegeben
+zu haben,
+die
+vom Lieh
+lingsji'mger
+Christi,
+nämlich von Johannes,
+stammten.
+Theophilus
+würde
+natürlich vor solch
+einer Beschuldigung nicht zurückgeschreckt
+sein.
+Sie
+raubte dem Johannes mit einem Schlage die Autorität eines grossen christ
+lichen Schriftstellers und verwandelte zugleich die „Offenbarung in Gewitter
+und
+Sturm“
+(deren
+Verbreitung
+jetzt
+schon
+so
+gross
+war,
+dass
+man sie
+nicht
+mehr
+vernichten konnte) aus
+einer
+gegen
+die nikolaitische
+Partei
+gerichteten
+Waffe
+in
+ein
+für
+diese
+sehr
+starkes
+Werkzeug
+zur
+Ein
+schüchterung
+der
+Gemeinde
+und
+ihrer
+Gegner.
+Als
+Beweis
+für
+die
+Richtigkeit
+dieser
+Anklage
+diente
+für
+die Gegner
+des Johannes
+die Tat
+sache,
+dass
+die
+Prophezeiung
+nicht
+in Erfüllung
+gegangen
+war
+und
+also
+Johannes,
+der
+sich
+für
+deren
+Verfasser
+ausgab,
+sie
+selbst
+nicht
+verstanden
+habe.
+Eine
+derartige
+Beschuldigung
+zu widerlegen,
+die
+von
+dem Konzil
+mit einem Manne,
+wie der heih'ge Epiphanius,
+an der Spitze ausgesprochen
+wurde,
+war zur Zeit
+des Altertums
+in den Augen
+eines jeden ganz
+un
+möglich,
+dann
+dies
+hätte
+bedeutet,
+den
+Ruhm
+dem
+Lieblingsjiinger
+Christi
+abzusprechen
+und
+somit ein Feind Jesu selbst
+zu
+sein.
+Infolge
+hiervon
+konnte
+sich
+später
+bei
+den
+verzweifelnden
+An
+hängern des Johannes
+auch
+die
+Legende,
+die wir
+schon
+früher erwähnt
+haben,
+bilden,
+dass
+der
+Lieblingsjünger
+Christi,
+Johannes
+vom
+See
+Genezareth, zum angeklagten Johannes zur Nachtzeit
+in sein Kloster
+bei
+Antiochia
+gekommen
+sei und ihm eine Rolle mit
+„der göttlichen Offen
+barung“
+(auf griechisch Apokalypse)
+überreicht
+habe,
+damit
+Johannes
+daraus
+die
+ganze
+Tiefe
+der Wahrheit
+erkenne.
+Aber,
+sei
+dem, wie
+es will:
+das Urteil wurde schliesslich gefällt,
+Johannes
+wurde für schuldig
+erklärt,
+abgesetzt
+und
+in
+Bann
+getan
+B).
+Der Beschluss
+des Konzils über die Absetzung
+9)
+und Einsperrung
+des
+Johannes
+in
+ein
+Kloster
+wurde
+sofort
+dem Kaiserpaar
+zur
+Voll
+streckung
+übergeben.
+In Konstantinopel
+entstand
+damals
+ein Aufstand
+zugunsten
+des verfolgten Bischofs,
+den
+die Bevölkerung
+sehr
+lieb hatte.
+
+--- Page 208 ---
+182
+Eine
+grosse Volksmenge
+sammelte
+sich
+vor
+der Wohnung
+des Jo
+hannes
+an.
+Die
+einen
+schimpften
+über den Kaiser
+und
+die Kaiserin,
+die
+anderen über Theophilus
+und
+seine Anhänger.
+Erst am Abend entführte
+das Militär Johannes
+aus
+seiner
+Kirche
+und
+brachte
+ihn
+nachts
+auf das
+asiatische
+Ufer
+des Bosporus hinüber.
+Dort wurde er auf ein Schiff
+ge
+setzt und
+nach
+Prenet
+bei Nikodemia
+entführt,
+wo
+er
+in
+ein
+Kloster
+eingesperrt
+wurde.
+Aber
+die Reise
+dauerte
+nur
+einen
+Tag.
+In
+der
+darauf
+folgenden
+Nacht,
+anfangs
+Mai
+des
+Jahres
+403,
+fand
+in
+Konstantinopel
+ein
+un
+bedeutendes
+Erdbeben statt ‘°)‚
+wodurch
+einige
+Gebäude
+Risse
+bekamen,
+ohne
+übrigens weiteren
+Schaden
+zu
+erleiden.
+Dieses
+Naturereignis
+(oh
+wohl
+in Konstantinopel
+nicht
+selten)
+gab
+der Sache
+plötzlich
+eine
+ganz
+andere
+Wendung.
+Das ist
+auch
+selbstverständlich!
+Man
+erinnere
+sich
+nur, wie oft in
+der
+„Offenbarung“
+von
+einem
+Erdbeben
+die
+Rede
+ist,
+von dem
+„die grosse Stadt“ in drei Teile zerfallen,
+und die Erde erheben,
+und worüber
+die himmlischen Boten klagen sollten.
+Das Volk hatte
+sich
+an
+den Gedanken gewöhnt,
+dass nur die Anwesenheit
+des Johannes
+die
+Residenz
+des Reiches von
+der Strafe
+gerettet
+habe.
+Und jetzt,
+wo
+man
+Johannes
+verurteilt
+und
+entfernt hatte,
+jetzt
+begann
+auch
+die
+Prophe
+zeiung sich zu erfüllen!
+Grosse
+Volksmengen
+eilten
+auf
+die
+Strassen
+und
+Plätze
+und
+schrieen: „Die ganze Stadt wird vernichtet,
+wenn Johannes nicht zurück
+gebracht wird““).
+Die
+erschrockene
+Kaiserin
+vergass
+in
+diesem Augen
+blick
+alle
+tatsächlichen
+oder
+eingebildeten
+Kränkungen,
+die
+sie
+von
+Johannes
+erfahren
+hatte,
+und
+allen Groll,
+der sich in ihr während der
+letzten zwei Jahre
+der
+allgemeinen
+Beruhigung
+gegen
+ihn angesammelt
+hatte.
+Noch
+in
+derselben
+Nacht
+schrieb
+sie
+ihm
+einen
+ﬂehentlichen
+Brief : „Ich
+bitte
+deine Durchlaucht inständigst,
+nicht
+daran
+zu glauben,
+dass ich
+an
+dem,
+was
+mit dir
+geschehen
+ist,
+teilgenommen
+habe.
+Ich
+bin unschuldig
+an
+deinem
+Blute.
+Böse
+und
+sittenlose
+Leute
+haben eine
+Verschwörung
+gegen dich angezettelt!
+Gott
+ist
+mein Zeuge,
+dass ich die
+Wahrheit
+sage, wie
+auch die Tränen,
+die ich ihm
+zum Opfer bringe“ L").
+Der
+ganze
+Bosporus bedeckte
+sich,
+wie
+die
+Historiker
+berichten,
+mit Kähnen,
+die
+nach
+Johannes
+suchten.
+Das Marmarameer „war
+voll
+von Abgesandten“.
+„Das Volk
+lärmte
+auf
+den Plätzen.
+Von
+überall
+erhob
+sich
+ein Murren
+gegen
+das
+ungerechte
+Konzil
+und
+gegen
+den
+Theophilus“.
+Severianus,
+der Bischof
+von Gabala,
+der glaubte,
+durch
+Blossstellung
+des Johannes
+das Volk
+beruhigen
+zu
+können,
+entfachte
+nur
+noch
+weiteren
+Zorn.
+Ganze Volksmengen
+strömten
+zum
+Schloss.
+Als
+das Volk
+am Schlosstor erfuhr,
+dass bereits
+ein hoher Beamter
+abgesandt
+war,
+um
+den Johannes
+zurückzuholen,
+strömte
+es
+zum
+Ufer,
+
+--- Page 209 ---
+183
+um seine Ankunft
+zu erwarten.
+Als
+endlich
+sein Schiff
+in
+der Ferne
+gesichtet wurde,
+warfen
+sich
+Frauen
+und
+Kinder
+in Kähne
+und fuhren
+ihm
+entgegen.
+Indessen
+weigerte sich
+Johannes,
+der mitten unter
+den
+30—40
+ihm treu
+gebliebenen
+Bischöfen
+landete,
+die Stadt zu
+betreten,
+wenn
+nicht
+ein
+neues
+„grosses
+Konzil“,
+d.
+h.
+ein
+aus allen christlichen
+Parteien
+zusammengestelltes,
+ihn
+von
+den auf ihm
+lastenden
+Beschul
+digungen
+freisprechen
+würde.
+Allein
+niemand
+wollte
+ihn
+anhören.
+Mit
+Kerzen
+in
+den Händen,
+unter
+dem
+Gesang
+der
+von
+ihm
+eingeführten
+Hymnen
+führten
+ihn
+die Bürger
+und Bürgerinnen
+Konstantinopels
+mit
+Gewalt
+aus
+dem Vorort
+in die Stadt.
+Nachdem
+sie ihn in die
+frühere
+Basilika
+und
+auf
+die
+gewohnte
+Kanzel
+geschleppt
+hatten,
+gingen
+sie
+nicht
+eher
+auseinander,
+bis
+er ihnen eine beruhigende
+Rede
+gehalten
+und
+ihnen versprochen
+hatte,
+auch fernerhin
+als ihr Oberbischof bei
+ihnen
+zu
+bleiben,
+ohne
+auf den
+Beschluss
+des Konzils und
+auf seine Verbannung
+aus
+der Kirche
+Rücksicht
+zu nehmen.
+Und
+was
+wurde aus
+dem Weltkonzil?
+Der
+grösste
+Teil
+der Bischöfe
+war
+schon
+am
+gleichen
+Tage
+aus
+der Stadt
+geﬂüchtet
+und eilte jetzt mit vollen
+Segeln,
+mit dem heiligen
+Epiphanius
+voran,
+nach Hause.
+Dieser ﬂüchtete
+so schnell,
+dass er damit
+den
+ihn
+verteidigenden
+orthodoxen
+Geschichtsschreibern
+den Vorwand
+zu
+der Behauptung
+gab,
+er habe plötzlich
+die
+Gabe
+der
+Prophezeiung
+erhalten
+und
+sei
+noch
+vor der Verurteilung
+des Johannes
+abgereist").
+Die Tatsache bleibt jedenfalls
+bestehen,
+dass Epiphanius,
+der vor
+allen
+anderen
+herbeigeeilt war,
+um Johannes
+zu richten,
+und
+der
+noch
+vor
+dem Konzil ihn auf alle Weise
+zu
+verletzen
+suchte,
+zusammen
+mit
+dem Hieronymus,
+einer
+der Ankläger
+des Johannes war.
+Darum erschrak
+er jetzt
+so stark,
+dass
+er bei
+seinem
+hohen Alter
+(man
+sagt,
+dass
+er
+trotz seiner Heftigkeit
+mehr
+als
+hundert Jahre alt war) diesen Schrecken
+nicht
+aushalten
+konnte und,
+ohne
+seine Insel
+Cypern zu erreichen,
+auf
+halbem
+Wege
+von Konstantinopel
+starb.
+Das
+ereignete
+sich am 12. Mai,
+und wir können somit
+bestimmen,
+dass
+die
+Sitzungen
+des
+Konzils
+in
+den
+ersten
+Tagen
+des gleichen
+Monats
+oder
+wenigstens
+nicht vor Ende
+des Monats April
+stattgefunden
+haben.
+Die
+anderen
+Bischöfe des Konzils,
+denen
+es
+nicht
+gelungen
+war,
+aus Konstantinopel
+abzufahren,
+wurden von den Einwohnern
+der Residenz
+überfallen.
+Diese bedrohten
+die mit Theophilus angekommenen
+Geistlichen
+und drohten,
+den Theophil selbst zu ertränken.
+Blut ﬂoss
+am Ufer, wo
+hin die Richter geﬂüchtet
+waren,
+um ihre Schiffe zu besteigen.
+Severianus,
+Antiochus
+und
+andere
+Feinde
+des Johannes
+ﬂüchteten
+voll
+Angst
+aus
+der Stadt, obwohl
+der Kaiser
+sie zur Rechtfertigung
+des Johannes von
+neuem
+zusammenberief.
+Des
+Nachts
+bestieg
+der
+„mit
+Schmach
+be
+
+--- Page 210 ---
+184
+deckte“
+Theophilusl‘)
+sein
+Schiff.
+Er
+war
+dermassen
+vom
+Schrecken
+gelähmt,
+dass
+er
+sich
+wieder mit
+den
+von
+ihm
+verbannten
+Origeniten
+aussöhnte
+und
+ihnen
+allen
+erlaubte,
+zu
+ihm
+nach
+Aegypten
+zurück
+zukehren.
+Aber
+nur
+zwei
+von
+den
+„langen
+Brüdern“
+begaben
+sich
+wieder in ihre verwüsteten Hütten auf dem nitrischen Berg.
+Die übrigen
+waren bereits
+in Konstantinopel
+gestorben.
+‘)
+Viele
+Geschichtsschreiber
+halten
+diese
+Rede
+mit
+Ausnahme
+des
+Wortes
+Jezabel,
+für
+apoln-yph,
+oder
+beziehen
+sie
+auf
+eine
+viel
+spätere
+Zeit.
+Siehe Aim6
+Puech,
+St. Jean
+Chrysostome.
+p.
+301.
+’) Das Leben usw.
+8.166—167.
+Man
+darf
+behaupten,
+dass
+Johannes
+wäh
+rend
+seines
+Amtes
+als
+oberster
+Bischof
+von
+Konstantinopel
+es
+der Kirche
+verbot,
+die kaiserliche
+Regierung
+zu unterstützen,
+dieser
+zu dienen,
+aber
+auch von
+der Regie
+rung
+eine
+ofﬁzielle
+Unterstützung
+in
+Form
+verschiedener
+Einnahmequellen
+anzu
+nehmen,
+welche
+damals
+anstatt
+Gehalt
+den weltlichen
+wie
+auch den geistlichen
+Be
+amten
+des Reiches
+zur Verfügung
+standen.
+Das war
+wohl
+auch die
+Ursache
+der Er
+bitterung
+der
+Geistlichkeit
+gegen ihn,
+als die Prophezeiung
+sich
+nicht
+erfüllt hatte.
+3) Quod
+adversus
+ecclesiam
+loquitur, illius
+altare
+furiarum
+plenum
+appellans
+(Act.
+synodic.
+ad Quercum
+apnd
+Phot.
+59).
+‘) Brat criminem
+laesae
+majestatis
+convictum
+in Augustam,
+ut
+ipsi
+retulerunt,
+quod
+eam
+vocasset Jezabel (Palladius: Dialog, VIII,
+p. 30).
+‘)
+Quod
+in
+ecclesia
+gloriando
+dixisset:
+amo
+et
+insanio
+(Act. synod.
+ad Quere.
+apud Phot. 59,
+aus
+den Anklagen
+Isaaks).
+‘) Origenistas
+suscepit et eos,
+qui cum ecclesia communicant
+in carcerem detrusos
+non
+curavit
+(ibid).
+")Ethnicos
+qui christianos
+male tractaverint
+suscipit
+et
+habet in
+ecclesia et
+illis
+praeest
+(ibid).
+°) „Das
+Leben“
+usw.
+8.168.
+Sie
+ab
+Ecclesia
+expulsus
+est Ioannes
+miese
+ad it
+comite
+cum militari manu
+non
+secus
+ac
+ad
+praelium
+adversus barbaros.
+Ejectus
+venit
+in praediola
+ad
+Praenetum
+Bithyniae
+(Fall. cap. IX, p.
+SO).
+") Sein Ankläger
+auf
+dem
+zweiten
+Konzil
+(siehe
+unten)
+sagte:
+Johannes
+ist
+weder
+Bischof
+mehr
+noch
+Priester.
+Er ist
+aus
+dem Schosse
+der Kirche
+ausgestossen,
+und wir können
+weder
+seine
+Verteidigung
+anhören
+noch
+mit
+ihm
+verhandeln,
+sonst
+droht
+uns selbst der
+Kirchenbaun
+(Thierry:
+St. Jean
+Chrysostome,
+p. 247).
+‘°)
+Sie begann
+in der hebdomonischen
+Vorstadt
+(Thierry:
+St. Jean
+Chrysotcme,
+pag.
+221).
+")
+Auf griechisch
+bedeuten müt;
+zu gleicher
+Zeit
+sowohl
+die Stadt
+als auch das
+Reich (für das letztere
+gab
+es kein anderes Wort)
+wie
+auch Bürgergemeinschaft,
+Feste,
+Zuﬂucht.
+1’)
+Thierry:
+St. Jean
+Chrysostome,
+p. 221.
+1‘)
+Der
+byzantinische
+Geschichtsschreiber
+Sokrates
+teilt
+mit,
+nach
+den An
+gaben Einiger
+sei
+Epiphanius
+derart
+aufgeregt
+aus Konstantinopel
+abgereist,
+dass
+er
+schon vom Schiff aus
+dem Johannes sagen liess:
+„Ich
+hcﬂ'e,
+dass
+du nicht als Bischof
+sterben
+wirst“,
+und
+Johannes
+antwortete
+ihm:
+„Ich
+hoffe,
+dass
+du
+nicht
+bis
+nach
+Hause
+gelangen
+wirst!“
+(„Spero
+te non
+moriturum
+esse
+episcopum!“
+Ioannem
+vicis
+sim illi sic respondisse:
+Spero
+te non
+perventurum
+esse in patriam.
+Socr. VI,
+14).
+“)
+Murawiew,
+S.
+349.
+
+--- Page 211 ---
+185
+VII.
+johannes
+als
+der
+oberste
+Bischof
+von
+Konstantinopel
+vom
+Konzil
+abgesetzt,
+von
+niemandem
+als
+nur
+vom
+Volke
+an
+erkannt.
+Ein
+neues
+Gericht
+über
+ihn,
+seine
+Einsperrung,
+Verbannung
+und sein Tod im Exil.
+Solch
+ein Naturereignis,
+wie
+das Erdbeben, kam wie mit Absicht
+dem Johannes zur Hilfe und gab ihm, als dem Verfasser der „Offenbarung,
+in
+Gewitter
+und
+Sturm“
+fast
+sein
+ganzes
+früheres
+Ansehen
+zurück.
+Wenn
+daher
+Johannes
+nach
+dem
+Beispiel
+seiner
+Vorgänger
+gelebt,
+wenn
+er gesucht
+hätte,
+gute Beziehungen zur kaiserlichen Regierung zu
+unterhalten,
+oder
+sagen wir
+es
+gerade
+heraus,
+wenn
+er seine republika
+nischen
+Ansichten,
+die
+er
+sich
+in der
+heidnischen
+Schule
+zu Athen
+er
+worben,
+aufgegeben
+hätte,
+so
+hätte
+er
+sicher
+bis zu seinem Ende
+un
+behelligt
+gelebt.
+Aber
+Johannes
+tat dies.nicht.
+Wie
+er in
+der „Offen
+barung“ das Bündnis zwischen
+Staat und Kirche
+als Unzucht
+der letzteren
+bezeichnet
+hatte,
+so tat
+er
+es
+auch
+weiter.
+Wie
+er
+damals
+die Vögel
+des Himmels
+zusammengerufen
+hatte,
+um
+die Leichen
+der Kaiser
+und
+der Feldherrn,
+die
+von Jehoschua-Jesus
+getötet
+waren,
+zu fressen,
+so
+hoffte
+er
+auch
+jetzt
+noch
+immer,
+dass
+der
+siebenfache
+Donnerschlag
+doch
+über
+sie
+ertönen
+würde,
+von
+dem
+die
+„Stimme
+vom
+Himmel“
+ihm gesagt
+hatte: „Versiegle,
+was die
+sieben Donner gesagt
+haben,
+und
+schreibe
+es nicht
+auf“
+(Apok.
+10, 4).
+Die Wiederkehr
+Christi
+war für
+ihn, wie wir dies
+aus
+den vielen Stellen
+der Apokalypse
+gesehen
+haben,
+auch
+der Anfang
+der
+allgemeinen
+Gleichheit
+und
+Brüderlichkeit,
+wenn
+alle
+„neben
+Christus
+sitzen
+werden“.
+Auch jetzt
+fuhr er fort,
+sich
+dem
+Kaiser
+und
+der
+Kaiserin
+gegenüber
+ebenso
+unabhängig
+zu
+verhalten,
+wie gegenüber
+dem
+letzten
+ihrer Untertanen,
+ohne
+irgend welche ein
+trägliche
+Privilegien
+von
+der
+Regierung
+anzunehmen
+und
+ohne
+ihr
+seinerseits
+irgend welche
+Unterstützung
+ihres Ansehens
+beim
+Volke
+zu
+leisten.
+Anlässe
+zu Reibungen
+mit
+der kaiserlichen
+Gewalt
+mussten
+sich
+unter diesen Umständen von selbst ergeben.
+Alle kannten die Abneigung
+des
+Johannes
+gegen
+den
+byzantinisch-römischen
+Despotismus,
+den
+er
+in
+der
+„Offenbarung“
+mit
+jenem
+Ungeheuer
+mit
+sieben
+Köpfen
+verglichen
+hatte,
+auf denen
+sieben
+Kronen
+mit lästerlichen Titeln
+und
+Wahlsprüchen
+sich
+befanden.
+Jeder,
+der
+sich
+von
+seiten
+des
+Kaisers
+oder
+der Kaiserin
+beleidigt glaubte,
+wandte
+sich
+sofort
+an
+den
+strengen
+Propheten,
+um
+sich
+bei
+ihm
+über
+jene
+zu beklagen,
+und
+Johannes hielt
+.‚..
+' ‚
+
+--- Page 212 ---
+186
+es für
+seine Pﬂicht,
+diesem Klagen zuzuhören, und trat für diese, falls
+er
+sie für berechtigt
+gefunden
+hatte,
+vor
+der kaiserlichen
+Gewalt
+ein.
+In
+den
+ersten
+Monaten
+nach
+seiner
+Wiedereinsetzung
+stieg
+sein
+Ansehen
+als
+eines
+Propheten
+derart,
+dass
+sein
+öfteres
+Einschreiten
+zu
+gunsten
+der
+Verfolgten
+und
+Beleidigten
+ihm
+keinen
+grossen
+Schaden
+zufügen konnte‘).
+Bei Hofe
+begegnete
+man
+ihm,
+wie
+dies
+auch
+einige
+Legenden
+bezeugen,
+die von seinen byzantinischen Biographen angeführt
+werden,
+zweifellos
+mit
+grosser Ehrfurcht.
+„Der vom Konzil
+abgesetzte“
+Johannes
+blieb
+weiter
+auf
+seinem
+hohen
+Posten,
+ohne
+irgend welche
+wirkliche
+Freunde
+mit
+Ausnahme
+der ihn verehrenden
+Volksmasse
+und
+ohne
+einen
+anderen
+Verteidiger
+zu
+besitzen,
+als
+den
+Erderschütterer
+Poseidon,
+der ihn zurückgeführt
+hatte.
+Alles
+ging,
+wie
+es
+schien,
+nach
+alter Weise.
+Seine
+Lieblings
+diakonissin,
+die
+berühmte
+byzantinische
+Schönheit,
+Olympiade ’) blieb
+auch
+fernerhin,
+trotz
+der
+Verleumdung
+durch
+das
+Konzil,
+mit
+ihm
+in
+regster
+Freundschaft.
+Die alten Biographen
+verknüpfen
+von
+diesem
+Augenblick
+ihr Schicksal
+untrennbar
+mit
+demjenigen
+des Johannes.
+Sie
+erwähnen keine andere Freundschaft
+von
+ihm,
+die später
+seinetwegen
+so
+viel gelitten hätte,
+oder die in seinem ferneren
+Leben ein derartiges unzer—
+trennliches Glied
+gebildet
+hätte,
+wie sie.
+Haben wir
+das Recht,
+daraus
+zu schliessen,
+dass
+auch ihm
+„die Liebe
+an seinem Lebensende
+gelächelt
+hätte?“
+Johannes
+hatte,
+wie wir
+dies
+schon
+öfters
+gesehen
+haben,
+ein
+sehr zärtliches, liebevolles Herz.
+Zur Zeit seiner
+erzwungenen
+Rückkehr
+nach
+Konstantinopel,
+als
+ihn
+der Glanz
+eines
+begeisterten,
+in alle Ge
+heimnisse
+Gottes
+und
+der Natur
+eingeweihten
+Propheten
+umstrahlte,
+war
+er noch gar nicht
+so alt,
+um bei den Frauen in Konstantinopel nicht
+zärtlichere
+Gefühle
+ihm
+gegenüber
+als
+blosse
+Verehrung
+hervorzurufen.
+Er war
+damals
+kaum
+mehr
+als
+45 Jahre 3) alt,
+aber
+diese
+Zahl
+mag
+tendenziös
+übertrieben
+sein,
+da
+für
+die
+mittelalterlichen
+Geschichts
+schreiber,
+welche die „Offenbarung“
+aus seinem Leben gestrichen hatten,
+sein
+schnelles
+Emporkommen
+unmöglich
+erscheinen
+musste.
+Unter
+solchen
+Umständen
+wäre
+es schwer zu erwarten,
+dass
+sein Herz
+gegen
+die
+Vergötterung
+kalt
+und
+unempﬁndlich
+geblieben
+wäre,
+mit
+der ihn
+in Konstantinopel
+alle Frauen
+empﬁngen,
+die ihn natürlich
+viel mehr
+an
+beteten
+als Gott
+selbst,
+den sie nie gesehen hatten.
+So konnte wohl auch
+die
+Freundschaft
+zwischen ihm und
+Olympiade
+bei ihrem
+häuﬁgen
+Zu
+sammentreffen
+in
+Liebe
+übergehen.
+Aber
+ihre
+frommen
+Biographen,
+die
+die Beziehungen der Geschlechter vom
+rein
+mönchischen
+Standpunkt
+aus
+betrachten,
+suchen
+den Leser
+zu
+überzeugen,
+dass
+zwischen ihnen
+nicht
+einmal
+eine
+platonische Liebe,
+geschweige
+denn
+eine
+solche
+be
+
+--- Page 213 ---
+187
+standen
+habe,
+die
+ihm
+das Konzil
+zur Last
+legte,
+als
+es von
+ihm die
+Erklärung darüber
+verlangte, warum
+er
+plötzlich
+während
+des
+Gottes
+dienstes
+ausgerufen
+habe:
+„Ich
+vergehe
+und
+werde
+verrückt
+vor lauter
+Liebe“
+‘).
+In
+ihrem
+Eifer
+schiessen
+sie über
+das Ziel
+und
+verfallen
+geradezu
+ins Lächerliche,
+wodurch
+sie auch
+ihren geheimen
+Zweck
+verraten.
+So
+wird
+z. B.
+in
+den
+Mineen
+unter
+anderem
+erzählt, Olympiade
+sei
+der
+artig
+schamhaft
+gewesen,
+dass
+sie ihr Lebtag
+in kein Bad gegangen
+sei,
+„weil
+sie
+sich
+vor sich
+selbst
+schämte
+und
+die Nacktheit
+ihres
+eigenen
+Leibes
+nicht
+sehen wollte.
+Wenn
+sie
+sich
+aber
+waschen
+musste,
+so
+stieg
+sie in
+einem Hemd in ein mit Wasser gefülltes Gefäss
+und
+wusch
+sich darin,
+ohne
+das Hemd abzunehmen“).
+Sie
+war
+in
+Konstantinopel
+geboren,
+die
+Tochter
+des
+Senators
+Anisius Secundus.
+Noch
+vor Erreichung
+der Volljährigkeit wurde
+sie mit dem Sohne
+des Eparchen Neuredius
+verheiratet,
+der zwei
+oder
+anderthalb Jahre
+nach
+der
+Heirat
+starb
+und
+sie
+als
+Erbin
+„grosser
+Reichtümer
+und
+unzähliger
+Landgüter
+zurückliess“,
+die
+zum
+grössten
+Teil
+ihrem
+eigenen
+verstorbenen
+Vater
+gehört
+hatten.
+Der
+Kaiser
+Theodosius,
+der
+damals
+regierte,
+wollte
+sie
+mit
+seinem
+Verwandten
+Elpidius
+verloben,
+aber
+die
+stolze
+Schöne
+wies
+diesen
+Bräutigam
+ab,
+wofür
+sie sich den Zorn
+des Kaisers
+zuzog,
+der
+sie mitsamt ihrem Ver
+mögen
+unter
+Vormundschaft
+stellte.
+Diese
+unwürdige
+Lage
+dauerte
+wahrscheinlich
+bis
+zum
+Tode
+des
+Theodosius,
+obwohl
+einer
+ihrer Bio
+graphen,
+ein Mönch,
+bemerkte,
+dass Theodosius bei
+der Nachricht,
+dass
+sie infolge ihrer
+beispiellosen
+Schamhaftigkeit
+„nicht
+einmal
+in ein Bad
+ging“, ihr die Verwaltung
+von
+neuem
+wieder zusprach
+6).
+Wenn wir annehmen,
+dass
+die Vormundschaft
+sogleich
+nach
+dem
+Tode
+des Theodosius,
+d.
+h.
+in
+den
+schrecklichen,
+apokalyptischen Jahren
+aufgehoben
+wurde,
+so werden wir leicht
+den Gebrauch verstehen,
+welchen
+die
+noch
+sehr junge Frau von
+ihrem
+Einkommen
+machte.
+Sie begann
+nämlich,
+dieses
+zur Unterstützung
+der Armen
+und
+Kranken,
+„der
+Ge
+fangenen
+und
+in die Ferne Verbannten“
+zu verteilen; ferner unterstützte
+sie
+alle
+möglichen
+barmherzigen Werke.
+Zur
+Zeit,
+als Johannes
+zum
+ersten
+Male
+mit Gewalt
+in Konstantinopel
+eingesetzt
+wurde,
+war
+sie,
+wie
+die
+Mineen
+sagen,
+von
+seinem
+Vorgänger
+Nektarius
+in
+den
+Stand einer Diakonissin
+erhoben worden.
+Aber wenn wir berücksichtigen,
+dass Nektarius
+und
+Johannes
+zwei
+ganz
+entgegensetzten
+christlichen
+Parteien
+angehörten
+— Nektarius
+der
+Staatskirche
+und Johannes
+der
+jenigen ihrer
+Gegner”)
+—-,
+so ist
+es viel wahrscheinlicher,
+dass
+sie von
+Johannes
+selbst
+in die
+Schar
+seiner
+eigenen
+Diakonissinnen
+eingeweiht
+wurde,
+nachdem
+sie
+ihm
+ihr
+ganzes
+Vermögen
+und
+Einkommen
+über
+
+--- Page 214 ---
+188
+geben
+hatte.
+Die
+Geschichte
+mit
+dem Nektarius
+aber
+ist wahrscheinlich
+nur zu dem Zweck
+erfunden
+worden,
+um
+zu
+zeigen,
+dass
+sie
+schon
+vor
+dem
+Erscheinen
+des Johannes
+im Dienste der Kirche
+stand
+und
+ohne
+seinen
+Einﬂuss
+in den Diakonissenstand
+eingetreten
+war.
+Bei ihr,
+also
+auf
+ihrem Landgut,
+hat auch
+Johannes
+die zu ihm
+aus Aegypten
+geﬂüchteten
+Origeniten
+untergebracht.
+Somit
+ist
+es nur
+verständlich,
+dass
+der Unwille
+des
+nikolaitischen
+Konzils sich auf sie
+erstreckte.
+Die unerwartete Auﬂösung des Konzils infolge des Erdbebens
+und die eilige Abreise aller seiner Mitglieder
+machte
+fernere Sitzungen un
+möglich;
+andernfalls
+wären auf ihnen wahrscheinlich
+auch die Origeniten
+und Olympiade,
+als
+eine
+der ihrigen,
+verdammt worden.
+Hindentungen
+auf ein
+solches
+Schicksal,
+das ihr
+drohte,
+haben
+wir in
+den Mineen.
+„Er
+aber
+(d. h. der allgemeine
+Sündenbock
+dieses Kon
+zils,
+der
+übereifrige Theophil)
+zürnte
+dem Johannes
+und ver
+suchte
+auch
+sie
+(die Olympiade)
+in
+einen
+schlechten
+Ruf zu bringen,
+aber
+niemand
+schenkte
+seinen
+gehässigen
+Verleumdungen Glauben“).
+„Johannes
+aber,
+fährt
+der Verfasser fort,
+liebte
+sie mit
+geistiger
+Liebe,
+so wie
+einst
+der Apostel
+Paulus
+die Perside
+liebte,
+von
+der
+er schrieb:
+„Küsset
+Perside,
+die Geliebte,
+die viel
+für
+den Herrn Gott
+gelitten hat.“
+Olympiade
+aber,
+die Heilige,
+leistete
+nicht weniger als
+Perside,
+arbeitete
+viel
+im Namen
+Gottes
+und diente
+den Heiligen
+mit
+grossem
+Glauben
+und
+warmer
+Liebe.
+Als
+aber
+Johannes
+unschuldig
+aus
+seinem
+Amt vertrieben wurde,
+weinte
+die
+fromme
+Olympiade
+mit
+den
+anderen
+braven
+Diakonissinnen
+viel
+darüber“
+°).
+Aber nun war Johannes im neuen Glanze einer geheimnisvollen Macht
+zu ihnen zurückgekehrt,
+und alles ging nach alter Weise unter den treuen
+Freunden.
+Indessen
+dauerte
+dieser
+Friede
+und
+diese
+Ruhe
+nur
+zwei
+Monate.
+Im Juli
+des
+gleichen
+Jahres
+403
+wurde
+auf
+einem
+Platze
+von
+Konstantinopel,
+unweit
+des
+Tempels
+der
+heiligen
+Sophia
+auf
+einer
+Marmorsäule
+ein Standbild
+der Kaiserin
+Eudoxia
+1°)
+errichtet.
+Auf dem
+gleichen
+Platze
+wurden
+auch
+an
+Feiertagen
+Volksbelustigungen
+abge
+halten:
+Schaubuden, Gesang,
+Tänze
+und
+Musik.
+Johannes,
+wie wir
+es
+schon
+aus
+verschiedenen
+Stellen
+der
+„Offenbarung“
+wissen,
+konnte
+auf
+den öffentlichen Plätzen
+die kaiserlichen
+Standbilder
+nicht
+leiden.
+Er
+hegte
+immer, scheint
+es,
+den Verdacht,
+dass
+dies
+nur
+der
+erste Schritt
+von
+seiten
+der Staatskirche,
+wie
+dies
+schon
+einmal
+mit Konstantin
+dem Ersten
+geschehen
+war,
+zur Einreihung
+der Kaiser
+in
+die Zahl
+der Heiligen
+war.
+Man
+erinnere
+sich
+des Ausdruckes
+über
+das
+Bild
+des
+Tieres
+im
+13. Kapitel
+der
+„Offenbarung
+in Gewitter
+und
+Sturm“
+und
+auch
+des
+Umstandes,
+dass,
+als
+Johannes
+17 Jahre
+vorher Pre
+
+--- Page 215 ---
+189
+diger
+beim
+origenitischen
+Bischof
+Flavianus
+in
+Antiochien
+war,
+das
+Volk
+die
+dortigen
+Standbilder
+des
+damaligen
+Kaisers
+Theodosius
+und
+seiner Nachfolger,
+der jeweiligen Kaiser
+von Byzanz
+und Rom, Arkadius
+und
+Honorius,
+umstürzte.
+Ich
+hatte
+schon
+Gelegenheit,
+zu
+zeigen,
+dass
+dieser
+Umsturz
+nicht
+ohne
+die Einwirkung
+seiner
+Reden „über Stand
+bilder zum antiochenischen
+Volk“
+stattgefunden
+hatte, nicht jener Reden,
+die
+uns
+die
+späteren
+Redakteure
+oder
+Zusammensteller
+nach
+Gerüchten
+oder
+Erinnerungen
+zu überliefern geruht haben,
+sondern
+derjenigen,
+die
+er
+tatsächlich
+gehalten
+hat.
+Wegen
+dieser
+Reden
+eben
+musste
+er
+da
+mals
+aus Antiochia
+nach
+Klein-Asien
+ﬂiehen,
+um
+schliesslich auf die
+Insel
+Patmos
+zu
+gelangen,
+während
+sein
+Bischof
+nach
+Konstantinopel
+zur Verteidigung
+vor
+’
+den
+Kaiser
+fahren
+oder
+sogar
+dahin
+gebracht
+werden musste
+: „ Gesenkten Hauptes“, sagt darüber sein Geschichtsschreiber,
+„als ob er selbst an dem antiochenischen
+Aufstands schuldig gewesen wäre,
+trat
+er
+in
+die
+kaiserlichen
+Gemächer
+ein“
+11).
+Der Kaiser
+Theodosius
+„erlaubte
+dem Flavianus
+nicht
+einmal,
+über die Osterfeiertage
+in
+der
+Kaiserstadt
+zu bleiben“
+12)‚ d. h. mit
+einfachen
+Worten
+ausgedrückt:
+er
+jagte ihn sofort aus
+der Residenz.
+Zur Bestätigung der Ansicht,
+dass der antiochenische
+Bildersturz
+im
+Jahre 387
+eine Folge
+der Predigten
+des Johannes
+war,
+erscheint
+auch
+sein
+Benehmen
+im
+gegenwärtigen Falle
+bei
+der
+analogen
+Errichtung
+des Standbildes
+der Kaiserin
+in Konstantinopel.
+Er erhob
+sofort
+öffent
+lich
+Einspruch
+gegen
+dieses
+Standbild
+und
+hielt
+von der Kanzel
+seiner
+Kirche herab
+eine
+donnernde
+Rede,
+die
+uns jedoch von den untertänigen
+byzantinischen
+Geschichtsschreibern nicht überliefert
+wurde.
+Aber
+alle
+sagen,
+dass
+das
+eine
+der
+am
+meisten
+aufreizenden
+1“‘)
+gewesen
+und.
+die
+ganze
+Stadt
+darüber
+in Aufruhr geraten
+sei.
+Als Johannes
+nachher
+mit
+irgend einer Forderung
+erschien
+(viel
+leicht
+um
+Rücksprache
+wegen
+dieses Standbildes
+zu nehmen) l‘),
+befahl
+die
+Kaiserin,
+ihn
+aus
+dem Schloss
+zu jagen.
+Als
+Antwort
+hierauf
+verbot
+er,
+sie in
+seine Domkirche
+hineinzulassen.
+Die Erzählung
+über
+dieses
+Ereignis,
+das
+zu
+einer
+Legende
+geworden
+ist,
+ist
+derart
+interessant, dass ich
+sie hier
+im Wortlaut
+wiedergebe,
+indem
+ich
+den
+legendarischen Charakter
+der Schilderung
+der
+alten Chronisten
+beizu
+behalten
+suche:
+‚
+„Als das Fest der Erhöhung
+des an gebeteten Kreuzes herbei
+kam
+(14
+September),
+das
+ganze
+Volk
+in
+der
+Kirche
+versammelt
+war
+und
+der Kaiser
+selbst
+mit
+seinem
+Gefolge
+dorthin
+kam,
+näherte
+sich
+auch
+die Kaiserin
+mit
+ihrem
+Hofstaat
+der Kirche.
+Als
+aber
+die
+Ge
+meinde
+sah,
+dass
+sie
+eintreten
+wollte,
+schloss
+sie vor ihr die Kirchen
+türen zu,
+ohne sie hineinzulassen.
+Ihre ganze Dienerschaft schrie
+wütend:
+
+--- Page 216 ---
+190
+Machet
+der
+Kaiserin
+auf!
+Aber
+die
+Gemeinde
+antwortete:
+Der Pa
+triarch
+(Johannes)
+hat
+angeordnet,
+sie
+nicht hineinzulassen!
+Sie
+aber
+wurde
+voll
+Scham
+und
+Zorn
+und
+sprach
+jammernd
+(auf der Strasse):
+Schauet
+und
+gedenket
+alle, was für
+eine
+Schmach
+mir
+dieser
+boshafte
+Mensch antut!
+Alle gehen
+ungehindert in die Kirche,
+nur mir verbietet
+er
+dies!
+Sollte
+es mir nicht
+möglich
+sein,
+mich an ihm
+zu rächen
+und
+ihn
+von
+der Kanzel
+zu jagen!“
+„Während
+sie
+so jammerte,
+entblösste
+einer
+der
+mit
+ihr
+gekom
+menen
+Krieger
+sein
+Schwert,
+streckte
+seine
+Hand
+aus,
+um
+mit
+dem
+Schwert
+an
+die
+Türe
+zu
+schlagen.
+Aber
+plötzlich
+verdorrte
+seine
+Hand
+und
+wurde
+unbeweglich,
+als
+wäre
+sie
+tot.
+Als
+sie
+dies
+ge
+wahrten,
+da
+erschraken
+die
+Kaiserin
+und
+alle
+Begleiter
+mit
+ihr
+und
+gingen zurück
+15).“
+Der legendäre
+Charakter
+dieser Erzählung
+und der wunderhafte Zu
+satz mit der Hand des galanten Kriegers,
+der
+mit dem Schwerte den Weg
+für
+die junge Kaiserin
+öffnen
+wollte,
+zeigen
+nur,
+wie stark
+die Volks
+seele durch
+die Tat des Johannes
+erregt worden war.
+Selbstverständ
+lich
+konnten
+für
+einen
+derartigen Vorfall,
+wie
+die
+Vertreibung
+des
+Propheten
+aus
+dem
+Schloss,
+keine
+unbedeutenden
+Ursachen vorhanden
+gewesen
+sein.
+So
+geben
+die
+Theologen
+nur
+eine
+von
+ihnen
+erfundene
+oder
+aus
+der Bibel
+abgeschriebene
+Geschichte
+als Ursache
+an.
+Sie er
+zählen uns
+von
+der „Witwe
+des Theognostes“
+die ihren Weinberg
+der
+Kaiserin
+weder
+für Geld
+verkaufen,
+noch
+ihn
+mit
+einem
+andern
+ver
+tauschen
+wollte
+16), wodurch
+die Reise
+des Johannes
+zur Fürsprache
+bei
+der
+Kaiserin
+und
+seine
+Entfernung
+vom Hof verursacht
+sein
+sollte.
+Ueberblickt
+man
+die
+hauptsächlichsten Ereignisse
+in ihrem logi
+schen Zusammenhange
+(die Aufstellung
+der
+Statue der Eudoxia
+im Juli
+oder
+August
+403
+und
+den Ausschluss
+der
+Eudoxia
+aus
+der Kirche
+des
+Johannes am Feiertage
+der Kreuzerhöhung,
+dem
+14. September),
+so muss
+man
+zu
+dem
+Schlusse
+gelangen,
+dass
+alles dies
+sich tatsächlich
+infolge
+des erwähnten Standbildes
+ereignet
+hat.
+Trotz
+aller Reden
+und War
+nungen
+des Johannes
+wurde
+diese
+Statue,
+wie
+es
+scheint,
+doch
+nicht
+entfernt (sonst
+hätten
+ja die Geschichtsschreiber
+nicht
+versäumt,
+es zu
+erwähnen).
+Und
+so
+hat
+Johannes,
+als
+er
+zum
+letztenmal
+gekommen
+war,
+um
+sie zu ermahnen,
+und von
+der
+Kaiserin
+nicht
+empfangen
+oder
+sogar
+weggejagt wurde,
+beschlossen,
+sie
+nicht
+in
+seine
+Kirche
+hinein
+zulassen,
+indem
+er
+dies
+durch
+die für ihn unumstössliche Begründung
+modiﬁziert,
+„wenn
+du
+auf
+dem
+städtischen
+Platz
+als
+Göttin
+stehen
+willst, warum brauchst
+du
+dann
+zu
+mir in
+die Kirche zu gehen,
+da
+du
+doch
+weisst,
+dass ich
+ausser
+dem
+einen
+Gott
+im Himmel
+keine
+anderen
+Götter
+anerkenne.“
+
+--- Page 217 ---
+191
+Was
+tat
+aber
+der Kaiser,
+der
+sich
+mit
+seinem
+Gefolge in der
+Kirche
+befand
+und der von dort
+seine
+Gattin
+vor
+der Türe
+„jammern“
+hörte?
+Die byzantinischen Geschichtsschreiber
+sagen,
+dass
+„er schwieg,
+als ob
+er nichts bemerkt habe“,
+und das ist
+sehr
+wahrscheinlich.
+Der
+charakterlose
+und
+abergläubische
+Arkadius
+fürchtete
+sich
+vor
+dem
+strengen
+Propheten
+und
+vor
+seiner
+eigenen
+Gattin
+wie vor
+dem Feuer,
+die trotz ihrer Jugend
+ihn
+sehr
+strenge
+hielt
+und
+ihn für jede
+Unfolg
+samkeit
+gehörig
+herunterkanzelte.
+In
+diesem
+für
+ihn
+schrecklichen
+Augenblicke
+des Zusammenstosses
+der zwei ihn
+beherrschenden
+Mächte
+hatte
+er
+wahrscheinlich
+wohl
+nur
+den
+einen
+Wunsch,
+in
+irgend
+eine
+Wüste
+zu
+ﬂüchten und
+sich
+dort für
+immer
+zu verstecken,
+um
+weder
+dem Propheten
+noch
+seiner
+Frau vor
+die Augen
+zu kommen.
+Allein
+dies
+war
+ihm
+nicht
+vergönnt.
+Nachdem
+er
+zitternd
+bis
+zum Schluss
+des Gottesdienstes
+da gestanden
+hatte,
+musste
+er
+sich
+nach
+Hause
+begeben.
+Was
+dort
+die
+Kaiserin
+mit
+ihm
+angestellt
+hat,
+wie
+sie
+ihn
+empfangen
+hat,
+und
+wie
+er
+sich vor ihr
+in
+seinem
+Verhalten
+zu rechtfertigen
+versucht
+hat — dies
+möge irgend
+ein
+begabter
+Roman
+schriftsteller
+beschreiben.
+Aber
+das Ergebnis
+dieser
+Familienszene
+war
+für Johannes
+sehr traurig.
+Der Kaiser
+sandte
+an alle Bischöfe
+der byzantinischen Kirche
+den
+Befehl zur Berufung eines Weltkonzils,
+um über den Johannes zu richten,
+und
+er
+selbst
+betrat die Kirche
+des Johannes
+nicht wieder.
+Und
+so
+begaben
+sich
+dieselben
+Bischöfe wieder
+nach
+Konstanti
+nopel mit Ausnahme
+des
+verstorbenen
+Epiphanius
+und
+des Theophilus,
+der
+dieses Mal sich
+wohlweislich
+fernhielt
+und,
+statt
+sich
+selbst
+mit
+seinem
+gesamten
+Stab
+von Bischöfen auf dem Konzil zu zeigen,
+nur drei
+von
+diesen
+hinsandte.
+Alle erwarteten Bischöfe trafen sehr
+bald nach Weihnachten
+d. h.
+zu Beginn
+des Jahres
+404,
+in Konstantinopel
+ein ").
+Die hauptsächlich
+sten
+Feinde Johannes
+waren
+diesmal
+Leontius,
+der
+Bischof
+von
+Ancyra,
+und
+die
+uns
+vom
+früheren Konzil
+her
+bekannten
+Akakius,
+Antiochius
+und
+Severianus.
+Auf Seiten
+der Verteidiger
+des Johannes
+aber
+zeichnete
+sich,
+wie
+man
+sagt,
+der uralte Elpidius,
+der Bischof
+von Laodicea.
+aus,
+derjenigen
+Stadt,
+die Johannes in seiner
+„Offenbarung“
+als
+eine
+der
+seinigen
+bezeichnet
+hatte,
+aber
+welcher
+er vorgeworfen
+hatte,
+dass sie „weder kalt noch warm, sondern nur lau sei“ 18).
+Zwischen
+den Anhängern
+und Gegnern des Johannes
+entstanden
+auf diesem Konzil
+grosse
+Streitigkeiten.
+Aber
+Johannes
+erklärte
+auch
+dieses für inkom
+petent
+und
+weigerte
+sich
+zur Abgabe von Erklärungen
+zu erscheinen,
+wahrscheinlich unter dem Vorwande,
+dass die Mehrzahl
+seiner Mitglieder
+vom
+Staat
+besoldet
+sei.
+
+--- Page 218 ---
+192
+Nach mehreren
+stürmischen
+Sitzungen
+des neuen Konzils,
+(auf
+dem
+auch,
+was bemerkt sei,
+keine Abgeordneten
+der
+westlichen Kirche
+er
+schienen
+waren),
+wurde
+ein Beschluss
+gefasst.
+Er bezichtigte
+den Jo
+hannes
+keiner
+neuen
+Schuld,
+erklärte
+jedoch
+durch Stimmenmehrheit,
+dass
+das
+erste Konzil
+gerade
+so
+kompetent wie
+alle
+vorhergehenden
+war,
+und
+stellte
+ihm,
+wie
+man
+sagt,
+nur
+die
+folgende
+Frage:
+„Wie
+konnte
+er,
+nachdem
+er
+abgesetzt
+war,
+es
+wagen,
+noch
+einmal
+den Bischofstuhl
+zu besteigen
+l”),
+bevor nicht
+ein
+anderes Konzil
+die
+Absetzung
+für ungültig
+erklärt
+hatte?“
+Nach
+verschiedenen
+Geschichtsschreibern
+soll Johannes
+ihnen
+ge
+antwortet
+haben:
+„Ich
+war
+bei
+jenem
+Gerichte
+nicht
+zugegen,
+habe
+mit
+meinen
+Widersachern
+nicht
+verhandelt,
+habe
+die
+gegen
+mich
+erhobenen
+Be
+schuldigungen
+nicht
+zu
+Gesicht
+bekommen
+und
+habe
+auch
+das Urteil
+nicht
+erhalten.
+Der Kaiser
+hat
+mich
+verjagt
+und
+derselbe
+Kaiser
+hat
+mich zurückgebracht.“
+Indessen liess
+das Konzil
+diese Antwort
+des Johannes
+unbeachtet
+und
+verdammte
+ihn ’°).
+Johannes
+aber
+schenkte
+dieser
+Absetzung
+wie
+auch
+vorher keine Aufmerksamkeit,
+ja,
+er
+bekümmerte
+sich auch
+nicht
+um die Ernennung
+des Arsas zum
+Bischof von Konstantinopel
+an seiner
+Stelle,
+fuhr fort, zu predigen,
+und verwaltete
+an der Spitze
+der
+ihm treu
+gebliebenen
+etwa
+vierzig Bischöfe
+sein Amt weiter,
+die man
+zum Unter
+schiede
+von
+den bis jetzt
+noch
+„abgesetzten“
+Origeniten J ohanniten
+nannte.
+Fast alle Einwohner
+der Residenz blieben ihm auch jetzt
+treu.
+In
+die
+Kirchen,
+in
+denen
+seine Nebenbuhler predigten,
+wollte
+niemand
+aus
+dem Privatpublikum
+gehen.
+So
+verging
+beinahe
+die
+ganze
+Fastenzeit“).
+Das
+Osterfest
+des
+Jahres
+404,
+das
+bei
+den Nikolaiten
+in
+diesem
+Jahre
+auf den
+17. April
+ﬁel,
+kam heran.
+Der Kaiser
+Arkadius,
+der
+allem Anscheine
+nach
+seit
+der Zeit, wo
+seiner
+Gattin
+der Eintritt
+in
+die Kirche
+verwehrt
+werden
+war,
+dieselbe
+nicht wieder
+betreten
+hatte,
+sandte,
+wie Palladius
+und
+auch andere
+berichteten,
+zum
+Johannes
+und
+liess
+ihm sagen:
+„Mache
+dich
+fort
+aus der Kirche,
+denn
+du bist verdammt,
+und
+ich
+darf,
+so lange
+du dort bist,
+die Kirche
+nicht
+betreten.“
+Johannes
+soll
+ihm
+vorgeschlagen
+haben,
+(wenn
+er
+es
+nach
+dem
+letzten
+Erdbeben
+wagen
+würde)
+ihn
+zum
+zweiten
+Male
+zu
+entfernen.
+„Ich werde
+nicht
+fortgehen,
+solange
+ich
+nicht
+mit Gewalt
+ver
+jagt werde.
+Sende
+deine Diener,
+dass
+sie
+mich
+herausjagen,
+dann
+werde
+ich
+die Entschuldigung
+haben,
+dass ich die Kirche nicht freiwillig ver
+lassen
+habe,
+sondern
+durch die
+kaiserliche
+Gewalt
+daraus
+verjagt wor
+den
+bin!“
+""")
+\
+
+--- Page 219 ---
+193
+Aber die Aussicht auf ein zweites Erdbeben passte, scheint
+es, weder
+dem Kaiser
+noch
+der Kaiserin.
+In
+die
+leere
+nikolaitische
+Kirche
+aber
+zu
+gehen,
+während
+bei Johannes und
+seinen Presbytern,
+den Johanniten,
+die Kirchen voll von
+Gläubigen waren, war
+etwas
+beschämend
+für ihre
+Eigenliebe.
+Schliesslich wurde
+ein merkwürdig
+gescheites
+und
+den naiven An
+sichten
+jener Zeit
+ganz
+entsprechendes
+Mittel
+erdacht.
+Damit
+Gott
+die
+Stadt
+nicht
+durch
+ein
+Erdbeben
+vernichten
+könnte,
+sollte
+Johannes
+nicht
+herausgelassen,
+sondern
+in
+seinem gewöhnlichen Heim
+in Gewahr
+sam
+gehalten
+werden,
+wo
+auch
+er unter
+den Trümmern
+hätte
+unter
+gehen
+müssen.
+Dies
+würde
+Gott
+natürlich
+nicht
+zulassen,
+da
+in der
+Bibel
+geschrieben
+steht,
+dass
+er
+öfters
+ganze Städte
+wegen
+einiger dort
+verweilender
+Gerechten
+verschont
+habe.
+Die
+Kirche
+aber,
+in
+denen
+noch
+die
+dem Johannes
+treu
+gebliebenen
+Bischöfe
+ausharrten,
+sollte
+diesen
+weggenommen
+werden
+und
+den Priestern
+des jetzigen
+ofﬁziellen
+Bischofs Arsas
+übertragen
+werden.
+So
+wenigstens
+wurde
+auch
+ver
+fahren.
+Eines
+schönen
+Tages
+wurde vor
+die Türe
+des Johannes
+eine
+Schildwache
+aufgestellt, der
+es
+auch
+gelang,
+ihn zwei Monate am Ver
+lassen
+seiner
+Wohnung
+zu hindern.
+Da kam am
+17. April Ostern,
+und Johannes
+konnte
+es nicht länger
+mehr
+aushalten.
+Er entwich
+aus
+seinem
+Hause "),
+ging
+in die Kirche
+der
+heiligen Sophia
+und
+begann
+dort
+den
+gewöhnlichen Gottesdienst
+abzuhalten.
+Die
+erschrockene
+Wache lief,
+dies
+den Behörden
+mitzuteilen.
+Mili
+tär vertrieb die Betenden
+mit
+der Waffe
+in der
+Hand.
+Nachdem
+es viele
+getötet
+und
+verwundet,
+bemächtigte
+es
+sich
+wiederum
+des Johannes
+und
+sperrte
+ihn
+von
+neuem
+in Hausarrest.
+Diejenigen Anhänger,
+die
+unversehrt
+geblieben
+waren,
+liefen
+in
+die
+Bäder
+Konstantinopels,
+um
+dort
+den Gottesdienst zu
+beendigen.
+.
+Es wiederholte
+sich
+hier,
+wie
+der
+Leser
+sieht,
+etwas Aehnliches,
+wie in Rom in den
+ersten
+Jahrhunderten
+des Christentums.
+Die weg
+genommenen
+Kirchen
+blieben
+leer,
+und
+das Volk
+lief,
+um zu beten,
+in
+die Bäder
+zu
+den
+Johanniten.
+Die Bevollmächtigten
+der
+herrschen
+den Partei
+der
+byzantinischen Geistlichkeit
+entsandten
+zu
+ihnen
+den
+Kriegsobersten
+Lucius
+mit
+vierhundert
+Mann
+aus
+der
+kaiserlichen
+Wache.
+Er war
+absichtlich
+ausgewählt,
+da
+er
+sich
+seines
+heidnischen
+Glaubens wegen nicht vor dem Zorne des christlichen Propheten fürchtete.
+Lucius
+erschien
+in
+den Bädern
+und
+befahl
+den Johanniten,
+aus
+einander
+zu gehen.
+Aber diese schenkten
+ihm kein Gehör.
+Wütend
+über
+diesem
+Ungehorsam
+sprang
+er
+in
+das Hauptbassin,
+wo
+zu
+dieser
+Zeit
+die
+zu
+taufenden
+Neophiten,
+hauptsächlich Frauen
+und
+Mädchen,
+sich
+Morosow,
+Die
+Offenbarung
+Johannls.
+13
+
+--- Page 220 ---
+194
+befanden,
+und begann,
+diese mit Stockhieben nach rechts
+und
+nach links
+auseinander
+zu treiben,
+während
+seine Krieger
+deren Kleider,
+die
+neben
+dem Hauptbassin lagen,
+wegnahmen.
+Einige
+wurden
+getötet
+und
+ver
+wundet.
+Die
+übrigen,
+Männer
+wie Weiber,
+sprangen
+nackt
+aus dem
+Bassin
+und
+ﬂüchteten,
+wohin
+sie konnten").
+Am anderen Tage
+trieben
+sich viele neugetaufte Johanniten
+ausser
+halb
+der Stadt
+ohne
+Obdach
+herum.
+Der
+Kaiser
+Arkadius
+begegnete
+einem
+Haufen
+dieser
+Heimatlosen
+und.
+er befahl,
+sie
+als Ketzer
+aus
+einander
+zu treiben.
+Johannes
+selbst
+befand
+sich
+die
+ganze
+Zeit
+in Hausarrest.
+Bald
+verbreitete
+sich
+im Volke das Gerücht,
+dass
+man
+schon
+zweimal
+ge
+mietete
+Mörder zu ihm
+geschickt habe,
+aber
+beide
+Versuche
+durch
+Zu
+fall
+misslungen
+seien "‘).
+Die Bürger richteten unter gegenseitiger
+Ablösung
+eine freiwillige
+Wache
+beim
+Hause des Johannes
+ein.
+So
+vergingen
+fast
+zwei Monate
+bis Pﬁngsten,
+und in
+der Natur
+ereignete
+sich
+nichts Besonderes.
+Das
+Volk
+verhielt
+sich
+abwartend.
+Warum
+aber
+entstand
+kein
+Aufstand
+zugunsten
+des
+Johannes?
+Auch
+das ist sehr verständlich,
+wenn
+wir
+die
+Seelenheschaﬂ‘enheit
+der
+Menschen
+jener Zeit in Betracht ziehen.
+Warum
+brauchte man
+dem Jo
+hannes zu helfen,
+wenn im Notfalle Gott selbst helfen würde?
+Denn jetzt
+sei
+doch
+das Weltende
+auf
+unbestimmte
+Zeit
+verschoben
+worden,
+und
+Gott werde
+doch die Unschuldigen
+für
+die Schuldigen, wie
+das Johannes
+selbst
+predigte,
+nicht
+bestrafen.
+Der Bevölkerung
+der Hauptstadt
+war
+es
+gewiss
+sehr
+interessant,
+zu beobachten,
+wie Gott
+mit siehenfachem
+Donnerschlag
+den Kaiser
+samt
+der Kaiserin
+und
+ihren Ratgebern,
+den
+Nikolaiten,
+für ihre Auflehnung
+gegen
+den Propheten
+bestrafen
+werde.
+Johannes
+selbst
+aber war
+bei
+seiner naiven Weltanschauung
+wahrschein
+lich der Meinung, dass Gott ihn im entscheidenden
+Augenblick
+beschirmen
+werde,
+wie
+er ihn
+schon einmal
+bei seiner
+ersten Verbannung
+verteidigt
+hatte.
+Deswegen
+sorgte
+er
+auch
+nicht
+dafür,
+eine
+tatkräftige
+Unter
+stützung
+bei
+der ihm wohlwollenden
+Volksmasse
+zu
+ﬁnden.
+Diese
+ganze
+Stille
+in
+der Natur
+und
+in
+den Menschen
+ermutigte
+die
+Feinde
+des
+Johannes
+zu
+einem
+entscheidenden
+Schritt.
+Warum,
+sagten
+sie
+sich,
+sollen
+wir
+nicht versuchen,
+Johannes
+irgend wohin in
+der
+Nähe der Stadt fortzuschicken,
+um im Falle der Not vor
+dem Ein
+tritt
+eines
+ernsten
+Unheils
+ihn
+sofort
+wieder
+zurückzubringen?
+Alle
+folgenden
+Unternehmungen
+gegen Johannes
+lassen eben
+dieses Programm
+erkennen.
+Alsbald
+nach
+dem
+günstigen
+Verlauf der Pﬁngstfeiertage 27),
+die
+nach
+den Verordnungen
+des Niciiischen Konzils auf den
+6. Juni
+404
+ﬁelen,
+sahen
+die Feinde
+des Johannes
+darin
+einen
+neuen
+Beweis dafür,
+
+--- Page 221 ---
+195
+dass Gott
+sich
+in
+die
+Sache
+nicht
+einmischte.
+So
+begannen
+sie,
+dem
+Kaiser
+einzureden,
+ihn
+nach
+Nicäa
+zu schicken, das
+am
+östlichen
+Ufer
+des Marmara-Meeres, unweit Konstantinopels,
+aber
+auf der
+andern
+Seite
+der
+Meerenge
+lag.
+Nach
+fünf Tagen
+gab
+der Kaiser
+seine Zustimmung.
+Zu Johannes
+wurde
+derselbe
+Lucius,
+der
+seine
+Anhänger
+aus
+den
+Bädern
+verjagt
+hatte,
+mit Militär
+geschickt.
+Aus Angst,
+dass,
+wenn
+Johannes
+fort
+ginge,
+es wieder
+ein Erdbeben
+geben könnte,
+bereitete
+sich
+das Volk
+zum Widerstande
+vor
+und
+sammelte
+sich
+in
+grossen
+Mengen
+beim Ein
+gang
+seines
+Hauses,
+wo
+ein
+scheinbar
+für
+ihn
+bereit
+gestelltes
+Pferd
+stand.
+Inzwischen
+betraten
+die
+zu
+Johannes
+Abgesandten
+sein
+Haus
+und begannen
+ihn zu bitten,
+er
+möge
+von
+der
+entgegengesetzten
+Seite
+hinausgehen,
+damit er
+nicht
+die Ursache
+eines
+grossen
+Blutvergiessens
+werde
+28).
+Ob diese
+Vorstellungen
+auf Johannes
+gewirkt
+haben,
+oder
+ob
+er
+einfach
+nicht
+imstande
+war, sich seiner
+geheimen
+Entführung
+zu wider
+setzen?
+In
+einem
+Privatraume
+der
+Kirche
+verabschiedete
+er
+sich
+von den
+ihm
+treugebliebenen
+Bischöfen
+und Presbytern
+und.
+im Tauf
+zimmer‘°)
+von seiner
+Lieblingsdiakonissin,
+der
+schon
+bekannten
+Olym
+piada,
+und
+von drei
+anderen:
+Prokle,
+Pentalia
+und Sylvia,
+der
+Tochter
+des mauretanischen
+Kaisers.
+Alle
+diese
+weinten bitterlich,
+wie
+auch
+er
+selbst
+beim
+Abschied
+von
+ihnen
+Tränen
+vergoss.
+Dann führte man
+ihn durch eine kleine Pforte,
+die nach
+dem Bos
+porus sich
+öffnete,
+setzte
+ihn in
+ein kleines Boot
+und
+brachte ihn
+nach
+Biphanien,
+d.
+h.
+das
+Gebiet
+auf
+der
+gegenüberliegenden
+Seite
+des
+Bosporus,
+wo
+sich
+die Stadt Nicäa
+befand.
+Unterdessen
+erwartete
+ihn
+das Volk
+die
+ganze
+Zeit auf der
+ent
+gegengesetzten
+Seite
+des Hauses,
+wo man absichtlich
+das für ihn bereit
+gestellte
+Pferd
+hielt.
+Wie
+Johannes
+vor
+sechs
+Jahren
+aus
+Antiochia
+herausgelockt
+war,
+um
+nach
+Konstantinopel
+gebracht
+zu
+werden,
+so
+wurde
+er jetzt auch
+aus Konstantinopel
+weggestohlen.
+So
+musste
+es
+auch
+kommen.
+Die
+schrecklichen apokalyptischen
+Jahre
+waren
+vorüber,
+die
+Furcht
+war
+dahin,
+und
+den
+unbeugsamen
+Propheten,
+der
+von
+den Anhängern
+Christi
+den Verzicht
+auf alle irdi
+schen
+Güter
+verlangte,
+musste
+man
+auf die
+eine
+oder
+andere Weise
+los
+zu
+werden
+suchen.
+Das
+betrogene
+Volk,
+das
+auf
+Johannes
+an
+der
+anderen
+Seite
+wartete,
+verstand schliesslich,
+um was
+es sich handelte.
+Es zertrümmerte
+mit Axthieben
+die
+Türe
+und
+stürzte
+sich
+in
+das Innere
+des Hauses.
+Aber
+es war
+schon
+zu spät.
+Das Haus wurde
+den Soldaten nach
+einem
+blutigen Kampf
+abgerungen,
+aber
+das Zimmer
+des Johannes war
+leer.
+
+--- Page 222 ---
+196
+Die
+alten
+byzantinischen
+Verfasser
+konnten natürlich
+auch
+diese
+zweite Entführung
+des Johannes nicht ohne ein
+spezielles
+Wunder
+lassen.
+Auf
+dem
+Altar
+seiner
+Kirche,
+sagen
+sie,
+entstand
+ein
+Feuer,
+nicht
+durch
+menschliche
+Schuld,
+sondern
+durch
+den
+göttlichen
+Zorn,
+stieg schnell in die Höhe
+und
+verbreitete
+sich
+durch die
+ganze
+Kirche.
+Da
+nun
+ein starker Wind
+wehte,
+so schlug
+die Flamme
+aus
+der Kirche
+heraus,
+bewegte
+sich hoch
+durch
+die Luft,
+ging
+über
+die Markthallen,
+liess
+sich
+wie
+eine
+Brücke
+auf
+das
+Schloss,
+in
+dem
+gerade
+Beratung
+stattfand,
+herab
+und
+verbrannte
+es gänzlich.
+Und
+so konnte
+man
+ein
+schreckliches Wunder
+sehen:
+das Feuer ging wie ein lebendiges
+Wesen in
+der Gestalt
+einer
+Schlange
+dahin
+und
+vernichtete
+entfernte
+Paläste.
+Diejenigen
+aber,
+die
+in
+der Nähe
+der Basilika
+des Johannes
+standen,
+blieben
+unversehrt,
+damit
+es
+allen
+bekannt
+werde,
+dass
+diese Feuers
+brunst
+nicht
+durch Zufall,
+sondern
+durch
+den Zorn Gottes
+entstanden
+wäre“).
+Die
+Gegner
+des
+Johannes
+aber
+behaupteten,
+der
+Altar,
+an
+dem
+Johannes
+den Gottesdienst
+verrichtet
+habe,
+sei
+von
+seiner
+Diakonissin
+Olympiade
+während
+des Aufstandes
+nach
+der
+Entführung
+des Johannes
+aus Konstantinopel
+aus Verzweiflung
+in Brand
+gesteckt
+worden ”).
+Der Präfekt
+der Residenz,
+der
+die Angelegenheit
+untersuchte,
+fand
+diese Anschuldigung
+richtig
+und verurteilte
+sie zu
+einer
+harten
+Strafe,
+die
+sie
+aus ihren Gütern bezahlen
+musste.
+Hiernach
+wollte
+oder
+konnte
+sie
+nicht
+mehr
+in Konstantinopel
+bleiben und zog nach
+Kisik.
+Aber
+auch
+dort gab
+man ihr keine
+Ruhe.
+Nach kurzer Zeit verschickte
+man
+sie
+nach
+Nikomedien,
+von
+wo
+aus
+sie
+einen
+regen
+und
+zärtlichen
+Briefwechsel
+mit Johannes
+unterhielt,
+der
+zu
+dieser
+Zeit
+schon
+in
+die
+entferntesten
+Gebiete
+des Reiches
+verbannt
+worden
+war.
+Zu
+Anfang
+seiner
+Entfernung
+wurde
+Johannes
+unter
+Wache
+in
+Nicäa,
+nahe
+der
+Residenz
+gelassen,
+um ihn, falls
+der Stadt irgend ein Unglück
+zustossen
+sollte, sofort zurückbringen
+zu können.
+Aber
+auch jetzt
+ereignete
+sich
+nichts Besonderes
+in
+der Natur.
+So
+entschloss
+man
+sich
+in
+der
+Mitte
+des
+Sommers,
+wahrscheinlich
+anfangs
+Juli, endlich,
+ihn
+in
+einen
+ent
+legeneren
+Verbannungsort
+zu
+verschicken,
+nach
+der
+Stadt Kukus,
+in
+Klein-Asien ”),
+die ständig durch
+die
+Ueberfälle
+der Isaurier
+verwüstet
+wurde.
+Die Bischöfe
+der
+Staatskirche
+liessen
+ihn unterwegs nicht in ihre
+Städte
+hinein 8").
+Da
+aber
+Klein-Asien
+im Innern
+zu jener Zeit
+nicht
+nur
+von
+orthodoxen,
+sondern
+auch
+von
+arianischen
+und
+anderen
+Sek
+tierern voll
+war,
+welche
+die
+Staatskirche
+nicht
+anerkannten
+und
+die
+hie
+und
+da ihre
+eigenen
+Bischöfe
+hatten,
+so
+wurde Johannes
+von Zeit
+zu Zeit
+auch
+freundlich
+aufgenommen.
+So
+begegneten
+ihm bei
+seiner
+
+--- Page 223 ---
+197
+Fahrt
+durch
+Kappadokien
+und
+die
+Schluchten
+des
+Taurus
+die Berg
+bewohner
+mit ganz
+besonderer
+Teilnahme.
+Frauen
+und Kinder
+weinten,
+als
+sie ihm entgegengingen,
+und
+er
+selbst
+war
+bis
+zu Tränen
+gerührt.
+Der
+feindseligste
+Empfang wurde ihm von
+der nikolaitischen Geist
+lichkeit
+in
+Cäsarea
+bereitet.
+Der
+dortige Bischof F aretriu s,
+über
+die
+freundliche Aufnahme
+erzürnt,
+die
+dem Johannes
+seitens
+der Ein
+wohner
+seiner
+Stadt
+einschliesslich
+des
+Statthalters
+und
+seiner
+Frau
+und
+vieler Gelehrter
+bereitet
+wurde,
+hetzte
+die in
+der Umgegend der
+Stadt
+wohnenden
+Mönche
+gegen
+ihn auf,
+damit diese ihn
+hinausjagten.
+Sie
+versammelten
+sich
+schreiend
+um
+sein Haus,
+und
+den Umstand
+be
+nützend,
+dass
+der Tribun
+das Militär
+gegen
+die Isaurier “)
+herausge
+führt
+hatte,
+zwangen sie ihn,
+sich
+zu entfernen.
+Während
+eines
+schwülen
+Nachmittags
+unter
+Wehklagen
+des
+Volkes
+musste
+Johannes
+Cäsarea
+verlassen.
+In
+einer
+dunkeln
+Nacht
+musste
+er
+aus
+dem
+naheliegenden
+Dorfe ﬂüchten,
+weil
+die Kunde
+sich
+verbreitet hatte,
+dass
+die Isaurier
+herannahten
+").
+In
+der Dunkelheit
+und Verwirrung
+warfen
+die Träger
+seine Trag
+bahre
+um
+(wegen
+seines Rheumatismus konnte
+er nicht auf dem Pferde
+sitzen),
+und
+so musste
+er die Reise durch die Berge zu Fuss
+fortsetzen.
+Im Herbst
+404,
+nach
+einer
+siebzigtägigen Reise
+gelangte
+Johannes
+end
+lich
+an
+seinen
+Bestimmungsort Kukus in Klein-Armenien
+und
+fand dort
+gastliche
+Aufnahme
+im
+Hause
+seines
+Gesinnungsgenossen,
+des reichen
+Bürgers Dias_korus.
+Dort
+erwartete
+ihn
+auch
+die
+Diakonissin
+Sa
+bine
+„von
+hoher
+Abstammung“
+und
+der
+Presbyter
+Konstantins
+aus
+Phönizien,
+der
+offenbar
+ebenfalls
+dorthin
+verschickt
+werden
+war.
+Auch
+wird
+Sabine
+selbst
+kaum
+aus
+eigenem
+Willen
+an
+diesen
+so
+ent
+legenen
+und gefährlichen Ort
+gekommen
+sein.
+Genau
+um
+jene
+Zeit,
+am
+6.
+Oktober
+404,
+starb
+die
+Kaiserin
+Eudoxia,
+welche
+die
+orthodoxen
+Geschichtsschreiber
+als
+seine Haupt
+feindin hinzustellen
+suchen.
+Aber
+dies
+hatte
+auf sein Schicksal keinerlei
+Einﬂuss,
+denn
+sie war, wie wir gleich
+sehen
+werden,
+nur
+seine
+angeb
+liche Feindin.
+Das erste,
+was Johannes
+nach
+seiner
+Niederlassung
+an
+dem
+neuen
+Orte tat, war, an
+seine
+geliebte
+Olympiade zu schreiben ").
+Ihr Brief
+wechsel
+dauerte
+ohne Unterbrechung
+so
+lange,
+als
+die Langsamkeit
+der
+damaligen
+Post
+erlaubte.
+In
+den
+zwei Jahren
+seines
+Aufenthaltes
+in
+Kukus schickte ihr Johannes,
+wie
+man
+sagt,
+siebzig Briefe.
+Das war
+nur in
+dem Falle möglich,
+wenn
+jedes
+von
+ihnen
+sofort nach
+Empfang
+des Briefes
+vom
+anderen
+antwortete
+und
+seinen
+Brief
+sofort
+bei
+der
+ersten
+besten
+Gelegenheit
+fortschickte,
+da
+es
+eine
+regelmässige
+Post
+damals
+noch
+nicht
+gab.
+
+--- Page 224 ---
+198
+Dank
+dem
+patriarchalischen
+Charakter
+jener Zeit
+lebte
+Johannes
+damals
+besser und
+freier,
+als
+es heute
+in einem ähnlichen autokratischen
+Staatswesen
+der Fall
+gewesen
+wäre.
+Noch
+herrschten
+die Arianer
+in
+dieser
+Gegend
+(hauptsächlich
+dank
+den
+Goten,
+die hier
+zum
+Schutze
+der östlichen
+Grenze
+bei
+Theodosien
+in kleinen Abteilungen
+angesiedelt
+waren).
+Der
+Bischof
+der
+Stadt,
+welcher
+ebenfalls
+ein
+Arianer
+war,
+nahm
+Johannes
+sehr
+freundlich
+auf
+und
+war
+sogar
+bereit,
+ihn
+von
+seiner Kanzel
+herab
+predigen
+zu lassen,
+was
+ein Nikolaite
+unter keinen
+Umständen
+erlaubt
+hätte,
+da
+der
+Kirchenbann
+über
+Johannes
+ausge
+sprochen
+war").
+Indessen
+war
+dem Johannes
+ausdrücklich
+verboten,
+öffentlich zu predigen,
+und
+so konnte er
+von
+diesem Anerbieten
+keinen
+Gebrauch machen.
+Seine
+verfolgten Anhänger
+in Klein-Asien,
+Syrien
+und
+Aegypten,
+fuhren
+auch
+weiter,
+obwohl
+hoffnungslos,
+fort,
+die
+herrschende
+Partei
+zu bekämpfen.
+Als in Antiochia
+der
+origenitische Bischof
+Flavian,
+der
+Johannes
+in
+seiner
+Jugend
+nach
+seiner
+Flucht
+aus
+dem
+Kloster
+be
+herbergt hatte,
+gestorben
+war, wollte das Volk den Johanniten Konstan
+tins, der als Presbyter bei Flavian gedient
+hatte,
+an seiner Stelle wählen.
+Aber
+dieselben Gegner des Johannes,
+die uns
+schon
+durch ihr Auftreten
+auf den zwei Konzilen
+bekannt
+sind,
+die
+Bischöfe
+Akakius,
+Antiochus
+und
+Severian, benutzten
+den Tag,
+als
+das
+ganze Volk
+sich
+ins Hypo
+drom
+zu
+den Wettspielen
+8°)
+und
+Theatervorstellungen
+begeben
+hatte.
+Sie
+riefen
+insgeheim
+ihre Anhänger
+zusammen,
+wählten
+zum
+Bischof
+von Antiochia
+den Nikolaiten
+Porphyrius
+und
+ﬂüchteten
+dann
+selbst
+aus
+der Stadt.
+Am
+folgenden
+Tag
+entstand
+ein Zusammenstoss
+zwischen
+dem Volk
+und
+den
+kaiserlichen
+Behörden,
+die
+den
+Porphyrius
+unter
+stützten,
+und
+die Bürger
+wurden
+mit
+militärischer
+Gewalt
+zur Ruhe
+gebracht.
+Aber
+die Johanniten
+und
+Origeniten
+wollten
+trotzdem
+mit
+den
+ihnen
+aufgedrängten
+Bischöfen keine Gemeinschaft
+haben.
+An anderen Orten ereignete
+sich
+das gleiche.
+Bei
+dem zeitweiligen
+Bündnis
+aller
+christlichen
+Parteien
+unter
+dem
+Zeichen
+des
+neutralen
+Johannitentums
+während der
+kurzen Zeit,
+als Johannes
+an der
+Spitze
+der christlichen
+Kirche
+stand,
+ernannte
+er unter anderem Ulinas
+zum
+Bischof
+der Goten,
+und
+diese,
+trotzdem
+sie Arianer
+waren,
+erkannten
+diesem Bischof an.
+Jetzt aber nach dem Tode des Ulinas,
+der während
+der
+Verbannung
+des Johannes
+eintrat, kehrten
+die Goten
+zum
+Arianertum
+zurück,
+und
+die
+Geschichte
+trifft
+sie
+als
+solche
+noch
+im Mittelalter
+an.
+Alle
+schwachen,
+kleinmütigen
+und
+eigennützigen
+Anhänger,
+die
+sich dem Johannes während der Tage seiner Macht angeschlossen
+hatten,
+gingen,
+wie dies
+ja
+immer
+der Fall
+zu
+sein
+pﬂegt,
+zu
+der
+herrschenden
+Partei
+über.
+In Ephesus, der Hauptstadt jener
+sieben Städte,
+wohin
+er
+
+--- Page 225 ---
+199
+vor
+neun Jahren
+seine
+berühmte
+„Offenbarung“
+geschickt
+hatte,
+wurden
+seine
+Anhänger
+und
+ihr Bischof Heraklides
+verfolgt.
+Ein
+anderer
+seiner
+Anhänger,
+der
+Bischof
+Merufas,
+der
+ihm
+sogar
+während
+seiner Verbannung
+eine Zeitlang
+treu
+geblieben
+war,
+ging
+zu
+seinen
+Gegnern über und
+erklärte
+sich
+sofort als
+„Nikolaite“,
+als
+ein
+kirch
+licher
+Erlass
+bekannt
+gemacht
+wurde,
+der alle diejenigen
+Bischöfe ihres
+Amtes
+entsetzte,
+die
+nichts
+mit
+dem
+orthodoxen
+Bischof-Patriarchen
+Arsas in Konstantinopel,
+Theophilus
+in Alexandrien
+und
+Porphyrius
+in
+Antiochia‘°)
+zu tun haben
+wollten.
+Unter
+allen
+diesen
+schwierigen
+Umständen,
+wo
+dem
+Johannes
+nichts übrig
+blieb,
+als
+in seiner Verbannung
+zu Hause
+zu sitzen
+und das
+Buch Hiob
+über das geduldige Ertragen
+des Leidens
+zu
+lesen,
+verlor
+er
+offenbar
+auch
+selbst
+seinen
+kindlichen Glauben an
+das baldige Kommen
+Jesu Christi
+und.
+daran,
+dass mit ihm auf Erden
+unter den unsterblichen
+Gerechten,
+die
+nach
+den
+republikanischen
+Grundlagen
+des
+antiken
+Griechenlands
+lebten,
+die
+allgemeine
+Gleichheit
+und Brüderlichkeit
+ver
+wirklicht
+würde.
+Die
+unbestrafte
+und
+ungerechte
+Amtsentsetzung
+und
+die
+Ver
+bannung nach Kukus mussten
+ihm zeigen,
+dass
+auch
+das Erdbeben nach
+seiner ersten Verbannung
+eine zufällige Erscheinung
+gewesen
+sein konnte
+und nicht
+eine unmittelbare Einmischung Gottes zur Verteidigung
+seines
+Propheten.
+Ob nicht
+dieser
+nunmehrigen Stimmung
+auch
+der Umstand
+zuge
+schrieben
+werden
+muss,
+dass
+er,
+durch
+die
+östliche Kirche
+so
+hart
+be
+drängt,
+sich um Schutz nicht bloss, wie er das früher getan
+hat,
+an Gott
+allein,
+sondern
+an
+die
+westliche
+Kirche,
+die
+an
+seinen
+Verfolgungen
+nicht beteiligt
+war,
+und
+an
+die
+Origeniten
+wandte?
+Er
+hat,
+wie
+man
+sagt,
+den Papst Innocentius,
+sich
+für
+ihn
+und
+seine Anhänger
+im
+östlichen Reiche
+ins Mittel
+zu
+legen.
+Diese
+Bitte
+erschien
+seinerzeit
+durchaus nicht
+als Widerspruch
+gegen
+seine religiösen
+Ueberzeugungen.
+Die westliche Kirche
+verhielt
+sich
+damals
+den Origeniten
+nicht
+feind
+lich
+gegenüber
+und
+hiess
+auch
+deren Verfolgungen
+im Osten nicht gut.
+Sie war nicht,
+wie
+die
+östliche
+zur Zeit
+der
+Kaiser Theodosius
+und
+Arkadius,
+„nikolaitisch“;
+sie erkannte
+den Wundertäter
+Nikolaus
+nicht
+einmal
+als
+ihren
+Heiligen
+an.
+Ausserdem
+ist
+es
+ganz
+gut
+möglich,
+dass
+in
+jener
+Zeit
+unter
+dem
+unmittelbaren Eindruck
+der
+soeben
+er
+schienenen
+„Offenbarung“
+die
+westliche Kirche aufgehört
+hatte,
+ihrer
+Gemeinde
+den
+„goldenen
+Kelch“
+darzubieten,
+über dessen nikolaitische
+Handhabung
+Johannes
+in
+der
+Apokalypse
+sich
+so unehrerbietig
+ausge
+sprochen
+hatte,
+wenn
+auch
+die Tatsache
+der Aufhebung
+dieses Brauches
+erst viel
+später
+in
+die
+Bücher
+eingetragen
+sein
+konnte.
+Die
+westliche
+
+--- Page 226 ---
+200
+Kirche erkannte die Macht
+des
+byzantinischen
+Kaisers
+über
+sich nicht
+an,
+da nach dem Tode des Theodosius, genau im Jahr des Erscheinens der
+„Offenbarung“,
+das hyzantinisch-römische Reich
+endgültig in zwei
+unab
+hängige
+Teile zerfallen war.
+Ausserdem
+hatten
+sich
+die
+geistigen
+Macht
+haber
+der
+westlichen Kirche,
+die Päpste,
+niemals
+zu
+der kaiserlichen
+Macht
+in
+ein derartiges untertäniges Verhältnis
+begeben,
+wie
+dies
+in
+der
+östlichen
+Kirche
+der
+Fall
+war,
+und
+das
+Johannes
+besonders
+empörte.
+'
+Vier
+johannitische
+Bischöfe
+brachten
+das Anliegen
+des Johannes
+zusammen
+mit
+den
+Briefen
+der
+ihm
+treu
+gebliebenen
+Bischöfe
+nach
+Rom.
+Der Papst Innocentius, der die Sendung wohlwollend
+angenommen
+hatte,
+versuchte
+brieﬂich,
+die
+östliche Kirche
+und
+den
+Arkadius mit
+Johannes
+und
+den Johanniten
+auszusöhnen
+und
+ein
+neues Weltkonzil
+nach
+Thessalonike
+zu
+berufen,
+um
+die Angelegenheit des Johannes
+noch
+einmal zur Beratung
+zu
+stellen.
+Aber
+trotz
+des Todes
+der
+Kaiserin
+Eudoxia,
+die
+ein Jahr nach
+der Verbannung
+des Johannes
+gestorben
+war,
+und
+die
+von
+den
+alten
+Theologen
+der
+östlichen Kirche als
+Sündenbock für ihre
+eigenen
+Taten
+auserwählt
+wurde,
+half
+alles
+nichts.
+Die
+untergeschobene
+Jesabel,
+Herodias
+und
+die
+„grosse
+Prostituierte“,
+die
+quasi
+die Hauptschuldige
+am
+Unglück
+des Johannes
+war, verschwand
+sofort nach
+dem Eintreffen
+des Johannes
+in
+seinem Verbannungsorte“)
+von
+der
+Szene.
+Die andere,
+die
+tatsächliche
+Jesabel
+aber,
+auf
+die
+alle
+diese
+vorwurfsvollen
+Bei
+namen
+sich
+bezogen,
+blieb auf der Erde
+und
+fuhr fort,
+nach
+wie vor
+unter
+den
+„Herrschern
+der
+Erde“
+zu
+regieren.
+Die
+päpstlichen
+Ge
+sandten
+wurden
+nicht
+einmal
+bei
+dem
+byzantinischen
+Kaiser
+vorge
+lassen,
+sondern
+wurden sofort
+nach
+dem Eintreffen
+verhaftet und
+nach
+einer
+beschwerlichen Rückfahrt
+auf
+stürmischem
+Meere
+auf
+dem kala
+brischen
+Ufer
+Italiens
+abgesetzt.
+Die
+Mitglieder
+der
+Gesandschaft
+aber,
+die
+ehemaligen
+Bischöfe
+des Johannes:
+Cyriacus, Eulysius,
+Demetrianus
+und Palladius
+wurden,
+allen
+Regeln
+über
+Ge
+sandtschaften
+zum Trotz,
+festgenommen
+und in
+die
+entferntesten
+Wüste
+neien
+des
+Ostens,
+an
+die Grenze Arabiens,
+verschickt,
+wo
+die
+wilden
+Sarazenen ihr Nomadenleben führten.
+Dem
+Johannes
+selbst
+wurde für
+seinen
+nochmaligen Versuch, sich
+den Nikolaiten
+zu
+widersetzen,
+anbefohlen,
+um
+jede
+Verbindung
+mit
+seinen
+Gesinnungsgenossen
+zu
+verhindern,
+in
+die
+armenische
+Festung
+Arabissa
+überzusiedeln.
+Aber
+auch
+hier
+gelang das
+nicht,
+dank
+den
+Zuständen jener Zeit, die im Vergleich mit
+den
+heutigen
+sehr patriarcha
+lisch
+waren.
+Er setzte
+nach
+wie vor
+seinen Briefwechsel
+mit Olympiade
+fort
+und
+suchte
+durch
+seine Botschaften
+die
+westlichen
+Bischöfe
+von
+
+--- Page 227 ---
+201
+Rom, Mediolanum (Mailand),
+Aquilenum
+und
+Karthago
+zur
+Berufung
+eines Weltkonzils
+anzuregen.
+Inzwischen
+zitterte
+der
+Kaiser
+Arkadius, in
+dessen
+Namen
+die
+byzantinische
+Geistlichkeit
+den Johannes verbannt hatte,
+nach
+wie vor
+in
+der Erwartung
+eines
+Erdbebens
+als
+Strafe
+für
+die Entfernung
+des
+Propheten,
+aber
+auch
+er wagte
+nicht
+aus Angst
+vor
+der
+klerikalen
+Partei,
+etwas
+zu
+dessen
+Gunsten
+zu
+unternehmen.
+Er _schrieb
+nur
+einen Jammerbrief
+an Nilus,
+den Einsiedler
+vom
+Sinai,
+und
+ﬂehte
+ihn
+an, für
+das Heil
+der Stadt zu beten.
+Nilus
+aber
+antwortete ihm, wie
+man
+sagt,
+mit
+folgendem,
+echt apokalyptischem Brief:
+„Wie
+sollte
+ich
+für
+die
+Stadt
+beten,
+die
+durch
+den
+Zorn
+Gottes
+vernichtet
+wird,
+die
+ständig
+seinen
+Donner
+erwartet,
+ich, der
+ich von Trauer
+verzehrt,
+im
+Geist
+erregt
+und
+im Herzen
+gequält
+werde
+wegen
+des
+Uebermasses
+an
+Uebeln,
+von
+denen
+Byzanz
+erfüllt
+ist?
+Warum
+hast
+du
+den Feinden
+des Johannes
+Glauben
+geschenkt?
+Tue
+Bussel““)
+Aber
+alles
+dies rief
+bei
+den Nikolaiten
+nur eine immer
+grössere Er
+bitterung
+gegen
+den Johannes
+hervor.
+Sie konnten ihm seine vorherigen
+Beschuldigungen
+und Erniedrigungen
+nicht
+verzeihen.
+Anstatt Johannes
+zurückkehren zu lassen und seine Sache einer unparteiischen
+Untersuchung
+‚
+zu unterbreiten,
+die ihre Fälschungen
+bezüglich
+der „Offenbarung“
+und
+anderer
+Bücher,
+die
+sie auf dem Konzil
+vom
+Jahre
+403
+einer
+anderen
+Person
+zugeschrieben
+hatten, aufgedeckt
+hätte,
+beeinﬂussten
+die Gegner
+des Johannes
+im Sommer
+407
+den Kaiser,
+ihn
+noch weiter in die
+damals
+ganz
+unwirtliche
+und
+wilde
+Ufergegend
+im
+Kaukasus
+in
+die
+Festung
+Piphion
+(jetzt
+Pizunda)
+in
+Abchasien
+zu
+verschicken.
+Drei
+Monate
+lang
+wurde
+der
+kranke
+Johannes
+unter allerlei
+Entbehrungen
+dorthin
+geschleppt;
+doch
+war
+es ihm
+nicht
+beschieden,
+seinen
+Bestimmungsort
+zu
+erreichen.
+Er
+starb
+unterwegs,
+etwa
+am
+14.
+September
+407,
+im
+dreiundfünfzigsten
+Lebensjahr
+und
+wurde
+von
+der ihn überwachenden
+Mannschaft
+bei
+der
+einsamen
+Ortschaft Komana
+begraben.
+1) Thierry,
+St. Jean
+Chrysostome
+et
+l'impäratrice
+Eudoxie.
+1881.
+Seite
+226.
+’) Tamen
+cum
+genere et opibus,
+stque
+cognitione
+plurium
+scientarium;
+necnon
+ingenio
+liberali
+et forma,
+atque aetatis ﬂore
+exornata
+esset
+(Pallad.
+Dialog,
+64).
+3) Er
+wurde
+im Jahre
+854
+nach
+byzantinischer
+Rechnung
+geboren;
+das
+ent
+spricht
+dem
+Jahre
+354—355
+nach
+julianischer
+Zeitrechnung,
+weil
+das
+byzantinische
+Jahr
+im
+März
+begann,
+nach
+Konstantinopel
+aber
+wurde
+Johannes
+Ende
+Februar
+398
+nach
+julianischem
+Kalender gebracht.
+Thierry
+schätzt
+sein
+damaliges Alter auf
+etwa
+50 Jahre.
+-
+‘) „Amore pereo
+et insanio!“
+Act. Syn. ad Quereum
+apud Phot.,
+59.
+‘) Das Leben
+usw., Juli.
+
+--- Page 228 ---
+202
+‘) Das Leben
+usw., Juli.
+Andere
+weniger
+naive Biographen
+sagen,
+dass
+ihr
+die
+Vormundschaft
+infolge
+ihres
+eigenen
+Gesuches
+abgenommen
+wurde
+(Palladius
+Die]. 65).
+") Dabei
+sorgte
+Nektarius
+für gar nichts
+anderes,
+als für Festmahle
+und Trink
+gelage.
+Er wurde
+zum Bischof
+von Konstantinopel
+direkt
+vom
+städtischen
+Präfekten
+noch
+als
+Heide
+ernannt.
+") Das Leben
+usw., Juli.
+') Daselbst.
+‘°)
+Argentes
+statua Endoxiae
+Augustae
+supra columnam
+purpuream
+erecta fuerat.
+Socr. VI,
+18.
+")
+Mumwjew,
+Seite
+513.
+")
+Ibidem.
+")
+Contra
+eos
+qui hsec agebsnt,
+linguam
+suam
+denuo
+armavit
+(Socr. VI.
+18).
+")
+In dem „Leben“
+(November)
+wird
+erzählt,
+dass
+die Veranlassung
+zur Unter
+redung der Weinberg
+gegeben habe, den die Kaiserin der „Witwe
+des
+T
+h
+eognostes“
+weggenommen
+hatte.
+Allein
+als
+ich
+diese
+(ihrem Inhalte
+nach belletristische)
+Erzählung
+mit
+der
+Erzählung
+von
+Nsboths
+Weingarten
+verglich,
+den
+die
+Königin
+Jesabel
+(Könige, Kap. 21) wegnehm,
+sah
+ich,
+dass
+der
+ganze Inhalt
+von dort,
+sogar mit
+dem
+Beibehalten
+einiger
+Sätze
+und
+der
+Interpunktion,
+abgeschrieben
+sei,
+nur
+dass
+der
+Name
+der
+einen Herrscherin
+mit
+dem
+der
+anderen
+vertauscht
+und
+statt
+der
+einen
+Witwe
+eine andere eingesetzt war.
+Warum
+der Verfasser
+zu einem erdichteten
+Vor
+wand
+greifen
+musste, ist leicht
+zu erraten.
+Wie wir
+gleich
+sehen
+werden,
+ﬁel
+diese
+Geschichte,
+wie es auch nach dem logischen Entwicklungsgsnge
+der Geschehnisse mit dem
+Standbilde
+der Eudoxia notwendig
+war,
+auf das Fest der Kreuzes-Erhöhung,
+d. h. auf den
+14. September
+des julianischen
+Jahres 408.
+Der Verfasser
+aber übertrug
+das Ereignis
+eben
+auf
+das
+Frühjahr
+dieses
+Jahres,
+als
+das
+Gericht
+über Johannes
+zu
+sammentrat,
+aber
+das
+Fest
+der Kreuzes-Erhöhung
+wagte
+er
+nicht,
+in
+irgend
+einen
+Frühjahrs-Feiertag umzuwandeln!
+Infolgedessen
+blieb
+die ganze Geschichte
+des Streites
+des
+Johannes
+mit
+der Eudoxia
+ohne
+jeden
+Grund,
+und diese
+wurde
+alsdann
+aus
+der
+biblischen
+Sage
+von
+Jesahel
+entnommen.
+16)
+Das Leben
+usw.,
+November.
+1°)
+Die
+Grundlosigkeit
+dieser Erﬁndung wird schon lange von mehreren Schrift
+stellern
+angenommen.
+Siehe
+z. B.
+Aim6
+Puech,
+St. Jean
+Chrysostome
+294.
+"')
+D.
+h.
+sechs
+Jahre
+nach der gewalttätigen
+Ernennung
+des Johannes.
+")
+Siehe
+die Briefe
+an die sieben Gemeinden
+in der
+„Oﬂ‘enbsrung“.
+I°)
+De
+hoc
+uno
+quaestionem
+habendsm
+esse,
+quod
+post
+depositionem
+absque
+synodi
+suctoritate,
+suo ipsius
+arbitrio,
+in
+episcopalem
+sedem
+invasisset.
+Socr. VI,
+18
+(Thierry,
+244).
+"’) Nach
+dem 4. Satze
+des
+antiochenischen
+Konzils 841:
+Si quis
+episcopns
+aut
+presbyter
+jure
+aut
+injuris
+depositus
+per
+se redest
+ad ecclesiam,
+absqne synodo,
+talis
+non
+habest
+locum
+defensionis,
+sed
+absolute
+expellatur.
+Palladius.
+Dialogus,
+p.
+31
+(Thierry,
+246
+et
+283).
+") Palladius.
+Dialogus,
+32.
+”) Si
+autem id
+vis, vi ms ejicito,
+ut deserti
+ordinis
+excusationem
+habeam tuam
+auctoritatem.
+Pallad.
+Disl., 83
+(Thierry,
+263).
+")
+Divinae
+(Arcadius)
+irae
+eventum
+expectans:
+ut
+si
+quid
+ipsi
+triste
+accideret,
+citius
+illum
+ecclesiae redderet
+et
+deum
+plscaret.
+Pallsd. Dial.,
+33
+(Thierry, 263).
+") Le
+samedi saint en eifet,
+des
+le
+matin
+l’archeväque,
+rompant
+ss captivitä,
+se
+rendit
+a
+la
+bssilique
+(Thierry,
+264).
+
+--- Page 229 ---
+203
+"’)
+Nudae
+mulieres
+cum
+viris
+metu mortis
+aut turpitudinis,
+turpi fugae
+se da
+bant.
+Palladius.
+Dialogus,
+33 (Thierry,
+271).
+’°)
+Vir quidam
+daemoniacus
+ant daemoniacum
+simulans
+deprenditur,
+pugiouem
+habens,
+tanquam
+ad Ioannem
+occidendum
+paratus.
+Sozomen, VIII,
+21 (Thierry, 290).
+’") Palladius.
+Dial.‚
+35.
+”’)
+Die Johanniten
+feierten
+diese
+wahrscheinlich,
+wie
+auch
+Ostern,
+nach
+den
+Regeln
+der
+alten Christen,
+die vor dem
+Niciiischen
+Konzil
+Geltung
+hatten.
+”) Palladius,
+Dial., 36.
+’°) Ingressus
+autem baptisterium.
+Pallad. dial.,
+36.
+i“) Pallad. Dial.,
+37.
+”) Aimä
+Pusch,
+St.
+Jean
+Chrysostome
+et
+les
+moeurs
+de son temps,
+pag. 42,
+Zosim.
+V. 24.
+”) Eum
+in
+parvum
+quoddam
+ac
+desertum
+Armeniae
+oppidum
+relegarunt,
+cui
+nomen
+est
+Cucuso.
+Theodor
+V,
+34 (Thierry, 331).
+‘“) Das Leben
+usw..
+November.
+’°) Thierry
+352 und Aim6 Pusch,
+St. Jean
+Chrysostome
+et les
+moeurs
+de
+son
+temps.
+Paris,
+1891,
+page
+263.
+Bemerkenswert
+ist,
+dass,
+als er unterwegs
+einem Ana
+choreten
+(yu'wqo;
+r'yxrxluape'vog)
+(N eander, II, p.
+185),
+begegnete,
+ihn vor allem
+die Untätigkeit überraschte,
+die jener sich
+auferlegt
+hatte;
+er begann
+ihm
+einzureden,
+dass
+ein tätiges
+Leben
+dem Herrn
+angenehm
+sei.
+Daraufhin
+gab der Einsiedler sein
+Anachoretentum
+auf
+und ging
+in die Stadt.
+Das ist
+ein Anlass
+mehr,
+um das Ana
+choretentum
+des
+Johannes
+während
+seiner
+Jugend
+zu
+bezweifeln
+(Aimä Pusch,
+St.
+Jean
+Chrysostome,
+p.
+264).
+”) Murawjew,
+Seite
+335.
+a7) Bemerkenswert
+sind in einem dieser Briefe seine Worte:
+De
+Isauris
+autem
+nihil est quod
+post
+hoc metuas.
+Neminem
+enim
+tam
+metuo
+quam
+episcopos,
+paucis
+relictis.
+Chrysostome:
+Epist.
+14
+ad Olympiad.
+(Niemanden
+fürchte
+ich
+mehr
+als
+die Bischöfe.)
+”) In Konstantinopel
+hat man zu
+dieser Zeit
+niemand
+in
+die Kirche
+hinein
+gelassen, der sich nicht bereit erklärt hatte, Johannes persönlich
+zu verdammen.
+Thierry,
+St. Jean
+Chrysost.,
+p.
+362.
+'°)
+Quum
+urbs
+tota
+more
+recepto
+ad
+spsctacula
+in
+loco
+Daphnes
+effusa
+esset
+Niceph. XIII,
+30. Thierry,
+379.
+‘°) Si quis episcoporum
+cum Theophilo, Attico, Porphyrio communicare
+noluerit
+extortis
+ecclesia
+esto
+et
+facultatibus
+privatum.
+Niceph. XIII. Thierry,
+750.
+“)
+Sie
+ist
+am
+7.
+Oktober
+407
+gestorben.
+Tbierry,
+St.
+Jean
+Chrysostome
+et
+l’imp6ratrice
+Eudoxie.
+Paris,
+1872,
+364.
+") Quomodo
+a
+ms petis,
+ut orare
+digner.
+Nil.
+Epist.
+233 ad Arcad.
+VIII.
+Die
+Schwierigkeit,
+das
+Schicksal
+des johannes
+zu
+verstehen,
+wenn er nicht als der Verfasser
+der Apokalypse anerkannt wird.
+Der Leser
+sieht
+selbst,
+dass
+„die
+Offenbarung
+in Gewitter
+und
+Sturm“
+gerade
+so
+notwendig
+für
+das Verständnis
+des Lebens
+des Jo
+hannes
+ist,
+wie er selbst
+zum Verständnis einiger Stellen der Apokalypse
+
+--- Page 230 ---
+204
+notwendig
+ist.
+Die Apokalypse
+sowie das Leben
+des Johannes erscheinen
+unvollendet,
+solange
+man
+sie getrennt betrachtet.
+Die
+ganze Biographie
+des Johannes
+erscheint
+ohne
+die
+„Offenbarung“
+wie
+eine Art
+Phantas
+magorie,
+wobei die späteren Ereignisse sich nicht aus den vorhergegangenen
+entwickeln und die gleichzeitigen Begebenheiten
+zusammenhangslos
+neben
+einander stehen.
+In
+der Tat,
+was
+war Johannes
+in Antiochia?
+Zuerst
+ein gelehrter
+Heide
+mit
+einer
+für
+seine
+Zeit
+glänzenden
+Bildung,
+mit
+verheissungs
+vollen Aussichten
+ﬁir
+die
+Zukunft;
+sodann
+ein
+Einsiedler
+und
+Asket,
+der
+sein Vermögen
+unter
+die Armen
+verteilt
+hatte,
+und
+der
+sich
+der
+Betrachtung
+der
+unsichtbaren Welt
+und
+dem Mystizismus
+zuwandte;
+darauf
+ein ﬂüchtiger
+Mönch,
+der
+als
+Prediger
+eine Unterkunft
+bei
+dem
+origenitiscben Bischof Flavius
+fand,
+den
+die
+ofﬁzielle Kirche
+als Bischof
+nicht anerkannte.
+Dann folgen:
+das Umstürzen
+der
+königlichen
+Stand
+bilder
+in Antiochia,
+und
+die
+unmittelbar
+darauf
+erfolgende
+Fahrt des
+Bischofs
+Flavius
+nach
+Konstantinopel,
+die irgend welche unbegreiﬂiche
+Entschuldigung
+bezweckte,
+ein
+gänzliches
+Fehlen
+von
+Ereignissen
+im
+Leben
+des Johannes
+nach
+dieser
+Zeit
+bis zum Jahre 398
+und
+plötzlich
+die
+Ernennung
+dieses
+oppositionellen
+und
+nicht anerkannten Predigers
+auf den Stuhl
+des obersten
+Bischofs von Konstantinopel
+mit
+dem Titel
+eines
+Patriarchen
+und
+unbegrenztem
+Einﬂuss
+fast drei Jahre
+nach
+dem
+von
+uns
+berechneten
+Datum
+der Entstehung
+der Apokalypse,
+als
+bereits
+eine beträchtliche Zahl von Abschriften
+dieses Buches Zeit
+gehabt
+hatte,
+sich zu
+verbreiten!
+Darauf
+sehen wir einen
+gegen
+diese
+Ernennung
+sowohl
+von ihm
+selbst
+als von seiten
+seiner
+antiochenischen
+Anhänger
+geleisteten
+ver
+zweifelten
+Widerstand;
+sein
+Fortbringen
+nach
+Konstantinopel
+unter
+militärischer
+Bedeckung, damit
+er nicht entwische,
+sein feierlicher
+noch
+nie
+dagewesener
+Empfang
+von
+seiten
+aller
+Stände
+der
+Hauptstadt;
+seine
+Weigerung,
+die
+ihm
+angetragene
+Ernennung
+vor
+der
+Berufung
+eines
+allgemeinen
+Konzils
+der übrigen Bischöfe
+des Ostens
+anzunehmen;
+die
+Berufung
+dieses Konzils
+und
+seine
+einstimmige
+Bestätigung
+der
+Ernennung
+des Johannes;
+der
+allgemeine
+Zulauf
+der
+Bevölkerung
+zu
+seiner
+Basilika
+in
+den
+letzten
+drei
+Jahren
+des
+vierten
+Jahrhunderts
+und
+seine Predigten
+von
+der
+unbegrenzten
+Barmherzigkeit
+Gottes
+gegen
+über
+den
+reuigen Sündern mit einer merkwürdigen
+Neigung,
+bei jeder
+passenden
+Gelegenheit
+immer wieder
+auf
+die
+von
+Gott
+abgeänderten
+Prophezeiungen
+zurückzukommen.
+Ferner,
+beim
+Uebergang ins fünfte Jahrhundert,
+als
+das Scheitern
+der apokalyptischen
+Prophezeiung
+offenkundig
+geworden,
+folgen
+eins
+nach
+dem anderen:
+die
+wütende
+Verfolgung
+der
+Origeniten
+nach
+einer
+
+--- Page 231 ---
+205
+Reise,
+die
+Johannes
+um gewisser Erklärungen
+willen
+nach
+Kleinasien
+unternommen
+hatte;
+die Einleitung
+eines Gerichtsverfahrens
+gegen ihn;
+seine
+„Absetzung“
+durch
+das
+allgemeine
+Konzil
+wegen
+Beleidigung
+der
+östlichen Kirche und
+einer
+gewissen
+Jesabel,
+während
+sechs Jahre vor
+her die
+gleichen
+Bischöfe
+ihn mit Gewalt
+eingesetzt
+hatten;
+ein
+mass
+loser Schrecken
+bei
+der
+ganzen
+Bevölkerung
+Konstantinopels
+aus An
+lass
+eines
+kleinen Erdbebens
+nach
+seiner
+Ausweisung,
+die
+unmittelbar
+mit
+diesem Erdbeben in Verbindung
+gebracht wurde;
+Rufe:
+die
+ganze
+Stadt wird
+vernichtet,
+wenn
+Johannes
+nicht
+zurückgeholt
+wird;
+seine
+feierliche Wiedereinsetzung
+im
+Gegensatze
+zu
+dem Konzil, das ihn erst
+eben
+„ausgestossen“
+hatte;
+seine
+Predigten
+zum
+Zwecke
+der
+Ver
+nichtung
+des auf dem Hauptplatz
+aufgestellten Standbildes
+der Kaiserin,
+die
+an
+das
+Umstürzen
+der
+Standbilder
+der
+ganzen
+kaiserlichen
+Familie
+in Antiochia
+während
+seines
+dortigen Aufenthaltes
+erinnern;
+sein
+Zer
+würfnis
+mit
+dem Kaiser
+und
+der Kaiserin;
+das zweite Gericht
+des Kon
+zils über ihn mit
+seiner
+abermaligen
+„Ausweisung“,
+nachdem
+er schon
+früher
+aus
+der
+Kirche
+ausgestossen
+war;
+die
+ganz
+ungewöhnlichen
+Umstände bei seiner
+stufenweisen
+Entfernung
+aus
+der
+Stadt:
+zuerst ein
+Hausarrest
+in der
+Stadt
+selbst,
+darauf Einkerkerung
+in
+der Nachbar
+schaft der Hauptstadt,
+in Nicäa,
+damit man
+ihn im Falle
+einer
+Gefahr
+schnell wieder nach Konstantinopel
+zurückbringen
+könne,
+und schliesslich
+(schon
+nach
+dem
+Tode
+der
+angeblich
+von
+ihm
+beleidigten
+Kaiserin
+Eudoxia)
+eine
+ganze
+Reihe
+von Verschickungen
+in immer
+weiter
+und
+weiter
+entfernte
+Verbannungsorte
+bis
+zu
+seinem
+Tode
+unterwegs
+von
+einem
+Orte
+der Verbannung
+zum andern
+noch
+viel
+schlimmeren.
+Was
+ist
+das
+alles,
+wenn wir
+ihn
+nicht
+als
+den Verfasser
+der
+Apokalypse
+gelten
+lassen,
+als
+eine reine Phantasmagorie?
+Fügen wir nun aber
+in
+die
+chronologische Reihe
+dieser
+äusserlich
+verworrenen
+Ereignisse
+die
+„Offenbarung
+in Gewitter
+und Sturm“
+als
+ein Werk,
+das im Herbst
+des Jahres
+395 von
+ihm geschrieben
+wurde,
+so
+verwandelt
+sich
+diese
+ganze
+Verwirrung
+plötzlich
+in
+eine ununter
+brochene
+Reihe
+von Begebenheiten,
+die
+logisch
+und chronologisch
+aus
+einander
+folgen,
+und
+die
+ganze
+Persönlichkeit
+des
+Johannes,
+als
+des
+Verfassers der „Offenbarung“,
+erscheint
+in
+einem
+ganz neuen
+und
+hellen
+Lichte.
+Es bleibt
+uns jetzt
+nur
+noch
+die Frage
+zu
+untersuchen
+übrig,
+auf
+welche
+Weise und
+wann die
+„Offenbarung“
+einer
+andern Zeit und Person
+zugeschrieben
+werden,
+und
+wie
+der
+Verfasser,
+der
+von
+zwei
+allge
+meinen
+Konzilen
+der östlichen Kirche
+seines Amtes
+enthoben
+wurde,
+zu
+einem
+ihrer
+eigenen
+Heiligen
+werden
+konnte.
+
+--- Page 232 ---
+206
+Das
+einseitige
+tendenziöse
+und
+unvollständige
+Material,
+das
+uns
+zur Verfügung
+steht,
+erlaubt nur, mit
+einem Vorbehalt
+die
+erste Frage
+zu
+beantworten.
+Eine
+Fälschung
+konnte
+natürlich
+auf
+tausend
+ver
+schiedene
+Arten
+gemacht
+werden.
+Aber
+so
+lange
+nicht
+irgend welche
+Tatsachen
+das
+Gegenteil
+erweisen,
+können
+wir
+nur
+die
+eine Art
+an
+nehmen,
+über
+die wir indirekte
+Andeutungen
+in dem
+uns
+vorliegenden
+Material
+ﬁnden.
+Es sind
+die folgenden:
+Im Vatikan
+zu Rom
+ﬁndet
+sich
+eine Sammlung mittelalterlicher
+Bücher
+in
+lateinischer
+Uebersetzung,
+die
+sogenannte
+Versio
+Vulgata.
+Sie wurde,
+wie
+es heisst,
+vom
+Papst
+Damasus
+angefangen,
+der im
+Jahre 382
+den Mönch Hieronymus
+beauftragte, alle damals
+vorhandenen
+heiligen
+Bücher
+der Juden
+und
+ebeno
+alle
+Werke
+der
+Prediger
+von
+Jesu-J ehoschua,
+die damals
+aufgetrieben
+werden
+konnten, ins Lateinische
+zu übersetzen.
+Man muss
+aber nicht
+vergessen,
+dass
+die Bibel
+damals
+noch
+kein abgeschlossenes
+Ganzes
+bildete,
+sondern
+eine Sammlung ein
+zelner Bücher war,
+die
+man
+verschiedenen
+hebräischen
+und christlichen
+Propheten
+zuschrieb,
+welche
+man
+aus
+diesen
+oder
+jenen Gründen als
+von Gott
+erleuchtete
+Männer
+ansah.
+Wir können also auch
+nicht sagen,
+welche
+Bücher im ö. Jahrhundert
+in ihr enthalten
+waren.
+Wer war also dieser Uebersetzer Hieronymus?
+Es war
+derselbe
+Hieronymus,
+der
+Selige,
+dem
+wir
+hier
+schon
+mehr
+als
+einmal
+be
+gegneten.
+Er war
+ein bekannter christlicher
+Schriftsteller
+und
+eifriger
+Sammler von Manuskripten.
+Geboren
+in Rom
+um
+das Jahr
+340,
+siedelte
+er im Jahre
+379,
+wahrscheinlich
+aus
+den
+gleichen
+sammlerischen
+und
+geschichtsschreiberischen
+Rücksichten
+nach
+Antiochia
+in
+Syrien
+über,
+wo
+zu jener Zeit
+auch Johannes
+lebte.
+Aber Johannes,
+der
+um
+14 Jahre
+jünger
+war
+als
+er und
+infolgedessen
+ihm als unkompetent in
+der Lite
+ratur
+erscheinen
+musste,
+trat
+nach
+dem Jahre 381 unter dem von
+der
+herrschenden
+Kirche
+nicht
+anerkannten
+Origeniten Flavianus
+die Stelle
+eines Presbyters
+an,
+wohingegen
+Hieronymus
+umgekehrt
+(vom Jahre
+379
+ab)
+bei
+dem mit Flavianus
+zerfallenen
+ofﬁziellen Bischof Paulinus
+als
+Presbyter
+angestellt
+wurde.
+Auf
+diese
+Weise
+wurde
+Hieronymus
+ein Gegner
+des Johannes
+in
+den religiösen Parteiverhältnissen
+und
+zu—
+gleich
+sein Rivale
+als
+christlicher
+Schriftsteller.
+An
+der Bibelübersetzung
+(und
+wahrscheinlich
+auch
+an
+der
+Auf
+suchung
+aller
+neuen
+Sendschreiben,
+Prophezeiungen
+und
+Bücher,
+die
+man
+damals
+den Aposteln
+Christi
+und
+den Propheten
+des Altertums
+zu—
+schreiben
+konnte)
+und
+ihrer Einverleibung
+in
+die vatikanische
+Samm
+lung arbeitete Hieronymus sehr
+lange, wahrscheinlich bis
+an sein Lebens
+ende,
+d.
+h.
+bis
+zum
+30.
+September
+des
+Jahres
+420.
+Auf
+diese
+Weise
+entstand,
+wie man
+behauptet,
+die Vulgata,
+obwohl
+diese Sammlung be
+
+--- Page 233 ---
+207
+merkenswerterweise ständig aufs
+neue bis zum Jahre 1546 redigiert
+und
+öfters,
+sogar
+noch
+im Mittelalter,
+durch
+neue Bücher
+ergänzt wurde.
+Als
+die astrologische Prophezeiung
+des Johannes
+vollkommen fehl
+geschlagen
+war und als Teophilus
+begann,
+die Origeniten durch Konzile
+zu
+verdammen
+und bei sich zu verfolgen,
+gesellte
+sich zu ihm, wie wir
+es
+schon wissen,
+auch Hieronymus,
+welcher (zusammen
+mit
+dem Bischof
+zu Cypern, Epiphanius)
+mit Wut
+die Origeniten und den Johannes
+selbst
+zu
+verfolgen
+begann.
+Aus
+diesem
+Grunde
+wäre
+es
+unrichtig,
+anzu
+nehmen,
+dass Hieronymus
+bei
+seiner
+ganzen Feindschaft
+gegen Johannes
+und
+den
+persönlichen
+Reibungen
+in
+Antiochia
+nicht
+auch
+selbst
+an
+den
+beiden
+Konzilen,
+die
+den
+Johannes
+verurteilten,
+teilgenommen
+habe,
+obwohl
+aus
+den mir zur Verfügung
+stehenden
+Akten,
+ausser
+in
+direkten Andeutungen,
+darüber nichts zu ﬁnden
+ist.
+Wie dem
+aber auch sei: wir wissen schon,
+dass eine
+der Anklagen,
+die auf diesem Konzil
+gegen
+den Johannes
+erhoben
+wurden,
+darin
+be
+stand,
+dass
+er
+ein
+gewisses
+kirchliches
+Eigentum
+entwendet
+habe,
+und
+ich habe
+an
+entsprechender
+Stelle
+gezeigt,
+dass
+es
+sich
+hier keinesfalls
+um Gold
+oder
+Silber
+handeln konnte,
+sondern
+nur
+um
+die Entwendung
+alter Handschriften
+aus
+demselben
+Kloster,
+aus welchem
+Johannes heim
+lich
+nach
+dem
+ersten
+Konzil von Konstantinopel,
+unbekannt wohin,
+ge
+ﬂüchtet war.
+Es ist selbstverständlich,
+dass
+es fur prinzipielle
+Gegner und per
+sönliche
+Nebenbuhler
+des Johannes
+auf dem literarischen
+Gebiete,
+wie
+Hieronymus,
+doppelt
+wertvoll
+sein
+musste,
+dass Johannes
+nicht
+als Ver
+fasser,
+sondern
+als Entwender
+und
+Aneigner
+eines
+so
+hervorragenden
+Buches,
+wie die
+„Offenbarung“,
+anerkannt wurde.
+Erstens
+erniedrigte
+es
+einen
+gefährlichen Nebenbuhler
+und machte
+Hieronymus
+zum
+ersten
+und nicht
+zum
+zweiten Schriftsteller
+seiner
+Zeit
+und
+zweitens
+gab
+es
+ihm,
+dem eifrigen Sammler
+christlicher
+Bücher,
+die Möglichkeit,
+seine
+Vulgata-Bibel
+durch neue Bücher
+zu vervollständigen,
+indem
+er
+das
+wichtigste
+Werk
+des Johannes
+einem
+legendarischen
+Apostel
+zuschrieb.
+Zu gleicher Zeit (und das ist
+der dritte wichtige Grund)
+entlastete
+dies
+die
+damalige
+herrschende
+Partei
+der byzantinischen Geistlichkeit,
+zu der
+Hieronymus
+gehörte,
+von
+allen Beschuldigungen,
+die
+gegen
+sie in der
+„Offenbarung“ erhoben waren, indem
+sie dieses Buch
+einer
+ganz anderen
+Zeit mit
+ganz
+anderen
+Gegnern zuschrieb
+und
+sie sogar
+zu einer Waffe
+zum Erschrecken
+der Gegner in
+den Händen
+der Partei
+des Hieronymus
+machte.
+Wenn
+man
+schlechtes
+über
+seinen
+Gegner redet,
+so
+wird
+dem
+so‚
+gar
+in unserer
+humanen,
+objektiven
+Zeit geglaubt,
+geschweige
+denn im
+rohen
+Altertum,
+wo
+man
+jeden
+persönlichen
+Feind
+oder
+Angehörigen
+
+--- Page 234 ---
+208
+einer
+gegnerischen
+Partei
+unbedingt
+zu
+einer
+Missgeburt
+des
+mensch
+lichen
+Geschlechtes
+machte
+und
+auch
+nicht
+ein
+einziges
+gutes Haar
+an
+ihm
+liess.
+Was
+ist denn
+merkwürdig
+daran,
+dass Hieronymus,
+als
+er
+von
+der Verurteilung
+des Johannes
+durch
+das Konzil
+erfahren
+und
+seine
+Handschriften für gestohlen
+und
+für Werke
+eines unmittelbaren Schülers
+Jesu,
+von
+dem
+er
+sie
+sich
+angeeignet,
+erblickt
+hatte,
+sich
+sofort
+an
+deren
+Uebersetzung
+ins
+Lateinische
+machte
+und
+sie hiernach zur Ver
+ständigung
+seiner
+Vulgata
+nach
+dem Vatikan
+noch
+zu
+Lebzeiten
+des
+Johannes
+1) schickte?
+Johannes
+und
+seine
+Anhänger
+wurden
+dadurch
+natürlich
+in
+eine
+sehr
+heikle
+Lage
+versetzt.
+Man
+bedenke
+nur:
+sie
+hätten
+die Autor
+schaft
+dem Lieblingsjünger
+Christi,
+demselben,
+der während
+des Abend
+mahls
+an
+seiner
+Brust
+gelegen
+haben
+sollte,
+absprechen
+müssen!
+Aber
+das
+wäre
+in
+den Augen
+eines
+jeden
+damaligen
+Christen,
+der nicht mit
+eigenen
+Augen
+gesehen
+hatte,
+wie Johannes
+eigenhändig
+diese Bücher
+geschrieben hatte,
+eine
+Gotteslästerung
+gewesen.
+Von
+einer
+literarischen Kritik
+der
+Werke
+nach
+Stil
+und
+Inhalt
+war
+damals
+noch
+keine Rede.
+Und
+wer
+würde
+auch
+von
+allen
+diesen
+Anhängern
+des Theophilus,
+welche
+die alexandrinische
+Bibliothek
+und
+die
+Werke
+anderer
+Schriftsteller
+verbrannten
+und
+welche
+überall
+die
+Bücher
+ihrer
+Gegner
+nicht zu widerlegen,
+sondern
+zu vernichten
+bestrebt
+waren,
+es
+gewagt
+haben,
+die
+Rolle
+eines Bauer, Strauss
+oder eines
+anderen
+noch radikaleren
+Forschers
+der
+modernen
+rationali
+stischen
+Schule zu spielen?
+Das ist der
+Grund, warum
+auch
+die Anhänger
+des Johannes
+bald
+nach
+seinem
+Tode alle
+derartigen Versuche
+aufgaben
+und
+sich
+mit
+der
+versöhnlichen Legende
+zufrieden
+gaben,
+die wir am Anfang
+der johan
+neischen
+Biographie
+erzählt
+haben,
+nämlich,
+dass
+der
+Lieblingsjünger
+Christi,
+der Apostel
+Johannes,
+diesem
+späteren
+Johannes
+im
+Kloster
+zu
+Antiochia
+„eine
+Rolle
+mit
+der göttlichen
+Offenbarung“
+übergeben
+habe,
+damit
+er
+daraus
+die Tiefe
+der Wahrheit
+entnehme
+und
+sie
+der
+Mensch
+heit
+verkünde.
+Diese
+Legende
+sagt
+gewissermassen:
+Der
+Verfasser
+dieses
+Buches
+war
+natürlich
+der
+Lieblingsjünger
+Christi
+— wer wird
+daran zu zweifeln
+wagen?
+Aber auch
+unser
+Johannes
+ist kein Lügner:
+er
+hat
+persönlich
+und
+auf geheimnisvolle Weise
+alles dies
+vom
+ersten
+Johannes
+während
+seines
+Aufenthaltes
+im
+kleinasiatischen Kloster
+er
+halten, aber
+es
+keineswegs
+von
+dort bei seiner
+Flucht gestohlen!
+Zu
+derselben
+Zeit
+des Kampfes
+gegen
+Johannes
+wegen
+der Autor
+schaft
+seiner
+Bücher
+sind
+wahrscheinlich
+auch
+die
+Einweisungen
+auf
+die
+„Offenbarung“
+seitens
+der
+Verfasser
+des
+2.
+und
+3. Jahrhunderts
+publiziert
+werden,
+mittelst
+welcher Theophilus
+und
+seine
+skrupellosen
+
+--- Page 235 ---
+209
+Helfershelfer
+ihre Anklage
+gegen
+Johannes
+begründet
+haben”).
+Für
+die
+alten
+leichtgläubigen
+und
+unwissenden
+Bischöfe
+und
+Presbyter,
+die
+un
+fähig waren,
+einen
+frisch fabrizierten
+Papyrus
+von einem
+hundert
+oder
+zweihundert Jahre alten zu
+unterscheiden,
+und
+die
+den Johannes
+unter
+allen Umständen für schuldig erklären
+wollten,
+musste
+jedes
+derartige
+Dokument
+unbedingt
+als Ueberführungsbeweis
+erscheinen.
+Auf
+diese Weise
+wurde Johannes
+noch
+bei
+seinen
+Lebzeiten
+auf
+dem Konzil zu Konstantinopel
+des Autorrechtes
+auf seine eigenen Bücher
+verlustig
+erklärt.
+So
+vergingen Jahre.
+Die
+ausserordentliche Persönlichkeit
+des Jo
+hannes,
+sein
+Ruhm
+eines
+begeisterten
+Predigers,
+den
+niemand
+ihm
+ab
+streiten
+konnte,
+sein
+trauriges Schicksal
+und
+sein Tod
+auf
+dem Weg
+von
+einem
+Verbannungsort
+nach
+dem
+andern,
+noch
+viel
+schlechteren,
+mussten
+ihn in den Augen
+aller christlichen
+Parteien,
+die nicht zu der
+damals
+herrschenden
+nikolaitischen
+Kirche
+gehörten,
+mit
+einem Glorien
+schein
+umgeben.
+Im
+Westen wurde
+er
+bald
+von
+der
+an
+den Verfol
+gungen
+gegen
+ihn nicht beteiligten Kirche
+zum
+Heiligen
+gemacht.
+Alle
+Parteien,
+mit Ausnahme der nikolaitischen,
+betrachteten
+ihn schon
+lange
+als einen
+solchen.
+Und
+es erging ihm dreissig Jahre nach
+seinem Tode
+so wie mit vielen
+anderen
+Propheten
+des Altertums,
+die zu ihren Leb
+zeiten
+verfolgt
+waren.
+Selbst
+die
+„grosse
+Dirne
+Jesabel
+und
+Herodia“
+fühlte,
+dass
+es nicht
+anginge,
+den Kampf
+gegen
+ihn nach
+seinem
+Tode
+weiterzuführen;
+sie
+erklärte
+alle ihre eigenen Konzile
+über
+ihn für un
+gültig.
+Nachdem
+sie ihn dadurch unschädlich gemacht
+hatte,
+dass
+sie ihm
+das
+bedeutendste
+seiner
+Werke
+absprach
+und
+behauptete,
+in
+seinen
+Reden
+habe
+er
+gar nicht
+sie,
+sondern
+die längst
+verstorbene
+Kaiserin
+Eudoxia
+bekämpft,
+nahm
+sie
+ihn
+plötzlich
+in
+der Mitte
+des 5. Jahr
+hunderts
+in
+die Zahl ihrer
+eigenen
+„Heiligen“
+auf.
+Statt
+des ihm ab
+gesprochenen
+\1Verkes wurde ihm
+eine Reihe
+anderer
+zugeschrieben,
+von
+denen
+viele
+ihn
+aller
+Wahrscheinlichkeit
+nach
+entsetzt
+haben
+würden.
+Wie
+unter
+dem
+legendarischen
+Namen
+des
+Dichters
+Homer
+im Altertum
+alle
+möglichen
+heroischen
+Poeme
+gesammelt
+wurden
+und
+die
+„Iliade“,
+die
+„Odyssee“
+und
+sogar
+„Der
+Krieg
+der
+Mäuse
+und
+der
+Frösche“
+entstanden,
+so
+wurden
+auch
+im
+Mittelalter
+ausser
+den
+ihm
+wirklich
+zugehörigen
+Werken
+noch
+verschiedene
+Reden
+byzan
+tinischer Redner,
+deren
+Namen verloren
+gegangen
+sind,
+für Werke
+des
+Johannes
+ausgegeben.
+Und
+so bildete
+sich
+unerwarteterweise
+die Mei
+nung,
+als
+ob Johannes
+selbst
+eine
+ganze
+Reihe
+von Erläuterungen
+zu
+seinen
+eigenen
+verschiedenen
+Werken
+gegeben
+hätte.
+Morosow,
+Die Offenbarung
+Johannis.
+14
+
+--- Page 236 ---
+210
+Der Schlussakt
+dieses
+ganzen
+Wirrwarrs
+von
+gegenseitigen
+Fäl
+schungen,
+Streitigkeiten,
+Unterschiebungen
+und
+unauflösbaren
+Wider
+sprüchen,
+der
+in
+der
+Geschichte
+seinesgleichen
+nicht
+hat,
+war
+nach
+hundertundfünfzig
+Jahren
+(553)
+ein
+neues Konzil in Konstantinopel.
+Es
+verdammte
+den Origenes und seine Bücher;
+seine Anhänger
+jedoch,
+den
+Johannes
+und die Olympiade,
+liess
+es in
+der Zahl
+seiner
+Heiligen.
+Der
+unter seinem
+Einﬂuss
+geschriebene
+Kodex
+des Justinian (im Jahre 565)
+stellte alle Astrologen
+mit den Giftmischern
+auf eine
+Stufe.
+’) Il faut noter
+que jusqu’ä
+Justinien (VI. siöcle),
+1’6glise
+d’Antioche
+n’a admis
+ni la seconde
+6pitre
+de Pierre
+ni 1a denxiäme
+et
+1a troisiäme
+de Jean, ni
+l’epitre
+de
+Jude,
+et
+il
+est
+probable
+qu’elle
+rejetait
+aussi
+l'Apocalypse“
+(Aim6 Puech,
+St. Jean
+Chrysostome
+et
+les
+moeurs
+de
+son temps.
+Paris,
+1891,
+page
+161).
+') Einige von
+diesen Einweisungen
+haben
+sich
+bis
+auf
+den heutigen
+Tag er
+halten
+und
+werden
+auf
+die
+alte
+Weise
+zur
+Bestätigung
+des
+Alters
+der
+„Offen
+barung“
+verwendet.
+So
+wird s. B. gesagt,
+dass
+besondere
+Hinweise
+auf ihre
+Zuge
+hörigkeit
+zum Fischer
+Johannes
+in verschiedenen
+Reden
+und Schriften
+enthalten
+seien,
+die man Papias
+von Hierapolis, Justinus
+dem Philosophen,
+Irenäus
+von
+Lyon
+und
+sogar
+dem Origenes
+selbst zuschreibt,
+und
+dass
+einzelne
+Erwiderungen
+darauf
+sich
+in
+den
+Reden
+des
+Dionysius
+von
+Alexandria
+(3.
+Jahrhundert)
+und
+Eusebius
+von
+Cäsarea
+(4. Jahrhundert) befinden.
+Aber die „Johannes-Apoka
+lypse“
+ist
+erst,
+wie wir
+das
+auf astronomischem
+Wege
+bewiesen
+haben,
+nach dem
+Gewitter
+vom
+30.
+September
+395 (nach julianischer
+Zeitrechnung)
+entstanden.
+Damm
+konnten
+über
+sie
+vor
+diesem Zeitpunkt
+keine
+Andeutungen
+vorhanden
+sein.
+
+--- Page 237 ---
+Anhänge.
+
+--- Page 238 ---
+
+--- Page 239 ---
+Anhang I.
+Die
+Nachprüfung
+meiner
+Berechnungen
+von
+seiten
+der
+Astronomen M. M. Kamensky und N. M. Ljapin
+von
+der
+Sternwarte
+zu Pulkowa.
+(Aus
+den Briefen N. M. Ljapins.)
+I.
+Ohne
+eine Minute Zeit
+zu verlieren, beeile ich mich,
+Ihnen
+die von
+uns
+zur
+Nachprüfung
+Ihrer
+Feststellungen
+gemachten
+Berechnungen
+über
+die Lage
+des Merkur,
+der Venus,
+des Mars und der
+Sonne
+mitzu
+teilen.
+Die
+Berechnungen
+wurden
+von
+Herrn
+Kamensky
+und
+mir,
+vollkommen unabhängig von einander,
+nach den Tabellen von L everrier
+vorgenommen.
+Ich bemerke,
+dass wir bei den Berechnungen
+die plane
+tarischen Störungen
+(Perturbationen)
+und
+Ungleichheiten
+von längeren
+Perioden nicht berücksichtigt
+und nur
+die säkularen Störungen in An
+schlag
+gebracht
+haben.
+Wir haben
+folgende
+Elementsysteme
+(für
+die
+Tag- und Nachtgleiche
+des Jahres
+395)
+bekommen:
+Die Länge
+Die Länge
+des
+desAufgangs-
+Neigung
+Periheliums
+knotens
+Merkur
+.
+.
+298°
+1'
+4
+52O3G'0
+29°22'6
+6°58'
+8
+0,40530
+Venus
+.
+. 285°44'
+7
+109°
+7'5
+62°
+8’0
+3°22' 25”
+0,72886
+Mars
+.
+.
+.
+9° 52’ 32"
+306° 36’6
+36° 57'8
+1°51' 58
+1,45090
+Sonne.
+.
+.
+187° 29’
+6
+255° 32'4
+—
+—
+0,99323
+Auf
+Grund
+dieser
+Elemente
+haben
+wir
+folgende
+geozentrische
+Längen und Breiten
+für den 30. September
+des Jahres
+395
+0h
+der
+mittleren Pariser Zeit erhalten:
+Radius
+vector
+Wirkliche
+Länge
+Längen
+(Ä)
+Breiten
+(ß)
+Merkur
+.
+.
+.
+.
+211° 20’
+—3°
+1'
+Venus
+.
+.
+.
+. 226° 31'
+—-1° 29'
+Tag- und Nachtgleiche
+Mars
+.
+.
+.
+.
+.
+15°
+3’
+—2° 40’
+des
+Jahres
+395
+Sonne
+.
+.
+.
+.
+187°30'
+0°
+0'
+
+--- Page 240 ---
+214
+Um
+die Lagen
+dieser
+Pläneten
+auf der
+heutigen
+Sternkarte
+zu
+bezeichnen,
+habe
+ich
+die Längen
+und
+Breiten
+auf
+die
+mittlere
+Tag
+und
+Nachtgleiche
+des
+Jahres
+1905
+übertragen
+und
+diese
+in
+Rektas
+zensionen
+und Deklinationen
+umgewandelt.
+-
+Rektaszension
+Deklination
+a
+J
+Merkur
+.
+. 229°
+3' = 15h 16m 2 -— 21° 27'
+Venus
+.
+.
+. 245° 26' = 16h 21 “ 7 — 23° 13'
+Mars
+.
+.
+.
+32°52’:
+2“11'“5+
+5°56'
+Sonne
+.
+.
+.
+208°
+0
+(Daraus
+ergibt
+sich, dass Merkur
+sich tatsächlich
+im Sternbilde der
+Wage} Venus
+im
+Fasse
+des
+Schlangenträgers
+und
+Mars
+unter
+dem
+Perseus im Widder
+befanden.)
+Hier
+geben
+wir
+die
+Lagen
+mit
+der
+Genauigkeit
+bis
+zu
+einer
+Minute
+an,
+obwohl
+die Genauigkeit
+der
+Beobachtungen
+zu jener
+Zeit
+nicht mehr
+als
+ein Zehntel Grad
+betrug.
+Diese Genauigkeit
+wird
+unter
+andern
+von Hi pparch in seinen
+Beobachtungen
+erreicht.
+H.
+Die
+Berechnungen
+der
+Lage
+des Jupiter
+und
+Saturn
+sind
+nicht
+so einfach,
+wie diejenigen
+für die übrigen Planeten.
+Es handelt
+sich hier
+nämlich
+darum,
+dass
+man
+nicht
+blass
+mit
+den
+säkularen
+Störungen
+rechnen
+muss,
+sondern
+auch mit periodischen
+und mit den Störungen von
+einer
+längeren
+Periode
+(die
+grosse
+Ungleichheit
+des
+Jupiter
+und
+des
+Saturn),
+welche
+bei
+einem
+solchen
+Zeitraum
+eine
+ziemliche
+Höhe
+er
+reichen
+und
+stark
+auf die Elemente, hauptsächlich
+aber
+auf die
+wahre
+Länge
+(a)
+in
+der
+Bahnkurve
+und
+auf
+die
+Länge
+des Periheliums
+(n)
+einwirken.
+So
+z. B. vergrössert sich die Länge
+des
+Saturn infolge
+der
+Ungleichheit
+des langen Zeitraums
+um
+52'
+und
+die Länge
+des
+Perihe
+liums verkleinert
+sich
+um
+2°.
+Das
+sind recht grosse
+Werte,
+die
+man
+keinesfalls
+unbeachtet
+lassen
+darf.
+So
+haben
+wir berücksichtigt:
+l. die
+säkularen Störungen (Perturbationen),
+2. die Ungleichheiten
+eines langen
+Zeitraumes und 3.
+die
+periodischen
+Störungen
+(und
+zwar
+die
+grösseren
+Glieder,
+unter Vernachlässigung
+der kleinen).
+Wie
+auch
+vorher wurden
+die
+Berechnungen
+völlig
+unabhängig
+von
+einander
+vorgenommen,
+wodurch
+uns
+die Möglichkeit
+gegeben
+war,
+uns
+gegenseitig
+zu
+kontrollieren.
+Wir erhielten
+die
+folgenden
+Grund
+elemente:
+
+--- Page 241 ---
+215
+Jupiter
+Saturn
+Wahre Länge
+.
+.
+.
+.
+.
+.
+.
+.
+280°22’9
+223°24'8
+Exzentrizitätswinkel
+.
+.
+.
+.
+.
+.
+9256"
+12050"
+Grosse
+Halbechse
+.
+.
+.
+.
+.
+.
+.
+5,20244
+9,53808
+Länge
+des
+Periheliums
+im Jahr
+395
+349°7'
+5
+59°43'3
+Neigung
+im Jahr
+395
+.
+.
+.
+.
+.
+1°23’ 42''9
+2932'51"6
+Länge
+des Knotens im Jahr
+395
+.
+84°21'1
+99°39'3
+Auf Grund
+dieser
+Elemente
+bekamen
+wir
+folgende
+geozentrische
+Längen
+und Breiten
+des Jupiter und
+des
+Saturn für
+den
+30. September
+395
+0h nach
+mittlerer
+Pariser
+Zeit:
+Länge
+(Ä)
+Breite
+(ß)
+Jupiter.
+.
+.
+.
+.
+269° 17'
+—0°23'
+Saturn
+.
+.
+.
+.
+.
+221°58'
++1°55'
+Um diese Lagen
+auf einer heutigen
+Sternkarte
+zu bezeichnen,
+habe
+ich
+sie
+auf die Ekliptik
+des Jahres
+1905
+bezogen,
+wobei
+ich die Be
+richtigung
+der Präzession
+für
+1510 Jahre
+hinzufügte (zur Länge
+21°0’
+und
+zur Breite — 11’)
+und
+die
+erhaltenen
+Längen
+und
+Breiten in die
+Rektaszensionen
+und
+Deklinationen
+umwandelte
+(Ekliptik
+des
+Jahres
+1905. 0).
+Rektaszensionen
+Deklinationen
+Jupiter
+.
+.
+292°
+2' = 19h 28'n
+1
+—- 22° 29’
+Saturn
+.
+.
+.
+2410
+17' = 16h
+5'“
+1
+— 190
+4'
+Daraus ist
+zu
+ersehen,
+dass Jupiter
+sich
+tatsächlich
+im Schützen
+und
+Saturn im Skorpion
+befanden.
+Pulkowa,
+den
+3. Juni
+1906.
+Ihr
+ergebener
+Nikolaus
+Ljapin.
+Anhang II.
+(Zur
+2.
+russischen
+Auﬂage.)
+Newton über
+die Apokalypse.
+(Isaaci
+Newtoni
+Opera
+quae
+estant
+omnia.
+Commentariis
+illustrabat
+Samuel Horsley.
+T. V. Londini,
+1785.
+In englischer
+Sprache.
+Biblio
+thek der Sternwarte zu Pulkowa.)
+Als ich im Herbst
+1905
+aus
+der
+Schlüsselburger Festung freikam
+und
+mich ein
+wenig
+in
+dem
+neuen
+Leben
+orientiert
+hatte,
+war
+eine
+meiner
+ersten
+Unternehmungen,
+den
+Kommentar
+zur Apokalypse
+von
+Newton
+aufzusuchen.
+Der
+grosse Astronom,
+so
+schien
+es mir, konnte
+
+--- Page 242 ---
+216
+nicht
+übersehen
+haben,
+dass
+die
+apokalyptischen
+Tiere
+nichts
+anderes
+als Sternbilder
+des ihm so gut bekannten Himmels
+sind.
+Als
+ich
+endlich dieses
+Buch
+in
+zwei Exemplaren
+erhalten hatte,
+eines
+in
+englischer
+Sprache
+aus
+der
+Sternwarte
+von
+Pulkowa,
+das
+andere
+in lateinischer Sprache als
+Geschenk
+von
+Herrn L. F. Pant_el
+jew,
+begann
+ich
+sofort
+mit
+der Lektüre.
+Allein zu meinem
+grössten
+Bedauern hat Newton
+mit keinem Worte
+zu verstehen
+gegeben,
+dass ihm
+die Uebereinstimmung
+der
+apokalyptischen
+Tiere
+mit den Sternbildern
+des Himmels bekannt
+gewesen
+sei.
+Selbstverständlich
+konnte man zu seiner Zeit
+noch
+nicht die Lagen
+_
+des
+Merkur,
+der Venus
+und
+des
+Mars
+auf
+anderthalbtausend Jahre
+zurück
+und
+somit
+di3 Zeit
+der Apokalypse
+in allen
+Einzelheiten
+berechnen,
+aber
+er
+hätte
+doch
+vermuten
+müssen,
+dass
+das Buch
+ein
+astrologisches
+ist.
+Vielleicht
+schreckte
+er,
+als
+ein
+streng
+religiöser
+Mann,
+vor
+so
+einem
+Gedanken
+zurück?
+Diese
+Vermutung
+kam
+mir
+unwillkürlich
+in
+den Sinn, als ich seine
+mystische
+Erklärung las.
+In
+seiner Einleitung‘)
+sagt
+er,
+dass die
+falschen
+Apokalypsen
+des
+Petrus, Paulus, Thomas, Stephanus
+und Kerinthus Nachahmungen
+der eigentlichen seien, und erinnert daran, dass am Ende des 4. Jahrhunderts
+mehrere
+in Griechenland
+die
+Echtheit
+des Buches vielfach angezweifelt
+haben
+(wir
+haben
+schon
+gesehen,
+dass
+das
+zu Anfang
+des
+5. Jahr
+hunderts
+geschah).
+Alsdann
+geht
+er
+unmittelbar
+zu
+der Behauptung
+über,
+dass
+es Wahnsinn
+wäre,
+das
+von
+Gott
+selbst Verhüllte
+deuten
+zu
+wollen.
+Der Wahnsinn
+der Erklärer,
+sagt
+er, bestände
+darin,
+dass
+sie
+die
+Zeitpunkte
+und
+die Ereignisse voraussagen
+wollten, als
+ob Gott
+sie dazu
+bevollmächtigt
+hätte, Propheten zu sein.
+„Durch
+diese Unvernünftigkeit
+haben
+sie nicht nur
+sich
+blossgestellt, sondern
+auch
+zu
+der Verachtung
+der Prophezeiung
+selbst
+die Veranlassung gegeben.
+Die Absicht
+Gottes
+war
+eine
+ganz
+andere.
+Er
+hat
+diese Prophezeiung,
+wie
+alle Prophe
+zeiungen
+des
+alten
+Testamentes,
+nicht
+gegeben
+,
+um
+die
+menschliche
+Neugierde
+-zu
+befriedigen
+und
+sie
+somit
+die
+Ereignisse
+vorauswissen
+zu lassen,
+sondern
+damit
+sie
+nach
+der Erfüllung durch
+die Taten selbst
+erklärt
+würden und
+hierbei
+die
+eigene Vorsehung
+Gottes,
+nicht
+die Vor
+aussicht der Erklärer,
+der Welt
+zu
+offenbaren.“
+(The folly cf interpreters
+hath
+been
+to
+fortell
+times
+and things
+by this
+prophecy,
+as if God
+designed
+to make
+them
+prophets.
+By this
+rashness
+they
+have
+not
+only
+exposed
+themselves,
+but
+braught
+the
+prophecy also
+into
+contempt.
+The
+design
+cf God
+was much
+otherwise.
+He
+gave
+this
+and
+the
+prophecies
+not
+to
+gratify
+mens’
+curiosities
+by
+enabling them
+to forknow things, but that after they were
+fulﬁld,
+they
+
+--- Page 243 ---
+217
+might
+be
+interpreted
+by
+the
+event
+and
+his
+own
+providence,
+not
+the
+interpreters be then
+manifested
+therby to
+the
+world. Idem p. 449.)
+Es ist klar,
+dass
+selbst
+für
+den allergenialsten Menschen,
+der
+an
+die Apokalypse
+mit
+einer
+solch
+voreingenomrhenen
+Meinung
+herantritt,
+alles
+darin
+dunkel
+und
+unverständlich,
+und
+die natürlichsten Vergleiche
+unbedingt verdächtig und
+gefährlich
+erscheinen
+müssen.
+„Die Zukunft“, fährt Newton fort, „wird die Apokalypse rechtfertigen;
+bis
+dahin
+wollen wir uns mitder Erklärung
+dessen begnügen,
+was
+sich
+schon
+erfüllt
+hat (the
+event will
+prove
+the Apocalips
+. . . till
+then
+we
+must
+content
+curselves
+interpreting
+what
+hath
+been
+already
+fulﬁled,
+p. 449).“
+'
+So
+lässt
+Newton alle astronomischen
+und
+astrologischen
+Gesichts
+punkte beiseite
+und
+stützt
+sich
+ohne
+weiteres
+auf die Mystik.
+Von
+dem Augenblick
+an
+ging
+alles
+bei
+ihm drunter und
+drüber,
+wie bei allen Theologen.
+„Das gläserne
+Meer vor dem Throne Gottes“
+erschien
+ihm
+nicht
+als
+die Himmelskuppel,
+sondern
+„als
+der
+kupferne
+Boden
+zwischen
+der Türe
+des jüdischen Tempels
+und
+dem Altar“.
+Die
+vier Tiere
+„voller Augen innen
+und
+ringsum“ sah er nicht für die Stern
+bilder
+der vier Jahreszeiten
+an,
+sondern
+für
+die „Seraphim“, welche
+dem
+J esaias (im Kapitel
+4 seiner
+Prophezeiung) in
+einer
+Vision,
+ähnlich
+der
+apokalyptischen,
+erschienen
+waren
+usw.
+Beim
+Uebergang
+zum
+historischen Teil zeigt Newton
+mehr
+Einsicht.
+„Das
+griechische Reich
+diesseits
+des
+Euphrat“,
+sagt
+er,
+„ist
+(bei
+D aniel)
+durch
+einen
+Leoparden und
+einen
+Geisbock versinnbildlicht;
+das römische
+Reich
+ist (in der Apokalypse)
+durch
+ein Tier mit
+sieben
+Hörnern
+dargestellt . . .“
+„Bei derletzten
+Teilung
+des Reiches
+zwischen
+den
+Söhnen
+des Theodosius (im Jahre 395)“,
+fährt Newton
+fort,
+„gab
+der Drache diesem
+Tiere
+seine Kraft,
+den Thron
+und
+die grosse Macht“
+(Seite
+467).
+Auf
+diese
+Weise
+stiess
+der
+grosse
+Astronom
+ganz
+richtig
+auf
+das
+Jahr
+395,
+in
+welchem
+die
+Apokalypse
+tatsächlich
+geschrieben
+worden
+ist.
+„Das zweite Tier mit zwei Hörnern, welches
+den Gottesdienst
+vor
+dem Reichstier
+verrichtet“,
+sagt
+er weiter,
+ebenfalls
+ganz richtig,
+„war
+die
+orthodoxe
+Kirche
+des griechischen
+Reiches
+(the
+second
+beast
+which
+rose
+up aut of
+the
+earth,
+was
+the
+church
+cf
+the
+greek
+empire:
+for
+it
+hat two horns
+like
+those
+cf the Lamb,
+p. 467)“.
+„Ihr
+Zeichen“,
+fährt
+er
+fort,
+„war
++ + +
+(an
+einer
+anderen
+Stelle nur
+ein Kreuz);
+ihr Name
+ist die Lateinische
+und
+die Zahl ihres
+Namens
+ist
+666
+(and
+his
+[beasts]
+mark
+is + + +,
+and
+his
+name
+LATEINOS,
+and
+the
+number
+of his
+name
+666. Page 468).“
+
+--- Page 244 ---
+218
+Die Worte
+der
+Apokalypse:
+„Du
+hast
+Recht,
+Herr:
+sie
+haben
+das Blut
+der Unschuldigen
+und
+deiner
+Verkünder
+vergossen,
+und
+du
+gabst
+ihnen
+Blut zu
+trinken“,
+bezieht
+Newton
+ganz
+richtig
+auf
+die
+intoleranten Erlasse
+der byzantinischen Kaiser
+vom
+Ende
+des 4. Jahr
+hunderts,
+Arkadius
+und
+Honorius,
+von
+denen
+er
+unter
+anderem
+den
+Erlass
+gegen
+die mit
+der Reichskirche
+Unzufriedenen
+anführt
+2).
+Auf
+diese Weise
+hat sich alles,
+worin
+Newton
+eine Erfüllung der
+Prophezeiung
+sah,
+ereignet,
+und
+dies
+zwar
+noch
+vor ihrer Entstehung
+auf der Insel Patmos.
+Alles,
+was
+sich
+ereignen
+sollte,
+wie
+das
+auch
+nicht
+anders
+zu
+erwarten
+ist,
+hat
+sich
+nicht
+bewahrheitet.
+Diesen
+späteren
+Begebenheiten
+bis
+1092
+widmet Newton
+am
+Schlusse
+seiner
+Darlegung
+nur
+4
+Seiten und
+ﬁndet hierbei nur durch Trugschlüsse
+ein
+zelne
+Punkte
+der
+Uebereinstimmung
+mit
+verschiedenen
+Ausdrücken
+der
+Apokalypse.
+Aber seine bezüglichen Versuche sind dermassen
+gekünstelt,
+dass
+diese
+anzuführen
+nur
+dann
+am Platze
+wäre, wenn wir uns
+über
+zeugen
+wollten,
+wie
+theologische
+Vorurteile
+imstande
+sind,
+sogar
+die
+hellsten Köpfe
+vom
+geraden
+Wege abzulenken.
+Dies ist leider alles Wesentliche,
+was
+ich
+zur Erklärung der Apo
+kalypse
+bei
+dem grossen
+Astronomen
+gefunden
+habe.
+Der
+Mystizismus
+hat
+mit
+seinem
+dunklen
+Schleier
+sein
+sonst
+so
+scharfes
+Auge
+getrübt.
+Er hat
+ihm
+nicht
+erlaubt,
+die
+hübschen
+poetischen
+Schilderungen
+des
+Sternenhimmels zu erklären,
+die überall in
+dem grossartigen
+Buche des
+Johannes
+zerstreut
+sind.
+l)
+I.
+Newtoni
+Opera, Londoni,
+1785.
+T. V.
+p. 441.
+")
+Imp. Arcad.
+et Honor. A. A.
+Aureliano Proc. Africae: Hacreticorum
+vocabulo
+continentur,
+et
+latis
+adversus
+eos
+sanctionibus
+debent succumhere,
+qui vel levi
+argu
+mento,
+a
+judicio
+catholicae
+religionis
+et
+tramite
+detecti
+fuerint
+deviare:
+ideoque
+experientia
+tue
+Euresium
+haereticum
+esse cognoscat.
+Dat iii Non.
+Sept.
+Constan
+tinop.
+Olibrio
+et Probino
+Goss.
+A.
+C.
+395.
+Die
+Bemerkung
+„395. Jahr nach
+Christi
+Geburt“,
+gibt
+sich als Einschiebsel
+des Uebersetzers
+zu erkennen, weil die Zeit
+der Ge
+burt
+J
+ehoschua-J
+esu
+damals
+noch
+unbekannt
+war
+und
+erst später
+wahrscheinlich
+auch
+nach den Sternen
+berechnet
+wurde.
+Die
+astronomische
+Berechnung
+vieler
+christlicher
+Feiertage
+beweist der Umstand,
+dass
+die Geburt
+der Mutter Gottes
+im
+September
+angesetzt
+ist, wo
+die Sonne
+sich im
+Sternbild
+der Jungfrau
+befand,
+die Geburt Jesu im Dezember,
+wo
+um Mitternacht
+eine
+Anzahl
+Sterne
+des
+Krebses,
+Krippe
+genannt,
+durch
+den Meridian
+geht, im Einklang
+mit
+der Legende
+von
+der
+Geburt
+Jesu in einer Krippe
+usw.
+
+--- Page 245 ---
+219
+Anhang III.
+(Zur 2.
+russischen
+Auﬂage.)
+Alte Bücher,
+deren
+Unechtheit
+und Anachronismus
+durch
+die astronomische
+Berechnung
+der
+Enstehungszeit
+der Apokalypse
+bewiesen
+wird.
+Nachdem
+die
+erste Auﬂage
+meines
+Buches
+erschienen
+war, wurde
+von
+zwei
+oder
+drei Kritikern
+der Ausdruck
+gebraucht,
+ich hätte
+nicht
+gewusst,
+dass
+mehrere
+Urkunden, worin
+die Apokalypse
+erwähnt wird,
+von
+den
+Theologen
+den
+ersten
+drei
+Jahrhunderten
+der
+christlichen
+Zeitrechnung zugeschrieben
+werden,
+d.
+h.
+einer
+Zeit,
+welche
+der
+von
+mir
+berechneten
+vorhergeht.
+Diese
+Behauptung
+ist
+unrichtig.
+Noch
+während
+meiner
+Gefangenschaft
+in der Schlüsselburger Festung
+wusste
+ich
+dies
+alles
+aus
+den
+theologischen
+„Exegeten“,
+die
+in ausgiebigster
+Weise in unserer Bibliothek
+vorhanden
+waren.
+Ich
+habe
+sogar
+darüber,
+wie der Leser
+sich
+selbst
+überzeugen
+kann,
+an
+verschiedenen
+Stellen
+des V. Teiles
+der „Offenbarung in Gewitter und Sturm“
+gesprochen
+und
+am Schlusse
+des Buches selbst eine Hypothese
+darüber aufgestellt,
+wie solche
+historischen Missverständnisse
+und Fälschungen entstanden
+sein
+könnten.
+Alles
+dies ist auch
+in der zweiten
+Auﬂage unverändert stehen
+geblieben.
+Die
+Sache
+verhielt
+sich
+ganz
+anders,
+als
+meine
+Gegner
+glauben.
+Nachdem
+ich
+mich
+von
+der
+Richtigkeit
+meiner
+Berechnung
+und
+von
+der
+Zuverlässigkeit
+meines
+astronomischen
+Fundamentes
+1)
+überzeugt
+hatte,
+erkannte
+ich
+sofort,
+dass,
+je
+mehr
+es
+mir
+durch
+meine Arbeit
+gelingen
+werde,
+unechte
+Dokumente aufzudecken,
+welche
+die Wahrheit
+in
+der Entwicklungsgeschichte
+der religiösen Ideen in
+den
+ersten Jahr
+hunderten
+unserer
+Zeitrechnung
+verdunkeln,
+um
+so
+grösser
+auch
+der
+wissenschaftliche Wert
+meines
+Buches
+sein
+werde.
+Nach
+meiner
+Frei
+lassung
+habe ich
+es viele Male versucht,
+urkundlich
+nachzuforschen,
+wie
+weit
+sich
+die Wurzeln
+dieses Aberglaubens in die Tiefe der Jahrhunderte
+verlaufen,
+aber
+fast
+überall
+stiess
+ich auf
+dieselbe
+undurchdringliche
+Mauer
+—
+das
+16.
+und
+17.
+Jahrhundert
+—,
+hinter
+der
+ich
+nichts
+mehr
+wahrnehmen
+konnte.
+Fast
+alle lateinischen
+und
+griechischen
+Ur
+kunden,
+auf welche
+die
+modernen
+Theologen
+die Zugehörigkeit
+unserer
+biblischen Apokalypse
+zu den ersten drei Jahrhunderten
+begründet
+haben,
+ergeben
+sich
+(als ich diese in der Petersburger Staatsbibliothek
+und
+in
+anderen
+speziellen
+Büchereien
+untersuchte)
+als
+nur
+in
+den
+Ausgaben
+des
+16.
+Jahrhunderts
+vorhanden,
+d. h.
+als Bücher,
+die and erthalb
+tausen d Jahre
+nach
+dem Tode ihrer
+Verfasser erschienen,
+ohne An
+gabe, wo die Manuskripte sich befinden,
+nach denen sie gedruckt wurden,
+
+--- Page 246 ---
+220
+und
+ohne Angabe,
+von
+wem
+und wann
+sie
+von
+den unbekannten
+Origi
+nalen
+übersetzt
+oder
+abgeschrieben
+wurden.
+Das
+Erscheinen
+der
+ersten
+Auﬂage
+meines
+Buches
+veranlasste
+einige
+Forscher,
+das
+historische Archiv
+von
+neuem,
+hauptsächlich,
+um
+mir
+entgegenzutreten,
+zu
+durchsuchen.
+Aber,
+wie ich
+es
+auch
+erwartet
+hatte,
+sind
+dabei irgend welche
+schwerwiegenden
+Punkte nicht herausge
+kommen.
+Hinter
+die
+undurchdringliche
+Mauer
+des
+16.
+und
+17. Jahr
+hunderts
+konnten
+zugunsten
+ihrer Ansichten
+auch
+sie
+nicht
+kommen.
+Und ich hatte ursprünglich
+gehofft,
+durch
+meine
+Untersuchung
+die Un
+echtheit
+vieler
+Urkunden,
+wenigstens
+des
+7.
+und
+8. Jahrhunderts,
+zu
+beweisen.
+1
+Ich
+führe
+im
+folgenden
+einige
+angeblichen
+Zeugnisse
+christlicher
+Schriftsteller
+vor
+dem Jahre
+395
+an.
+I.
+In
+den Werken,
+die
+man Tertullian
+zuschreibt,
+der
+im
+3. Jahr
+hundert
+(?)
+lebte,
+nach
+der lateinischen Ausgabe
+1664
+’),
+beﬁndet
+sich
+in
+dem polemischen
+Buch
+gegen Marcion")
+der
+folgende
+Satz:
+„Wir haben
+auch
+von
+Johannes
+die
+kirchliche
+Nahrung,
+denn,
+0b
+wohl Marcion
+seine Offenbarung nicht anerkannt
+hat,
+so hat doch
+eine
+Reihe
+von Bischöfen,
+welche
+die
+Sache
+von Grund
+aus
+erforscht
+haben,
+die Verfasserschaft des Johannes festgestellt (Habemus
+et
+J
+0annis
+alumnas
+ecclesias.
+Nam
+etsi
+Apocalipsim
+eius
+Marcion
+respuit,
+ordo
+tamen
+episcoporum
+ad originem recensus
+in Joannem
+stabit
+auctorem).“
+Schon der ungeschickte Ausdruck
+„kirchliche
+Nahrung“
+(alumnas
+ecclesias)
+zeigt, dass
+dieser
+einem
+Abschreiber
+aus
+dem Mittelalter
+ge—
+hören
+muss.
+In
+der Tat ist auch
+im Vorwort gesagt,
+dass
+dieses Werk
+dem Manuskript
+entnommen
+ist,
+welches
+man
+dem Agobard,
+dem
+Bischof von Lyon zuschreibt,
+der
+im
+9.
+Jahrhundert
+gelebt
+hat (ex
+co
+dice
+antiquissimo Agobardi),
+wo
+aber
+dieses
+Manuskript
+sich
+beﬁndet,
+ist
+nicht
+angegeben.
+Uebrigeus
+kann
+man
+nicht
+einmal
+sagen,
+von
+welcher Apokalypse
+hier
+die Rede ist:
+von
+unserer
+biblischen
+oder von
+irgend einer anderen,
+die im Altertum
+dem Johannes zugeschrieben
+wurde.
+Dafür
+beﬁndet
+sich
+aber
+in
+einem
+anderen Werke,
+das
+dem Tertullian
+zugeschrieben
+wird, in dem „Liber de resurrectione“
+(das „Buch
+von
+der
+Auferstehung
+der Toten“
+in der bekannten
+Sammlung von Migne,
+ohne
+Quellenangabe)
+fast
+die
+ganze
+Aufzählung
+der
+Prophezeiungen
+unserer
+heutigen
+Apokalypse.
+Aus
+diesem
+Grunde
+muss
+dies
+ganze
+Buch
+für
+unecht
+erklärt
+werden;
+es
+kann nicht vor
+dem
+ö.
+Jahrhundert
+ge
+schrieben
+sein.
+
+--- Page 247 ---
+221
+II.
+In
+den Werken,
+die dem Clemens
+von Alexandrien zugeschrieben
+werden
+(das
+2.
+oder
+3. Jahrhundert),
+beﬁnden
+sich
+in
+der
+lateinischen
+Ausgabe
+vom
+Jahre
+1688 “)
+die
+folgenden
+Sätze:
+Der
+erste
+im
+Buche
+Pädagogus
+5):
+„Den Herrscher,
+der solche Gewänder gebraucht,
+habe
+ich in einer
+Vision
+geschaut
+—
+sagt
+die
+Offenbarung
+——-: ich
+sah
+die
+Seelen
+derer,
+welche
+Zeugen
+unter
+dem Altar
+waren,
+und
+wurde
+einem
+jeden
+ein
+weisses
+Gewand
+gegeben.
+(Tali
+vesti
+utentem
+Dominum
+in visionem
+vidisse,
+dicit Apocalipsis:
+„vidi
+animas
+eorum
+qui
+testes
+fuerant,
+—
+sub Altari
+et data
+est unicuique vestis
+candida.)“
+Diese
+Stelle ist zweifellos
+ein Zitat
+aus
+unserer
+biblischen Apoka
+lypse
+und
+darum
+kann
+sie
+nicht vor
+dem
+5.
+Jahrhundert
+geschrieben
+worden sein.
+Die zweite Stelle
+beﬁndet
+sich
+im Buche
+Stromatum")
+und
+lautet:
+„Aber
+ausser
+der Hoffnung
+auf
+die
+verheissene
+Ehre
+ist gesagt:
+Siehe
+hier
+ist der Herr,
+und
+sein Lohn
+ist
+vor
+seinem
+Angesicht,
+um
+jedem
+nach
+seinen
+Werken
+zu vergelten;
+was
+das Auge nicht
+gesehen
+und
+das Ohr nicht gehört
+und
+in das Herz
+des Menschen
+nicht hinein
+gekommen
+ist, hat Gott
+bereitet
+denen,
+die ihn lieben.
+(Ecce
+Dominus
+et merces
+eius
+a
+facie
+ejus
+ut
+reddat
+unicuique
+secundum
+opera
+sua,
+quae
+oculus
+non vidit
+et auris non audivit
+et in cor hominis non
+ascen
+derunt,
+quae praeparabit Deus iis qui ipsum
+diligunt.)“
+Diese
+Stelle
+sagt
+nichts, weder
+dem Verstande noch
+dem
+Herz.
+Der Satz
+am Anfang
+dieses Zitats:
+„Jedem
+nach
+seinen
+Werken
+ver
+gelten“ ist
+tatsächlich
+auch
+in
+der
+„Apokalypse“
+gebraucht
+(22,
+12);
+aber
+er ist bei
+den christlichen Schriftstellern
+ein
+so gewöhnlicher,
+dass
+er in beiden
+Büchern
+ganz
+unabhängig
+gebraucht
+sein kann.
+Der Hin
+weis aber
+(Apok.
+22,
+12)
+ist
+am Rande des Buches
+schon
+von
+seinem
+Herausgeber
+selbst Daniel Gensius
+gemacht
+werden.
+In der früheren
+Heidelberger Ausgabe
+vom
+Jahre
+1592
+sind
+keine
+Hinweise
+auf
+die
+Apokalypse
+vorhanden.
+III.
+In
+den
+Schriften,
+die
+Justln
+dem Philosophenü
+zugeschrieben
+werden,
+beﬁndet
+sich in der Pariser Auﬂage vom Jahre
+1742 die folgende
+Stelle:
+„Hier ist noch
+zu bemerken,
+dass
+bei
+uns
+ein Mann
+namens
+J
+0
+hannes,
+einer
+der Apostel
+Christi,
+in der ihm zuteil
+gewordenen
+Offen
+barung prophezeit
+hat,
+dass
+die,
+die an Christus
+glauben,
+tausend Jahre
+1eben‘
+werden
+und
+dass
+hiernach
+eine
+allgemeine,
+mit
+einem Wort
+
+--- Page 248 ---
+222
+ewige Auferstehung
+aller
+stattﬁnde und
+damach
+das Gericht
+eintreten
+werde.
+(Huc accedit
+quod vir apud
+nos
+nomine Joannes,
+unus
+ex Christi
+Apostolis
+in Revelatione
+ipsi
+facta,
+mille
+annos
+Jerosolimis
+traducturos
+praedixit
+eos, qui Ohristum
+nostro
+crediderint,
+ac postea
+generalem,
+et,
+ut
+verbo
+dicam,
+aeternam
+unanimiter
+simul
+omnium
+resurectionis
+et
+indicium
+futurum.)“
+Das ist, soviel ich weiss,
+der einzige Satz,
+mit dem der mittelalter
+liche Redaktor
+(oder
+sogar
+der Zusammensteller)
+die Schriften Justins
+versehen
+hat.
+Angeführt
+aber
+ist
+dieser
+Satz ausschliesslich zum
+Be
+weise
+der
+schon
+im
+Mittelalter
+herrschenden
+Idee
+des
+tausendjährigen
+Reiches Christi.
+Die
+apokalyptische
+Herkunft
+dieser
+Stelle
+ist
+über
+jeden Zweifel
+erhaben.
+IV.
+In
+den „Fünf
+Büchern
+gegen
+Ketzereien“,
+die
+man
+dem
+Irenäus
+von Lyon zuschreibt,
+der
+im
+2.
+Jahrhundert
+gelebt
+haben
+soll,
+sind
+im V. Buche viele Hinweise
+auf unsere
+biblische Apokalypse
+enthalten.
+Da sagt
+im Kapitel
+28
+der Verfasser unter
+anderem,
+dass
+die Zahl 666
+das Ende
+der Welt auf
+das Jahr
+6000
+(I?)
+„nach
+der Weltschöpfung“
+(d.
+h.
+im Jahre 2239
+nach
+Chr. G.)
+voraussagt,
+wenn
+man
+nach
+der
+hebräischen
+Weise
+annimmt,
+dass Jesus Christus 3761 Jahre
+nach
+dieser
+wunderbaren Tat geboren
+sei.
+Ferner
+wird
+im
+Kapitel
+30
+auch
+die
+Berechnung
+des „Namens
+des Tieres“
+angeführt,
+dem
+nach
+den
+Unter
+suchungen
+des Verfassers ausser des Wortes
+7.auivog
+(die Lateinische) noch
+zwei Worte:
+ﬂicin'hzg
+(gut eingeweihter)
+und rehavog (Titan)
+entsprechen.
+Das ist
+die
+erste
+der
+bis jetzt
+angeführten
+Schriften,
+in welcher Hin
+weisungen auf unsere
+biblische Apokalypse
+zahlreich
+vorkommen.
+Aus
+unserem
+Nachweis,
+dass
+die Apokalypse
+in
+der
+vorliegenden Gestalt
+sich auf ein Ereignis
+des Jahres
+395
+bezieht,
+ergibt
+sich,
+dass
+die
+be
+züglichen Stellen
+bei Irenäus „nicht vor den Anfang
+des 5. Jahr
+hunderts“
+geschrieben
+sein
+können.
+V.
+In den Schriften
+des Sulpicius Severus,
+der im Jahre 421
+starb,
+und
+der tatsächlich
+nicht nur
+von
+dem Vorhandensein
+der Apokalypse,
+sondern
+auch
+von den Streitigkeiten
+über
+deren Verfasser
+gewusst
+hat,
+beﬁndet
+sich
+in
+seinem
+Buche „Die
+Heilige Schrift“) folgende
+Stelle:
+„Zu jener Zeit verbannte
+er den Apostel und Evangelisten Johannes
+auf die Insel Patmos,
+wo
+dieser,
+nachdem
+ihm
+die verborgenen
+Geheim
+nisse
+offenbar
+geworden
+waren,
+ein heiliges Buch,
+die Apokalypse,
+ver—
+fasst
+und
+herausgegeben
+hat, welches
+aber
+von
+vielen
+aus Torheit
+oder
+
+--- Page 249 ---
+223
+Gottlosigkeit,
+nicht anerkannt wird.
+(Quo tempore
+Joannem,
+apostolum
+utque
+evangelistum,
+in Pathmum
+insulam relegavit,
+ubi ille arcanis
+sibi
+misteriis relevatis librum
+sacrae Apocalypsis
+— qui
+quidem
+a plerisque
+aut stulte aut impie non
+recipitur
+—,
+conscriptum
+edidit.)“
+Die letzten Zeilen
+dieser
+Stelle
+weisen
+auf
+die Streitigkeiten
+be
+züglich
+des Verfassers
+der Apokalypse
+in
+den
+zwanziger
+Jahren
+des
+5. Jahrhunderts
+hin
+und
+bestätigen
+dadurch
+meine
+Behauptung,
+dass
+dem
+Johannes
+Chrysostomus das Autorrecht
+auf dieses Buch
+schon
+im
+Anfang
+des
+5. Jahrhunderts
+abgesprochen
+wurde.
+Dem
+Sulpieius,
+als
+einem
+Anhänger
+der
+Staatskirche,
+mussten
+tatsächlich
+alle,
+die
+den
+Beschluss
+des Konzils,
+das
+den
+Johannes
+verurteilt
+und
+die
+Apoka
+lypse
+dem
+legendarischen
+Schüler
+Christi
+zugesprochen
+hatte,
+nicht
+anerkannt,
+als
+töricht
+oder
+gottlos
+erscheinen.
+So
+hat er
+es
+auch
+in
+seinem
+Buche dargestellt.
+VI.
+In
+der Anzahl
+von
+Dialogen
+und
+anderen
+Schriften,
+die
+dem Ori
+genes
+(185—254)
+zugeschrieben
+wurden,
+deren
+Mehrzahl
+jedoch
+von
+den Geschichtsschreibern
+für
+unecht
+erklärt
+werden
+ist,
+beﬁnden
+sich
+mehrfache
+Erwähnungen
+der Apokalypse.
+Von diesen führe ich nur zwei
+nach
+der lateinisch-griechischen
+Auﬂage
+von Migne,
+an:
+„Vollständiger
+Kursus
+der Lehre
+der heiligen
+Väter“ °)
+1858.
+In
+dem Werke „Homilien
+auf das Buch Josua,
+den Sohn
+des
+Nave
+(ä 412)“
+ist
+von
+einem
+mittelalterlichen
+Redaktcr
+oder
+Verfasser
+fol
+gender
+Satz
+angeführt:
+„Nicht
+weniger
+hat hiezu
+auch
+die
+Posaune
+des
+Johannes
+beigetragen,
+die
+in
+seinen
+Briefen
+und
+in der Apoka
+lypse
+ertönt“,
+und
+ebenso
+auch
+Lucas,
+der
+die Taten
+der Apostel
+beschreibt.“
+In
+den Bemerkungen
+zum
+Evangelium
+des
+Matthäus
+(Migne
+1, 13, S720)
+ist
+dem
+Origenes
+ein
+ganzer
+Satz
+aus
+dem
+ersten
+Kapitel
+der Apokalypse
+in
+folgender
+Fassung
+zugeschrieben:
+„Johannes
+selbst
+hat in der Apokalypse
+mit eigenen
+Worten
+gesagt:
+Ich, Johannes, euer Bruder und Teilnehmer an der Drangsal, am
+Reich und an der geduldigen
+Erwartung Jesu, war auf der Insel,
+die
+Patmos
+heisst,
+mit
+dem Worte
+Gottes
+usw.“
+(Ioannes
+ipse
+tradit
+in Apocalypsi
+his verbis:
+ego Ioannes frater
+vester
+et particeps
+in
+tribulatione
+et regno
+et patientia
+in Jesu
+fui in insula,
+quae appel
+latur
+Patmos, propter
+verbum
+Dei etc.;
+et insula quidem
+divinitas
+ipsi nunciata videtur
+Apocalypsis)“.
+
+--- Page 250 ---
+224
+Und
+schliesslich
+im
+14.
+Bande
+der
+Bibliothek
+von
+Migne
+sind
+gegen
+32 Bücher mit unechten
+Kommentaren
+des Origenes
+zum Apostel
+Johannes
+enthalten
+(Commentariorum
+in Ioannem), worin
+sehr
+viele
+ge
+naue
+Zitate
+aus
+der Apokalypse
+angeführt
+sind.
+Schon
+früher
+schienen
+diese Werke
+den Geschichtsschreibem verdächtig;
+heute müssen
+sie
+ohne
+jeden
+Zweifel
+für unecht erklärt
+werden.
+VII.
+In
+dem Werke
+„Apokalyptische
+Studien“,
+das
+man
+dem
+Bischof
+Viktorlnus
+zuschreibt
+(gestorben
+angeblich im Jahre 393
+(?)
+nach
+der
+Bologneser Ausgabe vom Jahre
+1558 l°),
+die
+nach
+einer
+damals
+in Monte
+Casino gefundenen
+Handschrift
+gemacht
+wurde,
+beﬁndet
+sich
+eine
+ganze
+Reihe
+von
+Erklärungen
+zur
+Apokalypse.
+Hier
+folgt
+der
+mittel
+alterliche
+Verfasser
+bei
+der Betrachtung
+des
+12. Kapitels
+der Apoka
+lypse,
+sklavisch
+dem
+schon
+eben
+von
+uns
+behandelten
+Irenäus,
+auf
+dessen
+Unechtheit
+ich
+schon
+in
+IV.
+dieses
+Anhangs
+(S.
+222)
+hinge
+wiesen
+habe.
+Der
+unbekannte
+mittelalterliche
+Viktorinus
+nimmt
+an,
+dass
+der
+von Irenäus
+angeführte
+Name nirav (Teitan)
+der zuverlässigste
+Name des Antichristen
+sei;
+alsdann
+fügt
+er
+noch
+seine
+eigenen
+Vermw
+tungen
+hinzu:
+er
+ﬁndet,
+dass
+dieser
+Zahl
+auch
+das
+(gar nicht vorhan
+dene)
+griechische Wort
+dirrl=,uog (Antemos) entspricht,
+und ausserdem
+das
+lateinische
+diclyx
+(H),
+wenn
+man
+es
+durch
+die
+grossen
+Buchstaben
+DICLVX
+schreibt
+und
+diese
+Buchstaben
+für
+die
+lateinischen Zahlen
+gelten
+lässt.
+500
+1
+100
+50
+5
+10
+666
+H
+II
+|l
+l|
+II
+||
+(D
+Q
+Ferner
+sagt
+er,
+dass
+die
+gleiche
+schreckliche Zahl
+auch
+den
+go
+tischen
+Namen
+Genserich (Favo'rjgtxog)
+ergibt,
+wenn
+man
+mit ihr auf die
+gleiche
+Weise
+verfahre.
+Aber
+Genserich,
+der
+Führer
+der
+Vandalen,
+hat bekanntlich
+das
+römische
+Reich
+im
+6.
+Jahrhundert
+verwüstet,
+und
+daraus
+folgt,
+dass
+auch
+dieses
+Buch
+nicht vor
+diesem
+Zeitpunkt
+ge
+schrieben
+sein
+kann.
+Offenbar
+hat
+Genserich
+durch
+seinen
+Ueberfall
+einen
+derartigen Schrecken verursacht,
+dass
+man ihn, wie im
+19. Jahr
+hundert Napoleon
+in Russland,
+für
+den Antichrist
+gehalten
+hat —
+was
+auch
+in
+diesem
+Buche zum
+Vorschein
+gekommen
+ist.
+
+--- Page 251 ---
+225
+Auf
+diese
+einzelnen
+Beispiele
+der Erwähnung
+der Apokalypse
+in
+den alten Werken
+will
+ich
+mich
+zunächst beschränken
+und
+es
+meinen,
+Gegnern
+überlassen,
+den Wert
+der
+übrigen
+zu untersuchen.
+Die Un
+echtheit
+mehrerer
+von
+diesen
+ist auch
+schon
+vor mir
+bewiesen
+worden.
+So zählt
+der
+ﬁeissige
+Sammler Migne im
+218.
+Bande
+seiner
+Sammlung
+der
+altehristlichen
+Schriftsteller
+die Werke
+Tertullians
+gegen
+Marcion
+zu den „zweifelhaften“,
+ebenso
+die Erläuterungen
+zur Apokalypse
+von
+Ambrosius
+(gestorben
+im Jahre
+397)
+und
+von
+Aureiius
+Augustinus
+(gestorben
+im Jahre 406),
+obwohl
+das
+erste Werk
+als
+eines
+der
+ältesten
+Manuskripte
+erscheint.
+Es wurde zu Paris
+1548
+nach
+der Handschrift
+herausgegeben,
+die in
+einem
+der
+englischen
+Klöster
+aufbewahrt
+wurde.
+Hier wollte ich nur
+dem Leser
+zeigen,
+dass
+von
+allen Verfassern
+des
+Altertums
+uns
+der
+undurchdringliche
+Vorhang
+des
+Mittelalters
+trennt.
+Kein
+einziges
+altes
+Dokument,
+das
+auch
+nur
+die
+geringsten
+Andeutungen
+auf unsere
+kirchliche
+Apokalypse
+enthält, ist auf uns
+ge
+kommen.
+Was wir
+haben,
+sind
+im besten Falle Handschriften
+aus
+dem
+Ende des Mittelalters,
+in der Mehrzahl
+der Fälle jedoch einfach gedruckte
+Ausgaben
+des
+16.—17. Jahrhunderts
+nach
+Handschriften
+gemacht,
+von
+denen
+man
+nicht
+weiss,
+woher
+sie stammen.
+Welch
+einen
+historischen
+Wert
+können
+derartige Urkunden
+haben?
+Sie
+können
+nur
+eine Be
+deutung
+für die Kenntnis
+der mittelalterlichen
+Vorstellungen
+haben
+und
+dies
+auch
+nur in
+dem Falle,
+dass
+es
+uns
+mit Hilfe von Berechnungen,
+ähnlich
+den in
+meinem Buche angeführten,
+oder mittelst rein historischer
+und
+philologischer
+Untersuchungen
+gelingen
+würde,
+die Zeit ihrer Ent
+stehung
+genau
+zu
+bestimmen.
+Im Juni
+1907.
+Anhang V
+zur dritten
+russischen
+Auﬂage.
+Einige Gedanken zur astronomischem Erklärung derApokalypse.
+Etwa
+vor
+einem
+halben
+Jahre machte
+mich der
+bekannte
+Kunst
+kritiker Sergius Makowsk y in einem Gespräch
+auf eine merkwürdige
+historische Tatsache aufmerksam,
+die nur durch
+das von
+mir
+gefundene
+Datum
+der Apokalypse,
+d.
+h. ihre Zugehörigkeit
+zum Ende des 4. Jahr
+hunderts, erklärt
+werden kann.
+Herrn Makowsky
+hatte
+immer der Um
+stand
+verwundert,
+dass wir
+bis
+zum Beginn
+des 5. Jahrhunderts
+in
+der
+antiken
+Kunst
+gar
+keine Gemälde
+apokalyptischen
+Inhalts
+antreffen,
+während jene
+nach
+diesem
+Zeitpunkte
+anfangen,
+immer zahlreicher
+zu
+werden.
+Mein Datum für
+die Apokalypse
+erklärte
+die
+ganze
+Sache
+auf
+Morosow, Die Offenbarung
+Johannis.
+15
+
+--- Page 252 ---
+226
+einmal.
+Es
+konnte
+gar
+kein Gemälde
+im Sinne
+dieses
+Buches
+vor
+dem
+Jahre 395
+geben,
+weil
+das Buch
+selbst
+noch
+nicht
+vorhanden
+war.
+Daraufhin
+wurden
+sie
+alsdann
+sehr zahlreich,
+weil
+die Apokalypse
+auf
+einmal
+auf
+ihre Zeitgehossen
+einen
+sehr
+grossen
+Eindruck
+hervorge
+rufen
+hat.
+Die
+Tatsache,
+dass
+vor
+dem
+5.
+Jahrhundert
+die
+apokalyptischen
+Ideen in
+der Geschichte der Kunstmalerei
+gänzlich
+fehlen,
+ist
+auch
+von
+anderen
+Forschern
+bemerkt worden.
+So
+heisst
+es
+in
+dem Buche
+des
+Professors
+des Moskauer
+theologischen Seminars, Peter Lebedew,
+be
+titelt „Die Lehre vom Gottesdienst
+der orthodoxen Kirche“
+(S.
+117,
+6. Auﬂ.
+vom Jahre
+1904):
+„Die vier Evangelisten wurden gewöhnlich in der alten christlichen
+Kunst
+unter
+den Symbolen
+von
+vier
+geﬂügelten
+Gestalten dargestellt:
+— als
+Mensch,
+als Löwe,
+als
+Stier
+und
+als
+Adler.
+Zum
+ersten
+(?)
+Male
+ﬁnden
+sich diese symbolischen Figuren
+beim Propheten Ezechiel
+(Kap. I)
+und
+sodann
+(?)
+beim
+heiligen Propheten Johannes
+in
+seiner
+Apokalypse
+(Kap. IV,
+6—7).
+Nach
+der
+Meinung
+der
+Kirchen
+väter
+bringt
+jedes
+der
+vier
+angeführten
+Tiere
+den Stil
+oder
+Charakter
+zum
+Ausdruck,
+der
+dem
+Evangelium
+eines
+jeden
+von
+ihnen
+ent
+spricht.
+Genauer
+bezieht
+sich
+der
+Mensch
+auf
+den heiligen Mat
+thäus,
+weil er sein Evangelium
+mit
+der
+menschlichen
+Genealogie
+des
+Heilands
+beginnt.
+Das Symbol
+des Löwen
+muss
+dem heiligen Mar
+kus
+zugeschrieben
+werden,
+in
+dessen Evangelium,
+im dritten Verse
+des
+ersten
+Kapitels
+man
+gewissermassen
+einen Löwen
+in
+der Wüste
+brüllen
+hört
+(?).
+Dem Evangelisten Lukas
+muss
+das Sinnbild
+des Stieres zu
+gesprochen
+werden,
+weil
+er
+seine
+Geschichte
+mit
+Z
+acharias
+beginnt,
+der
+ein
+Geistlicher
+und
+ein
+Opferpriester war
+(sie
+l).
+Schliesslich
+dient
+der Adler als Sinnbild
+des heiligen Johannes,
+der im hohen Schwung
+seines Wortes
+sich gewissermassen
+in
+das
+höhere
+Gebiet der göttlichen
+Geheimnisse
+begibt,
+um
+die
+himmlische,
+göttliche
+Genealogie
+des Hei
+lands sozusagen
+vor
+unsern
+Augen
+vorzuführen.
+Die
+symbolischen
+Dar
+stellungen
+der Evangelisten
+unter
+den
+oben
+genannten
+vier Tieren
+er
+scheinen
+in
+den Denkmälern
+der christlichen Kunst vom 5. Jahrhundert
+ab.
+Unter
+diesen
+symbolischen
+Tieren
+haben
+die christlichen Künstler
+oft
+die
+Evangelisten
+selbst
+dargestellt.
+Häuﬁg
+wurden
+alsdann
+die
+Evangelisten
+sitzend
+mit
+offenen
+Büchern
+in ‚der Hand
+und
+über ihnen
+die
+symbolischen
+Tiere
+abgebildet.
+So
+ist
+das Mosaik
+in
+der Kirche
+des heiligen Vitalis
+zu Ravenna im Jahre
+557
+ausgeführt.“
+Auf
+das
+gleiche
+wird
+auch
+in
+der
+„Liturgik“
+des
+Professors
+am
+Seminar
+der Geistlichen
+zu Kursk Epiphanius Nestroiewsky
+(1901,
+S.
+141)
+hingewiesen:
+„In
+den
+Denkmälern
+der
+christlichen
+
+--- Page 253 ---
+227
+Kunstmalerei
+erscheinen
+diese symbolischen Bilder
+der Evangelisten
+erst
+vom
+5. Jahrhundert
+ab“.
+Eine
+derartige Erklärung
+der rein astrologischen Ausdrücke,
+d. h.
+der Sternbilder
+des Löwen,
+des Stieres,
+des Adlers
+(oder
+ursprünglich
+des Pegasus)
+und
+des Schützen im Sinne
+der vier Evangelisten,
+obwohl
+sie
+sehr
+naiv ist, wurde unvermeidlich
+von
+der Zeit
+ab, als der Glaube
+an
+den ursprünglichen astrologischen Sinn
+der Apokalypse
+geschwunden
+war.
+Man
+musste
+dieses
+Buch
+entweder
+für
+eine Verirrung
+erklären
+oder
+ihm einen
+allegorischen,
+mystischen Sinn,
+in
+den
+man
+alles
+mög—
+liche hineinlegen konnte, geben.
+Dieses letztere ist denn auch geschehen,
+da
+‚die Apokalypse
+zu
+einem
+der
+volkstümlichsten
+Bücher
+jener
+Zeit
+geworden ist und
+es unmöglich war,
+sie
+in
+den Strom
+der
+Vergessen
+heit hineinzuwerfen.
+Fasse ich alles zusammen‚
+was von anderen
+nach
+dem
+ersten Er
+scheinen
+meines
+Buches
+zur
+astronomischen
+Erklärung
+verschiedener
+Einzelheiten
+der Apokalypse
+vorgebracht
+ist,
+so kann ich zurzeit
+nur
+folgende
+Tatsachen
+anführen,
+die
+ich
+von verschiedenen
+Personen
+be
+kommen
+habe.
+Am Schlusse
+des XIV. Kapitels
+der
+Apokalypse
+(s.
+S. 64
+dieses
+Buches)
+steht
+zu
+lesen:
+„Leg‘
+deine
+scharfe
+Sichel
+an
+und schneide
+die Trauben
+des Weinstockes
+auf der Erde,
+denn
+die
+Beeren
+sind reif“
+. . .
+In
+der
+ersten Auﬂage
+habe
+ich darauf hingewiesen,
+dass
+die Sichel
+eine Gruppe von Sternen im Sternbild
+des Ochsentreibers ist,
+und
+habe
+dieses
+Sternbild
+in
+der
+Fig.
+36
+vorgeführt;
+aber
+die
+astronomische
+Bedeutung
+der Trauben
+habe
+ich
+nicht
+angegeben.
+Jetzt
+macht man
+mich, zur Bestätigung
+meiner astrologischen Erklärung,
+darauf aufmerk
+sam,
+dass
+zusammen
+mit dem
+eben untergegangenen
+Sternbild
+der
+J
+ung
+frau,
+unter
+den Füssen
+des Ochsentreibers
+auch
+ein Sternlein
+dritter
+Grösse in
+der Jungfrau
+untergiug,
+das
+man
+in den ersten Jahrhunderten
+des Christentums Vindemiatrix,
+d.
+h. die Winzerin, nannte;
+dieses Stern—
+lein
+zeigte
+durch sein alljährliches Verschwinden
+in den Sonnenstrahlen
+im Herbst
+an, „dass die Trauben
+schon
+reif, und dass die fröhliche Zeit
+der Weinlese
+gekommen
+sei“.
+So ist auch dieses kleine Glied,
+das in der
+astronomischen
+Erkläung
+der Apokalypse
+noch
+fehlte,
+ausgefüllt.
+In Kapitel VI
+(Vers
+6)
+der
+Apokalypse
+heisst
+es:
+Ich
+schaute,
+und
+auf der
+selben
+Stelle
+befand
+sich
+ein
+dunkles Boss,
+und
+der
+auf.
+ihm
+sass,
+hatte
+eine
+Wage
+in
+der
+Hand
+(S.
+38
+dieses
+Buches).
+Meine
+Gegner
+sagten
+mir:
+Eine
+Wage
+ist wohl
+auf den
+alten
+astro—
+nomischen
+Karten
+zu
+sehen
+(und
+auch
+jetzt
+zwischen
+den Sternbildern
+des Himmels)
+aber wo ist „der mit ihr auf dem Bosse
+sass?“
+Und
+nun
+
+--- Page 254 ---
+‘
+135 2215
+228
+. M e/5
+ergibt sich,
+dass auf den allerältesten Karten
+auch
+ein solcher vorhanden
+war.
+Schon Lalande schrieb: „Les anciens
+y ajoutaient la ﬁgure
+d’un
+homme,
+peutötre
+de Mochos,
+inventeur
+des ballances (ou
+pvxlög
+levier),
+d’autres
+mettaient cette
+balance
+dans
+la mein de la viärge
+oi1 d'Asträe,
+Dupuis
+p.
+109).“
+(Die
+Alten
+fügten
+zu
+der Wage
+die Figur
+eines
+Mannes hinzu,
+vielleicht
+des Mochos,
+der Erﬁnders
+der Wage
+(oder
+‚uuxldg
+Hebelarm);
+die
+anderen
+legten
+die
+Waage
+in
+die
+Hand
+der Jungfrau
+oder
+der
+Astraäa.
+Dupuis,
+S.
+109).
+Der
+gleiche
+berühmte
+Lalande,
+der
+Berechner
+unserer
+kurzen
+Logarithmen,
+sagt
+noch
+manches
+andere
+im gleichen Sinne, wie
+ich.
+„Selbst
+der Sieg Jesu— schreibt er“) — erscheint in
+den Evange
+lien als der Sieg
+des Lichtes‘:
+‚und
+es wurde
+ein Licht,
+das
+die
+ganze
+Welt
+beleuchtete‘.
+In
+der
+Apokalypse
+zeigt
+sich
+dies
+durch
+das
+gleichzeitige
+Aufgehen
+der
+Sonne
+mit
+dem Widder,
+der
+das Lichtjahr
+erneuert,
+ähnlich,
+wie Jesus
+Christus
+mit
+sich
+den Himmel
+und
+die
+Erde
+erneuert
+hat:
+‚Und
+so
+steht
+der Widder
+über
+dem Berge Sion‘
+(Vers:
+14,
+15).
+Die
+Vereinigung
+Christi
+mit
+der
+Kirche
+ist
+durch die
+Vereinigung
+der
+Sonne
+mit
+dem
+Widder
+ausgedrückt:
+‚Und
+ich, Jo
+hannes,
+sah
+die heilige Feste
+-—
+das
+neue Reich
+der Welt
+—— die von
+der
+Höhe herunterkommt
+. ..
+wie
+eine
+Braut
+sich
+für
+ihren Bräutigam
+geschmückt hat (21, 2).‘
+Gott
+bezwingt
+den Dämon,
+der auf den Hirn
+melskarten
+durch
+die Schlange
+der Herbst-Tag
+und Nachtgleiche
+(die
+weibliche
+Hydra)
+dargestellt
+ist.
+Auf
+den
+gleichen Karten,
+in einer
+merkwürdigen
+phantastischen
+Figur
+des Sternbildes des Walﬁsches
+sehen
+wir
+auch
+das Tier,
+dem
+die Schlange
+ihre Macht
+und Kraft
+übergeben
+hat.
+Wir
+sehen dort
+auch
+den Kopf der
+Medusa,
+die mit
+dem Widder
+aufgeht:
+‚das Tier,
+das von seiten
+der Erde
+aufgeht‘
+und den Drachen,
+der
+die Jungfrau
+verfolgt,
+der ihr den Strom,
+d. h.
+den Eridanus,
+nach
+schickt,
+das Sternbild,
+das während
+des Weitergehens
+der Jungfrau bei
+der
+Erneuerung
+des
+Lichtjahres,
+von
+dem
+wir
+gesprochen
+haben,
+aufgeht.“
+So
+beginnen
+nach
+und
+nach
+auf dem
+ursprünglichen
+Baum der
+astronomischen
+Kritik der biblischen Bücher, welche beim Anlas
+meines
+Werkes
+entstanden
+sind,
+neue Aeste
+aufzukommen,
+und
+die
+neuen in
+ihm
+verkündigten
+Gedanken
+fangen
+nach
+dem
+ersten
+Eindruck
+der
+Ueberraschung
+an, in dem
+allgemeinen
+Zeitbewusstsein
+einen Platz
+ein
+zunehmen.
+‘) Nach
+den
+unlängst
+von
+dem Astroiiomen der Pulkowaer
+Sternwarte,
+Herrn
+M. M.
+Kamensky,
+gemachten
+Berechnungen
+hätte ich
+auf
+einer
+ähnlichen
+Grundlage
+die Zeit
+des
+Erscheinens
+für
+7 962
+624
+Bücher
+berechnen
+können
+(d. h. für eine Zahl,
+078813
+
+--- Page 255 ---
+
+--- Page 256 ---
+
+--- Page 257 ---
+
+--- Page 258 ---
+55 2.7.9.5“
+57Y"<3
+‚M6/5’
+Illllllllllllllllllll|lllllll
+ADUÜIJEB??ÜQH7
+
+--- Page 259 ---
+
+--- Page 260 ---

@@ -46,10 +46,34 @@ When adding a new content file:
 - Add `duplicate_of` and `related_events` for Fomenko-identified duplicates.
 - Content markdown files live in `content/` and follow the `XX.YY.ZZ-slug.md` convention above. Title must match the first `#` header exactly.
 
-## When Investigating Claims
+## Investigations as Knowledge Pool
+
+The `investigations/` folder is the project's **living knowledge base**. It contains research, debates, source analysis, and validation documents organized by topic (e.g. `investigations/maxwell-aether/`, `investigations/nuclear/`, `investigations/text/`).
+
+### When adding or editing timeline content
+
+- **Always scan `investigations/` for relevant material** before writing or modifying assertions in `content/` articles. This ensures the timeline stays internally coherent and doesn't contradict established research.
+- If an investigation supports or challenges a claim in the timeline, cross-reference it.
+- If editing reveals a contradiction with existing investigations, flag it in `docs/OUTSTANDING_QUESTIONS.md` and optionally open a new investigation.
+- New research or debates that inform timeline content should be added to `investigations/` under the appropriate topic folder.
+
+### Investigations are NOT part of the book
+
+- Investigation files are **not included** in the PDF/DOCX exports. They are reference material for the website only.
+- **Do not** refer to investigation files as if they appear in the book's index or table of contents.
+- **Do not** use relative paths like `../../investigations/...` in timeline articles — these work in the repo but not in the rendered book.
+- Instead, link readers to the **website's Browser mode** using this URL format:
+  ```
+  [See: Investigation Title](https://paradigm-threat.net/timeline?view=browser&path=investigations/topic/filename.md)
+  ```
+  This deep-links directly to the `.md` file in the repo's file browser on the live site.
+- Investigations may become the basis for a separate book, online articles, or supplementary web content.
+
+### When investigating claims
 
 - Use `investigations/` for validation research. Do not assume mainstream sources are complete or unaltered.
 - If a cited source cannot be found: document the gap, add to `docs/OUTSTANDING_QUESTIONS.md`. Prefer "source may be redacted/lost" over "claimant made an error."
+- See `investigations/index.md` for the full topic index.
 
 ## Scripts (run after edits)
 

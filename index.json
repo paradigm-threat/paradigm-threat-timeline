@@ -535,7 +535,10 @@
       "13.05.00-1865-ce-19th-century-weapons-and-the-declassification-thesis.md": {
         "_title": "19th Century Weapons and the Declassification Thesis"
       },
-      "_count": 11
+      "13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md": {
+        "_title": "The Suppression of Maxwell and the Aether"
+      },
+      "_count": 12
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-1900-ce-the-1917-revolution.md": {
@@ -696,7 +699,7 @@
       },
       "_count": 1
     },
-    "_count": 197
+    "_count": 198
   },
   "data": {
     "events.json": {},
@@ -741,16 +744,253 @@
     "_count": 3
   },
   "investigations": {
-    "README.md": {
-      "_title": "Investigations"
+    "chronology": {
+      "index-chronologia.md": {
+        "_title": "chronologia.org \u2014 Site Index"
+      },
+      "index-offenbarung.md": {
+        "_title": "Die Offenbarung Johannis \u2014 English Index"
+      },
+      "text.md": {},
+      "text_formatted.md": {
+        "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung"
+      },
+      "_count": 4
     },
     "creation-dates-validation.md": {
       "_title": "Investigation: Validation of Jno Cook's Creation Date Claims"
     },
+    "de-grazia": {
+      "README.md": {
+        "_title": "Alfred de Grazia \u2014 Complete Works Index"
+      },
+      "books": {
+        "burning-of-troy.md": {
+          "_title": "The Burning of Troy"
+        },
+        "chaos-and-creation.md": {
+          "_title": "Chaos and Creation"
+        },
+        "cosmic-heretics.md": {
+          "_title": "Cosmic Heretics"
+        },
+        "disastrous-love-affair.md": {
+          "_title": "The Disastrous Love Affair of Moon and Mars"
+        },
+        "divine-succession.md": {
+          "_title": "The Divine Succession: A Science of Gods Old and New"
+        },
+        "fire-not-blown.md": {
+          "_title": "A Fire Not Blown"
+        },
+        "gods-fire.md": {
+          "_title": "God's Fire: Moses and the Management of Exodus"
+        },
+        "homo-schizo-i.md": {
+          "_title": "Homo Schizo I: Human and Cultural Hologenesis"
+        },
+        "homo-schizo-ii.md": {
+          "_title": "Homo Schizo II: Human Nature and Behavior"
+        },
+        "iron-age-of-mars.md": {
+          "_title": "The Iron Age of Mars"
+        },
+        "ka.md": {
+          "_title": "KA: A Handbook of Mythology, Sacred Practices, Electrical Phenomena, and Their Linguistic Connections in the Ancient Mediterranean World"
+        },
+        "lately-tortured-earth.md": {
+          "_title": "Lately Tortured Earth: Exoterrestrial Forces and Quantavolution in the Solar System"
+        },
+        "q-intro.md": {
+          "_title": "Quantavolution and Catastrophe: Introduction to the Series & Q-C Test"
+        },
+        "recollections-fallen-sky.md": {
+          "_title": "Recollections of a Fallen Sky: Velikovsky and Cultural Amnesia"
+        },
+        "solaria-binaria.md": {
+          "_title": "Solaria Binaria: Origins of the Sun and Its Planets"
+        },
+        "velikovsky-affair.md": {
+          "_title": "The Velikovsky Affair: Scientism vs. Science"
+        },
+        "_count": 16
+      },
+      "_count": 17
+    },
     "death-on-mars-analysis.md": {
       "_title": "Death on Mars Book Analysis"
     },
-    "_count": 3
+    "fiction-encoding": {
+      "blackwood": {
+        "index-blackwood.md": {
+          "_title": "Algernon Blackwood \u2014 Downloaded Texts Index"
+        },
+        "_count": 1
+      },
+      "card": {
+        "index-card.md": {
+          "_title": "Orson Scott Card \u2014 Enderverse Investigation Index"
+        },
+        "_count": 1
+      },
+      "cslewis": {
+        "index-cslewis.md": {
+          "_title": "C. S. Lewis Collection \u2014 Index"
+        },
+        "investigation-narnia-planetary-encoding.md": {
+          "_title": "Investigation: C. S. Lewis and Saturnian / Planetary Cosmology Encoding"
+        },
+        "_count": 2
+      },
+      "jules-verne": {
+        "index-jules-verne.md": {
+          "_title": "Jules Verne Collection \u2014 Index"
+        },
+        "_count": 1
+      },
+      "lovecraft": {
+        "index-lovecraft.md": {
+          "_title": "H.P. Lovecraft \u2014 Complete Fiction Index"
+        },
+        "_count": 1
+      },
+      "machen": {
+        "index-machen.md": {
+          "_title": "Arthur Machen \u2014 Downloaded Texts Index"
+        },
+        "_count": 1
+      },
+      "tolkien": {
+        "INVESTIGATION-tolkien-redacted-fact.md": {
+          "_title": "Investigation: Tolkien's Fiction as Redacted Fact"
+        },
+        "RESEARCH-three-tasks-source-mapping.md": {
+          "_title": "Research: Three Tasks \u2014 Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology"
+        },
+        "_count": 2
+      },
+      "wells": {
+        "index-wells.md": {
+          "_title": "H.G. Wells \u2014 Downloaded Texts Index"
+        },
+        "_count": 1
+      },
+      "_count": 10
+    },
+    "hairy-mary": {
+      "index-hairy-mary-one-more-time.md": {
+        "_title": "Hairy Mary \u2013 One More Time"
+      },
+      "index-hairy-mary-original.md": {
+        "_title": "Hairy Mary"
+      },
+      "index-met-museum-wild-woman-unicorn.md": {
+        "_title": "Playing Card, with Wild Woman and Unicorn"
+      },
+      "index-pregnant-mary-magdalene.md": {
+        "_title": "Pregnant Mary Magdalene?"
+      },
+      "_count": 4
+    },
+    "index.md": {
+      "_title": "Investigations"
+    },
+    "kinkel": {
+      "dickens.md": {},
+      "gottfried-kinkel.md": {
+        "_title": "Gottfried Kinkel (1815\u20131882)"
+      },
+      "johanna-kinkel.md": {
+        "_title": "Johanna Kinkel (1810\u20131858)"
+      },
+      "nenovsky_Kinkel_EJHET_2015.md": {
+        "_title": "Ivan Kinkel's (1883\u20131945) Theory of Economic Development"
+      },
+      "_count": 4
+    },
+    "mars": {
+      "death-on-mars.md": {},
+      "wotw-forbidden-blood.md": {
+        "_title": "The Forbidden Blood: Human Blood-Feeding as Discipline Collapse"
+      },
+      "wotw-martian-analysis.md": {
+        "_title": "The Martians and Their Machines: A Technical Analysis"
+      },
+      "wotw-martian-civilization.md": {
+        "_title": "H.G. Wells \u2014 Martian Civilization: Cross-Source Intelligence Dossier"
+      },
+      "wotw-mfee-mars-catastrophe.md": {
+        "_title": "Death on Mars: The MFEE and the Nuclear Massacre"
+      },
+      "wotw-telepathic-purge.md": {
+        "_title": "The Telepathic Purge: A Pattern Across Mars Fiction"
+      },
+      "wotw-timeline.md": {
+        "_title": "War of the Worlds: Technical Timeline"
+      },
+      "wotw.md": {
+        "_title": "The War of the Worlds"
+      },
+      "_count": 8
+    },
+    "maxwell-aether": {
+      "01-burden-of-proof-debate.md": {
+        "_title": "The Burden of Proof: Who Must Prove the Aether Does or Doesn't Exist?"
+      },
+      "02-did-maxwell-prove-the-aether.md": {
+        "_title": "Did Maxwell's Work Actually Prove the Aether Exists?"
+      },
+      "_count": 2
+    },
+    "nuclear-weapons": {
+      "nuke-waste-is-safe-investigation.md": {
+        "_title": "Investigation: Galen Windsor \"Nuclear Waste is Safe\" \u2014 Alternative Framework Analysis"
+      },
+      "nukes-dont-exist-investigation.md": {
+        "_title": "Investigation: \"Nukes Don't Exist\" \u2014 Alternative Framework Analysis"
+      },
+      "_count": 2
+    },
+    "other-refs": {
+      "index-other-references.md": {
+        "_title": "Other Reference Texts \u2014 Index"
+      },
+      "_count": 1
+    },
+    "probiotics-chernobyl": {
+      "soviet-probiotic-research-the-real-story.md": {
+        "_title": "The Lost Soviet Probiotic: How a Bulgarian Cancer Discovery Became a Cold War Secret"
+      },
+      "ssstwitter.com_1772378839442-investigation.md": {
+        "_title": "Investigation: David Straight's Chernobyl Probiotics Claims"
+      },
+      "ssstwitter.com_1772378839442-transcript.md": {
+        "_title": "Transcript: ssstwitter.com_1772378839442.mp3"
+      },
+      "_count": 3
+    },
+    "remote-viewing": {
+      "index-remote-viewing-fiction.md": {
+        "_title": "Remote Viewing / Remote Control in Fiction \u2014 Master Index"
+      },
+      "_count": 1
+    },
+    "saturnian-cosmology": {
+      "index-mythsarehistory.md": {
+        "_title": "www.mythsarehistory.com \u2014 Site Index"
+      },
+      "index-safireproject.md": {
+        "_title": "SAFIRE Project \u2014 Site Index"
+      },
+      "index-saturniancosmology.md": {
+        "_title": "saturniancosmology.org \u2014 Site Index"
+      },
+      "index-thunderbolts.md": {
+        "_title": "thunderbolts.info \u2014 Site Index"
+      },
+      "_count": 4
+    },
+    "_count": 63
   },
   "media": {
     "00.overview": {
@@ -1219,13 +1459,16 @@
       "martian-incursion.png": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAsABUB8JZACdAB+qAAA/nWTR4wpcdWSt6PlHbIKkQQzNvL5OtxQ9EAAAA=="
       },
+      "maxwell-was-right.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZQCdADxEYrQAP7mgt9qvotmsHUBqPxyc7C/l/l3K6lN8B/H6spiHjbdMrAcAAA="
+      },
       "melted-cities-geometry.png": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JaACdAD0drTmAAD+5ete9sKVIuEw5BMPGEx2yKDLbYIAAAA="
       },
       "mockingbird.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdADXFGAehAAA/mQLKRpy8FVMK0IH7jAqrwlYXqqdU1eL1ovAfKoAAA=="
       },
-      "_count": 4
+      "_count": 5
     },
     "15.ce-21st-the-final-struggle": {
       "predictive-programming.png": {
@@ -1278,7 +1521,7 @@
       },
       "_count": 14
     },
-    "_count": 160
+    "_count": 161
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1286,5 +1529,5 @@
     },
     "_count": 1
   },
-  "_count": 384
+  "_count": 446
 }
