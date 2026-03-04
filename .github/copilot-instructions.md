@@ -52,6 +52,7 @@ The `investigations/` folder is the project's **living knowledge base**. It cont
 
 ### When adding or editing timeline content
 
+- **Consult `docs/CONTENT_STRATEGY.md`** for writing style, content placement, and contradiction handling.
 - **Always scan `investigations/` for relevant material** before writing or modifying assertions in `content/` articles. This ensures the timeline stays internally coherent and doesn't contradict established research.
 - If an investigation supports or challenges a claim in the timeline, cross-reference it.
 - If editing reveals a contradiction with existing investigations, flag it in `docs/OUTSTANDING_QUESTIONS.md` and optionally open a new investigation.
@@ -192,6 +193,8 @@ This ensures links work on the live site regardless of how the repo is hosted.
 - `data/timeline-schema.json` — schema
 - `content/` — article markdown files in chapter subfolders (`content/<chapter>/XX.YY.ZZ-slug.md`)
 - `investigations/` — validation research
+- `docs/INVESTIGATIVE_STRATEGY.md` — evidence, consensus, burden of proof; investigate from scratch; predictive programming as data; **when unsure, ask for interpretation**
+- `docs/CONTENT_STRATEGY.md` — writing style, pacing, placement, contradictions, rescan schedule; **consult before content edits; never implement strategy changes without approval**
 - `docs/AGENT_INSTRUCTIONS.md` — detailed agent guide
 - `docs/PRINT_GOALS.md` — print specs and page budget
 - `docs/CONTENT_REDUCTION_TRACKER.md` — tracks progress toward ≤ 400 page target

@@ -44,9 +44,17 @@ When adding or updating events, attempt to calculate or research dates for:
 - Add `related_events` for linked or parallel events across chronologies.
 - Use `note` in dates to explain shifts (e.g. "Fomenko: same as evt-1185-crucifixion, 1053-year phantom").
 
+## Content Strategy
+
+- `docs/CONTENT_STRATEGY.md` defines writing style alignment, pacing, content placement, contradictions handling, and rescan requirements. Consult it when editing content, proposing new articles, or resolving conflicts. **Never implement strategy recommendations without user approval.**
+
+## Investigative Strategy
+
+- `docs/INVESTIGATIVE_STRATEGY.md` defines how we treat evidence and consensus. Investigate from scratch; do not rule out possibilities due to "scientific consensus" or "lack of evidence" alone. Predictive programming and media patterns count as data. Burden of proof for overturning long-standing belief lies on the new scientists. When unsure, ask the user for interpretation.
+
 ## Investigations
 
-- `investigations/` holds research to validate or trace claims. See `investigations/README.md`.
+- `investigations/` holds research to validate or trace claims. See `investigations/index.md`.
 - When a source cannot be found online or in mainstream refs: assume redaction or gatekeeping before assuming error. Document the gap and add to `docs/OUTSTANDING_QUESTIONS.md`.
 - Add speculative conclusions to `docs/CONCLUSIONS.md` when evidence supports them; mark confidence level.
 

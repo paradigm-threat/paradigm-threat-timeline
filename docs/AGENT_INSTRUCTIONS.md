@@ -6,6 +6,8 @@ paradigm-threat-timeline is a standalone project. It does NOT reference paradigm
 
 **Guiding principles:** Victors write the history. Mass-redaction may have occurred after world wars, plagues, or regime changes. Add all relevant dates; attempt alternate dates for each chronology system. Absence of a source does not mean it never existed.
 
+**Investigative strategy:** See `docs/INVESTIGATIVE_STRATEGY.md`. We treat every possibility as open from scratch; do not rule out claims due to "scientific consensus" or "lack of evidence" alone. Predictive programming and media patterns are data. When an old belief was the default (e.g. aether), the burden of proof is on the new scientists. When unsure, ask for interpretation.
+
 ## Content File Numbering Convention
 
 All articles live in `content/` and use the filename format `XX.YY.ZZ-slug.md`.
@@ -135,6 +137,17 @@ The `investigations/` folder is the project's **living knowledge base** — orga
 
 - Use `investigations/` for source validation (e.g. tracing creation dates, verifying claims).
 - When a cited source cannot be found online or in mainstream refs: assume redaction or gatekeeping before assuming error. Document the gap.
+
+## Content Strategy
+
+See `docs/CONTENT_STRATEGY.md` for:
+- Writing style alignment (voice, thesis blocks, cross-references)
+- Pacing and organization recommendations
+- Contradiction handling and OUTSTANDING_QUESTIONS workflow
+- Content placement rules (canonical article + references + appendix)
+- Periodic rescan checklist and triggers
+
+**Never implement strategy recommendations without user approval.**
 
 ## Updating OUTSTANDING_QUESTIONS.md
 

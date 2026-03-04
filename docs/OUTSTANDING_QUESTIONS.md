@@ -4,16 +4,17 @@ Unresolved questions, contradictions, and clarifications needed for the Alternat
 
 ## Unresolved Questions
 
-- **Phantom time boundaries**: Illig's Phantom Time (297 years, ~AD 614–911) vs Fomenko's ~1053-year shift. How do these interact? Which fabrication applies where?
-- **Carbon-14 spike 774 CE**: Tree rings date to 774 CE; alternate interpretation places it at 1063 B.C.E. or 1774. Which dating system should the timeline display?
+- **Phantom time boundaries**: Illig's Phantom Time (297 years, ~AD 614–911) vs Fomenko's ~1053-year shift. How do these interact? Are they nested (Illig subset of Fomenko) or overlapping? Which fabrication applies where? (See also investigations/chronology/illig-fomenko-boundary.md.)
+- **Carbon-14 spike 774 CE**: Tree rings date to 774 CE; alternate interpretations place it at 1063 B.C.E. or 1774. Present all three in timeline where relevant; which dating system dominates display remains unresolved.
 - **Creation dates**: Multiple conflicting creation dates (5969–3491 B.C.). How to present these without implying a single "correct" one?
-- **Requerimiento 1513**: Possibly pushed back ~150 years by historic redactors. Need source verification.
-- **Joan of Arc naming**: "Maid of Orleans" called "Joan of Arc" only from second half of 16th century. What was she called before?
+- **Requerimiento 1513**: Possibly pushed back ~150 years by historic redactors. Need source verification. (Investigation: investigations/requerimiento-dating.md.)
+- **Joan of Arc naming**: "Maid of Orleans" called "Joan of Arc" only from second half of 16th century. What was she called before? (Investigation: investigations/joan-of-arc/naming-history.md.)
+- **Year Zero source gap**: Dionysius Exiguus (AD 532) and Bede (~AD 731) do not explain why Year Zero was chosen other than Incarnation. Theological justification may mask forgotten astronomical rationale. Unverified.
 
 ## Contradictions
 
 - **Scaligerian vs Fomenko**: Mainstream history places Christ ~4 BC in Palestine; Fomenko places Christ 1152 AD in Crimea. Timeline must display both.
-- **Rus-Horde breakup**: Fomenko says 1775; Scaligerian history has different narrative. Correlate or separate?
+- **Rus-Horde breakup**: Fomenko says 1775; Scaligerian history has different narrative. Correlate or separate? Relevant articles should cross-reference both; do not collapse into single narrative until resolved.
 - **Trojan War = Crusades**: Fomenko claims these are the same event. Need duplicate linking.
 - **Exodus 1492 B.C.E. vs 1492 C.E. Apocalypse Crusade**: Same date, different epochs. Intentional mirroring?
 

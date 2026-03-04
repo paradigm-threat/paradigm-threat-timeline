@@ -571,7 +571,10 @@
       "14.07.00-1938-ce-nuclear-energy-and-the-bomb.md": {
         "_title": "Nuclear Energy and the \"Bomb\": The Most Expensive Way to Boil Water"
       },
-      "_count": 9
+      "14.08.00-1946-ce-weather-control.md": {
+        "_title": "Weather Control: From Martian Beams to HAARP"
+      },
+      "_count": 10
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-the-final-struggle.md": {
@@ -580,19 +583,25 @@
       "15.01.00-1890-ce-20th-century-predictive-programming-literature.md": {
         "_title": "20th Century Predictive Programming: Literature as Historical Erasure"
       },
-      "15.02.00-ce-controlled-opposition-managed-disclosure.md": {
-        "_title": "Controlled Opposition: Managed Disclosure and Gatekeeping"
-      },
-      "15.03.00-censorship-and-book-burning.md": {
+      "15.02.00-censorship-and-book-burning.md": {
         "_title": "Censorship and Book Burning: From Alexandria to the Internet"
       },
-      "15.04.00-historical-antibodies.md": {
+      "15.03.00-historical-antibodies.md": {
         "_title": "Historical Antibodies: Independent Agents Against Erasure"
       },
-      "15.05.00-false-flags-the-architecture-of-manufactured-war.md": {
+      "15.04.00-false-flags-the-architecture-of-manufactured-war.md": {
         "_title": "False Flags: The Architecture of Manufactured War"
       },
-      "_count": 6
+      "15.05.00-2009-ce-cern-lhc-and-the-portal.md": {
+        "_title": "2009 CE: CERN's LHC and the Portal \u2014 Aether Manipulation in the Open"
+      },
+      "15.06.00-ce-controlled-opposition-managed-disclosure.md": {
+        "_title": "Controlled Opposition: Managed Disclosure and Gatekeeping"
+      },
+      "15.06.01-1880-ce-mars-literature-as-reclassified-nonfiction.md": {
+        "_title": "Mars Literature as Reclassified Nonfiction"
+      },
+      "_count": 8
     },
     "16.appendix": {
       "16.00.00-appendix.md": {
@@ -616,85 +625,91 @@
       "16.06.00-historical-antibodies-profiles.md": {
         "_title": "Historical Antibodies: Detailed Profiles"
       },
-      "16.07.00-author-profiles.md": {
-        "_title": "Author Profiles"
-      },
-      "16.07.01-n-a-morozov.md": {
-        "_title": "N. A. Morozov"
-      },
-      "16.07.02-wal-thornhill.md": {
-        "_title": "Wal Thornhill"
-      },
-      "16.07.03-ralph-juergens.md": {
-        "_title": "Ralph Juergens"
-      },
-      "16.07.04-immanuel-velikovsky.md": {
-        "_title": "Immanuel Velikovsky (1895\u20131979)"
-      },
-      "16.07.05-anatoly-fomenko.md": {
-        "_title": "Anatoly Fomenko (b. 1945)"
-      },
-      "16.07.06-david-talbott.md": {
-        "_title": "David Talbott (b. 1942)"
-      },
-      "16.07.07-anthony-peratt.md": {
-        "_title": "Anthony Peratt (b. 1940)"
-      },
-      "16.07.08-jno-cook.md": {
-        "_title": "Jno Cook"
-      },
-      "16.07.09-alfred-de-grazia.md": {
-        "_title": "Alfred de Grazia (1919\u20132014)"
-      },
-      "16.07.10-donald-scott.md": {
-        "_title": "Donald Scott"
-      },
-      "16.07.11-ev-cochrane.md": {
-        "_title": "Ev Cochrane (b. 1952)"
-      },
-      "16.07.12-de-santillana-von-dechend.md": {
-        "_title": "Giorgio de Santillana & Hertha von Dechend"
-      },
-      "16.07.13-heribert-illig.md": {
-        "_title": "Heribert Illig (b. 1947)"
-      },
-      "16.07.14-gunnar-heinsohn.md": {
-        "_title": "Gunnar Heinsohn (b. 1943)"
-      },
-      "16.07.15-dwardu-cardona.md": {
-        "_title": "Dwardu Cardona (1937\u20132018)"
-      },
-      "16.07.16-clube-napier.md": {
-        "_title": "Victor Clube & Bill Napier"
-      },
-      "16.07.17-livio-stecchini.md": {
-        "_title": "Livio Stecchini (1913\u20131979)"
-      },
-      "16.07.18-rose-vaughan.md": {
-        "_title": "Lynn Rose & Raymond Vaughan"
-      },
-      "16.07.19-tom-van-flandern.md": {
-        "_title": "Tom Van Flandern (1940\u20132009)"
-      },
-      "16.07.20-martinus-van-der-sluijs.md": {
-        "_title": "Martinus van der Sluijs"
-      },
-      "16.07.21-charles-ginenthal.md": {
-        "_title": "Charles Ginenthal"
-      },
-      "16.07.22-robert-schoch.md": {
-        "_title": "Robert Schoch (b. 1959)"
-      },
-      "16.07.23-graham-hancock.md": {
-        "_title": "Graham Hancock (b. 1950)"
-      },
-      "16.07.24-michael-cremo.md": {
-        "_title": "Michael Cremo (b. 1948)"
-      },
-      "16.08.00-false-flags-investigation.md": {
+      "16.07.00-false-flags-investigation.md": {
         "_title": "False Flags Investigation: Evidence Dossier"
       },
-      "_count": 33
+      "16.08.00-author-profiles.md": {
+        "_title": "Author Profiles"
+      },
+      "16.08.01-n-a-morozov.md": {
+        "_title": "N. A. Morozov"
+      },
+      "16.08.02-wal-thornhill.md": {
+        "_title": "Wal Thornhill"
+      },
+      "16.08.03-ralph-juergens.md": {
+        "_title": "Ralph Juergens"
+      },
+      "16.08.04-immanuel-velikovsky.md": {
+        "_title": "Immanuel Velikovsky (1895\u20131979)"
+      },
+      "16.08.05-anatoly-fomenko.md": {
+        "_title": "Anatoly Fomenko (b. 1945)"
+      },
+      "16.08.06-david-talbott.md": {
+        "_title": "David Talbott (b. 1942)"
+      },
+      "16.08.07-anthony-peratt.md": {
+        "_title": "Anthony Peratt (b. 1940)"
+      },
+      "16.08.08-jno-cook.md": {
+        "_title": "Jno Cook"
+      },
+      "16.08.09-alfred-de-grazia.md": {
+        "_title": "Alfred de Grazia (1919\u20132014)"
+      },
+      "16.08.10-donald-scott.md": {
+        "_title": "Donald Scott"
+      },
+      "16.08.11-ev-cochrane.md": {
+        "_title": "Ev Cochrane (b. 1952)"
+      },
+      "16.08.12-de-santillana-von-dechend.md": {
+        "_title": "Giorgio de Santillana & Hertha von Dechend"
+      },
+      "16.08.13-heribert-illig.md": {
+        "_title": "Heribert Illig (b. 1947)"
+      },
+      "16.08.14-gunnar-heinsohn.md": {
+        "_title": "Gunnar Heinsohn (b. 1943)"
+      },
+      "16.08.15-dwardu-cardona.md": {
+        "_title": "Dwardu Cardona (1937\u20132018)"
+      },
+      "16.08.16-clube-napier.md": {
+        "_title": "Victor Clube & Bill Napier"
+      },
+      "16.08.17-livio-stecchini.md": {
+        "_title": "Livio Stecchini (1913\u20131979)"
+      },
+      "16.08.18-rose-vaughan.md": {
+        "_title": "Lynn Rose & Raymond Vaughan"
+      },
+      "16.08.19-tom-van-flandern.md": {
+        "_title": "Tom Van Flandern (1940\u20132009)"
+      },
+      "16.08.20-martinus-van-der-sluijs.md": {
+        "_title": "Martinus van der Sluijs"
+      },
+      "16.08.21-charles-ginenthal.md": {
+        "_title": "Charles Ginenthal"
+      },
+      "16.08.22-robert-schoch.md": {
+        "_title": "Robert Schoch (b. 1959)"
+      },
+      "16.08.23-graham-hancock.md": {
+        "_title": "Graham Hancock (b. 1950)"
+      },
+      "16.08.24-michael-cremo.md": {
+        "_title": "Michael Cremo (b. 1948)"
+      },
+      "16.09.00-suppressed-energy-technology-cross-reference.md": {
+        "_title": "Suppressed Energy Technology: A Cross-Reference"
+      },
+      "16.10.00-mars-literature-author-profiles.md": {
+        "_title": "Mars Literature: Author Profiles and Evidence"
+      },
+      "_count": 35
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -702,7 +717,7 @@
       },
       "_count": 1
     },
-    "_count": 198
+    "_count": 203
   },
   "data": {
     "events.json": {},
@@ -722,8 +737,14 @@
     "CONTENT_REDUCTION_TRACKER.md": {
       "_title": "Content Reduction Tracker"
     },
+    "CONTENT_STRATEGY.md": {
+      "_title": "Content Strategy: Paradigm Threat Timeline"
+    },
     "IMAGE_GENERATION_PROMPT.md": {
       "_title": "Image Generation Prompt Template"
+    },
+    "INVESTIGATIVE_STRATEGY.md": {
+      "_title": "Investigative Strategy"
     },
     "OUTSTANDING_QUESTIONS.md": {
       "_title": "Outstanding Questions"
@@ -734,7 +755,10 @@
     "RESTRUCTURE_PLAN.md": {
       "_title": "Restructure Plan: Unified Decimal-Numbered Content Folder"
     },
-    "_count": 8
+    "STRATEGY_RESCAN_LOG.md": {
+      "_title": "Strategy Rescan Log"
+    },
+    "_count": 11
   },
   "export": {
     "timeline.pdf": {},
@@ -747,18 +771,45 @@
     "_count": 3
   },
   "investigations": {
+    "asimov": {
+      "01-biography-and-context.md": {
+        "_title": "Isaac Asimov: Biography and Context"
+      },
+      "02-bibliography-and-major-works.md": {
+        "_title": "Isaac Asimov: Bibliography and Major Works"
+      },
+      "03-themes-for-timeline-study.md": {
+        "_title": "Isaac Asimov: Themes for Timeline Study"
+      },
+      "index.md": {
+        "_title": "Isaac Asimov \u2014 Investigation"
+      },
+      "_count": 4
+    },
+    "cern-portal": {
+      "index.md": {
+        "_title": "CERN and Portal Technology \u2014 Investigation"
+      },
+      "_count": 1
+    },
     "chronology": {
+      "illig-fomenko-boundary.md": {
+        "_title": "Illig vs Fomenko Phantom Time Boundary \u2014 Investigation"
+      },
       "index-chronologia.md": {
         "_title": "chronologia.org \u2014 Site Index"
       },
       "index-offenbarung.md": {
         "_title": "Die Offenbarung Johannis \u2014 English Index"
       },
+      "indigenous-creation-dates.md": {
+        "_title": "Indigenous Creation Chronologies \u2014 Investigation"
+      },
       "text.md": {},
       "text_formatted.md": {
         "_title": "Die Offenbarung Johannis \u2014 Eine astronomisch-historische Untersuchung"
       },
-      "_count": 4
+      "_count": 6
     },
     "creation-dates-validation.md": {
       "_title": "Investigation: Validation of Jno Cook's Creation Date Claims"
@@ -895,8 +946,20 @@
       },
       "_count": 4
     },
+    "havana-syndrome": {
+      "havana-syndrome-investigation.md": {
+        "_title": "Investigation: Havana Syndrome \u2014 Gaslighting the Public on Directed Energy Weapons"
+      },
+      "_count": 1
+    },
     "index.md": {
       "_title": "Investigations"
+    },
+    "joan-of-arc": {
+      "naming-history.md": {
+        "_title": "Joan of Arc Naming History \u2014 Investigation"
+      },
+      "_count": 1
     },
     "kinkel": {
       "dickens.md": {},
@@ -913,6 +976,9 @@
     },
     "mars": {
       "death-on-mars.md": {},
+      "mars-fiction-survey.md": {
+        "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)"
+      },
       "wotw-forbidden-blood.md": {
         "_title": "The Forbidden Blood: Human Blood-Feeding as Discipline Collapse"
       },
@@ -934,7 +1000,7 @@
       "wotw.md": {
         "_title": "The War of the Worlds"
       },
-      "_count": 8
+      "_count": 9
     },
     "maxwell-aether": {
       "01-burden-of-proof-debate.md": {
@@ -943,7 +1009,13 @@
       "02-did-maxwell-prove-the-aether.md": {
         "_title": "Did Maxwell's Work Actually Prove the Aether Exists?"
       },
-      "_count": 2
+      "03-dayton-miller.md": {
+        "_title": "Dayton Miller Interferometry \u2014 Investigation"
+      },
+      "04-steinmetz-heaviside-sources.md": {
+        "_title": "Steinmetz and Heaviside Primary Sources \u2014 Verification"
+      },
+      "_count": 4
     },
     "nuclear-weapons": {
       "nuke-waste-is-safe-investigation.md": {
@@ -973,10 +1045,16 @@
       "_count": 3
     },
     "remote-viewing": {
+      "aether-consciousness.md": {
+        "_title": "Remote Viewing as Aether Physics \u2014 Investigation"
+      },
       "index-remote-viewing-fiction.md": {
         "_title": "Remote Viewing / Remote Control in Fiction \u2014 Master Index"
       },
-      "_count": 1
+      "_count": 2
+    },
+    "requerimiento-dating.md": {
+      "_title": "Requerimiento 1513 Dating \u2014 Investigation"
     },
     "saturnian-cosmology": {
       "index-mythsarehistory.md": {
@@ -993,7 +1071,16 @@
       },
       "_count": 4
     },
-    "_count": 63
+    "thunderbolts-forum-archives.md": {
+      "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
+    },
+    "weather-modification": {
+      "weather-modification-investigation.md": {
+        "_title": "Investigation: Weather Modification \u2014 From Cloud Seeding to Ionospheric Heaters"
+      },
+      "_count": 1
+    },
+    "_count": 79
   },
   "media": {
     "00.overview": {
@@ -1453,7 +1540,10 @@
       "marx-vs-kinkel.png": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JagCdACDil0AAP6HVZFGyWVErV3mn+RBJnuUMPSUF2NnXeTE6z7bBVxMuzbtUuAAAA=="
       },
-      "_count": 5
+      "maxwell-was-right.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JYwCdADpnmAAAAD+0eLMh43r11pzF0A0J2h1gUIxUqbck/V+fdrZQ5YBoAAA"
+      },
+      "_count": 6
     },
     "14.ce-20th-the-1917-revolution": {
       "chestnut-blight.png": {
@@ -1462,16 +1552,13 @@
       "martian-incursion.png": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAsABUB8JZACdAB+qAAA/nWTR4wpcdWSt6PlHbIKkQQzNvL5OtxQ9EAAAA=="
       },
-      "maxwell-was-right.png": {
-        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZQCdADxEYrQAP7mgt9qvotmsHUBqPxyc7C/l/l3K6lN8B/H6spiHjbdMrAcAAA="
-      },
       "melted-cities-geometry.png": {
         "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JaACdAD0drTmAAD+5ete9sKVIuEw5BMPGEx2yKDLbYIAAAA="
       },
       "mockingbird.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdADXFGAehAAA/mQLKRpy8FVMK0IH7jAqrwlYXqqdU1eL1ovAfKoAAA=="
       },
-      "_count": 5
+      "_count": 4
     },
     "15.ce-21st-the-final-struggle": {
       "predictive-programming.png": {
@@ -1532,5 +1619,5 @@
     },
     "_count": 1
   },
-  "_count": 447
+  "_count": 471
 }

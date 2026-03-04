@@ -74,7 +74,6 @@ The project's living knowledge base has been reorganized into a proper directory
 
 **13.06.00** — In 1865, James Clerk Maxwell published equations that power every electrical device on Earth. His original 20 quaternion equations explicitly required a luminiferous medium — the aether. After his death, Oliver Heaviside reduced them to 4 vector equations, stripping the aether terms. This article traces the suppression from Heaviside through the Michelson-Morley experiment to Einstein's relativity.
 
-![Maxwell's equations were rewritten after his death — the aether terms removed](/media/14.ce-20th-the-1917-revolution/maxwell-was-right.png)
 
 ### 19th Century Weapons & the Declassification Thesis (Ch13)
 

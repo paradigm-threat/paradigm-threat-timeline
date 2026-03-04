@@ -6,7 +6,7 @@
 
 ## Background
 
-This debate began with a discussion of Uncle's claims about James Clerk Maxwell and the luminiferous aether, and evolved into a deeper epistemological argument about where the burden of proof lies when a millennia-old consensus is overturned by a small group of scientists operating within institutions that subsequently adopted extensive secrecy.
+This debate began with a discussion of my uncle's claims about James Clerk Maxwell and the luminiferous aether, and evolved into a deeper epistemological argument about where the burden of proof lies when a millennia-old consensus is overturned by a small group of scientists operating within institutions that subsequently adopted extensive secrecy.
 
 ---
 

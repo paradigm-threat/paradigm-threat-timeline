@@ -13,12 +13,15 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 - [chronologia.org index](chronology/index-chronologia.md) — Fomenko's New Chronology site mirror index
 - [Die Offenbarung Johannis](chronology/index-offenbarung.md) — Morozov's Revelation investigation
 - [Offenbarung text](chronology/text_formatted.md) | [raw](chronology/text.md)
+- [Indigenous creation chronologies](chronology/indigenous-creation-dates.md) — Quiche Maya, Popol Vuh, etc.
+- [Illig vs Fomenko phantom time boundary](chronology/illig-fomenko-boundary.md) — Relationship between 297-yr and 1053-yr gaps
 
 ### De Grazia (Quantavolution)
 - [README](de-grazia/README.md) — Alfred de Grazia bibliography & overview
 - Books: [Burning of Troy](de-grazia/books/burning-of-troy.md) | [Chaos & Creation](de-grazia/books/chaos-and-creation.md) | [Cosmic Heretics](de-grazia/books/cosmic-heretics.md) | [Disastrous Love Affair](de-grazia/books/disastrous-love-affair.md) | [Divine Succession](de-grazia/books/divine-succession.md) | [Fire Not Blown](de-grazia/books/fire-not-blown.md) | [God's Fire](de-grazia/books/gods-fire.md) | [Homo Schizo I](de-grazia/books/homo-schizo-i.md) | [Homo Schizo II](de-grazia/books/homo-schizo-ii.md) | [Iron Age of Mars](de-grazia/books/iron-age-of-mars.md) | [Ka](de-grazia/books/ka.md) | [Lately Tortured Earth](de-grazia/books/lately-tortured-earth.md) | [Q Intro](de-grazia/books/q-intro.md) | [Recollections of a Fallen Sky](de-grazia/books/recollections-fallen-sky.md) | [Solaria Binaria](de-grazia/books/solaria-binaria.md) | [Velikovsky Affair](de-grazia/books/velikovsky-affair.md)
 
 ### Fiction Encoding (Authors Encoding Real History)
+- [Isaac Asimov](asimov/index.md) — Biography, bibliography, themes for timeline study; Russian roots, Foundation/empire collapse, Robots/Multivac/predictive programming
 - [Algernon Blackwood](fiction-encoding/blackwood/index-blackwood.md)
 - [Orson Scott Card](fiction-encoding/card/index-card.md)
 - [C.S. Lewis](fiction-encoding/cslewis/index-cslewis.md) | [Narnia planetary encoding](fiction-encoding/cslewis/investigation-narnia-planetary-encoding.md)
@@ -44,6 +47,8 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 ### Maxwell & the Aether
 - [Burden of proof debate](maxwell-aether/01-burden-of-proof-debate.md) — Epistemology of aether suppression
 - [Did Maxwell prove the aether?](maxwell-aether/02-did-maxwell-prove-the-aether.md) — Investigation using Wheeler/Dollard/Tesla sources
+- [Dayton Miller interferometry](maxwell-aether/03-dayton-miller.md) — 1920s aether-detection claims; refutation status
+- [Steinmetz and Heaviside primary sources](maxwell-aether/04-steinmetz-heaviside-sources.md) — Verify aether-proponent quotes
 
 ### Nuclear Weapons
 - [Nukes don't exist](nuclear-weapons/nukes-dont-exist-investigation.md)
@@ -55,6 +60,7 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 
 ### Remote Viewing
 - [Remote viewing in fiction](remote-viewing/index-remote-viewing-fiction.md)
+- [Remote viewing as aether physics](remote-viewing/aether-consciousness.md) — Stargate, consciousness, aether-mediated RV
 
 ### Saturnian Cosmology
 - [saturniancosmology.org index](saturnian-cosmology/index-saturniancosmology.md)
@@ -62,8 +68,25 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 - [thunderbolts.info index](saturnian-cosmology/index-thunderbolts.md)
 - [SAFIRE Project index](saturnian-cosmology/index-safireproject.md)
 
+### Weather Modification
+- [Weather modification investigation](weather-modification/weather-modification-investigation.md) — Cloud seeding, HAARP, Operation Popeye, ionospheric heaters, Eastlund patents, climate governance thesis
+
+### Havana Syndrome & Directed Energy Weapons
+- [Havana Syndrome investigation](havana-syndrome/havana-syndrome-investigation.md) — Gaslighting the public on directed energy weapons; Moscow Signal, ADS, MEDUSA; managed denial pattern; 2026 device acquisition & Norwegian experiment; connection to weather modification physics
+
+### CERN & Portal Technology
+- [CERN and portal technology](cern-portal/index.md) — LHC as portal (project stance: no other explanation fits); Bertolucci quote and primary-source evidence; aether/manipulation thesis. Investigative section only; no timeline changes yet.
+
+### Suppressed Energy Technology (Cross-Reference)
+- **Appendix article:** [Suppressed Energy Technology: A Cross-Reference](/timeline/evt-suppressed-energy-cross-reference) — Unified cross-reference connecting Maxwell/aether suppression, weather modification, Havana Syndrome DEWs, CERN portals, SAFIRE over-unity, remote viewing, and nuclear exaggeration as manifestations of the same suppressed aether physics
+
+### Joan of Arc
+- [Naming history](joan-of-arc/naming-history.md) — "Joan of Arc" vs "Maid of Orleans"; first attestation
+
 ### Other References
 - [Other references index](other-refs/index-other-references.md)
+- [Requerimiento 1513 dating](requerimiento-dating.md) — Possible backdating by ~150 years
+- [Thunderbolts forum deletions](thunderbolts-forum-archives.md) — Evidence archive for gatekeeping claims
 
 ### Standalone
 - [Death on Mars analysis](death-on-mars-analysis.md)
