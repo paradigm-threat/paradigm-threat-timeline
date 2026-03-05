@@ -241,6 +241,13 @@ Mars is officially a dead rock. All mainstream fiction reinforces: Mars is uninh
 
 ## IX. Cross-References
 
+### Barsoom Clue Indexes
+
+Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: locations, civilizations, species, robots/synthetic beings, history. Assumes content may encode redacted fact; challenges claims of invention.
+
+- princess-of-mars-index.md, gods-of-mars-index.md, warlord-of-mars-index.md
+- thuvia-maid-of-mars-index.md, chessmen-of-mars-index.md (Kaldane/Rykor), master-mind-of-mars-index.md, fighting-man-of-mars-index.md
+
 ### Internal (paradigm-threat-timeline)
 - [Predictive Programming: Literature as Historical Erasure](https://paradigm-threat.net/timeline?view=browser&path=content/15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md) — the master predictive programming literature article
 - [Predictive Programming in Film, Television, and Games](https://paradigm-threat.net/timeline?view=browser&path=content/16.appendix/16.03.00-predictive-programming-film-tv-games.md) — Mars film analysis

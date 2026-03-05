@@ -583,6 +583,9 @@
       "15.01.00-1890-ce-20th-century-predictive-programming-literature.md": {
         "_title": "20th Century Predictive Programming: Literature as Historical Erasure"
       },
+      "15.01.01-1942-ce-asimov-marx-in-space.md": {
+        "_title": "Asimov: Marx in Space!"
+      },
       "15.02.00-censorship-and-book-burning.md": {
         "_title": "Censorship and Book Burning: From Alexandria to the Internet"
       },
@@ -601,7 +604,7 @@
       "15.06.01-1880-ce-mars-literature-as-reclassified-nonfiction.md": {
         "_title": "Mars Literature as Reclassified Nonfiction"
       },
-      "_count": 8
+      "_count": 9
     },
     "16.appendix": {
       "16.00.00-appendix.md": {
@@ -717,7 +720,7 @@
       },
       "_count": 1
     },
-    "_count": 203
+    "_count": 204
   },
   "data": {
     "events.json": {},
@@ -781,10 +784,13 @@
       "03-themes-for-timeline-study.md": {
         "_title": "Isaac Asimov: Themes for Timeline Study"
       },
+      "04-investigation-threads.md": {
+        "_title": "Asimov: Investigation Threads"
+      },
       "index.md": {
         "_title": "Isaac Asimov \u2014 Investigation"
       },
-      "_count": 4
+      "_count": 5
     },
     "cern-portal": {
       "index.md": {
@@ -875,6 +881,36 @@
       "_title": "Death on Mars Book Analysis"
     },
     "fiction-encoding": {
+      "arnold": {
+        "arnold-books-bibliography.md": {
+          "_title": "Edwin Lester Arnold \u2014 Bibliography"
+        },
+        "_count": 1
+      },
+      "asimov": {
+        "README.md": {
+          "_title": "Asimov Full Texts \u2014 Index"
+        },
+        "everest-index.md": {
+          "_title": "Everest \u2014 Clue Index for Timeline Investigation"
+        },
+        "foundation-index.md": {
+          "_title": "Foundation \u2014 Clue Index for Timeline Investigation"
+        },
+        "i-robot-index.md": {
+          "_title": "I, Robot \u2014 Clue Index for Timeline Investigation"
+        },
+        "lets-get-together-index.md": {
+          "_title": "Let's Get Together \u2014 Clue Index for Timeline Investigation"
+        },
+        "magnificent-possession-index.md": {
+          "_title": "The Magnificent Possession \u2014 Clue Index for Timeline Investigation"
+        },
+        "youth-index.md": {
+          "_title": "Youth \u2014 Clue Index for Timeline Investigation"
+        },
+        "_count": 7
+      },
       "blackwood": {
         "index-blackwood.md": {
           "_title": "Algernon Blackwood \u2014 Downloaded Texts Index"
@@ -929,7 +965,7 @@
         },
         "_count": 1
       },
-      "_count": 10
+      "_count": 18
     },
     "hairy-mary": {
       "index-hairy-mary-one-more-time.md": {
@@ -975,7 +1011,40 @@
       "_count": 4
     },
     "mars": {
+      "arnold-gullivar-jones-reference.md": {
+        "_title": "Lieut. Gullivar Jones: His Vacation \u2014 Reference Document"
+      },
+      "burroughs-barsoom": {
+        "README.md": {
+          "_title": "Barsoom Series \u2014 Clue Index for Paradigm Threat Investigation"
+        },
+        "chessmen-of-mars-index.md": {
+          "_title": "The Chessmen of Mars \u2014 Clue Index"
+        },
+        "fighting-man-of-mars-index.md": {
+          "_title": "A Fighting Man of Mars \u2014 Clue Index"
+        },
+        "gods-of-mars-index.md": {
+          "_title": "The Gods of Mars \u2014 Clue Index"
+        },
+        "master-mind-of-mars-index.md": {
+          "_title": "The Master Mind of Mars \u2014 Clue Index"
+        },
+        "princess-of-mars-index.md": {
+          "_title": "A Princess of Mars \u2014 Clue Index"
+        },
+        "thuvia-maid-of-mars-index.md": {
+          "_title": "Thuvia, Maid of Mars \u2014 Clue Index"
+        },
+        "warlord-of-mars-index.md": {
+          "_title": "The Warlord of Mars \u2014 Clue Index"
+        },
+        "_count": 8
+      },
       "death-on-mars.md": {},
+      "index-mars.md": {
+        "_title": "Mars Literature \u2014 Index of Downloaded Texts"
+      },
       "mars-fiction-survey.md": {
         "_title": "Mars Fiction & Nonfiction Literature Survey (19th\u201320th Century)"
       },
@@ -1000,7 +1069,7 @@
       "wotw.md": {
         "_title": "The War of the Worlds"
       },
-      "_count": 9
+      "_count": 19
     },
     "maxwell-aether": {
       "01-burden-of-proof-debate.md": {
@@ -1080,7 +1149,7 @@
       },
       "_count": 1
     },
-    "_count": 79
+    "_count": 98
   },
   "media": {
     "00.overview": {
@@ -1619,5 +1688,5 @@
     },
     "_count": 1
   },
-  "_count": 471
+  "_count": 491
 }

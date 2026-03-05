@@ -17,8 +17,13 @@
 - [full/lets-get-together-index.md](full/lets-get-together-index.md) — **Clue index** for "Let's Get Together" (1956): We/They, humanoid infiltration, Cold War, double agent
 - [full/everest-index.md](full/everest-index.md) — **Clue index** for "Everest" (1953): Martians on Everest, Tibetan "mountain of the gods"
 - [full/youth-index.md](full/youth-index.md) — **Clue index** for "Youth" (1955): Beforethewars, atomic war, aliens as "animals"
+- [full/i-robot-index.md](full/i-robot-index.md) — **Clue index** for *I, Robot* (1950): Three Laws, **"slave complexes"**, "no soul," Susan Calvin
 
-Full texts and all indexes live in `wget/azimov/full/`; see [full/README.md](full/README.md) for the complete index.
+Full texts and indexes: `wget/azimov/full/`; see [full/README.md](full/README.md).
+
+**Investigation threads:** [04-investigation-threads.md](04-investigation-threads.md) — robots/slaves/Golem, Mars, suppressed tech (Visi-Sonor), Marxism.
+
+**Timeline article:** [Asimov: Marx in Space!](/timeline/evt-asimov-marx-in-space) — Three Laws as slave code, Golem without soul, Marxist encoding. **Investigator sentiment:** Asimov did not know what a robot was; his writings read like an ignorant slave driver's; he comes across as soulless — a robot himself.
 
 ---
 

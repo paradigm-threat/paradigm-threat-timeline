@@ -57,14 +57,52 @@ Analytical angles for studying Asimov's work in light of the Paradigm Threat tim
 
 | Theme | Asimov | Timeline angle |
 |-------|--------|----------------|
-| **Three Laws** | Govern robot behaviour; seem benevolent; contain hidden flaws | Controlled opposition; benevolent-seeming governance that channels dissent |
+| **Three Laws** | Govern robot behaviour; seem benevolent; contain hidden flaws | **Slave-law parallel:** (1) no harm to master, (2) obey orders, (3) self-preserve—same structure as slave codes? Golem: created, obeys, lacks free will. |
+| **Living vs hardware?** | Positronic brain; are robots purely mechanical or do they have consciousness/soul? | Investigation: Are the Laws designed for robots—or for **slaves**? See 04-investigation-threads.md. |
 | **US Robots and Mechanical Men** | Corporation that builds robots; Susan Calvin as gatekeeper | Corporate-military control of AI; "experts" as gatekeepers |
 | **R. Daneel, R. Giskard** | Robots that influence humanity at scale; Zeroth Law | Non-human or transhuman actors (Mars, breakaway civilization) influencing history |
 | **Multivac** | Central computer directing society; predicts individual behaviour | CERN, DARPA, NSA-style centralised systems; predictive control |
 
 ---
 
-## 6. Institutional Proximity
+## 6. Technology: Realism vs Fantasy
+
+| Device | Assessment | Notes |
+|--------|------------|-------|
+| Personal force-shields, nuclear blasters | **Unrealistic** | Fantasy physics; "walnut-sized" nuclear generator; hand weapons. |
+| **Visi-Sonor** | **Plausible** | Stimulates optic/auditory brain centres directly; bypasses eyes/ears; synesthetic audiovisual experience. Direct neural stimulation is real research (cochlear implants, sensory prosthetics). |
+| **Psychic probe** | Plausible (concept) | "Drains the mind and leaves an empty skull"; Mule used on traitors. Mind-reading/erasure. |
+
+**Investigator sentiment:** "I found his technology unrealistic—personal shields, nuclear powered guns. The only thing I found realistic was his sonic torture device used to show visual/audio distortion in one's mind." (Visi-Sonor / psychic probe in *Foundation and Empire*.) Capture: Of Asimov's tech, only the neuro-stimulation devices feel plausible—possible encoded disclosure or awareness of real research.
+
+---
+
+## 7. Marxism and View of Humanity
+
+| Theme | Asimov | Timeline angle |
+|-------|--------|----------------|
+| **Futurians** | Left-wing SF group (1938–45); Marxist influences | Asimov member; structural parallels in his work. |
+| **Acknowledged influences** | Marx, Gibbon, Adam Smith | Psychohistory = Marx-style deterministic, materialist history. |
+| **Foundation** | Religion as tool; priesthood controls tech; ruling class; slave labor; "algebra of humanity" | Marxist: materialist history, class conflict, religion as opiate, mass action. |
+| **Self-description** | Secular humanist; skeptic of dogma | Critiqued Marx-as-guru; parallel is structural, not devotional. |
+
+**Investigator view:** Asimov parallels Marxism. See 04-investigation-threads.md for class/slave/index entries.
+
+---
+
+## 8. Mars
+
+| Work | Theme | Timeline angle |
+|------|-------|----------------|
+| *David Starr, Space Ranger* (1952) | Mars; food poisoning; alien conspiracy | Mars as habitat; agriculture; conspiracy vs Earth. |
+| *Everest* (1953) | **Martians on Everest**; thin air, cold; "only livable place on Earth" for them; watchers | Mars as origin of observers; predictive programming? |
+| *The Martian Way* (1952) | Martian colonists; ice asteroids | Colonization logistics. |
+
+**Question:** Does Asimov's Mars fiction encode clues to actual or then-suspected conditions? Texts to scan: *David Starr*, *The Martian Way*. See 04-investigation-threads.md.
+
+---
+
+## 9. Institutional Proximity
 
 | Connection | Possible encoding |
 |------------|-------------------|
@@ -78,6 +116,7 @@ Analytical angles for studying Asimov's work in light of the Paradigm Threat tim
 ## Next Steps
 
 1. **Close reading** of "All the Troubles of the World," *Foundation* opening, and selected Robot stories — note exact language, framing, what is disclosed vs. obscured.
-2. **Compare** to Wells (*War of the Worlds*, *Time Machine*), Verne, Lovecraft — fiction-encoding patterns.
-3. **Trace** Asimov's stated sources (Gibbon, etc.) and any less-cited influences.
-4. **Check** if any Asimov works are in public domain or have legally available full text online for detailed analysis.
+2. **Obtain and index** *I, Robot*, "Runaround," *Caves of Steel* (robots/slaves/Golem); *David Starr, Space Ranger*, *The Martian Way* (Mars).
+3. **Compare** to Wells (*War of the Worlds*, *Time Machine*), Verne, Lovecraft — fiction-encoding patterns.
+4. **Trace** Asimov's stated sources (Gibbon, Marx, etc.) and any less-cited influences.
+5. **See** [04-investigation-threads.md](04-investigation-threads.md) for detailed thread prompts and index priorities.

@@ -2283,7 +2283,29 @@
             "evt-operation-mockingbird",
             "evt-predictive-programming",
             "evt-mars-catastrophe-brandenburg",
-            "evt-american-chestnut-blight"
+            "evt-american-chestnut-blight",
+            "evt-asimov-marx-in-space"
+          ]
+        },
+        {
+          "id": "evt-asimov-marx-in-space",
+          "title": "Asimov: Marx in Space!",
+          "type": "article",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.01.01-1942-ce-asimov-marx-in-space.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1942,
+              "end": 1992,
+              "calendar": "CE",
+              "note": "Runaround/Foundation (1942) through Asimov's death (1992)"
+            }
+          ],
+          "related_events": [
+            "evt-20th-century-predictive-programming-literature",
+            "evt-predictive-programming",
+            "evt-controlled-opposition",
+            "evt-hijacking-of-communism"
           ]
         },
         {
