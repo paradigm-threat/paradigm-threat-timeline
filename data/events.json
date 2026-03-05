@@ -2052,7 +2052,29 @@
           "title": "The Suppression of Maxwell and the Aether",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-flexner-bioelectric-suppression",
+              "title": "The Flexner Report and the Suppression of Bioelectric Medicine",
+              "type": "article",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.06.01-1910-ce-the-flexner-report-and-bioelectric-suppression.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1910,
+                  "end": 1935,
+                  "calendar": "CE",
+                  "note": "From the Flexner Report to the closure of the last non-compliant medical schools"
+                }
+              ],
+              "related_events": [
+                "evt-maxwell-and-the-suppression-of-the-aether",
+                "evt-suppressed-energy-cross-reference",
+                "evt-operation-mockingbird",
+                "evt-ap-jerry-tennant"
+              ]
+            }
+          ],
           "dates": [
             {
               "start": 1865,
@@ -2745,6 +2767,13 @@
               "id": "evt-ap-cremo",
               "title": "Michael Cremo (b. 1948)",
               "md_path": "content/16.appendix/16.08.24-michael-cremo.md",
+              "type": "article",
+              "children": []
+            },
+            {
+              "id": "evt-ap-jerry-tennant",
+              "title": "Dr. Jerry Tennant (b. 1940)",
+              "md_path": "content/16.appendix/16.08.25-jerry-tennant.md",
               "type": "article",
               "children": []
             }

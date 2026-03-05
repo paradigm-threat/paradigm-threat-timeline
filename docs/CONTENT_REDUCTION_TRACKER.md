@@ -1,6 +1,6 @@
 # Content Reduction Tracker
 
-Track progress toward the ≤ 400 page / ≤ 15 MB print target.
+Track progress toward the ≤ 350 page / ≤ 12 MB print target.
 See `docs/PRINT_GOALS.md` §13 for the full strategy.
 
 ## Baseline (Feb 28, 2026)
@@ -13,14 +13,65 @@ See `docs/PRINT_GOALS.md` §13 for the full strategy.
 | Total articles | 176 |
 | Embedded images | 142 |
 
-## Target
+## Current (Mar 5, 2026)
+
+### Two-Book Split
+
+The appendix (Ch 16) is now a **separate companion volume**. The main book
+(Ch 00–15 + 17) has a hard page limit. The appendix book has no page limit —
+it is the overflow reservoir for all extended evidence, dossiers, and profiles.
+
+#### Book 1: Main Timeline (Ch 00–15 + 17)
 
 | Metric | Value |
 |---|---|
-| Total pages | ≤ 400 |
-| PDF file size | ≤ 15 MB |
-| Total words | ≤ 90,000 |
-| Embedded images | ≤ 80 |
+| Total words | 95,615 |
+| Total articles | 169 |
+| Embedded images | ~110 |
+| Est. text pages | ~319 |
+| Est. recto blanks | ~85 |
+| Est. total pages | **~440** |
+
+#### Book 2: Appendix (Ch 16)
+
+| Metric | Value |
+|---|---|
+| Total words | 21,827 |
+| Total articles | 35 |
+| Embedded images | ~31 |
+| Est. pages | ~100+ |
+| **Page limit** | **None — grow freely** |
+
+## Target (updated Mar 5, 2026)
+
+### Book 1 (Main Timeline)
+
+| Metric | Value |
+|---|---|
+| Total pages | ≤ 350 |
+| PDF file size | ≤ 12 MB |
+| Total words | ≤ 70,000 |
+| Articles | ≤ 140 |
+
+### Book 2 (Appendix)
+
+| Metric | Value |
+|---|---|
+| Total pages | No cap |
+| Total words | No hard limit — max content approach |
+| Articles | No limit |
+
+## Core Strategy: Pack, Don't Pad — Max Content via Appendix Overflow
+
+**Goal:** Dense research in the main book. Every sentence carries information.
+When detail exceeds what the main book can hold, it overflows to the appendix
+book. No research is lost — it just moves to the companion volume.
+
+- **80% of text = cited evidence and sources** (third-person investigative)
+- **20% of text = author thesis** (clearly marked, usually at end of article)
+- **Topic placement:** Bulk in last significant century; overflow to appendix book
+- **Cross-reference, don't repeat:** One canonical article per topic
+- **Keep all images** for now; compress file sizes in final pass
 
 ---
 
@@ -69,52 +120,139 @@ Record each reduction pass below. One row per editing session.
 
 **Running totals after all reductions:**
 
-| Metric | Baseline | After P1 | After P3+P4 | After Options 1-5 | After Batches 6-9 | After Micro-pass | Target |
-|---|---|---|---|---|---|---|---|
-| Total words | 146,863 | ~139,973 | ~129,593 | ~118,821 | 89,891 | **75,189** | ≤ 90,000 |
-| Est. pages (text) | ~490 | ~467 | ~432 | ~396 | ~300 | **~251** | ≤ 300 (text) |
-
----
-
-## Chapter Word Counts (baseline Feb 28, 2026)
-
-| Ch | Folder | Files | Words | Est. pages |
+| Metric | Baseline | After Micro-pass | Current (Mar 5) | Target |
 |---|---|---|---|---|
-| 00 | overview | 10 | 13,400 | 45 |
-| 01 | before-creation | 5 | 6,378 | 21 |
-| 02 | the-golden-age | 10 | 8,316 | 28 |
-| 03 | the-dark-ages | 17 | 8,140 | 27 |
-| 04 | the-blip | 3 | 4,487 | 15 |
-| 05 | ce-11th | 5 | 5,417 | 18 |
-| 06 | ce-12th | 8 | 5,828 | 19 |
-| 07 | ce-13th | 6 | 9,798 | 33 |
-| 08 | ce-14th | 5 | 5,852 | 20 |
-| 09 | ce-15th | 11 | 13,663 | 46 |
-| 10 | ce-16th | 14 | 12,118 | 40 |
-| 11 | ce-17th | 35 | 18,728 | 62 |
-| 12 | ce-18th | 6 | 4,714 | 16 |
-| 13 | ce-19th | 9 | 12,388 | 41 |
-| 14 | ce-20th | 6 | 5,722 | 19 |
-| 15 | author-profiles | 25 | 11,851 | 40 |
-| 16 | credits | 1 | 64 | 1 |
-| **Total** | | **176** | **146,863** | **~490 text** |
+| Total words (all) | 146,863 | 75,189 | **117,279** | — |
+| Main book words | — | — | **95,615** | ≤ 70,000 |
+| Appendix book words | — | — | **21,827** | No limit |
+| Main book articles | — | — | **169** | ≤ 140 |
+| Main book est. pages | — | — | **~440** | ≤ 350 |
+
+> **Note:** Word count rose from 75,189 → 117,279 because 28 new articles
+> were added since the micro-pass. With the two-book split, the main book
+> needs to drop from 95,615 → ≤ 70,000 words (~26K reduction). Overflow
+> detail moves to the appendix book, which can grow without limit.
 
 ---
 
-## Top 10 Largest Files (reduction candidates)
+## Next Phase: Pack & Organize (Mar 2026)
 
-| Original | Now | File | Status |
+### Phase A: Article Consolidation in Main Book (target: 169 → ≤ 140)
+
+Merge child articles under 300 words into parents. This saves ~15 recto blank pages.
+
+```bash
+# Generate merge candidates (main book only):
+find content/ -name '*.md' -not -path '*/16.appendix/*' -exec sh -c 'w=$(wc -w < "$1"); [ "$w" -lt 300 ] && echo "$w $1"' _ {} \; | sort -rn
+```
+
+### Phase B: Pack Large Main-Book Files (over 1500 words)
+
+Main-book files over 1500 words. Move tables/dossiers to appendix book:
+
+| Words | File | Action |
+|---|---|---|
+| 4,146 | 15.01.00 predictive-programming-literature | Move Tolkien tables → appendix; pack Burroughs/Card |
+| 3,930 | 15.03.00 historical-antibodies | Move profiles → 16.06; keep thesis + key evidence |
+| 2,637 | 14.08.00 weather-control | Pack evidence lists; cross-ref nuclear |
+| 2,413 | 15.04.00 false-flags-architecture | Move case studies → 16.07 appendix |
+| 1,975 | 14.07.00 nuclear-energy-and-the-bomb | Pack; cross-ref weather control |
+| 1,799 | 13.06.00 maxwell-and-the-aether | Pack; move equations → 16.09 appendix |
+| 1,532 | 14.06.00 operation-mockingbird | Pack |
+| 1,503 | 13.05.00 19th-century-weapons | Pack |
+| 1,344 | 15.06.01 mars-literature-reclassified | Pack; already has appendix overflow |
+| 1,300 | 15.01.01 asimov-marx-in-space | Pack |
+
+### Phase C: Cross-Reference Deduplication
+
+For each major topic, verify ONE canonical article exists and all others use
+a single-sentence cross-reference. Topics to audit:
+
+- [ ] Deep State (05→07→09→11→14→15)
+- [ ] Jesuits (09→10→11→12)
+- [ ] Masons (07→11)
+- [ ] Mars (12→15→16)
+- [ ] Predictive programming (15→16)
+- [ ] False flags (15→16)
+- [ ] Nuclear/weapons (13→14)
+- [ ] Maxwell/energy (13→16)
+
+### Phase D: Global Prose Pack (main book only)
+
+After Phases A–C, run a final tightening pass on Ch 00–15:
+- Remove expository warm-up sentences
+- Convert multi-sentence transitions to single-sentence cross-refs
+- Pack block quotes into cited summaries
+- Eliminate restated definitions
+
+### Phase E: Grow the Appendix Book
+
+All detail removed from the main book during Phases A–D should be **added to
+the appendix book**, not deleted. The appendix book is the max-content reservoir:
+- Extended author profiles
+- Chronological dossiers and tables
+- Film/TV/game catalogs
+- Investigation summaries
+- Any evidence too detailed for the main narrative
+
+### Phase F: Image Compression (final, before print)
+
+- Reduce to 800px max width
+- JPEG quality 72 (greyscale)
+- Both books separately
+- Target: ≤ 12 MB main book, ≤ 10 MB appendix book
+
+---
+
+## Chapter Word Counts (Mar 5, 2026)
+
+| Ch | Folder | Files | Words | Est. pages | % of total |
+|---|---|---|---|---|---|
+| 00 | overview | 10 | 5,244 | ~17 | 4.5% |
+| 01 | before-creation | 5 | 2,725 | ~9 | 2.3% |
+| 02 | the-golden-age | 10 | 4,047 | ~13 | 3.5% |
+| 03 | the-dark-ages | 17 | 6,186 | ~20 | 5.3% |
+| 04 | the-blip | 3 | 1,462 | ~4 | 1.2% |
+| 05 | ce-11th | 5 | 2,696 | ~8 | 2.3% |
+| 06 | ce-12th | 8 | 3,895 | ~12 | 3.3% |
+| 07 | ce-13th | 6 | 2,792 | ~9 | 2.4% |
+| 08 | ce-14th | 5 | 2,434 | ~8 | 2.1% |
+| 09 | ce-15th | 11 | 4,654 | ~15 | 4.0% |
+| 10 | ce-16th | 14 | 5,668 | ~18 | 4.8% |
+| 11 | ce-17th | 35 | 13,682 | ~45 | 11.7% |
+| 12 | ce-18th | 8 | 3,973 | ~13 | 3.4% |
+| 13 | ce-19th | 12 | 9,813 | ~32 | 8.4% |
+| 14 | ce-20th | 10 | 10,003 | ~33 | 8.5% |
+| **15** | **ce-21st** | **9** | **16,172** | **~53** | **13.8%** |
+| **16** | **appendix** | **35** | **21,769** | **~72** | **18.6%** |
+| 17 | credits | 1 | 64 | ~0 | 0.1% |
+| **Total** | | **204** | **117,279** | **~390 text** | **100%** |
+
+**Key observation:** Ch 15 + Ch 16 = 37,941 words (32.3% of book). These two
+sections are the heaviest and contain the most reducible content: author profiles,
+dossiers, investigation summaries, and film/TV catalogs. Packing these two
+chapters is the highest-impact action.
+
+---
+
+## Top 13 Largest Files (over 1500 words — reduction candidates)
+
+| Words | File | Chapter | Status |
 |---|---|---|---|
-| 4,452 | 2,377 | 07.01.01-the-masons.md | **Done** — 47% reduction |
-| 3,448 | 1,904 | 13.03.01-1883-ce-the-hijacking-of-communism.md | **Done** — 45% reduction |
-| 2,806 | 1,730 | 00.03.01-the-length-of-a-year-changes.md | **Done** — 38% reduction |
-| 2,698 | 1,938 | 09.03.00-language-of-the-deep-state.md | **Done** — 28% reduction |
-| 2,507 | 1,748 | 07.01.02-the-giants-of-the-rus-horde.md | **Done** — 30% reduction |
-| 2,285 | 1,398 | 13.03.00-1848-ce-battle-for-communisms-soul.md | **Done** — 39% reduction |
-| 2,264 | 1,699 | 02.07.00-atlantis-and-the-tree-of-knowledge.md | **Done** — 25% reduction |
-| 2,238 | 1,415 | 00.02.03-challenging-established-physics.md | **Done** — 37% reduction |
-| 2,106 | 1,061 | 04.01.00-building-the-new-chronology.md | **Done** — 50% reduction |
-| 1,979 | 1,019 | 08.02.01-european-castles-fortresses.md | **Done** — 49% reduction |
+| 4,146 | 15.01.00-predictive-programming-literature.md | 15 | Needs packing — Tolkien tables → appendix |
+| 3,930 | 15.03.00-historical-antibodies.md | 15 | Needs packing — profiles → 16.06 |
+| 3,235 | 16.10.00-mars-literature-author-profiles.md | 16 | Pack bios to 100w each |
+| 2,637 | 14.08.00-weather-control.md | 14 | Pack evidence lists |
+| 2,588 | 16.09.00-suppressed-energy-cross-ref.md | 16 | Convert to tables-only |
+| 2,413 | 15.04.00-false-flags-architecture.md | 15 | Move case studies → 16.07 |
+| 2,383 | 16.02.00-mars-contacts-timeline.md | 16 | Pack to tables-only |
+| 2,373 | 16.07.00-false-flags-investigation.md | 16 | Reduce preamble |
+| 2,027 | 16.06.00-historical-antibodies-profiles.md | 16 | 100w per profile |
+| 1,975 | 14.07.00-nuclear-energy-and-the-bomb.md | 14 | Pack; cross-ref weather |
+| 1,799 | 13.06.00-maxwell-and-the-aether.md | 13 | Pack equations; X-ref appendix |
+| 1,532 | 14.06.00-operation-mockingbird.md | 14 | Pack |
+| 1,503 | 13.05.00-19th-century-weapons.md | 13 | Pack |
+| **36,166** | **Total (13 files = 31% of book)** | | |
 
 ---
 

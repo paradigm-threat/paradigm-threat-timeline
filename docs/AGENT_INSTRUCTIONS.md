@@ -163,9 +163,9 @@ When the timeline supports a conclusion or speculation, add it to `docs/CONCLUSI
 - paradigm-threat-site resolves these relative URLs to absolute using the same domain as `events.json` (the timeline base URL), so images load from the timeline origin.
 - We plan to generate images for more timeline articles in the future (e.g. AI-generated illustrations keyed to article content).
 
-## Print Size Budget (≤ 400 pages)
+## Print Size Budget (≤ 350 pages)
 
-The PDF export must stay within a **≤ 400 page / ≤ 15 MB** budget for trade-paperback viability. As of Feb 2026 it is **792 pages / 47 MB** — nearly double the target.
+The PDF export must stay within a **≤ 350 page / ≤ 12 MB** budget for trade-paperback viability. As of Feb 2026 it is **792 pages / 47 MB** — well over the target.
 
 ### Writing guidelines for print-aware content
 

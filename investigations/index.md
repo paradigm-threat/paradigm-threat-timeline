@@ -74,11 +74,17 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 ### Havana Syndrome & Directed Energy Weapons
 - [Havana Syndrome investigation](havana-syndrome/havana-syndrome-investigation.md) — Gaslighting the public on directed energy weapons; Moscow Signal, ADS, MEDUSA; managed denial pattern; 2026 device acquisition & Norwegian experiment; connection to weather modification physics
 
+### Religious Revival (1979)
+- [1979 Religious Revival investigation](religious-revival/1979-religious-revival-investigation.md) — CIA facilitation of Khomeini's return; Grand Mosque siege and Saudi Wahhabism; Moral Majority founding; Pope John Paul II in Poland; technology to simulate religious experience (God helmet, infrasound); invisible ray claims in churches (ongoing)
+
 ### CERN & Portal Technology
 - [CERN and portal technology](cern-portal/index.md) — LHC as portal (project stance: no other explanation fits); Bertolucci quote and primary-source evidence; aether/manipulation thesis. Investigative section only; no timeline changes yet.
 
 ### Suppressed Energy Technology (Cross-Reference)
 - **Appendix article:** [Suppressed Energy Technology: A Cross-Reference](/timeline/evt-suppressed-energy-cross-reference) — Unified cross-reference connecting Maxwell/aether suppression, weather modification, Havana Syndrome DEWs, CERN portals, SAFIRE over-unity, remote viewing, and nuclear exaggeration as manifestations of the same suppressed aether physics
+
+### Bioelectric / Energy Medicine
+- [Dr. Jerry Tennant — Healing is Voltage](tennant/index-tennant-healing-voltage.md) — Claims index from EU2017 transcript; career validation (VISX LASIK, ophthalmology); federal law claim (not in transcript; no such law found); paradigm-threat connections
 
 ### Joan of Arc
 - [Naming history](joan-of-arc/naming-history.md) — "Joan of Arc" vs "Maid of Orleans"; first attestation

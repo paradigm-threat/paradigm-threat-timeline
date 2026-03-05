@@ -2,7 +2,7 @@
 
 > Research index for the paradigm-threat-timeline project.
 > Focus: fiction that describes **remote viewing, remote control, scrying devices, mind transfer, and dimensional contact** — the same mechanism, appearing across multiple authors from 1871–1937.
-> Compare to: Wells' Crystal Egg, Tolkien's Palantír, John Dee's obsidian mirror.
+> Compare to: Wells' Crystal Egg, Tolkien's Palantíri, John Dee's obsidian mirror.
 
 ---
 
@@ -15,6 +15,7 @@ Between 1871 and 1937, at least six major authors independently described **the 
 3. The device is frequently described as **crystal, stone, mirror, or resonance machine**
 4. Contact typically results in **madness, possession, or identity displacement**
 5. The technology is presented as **ancient, pre-human, or alien** — not invented by the protagonist
+6. **Guard-realm → evil-use:** Tolkien's Palantíri *"long guarded and united the realm of Gondor"* before Sauron perverted them; Wells's Crystal Egg shows only the hostile phase (Martian surveillance for invasion). Same trajectory.
 
 This is either:
 - (a) Independent artistic convergence on a compelling fictional idea, or
@@ -43,6 +44,7 @@ This is either:
 | Lovecraft | "The Thing on the Doorstep" | 1933 | Occult body-exchange | Hypnotic domination of will; serial body-theft | N/A — exchange | Immortality through serial possession |
 | Lovecraft | "The Challenge from Beyond" | 1935 | Crystal cube with hypnotic disc | Ether-bridge capturing minds across galaxies | Yes — bidirectional swap | Mind trapped in alien worm-body |
 | Lovecraft | "The Haunter of the Dark" | 1935 | Shining Trapezohedron | Polyhedral scrying stone — "window on all time and space" | Yes — summons entity | Psychic link with Haunter |
+| **Tolkien** | ***The Lord of the Rings*** | **1954–55** | **Palantíri (Seeing-stones)** | **Seven crystals; "see far off, converse in thought"; "long guarded and united the realm of Gondor"** | **Yes** | **Sauron perverts for subversion; Saruman ensnared; Denethor broken** |
 | Lovecraft | "The Shadow out of Time" | 1936 | Mechanical mind-projection | Great Race projects minds across time, seizes bodies | Yes — full swap | Personality changes in historical figures |
 | Lovecraft | "The Evil Clergyman" | 1937 | Matchbox device + violet ray | Personality overwrite via small device | One-way overwrite | Permanent identity replacement |
 | Dunsany | *The Gods of Pegana* | 1905 | None — cosmogony | Gods dream the world; Skarl drums to keep MANA-YOOD-SUSHAI asleep | Cosmological | Reality is a dream of a sleeping god |

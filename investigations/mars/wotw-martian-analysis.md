@@ -118,6 +118,8 @@
 - Could be held pointing obliquely downward — drove through iron ship plating "like a white-hot iron rod through paper"
 - The Martians were **sparing** of the Heat-Ray on certain occasions, possibly because they had a limited supply of material for its production, or because they wanted to subjugate rather than completely destroy
 
+**Adaptation erasure:** Most WotW adaptations (1938 radio, 1953 film, Spielberg 2005, etc.) changed the Heat-Ray to a *visible* beam—a generic sci-fi laser—and dropped Wells's technical specifics (non-conductivity chamber, parabolic mirror). Exceptions: Jeff Wayne's album (1978) and Stephen Baxter's *The Massacre of Mankind* (2017) kept it invisible. Baxter's sequel, published one year after Havana syndrome (2016) was attributed to directed-energy weapons, is the only major authorised continuation to depict Wells's device faithfully. See `wget/wells/massacre-of-mankind-2017-reference.md` for the full investigation.
+
 ### The Black Smoke
 - Discharged by means of **rockets** from gun-like tubes
 - Huge canisters fired from tubes — smashed on striking the ground (did not explode) and released an enormous volume of heavy, inky vapor

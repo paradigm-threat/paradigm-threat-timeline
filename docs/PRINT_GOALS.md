@@ -202,68 +202,144 @@ review, not final print output.
 
 ## 13. Page Budget & Content Size Targets
 
-### Problem (as of Feb 2026)
+### Two-Book Strategy (decided Mar 5, 2026)
 
-The current export produces **~792 pages at 47 MB** — far too large for a
-trade-paperback print run. Standard trade paperbacks cap at **400 pages**;
-ideally we target **≤ 350 pages** (plus front matter / TOC).
+The appendix (Chapter 16) will be printed as a **separate companion volume**.
+This removes the appendix from the main book's page budget entirely, allowing
+a **max content approach**: pack the main timeline as densely as possible,
+and overflow all extended evidence, dossiers, author profiles, and reference
+tables into the appendix book without page-count anxiety.
 
-| Metric | Current (Feb 2026) | Target |
+#### Book 1: *Paradigm Threat: The Third Story* (main timeline)
+
+Chapters 00–15 + 17 (credits). The chronological narrative.
+
+| Metric | Current (Mar 2026) | Target |
 |---|---|---|
-| Total pages | ~792 | ≤ 400 |
-| Body text words | ~146,800 | ≤ 90,000 |
-| Embedded images | 142 | ≤ 80 |
-| Blank recto inserts | ~88 | ~50 (fewer articles = fewer inserts) |
-| PDF file size | 47 MB | ≤ 15 MB |
+| Body text words | 95,615 | ≤ 70,000 |
+| Articles | 169 | ≤ 140 |
+| Embedded images | ~110 | Keep all; compress later |
+| Blank recto inserts | ~85 | ~70 (from article consolidation) |
+| Est. text pages | ~319 | ≤ 280 |
+| Est. total pages (incl. images, blanks, front matter) | ~440 | **≤ 350** |
+| PDF file size | — | ≤ 12 MB |
 
-### Reduction Strategy (gradual, non-destructive)
+#### Book 2: *Paradigm Threat: Appendix — Evidence & Profiles*
 
-Content reduction must **never discard data**. All information is preserved;
-only the *presentation in the print edition* is condensed.
+Chapter 16 only. Reference material, dossiers, author profiles, investigation
+summaries, film/TV catalogs, chronological tables.
 
-1. **Cross-reference, don't repeat.** When multiple articles cover overlapping
-   material (e.g. Masons in Ch 07 overlaps with Deep State in Ch 09/11),
-   keep the detailed treatment in ONE article and replace the duplicate prose
-   with a short summary + cross-reference: *"See §07.01.01 The Masons for
-   full analysis."*
-
-2. **Move author profiles to an appendix stub.** The 25 author profiles
-   (~11,800 words / ~40 pages) can be reduced to a **one-paragraph bio +
-   bibliography** per author in a compact appendix. Full profiles remain in
-   the markdown source for the website; the PDF renders only the short form.
-
-3. **Compress long-form articles.** The top-10 longest articles account for
-   ~27,000 words (~90 pages). Each should be reviewed for:
-   - Block-quoted source passages that can be summarized with a citation
-   - Repeated thesis statements across sections
-   - Narrative preambles that can be tightened
-
-4. **Reduce image count.** Target ≤ 1 image per article (≤ 80 total).
-   Decorative or redundant illustrations should be removed from print; they
-   remain available on the website via the same markdown source.
-
-5. **Consolidate small sub-articles.** Many `ZZ ≠ 00` child articles are
-   under 300 words. Where a parent + children total < 800 words, merge them
-   into a single article to eliminate blank-recto padding pages.
-
-6. **Use print-only front-matter flags.** Add `print: summary` to article
-   YAML front-matter to signal the PDF generator should render only the
-   first paragraph + cross-reference, while the website shows the full text.
-
-### Priority Order for Reduction
-
-| Priority | Action | Est. savings |
+| Metric | Current (Mar 2026) | Target |
 |---|---|---|
-| 1 | Author profiles → short appendix | ~35 pages |
-| 2 | Merge tiny sub-articles (< 300 w) | ~50 pages (recto inserts) |
-| 3 | Cross-reference overlapping content | ~40 pages |
-| 4 | Trim top-10 longest articles | ~30 pages |
-| 5 | Reduce image count to ≤ 80 | ~30 pages |
-| 6 | Tighten remaining prose globally | ~20 pages |
-| **Total estimated** | | **~205 pages** |
+| Body text words | 21,827 | **No hard limit** — grow freely |
+| Articles | 35 | No limit |
+| Embedded images | ~31 | Keep all |
+| Est. pages | ~100+ | No cap (trade paperback up to ~600) |
+| PDF file size | — | ≤ 10 MB |
 
-This would bring the book from ~792 to ~587 pages. A second pass of deeper
-editing (Priority 3–6 applied more aggressively) should reach the ≤ 400 target.
+The appendix book is the **overflow reservoir**. When any main-timeline
+article needs to shed detail, that detail moves to an appendix article.
+New dossiers, profiles, and reference tables always go here. This is where
+the "max content" approach lives — every piece of research we produce can
+be included; the only constraint on the main book is narrative density.
+
+#### How Cross-References Work Between Books
+
+Main-timeline articles reference appendix articles with the standard link
+format: `[Title](/timeline/evt-slug)`. On the website, this is a direct
+link. In print, the main book includes a note: *"See companion volume:
+Appendix — Evidence & Profiles."* The PDF generator will add this print
+note automatically for any cross-reference to a Ch 16 article.
+
+### Core Philosophy: Pack, Don't Pad
+
+The main book should be **dense with research, not narrative**. Every paragraph
+should convey facts, citations, or author thesis. Remove:
+
+- Expository warm-up sentences ("In order to understand X, we must first…")
+- Restated thesis from prior articles (use cross-references)
+- Multi-sentence transitions between sections
+- Preambles before block quotes (let the quote speak)
+- Repeated definitions of recurring concepts (define once, link always)
+
+### Voice Separation Rule
+
+Each article has two modes of content. Keep them cleanly separated:
+
+1. **The bulk: cited evidence, sources, and cross-references.** This is
+   third-person investigative. Present claims with attribution: "Fomenko
+   argues…", "Burroughs describes…", "Wells published…". This constitutes
+   80%+ of article text.
+
+2. **Author thesis (usually at end of article).** Clearly marked:
+   *"Author's thesis (Ari Bencuya):"* or bold **I believe / I propose**.
+   This is where personal sentiment, original synthesis, and interpretive
+   conclusions go. Never interleaved with sourced claims.
+
+### Topic Placement Rule: Last Significant Century + Appendix Book
+
+**The bulk of a topic appears in the chapter for the last significant century
+in which that topic is active.** Earlier chapters contain brief mentions with
+cross-references forward. Extended evidence overflows to the **appendix book**.
+
+| Topic | Last Significant Century | Main Book Article | Appendix Book |
+|---|---|---|---|
+| Mars literature | 19th–20th (publication) | 15.06.01 (reclassified nonfiction) | 16.10 (author profiles), 16.02 (contacts) |
+| Predictive programming | 20th–21st (Wells→Card) | 15.01.00 (literature) | 16.01 (fiction as control), 16.03 (film/TV) |
+| Deep State | 17th (Romanovs/British Empire) | 11.x (canonical) | — |
+| Masons | 13th (Horde era) | 07.01.01 | — |
+| Jesuits | 16th–17th (operations) | 10.x/11.x (canonical) | — |
+| False flags | 21st (architecture) | 15.04.00 | 16.07 (investigation) |
+| Nuclear weapons | 20th (1938+) | 14.07.00 | — |
+| Maxwell/aether | 19th (suppression) | 13.06.00 | 16.09 (energy X-ref) |
+| Weather control | 20th (1946+) | 14.08.00 | — |
+| Historical antibodies | 21st (analysis) | 15.03.00 | 16.06 (profiles) |
+
+Earlier chapters referencing these topics should use **one sentence + link**:
+*"For the full encoding analysis, see [Predictive Programming: Literature](/timeline/evt-20th-century-predictive-programming-literature)."*
+
+### Reduction Strategy for Main Book (updated Mar 2026)
+
+1. **Pack prose: eliminate waste.** Every sentence must carry information.
+   Remove warm-ups, restated theses, narrative padding, multi-sentence
+   transitions. Target: 300–600 words per timeline article; 800–1500 for
+   canonical topic articles.
+
+2. **Consolidate articles to reduce recto blanks.** Merge child articles
+   under 300 words into parents. Target: ≤ 140 articles (saves ~15
+   blank pages).
+
+3. **Move extended evidence to appendix book.** Main-timeline articles
+   present thesis + key evidence + cross-references. The appendix book
+   holds the full dossier. No limit on appendix growth.
+
+4. **Cross-reference, don't repeat.** One canonical article per topic.
+   All other mentions: one sentence + link. Zero duplicate paragraphs.
+
+5. **Trim the large files in the main book.** Files over 1500 words in
+   Ch 00–15 need targeted reduction:
+   - Move tables/dossiers to appendix book
+   - Convert block quotes to cited summaries
+   - Eliminate repeated material
+
+6. **Keep all images; compress later.** Images stay in place for now.
+   Final pass before print: reduce to 800px max width, JPEG quality 72,
+   greyscale conversion.
+
+### Priority Order for Main Book Reduction
+
+| Priority | Action | Est. page savings |
+|---|---|---|
+| 1 | Pack prose globally (remove waste) | ~30 pages |
+| 2 | Consolidate small articles (169 → ≤ 140) | ~15 pages (recto inserts) |
+| 3 | Move evidence overflow to appendix book | ~20 pages |
+| 4 | Cross-reference deduplication | ~10 pages |
+| 5 | Trim largest main-book files | ~15 pages |
+| 6 | Image compression (final pass) | file size only |
+| **Total estimated** | | **~90 pages** |
+
+This brings the main book from ~440 to ~350 pages — well within the 400-page limit,
+with headroom to add new content as research continues.
 
 ### Tracking
 
@@ -311,4 +387,4 @@ python3 scripts/generate-pdf.py
 Check the output file size and page count printed at the end.
 
 **Current status (Feb 2026):** 176 articles → 792 pages, 47 MB.  
-**Target:** ≤ 400 pages, ≤ 15 MB. See §13 *Page Budget & Content Size Targets*.
+**Target:** ≤ 350 pages, ≤ 12 MB. See §13 *Page Budget & Content Size Targets*.

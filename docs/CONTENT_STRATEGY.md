@@ -24,10 +24,11 @@ Content exhibits several distinct voices that can jar when read sequentially:
 ### Recommended Unified Style
 
 1. **Default voice: Third-person investigative.** Present claims as "this timeline argues" or "sources indicate" rather than "I believe." Reserve first person for explicitly marked author theses.
-2. **Author thesis blocks:** When presenting original synthesis, use explicit markup: *"Author's thesis (Ari Bencuya):"* or a dedicated callout. Do not interleave personal opinion with sourced claims.
-3. **Proposition lists:** Reserve numbered propositions for methodology (Core Concepts). Avoid proposition-style exposition in narrative articles.
-4. **Tone consistency:** Maintain "investigation, not adjudication" — document claims, trace sources, stay open. Avoid absolute certainty language ("proven," "definitely") unless citing a primary source.
-5. **Block quotes:** Prefer short, punchy quotes. Long passages should be summarized with citation. See PRINT_GOALS §13.
+2. **Author thesis blocks:** When presenting original synthesis, use explicit markup: *"Author's thesis (Ari Bencuya):"* or a dedicated callout. Place at **end of article**, after all cited evidence. Do not interleave personal opinion with sourced claims. The 80/20 rule: ~80% cited evidence, ~20% author thesis.
+3. **Pack, don't pad.** Every sentence must carry information. Remove expository warm-ups ("In order to understand X…"), restated theses from prior articles, multi-sentence transitions, preambles before block quotes. Let cross-references do the connecting.
+4. **Proposition lists:** Reserve numbered propositions for methodology (Core Concepts). Avoid proposition-style exposition in narrative articles.
+5. **Tone consistency:** Maintain "investigation, not adjudication" — document claims, trace sources, stay open. Avoid absolute certainty language ("proven," "definitely") unless citing a primary source.
+6. **Block quotes:** Prefer short, punchy quotes. Long passages should be summarized with citation. See PRINT_GOALS §13.
 
 ### Style Checklist (for editors/AI)
 
@@ -149,33 +150,35 @@ When editing content, if a contradiction or unresolved question appears:
 
 ---
 
-## 6. Content Placement: Canonical Article + References + Appendix
+## 6. Content Placement: Last Significant Century + Appendix
 
 ### Principle
 
-**Bulk of a topic in one article.** Other articles reference it. Overflow goes to appendix.
+**The bulk of a topic belongs in the chapter for the last significant century in which that topic is active.** Earlier chapters mention the topic briefly with a forward cross-reference. Extended evidence, dossiers, and profiles overflow to the appendix.
 
-### Current Overlap Issues
-
-| Topic | Articles Involved | Recommendation |
-|-------|-------------------|----------------|
-| **Deep State** | 05.03.00, 07.01.01, 09.03.00, 11.06.00, 12.x, 14.06.00, 15.02.00 | **Canonical:** 05.03.00 or new "Deep State Origin" in 04 (Pyramidal Empire). Others: 1–2 sentence summary + cross-ref. |
-| **Masons** | 07.01.01 (main), 11.06.00 (British Empire) | 07.01.01 = canonical. 11.06.00: "See §07.01.01 The Masons." |
-| **British Empire as Deep State instrument** | 11.06.00 | Keep; cross-ref Masons, Latin. |
-| **Latin as control** | 09.03.00 (main), 10.x, 11.x | 09.03.00 = canonical. Others: brief + cross-ref. |
-| **Jesuits** | 09.x, 10.x, 11.x, 12.x | Single canonical "Jesuit Operations" or similar; others reference. |
-| **False flags** | 15.05.00, 16.08.00 | 15.05.00 = main; 16.08.00 = appendix investigation. |
-| **Predictive programming** | 15.01.00, 16.03.00 | 15.01.00 = main; 16.03.00 = film/TV/games appendix. |
-| **Mars contacts** | 12.06.00 (Mars Catastrophe), 16.02.00 (full dossier) | 12.06.00 = timeline event; 16.02.00 = appendix. Ensure no duplication of narrative. |
-| **Maxwell/Aether** | 13.06.00, investigations/maxwell-aether | 13.06.00 = timeline; investigations = evidence pool. Good. |
-| **Author profiles** | 15.04.00 (Historical Antibodies), 16.06.00 (profiles) | 16.06.00 = full profiles. 15.04.00: intro + cross-ref. |
+This ensures the reader encounters the full treatment at the point of maximum relevance, while earlier chapters remain lean and chronologically focused.
 
 ### Placement Rules
 
-1. **Main timeline:** One article per major topic. 300–800 words.
-2. **Cross-reference format:** "See [Full Title](/timeline/evt-slug) for full analysis."
-3. **Appendix:** Extended evidence, chronological dossiers, profile bios, investigation summaries.
+1. **Main timeline:** One canonical article per major topic. 300–800 words for standard articles; 800–1500 for canonical topic articles.
+2. **Earlier mentions:** One sentence + link: *"For the full encoding analysis, see [Title](/timeline/evt-slug)."*
+3. **Appendix:** Extended evidence, chronological dossiers, profile bios, investigation summaries. ≤ 3000 words per appendix article.
 4. **Investigations:** Excluded from print. Content articles link via Browser URL.
+
+### Topic Placement Map
+
+| Topic | Last Significant Century | Canonical Article | Appendix Overflow |
+|---|---|---|---|
+| Mars literature | 19th–20th (publication era) | 15.06.01 (reclassified nonfiction) | 16.10 (author profiles), 16.02 (contacts) |
+| Predictive programming | 20th–21st (Wells→Card) | 15.01.00 (literature) | 16.01 (fiction as control), 16.03 (film/TV) |
+| Deep State | 17th (Romanovs/British Empire) | 11.x (canonical) | — |
+| Masons | 13th (Horde era) | 07.01.01 | — |
+| Jesuits | 16th–17th (operations) | 10.x/11.x (canonical) | — |
+| False flags | 21st (architecture) | 15.04.00 | 16.07 (investigation) |
+| Nuclear weapons | 20th (1938+) | 14.07.00 | — |
+| Maxwell/aether | 19th (suppression) | 13.06.00 | 16.09 (energy X-ref) |
+| Weather control | 20th (1946+) | 14.08.00 | — |
+| Historical antibodies | 21st (analysis) | 15.03.00 | 16.06 (profiles) |
 
 ---
 

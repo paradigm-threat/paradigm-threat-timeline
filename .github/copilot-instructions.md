@@ -197,13 +197,13 @@ This ensures links work on the live site regardless of how the repo is hosted.
 - `docs/CONTENT_STRATEGY.md` — writing style, pacing, placement, contradictions, rescan schedule; **consult before content edits; never implement strategy changes without approval**
 - `docs/AGENT_INSTRUCTIONS.md` — detailed agent guide
 - `docs/PRINT_GOALS.md` — print specs and page budget
-- `docs/CONTENT_REDUCTION_TRACKER.md` — tracks progress toward ≤ 400 page target
+- `docs/CONTENT_REDUCTION_TRACKER.md` — tracks progress toward ≤ 350 page target
 - `scripts/renumber-from-hierarchy.py` — re-derives all file numbers from `events.json` hierarchy
 - `scripts/` — all other Python utility scripts
 
 ## Print Size Budget
 
-The PDF is currently **~792 pages / 47 MB** — the target is **≤ 400 pages / ≤ 15 MB**.
+The PDF is currently **~792 pages / 47 MB** — the target is **≤ 350 pages / ≤ 12 MB**.
 When writing or editing content:
 - Keep articles to **300–800 words**; justify anything over 1,500.
 - **Cross-reference** overlapping topics instead of repeating material.

@@ -255,6 +255,7 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 - [The Mars Catastrophe](https://paradigm-threat.net/timeline?view=browser&path=content/12.ce-18th-mudflood-and-pugachev/12.06.00-1774-ce-the-mars-catastrophe.md) — the core Mars catastrophe article
 
 ### Mars Investigations Folder
+- `wget/wells/massacre-of-mankind-2017-reference.md` — Stephen Baxter's 2017 sequel; heat ray fidelity, crystal egg erasure, sigils, Havana (2016) timeline
 - `wotw.md` — Full text of *The War of the Worlds*
 - `wotw-martian-analysis.md` — Technical analysis of the Martian invaders
 - `wotw-martian-civilization.md` — Cross-source intelligence dossier on Martian civilization
@@ -286,3 +287,5 @@ Full-text clue indexes for each Barsoom novel in `wget/burroughs/barsoom/`: loca
 7. **Dick's memory erasure.** The *Total Recall* premise — your real memories of Mars have been erased and replaced with false ones — is itself a meta-description of the fiction-as-erasure technique. Did Dick consciously understand the operation he was describing, or did he arrive at it through pattern recognition?
 
 8. **Wallace's debunking.** Alfred Russel Wallace, co-discoverer of evolution, wrote an entire book (*Is Mars Habitable?*, 1907) debunking Lowell's inhabited-Mars thesis. Why? What institutional pressure would cause a naturalist of Wallace's stature to devote a book to attacking a colleague's Mars observations?
+
+9. **Heat ray adaptation erasure.** Wells described the Heat-Ray as *invisible*, generated in a chamber of "practically absolute non-conductivity" (capacitor-like) and projected by a parabolic mirror. Most WotW adaptations changed it to a visible sci-fi laser. The 2017 authorised sequel (*The Massacre of Mankind*) kept it invisible—published one year after Havana syndrome (2016) was attributed to directed-energy weapons. Coincidence? Was the sequel's primary function to re-insert an accurate DEW description under the guise of Wellsian fiction? See `wget/wells/massacre-of-mankind-2017-reference.md`.

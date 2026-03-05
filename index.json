@@ -541,7 +541,10 @@
       "13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md": {
         "_title": "The Suppression of Maxwell and the Aether"
       },
-      "_count": 12
+      "13.06.01-1910-ce-the-flexner-report-and-bioelectric-suppression.md": {
+        "_title": "The Flexner Report and the Suppression of Bioelectric Medicine"
+      },
+      "_count": 13
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-1900-ce-the-1917-revolution.md": {
@@ -706,13 +709,16 @@
       "16.08.24-michael-cremo.md": {
         "_title": "Michael Cremo (b. 1948)"
       },
+      "16.08.25-jerry-tennant.md": {
+        "_title": "Dr. Jerry Tennant (b. 1940)"
+      },
       "16.09.00-suppressed-energy-technology-cross-reference.md": {
         "_title": "Suppressed Energy Technology: A Cross-Reference"
       },
       "16.10.00-mars-literature-author-profiles.md": {
         "_title": "Mars Literature: Author Profiles and Evidence"
       },
-      "_count": 35
+      "_count": 36
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -720,7 +726,7 @@
       },
       "_count": 1
     },
-    "_count": 204
+    "_count": 206
   },
   "data": {
     "events.json": {},
@@ -951,13 +957,16 @@
         "_count": 1
       },
       "tolkien": {
+        "ARTICLE-palantir-analysis.md": {
+          "_title": "The Palant\u00edri: Tolkien's Seeing-Stones \u2014 Analysis"
+        },
         "INVESTIGATION-tolkien-redacted-fact.md": {
           "_title": "Investigation: Tolkien's Fiction as Redacted Fact"
         },
         "RESEARCH-three-tasks-source-mapping.md": {
           "_title": "Research: Three Tasks \u2014 Silmarillion Source Mapping, Heimskringla Euhemerism, Teutonic Mythology"
         },
-        "_count": 2
+        "_count": 3
       },
       "wells": {
         "index-wells.md": {
@@ -965,7 +974,7 @@
         },
         "_count": 1
       },
-      "_count": 18
+      "_count": 19
     },
     "hairy-mary": {
       "index-hairy-mary-one-more-time.md": {
@@ -1113,6 +1122,12 @@
       },
       "_count": 3
     },
+    "religious-revival": {
+      "1979-religious-revival-investigation.md": {
+        "_title": "Investigation: The 1979 Religious Revival \u2014 CIA Backing and Global Phenomenon"
+      },
+      "_count": 1
+    },
     "remote-viewing": {
       "aether-consciousness.md": {
         "_title": "Remote Viewing as Aether Physics \u2014 Investigation"
@@ -1140,6 +1155,15 @@
       },
       "_count": 4
     },
+    "tennant": {
+      "index-tennant-healing-voltage.md": {
+        "_title": "Dr. Jerry Tennant \u2014 Healing is Voltage: Index of Research and Claims"
+      },
+      "_count": 1
+    },
+    "thornhill": {
+      "_count": 0
+    },
     "thunderbolts-forum-archives.md": {
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
@@ -1149,7 +1173,7 @@
       },
       "_count": 1
     },
-    "_count": 98
+    "_count": 101
   },
   "media": {
     "00.overview": {
@@ -1688,5 +1712,5 @@
     },
     "_count": 1
   },
-  "_count": 491
+  "_count": 496
 }
