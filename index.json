@@ -535,6 +535,9 @@
       "13.03.00-1860-ce-the-assault-on-hordian-memory.md": {
         "_title": "The 19th Century Assault on Hordian Memory"
       },
+      "13.03.01-1830-ce-orphan-trains-trail-of-tears-and-siberian-exile.md": {
+        "_title": "Orphan Trains, the Trail of Tears, and the Exile to Siberia"
+      },
       "13.04.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md": {
         "_title": "The Jesuit Restoration and the Missionary-Military Pattern"
       },
@@ -544,7 +547,7 @@
       "13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md": {
         "_title": "The Suppression of Maxwell and the Aether"
       },
-      "_count": 12
+      "_count": 13
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-1900-ce-the-1917-revolution.md": {
@@ -729,7 +732,7 @@
       },
       "_count": 1
     },
-    "_count": 206
+    "_count": 207
   },
   "data": {
     "events.json": {},
@@ -1107,6 +1110,12 @@
       },
       "_count": 2
     },
+    "orphan-trains": {
+      "orphan-trains-investigation.md": {
+        "_title": "Orphan Trains, Mass Displacement, and the MFEE Thesis"
+      },
+      "_count": 1
+    },
     "other-refs": {
       "index-other-references.md": {
         "_title": "Other Reference Texts \u2014 Index"
@@ -1176,7 +1185,7 @@
       },
       "_count": 1
     },
-    "_count": 101
+    "_count": 102
   },
   "media": {
     "00.overview": {
@@ -1655,9 +1664,12 @@
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdADXFGAehAAA/mQLKRpy8FVMK0IH7jAqrwlYXqqdU1eL1ovAfKoAAA=="
       },
       "tennant-electricity-in-the-body.png": {
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoQAAsABUB8JZACdG1/AoPyxJHsYAD+qf/QV8Sm1qyDVBAIM5Z9xInOOjp7PP5d/yndIgQAbfbwlihzq9EuijkkAAA="
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JaACdAEPDppPXOQAAP6p8gX57AerAAk2KQSaQxJC9A1RxmSuIUW8Me/u1HhUAAA="
       },
-      "_count": 5
+      "tennant-electricity-in-the-body2.png": {
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsABUB8JZACdIExEH2eU6AAAP7Aat78osLAv/g+z0E4MUwudeJIIzGXcrl4aFY3p/1OtFAwYHGlS63tLycKgAA="
+      },
+      "_count": 6
     },
     "15.ce-21st-the-final-struggle": {
       "predictive-programming.png": {
@@ -1710,7 +1722,7 @@
       },
       "_count": 14
     },
-    "_count": 162
+    "_count": 163
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1718,5 +1730,5 @@
     },
     "_count": 1
   },
-  "_count": 498
+  "_count": 501
 }

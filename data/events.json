@@ -1997,7 +1997,30 @@
           "title": "The 19th Century Assault on Hordian Memory",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-1860-ce-the-assault-on-hordian-memory.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-orphan-trains-trail-of-tears-siberian-exile",
+              "title": "Orphan Trains, the Trail of Tears, and the Exile to Siberia",
+              "type": "article",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.03.01-1830-ce-orphan-trains-trail-of-tears-and-siberian-exile.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1790,
+                  "end": 1929,
+                  "calendar": "CE",
+                  "note": "From first Siberian exile (1790) through end of orphan trains (1929)"
+                }
+              ],
+              "related_events": [
+                "evt-the-rebellion-of-pugachev",
+                "evt-the-mudflood-and-world-cataclysm",
+                "evt-assault-on-hordian-memory",
+                "evt-mars-catastrophe",
+                "evt-censorship-and-book-burning"
+              ]
+            }
+          ],
           "dates": [
             {
               "start": 1860,
