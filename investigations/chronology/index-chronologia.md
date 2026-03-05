@@ -1,6 +1,6 @@
 # chronologia.org — Site Index
 
-> Mirror captured 2026-02-22  |  HTML files: 50  |  Images: 11
+> Mirror captured 2026-02-22, expanded 2026-03-05  |  HTML: ~300  |  PDFs: 191  |  Images: 11  |  Total: ~153 MB
 
 
 ## Overview
@@ -93,7 +93,26 @@ reconstruction of history from the New Chronology perspective.
 
 ---
 
-## Chapter Summary
+## History: Fiction or Science? (chronologia1–8)
+
+English translation by Delamere, hosted on chronologia.org. PDF chapters per volume:
+
+| Volume | PDFs | Content |
+|--------|------|---------|
+| chronologia1 | 25 | Foundations, criticism of Scaliger, eclipses, zodiacs |
+| chronologia2 | 23 | Methods, dynastic parallels, Trojan War |
+| chronologia3 | 54 | Astronomical methods, Ptolemy's Almagest |
+| chronologia4 | 79 | **New chronology of Russia** — incl. **4N12-EN-4.pdf** (war against Pugachev / last war against Horde), 4N12-EN-6 (Pugachev in Romanov rendition) |
+| chronologia5 | 0 | Russia=Horde, Ottomans=Atamans (index only; PDFs may use different paths) |
+| chronologia6 | 1 | Biblical Russia, Reformation |
+| chronologia7 | 1 | Reconstruction |
+| chronologia8 | 0 | Book I of Chronology 7 |
+
+Also captured: `en/seven/` (overview), `en/e_books/`, `en/articles/` (incl. Marfull's *Tartar Holy Grail*, *Other Colonization of America*), `en/how_it_was/` (How It Was In Reality, 50 HTML), Golden-book forewords (nch*, basis_of_rome, shahname, vatican, old_maps, ancient_greeks, forgotten_jerusalem).
+
+---
+
+## Chapter Summary (How It Was In Reality)
 
 - **Chapter 01** — THE EPOCH AND PEOPLE OF THE XVI CENTURY
 - **Chapter 02** — THE EPOCH OF THE XVII CENTURY

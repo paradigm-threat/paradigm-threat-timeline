@@ -1101,6 +1101,15 @@
       },
       "_count": 4
     },
+    "mudflood": {
+      "mfee-investigation.md": {
+        "_title": "MFEE Investigation \u2014 Evidence and Map Changes Over Time"
+      },
+      "tartarian-maps-investigation.md": {
+        "_title": "Tartarian Maps Investigation \u2014 Forbidden Maps, Disclosure, and Downloads"
+      },
+      "_count": 2
+    },
     "nuclear-weapons": {
       "nuke-waste-is-safe-investigation.md": {
         "_title": "Investigation: Galen Windsor \"Nuclear Waste is Safe\" \u2014 Alternative Framework Analysis"
@@ -1185,7 +1194,7 @@
       },
       "_count": 1
     },
-    "_count": 102
+    "_count": 104
   },
   "media": {
     "00.overview": {
@@ -1730,5 +1739,5 @@
     },
     "_count": 1
   },
-  "_count": 501
+  "_count": 503
 }

@@ -89,6 +89,10 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 ### Orphan Trains & Mass Displacement
 - [Orphan trains, Trail of Tears, MFEE thesis](orphan-trains/orphan-trains-investigation.md) — First US orphanage (1729 Natchez); orphan trains 1854–1929; Indian boarding schools; Khmer Rouge children; MFEE as catalyst; Trail of Tears scope/Bering–Siberia theory
 
+### Mudflood & MFEE
+- [MFEE investigation](mudflood/mfee-investigation.md) — Evidence of MFEE aftermath; map changes over time; Fomenko map analysis vs. paradigm-threat-files
+- [Tartarian maps investigation](mudflood/tartarian-maps-investigation.md) — Putin–Shaimiev Blaeu map (19 Jan 2017); forbidden maps disclosure; map downloads
+
 ### Joan of Arc
 - [Naming history](joan-of-arc/naming-history.md) — "Joan of Arc" vs "Maid of Orleans"; first attestation
 
