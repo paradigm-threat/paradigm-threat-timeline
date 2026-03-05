@@ -544,10 +544,7 @@
       "13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md": {
         "_title": "The Suppression of Maxwell and the Aether"
       },
-      "13.06.01-1910-ce-the-flexner-report-and-bioelectric-suppression.md": {
-        "_title": "The Flexner Report and the Suppression of Bioelectric Medicine"
-      },
-      "_count": 13
+      "_count": 12
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-1900-ce-the-1917-revolution.md": {
@@ -580,7 +577,10 @@
       "14.08.00-1946-ce-weather-control.md": {
         "_title": "Weather Control: From Martian Beams to HAARP"
       },
-      "_count": 10
+      "14.09.00-1910-ce-the-flexner-report-and-bioelectric-suppression.md": {
+        "_title": "The Flexner Report and the Suppression of Bioelectric Medicine"
+      },
+      "_count": 11
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-the-final-struggle.md": {
@@ -1654,7 +1654,10 @@
       "mockingbird.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdADXFGAehAAA/mQLKRpy8FVMK0IH7jAqrwlYXqqdU1eL1ovAfKoAAA=="
       },
-      "_count": 4
+      "tennant-electricity-in-the-body.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZgCdAEMJv9yoAD+eEoptma06L60sMhwItGI/6N8b0/elinjswUtUvGnYnxvLMTNSd4K4AA="
+      },
+      "_count": 5
     },
     "15.ce-21st-the-final-struggle": {
       "predictive-programming.png": {
@@ -1707,7 +1710,7 @@
       },
       "_count": 14
     },
-    "_count": 161
+    "_count": 162
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1715,5 +1718,5 @@
     },
     "_count": 1
   },
-  "_count": 497
+  "_count": 498
 }

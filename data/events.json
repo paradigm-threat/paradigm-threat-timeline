@@ -2052,29 +2052,7 @@
           "title": "The Suppression of Maxwell and the Aether",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md",
-          "children": [
-            {
-              "id": "evt-flexner-bioelectric-suppression",
-              "title": "The Flexner Report and the Suppression of Bioelectric Medicine",
-              "type": "article",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.06.01-1910-ce-the-flexner-report-and-bioelectric-suppression.md",
-              "children": [],
-              "dates": [
-                {
-                  "start": 1910,
-                  "end": 1935,
-                  "calendar": "CE",
-                  "note": "From the Flexner Report to the closure of the last non-compliant medical schools"
-                }
-              ],
-              "related_events": [
-                "evt-maxwell-and-the-suppression-of-the-aether",
-                "evt-suppressed-energy-cross-reference",
-                "evt-operation-mockingbird",
-                "evt-ap-jerry-tennant"
-              ]
-            }
-          ],
+          "children": [],
           "dates": [
             {
               "start": 1865,
@@ -2089,7 +2067,8 @@
             "evt-operation-mockingbird",
             "evt-nuclear-energy-and-the-bomb",
             "evt-the-rainbow-bridge-bifrost",
-            "evt-the-deep-state-and-the-atlantean-priest-class"
+            "evt-the-deep-state-and-the-atlantean-priest-class",
+            "evt-flexner-bioelectric-suppression"
           ]
         }
       ],
@@ -2270,6 +2249,27 @@
             "evt-operation-mockingbird",
             "evt-maxwell-and-the-suppression-of-the-aether",
             "evt-false-flags"
+          ]
+        },
+        {
+          "id": "evt-flexner-bioelectric-suppression",
+          "title": "The Flexner Report and the Suppression of Bioelectric Medicine",
+          "type": "article",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.09.00-1910-ce-the-flexner-report-and-bioelectric-suppression.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1910,
+              "end": 1935,
+              "calendar": "CE",
+              "note": "From the Flexner Report to the closure of the last non-compliant medical schools"
+            }
+          ],
+          "related_events": [
+            "evt-maxwell-and-the-suppression-of-the-aether",
+            "evt-suppressed-energy-cross-reference",
+            "evt-operation-mockingbird",
+            "evt-ap-jerry-tennant"
           ]
         }
       ],
