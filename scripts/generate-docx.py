@@ -46,10 +46,23 @@ SCRIPT_DIR  = Path(__file__).resolve().parent
 REPO_DIR    = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR  = REPO_DIR / "export"
-OUTPUT_DOCX = EXPORT_DIR / "timeline.docx"
+
+# Chapter prefixes that belong in the appendix volume
+_APPENDIX_PREFIXES = ("16.", "17.")
 
 with open(REPO_DIR / "package.json") as _f:
     PKG_VERSION = json.load(_f)["version"]
+
+
+def _partition_files(md_files: list[Path]):
+    """Split sorted md files into (book_files, appendix_files)."""
+    book, appendix = [], []
+    for p in md_files:
+        if p.name.startswith(_APPENDIX_PREFIXES):
+            appendix.append(p)
+        else:
+            book.append(p)
+    return book, appendix
 
 # ---------------------------------------------------------------------------
 # Roman numerals & tier classifier (shared with generate-pdf.py logic)
@@ -208,9 +221,13 @@ def _add_toc(doc: Document, md_files: list):
 # ---------------------------------------------------------------------------
 class DOCXRenderer:
     def __init__(self):
+        self._img_cache: dict = {}
+        self._reset_doc()
+
+    def _reset_doc(self):
+        """Create a fresh Document with styles and layout."""
         self.doc = Document()
         self.md  = MarkdownIt("commonmark", {"typographer": False}).enable("table")
-        self._img_cache: dict = {}
         self._chapter_counter = 0
         self._current_part_xx = None
         self._current_part_label = ""   # e.g. "Part I — Introduction"
@@ -992,40 +1009,28 @@ class DOCXRenderer:
             self.doc.add_paragraph()
 
     # ---------------------------------------------------------------
-    #  Main driver
+    #  Title page builder
     # ---------------------------------------------------------------
-    def generate(self):
-        EXPORT_DIR.mkdir(exist_ok=True)
-        md_files = sorted(CONTENT_DIR.rglob("*.md"))
-        if not md_files:
-            sys.exit("No markdown files in content/")
-
-        n = len(md_files)
-        print(f"Generating DOCX from {n} content files ...")
-
-        # ---- Title page ----
+    def _add_title_page(self, title: str, subtitle: str, description: str):
         self.doc.add_paragraph()
         self.doc.add_paragraph()
         self.doc.add_paragraph()
         title_para = self.doc.add_paragraph()
         title_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        run = title_para.add_run("Paradigm Threat:")
+        run = title_para.add_run(title)
         run.bold      = True
         run.font.size = Pt(36)
         run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
         sub_para = self.doc.add_paragraph()
         sub_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        sr = sub_para.add_run("The Third Story")
+        sr = sub_para.add_run(subtitle)
         sr.bold      = True
         sr.font.size = Pt(28)
         sr.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
         self.doc.add_paragraph()
         desc_para = self.doc.add_paragraph()
         desc_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        desc_run = desc_para.add_run(
-            "A cross-chronology investigation challenging the official timeline of Earth history \u2014 "
-            "Scaligerian, Fomenko\u2019s New Chronology, Saturnian Cosmology, and indigenous traditions."
-        )
+        desc_run = desc_para.add_run(description)
         desc_run.font.size      = Pt(11)
         desc_run.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
         ver_para = self.doc.add_paragraph()
@@ -1033,8 +1038,19 @@ class DOCXRenderer:
         vr = ver_para.add_run(f"Version {PKG_VERSION}")
         vr.font.size      = Pt(12)
         vr.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
-
         self.doc.add_page_break()
+
+    # ---------------------------------------------------------------
+    #  Core generation (shared between book & appendix)
+    # ---------------------------------------------------------------
+    def _generate_volume(self, md_files: list, output_path: Path,
+                         title: str, subtitle: str, description: str):
+        self._reset_doc()
+        n = len(md_files)
+        print(f"\nGenerating DOCX ({output_path.name}) from {n} content files ...")
+
+        # ---- Title page ----
+        self._add_title_page(title, subtitle, description)
 
         # ---- Table of Contents ----
         _add_toc(self.doc, md_files)
@@ -1042,15 +1058,52 @@ class DOCXRenderer:
         # ---- Articles ----
         for i, p in enumerate(md_files):
             print(f"  [{i + 1:3d}/{n}] {p.name}")
-
-            # Part/chapter articles use _new_section_with_headers (adds page break)
-            # Sub-sections continue on the same page — no break needed
             self.render_article(p)
 
-        print(f"Writing -> {OUTPUT_DOCX}")
-        self.doc.save(str(OUTPUT_DOCX))
-        kb = OUTPUT_DOCX.stat().st_size / 1024
+        print(f"Writing -> {output_path}")
+        self.doc.save(str(output_path))
+        kb = output_path.stat().st_size / 1024
         print(f"Done.  {kb:.0f} KB")
+
+    # ---------------------------------------------------------------
+    #  Public entry points
+    # ---------------------------------------------------------------
+    def generate_book(self):
+        EXPORT_DIR.mkdir(exist_ok=True)
+        all_files = sorted(CONTENT_DIR.rglob("*.md"))
+        book_files, _ = _partition_files(all_files)
+        if not book_files:
+            sys.exit("No book markdown files in content/")
+        self._generate_volume(
+            book_files,
+            EXPORT_DIR / "timeline-book.docx",
+            "Paradigm Threat:",
+            "The Third Story",
+            "A cross-chronology investigation challenging the official timeline "
+            "of Earth history \u2014 Scaligerian, Fomenko\u2019s New Chronology, "
+            "Saturnian Cosmology, and indigenous traditions.",
+        )
+
+    def generate_appendix(self):
+        EXPORT_DIR.mkdir(exist_ok=True)
+        all_files = sorted(CONTENT_DIR.rglob("*.md"))
+        _, appendix_files = _partition_files(all_files)
+        if not appendix_files:
+            print("No appendix markdown files found — skipping appendix DOCX.")
+            return
+        self._generate_volume(
+            appendix_files,
+            EXPORT_DIR / "timeline-appendix.docx",
+            "Paradigm Threat:",
+            "Appendix & References",
+            "Supplementary material, author profiles, investigation cross-references, "
+            "and credits for the Paradigm Threat timeline project.",
+        )
+
+    def generate(self):
+        """Generate both book and appendix DOCX files."""
+        self.generate_book()
+        self.generate_appendix()
 
 
 # ---------------------------------------------------------------------------

@@ -83,7 +83,7 @@
         "_title": "The Length of a Year Changes Throughout Antiquity"
       },
       "00.03.02-timeline-synchronization.md": {
-        "_title": "Timeline synchronization"
+        "_title": "Timeline Synchronization"
       },
       "00.03.03-cosmic-life-cycle.md": {
         "_title": "Cosmic Life Cycle"
@@ -739,7 +739,25 @@
       "16.12.00-fomenko-and-the-pyramid-question.md": {
         "_title": "Fomenko and the Pyramid Question"
       },
-      "_count": 38
+      "16.13.00-asimov-three-laws-and-marx-encoding-extended.md": {
+        "_title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence"
+      },
+      "16.14.00-orphan-trains-trail-of-tears-evidence.md": {
+        "_title": "Orphan Trains, Trail of Tears, Siberian Exile \u2014 Extended Evidence"
+      },
+      "16.15.00-napoleonic-wars-1812-extended-evidence.md": {
+        "_title": "Napoleonic Wars and 1812 \u2014 Extended Evidence"
+      },
+      "16.16.00-authors-cataclysm-texts-extended.md": {
+        "_title": "Authors Who Read Ancient Sources as World Cataclysm (Extended)"
+      },
+      "16.17.00-timeline-synchronization-tables.md": {
+        "_title": "Timeline Synchronization: Date Tables (Extended)"
+      },
+      "16.18.00-pyramids-myths-evidence.md": {
+        "_title": "Pyramids: Myths vs Reality \u2014 Evidence Table (Extended)"
+      },
+      "_count": 44
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -747,7 +765,7 @@
       },
       "_count": 1
     },
-    "_count": 212
+    "_count": 218
   },
   "data": {
     "events.json": {},
@@ -760,6 +778,9 @@
     },
     "ANIMATION_TRACKER.md": {
       "_title": "Animation Tracker"
+    },
+    "APPENDIX_MOVE_RECOMMENDATIONS.md": {
+      "_title": "Appendix Move Recommendations"
     },
     "CONCLUSIONS.md": {
       "_title": "Conclusions"
@@ -788,7 +809,7 @@
     "STRATEGY_RESCAN_LOG.md": {
       "_title": "Strategy Rescan Log"
     },
-    "_count": 11
+    "_count": 12
   },
   "export": {
     "timeline.pdf": {},
@@ -1379,7 +1400,7 @@
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgCdADzsjDHAAD2D3t3QJXejsCaVd9A9VRzGaD4y4XdSoXwXU7fIoRhozsneIAAAA=="
       },
       "pyramids_around_the_world.png": {
-        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JQBOgB7Hg5JPAAD9tg+/v+gjTyhaPZaAL9Gg4lG8xmuTij9WBudFuSB6AAAA"
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAsABUB8JZACdAEOeSMbnAAA/ZwW0RjUJuBaW7xtHLVxpMGy14iMUPBZO8QAAAA="
       },
       "sodom_and_gomorrah.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAwABUB8JbACdADxGZErm8gAAP5AALyFvRxSAt+kn7KX+8yO74J/VYuXtuA2ZFXk6SagXl1TW46nIGOZ88q0vz8ZULr5U8ZAAA=="
@@ -1766,5 +1787,5 @@
     },
     "_count": 1
   },
-  "_count": 512
+  "_count": 519
 }

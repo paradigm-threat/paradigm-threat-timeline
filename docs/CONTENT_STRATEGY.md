@@ -16,7 +16,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 |-------|----------|-----------------|
 | **Personal/confessional** | Introduction (00.00.00) | First person, author's journey, faith/tech framing |
 | **Technical/scholarly** | Maxwell/Aether (13.06.00), Core Concepts (00.03.00) | Equations, citations, proposition lists, "Observation — not a theory" |
-| **Polemical/thesis-driven** | Controlled Opposition (15.02.00), Thunderbolts Case Study | "Author's thesis (Ari Bencuya)," argumentative, personal experience |
+| **Polemical/thesis-driven** | Controlled Opposition (15.02.00), Thunderbolts Case Study | "Author's thesis," argumentative, personal experience |
 | **Expository/survey** | Mars Contacts (16.02.00), Building New Chronology (04.01.00) | Dossier format, tables, chronological narrative |
 | **Mythological/cosmic** | Atlantis (02.07.00), Dark Ages events | Present-tense cosmic description, sparse citation |
 | **Investigative/debate** | Hairy Mary (06.01.01), Operation Mockingbird (14.06.00) | Art-historical argument, Fomenko quote integration |
@@ -24,7 +24,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 ### Recommended Unified Style
 
 1. **Default voice: Third-person investigative.** Present claims as "this timeline argues" or "sources indicate" rather than "I believe." Reserve first person for explicitly marked author theses.
-2. **Author thesis blocks:** When presenting original synthesis, use explicit markup: *"Author's thesis (Ari Bencuya):"* or a dedicated callout. Place at **end of article**, after all cited evidence. Do not interleave personal opinion with sourced claims. The 80/20 rule: ~80% cited evidence, ~20% author thesis.
+2. **Author thesis blocks:** When presenting original synthesis, use explicit markup: *"Author's thesis:"* or a dedicated callout. Place at **end of article**, after all cited evidence. Do not interleave personal opinion with sourced claims. The 80/20 rule: ~80% cited evidence, ~20% author thesis.
 3. **Pack, don't pad.** Every sentence must carry information. Remove expository warm-ups ("In order to understand X…"), restated theses from prior articles, multi-sentence transitions, preambles before block quotes. Let cross-references do the connecting.
 4. **Proposition lists:** Reserve numbered propositions for methodology (Core Concepts). Avoid proposition-style exposition in narrative articles.
 5. **Tone consistency:** Maintain "investigation, not adjudication" — document claims, trace sources, stay open. Avoid absolute certainty language ("proven," "definitely") unless citing a primary source.

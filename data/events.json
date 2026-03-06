@@ -72,7 +72,7 @@
             },
             {
               "id": "evt-timeline-synchronization",
-              "title": "Timeline synchronization",
+              "title": "Timeline Synchronization",
               "type": "article",
               "md_path": "content/00.overview/00.03.02-timeline-synchronization.md",
               "children": [],
@@ -2903,6 +2903,54 @@
             "evt-imperial-technology-and-the-knowledge-of-the-horde",
             "evt-ap-fomenko"
           ]
+        },
+        {
+          "id": "evt-asimov-marx-extended",
+          "title": "Asimov: Three Laws and Marx Encoding — Extended Evidence",
+          "type": "article",
+          "md_path": "content/16.appendix/16.13.00-asimov-three-laws-and-marx-encoding-extended.md",
+          "children": [],
+          "related_events": ["evt-asimov-marx-in-space", "evt-mars-literature-reclassified"]
+        },
+        {
+          "id": "evt-orphan-trains-evidence",
+          "title": "Orphan Trains, Trail of Tears, Siberian Exile — Extended Evidence",
+          "type": "article",
+          "md_path": "content/16.appendix/16.14.00-orphan-trains-trail-of-tears-evidence.md",
+          "children": [],
+          "related_events": ["evt-orphan-trains-trail-of-tears-siberian-exile", "evt-the-mudflood-and-world-cataclysm"]
+        },
+        {
+          "id": "evt-napoleonic-1812-extended",
+          "title": "Napoleonic Wars and 1812 — Extended Evidence",
+          "type": "article",
+          "md_path": "content/16.appendix/16.15.00-napoleonic-wars-1812-extended-evidence.md",
+          "children": [],
+          "related_events": ["evt-napoleonic-wars", "evt-aftermath-of-1812-russian-pursuit-to-paris"]
+        },
+        {
+          "id": "evt-authors-cataclysm-appendix",
+          "title": "Authors Who Read Ancient Sources as World Cataclysm (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.16.00-authors-cataclysm-texts-extended.md",
+          "children": [],
+          "related_events": ["evt-authors-cataclysm-texts", "evt-authors-challenging-chronology"]
+        },
+        {
+          "id": "evt-timeline-sync-tables",
+          "title": "Timeline Synchronization: Date Tables (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.17.00-timeline-synchronization-tables.md",
+          "children": [],
+          "related_events": ["evt-timeline-synchronization"]
+        },
+        {
+          "id": "evt-pyramids-myths-evidence",
+          "title": "Pyramids: Myths vs Reality — Evidence Table (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.18.00-pyramids-myths-evidence.md",
+          "children": [],
+          "related_events": ["evt-pyramids-myths-vs-reality", "evt-geopolymer-concrete-horde-secret"]
         }
       ]
     },

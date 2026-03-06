@@ -272,7 +272,7 @@ Each article has two modes of content. Keep them cleanly separated:
    80%+ of article text.
 
 2. **Author thesis (usually at end of article).** Clearly marked:
-   *"Author's thesis (Ari Bencuya):"* or bold **I believe / I propose**.
+   *"Author's thesis:"* or bold **I believe / I propose**.
    This is where personal sentiment, original synthesis, and interpretive
    conclusions go. Never interleaved with sourced claims.
 
