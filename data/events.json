@@ -2336,7 +2336,7 @@
           "id": "evt-asimov-marx-in-space",
           "title": "Asimov: Marx in Space!",
           "type": "article",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.01.01-1942-ce-asimov-marx-in-space.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.02.00-1942-ce-asimov-marx-in-space.md",
           "children": [],
           "dates": [
             {
@@ -2357,7 +2357,7 @@
           "id": "evt-censorship-and-book-burning",
           "title": "Censorship and Book Burning: From Alexandria to the Internet",
           "type": "article",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.02.00-censorship-and-book-burning.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.03.00-censorship-and-book-burning.md",
           "children": [],
           "dates": [
             {
@@ -2378,7 +2378,7 @@
           "id": "evt-historical-antibodies",
           "title": "Historical Antibodies: Independent Agents Against Erasure",
           "type": "article",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.03.00-historical-antibodies.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.04.00-historical-antibodies.md",
           "children": [],
           "dates": [
             {
@@ -2399,7 +2399,7 @@
           "id": "evt-false-flags",
           "title": "False Flags: The Architecture of Manufactured War",
           "type": "article",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.04.00-false-flags-the-architecture-of-manufactured-war.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.05.00-false-flags-the-architecture-of-manufactured-war.md",
           "children": [],
           "dates": [
             {
@@ -2422,7 +2422,7 @@
           "id": "evt-cern-lhc-portal",
           "title": "2009 CE: CERN's LHC and the Portal — Aether Manipulation in the Open",
           "type": "event",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.05.00-2009-ce-cern-lhc-and-the-portal.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.06.00-2009-ce-cern-lhc-and-the-portal.md",
           "children": [],
           "dates": [
             {
@@ -2441,16 +2441,37 @@
           ]
         },
         {
+          "id": "evt-population-control",
+          "title": "Population Control: From 1492 to the Technocratic Grid",
+          "type": "article",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.07.00-2000-ce-population-control.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1492,
+              "end": 2026,
+              "calendar": "CE",
+              "note": "Full span; main article focuses on 21st century forms"
+            }
+          ],
+          "related_events": [
+            "evt-the-apocalypse-crusade-reverse-exodus",
+            "evt-sept-6-1666-ce-london-burns-to-the-ground",
+            "evt-flexner-bioelectric-suppression",
+            "evt-population-control-timeline"
+          ]
+        },
+        {
           "id": "evt-controlled-opposition",
           "title": "Controlled Opposition: Managed Disclosure and Gatekeeping",
           "type": "article",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.06.00-ce-controlled-opposition-managed-disclosure.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.08.00-ce-controlled-opposition-managed-disclosure.md",
           "children": [
             {
               "id": "evt-mars-literature-reclassified",
               "title": "Mars Literature as Reclassified Nonfiction",
               "type": "article",
-              "md_path": "content/15.ce-21st-the-final-struggle/15.06.01-1880-ce-mars-literature-as-reclassified-nonfiction.md",
+              "md_path": "content/15.ce-21st-the-final-struggle/15.08.01-1880-ce-mars-literature-as-reclassified-nonfiction.md",
               "children": [],
               "dates": [
                 {
@@ -2832,6 +2853,20 @@
             "evt-predictive-programming",
             "evt-mars-contacts-timeline",
             "evt-antibodies-appendix"
+          ]
+        },
+        {
+          "id": "evt-population-control-timeline",
+          "title": "Population Control: A Timeline (15th–21st Centuries)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.11.00-population-control-timeline-15th-21st-centuries.md",
+          "children": [],
+          "related_events": [
+            "evt-population-control",
+            "evt-the-apocalypse-crusade-reverse-exodus",
+            "evt-sept-6-1666-ce-london-burns-to-the-ground",
+            "evt-flexner-bioelectric-suppression",
+            "evt-pp-film-tv-games"
           ]
         }
       ]

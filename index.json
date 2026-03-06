@@ -592,28 +592,31 @@
       "15.01.00-1890-ce-20th-century-predictive-programming-literature.md": {
         "_title": "20th Century Predictive Programming: Literature as Historical Erasure"
       },
-      "15.01.01-1942-ce-asimov-marx-in-space.md": {
+      "15.02.00-1942-ce-asimov-marx-in-space.md": {
         "_title": "Asimov: Marx in Space!"
       },
-      "15.02.00-censorship-and-book-burning.md": {
+      "15.03.00-censorship-and-book-burning.md": {
         "_title": "Censorship and Book Burning: From Alexandria to the Internet"
       },
-      "15.03.00-historical-antibodies.md": {
+      "15.04.00-historical-antibodies.md": {
         "_title": "Historical Antibodies: Independent Agents Against Erasure"
       },
-      "15.04.00-false-flags-the-architecture-of-manufactured-war.md": {
+      "15.05.00-false-flags-the-architecture-of-manufactured-war.md": {
         "_title": "False Flags: The Architecture of Manufactured War"
       },
-      "15.05.00-2009-ce-cern-lhc-and-the-portal.md": {
+      "15.06.00-2009-ce-cern-lhc-and-the-portal.md": {
         "_title": "2009 CE: CERN's LHC and the Portal \u2014 Aether Manipulation in the Open"
       },
-      "15.06.00-ce-controlled-opposition-managed-disclosure.md": {
+      "15.07.00-2000-ce-population-control.md": {
+        "_title": "Population Control: From 1492 to the Technocratic Grid"
+      },
+      "15.08.00-ce-controlled-opposition-managed-disclosure.md": {
         "_title": "Controlled Opposition: Managed Disclosure and Gatekeeping"
       },
-      "15.06.01-1880-ce-mars-literature-as-reclassified-nonfiction.md": {
+      "15.08.01-1880-ce-mars-literature-as-reclassified-nonfiction.md": {
         "_title": "Mars Literature as Reclassified Nonfiction"
       },
-      "_count": 9
+      "_count": 10
     },
     "16.appendix": {
       "16.00.00-appendix.md": {
@@ -724,7 +727,10 @@
       "16.10.00-mars-literature-author-profiles.md": {
         "_title": "Mars Literature: Author Profiles and Evidence"
       },
-      "_count": 36
+      "16.11.00-population-control-timeline-15th-21st-centuries.md": {
+        "_title": "Population Control: A Timeline (15th\u201321st Centuries)"
+      },
+      "_count": 37
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -732,7 +738,7 @@
       },
       "_count": 1
     },
-    "_count": 207
+    "_count": 209
   },
   "data": {
     "events.json": {},
@@ -1681,10 +1687,13 @@
       "_count": 6
     },
     "15.ce-21st-the-final-struggle": {
+      "population-control.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoQAAsABUB8JYgCdAEe9MaVCqAAAP5AxSwp0RiGWjPudZdajH2hmFG4+XmaGQ/Y8pAAAA=="
+      },
       "predictive-programming.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JbACdADIvAhcAAD+g5npqLzLSmmW8n5hcxBBGGKswgmdayzezWlqiwW6y+AA"
       },
-      "_count": 1
+      "_count": 2
     },
     "16.appendix": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1723,15 +1732,18 @@
       "na-morozov.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAsABUB8JQBOgBo5gyuPAAD+g+vxmBEAFV30/L7qW0KirnwSwXEr304EA06UxHnnogKCwSL+T9Lrse1wAA=="
       },
+      "population-control.png": {
+        "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JbACdAENfMKzbVAA/qjTsCbnlfW8QOGGyB/CFfjSEgJ4nN2ZvpBCE3bBk0rchtpLi4TVMgu/AAAA"
+      },
       "ralph_juergens.png": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAsABUB8JbACdAD772ONwAD+wDu6wSN/qeSDTfK0U4R0RO8xL01useD+J0XsHLrziH0oKI46EdMDBOdG5L1WksTwAA=="
       },
       "wal-thornhill.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA"
       },
-      "_count": 14
+      "_count": 15
     },
-    "_count": 163
+    "_count": 165
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1739,5 +1751,5 @@
     },
     "_count": 1
   },
-  "_count": 503
+  "_count": 507
 }
