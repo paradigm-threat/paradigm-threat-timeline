@@ -291,6 +291,26 @@ class DOCXRenderer:
         cs.paragraph_format.space_before = Pt(2)
         cs.paragraph_format.space_after  = Pt(8)
 
+        # TOC styles — smaller font for compact index
+        toc_specs = {
+            "TOC 1": (9, False, RGBColor(0x1a, 0x1a, 0x1a)),  # Parts
+            "TOC 2": (8.5, False, RGBColor(0x2c, 0x2c, 0x2c)),  # Chapters
+            "TOC 3": (8, False, RGBColor(0x44, 0x44, 0x44)),  # Sub-sections
+        }
+        for toc_name, (sz, bold, clr) in toc_specs.items():
+            try:
+                toc_style = doc.styles[toc_name]
+            except KeyError:
+                toc_style = doc.styles.add_style(toc_name, WD_STYLE_TYPE.PARAGRAPH)
+            toc_style.base_style = doc.styles["Normal"]
+            toc_style.font.name = self.FONT_SERIF
+            toc_style.font.size = Pt(sz)
+            toc_style.font.bold = bold
+            toc_style.font.color.rgb = clr
+            toc_style.paragraph_format.space_before = Pt(1)
+            toc_style.paragraph_format.space_after = Pt(1)
+            toc_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+
     # ---------------------------------------------------------------
     #  Page layout: 6x9, equal margins, running headers
     # ---------------------------------------------------------------
@@ -925,7 +945,6 @@ class DOCXRenderer:
         if tier == "part":
             # ── PART ──────────────────────────────────────────────
             self._current_part_xx = xx
-            self._chapter_counter = 0
             self._current_part_label = f"Part {roman} — {h1_title}"
 
             # New section with updated running header

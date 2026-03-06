@@ -355,7 +355,7 @@ class PDFRenderer:
 
         # Part / Chapter counters
         self._current_part_xx = None   # XX string of current Part
-        self._chapter_counter = 0      # resets per Part
+        self._chapter_counter = 0      # increments continuously across all parts
         self._current_part_num = 0     # integer for Roman numeral
 
     # ---------------------------------------------------------------
@@ -1175,7 +1175,6 @@ class PDFRenderer:
         if tier == "part":
             # ── PART ──────────────────────────────────────────────
             self._current_part_xx = xx
-            self._chapter_counter = 0
             self._current_part_num = part_num
 
             # Update running headers

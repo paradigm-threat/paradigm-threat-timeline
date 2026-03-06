@@ -10,6 +10,7 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 
 ### Chronology
 - [creation-dates-validation](creation-dates-validation.md) — Validate Jno Cook's claim about differing civilization creation dates
+- [Creation event interpretations across religions](chronology/creation-event-interpretations.md) — Compare creation order, first-man claims, emanation models, and cyclical cosmologies across the downloaded holy-text corpus
 - [chronologia.org index](chronology/index-chronologia.md) — Fomenko's New Chronology site mirror index
 - [Die Offenbarung Johannis](chronology/index-offenbarung.md) — Morozov's Revelation investigation
 - [Offenbarung text](chronology/text_formatted.md) | [raw](chronology/text.md)
