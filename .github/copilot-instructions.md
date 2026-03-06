@@ -108,10 +108,13 @@ npm run export
 
 This runs `scripts/export.sh`, which:
 1. Creates `.venv/` if it doesn't exist (`python3 -m venv .venv`)
-2. Installs/upgrades the required packages into the venv
-3. Runs `generate-pdf.py` and `generate-docx.py` using the venv Python
+2. Installs/upgrades the required packages (`fpdf2`, `markdown-it-py`, `Pillow`, `python-docx`) into the venv
+3. Runs `generate-docx.py` using the venv Python
+4. Converts DOCX → PDF via LibreOffice (`libreoffice --headless --convert-to pdf`); if LibreOffice is not installed, falls back to `generate-pdf.py`
 
-**Do not** use bare `python3 scripts/generate-pdf.py` — it will fail if the system Python lacks the dependencies. Always use `npm run export`.
+**Do not** use bare `python3 scripts/generate-pdf.py` or `python3 scripts/generate-docx.py` — they will fail if the system Python lacks the dependencies. Always use `npm run export`.
+
+> **LibreOffice dependency:** The PDF conversion requires `libreoffice` on the PATH. On Ubuntu/Debian: `sudo apt install libreoffice`. On macOS: `brew install --cask libreoffice`. Without it, the fallback native PDF generator produces lower-fidelity output.
 
 ## Image Generation (Golden Age vs Dark Age)
 

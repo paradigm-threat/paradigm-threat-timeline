@@ -163,6 +163,9 @@
       "03.04.02-pyramids-were-portals.md": {
         "_title": "Pyramids were Portals"
       },
+      "03.04.03-pyramids-myths-vs-reality.md": {
+        "_title": "Pyramids: Myths vs Reality"
+      },
       "03.05.00-2349-bce-jupiter-disappears-and-venus-attacks-earth.md": {
         "_title": "September 8 - Jupiter disappears and Venus attacks Earth"
       },
@@ -193,7 +196,7 @@
       "03.12.00-684-bce-solar-system-becomes-stable.md": {
         "_title": "Solar System becomes stable"
       },
-      "_count": 17
+      "_count": 18
     },
     "04.the-blip": {
       "04.00.00-670-bce-the-blip.md": {
@@ -289,7 +292,10 @@
       "08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md": {
         "_title": "Imperial Technology and the Knowledge of the Horde"
       },
-      "_count": 5
+      "08.03.01-geopolymer-concrete-horde-secret.md": {
+        "_title": "Geopolymer Concrete: The Horde's Construction Secret"
+      },
+      "_count": 6
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "09.00.00-1400-ce-15th-century-ottoman-conquest-of-europe.md": {
@@ -730,7 +736,10 @@
       "16.11.00-population-control-timeline-15th-21st-centuries.md": {
         "_title": "Population Control: A Timeline (15th\u201321st Centuries)"
       },
-      "_count": 37
+      "16.12.00-fomenko-and-the-pyramid-question.md": {
+        "_title": "Fomenko and the Pyramid Question"
+      },
+      "_count": 38
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -738,7 +747,7 @@
       },
       "_count": 1
     },
-    "_count": 209
+    "_count": 212
   },
   "data": {
     "events.json": {},
@@ -1366,8 +1375,11 @@
       "prometheus.jpg": {
         "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAA0ABUB8JbACdADRiwUiAAD+QRRzw/GvMG6LLtFnKm/j5vJTGkZUqX344h/rRIy6cBC5sIxshLdFWl5QUE0QK3qbvikAAmVmqs+mBkAAAA=="
       },
-      "pyramids_around_the_world.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAA4ABUB8JZwAAqsfIyQAAP6sP7Tmc3l6GHWZmFm+n6/1jxzDOeT9yo29RA9i3Bl7c1xdQmAAAA=="
+      "pyramid-myths-vs-reality.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgCdADzsjDHAAD2D3t3QJXejsCaVd9A9VRzGaD4y4XdSoXwXU7fIoRhozsneIAAAA=="
+      },
+      "pyramids_around_the_world.png": {
+        "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JQBOgB7Hg5JPAAD9tg+/v+gjTyhaPZaAL9Gg4lG8xmuTij9WBudFuSB6AAAA"
       },
       "sodom_and_gomorrah.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAwABUB8JbACdADxGZErm8gAAP5AALyFvRxSAt+kn7KX+8yO74J/VYuXtuA2ZFXk6SagXl1TW46nIGOZ88q0vz8ZULr5U8ZAAA=="
@@ -1378,7 +1390,7 @@
       "venus_and_mars.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAA4ABUB8JZACdAEfbp1dHS1AAP6HVvaPOyB885VdhEKQrUja0JwvEX/m9rU1qnrvaX5pMYezbs+Fs6EvTaxmaQN5xHl5mAA="
       },
-      "_count": 19
+      "_count": 20
     },
     "04.the-blip": {
       "684bce_1053ce_blip.png": {
@@ -1519,10 +1531,13 @@
       "imperial-technology.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAsABUB8JaACdADBCAAA/qtbn77I3Z6mLlmzjdqb/1qICSf8+ON7NdnvcsSTXEAAAA=="
       },
+      "pyramid-concrete.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JZgCdAEUrt7dcIAA/qwVPyVzaI5miDD076nxMImpy8TwkpK/nL0KjG1lxU0YhovVAm7AwAA="
+      },
       "reverse-exodus-theory.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAsABUB8JaACdADWzFp+AAD+qhRmWaeqsZvgnVkYi9BHvkJEpYcrpDbJ0ePixdtmd1ZuweqrAAAA"
       },
-      "_count": 9
+      "_count": 10
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "1421CE-meteor-yaroslavl.png": {
@@ -1743,7 +1758,7 @@
       },
       "_count": 15
     },
-    "_count": 165
+    "_count": 167
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1751,5 +1766,5 @@
     },
     "_count": 1
   },
-  "_count": 507
+  "_count": 512
 }

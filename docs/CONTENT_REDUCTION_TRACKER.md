@@ -115,6 +115,8 @@ Record each reduction pass below. One row per editing session.
 
 | 2026-03-03 | Micro-pass (108+ files) | P4: Systematic prose tightening | 84,002 | 75,189 | ~29 | All 183 content files reviewed; 108+ condensed 1-40w each; diminishing returns reached — most files at compression floor |
 
+| 2026-03-06 | Phase B + Cross-ref pass | P3+P4: Pack, dedupe, X-ref | — | — | ~25 | Children of Men dedupe (15.07, 16.11→16.03); 15.01 Tolkien tables→16.01 appendix, pack Burroughs/Card; 15.04 antibodies profiles→bullets+16.06; 15.05 false-flags case studies→condensed+16.07; cross-refs: 05→Atlantis, 11.02→Jesuits, 13.03→Population Control |
+
 **Cumulative savings (micro-pass):** ~8,813 words → ~29 pages estimated
 **Total savings (all sessions):** ~71,674 words → ~239 pages estimated
 

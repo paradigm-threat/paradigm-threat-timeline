@@ -308,7 +308,7 @@
           "md_path": "content/03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the-garden-of-eden.md",
           "children": [],
           "media": [
-            "/media/03.the-dark-ages/pyramids_around_the_world.jpg"
+            "/media/03.the-dark-ages/pyramids_around_the_world.png"
           ]
         },
         {
@@ -349,6 +349,16 @@
               "children": [],
               "media": [
                 "/media/03.the-dark-ages/history_pyramid_gates1.jpg"
+              ]
+            },
+            {
+              "id": "evt-pyramids-myths-vs-reality",
+              "title": "Pyramids: Myths vs Reality",
+              "type": "article",
+              "md_path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
+              "children": [],
+              "media": [
+                "/media/03.the-dark-ages/pyramid-myths-vs-reality.png"
               ]
             }
           ],
@@ -890,7 +900,18 @@
           "title": "Imperial Technology and the Knowledge of the Horde",
           "type": "article",
           "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-geopolymer-concrete-horde-secret",
+              "title": "Geopolymer Concrete: The Horde's Construction Secret",
+              "type": "article",
+              "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.01-geopolymer-concrete-horde-secret.md",
+              "children": [],
+              "media": [
+                "/media/08.ce-14th-great-expansion-of-the-mongol-slav/pyramid-concrete.png"
+              ]
+            }
+          ],
           "media": []
         }
       ],
@@ -2867,6 +2888,20 @@
             "evt-sept-6-1666-ce-london-burns-to-the-ground",
             "evt-flexner-bioelectric-suppression",
             "evt-pp-film-tv-games"
+          ]
+        },
+        {
+          "id": "evt-fomenko-pyramid-question",
+          "title": "Fomenko and the Pyramid Question",
+          "type": "article",
+          "md_path": "content/16.appendix/16.12.00-fomenko-and-the-pyramid-question.md",
+          "children": [],
+          "related_events": [
+            "evt-pyramids-were-portals",
+            "evt-pyramids-myths-vs-reality",
+            "evt-geopolymer-concrete-horde-secret",
+            "evt-imperial-technology-and-the-knowledge-of-the-horde",
+            "evt-ap-fomenko"
           ]
         }
       ]
