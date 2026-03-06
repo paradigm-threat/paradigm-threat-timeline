@@ -263,6 +263,13 @@
             "/media/02.the-golden-age/quantum-entanglement.png",
             "/media/02.the-golden-age/wormhole.jpg"
           ]
+        },
+        {
+          "id": "evt-the-seven-days-of-creation",
+          "title": "The Seven Days of Creation: A Compressed Memory of the Saturnian Epoch",
+          "type": "article",
+          "md_path": "content/02.the-golden-age/02.10.00-the-seven-days-of-creation.md",
+          "children": []
         }
       ],
       "dates": [
@@ -853,7 +860,7 @@
     },
     {
       "id": "evt-14th-century-ce-great-expansion-of-the-mongol-slav",
-      "title": "14th Century C.E.: The Great Expansion — Triumph and Betrayal",
+      "title": "14th Century C.E.: The Great Expansion \u2014 Triumph and Betrayal",
       "type": "event",
       "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.00.00-1300-ce-14th-century-great-expansion-of-the-mongol-slavic-horde.md",
       "children": [
@@ -876,7 +883,7 @@
           "children": [
             {
               "id": "evt-european-castles-fortresses-against-giants",
-              "title": "European Castles — Fortresses Against Giants",
+              "title": "European Castles \u2014 Fortresses Against Giants",
               "type": "article",
               "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.01-european-castles-fortresses-against-giants.md",
               "children": [],
@@ -980,7 +987,7 @@
         },
         {
           "id": "evt-hundred-years-war-ends",
-          "title": "Hundred Years' War ends — Fall of Czar-Grad (1453 CE)",
+          "title": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)",
           "type": "event",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md",
           "children": [],
@@ -1077,7 +1084,7 @@
           "dates": [
             {
               "calendar": "CE",
-              "note": "Mirror date of 1492 BCE Exodus — launch of the Reverse Exodus programme",
+              "note": "Mirror date of 1492 BCE Exodus \u2014 launch of the Reverse Exodus programme",
               "source": "Paradigm Threat (original theory)"
             }
           ]
@@ -1202,7 +1209,7 @@
           "children": [
             {
               "id": "evt-cathar-khazar-katya-link",
-              "title": "The Cathar–Khazar–Katya Connection",
+              "title": "The Cathar\u2013Khazar\u2013Katya Connection",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.05.01-cathar-khazar-katya-link.md",
               "children": [],
@@ -1416,7 +1423,7 @@
             },
             {
               "id": "evt-cossackpolish-war-begins-ethnic-cleansing-of-russi",
-              "title": "Cossack–Polish War begins ethnic cleansing of Russians in Ukraine",
+              "title": "Cossack\u2013Polish War begins ethnic cleansing of Russians in Ukraine",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.04-1648-ce-cossackpolish-war-ethnic-cleansing-of-russians-in-ukraine.md",
               "children": [],
@@ -1765,7 +1772,7 @@
     },
     {
       "id": "evt-18th-19th-century",
-      "title": "18th – 19th Century",
+      "title": "18th \u2013 19th Century",
       "type": "event",
       "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.00.00-1700-ce-18th-19th-century.md",
       "children": [
@@ -1891,7 +1898,7 @@
         },
         {
           "id": "evt-trail-of-tears-century-long-erasure",
-          "title": "The Trail of Tears: A Century-Long Erasure (1758–1839+)",
+          "title": "The Trail of Tears: A Century-Long Erasure (1758\u20131839+)",
           "type": "article",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.07.00-1758-ce-the-trail-of-tears-century-long-erasure.md",
           "children": [],
@@ -1907,7 +1914,7 @@
               "end": 1839,
               "calendar": "CE",
               "source": "Scaligerian",
-              "note": "Official Trail of Tears forced marches — end of century-long campaign",
+              "note": "Official Trail of Tears forced marches \u2014 end of century-long campaign",
               "confidence": "High"
             }
           ],
@@ -1935,13 +1942,13 @@
       "children": [
         {
           "id": "evt-napoleonic-wars",
-          "title": "Napoleonic Wars — Reverse Crusade I",
+          "title": "Napoleonic Wars \u2014 Reverse Crusade I",
           "type": "event",
           "md_path": "content/13.ce-19th-rise-of-communism/13.01.00-1803-ce-napoleonic-wars.md",
           "children": [
             {
               "id": "evt-napoleon-invades-russia",
-              "title": "Napoleon invades Russia — Reverse Crusade I",
+              "title": "Napoleon invades Russia \u2014 Reverse Crusade I",
               "type": "event",
               "md_path": "content/13.ce-19th-rise-of-communism/13.01.01-1812-ce-napoleon-invades-russia.md",
               "children": [],
@@ -2357,7 +2364,7 @@
     },
     {
       "id": "evt-the-final-struggle",
-      "title": "21st Century: The Final Struggle — Reverse Crusade IV",
+      "title": "21st Century: The Final Struggle \u2014 Reverse Crusade IV",
       "type": "event",
       "md_path": "content/15.ce-21st-the-final-struggle/15.00.00-2000-ce-the-final-struggle.md",
       "children": [
@@ -2471,7 +2478,7 @@
         },
         {
           "id": "evt-cern-lhc-portal",
-          "title": "2009 CE: CERN's LHC and the Portal — Aether Manipulation in the Open",
+          "title": "2009 CE: CERN's LHC and the Portal \u2014 Aether Manipulation in the Open",
           "type": "event",
           "md_path": "content/15.ce-21st-the-final-struggle/15.06.00-2009-ce-cern-lhc-and-the-portal.md",
           "children": [],
@@ -2529,7 +2536,7 @@
                   "start": 1880,
                   "end": 1996,
                   "calendar": "CE",
-                  "note": "Percy Greg (1880) through Kim Stanley Robinson (1996); genre reclassification c. 1926–1951"
+                  "note": "Percy Greg (1880) through Kim Stanley Robinson (1996); genre reclassification c. 1926\u20131951"
                 }
               ],
               "related_events": [
@@ -2594,7 +2601,7 @@
             },
             {
               "id": "evt-predictive-programming-literature-extended",
-              "title": "20th Century Predictive Programming: Literature — Extended Author Evidence",
+              "title": "20th Century Predictive Programming: Literature \u2014 Extended Author Evidence",
               "type": "article",
               "md_path": "content/16.appendix/16.01.02-predictive-programming-literature.md",
               "children": [],
@@ -2740,7 +2747,7 @@
             },
             {
               "id": "evt-ap-velikovsky",
-              "title": "Immanuel Velikovsky (1895–1979)",
+              "title": "Immanuel Velikovsky (1895\u20131979)",
               "md_path": "content/16.appendix/16.07.04-immanuel-velikovsky.md",
               "type": "article",
               "children": [],
@@ -2790,7 +2797,7 @@
             },
             {
               "id": "evt-ap-de-grazia",
-              "title": "Alfred de Grazia (1919–2014)",
+              "title": "Alfred de Grazia (1919\u20132014)",
               "md_path": "content/16.appendix/16.07.09-alfred-de-grazia.md",
               "type": "article",
               "children": [],
@@ -2844,7 +2851,7 @@
             },
             {
               "id": "evt-ap-cardona",
-              "title": "Dwardu Cardona (1937–2018)",
+              "title": "Dwardu Cardona (1937\u20132018)",
               "md_path": "content/16.appendix/16.07.15-dwardu-cardona.md",
               "type": "article",
               "children": []
@@ -2858,7 +2865,7 @@
             },
             {
               "id": "evt-ap-stecchini",
-              "title": "Livio Stecchini (1913–1979)",
+              "title": "Livio Stecchini (1913\u20131979)",
               "md_path": "content/16.appendix/16.07.17-livio-stecchini.md",
               "type": "article",
               "children": []
@@ -2872,7 +2879,7 @@
             },
             {
               "id": "evt-ap-van-flandern",
-              "title": "Tom Van Flandern (1940–2009)",
+              "title": "Tom Van Flandern (1940\u20132009)",
               "md_path": "content/16.appendix/16.07.19-tom-van-flandern.md",
               "type": "article",
               "children": []
@@ -2940,7 +2947,7 @@
         },
         {
           "id": "evt-population-control-timeline",
-          "title": "Population Control: A Timeline (15th–21st Centuries)",
+          "title": "Population Control: A Timeline (15th\u201321st Centuries)",
           "type": "article",
           "md_path": "content/16.appendix/16.09.00-population-control-timeline-15th-21st-centuries.md",
           "children": [],
@@ -2954,7 +2961,7 @@
         },
         {
           "id": "evt-orphan-trains-evidence",
-          "title": "Orphan Trains, Trail of Tears, Siberian Exile — Extended Evidence",
+          "title": "Orphan Trains, Trail of Tears, Siberian Exile \u2014 Extended Evidence",
           "type": "article",
           "md_path": "content/16.appendix/16.10.00-orphan-trains-trail-of-tears-evidence.md",
           "children": [],
@@ -2965,13 +2972,13 @@
         },
         {
           "id": "evt-napoleonic-1812-extended",
-          "title": "Napoleonic Wars and 1812 — Extended Evidence",
+          "title": "Napoleonic Wars and 1812 \u2014 Extended Evidence",
           "type": "article",
           "md_path": "content/16.appendix/16.11.00-napoleonic-wars-1812-evidence.md",
           "children": [
             {
               "id": "evt-napoleon-1812-campaign-extended",
-              "title": "Napoleon invades Russia — Reverse Crusade I (Extended)",
+              "title": "Napoleon invades Russia \u2014 Reverse Crusade I (Extended)",
               "type": "article",
               "md_path": "content/16.appendix/16.11.01-napoleon-1812-campaign.md",
               "children": [],
@@ -2994,7 +3001,7 @@
           "children": [
             {
               "id": "evt-asimov-marx-extended",
-              "title": "Asimov: Three Laws and Marx Encoding — Extended Evidence",
+              "title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence",
               "type": "article",
               "md_path": "content/16.appendix/16.13.00-asimov-three-laws-and-marx-encoding.md",
               "children": [],
@@ -3042,7 +3049,7 @@
             },
             {
               "id": "evt-pyramids-myths-evidence",
-              "title": "Pyramids: Myths vs Reality — Evidence Table (Extended)",
+              "title": "Pyramids: Myths vs Reality \u2014 Evidence Table (Extended)",
               "type": "article",
               "md_path": "content/16.appendix/16.12.03-pyramids-myths-evidence.md",
               "children": [],
@@ -3058,7 +3065,7 @@
         },
         {
           "id": "evt-hordian-empire-fracture-extended",
-          "title": "Napoleon invades Russia — Reverse Crusade I (Extended)",
+          "title": "Napoleon invades Russia \u2014 Reverse Crusade I (Extended)",
           "type": "article",
           "md_path": "content/16.appendix/16.11.01-napoleon-1812-campaign.md",
           "children": [],
