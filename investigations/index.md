@@ -87,7 +87,7 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 - [Dr. Jerry Tennant — Healing is Voltage](tennant/index-tennant-healing-voltage.md) — Claims index from EU2017 transcript; career validation (VISX LASIK, ophthalmology); federal law claim (not in transcript; no such law found); paradigm-threat connections
 
 ### Orphan Trains & Mass Displacement
-- [Orphan trains, Trail of Tears, MFEE thesis](orphan-trains/orphan-trains-investigation.md) — First US orphanage (1729 Natchez); orphan trains 1854–1929; Indian boarding schools; Khmer Rouge children; MFEE as catalyst; Trail of Tears scope/Bering–Siberia theory
+- [Orphan trains, Trail of Tears, MFEE thesis](orphan-trains/orphan-trains-investigation.md) — First US orphanage (1729 Natchez); orphan trains 1854–1929; Indian boarding schools; Khmer Rouge children; MFEE as catalyst; **Trail of Tears revised chronology: 1758–1851 (century-long campaign beginning BEFORE MFEE)**; Bering–Siberia theory
 
 ### Mudflood & MFEE
 - [MFEE investigation](mudflood/mfee-investigation.md) — Evidence of MFEE aftermath; map changes over time; Fomenko map analysis vs. paradigm-threat-files

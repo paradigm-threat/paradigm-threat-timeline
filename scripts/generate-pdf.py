@@ -50,11 +50,24 @@ SCRIPT_DIR  = Path(__file__).resolve().parent
 REPO_DIR    = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR  = REPO_DIR / "export"
-OUTPUT_PDF  = EXPORT_DIR / "timeline.pdf"
 FONTS_DIR   = REPO_DIR / "fonts"
+
+# Chapter prefixes that belong in the appendix volume
+_APPENDIX_PREFIXES = ("16.", "17.")
 
 with open(REPO_DIR / "package.json") as _f:
     PKG_VERSION = json.load(_f)["version"]
+
+
+def _partition_files(md_files: list):
+    """Split sorted md files into (book_files, appendix_files)."""
+    book, appendix = [], []
+    for p in md_files:
+        if p.name.startswith(_APPENDIX_PREFIXES):
+            appendix.append(p)
+        else:
+            book.append(p)
+    return book, appendix
 
 # ---------------------------------------------------------------------------
 # Page geometry  (6″ × 9″ trade paperback)
@@ -315,15 +328,18 @@ class PDFRenderer:
     INDENT_MM    = 5       # first-line indent for subsequent paragraphs
 
     def __init__(self):
+        self._tmp = tempfile.mkdtemp(prefix="timeline_pdf_")
+        self._img_cache: dict = {}
+        self._use_unicode = False
+        self._init_pdf()
+
+    def _init_pdf(self):
+        """Create a fresh PDF instance with fonts and rendering state."""
         self.pdf = TimelinePDF(format=(PAGE_W_MM, PAGE_H_MM))
         self.pdf.set_margins(MARGIN_INSIDE, MARGIN_TOP, MARGIN_OUTSIDE)
         self.pdf.set_auto_page_break(True, margin=MARGIN_BOTTOM)
 
         self.md = MarkdownIt("commonmark", {"typographer": False}).enable("table")
-
-        self._tmp = tempfile.mkdtemp(prefix="timeline_pdf_")
-        self._img_cache: dict = {}
-        self._use_unicode = False
 
         self._setup_fonts()
 
@@ -1247,14 +1263,12 @@ class PDFRenderer:
             tokens = self._strip_first_h1(self.md.parse(text))
             self._render_tokens_demoted(tokens, demote=1)
 
-    def generate(self):
-        EXPORT_DIR.mkdir(exist_ok=True)
-        md_files = sorted(CONTENT_DIR.rglob("*.md"))
-        if not md_files:
-            sys.exit("No markdown files in content/")
-
+    def _generate_volume(self, md_files: list, output_path, title: str,
+                          subtitle: str, toc_pages: int = 8):
+        """Core generation logic for a single volume."""
+        self._init_pdf()
         n = len(md_files)
-        print(f"Generating PDF from {n} content files ...")
+        print(f"\nGenerating PDF ({output_path.name}) from {n} content files ...")
         print(f"  Format: {PAGE_W_MM} x {PAGE_H_MM} mm (6 x 9 in trade paperback)")
         print(f"  Margins: inside={MARGIN_INSIDE}mm outside={MARGIN_OUTSIDE}mm "
               f"top={MARGIN_TOP}mm bottom={MARGIN_BOTTOM}mm")
@@ -1264,11 +1278,11 @@ class PDFRenderer:
         self.pdf.ln(55)
         self.pdf.set_font(self.SANS, "B", 36)
         self.pdf.set_text_color(*C_DARK)
-        self.pdf.cell(0, 18, self._t("Paradigm Threat:"), align="C",
+        self.pdf.cell(0, 18, self._t(title), align="C",
                       new_x="LMARGIN", new_y="NEXT")
         self.pdf.set_font(self.SANS, "B", 28)
         self.pdf.set_text_color(*C_GOLD)
-        self.pdf.cell(0, 14, self._t("The Third Story"), align="C",
+        self.pdf.cell(0, 14, self._t(subtitle), align="C",
                       new_x="LMARGIN", new_y="NEXT")
         self.pdf.ln(6)
 
@@ -1293,7 +1307,7 @@ class PDFRenderer:
                       new_x="LMARGIN", new_y="NEXT")
 
         # ---- Table of Contents (starts page ii) ----
-        self._toc_pages = 8
+        self._toc_pages = toc_pages
         self.pdf.insert_toc_placeholder(self._render_toc, pages=self._toc_pages)
 
         # End front matter — body content starts
@@ -1303,10 +1317,44 @@ class PDFRenderer:
             print(f"  [{i + 1:3d}/{n}] {p.name}")
             self.render_article(p)
 
-        print(f"Writing -> {OUTPUT_PDF}")
-        self.pdf.output(str(OUTPUT_PDF))
-        mb = OUTPUT_PDF.stat().st_size / (1024 * 1024)
+        print(f"Writing -> {output_path}")
+        self.pdf.output(str(output_path))
+        mb = output_path.stat().st_size / (1024 * 1024)
         print(f"Done.  {mb:.1f} MB  ({self.pdf.pages_count} pages)")
+
+    def generate_book(self):
+        EXPORT_DIR.mkdir(exist_ok=True)
+        all_files = sorted(CONTENT_DIR.rglob("*.md"))
+        book_files, _ = _partition_files(all_files)
+        if not book_files:
+            sys.exit("No book markdown files in content/")
+        self._generate_volume(
+            book_files,
+            EXPORT_DIR / "timeline-book.pdf",
+            "Paradigm Threat:",
+            "The Third Story",
+            toc_pages=8,
+        )
+
+    def generate_appendix(self):
+        EXPORT_DIR.mkdir(exist_ok=True)
+        all_files = sorted(CONTENT_DIR.rglob("*.md"))
+        _, appendix_files = _partition_files(all_files)
+        if not appendix_files:
+            print("No appendix markdown files found \u2014 skipping appendix PDF.")
+            return
+        self._generate_volume(
+            appendix_files,
+            EXPORT_DIR / "timeline-appendix.pdf",
+            "Paradigm Threat:",
+            "Appendix & References",
+            toc_pages=4,
+        )
+
+    def generate(self):
+        """Generate both book and appendix PDF files."""
+        self.generate_book()
+        self.generate_appendix()
 
     def cleanup(self):
         shutil.rmtree(self._tmp, ignore_errors=True)

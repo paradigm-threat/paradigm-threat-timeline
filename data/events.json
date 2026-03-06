@@ -1888,6 +1888,35 @@
           "media": [
             "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png"
           ]
+        },
+        {
+          "id": "evt-trail-of-tears-century-long-erasure",
+          "title": "The Trail of Tears: A Century-Long Erasure (1758–1839+)",
+          "type": "article",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.07.00-1758-ce-the-trail-of-tears-century-long-erasure.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1758,
+              "end": 1851,
+              "calendar": "CE",
+              "note": "From first Indian reservation (Brotherton, NJ, 1758) through Indian Appropriations Act (1851)"
+            },
+            {
+              "start": 1830,
+              "end": 1839,
+              "calendar": "CE",
+              "source": "Scaligerian",
+              "note": "Official Trail of Tears forced marches — end of century-long campaign",
+              "confidence": "High"
+            }
+          ],
+          "related_events": [
+            "evt-the-mudflood-and-world-cataclysm",
+            "evt-the-rebellion-of-pugachev",
+            "evt-orphan-trains-trail-of-tears-siberian-exile",
+            "evt-assault-on-hordian-memory"
+          ]
         }
       ],
       "dates": [
@@ -2034,6 +2063,7 @@
                 }
               ],
               "related_events": [
+                "evt-trail-of-tears-century-long-erasure",
                 "evt-the-rebellion-of-pugachev",
                 "evt-the-mudflood-and-world-cataclysm",
                 "evt-assault-on-hordian-memory",
@@ -2549,7 +2579,31 @@
           "title": "Predictive Programming: Fiction as Control",
           "type": "article",
           "md_path": "content/16.appendix/16.01.00-predictive-programming-fiction-as-control.md",
-          "children": [],
+          "children": [
+            {
+              "id": "evt-pp-film-tv-games",
+              "title": "Predictive Programming in Film, Television, and Games",
+              "type": "article",
+              "md_path": "content/16.appendix/16.01.01-predictive-programming-film-tv-games.md",
+              "children": [],
+              "related_events": [
+                "evt-20th-century-predictive-programming-literature",
+                "evt-predictive-programming",
+                "evt-mars-catastrophe-brandenburg"
+              ]
+            },
+            {
+              "id": "evt-predictive-programming-literature-extended",
+              "title": "20th Century Predictive Programming: Literature — Extended Author Evidence",
+              "type": "article",
+              "md_path": "content/16.appendix/16.01.02-predictive-programming-literature.md",
+              "children": [],
+              "related_events": [
+                "evt-20th-century-predictive-programming-literature",
+                "evt-operation-mockingbird"
+              ]
+            }
+          ],
           "media": [
             "/media/15.ce-21st-the-final-struggle/predictive-programming.png"
           ]
@@ -2559,37 +2613,60 @@
           "title": "Known Contacts with Mars: A Chronological Dossier",
           "type": "article",
           "md_path": "content/16.appendix/16.02.00-mars-contacts-timeline.md",
-          "children": []
-        },
-        {
-          "id": "evt-pp-film-tv-games",
-          "title": "Predictive Programming in Film, Television, and Games",
-          "type": "article",
-          "md_path": "content/16.appendix/16.03.00-predictive-programming-film-tv-games.md",
-          "children": [],
-          "related_events": [
-            "evt-20th-century-predictive-programming-literature",
-            "evt-predictive-programming",
-            "evt-mars-catastrophe-brandenburg"
+          "children": [
+            {
+              "id": "evt-mars-literature-appendix",
+              "title": "Mars Literature: Author Profiles and Evidence",
+              "type": "article",
+              "md_path": "content/16.appendix/16.02.01-mars-literature-author-profiles.md",
+              "children": [],
+              "related_events": [
+                "evt-mars-literature-reclassified",
+                "evt-mars-catastrophe",
+                "evt-20th-century-predictive-programming-literature",
+                "evt-predictive-programming",
+                "evt-mars-contacts-timeline",
+                "evt-antibodies-appendix"
+              ]
+            }
           ]
         },
         {
-          "id": "evt-thunderbolts-case-study",
-          "title": "The Thunderbolts Project: A Case Study in Managed Disclosure",
+          "id": "evt-controlled-opposition-appendix",
+          "title": "Controlled Opposition: Appendix",
           "type": "article",
-          "md_path": "content/16.appendix/16.04.00-controlled-opposition-thunderbolts-case-study.md",
-          "children": [],
-          "related_events": [
-            "evt-controlled-opposition",
-            "evt-ap-talbott",
-            "evt-ap-velikovsky"
+          "md_path": "content/16.appendix/16.03.00-controlled-opposition-appendix.md",
+          "children": [
+            {
+              "id": "evt-thunderbolts-case-study",
+              "title": "The Thunderbolts Project: A Case Study in Managed Disclosure",
+              "type": "article",
+              "md_path": "content/16.appendix/16.03.01-controlled-opposition-thunderbolts-case-study.md",
+              "children": [],
+              "related_events": [
+                "evt-controlled-opposition",
+                "evt-ap-talbott",
+                "evt-ap-velikovsky"
+              ]
+            },
+            {
+              "id": "evt-mockingbird-historical-chain",
+              "title": "Operation Mockingbird: The Historical Chain (Extended)",
+              "type": "article",
+              "md_path": "content/16.appendix/16.03.02-operation-mockingbird-historical-chain.md",
+              "children": [],
+              "related_events": [
+                "evt-operation-mockingbird",
+                "evt-deep-state-breaks-up-the-hordian-empire"
+              ]
+            }
           ]
         },
         {
           "id": "evt-censorship-historical-timeline",
           "title": "Censorship and Book Burning: The Historical Record",
           "type": "article",
-          "md_path": "content/16.appendix/16.05.00-censorship-historical-timeline.md",
+          "md_path": "content/16.appendix/16.04.00-censorship-historical-timeline.md",
           "children": [],
           "related_events": [
             "evt-censorship-and-book-burning",
@@ -2601,7 +2678,7 @@
           "id": "evt-antibodies-appendix",
           "title": "Historical Antibodies: Detailed Profiles",
           "type": "article",
-          "md_path": "content/16.appendix/16.06.00-historical-antibodies-profiles.md",
+          "md_path": "content/16.appendix/16.05.00-historical-antibodies-profiles.md",
           "children": [],
           "related_events": [
             "evt-historical-antibodies",
@@ -2612,7 +2689,7 @@
           "id": "evt-false-flags-appendix",
           "title": "False Flags Investigation: Evidence Dossier",
           "type": "article",
-          "md_path": "content/16.appendix/16.07.00-false-flags-investigation.md",
+          "md_path": "content/16.appendix/16.06.00-false-flags-investigation.md",
           "children": [],
           "related_events": [
             "evt-false-flags",
@@ -2626,12 +2703,12 @@
           "id": "evt-author-profiles",
           "title": "Author Profiles",
           "type": "article",
-          "md_path": "content/16.appendix/16.08.00-author-profiles.md",
+          "md_path": "content/16.appendix/16.07.00-author-profiles.md",
           "children": [
             {
               "id": "evt-ap-morozov",
               "title": "N. A. Morozov",
-              "md_path": "content/16.appendix/16.08.01-n-a-morozov.md",
+              "md_path": "content/16.appendix/16.07.01-n-a-morozov.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2641,7 +2718,7 @@
             {
               "id": "evt-ap-thornhill",
               "title": "Wal Thornhill",
-              "md_path": "content/16.appendix/16.08.02-wal-thornhill.md",
+              "md_path": "content/16.appendix/16.07.02-wal-thornhill.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2651,7 +2728,7 @@
             {
               "id": "evt-ap-juergens",
               "title": "Ralph Juergens",
-              "md_path": "content/16.appendix/16.08.03-ralph-juergens.md",
+              "md_path": "content/16.appendix/16.07.03-ralph-juergens.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2664,7 +2741,7 @@
             {
               "id": "evt-ap-velikovsky",
               "title": "Immanuel Velikovsky (1895–1979)",
-              "md_path": "content/16.appendix/16.08.04-immanuel-velikovsky.md",
+              "md_path": "content/16.appendix/16.07.04-immanuel-velikovsky.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2674,7 +2751,7 @@
             {
               "id": "evt-ap-fomenko",
               "title": "Anatoly Fomenko (b. 1945)",
-              "md_path": "content/16.appendix/16.08.05-anatoly-fomenko.md",
+              "md_path": "content/16.appendix/16.07.05-anatoly-fomenko.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2684,7 +2761,7 @@
             {
               "id": "evt-ap-talbott",
               "title": "David Talbott (b. 1942)",
-              "md_path": "content/16.appendix/16.08.06-david-talbott.md",
+              "md_path": "content/16.appendix/16.07.06-david-talbott.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2694,7 +2771,7 @@
             {
               "id": "evt-ap-peratt",
               "title": "Anthony Peratt (b. 1940)",
-              "md_path": "content/16.appendix/16.08.07-anthony-peratt.md",
+              "md_path": "content/16.appendix/16.07.07-anthony-peratt.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2704,7 +2781,7 @@
             {
               "id": "evt-ap-jno-cook",
               "title": "Jno Cook",
-              "md_path": "content/16.appendix/16.08.08-jno-cook.md",
+              "md_path": "content/16.appendix/16.07.08-jno-cook.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2714,7 +2791,7 @@
             {
               "id": "evt-ap-de-grazia",
               "title": "Alfred de Grazia (1919–2014)",
-              "md_path": "content/16.appendix/16.08.09-alfred-de-grazia.md",
+              "md_path": "content/16.appendix/16.07.09-alfred-de-grazia.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2724,7 +2801,7 @@
             {
               "id": "evt-ap-donald-scott",
               "title": "Donald Scott",
-              "md_path": "content/16.appendix/16.08.10-donald-scott.md",
+              "md_path": "content/16.appendix/16.07.10-donald-scott.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2734,7 +2811,7 @@
             {
               "id": "evt-ap-cochrane",
               "title": "Ev Cochrane (b. 1952)",
-              "md_path": "content/16.appendix/16.08.11-ev-cochrane.md",
+              "md_path": "content/16.appendix/16.07.11-ev-cochrane.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2744,7 +2821,7 @@
             {
               "id": "evt-ap-de-santillana",
               "title": "Giorgio de Santillana & Hertha von Dechend",
-              "md_path": "content/16.appendix/16.08.12-de-santillana-von-dechend.md",
+              "md_path": "content/16.appendix/16.07.12-de-santillana-von-dechend.md",
               "type": "article",
               "children": [],
               "media": [
@@ -2754,91 +2831,91 @@
             {
               "id": "evt-ap-illig",
               "title": "Heribert Illig (b. 1947)",
-              "md_path": "content/16.appendix/16.08.13-heribert-illig.md",
+              "md_path": "content/16.appendix/16.07.13-heribert-illig.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-heinsohn",
               "title": "Gunnar Heinsohn (b. 1943)",
-              "md_path": "content/16.appendix/16.08.14-gunnar-heinsohn.md",
+              "md_path": "content/16.appendix/16.07.14-gunnar-heinsohn.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-cardona",
               "title": "Dwardu Cardona (1937–2018)",
-              "md_path": "content/16.appendix/16.08.15-dwardu-cardona.md",
+              "md_path": "content/16.appendix/16.07.15-dwardu-cardona.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-clube-napier",
               "title": "Victor Clube & Bill Napier",
-              "md_path": "content/16.appendix/16.08.16-clube-napier.md",
+              "md_path": "content/16.appendix/16.07.16-clube-napier.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-stecchini",
               "title": "Livio Stecchini (1913–1979)",
-              "md_path": "content/16.appendix/16.08.17-livio-stecchini.md",
+              "md_path": "content/16.appendix/16.07.17-livio-stecchini.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-rose-vaughan",
               "title": "Lynn Rose & Raymond Vaughan",
-              "md_path": "content/16.appendix/16.08.18-rose-vaughan.md",
+              "md_path": "content/16.appendix/16.07.18-rose-vaughan.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-van-flandern",
               "title": "Tom Van Flandern (1940–2009)",
-              "md_path": "content/16.appendix/16.08.19-tom-van-flandern.md",
+              "md_path": "content/16.appendix/16.07.19-tom-van-flandern.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-van-der-sluijs",
               "title": "Martinus van der Sluijs",
-              "md_path": "content/16.appendix/16.08.20-martinus-van-der-sluijs.md",
+              "md_path": "content/16.appendix/16.07.20-martinus-van-der-sluijs.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-ginenthal",
               "title": "Charles Ginenthal",
-              "md_path": "content/16.appendix/16.08.21-charles-ginenthal.md",
+              "md_path": "content/16.appendix/16.07.21-charles-ginenthal.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-schoch",
               "title": "Robert Schoch (b. 1959)",
-              "md_path": "content/16.appendix/16.08.22-robert-schoch.md",
+              "md_path": "content/16.appendix/16.07.22-robert-schoch.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-hancock",
               "title": "Graham Hancock (b. 1950)",
-              "md_path": "content/16.appendix/16.08.23-graham-hancock.md",
+              "md_path": "content/16.appendix/16.07.23-graham-hancock.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-cremo",
               "title": "Michael Cremo (b. 1948)",
-              "md_path": "content/16.appendix/16.08.24-michael-cremo.md",
+              "md_path": "content/16.appendix/16.07.24-michael-cremo.md",
               "type": "article",
               "children": []
             },
             {
               "id": "evt-ap-jerry-tennant",
               "title": "Dr. Jerry Tennant (b. 1940)",
-              "md_path": "content/16.appendix/16.08.25-jerry-tennant.md",
+              "md_path": "content/16.appendix/16.07.25-jerry-tennant.md",
               "type": "article",
               "children": []
             }
@@ -2848,7 +2925,7 @@
           "id": "evt-suppressed-energy-cross-reference",
           "title": "Suppressed Energy Technology: A Cross-Reference",
           "type": "article",
-          "md_path": "content/16.appendix/16.09.00-suppressed-energy-technology-cross-reference.md",
+          "md_path": "content/16.appendix/16.08.00-suppressed-energy-technology-cross-reference.md",
           "children": [],
           "related_events": [
             "evt-maxwell-and-the-suppression-of-the-aether",
@@ -2862,25 +2939,10 @@
           ]
         },
         {
-          "id": "evt-mars-literature-appendix",
-          "title": "Mars Literature: Author Profiles and Evidence",
-          "type": "article",
-          "md_path": "content/16.appendix/16.10.00-mars-literature-author-profiles.md",
-          "children": [],
-          "related_events": [
-            "evt-mars-literature-reclassified",
-            "evt-mars-catastrophe",
-            "evt-20th-century-predictive-programming-literature",
-            "evt-predictive-programming",
-            "evt-mars-contacts-timeline",
-            "evt-antibodies-appendix"
-          ]
-        },
-        {
           "id": "evt-population-control-timeline",
           "title": "Population Control: A Timeline (15th–21st Centuries)",
           "type": "article",
-          "md_path": "content/16.appendix/16.11.00-population-control-timeline-15th-21st-centuries.md",
+          "md_path": "content/16.appendix/16.09.00-population-control-timeline-15th-21st-centuries.md",
           "children": [],
           "related_events": [
             "evt-population-control",
@@ -2891,66 +2953,161 @@
           ]
         },
         {
-          "id": "evt-fomenko-pyramid-question",
-          "title": "Fomenko and the Pyramid Question",
-          "type": "article",
-          "md_path": "content/16.appendix/16.12.00-fomenko-and-the-pyramid-question.md",
-          "children": [],
-          "related_events": [
-            "evt-pyramids-were-portals",
-            "evt-pyramids-myths-vs-reality",
-            "evt-geopolymer-concrete-horde-secret",
-            "evt-imperial-technology-and-the-knowledge-of-the-horde",
-            "evt-ap-fomenko"
-          ]
-        },
-        {
-          "id": "evt-asimov-marx-extended",
-          "title": "Asimov: Three Laws and Marx Encoding — Extended Evidence",
-          "type": "article",
-          "md_path": "content/16.appendix/16.13.00-asimov-three-laws-and-marx-encoding-extended.md",
-          "children": [],
-          "related_events": ["evt-asimov-marx-in-space", "evt-mars-literature-reclassified"]
-        },
-        {
           "id": "evt-orphan-trains-evidence",
           "title": "Orphan Trains, Trail of Tears, Siberian Exile — Extended Evidence",
           "type": "article",
-          "md_path": "content/16.appendix/16.14.00-orphan-trains-trail-of-tears-evidence.md",
+          "md_path": "content/16.appendix/16.10.00-orphan-trains-trail-of-tears-evidence.md",
           "children": [],
-          "related_events": ["evt-orphan-trains-trail-of-tears-siberian-exile", "evt-the-mudflood-and-world-cataclysm"]
+          "related_events": [
+            "evt-orphan-trains-trail-of-tears-siberian-exile",
+            "evt-the-mudflood-and-world-cataclysm"
+          ]
         },
         {
           "id": "evt-napoleonic-1812-extended",
           "title": "Napoleonic Wars and 1812 — Extended Evidence",
           "type": "article",
-          "md_path": "content/16.appendix/16.15.00-napoleonic-wars-1812-extended-evidence.md",
-          "children": [],
-          "related_events": ["evt-napoleonic-wars", "evt-aftermath-of-1812-russian-pursuit-to-paris"]
+          "md_path": "content/16.appendix/16.11.00-napoleonic-wars-1812-evidence.md",
+          "children": [
+            {
+              "id": "evt-napoleon-1812-campaign-extended",
+              "title": "Napoleon invades Russia — Reverse Crusade I (Extended)",
+              "type": "article",
+              "md_path": "content/16.appendix/16.11.01-napoleon-1812-campaign.md",
+              "children": [],
+              "related_events": [
+                "evt-napoleon-invades-russia",
+                "evt-aftermath-of-1812-russian-pursuit-to-paris"
+              ]
+            }
+          ],
+          "related_events": [
+            "evt-napoleonic-wars",
+            "evt-aftermath-of-1812-russian-pursuit-to-paris"
+          ]
         },
         {
           "id": "evt-authors-cataclysm-appendix",
-          "title": "Authors Who Read Ancient Sources as World Cataclysm (Extended)",
+          "title": "Authors Who Read Ancient Sources as World Cataclysm",
           "type": "article",
-          "md_path": "content/16.appendix/16.16.00-authors-cataclysm-texts-extended.md",
-          "children": [],
-          "related_events": ["evt-authors-cataclysm-texts", "evt-authors-challenging-chronology"]
+          "md_path": "content/00.overview/00.02.02-authors-cataclysm-texts.md",
+          "children": [
+            {
+              "id": "evt-asimov-marx-extended",
+              "title": "Asimov: Three Laws and Marx Encoding — Extended Evidence",
+              "type": "article",
+              "md_path": "content/16.appendix/16.13.00-asimov-three-laws-and-marx-encoding.md",
+              "children": [],
+              "related_events": [
+                "evt-asimov-marx-in-space",
+                "evt-mars-literature-reclassified"
+              ]
+            }
+          ],
+          "related_events": [
+            "evt-authors-cataclysm-texts",
+            "evt-authors-challenging-chronology"
+          ]
         },
         {
           "id": "evt-timeline-sync-tables",
           "title": "Timeline Synchronization: Date Tables (Extended)",
           "type": "article",
-          "md_path": "content/16.appendix/16.17.00-timeline-synchronization-tables.md",
-          "children": [],
-          "related_events": ["evt-timeline-synchronization"]
+          "md_path": "content/16.appendix/16.12.00-timeline-synchronization-tables.md",
+          "children": [
+            {
+              "id": "evt-year-length-calendar-evidence",
+              "title": "Year-Length and Calendar Evidence (Extended)",
+              "type": "article",
+              "md_path": "content/16.appendix/16.12.01-year-length-calendar-evidence.md",
+              "children": [],
+              "related_events": [
+                "evt-the-length-of-a-year-changes-throughout-antiquity",
+                "evt-the-225-day-year"
+              ]
+            },
+            {
+              "id": "evt-fomenko-pyramid-question",
+              "title": "Fomenko and the Pyramid Question",
+              "type": "article",
+              "md_path": "content/16.appendix/16.12.02-fomenko-and-the-pyramid-question.md",
+              "children": [],
+              "related_events": [
+                "evt-pyramids-were-portals",
+                "evt-pyramids-myths-vs-reality",
+                "evt-geopolymer-concrete-horde-secret",
+                "evt-imperial-technology-and-the-knowledge-of-the-horde",
+                "evt-ap-fomenko"
+              ]
+            },
+            {
+              "id": "evt-pyramids-myths-evidence",
+              "title": "Pyramids: Myths vs Reality — Evidence Table (Extended)",
+              "type": "article",
+              "md_path": "content/16.appendix/16.12.03-pyramids-myths-evidence.md",
+              "children": [],
+              "related_events": [
+                "evt-pyramids-myths-vs-reality",
+                "evt-geopolymer-concrete-horde-secret"
+              ]
+            }
+          ],
+          "related_events": [
+            "evt-timeline-synchronization"
+          ]
         },
         {
-          "id": "evt-pyramids-myths-evidence",
-          "title": "Pyramids: Myths vs Reality — Evidence Table (Extended)",
+          "id": "evt-hordian-empire-fracture-extended",
+          "title": "Napoleon invades Russia — Reverse Crusade I (Extended)",
           "type": "article",
-          "md_path": "content/16.appendix/16.18.00-pyramids-myths-evidence.md",
+          "md_path": "content/16.appendix/16.11.01-napoleon-1812-campaign.md",
           "children": [],
-          "related_events": ["evt-pyramids-myths-vs-reality", "evt-geopolymer-concrete-horde-secret"]
+          "related_events": [
+            "evt-napoleon-invades-russia",
+            "evt-aftermath-of-1812-russian-pursuit-to-paris"
+          ]
+        },
+        {
+          "id": "evt-hordian-empire-fracture-extended",
+          "title": "Deep State breaks up the Hordian Empire (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.13.00-hordian-empire-fracture.md",
+          "children": [],
+          "related_events": [
+            "evt-deep-state-breaks-up-the-hordian-empire",
+            "evt-romanovs-dynasty-takes-the-throne"
+          ]
+        },
+        {
+          "id": "evt-mudflood-extended-evidence",
+          "title": "The MudFlood and World Cataclysm: Extended Evidence",
+          "type": "article",
+          "md_path": "content/16.appendix/16.14.00-mudflood-evidence.md",
+          "children": [],
+          "related_events": [
+            "evt-the-mudflood-and-world-cataclysm",
+            "evt-orphan-trains-trail-of-tears-siberian-exile"
+          ]
+        },
+        {
+          "id": "evt-soviet-historiography-bogdanov",
+          "title": "Soviet Historiography: Bogdanov and Suppressed Science (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.15.00-soviet-historiography-bogdanov.md",
+          "children": [],
+          "related_events": [
+            "evt-soviet-historiography"
+          ]
+        },
+        {
+          "id": "evt-british-empire-case-studies",
+          "title": "British Empire as Deep State: Case Studies (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.16.00-british-empire-case-studies.md",
+          "children": [],
+          "related_events": [
+            "evt-british-empire-as-deep-state-instrument"
+          ]
         }
       ]
     },

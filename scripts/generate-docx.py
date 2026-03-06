@@ -136,17 +136,37 @@ def _plain(tok) -> str:
     return "".join(parts)
 
 # ---------------------------------------------------------------------------
-# Build a real TOC from the H1 heading of each markdown file
+# Table of Contents (native Word TOC field — populated when LibreOffice updates indexes)
 # ---------------------------------------------------------------------------
-_H1_RE = re.compile(r'^#\s+(.+)', re.MULTILINE)
+def _add_toc_field(doc: Document):
+    """Insert a native Word TOC field. Heading 1-3 entries get page numbers
+    when LibreOffice runs UpdateIndexes (see export.sh)."""
+    para = doc.add_paragraph()
+    run = para.add_run()
+    fld_begin = OxmlElement("w:fldChar")
+    fld_begin.set(qn("w:fldCharType"), "begin")
+    run._r.append(fld_begin)
 
-def _extract_h1(md_path: Path) -> str:
-    text = md_path.read_text(encoding='utf-8')
-    m = _H1_RE.search(text)
-    return m.group(1).strip() if m else md_path.stem
+    run2 = para.add_run()
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    # \o "1-3" = Heading levels 1-3, \h = hyperlinks, \z = hide page nums in web, \u = outline
+    instr.text = ' TOC \\o "1-3" \\h \\z \\u '
+    run2._r.append(instr)
+
+    run3 = para.add_run()
+    fld_sep = OxmlElement("w:fldChar")
+    fld_sep.set(qn("w:fldCharType"), "separate")
+    run3._r.append(fld_sep)
+
+    run4 = para.add_run()
+    fld_end = OxmlElement("w:fldChar")
+    fld_end.set(qn("w:fldCharType"), "end")
+    run4._r.append(fld_end)
+
 
 def _add_toc(doc: Document, md_files: list):
-    # Heading
+    """Add Table of Contents heading and native TOC field (page numbers filled by LibreOffice macro)."""
     heading = doc.add_paragraph()
     heading.alignment = WD_ALIGN_PARAGRAPH.CENTER
     hr = heading.add_run("Table of Contents")
@@ -155,65 +175,7 @@ def _add_toc(doc: Document, md_files: list):
     hr.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
     doc.add_paragraph()
 
-    current_part = None
-    chapter_counter = 0
-    for i, path in enumerate(md_files):
-        title = _extract_h1(path)
-        tier, xx, yy, zz = _classify_tier(path.name)
-        part_num = int(xx)
-        roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
-
-        # Reset chapter counter when Part changes
-        if xx != current_part:
-            current_part = xx
-            chapter_counter = 0
-
-        if tier == "chapter":
-            chapter_counter += 1
-
-        # TOC entry paragraph — indent chapters and sub-sections
-        para = doc.add_paragraph()
-        para.paragraph_format.space_before = Pt(1)
-        para.paragraph_format.space_after  = Pt(1)
-
-        if tier == "part":
-            # Extra spacing before each Part (except the very first)
-            if i > 0:
-                para.paragraph_format.space_before = Pt(10)
-            para.paragraph_format.left_indent = Cm(0)
-
-            # "Part V:  Title" — bold
-            label_run = para.add_run(f"Part {roman}:  ")
-            label_run.font.size      = Pt(10.5)
-            label_run.bold           = True
-            label_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
-
-            title_run = para.add_run(title)
-            title_run.font.size      = Pt(10.5)
-            title_run.bold           = True
-            title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
-
-        elif tier == "chapter":
-            para.paragraph_format.left_indent = Cm(0.8)
-
-            # "Chapter 3:  Title" — normal weight
-            label_run = para.add_run(f"Chapter {chapter_counter}:  ")
-            label_run.font.size      = Pt(10)
-            label_run.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
-
-            title_run = para.add_run(title)
-            title_run.font.size      = Pt(10)
-            title_run.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
-
-        else:
-            # Sub-section — italic, further indented
-            para.paragraph_format.left_indent = Cm(1.4)
-
-            title_run = para.add_run(title)
-            title_run.font.size      = Pt(9.5)
-            title_run.italic         = True
-            title_run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
-
+    _add_toc_field(doc)
     doc.add_page_break()
 
 # ---------------------------------------------------------------------------

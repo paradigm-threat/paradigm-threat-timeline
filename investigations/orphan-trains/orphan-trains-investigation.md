@@ -45,16 +45,34 @@
 
 ---
 
-## Trail of Tears: Scope and the Bering–Siberia Thesis (Investigative)
+## Trail of Tears: Scope and the Revised Chronology (Investigative)
 
-**Mainstream narrative:** The Trail of Tears involved forced relocation of ~60,000–100,000 Native Americans (Five Civilized Tribes: Cherokee, Muscogee, Seminole, Chickasaw, Choctaw) between 1830 and 1850. The physical trail stretched ~5,045 miles across nine states. Deaths estimated at 13,200–16,700. Indian Removal Act passed 1830.
+**See primary article:** [The Trail of Tears: A Century-Long Erasure (1758–1839+)](../../content/12.ce-18th-mudflood-and-pugachev/12.07.00-1758-ce-the-trail-of-tears-century-long-erasure.md)
 
-**Author's thesis:** The event was far longer and larger than historians present. The trail may have stretched to Siberia across the Bering Strait. Many orphans were Indian children captured and re-educated at the youngest age—paralleling the boarding-school system. This pattern repeated in the 20th century (e.g., Khmer Rouge) and reflects a recurring template: capture children, break lineage, repurpose as agents of the new order.
+**Revised thesis:** The "Trail of Tears" was not a single event (1830–1839); it was a **century-long campaign** (1758–1851+). The reservations **preceded** the [MudFlood Energetic Event](/timeline/evt-the-mudflood-and-world-cataclysm) (~1774) by **sixteen years**. What followed was systematic erasure of Native American civilization, memory, and technology.
 
-**Validation status:**
-- **Longer/larger:** Mainstream sources cap the Trail at ~1850 and ~100,000 displaced. Alternate chronologies (Fomenko, phantom time) could shift dates; no primary evidence found for Bering–Siberia extension.
-- **Indian children captured/reeducated:** Strongly validated by the boarding-school system (1819–1969), which ran concurrently and extended long after the Trail. The Carlisle model ("Kill the Indian, save the man") is documented.
-- **Bering–Siberia:** No documented evidence. The Bering Strait crossing in reverse (Americas → Siberia) is not in mainstream Trail of Tears historiography. Speculative; may conflate with other displacement narratives (e.g., Russian exiles to Siberia).
+### The Timeline: 1758–1851
+
+- **1758:** First Indian reservation established — **Brotherton Indian Reservation** (Edgepillock), Burlington County, New Jersey. Confinement begins. At this time, Native Americans still possessed advanced technology, governance systems (Iroquois Confederacy influenced U.S. Constitution), complex trade networks, knowledge of metallurgy and large-scale construction.
+- **1774:** [MudFlood Energetic Event](../../content/12.ce-18th-mudflood-and-pugachev/12.04.00-1774-ce-the-mudflood-and-world-cataclysm.md) devastates the planet. Cities buried, populations vanish, Hordian infrastructure destroyed. Native Americans, already confined to reservations, are now surrounded by a depopulated wasteland.
+- **1830–1839:** **Official "Trail of Tears"** — Indian Removal Act (1830) mandates relocation of Five Civilized Tribes (Cherokee, Muscogee, Seminole, Chickasaw, Choctaw). ~60,000–100,000 forcibly marched ~5,045 miles. Deaths: 13,200–16,700 (official estimate; likely higher). **This is not the beginning. It is the end.**
+- **1851:** **Indian Appropriations Act** officially initiates federal reservation system, consolidating nearly a century of ad-hoc policy.
+- **1819–1969:** **408 Indian boarding schools** enforce cultural erasure: "Kill the Indian, save the man."
+
+**Total duration:** At least **93 years** (1758–1851), arguably **211 years** (1758–1969).
+
+**By 1839:** Native Americans had been confined, displaced, starved, and stripped of technology for **81 years**. They had become what we remember them as: "without a kingdom, without technology, using sticks and stones." **This was not how they began. It is how they were made.**
+
+### Bering–Siberia Thesis (Speculative)
+
+The strongest, most resistant populations may have been driven **across the Bering Strait** into Siberia. Fomenko notes that **Siberia became an exile destination after Pugachev (1774)**. Timing: before 1774, Romanovs could not exile to Siberia (it was Moscow Tartary); after 1774, Siberia is "wreckage" — depopulated, available as penal colony. First documented exile to Tobolsk: Radishev, 1790. Weaker, more compliant groups remained on U.S. reservations. **No primary-source evidence found; timing is suggestive.**
+
+### Validation Status
+
+- **1758 reservation:** Validated. Brotherton Indian Reservation, Burlington County, NJ, 1758 (sources: Wikipedia, historical records).
+- **MFEE predated by reservations:** Validated. 1758 is sixteen years before ~1774 MFEE.
+- **Indian boarding schools:** Validated. 408 schools, 1819–1969. Federal Indian Boarding School Initiative Investigative Report (2022).
+- **Bering–Siberia extension:** Speculative. No mainstream historiography supports Trail of Tears extending to Siberia. May conflate with Russian exile patterns.
 
 ---
 

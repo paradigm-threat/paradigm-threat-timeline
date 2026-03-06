@@ -511,7 +511,10 @@
       "12.06.01-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md": {
         "_title": "The Mars Catastrophe: Research Dead End"
       },
-      "_count": 8
+      "12.07.00-1758-ce-the-trail-of-tears-century-long-erasure.md": {
+        "_title": "The Trail of Tears: A Century-Long Erasure (1758\u20131839+)"
+      },
+      "_count": 9
     },
     "13.ce-19th-rise-of-communism": {
       "13.00.00-1800-ce-19th-century-rise-of-communism.md": {
@@ -631,133 +634,157 @@
       "16.01.00-predictive-programming-fiction-as-control.md": {
         "_title": "Predictive Programming: Fiction as Control"
       },
+      "16.01.01-predictive-programming-film-tv-games.md": {
+        "_title": "Predictive Programming in Film, Television, and Games"
+      },
+      "16.01.02-predictive-programming-literature.md": {
+        "_title": "20th Century Predictive Programming: Literature \u2014 Extended Author Evidence"
+      },
       "16.02.00-mars-contacts-timeline.md": {
         "_title": "Known Contacts with Mars: A Chronological Dossier"
       },
-      "16.03.00-predictive-programming-film-tv-games.md": {
-        "_title": "Predictive Programming in Film, Television, and Games"
-      },
-      "16.04.00-controlled-opposition-thunderbolts-case-study.md": {
-        "_title": "The Thunderbolts Project: A Case Study in Managed Disclosure"
-      },
-      "16.05.00-censorship-historical-timeline.md": {
-        "_title": "Censorship and Book Burning: The Historical Record"
-      },
-      "16.06.00-historical-antibodies-profiles.md": {
-        "_title": "Historical Antibodies: Detailed Profiles"
-      },
-      "16.07.00-false-flags-investigation.md": {
-        "_title": "False Flags Investigation: Evidence Dossier"
-      },
-      "16.08.00-author-profiles.md": {
-        "_title": "Author Profiles"
-      },
-      "16.08.01-n-a-morozov.md": {
-        "_title": "N. A. Morozov"
-      },
-      "16.08.02-wal-thornhill.md": {
-        "_title": "Wal Thornhill"
-      },
-      "16.08.03-ralph-juergens.md": {
-        "_title": "Ralph Juergens"
-      },
-      "16.08.04-immanuel-velikovsky.md": {
-        "_title": "Immanuel Velikovsky (1895\u20131979)"
-      },
-      "16.08.05-anatoly-fomenko.md": {
-        "_title": "Anatoly Fomenko (b. 1945)"
-      },
-      "16.08.06-david-talbott.md": {
-        "_title": "David Talbott (b. 1942)"
-      },
-      "16.08.07-anthony-peratt.md": {
-        "_title": "Anthony Peratt (b. 1940)"
-      },
-      "16.08.08-jno-cook.md": {
-        "_title": "Jno Cook"
-      },
-      "16.08.09-alfred-de-grazia.md": {
-        "_title": "Alfred de Grazia (1919\u20132014)"
-      },
-      "16.08.10-donald-scott.md": {
-        "_title": "Donald Scott"
-      },
-      "16.08.11-ev-cochrane.md": {
-        "_title": "Ev Cochrane (b. 1952)"
-      },
-      "16.08.12-de-santillana-von-dechend.md": {
-        "_title": "Giorgio de Santillana & Hertha von Dechend"
-      },
-      "16.08.13-heribert-illig.md": {
-        "_title": "Heribert Illig (b. 1947)"
-      },
-      "16.08.14-gunnar-heinsohn.md": {
-        "_title": "Gunnar Heinsohn (b. 1943)"
-      },
-      "16.08.15-dwardu-cardona.md": {
-        "_title": "Dwardu Cardona (1937\u20132018)"
-      },
-      "16.08.16-clube-napier.md": {
-        "_title": "Victor Clube & Bill Napier"
-      },
-      "16.08.17-livio-stecchini.md": {
-        "_title": "Livio Stecchini (1913\u20131979)"
-      },
-      "16.08.18-rose-vaughan.md": {
-        "_title": "Lynn Rose & Raymond Vaughan"
-      },
-      "16.08.19-tom-van-flandern.md": {
-        "_title": "Tom Van Flandern (1940\u20132009)"
-      },
-      "16.08.20-martinus-van-der-sluijs.md": {
-        "_title": "Martinus van der Sluijs"
-      },
-      "16.08.21-charles-ginenthal.md": {
-        "_title": "Charles Ginenthal"
-      },
-      "16.08.22-robert-schoch.md": {
-        "_title": "Robert Schoch (b. 1959)"
-      },
-      "16.08.23-graham-hancock.md": {
-        "_title": "Graham Hancock (b. 1950)"
-      },
-      "16.08.24-michael-cremo.md": {
-        "_title": "Michael Cremo (b. 1948)"
-      },
-      "16.08.25-jerry-tennant.md": {
-        "_title": "Dr. Jerry Tennant (b. 1940)"
-      },
-      "16.09.00-suppressed-energy-technology-cross-reference.md": {
-        "_title": "Suppressed Energy Technology: A Cross-Reference"
-      },
-      "16.10.00-mars-literature-author-profiles.md": {
+      "16.02.01-mars-literature-author-profiles.md": {
         "_title": "Mars Literature: Author Profiles and Evidence"
       },
-      "16.11.00-population-control-timeline-15th-21st-centuries.md": {
+      "16.03.00-controlled-opposition-appendix.md": {
+        "_title": "Controlled Opposition: Appendix"
+      },
+      "16.03.01-controlled-opposition-thunderbolts-case-study.md": {
+        "_title": "The Thunderbolts Project: A Case Study in Managed Disclosure"
+      },
+      "16.03.02-operation-mockingbird-historical-chain.md": {
+        "_title": "Operation Mockingbird: The Historical Chain (Extended)"
+      },
+      "16.04.00-censorship-historical-timeline.md": {
+        "_title": "Censorship and Book Burning: The Historical Record"
+      },
+      "16.05.00-historical-antibodies-profiles.md": {
+        "_title": "Historical Antibodies: Detailed Profiles"
+      },
+      "16.06.00-false-flags-investigation.md": {
+        "_title": "False Flags Investigation: Evidence Dossier"
+      },
+      "16.07.00-author-profiles.md": {
+        "_title": "Author Profiles"
+      },
+      "16.07.01-n-a-morozov.md": {
+        "_title": "N. A. Morozov"
+      },
+      "16.07.02-wal-thornhill.md": {
+        "_title": "Wal Thornhill"
+      },
+      "16.07.03-ralph-juergens.md": {
+        "_title": "Ralph Juergens"
+      },
+      "16.07.04-immanuel-velikovsky.md": {
+        "_title": "Immanuel Velikovsky (1895\u20131979)"
+      },
+      "16.07.05-anatoly-fomenko.md": {
+        "_title": "Anatoly Fomenko (b. 1945)"
+      },
+      "16.07.06-david-talbott.md": {
+        "_title": "David Talbott (b. 1942)"
+      },
+      "16.07.07-anthony-peratt.md": {
+        "_title": "Anthony Peratt (b. 1940)"
+      },
+      "16.07.08-jno-cook.md": {
+        "_title": "Jno Cook"
+      },
+      "16.07.09-alfred-de-grazia.md": {
+        "_title": "Alfred de Grazia (1919\u20132014)"
+      },
+      "16.07.10-donald-scott.md": {
+        "_title": "Donald Scott"
+      },
+      "16.07.11-ev-cochrane.md": {
+        "_title": "Ev Cochrane (b. 1952)"
+      },
+      "16.07.12-de-santillana-von-dechend.md": {
+        "_title": "Giorgio de Santillana & Hertha von Dechend"
+      },
+      "16.07.13-heribert-illig.md": {
+        "_title": "Heribert Illig (b. 1947)"
+      },
+      "16.07.14-gunnar-heinsohn.md": {
+        "_title": "Gunnar Heinsohn (b. 1943)"
+      },
+      "16.07.15-dwardu-cardona.md": {
+        "_title": "Dwardu Cardona (1937\u20132018)"
+      },
+      "16.07.16-clube-napier.md": {
+        "_title": "Victor Clube & Bill Napier"
+      },
+      "16.07.17-livio-stecchini.md": {
+        "_title": "Livio Stecchini (1913\u20131979)"
+      },
+      "16.07.18-rose-vaughan.md": {
+        "_title": "Lynn Rose & Raymond Vaughan"
+      },
+      "16.07.19-tom-van-flandern.md": {
+        "_title": "Tom Van Flandern (1940\u20132009)"
+      },
+      "16.07.20-martinus-van-der-sluijs.md": {
+        "_title": "Martinus van der Sluijs"
+      },
+      "16.07.21-charles-ginenthal.md": {
+        "_title": "Charles Ginenthal"
+      },
+      "16.07.22-robert-schoch.md": {
+        "_title": "Robert Schoch (b. 1959)"
+      },
+      "16.07.23-graham-hancock.md": {
+        "_title": "Graham Hancock (b. 1950)"
+      },
+      "16.07.24-michael-cremo.md": {
+        "_title": "Michael Cremo (b. 1948)"
+      },
+      "16.07.25-jerry-tennant.md": {
+        "_title": "Dr. Jerry Tennant (b. 1940)"
+      },
+      "16.08.00-suppressed-energy-technology-cross-reference.md": {
+        "_title": "Suppressed Energy Technology: A Cross-Reference"
+      },
+      "16.09.00-population-control-timeline-15th-21st-centuries.md": {
         "_title": "Population Control: A Timeline (15th\u201321st Centuries)"
       },
-      "16.12.00-fomenko-and-the-pyramid-question.md": {
-        "_title": "Fomenko and the Pyramid Question"
-      },
-      "16.13.00-asimov-three-laws-and-marx-encoding-extended.md": {
-        "_title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence"
-      },
-      "16.14.00-orphan-trains-trail-of-tears-evidence.md": {
+      "16.10.00-orphan-trains-trail-of-tears-evidence.md": {
         "_title": "Orphan Trains, Trail of Tears, Siberian Exile \u2014 Extended Evidence"
       },
-      "16.15.00-napoleonic-wars-1812-extended-evidence.md": {
+      "16.11.00-napoleonic-wars-1812-evidence.md": {
         "_title": "Napoleonic Wars and 1812 \u2014 Extended Evidence"
       },
-      "16.16.00-authors-cataclysm-texts-extended.md": {
-        "_title": "Authors Who Read Ancient Sources as World Cataclysm (Extended)"
+      "16.11.01-napoleon-1812-campaign.md": {
+        "_title": "Napoleon invades Russia \u2014 Reverse Crusade I (Extended)"
       },
-      "16.17.00-timeline-synchronization-tables.md": {
+      "16.12.00-timeline-synchronization-tables.md": {
         "_title": "Timeline Synchronization: Date Tables (Extended)"
       },
-      "16.18.00-pyramids-myths-evidence.md": {
+      "16.12.01-year-length-calendar-evidence.md": {
+        "_title": "Year-Length and Calendar Evidence (Extended)"
+      },
+      "16.12.02-fomenko-and-the-pyramid-question.md": {
+        "_title": "Fomenko and the Pyramid Question"
+      },
+      "16.12.03-pyramids-myths-evidence.md": {
         "_title": "Pyramids: Myths vs Reality \u2014 Evidence Table (Extended)"
       },
-      "_count": 44
+      "16.13.00-asimov-three-laws-and-marx-encoding.md": {
+        "_title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence"
+      },
+      "16.13.00-hordian-empire-fracture.md": {
+        "_title": "Deep State breaks up the Hordian Empire (Extended)"
+      },
+      "16.14.00-mudflood-evidence.md": {
+        "_title": "The MudFlood and World Cataclysm: Extended Evidence"
+      },
+      "16.15.00-soviet-historiography-bogdanov.md": {
+        "_title": "Soviet Historiography: Bogdanov and Suppressed Science (Extended)"
+      },
+      "16.16.00-british-empire-case-studies.md": {
+        "_title": "British Empire as Deep State: Case Studies (Extended)"
+      },
+      "_count": 52
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -765,7 +792,7 @@
       },
       "_count": 1
     },
-    "_count": 218
+    "_count": 227
   },
   "data": {
     "events.json": {},
@@ -812,8 +839,9 @@
     "_count": 12
   },
   "export": {
-    "timeline.pdf": {},
-    "_count": 1
+    "timeline-appendix.pdf": {},
+    "timeline-book.pdf": {},
+    "_count": 2
   },
   "fonts": {
     "LICENSE-EBGaramond.txt": {},
@@ -1787,5 +1815,5 @@
     },
     "_count": 1
   },
-  "_count": 519
+  "_count": 529
 }

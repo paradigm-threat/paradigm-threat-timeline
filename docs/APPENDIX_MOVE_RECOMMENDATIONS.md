@@ -4,6 +4,11 @@
 
 **Principle:** Main book = thesis + key evidence + cross-refs. Appendix = extended dossiers, tables, block-quote evidence, investigation summaries.
 
+### Main Book vs Appendix: Dates and Pacing
+
+- **Main book = dates and timeline.** The book reads like a story with steady pacing for the progression of human history. Event-dated articles, chronological narrative, and discrete episodes stay in the main timeline.
+- **Appendix = non-date or long-spanning topics.** Topics that break pacing — cross-century dossiers, methodological deep-dives, author catalogs, extended evidence tables, thematic surveys — overflow to the appendix.
+
 ---
 
 ## Tier 1: Full Article → Appendix (Main Stays as Summary)
