@@ -12,7 +12,8 @@
  *  - Mercury, Neptune, Uranus added as column members
  *  - Orbit counting per planet per era
  */
-import { planetaryConfigs } from '../../data/events.js';
+import { planetaryConfigs, timelineEvents } from '../../data/events.js';
+import { formatYear } from './utils.js';
 
 let THREE = null;
 
@@ -153,6 +154,9 @@ export async function createPlanetController(canvas) {
     setGroupVis(oLines.collinear, false);
     setGroupVis(oLines.roundTable, false);
     setGroupVis(oLines.modern, false);
+
+    // ── HUD overlay (HTML element on top of canvas) ──
+    const hud = buildHUD(canvas);
 
     // ── State ──
     let currentYear = -5000;
@@ -305,9 +309,11 @@ export async function createPlanetController(canvas) {
             }
         }
 
-        // ── Sun always visible ──
-        p.sun.visible = true;
-        L.sun.visible = true;
+        // ── Sun visibility: hidden before Golden Age (4077 BC) ──
+        const sunVisible = year >= -4077;
+        p.sun.visible = sunVisible;
+        L.sun.visible = sunVisible;
+        sunLight.intensity = sunVisible ? 3.0 : 0;
 
         // ── Position by style ──
         if (style === 'collinear') placeCollinear(elapsed, cfg);
@@ -379,6 +385,9 @@ export async function createPlanetController(canvas) {
             const periodDays = 10 + (27.3 - 10) * frac;
             orbitCounts.moon = Math.abs((year - MOON_CAPTURE_YEAR) * yl / periodDays);
         }
+
+        // ── Update HUD overlay ──
+        updateHUD();
     }
 
     // ═══════ Phase update helpers (called from setYear) ═══════
@@ -687,6 +696,11 @@ export async function createPlanetController(canvas) {
 
     // ── Fallback: transitional / chaotic phases ──
     function placeFallback(cfg) {
+        // Sun is hidden before -4077 (set in setYear); enforce here too
+        const sunVis = currentYear >= -4077;
+        p.sun.visible = sunVis;
+        L.sun.visible = sunVis;
+        sunLight.intensity = sunVis ? 3.0 : 0;
         p.sun.position.set(0, -3, -5);
         sunLight.position.set(0, -3, -5);
 
@@ -722,6 +736,24 @@ export async function createPlanetController(canvas) {
 
     function getOrbitInfo() { return { ...orbitCounts }; }
 
+    /** Update the HUD text from current state */
+    function updateHUD() {
+        const cfg = planetaryConfigs.find(c => currentYear >= c.yearStart && currentYear <= c.yearEnd);
+        const yearStr = formatYear(currentYear);
+        const label = cfg ? cfg.label : '';
+        const desc = cfg ? cfg.description : '';
+        // Find nearest event
+        const bcEvents = timelineEvents.filter(e => e.type === 'planetary' || e.type === 'blip');
+        let nearest = null;
+        let nearestDist = Infinity;
+        for (const e of bcEvents) {
+            const d = Math.abs(e.year - currentYear);
+            if (d < nearestDist) { nearestDist = d; nearest = e; }
+        }
+        const evtStr = (nearest && nearestDist <= 60) ? nearest.title : '';
+        hud.update(yearStr, label, desc, evtStr);
+    }
+
     function resize() {
         doResize();
     }
@@ -730,6 +762,7 @@ export async function createPlanetController(canvas) {
         if (animId) cancelAnimationFrame(animId);
         window.removeEventListener('resize', doResize);
         if (resizeObserver) resizeObserver.disconnect();
+        hud.remove();
         renderer.dispose();
     }
 
@@ -737,6 +770,76 @@ export async function createPlanetController(canvas) {
 }
 
 // ═══════════════════ Helper Functions ═══════════════════
+
+/**
+ * Build an HTML HUD overlay positioned on top of the canvas.
+ * Returns { update(year, label, desc, event), remove() }.
+ */
+function buildHUD(canvas) {
+    const parent = canvas.parentElement;
+    if (parent) parent.style.position = 'relative';
+
+    const el = document.createElement('div');
+    el.className = 'planet-hud';
+    Object.assign(el.style, {
+        position: 'absolute',
+        top: '0', left: '0', right: '0',
+        zIndex: '900',
+        padding: '10px 14px',
+        background: 'linear-gradient(180deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.45) 70%, transparent 100%)',
+        pointerEvents: 'none',
+        fontFamily: "'Segoe UI', system-ui, -apple-system, sans-serif",
+        color: '#e0e0e0',
+    });
+
+    const yearEl = document.createElement('div');
+    Object.assign(yearEl.style, {
+        fontSize: '22px', fontWeight: '700',
+        color: '#c084fc', fontVariantNumeric: 'tabular-nums',
+        lineHeight: '1.2',
+    });
+
+    const labelEl = document.createElement('div');
+    Object.assign(labelEl.style, {
+        fontSize: '13px', fontWeight: '600',
+        color: '#e2e8f0', marginTop: '2px',
+    });
+
+    const descEl = document.createElement('div');
+    Object.assign(descEl.style, {
+        fontSize: '11px', color: '#94a3b8',
+        marginTop: '3px', lineHeight: '1.4',
+        maxWidth: '420px',
+    });
+
+    const eventEl = document.createElement('div');
+    Object.assign(eventEl.style, {
+        fontSize: '11px', color: '#d8b4fe',
+        marginTop: '3px', opacity: '0.85',
+    });
+
+    el.appendChild(yearEl);
+    el.appendChild(labelEl);
+    el.appendChild(descEl);
+    el.appendChild(eventEl);
+    if (parent) parent.appendChild(el);
+
+    let lastText = '';
+    return {
+        update(yearStr, label, desc, evtTitle) {
+            const key = yearStr + label;
+            if (key === lastText) return; // avoid unnecessary DOM writes
+            lastText = key;
+            yearEl.textContent = yearStr;
+            labelEl.textContent = label;
+            descEl.textContent = desc;
+            eventEl.textContent = evtTitle;
+        },
+        remove() {
+            el.remove();
+        },
+    };
+}
 
 function buildLabel(text, color, THREE) {
     const c = document.createElement('canvas');

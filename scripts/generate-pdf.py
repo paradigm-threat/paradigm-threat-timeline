@@ -1265,7 +1265,6 @@ class PDFRenderer:
             # TOC entry (level 0)
             toc_label = f"Part {roman}:  {h1_title}"
             self.pdf.start_section(toc_label, level=0)
-            self._last_section_level = 0
 
             # Open a new page (no ensure_recto — avoids blank pages after TOC)
             self.pdf._chapter_opener = True
@@ -1322,7 +1321,6 @@ class PDFRenderer:
             # TOC entry (level 1)
             toc_label = f"Chapter {ch_num}:  {h1_title}"
             self.pdf.start_section(toc_label, level=1)
-            self._last_section_level = 1
 
             self._restore_body()
             tokens = self._strip_first_h1(self.md.parse(text))
@@ -1335,15 +1333,8 @@ class PDFRenderer:
             self._para_index = 0
 
             # TOC entry (level 2)
-            # If we'd skip a level (e.g. part→subsection with no chapter),
-            # insert a phantom chapter section so fpdf2 doesn't raise.
-            target_level = 2
-            last = getattr(self, '_last_section_level', 0)
-            for gap_level in range(last + 1, target_level):
-                self.pdf.start_section("", level=gap_level)
             toc_label = h1_title
-            self.pdf.start_section(toc_label, level=target_level)
-            self._last_section_level = target_level
+            self.pdf.start_section(toc_label, level=2)
 
             # Demote headings: H1 → H2, H2 → H3, etc.
             self._restore_body()

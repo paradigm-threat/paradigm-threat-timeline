@@ -136,46 +136,93 @@ def _plain(tok) -> str:
     return "".join(parts)
 
 # ---------------------------------------------------------------------------
-# Table of Contents (native Word TOC field — populated when LibreOffice updates indexes)
+# Table of Contents (manually built — mirrors PDF _render_toc output)
 # ---------------------------------------------------------------------------
-def _add_toc_field(doc: Document):
-    """Insert a native Word TOC field. Heading 1-3 entries get page numbers
-    when LibreOffice runs UpdateIndexes (see export.sh)."""
-    para = doc.add_paragraph()
-    run = para.add_run()
-    fld_begin = OxmlElement("w:fldChar")
-    fld_begin.set(qn("w:fldCharType"), "begin")
-    run._r.append(fld_begin)
-
-    run2 = para.add_run()
-    instr = OxmlElement("w:instrText")
-    instr.set(qn("xml:space"), "preserve")
-    # \o "1-3" = Heading levels 1-3, \h = hyperlinks, \z = hide page nums in web, \u = outline
-    instr.text = ' TOC \\o "1-3" \\h \\z \\u '
-    run2._r.append(instr)
-
-    run3 = para.add_run()
-    fld_sep = OxmlElement("w:fldChar")
-    fld_sep.set(qn("w:fldCharType"), "separate")
-    run3._r.append(fld_sep)
-
-    run4 = para.add_run()
-    fld_end = OxmlElement("w:fldChar")
-    fld_end.set(qn("w:fldCharType"), "end")
-    run4._r.append(fld_end)
-
-
 def _add_toc(doc: Document, md_files: list):
-    """Add Table of Contents heading and native TOC field (page numbers filled by LibreOffice macro)."""
+    """Build TOC entries manually from the content file list.
+
+    This produces styled paragraphs (TOC 1/2/3) that match the PDF's
+    rendered Table of Contents.  Because python-docx cannot know final
+    page numbers, we omit them — the PDF is the page-numbered copy.
+    """
     heading = doc.add_paragraph()
     heading.alignment = WD_ALIGN_PARAGRAPH.CENTER
     hr = heading.add_run("Table of Contents")
     hr.bold = True
-    hr.font.size = Pt(16)
+    hr.font.size = Pt(22)
+    hr.font.name = "Libre Franklin"
     hr.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
-    doc.add_paragraph()
 
-    _add_toc_field(doc)
+    # Gold rule below heading
+    rule = doc.add_paragraph()
+    rule.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    rr = rule.add_run("\u2500" * 60)
+    rr.font.size = Pt(7)
+    rr.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+    rule.paragraph_format.space_after = Pt(8)
+
+    chapter_counter = 0
+
+    for path in md_files:
+        tier, xx, yy, zz = _classify_tier(path.name)
+
+        # Read H1 title
+        try:
+            with open(path, encoding="utf-8") as f:
+                first_line = f.readline().strip()
+            title = first_line.lstrip("#").strip() if first_line.startswith("#") else path.stem
+        except Exception:
+            title = path.stem
+
+        if tier == "part":
+            roman = _ROMAN[int(xx)] if int(xx) < len(_ROMAN) else str(xx)
+            display = f"Part {roman}: {title}"
+
+            # Split century-based part titles into main + subtitle
+            pm = re.match(
+                r"^(\d{1,2}(?:st|nd|rd|th)\s+Century(?:\s+C\.E\.)?)"
+                r"(?:\s*[.:\-—]\s*|\s+)(.+)$",
+                title,
+            )
+            if pm:
+                main_title = f"Part {roman}: {pm.group(1).strip().rstrip('.')}"
+                subtitle   = pm.group(2).strip().rstrip(".")
+            else:
+                main_title = display
+                subtitle   = ""
+
+            para = doc.add_paragraph(style="TOC 1")
+            run = para.add_run(main_title)
+            run.bold = True
+            run.font.name = "Libre Franklin"
+            run.font.size = Pt(10.5)
+
+            if subtitle:
+                sub_para = doc.add_paragraph(style="TOC 1")
+                sub_para.paragraph_format.space_before = Pt(0)
+                sub_para.paragraph_format.left_indent = Cm(0.4)
+                sr = sub_para.add_run(subtitle)
+                sr.italic = True
+                sr.bold = False
+                sr.font.name = "Libre Franklin"
+                sr.font.size = Pt(8.8)
+                sr.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+
+        elif tier == "chapter":
+            chapter_counter += 1
+            para = doc.add_paragraph(style="TOC 2")
+            cr = para.add_run(f"Chapter {chapter_counter}: {title}")
+            cr.font.name = "EB Garamond"
+            cr.font.size = Pt(9.5)
+
+        elif tier == "subsection":
+            para = doc.add_paragraph(style="TOC 3")
+            sr = para.add_run(title)
+            sr.italic = True
+            sr.font.name = "EB Garamond"
+            sr.font.size = Pt(8.5)
+            sr.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+
     doc.add_page_break()
 
 # ---------------------------------------------------------------------------
@@ -291,25 +338,49 @@ class DOCXRenderer:
         cs.paragraph_format.space_before = Pt(2)
         cs.paragraph_format.space_after  = Pt(8)
 
-        # TOC styles — smaller font for compact index
-        toc_specs = {
-            "TOC 1": (9, False, RGBColor(0x1a, 0x1a, 0x1a)),  # Parts
-            "TOC 2": (8.5, False, RGBColor(0x2c, 0x2c, 0x2c)),  # Chapters
-            "TOC 3": (8, False, RGBColor(0x44, 0x44, 0x44)),  # Sub-sections
-        }
-        for toc_name, (sz, bold, clr) in toc_specs.items():
+        # TOC styles — match PDF hierarchy (Sans bold for Parts, Serif for rest)
+        # Parts: Libre Franklin Bold 10.5pt, dark, no indent, extra spacing
+        for toc_name in ("TOC 1", "TOC 2", "TOC 3"):
             try:
-                toc_style = doc.styles[toc_name]
+                _ = doc.styles[toc_name]
             except KeyError:
-                toc_style = doc.styles.add_style(toc_name, WD_STYLE_TYPE.PARAGRAPH)
-            toc_style.base_style = doc.styles["Normal"]
-            toc_style.font.name = self.FONT_SERIF
-            toc_style.font.size = Pt(sz)
-            toc_style.font.bold = bold
-            toc_style.font.color.rgb = clr
-            toc_style.paragraph_format.space_before = Pt(1)
-            toc_style.paragraph_format.space_after = Pt(1)
-            toc_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                doc.styles.add_style(toc_name, WD_STYLE_TYPE.PARAGRAPH)
+
+        toc1 = doc.styles["TOC 1"]
+        toc1.base_style = doc.styles["Normal"]
+        toc1.font.name = self.FONT_SANS
+        toc1.font.size = Pt(10.5)
+        toc1.font.bold = True
+        toc1.font.color.rgb = RGBColor(0x1a, 0x1a, 0x1a)
+        toc1.paragraph_format.space_before = Pt(6)
+        toc1.paragraph_format.space_after  = Pt(2)
+        toc1.paragraph_format.left_indent  = Cm(0)
+        toc1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+
+        # Chapters: EB Garamond 9.5pt, brownish, indent ~8mm
+        toc2 = doc.styles["TOC 2"]
+        toc2.base_style = doc.styles["Normal"]
+        toc2.font.name = self.FONT_SERIF
+        toc2.font.size = Pt(9.5)
+        toc2.font.bold = False
+        toc2.font.color.rgb = RGBColor(0x55, 0x3a, 0x1a)
+        toc2.paragraph_format.space_before = Pt(1)
+        toc2.paragraph_format.space_after  = Pt(1)
+        toc2.paragraph_format.left_indent  = Cm(0.8)
+        toc2.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+
+        # Subsections: EB Garamond Italic 8.5pt, gray, indent ~14mm
+        toc3 = doc.styles["TOC 3"]
+        toc3.base_style = doc.styles["Normal"]
+        toc3.font.name = self.FONT_SERIF
+        toc3.font.size = Pt(8.5)
+        toc3.font.bold = False
+        toc3.font.italic = True
+        toc3.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+        toc3.paragraph_format.space_before = Pt(0)
+        toc3.paragraph_format.space_after  = Pt(0)
+        toc3.paragraph_format.left_indent  = Cm(1.4)
+        toc3.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
 
     # ---------------------------------------------------------------
     #  Page layout: 6x9, equal margins, running headers
