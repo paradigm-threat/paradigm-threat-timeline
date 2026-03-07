@@ -988,6 +988,20 @@
                   "note": "Fall of Constantinople to Sultan Mehmed II; Fomenko identifies as Biblical conquest of Jericho"
                 }
               ]
+            },
+            {
+              "id": "evt-hundred-years-war-ends-fall-of",
+              "title": "Fall of Czar-Grad (Constantinople)",
+              "type": "article",
+              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-hundred-years-war-ends-fall-of.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1453,
+                  "end": 1453,
+                  "calendar": "CE"
+                }
+              ]
             }
           ],
           "dates": [
@@ -1236,14 +1250,14 @@
           "children": [
             {
               "id": "evt-redacted-into-the-books-of-esther-judith",
-              "title": "Redacted into the Books of Esther / Judith",
+              "title": "The Oprichnina",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.06.00-1565-ce-romanov-dynasty-stages-the-oprichnina-coup.md",
               "children": []
             },
             {
               "id": "evt-shakespeare-encodes-the-oprichnina",
-              "title": "Shakespeare Encodes the Oprichnina",
+              "title": "The Oprichnina",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.06.00-1565-ce-romanov-dynasty-stages-the-oprichnina-coup.md",
               "children": []
@@ -1483,7 +1497,7 @@
             },
             {
               "id": "evt-fall-of-the-avignon-powers",
-              "title": "Fall of the Avignon powers",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1497,7 +1511,7 @@
             },
             {
               "id": "evt-byzantine-and-catalan-alliance",
-              "title": "Byzantine and Catalan alliance",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1511,7 +1525,7 @@
             },
             {
               "id": "evt-messianic-jewish-begins",
-              "title": "Messianic Jewish begins",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1525,7 +1539,7 @@
             },
             {
               "id": "evt-disputes-against-jews-end-lasting-46-years",
-              "title": "Disputes against Jews end lasting 46 years",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1539,7 +1553,7 @@
             },
             {
               "id": "evt-the-order-of-the-temple-of-solomon-is-dismantled",
-              "title": "The Order of the Temple of Solomon is dismantled",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1553,7 +1567,7 @@
             },
             {
               "id": "evt-ce-rex-bellator-plan-unifies-all-military-orders",
-              "title": "Rex Bellator plan unifies all military orders",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1607,7 +1621,7 @@
             },
             {
               "id": "evt-the-great-comet-of-1664-1665",
-              "title": "The Great Comet of 1664 / 1665",
+              "title": "1664–1694 CE — London Financial Coup",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-london-1664-1694-financial-coup.md",
               "children": [],
@@ -1621,7 +1635,7 @@
             },
             {
               "id": "evt-the-great-plague-of-1664-1666",
-              "title": "The Great Plague of 1664-1666",
+              "title": "1664–1694 CE — London Financial Coup",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-london-1664-1694-financial-coup.md",
               "children": [],
@@ -1664,7 +1678,7 @@
             },
             {
               "id": "evt-dutch-burn-the-english-fleet",
-              "title": "The Dutch Burn the English Fleet (1667)",
+              "title": "1664–1694 CE — London Financial Coup",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-london-1664-1694-financial-coup.md",
               "children": [],
@@ -1692,7 +1706,7 @@
             },
             {
               "id": "evt-ce-deep-state-targets-independent-banks",
-              "title": "Deep State targets independent banks",
+              "title": "1664–1694 CE — London Financial Coup",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-london-1664-1694-financial-coup.md",
               "children": [],
@@ -1732,7 +1746,7 @@
         },
         {
           "id": "evt-jesuit-global-operations-17th-century",
-          "title": "Jesuit Global Operations in the 17th Century",
+          "title": "17th Century: From Empire to Invisible Government",
           "type": "article",
           "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.00.00-1600-ce-17th-century-from-empire-to-invisible-government.md",
           "children": [
@@ -1795,7 +1809,7 @@
     },
     {
       "id": "evt-18th-19th-century",
-      "title": "18th – 19th Century",
+      "title": "1718 CE — Secret Society of Jesus goes public",
       "type": "event",
       "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.00.00-1718-ce-secret-society-of-jesus-goes-public.md",
       "children": [
@@ -1873,6 +1887,17 @@
           ],
           "media": [
             "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png"
+          ]
+        },
+        {
+          "id": "evt-instant-fossilization-electric",
+          "title": "Instant Fossilization & Electric",
+          "type": "article",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.05.00-instant-fossilization-electric.md",
+          "children": [],
+          "related_events": [
+            "evt-instant-fossilization-and-electric-petrification",
+            "evt-the-mudflood-and-world-cataclysm"
           ]
         },
         {
@@ -3212,6 +3237,17 @@
           ]
         },
         {
+          "id": "evt-building-the-new-chronology-appendix",
+          "title": "Building the New Chronology (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.22.00-building-the-new-chronology.md",
+          "children": [],
+          "related_events": [
+            "evt-building-the-new-chronology",
+            "evt-building-the-new-chronology-extended"
+          ]
+        },
+        {
           "id": "evt-jesuits-convert-native-religions-to-monotheism",
           "title": "Jesuit Operations: Conversion, Catholicism, and the New World (Extended)",
           "type": "article",
@@ -3224,6 +3260,17 @@
             "evt-jesuits-convert-native-religions-to-monotheism-stub",
             "evt-deep-state-redacts-christianity-into-jesuit-cathol",
             "evt-jesuit-restoration-missionary-military-pattern"
+          ]
+        },
+        {
+          "id": "evt-other-challenges-to-chronology-appendix",
+          "title": "Other Challenges to Chronology (Extended)",
+          "type": "article",
+          "md_path": "content/16.appendix/16.23.00-other-challenges-to-chronology.md",
+          "children": [],
+          "related_events": [
+            "evt-other-challenges-to-chronology",
+            "evt-other-challenges-to-chronology-extended"
           ]
         },
         {
