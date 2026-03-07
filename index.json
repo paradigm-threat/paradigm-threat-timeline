@@ -3,28 +3,13 @@
     "_title": "paradigm-threat-timeline"
   },
   "animation": {
-    "README.md": {
-      "_title": "Paradigm Threat \u2014 Animation Module"
-    },
-    "data": {
-      "_count": 0
-    },
-    "dist": {
-      "assets": {
-        "_count": 0
-      },
-      "_count": 0
-    },
-    "public": {
-      "_count": 0
-    },
     "src": {
       "lib": {
         "_count": 0
       },
       "_count": 0
     },
-    "_count": 1
+    "_count": 0
   },
   "blog": {
     "2026-02-22-new-timeline-project.md": {
@@ -113,7 +98,7 @@
         "_title": "4077 BCE \u2014 The Golden Age"
       },
       "02.01.00-proto-saturn-joins-the-sun-s-orbit.md": {
-        "_title": "Proto-Saturn joins the Sun's orbit"
+        "_title": "4077 BCE \u2014 Proto-Saturn joins the Sun's orbit"
       },
       "02.02.00-the-225-day-year.md": {
         "_title": "The 225-Day Year"
@@ -134,7 +119,7 @@
         "_title": "Atlantis and the Tree of Knowledge"
       },
       "02.08.00-priori-mars-as-the-ladder.md": {
-        "_title": "Priori-Mars as the Ladder /"
+        "_title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven"
       },
       "02.09.00-interplanetary-entanglement.md": {
         "_title": "Interplanetary Entanglement"
@@ -152,13 +137,13 @@
         "_title": "3147 BCE \u2014 The Golden Age Ends Violently."
       },
       "03.02.00-humanity-was-then-cast-out-of-the.md": {
-        "_title": "Humanity was then cast out of the"
+        "_title": "Humanity was then cast out of the Garden"
       },
       "03.03.00-3067-bce-the-planets-are-at-war.md": {
         "_title": "3067 BCE \u2014 The Planets are at war."
       },
       "03.04.00-all-planets-enter-a-stable.md": {
-        "_title": "All planets enter a stable"
+        "_title": "2860 BCE \u2014 All planets enter a stable Nonlinear Orbit"
       },
       "03.04.01-jupiter-replaces-saturn-as-the-new-saviour.md": {
         "_title": "Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)"
@@ -170,16 +155,16 @@
         "_title": "Pyramids: Myths vs Reality"
       },
       "03.05.00-september-8-jupiter-disappears.md": {
-        "_title": "September 8 \u2014 Jupiter disappears"
+        "_title": "2349 BCE \u2014 September 8 \u2014 Jupiter disappears"
       },
       "03.06.00-earth-leaves-last-absu-layer.md": {
-        "_title": "Earth leaves last Absu layer &"
+        "_title": "2193\u20132167 BCE \u2014 Earth leaves last Absu layer & Seasons Begin"
       },
       "03.07.00-sodom-gomorrah-are-completely.md": {
-        "_title": "Sodom & Gomorrah are completely"
+        "_title": "1936 BCE \u2014 Sodom & Gomorrah are completely Destroyed"
       },
       "03.08.00-passover-of-comet-venus.md": {
-        "_title": "\"Passover\" of Comet Venus &"
+        "_title": "1492 BCE \u2014 \"Passover\" of Comet Venus & the Exodus"
       },
       "03.08.01-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md": {
         "_title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)"
@@ -188,13 +173,13 @@
         "_title": "1442 BCE \u2014 The Sun Stands Still for Joshua"
       },
       "03.10.00-mars-earth-mercury-finalize.md": {
-        "_title": "Mars, Earth & Mercury finalize"
+        "_title": "806\u2013670 BCE \u2014 Mars, Earth & Mercury finalize their Orbits"
       },
       "03.10.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md": {
         "_title": "Mars (aka Prometheus) replaces Venus as the new Saviour"
       },
       "03.11.00-march-23-priori-mars-loses-its.md": {
-        "_title": "March 23 \u2014 Priori-Mars loses its"
+        "_title": "670 BCE \u2014 March 23 \u2014 Priori-Mars loses its Outer Shell"
       },
       "03.12.00-684-bce-solar-system-becomes-stable.md": {
         "_title": "684 BCE \u2014 Solar System becomes stable"
@@ -218,7 +203,7 @@
         "_title": "1053 CE \u2014 11th Century C.E. Common Era Begins"
       },
       "05.01.00-year-of-our-lord-deception.md": {
-        "_title": "'Year of our Lord' Deception \u2014"
+        "_title": "1053 CE \u2014 'Year of our Lord' Deception \u2014 Anno Domini"
       },
       "05.02.00-sun-replaces-mars-as-new-saviour.md": {
         "_title": "Sun replaces Mars as new Saviour"
@@ -236,7 +221,7 @@
         "_title": "1100 CE \u2014 12th Century C.E. Birth of Christianity"
       },
       "06.01.00-deep-state-the-census-naming.md": {
-        "_title": "Deep State, the Census, & Naming"
+        "_title": "Deep State, the Census, & Naming of Christ"
       },
       "06.01.01-hairy-mary.md": {
         "_title": "Hairy Mary: The Wild Woman Who Threatened Patriarchal Religion"
@@ -245,16 +230,16 @@
         "_title": "1152 CE \u2014 Historical Christ is Born in Crimea"
       },
       "06.03.00-christ-is-crucified-in-istanbul.md": {
-        "_title": "Christ is Crucified in Istanbul"
+        "_title": "1185 CE \u2014 Christ is Crucified in Istanbul"
       },
       "06.03.01-the-brother-on-the-cross.md": {
         "_title": "The Brother on the Cross"
       },
       "06.04.00-revolution-despite-martyrdom.md": {
-        "_title": "Revolution Despite Martyrdom"
+        "_title": "Revolution Despite Christ's Martyrdom"
       },
       "06.05.00-the-first-crusade-trojan-war.md": {
-        "_title": "The First Crusade & Trojan War"
+        "_title": "1196 CE \u2014 The First Crusade & Trojan War"
       },
       "_count": 8
     },
@@ -284,10 +269,10 @@
         "_title": "1300 CE \u2014 14th Century C.E.: The Great Expansion \u2014 Triumph and Betrayal"
       },
       "08.01.00-1300-ce-european-religious.md": {
-        "_title": "1300 CE: European Religious"
+        "_title": "1300 CE \u2014 European Religious Schism"
       },
       "08.02.00-giants-are-defeated-at-the-battle-of.md": {
-        "_title": "Giants are defeated at the Battle of"
+        "_title": "1380 CE \u2014 Giants are defeated at the Battle of Kulikovo"
       },
       "08.02.01-european-castles-fortresses-against-giants.md": {
         "_title": "European Castles \u2014 Fortresses Against Giants"
@@ -305,7 +290,7 @@
         "_title": "1400 CE \u2014 15th Century C.E. Ottoman Conquest of Europe."
       },
       "09.01.00-meteorite-falls-on-yaroslavl.md": {
-        "_title": "Meteorite falls on Yaroslavl"
+        "_title": "1421 CE \u2014 Meteorite falls on Yaroslavl"
       },
       "09.01.01-1431-ce-jeanne-darc-is-executed-in-rouen-france.md": {
         "_title": "1431 CE \u2014 Jeanne d'Arc is executed in Rouen, France"
@@ -320,7 +305,7 @@
         "_title": "Fall of Czar-Grad (Constantinople)"
       },
       "09.02.01-language-of-the-deep-state.md": {
-        "_title": "Latin Language Deep State"
+        "_title": "Latin: Language of the Deep State"
       },
       "09.02.02-deep-state-redacts-christianity-into-jesuit-catholicism.md": {
         "_title": "Deep State Redacts Christianity into Jesuit Catholicism"
@@ -332,7 +317,7 @@
         "_title": "1492 CE \u2014 The Apocalypse Crusade"
       },
       "09.05.00-revelation-coming-apocalypse.md": {
-        "_title": "Revelation coming Apocalypse"
+        "_title": "Revelation of the Coming Apocalypse"
       },
       "09.06.00-the-reverse-exodus-theory.md": {
         "_title": "Theory: The Reverse Exodus"
@@ -347,7 +332,7 @@
         "_title": "1517 CE \u2014 Protestant Reformation Begins"
       },
       "10.02.00-jesuits-make-pilgrimage-to.md": {
-        "_title": "Jesuits make \"Pilgrimage\" to"
+        "_title": "1523 CE \u2014 Jesuits make \"Pilgrimage\" to Jerusalem"
       },
       "10.03.00-1542-ce-the-holy-inquisition.md": {
         "_title": "1542 CE \u2014 The Holy Inquisition"
@@ -365,7 +350,7 @@
         "_title": "1548 CE \u2014 Jesuits reach Africa"
       },
       "10.05.00-khazar-rebellion-in-the.md": {
-        "_title": "Khazar Rebellion in the"
+        "_title": "1552 CE \u2014 Khazar Rebellion in the Horde Empire"
       },
       "10.05.01-cathar-khazar-katya-link.md": {
         "_title": "The Cathar\u2013Khazar\u2013Katya Connection"
@@ -374,7 +359,7 @@
         "_title": "The Oprichnina"
       },
       "10.07.00-gregorian-calendar-makes-slight.md": {
-        "_title": "Gregorian Calendar makes slight"
+        "_title": "1582 CE \u2014 Gregorian Calendar Correction"
       },
       "_count": 12
     },
@@ -383,7 +368,7 @@
         "_title": "17th Century: From Empire to Invisible Government"
       },
       "11.01.00-romanov-seizure-fracturing-of.md": {
-        "_title": "Romanov Seizure & Fracturing of"
+        "_title": "Romanov Seizure & Fracturing of the Hordian Empire"
       },
       "11.01.02-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne.md": {
         "_title": "1613 CE \u2014 Romanovs-Zakharyin-Yurievs Dynasty takes the throne"
@@ -392,10 +377,10 @@
         "_title": "1627 CE \u2014 Deep State erases Russian Empire from all chronology"
       },
       "11.01.04-shakespeare-encodes-the-horde.md": {
-        "_title": "Shakespeare Encodes the Horde"
+        "_title": "1564\u20131616 CE \u2014 Shakespeare Encodes the Horde"
       },
       "11.02.00-resistance-religious-wars.md": {
-        "_title": "Resistance & Religious Wars"
+        "_title": "1618\u20131660 CE \u2014 Resistance & Religious Wars"
       },
       "11.02.01-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md": {
         "_title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition"
@@ -416,31 +401,31 @@
         "_title": "1633 CE \u2014 Disputes against Jews reemerge"
       },
       "11.03.02-marfull-framework.md": {
-        "_title": "Marfull Framework"
+        "_title": "1681\u20131689 CE \u2014 Marfull Framework"
       },
       "11.04.00-1666-ce-the-apocalypse-prophecy-of-1666.md": {
-        "_title": "The Apocalypse Prophecy of 1666"
+        "_title": "1660\u20131666 CE \u2014 The Apocalypse Prophecy of 1666"
       },
       "11.04.02-london-1664-1694-financial-coup.md": {
-        "_title": "London 1664-1694: Financial Coup"
+        "_title": "1664\u20131694 CE \u2014 London Financial Coup"
       },
       "11.04.03-1666-ce-london-burns-to-the-ground-sept-2-6-1666.md": {
         "_title": "1666 CE \u2014 London Burns to the Ground (Sept 2-6, 1666)"
       },
       "11.04.04-the-goldsmiths-and-the-death-of-independent-valuation.md": {
-        "_title": "The Goldsmiths and the Death of Independent Valuation"
+        "_title": "1660\u20131694 CE \u2014 The Goldsmiths and the Death of Independent Valuation"
       },
       "11.04.05-1668-ce-the-cabal-englands-shadow-cabinet.md": {
-        "_title": "The Cabal: England's Shadow Cabinet (1668-1674)"
+        "_title": "1668\u20131674 CE \u2014 The Cabal: England's Shadow Cabinet"
       },
       "11.05.00-jesuits-missions-convert-asians-to-buddhism.md": {
         "_title": "Jesuits Missions convert Asians to Buddhism"
       },
       "11.06.00-british-empire-as-deep-state.md": {
-        "_title": "British Empire as Deep State"
+        "_title": "British Empire as Deep State Instrument"
       },
       "11.07.00-slave-trades-and-the-horde-fracture.md": {
-        "_title": "Slave Trades and the Horde Fracture (1526\u20131830s)"
+        "_title": "1526\u20131830 CE \u2014 Slave Trades and the Horde Fracture"
       },
       "_count": 21
     },
@@ -455,19 +440,19 @@
         "_title": "1774 CE \u2014 mysterious carbon-14 spike"
       },
       "12.04.00-the-mudflood-world-cataclysm.md": {
-        "_title": "The MudFlood & World Cataclysm"
+        "_title": "1774 CE \u2014 The MudFlood & World Cataclysm"
       },
       "12.05.00-1774-ce-the-mars-catastrophe.md": {
-        "_title": "The Mars Catastrophe"
+        "_title": "1774 CE \u2014 The Mars Catastrophe"
       },
       "12.05.00-instant-fossilization-electric.md": {
         "_title": "Instant Fossilization & Electric"
       },
       "12.05.01-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md": {
-        "_title": "The Mars Catastrophe: Research Dead End"
+        "_title": "1774 CE \u2014 The Mars Catastrophe: Research Dead End"
       },
       "12.07.00-trail-tears-century-long-erasure.md": {
-        "_title": "Trail Tears: Century-Long Erasure"
+        "_title": "Trail of Tears: Century-Long Erasure"
       },
       "_count": 8
     },
@@ -476,7 +461,7 @@
         "_title": "1800 CE \u2014 19th Century: The Rise of Communism"
       },
       "13.01.00-napoleonic-wars-reverse.md": {
-        "_title": "Napoleonic Wars \u2014 Reverse"
+        "_title": "1803\u20131815 CE \u2014 Napoleonic Wars \u2014 Reverse Crusades"
       },
       "13.01.01-1812-ce-napoleon-invades-russia-reverse-crusade-i.md": {
         "_title": "1812 CE \u2014 Napoleon invades Russia \u2014 Reverse Crusade I"
@@ -491,25 +476,25 @@
         "_title": "1880 CE \u2014 Tchaikovsky releases 1812 Overture"
       },
       "13.02.00-battle-for-communism-s-soul.md": {
-        "_title": "Battle for Communism's Soul"
+        "_title": "1848\u20131883 CE \u2014 Battle for Communism's Soul"
       },
       "13.02.01-1883-ce-the-hijacking-of-communism.md": {
-        "_title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version"
+        "_title": "1883\u20131945 CE \u2014 The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version"
       },
       "13.03.00-19th-century-assault-on-hordian.md": {
-        "_title": "19th Century Assault on Hordian"
+        "_title": "1860\u20131917 CE \u2014 19th Century Assault on Hordian Communalism"
       },
       "13.03.01-1830-ce-orphan-trains-trail-of-tears-and-siberian-exile.md": {
-        "_title": "Orphan Trains, the Trail of Tears, and the Exile to Siberia"
+        "_title": "1790\u20131929 CE \u2014 Orphan Trains, the Trail of Tears, and the Exile to Siberia"
       },
       "13.04.00-jesuit-restoration-mission-pattern.md": {
-        "_title": "Jesuit Restoration: Mission Pattern"
+        "_title": "1814\u20131900 CE \u2014 Jesuit Restoration: Mission Pattern"
       },
       "13.05.00-19th-century-weapons.md": {
-        "_title": "19th Century Weapons &"
+        "_title": "1865 CE \u2014 19th Century Weapons & Declassification"
       },
       "13.06.00-suppression-of-maxwell-aether.md": {
-        "_title": "Suppression of Maxwell & Aether"
+        "_title": "1865\u20131930 CE \u2014 Suppression of Maxwell & Aether"
       },
       "_count": 13
     },
@@ -518,34 +503,34 @@
         "_title": "1900 CE \u2014 20th Century: The Reverse Crusades Continue"
       },
       "14.01.00-bolshevik-revolution-fulfilment-of.md": {
-        "_title": "Bolshevik Revolution: Fulfilment of"
+        "_title": "1917 CE \u2014 Bolshevik Revolution: Fulfilment of the Marxist Plan"
       },
       "14.01.01-1919-ce-the-aftermath-flight-exile-and-erasure.md": {
-        "_title": "The Aftermath: Flight, Exile, and Erasure"
+        "_title": "1917\u20131945 CE \u2014 The Aftermath: Flight, Exile, and Erasure"
       },
       "14.02.00-russian-intellectual-emigration.md": {
-        "_title": "Russian Intellectual Emigration"
+        "_title": "1922\u20131930 CE \u2014 Russian Intellectual Emigration"
       },
       "14.03.00-soviet-historiography-final-layer.md": {
-        "_title": "Soviet Historiography: Final Layer"
+        "_title": "1918\u20131991 CE \u2014 Soviet Historiography: Final Layer"
       },
       "14.04.00-from-missionaries-to-corporations.md": {
-        "_title": "From Missionaries to Corporations"
+        "_title": "1900\u20131991 CE \u2014 From Missionaries to Corporations"
       },
       "14.05.00-american-chestnut-blight-martian.md": {
-        "_title": "American Chestnut Blight: Martian"
+        "_title": "1904\u20131950 CE \u2014 American Chestnut Blight: Martian Origin Theory"
       },
       "14.06.00-mockingbird-public-erasure.md": {
-        "_title": "Mockingbird: Public Erasure"
+        "_title": "1948\u20131975 CE \u2014 Mockingbird: Public Erasure"
       },
       "14.07.00-nuclear-energy-bomb-most.md": {
-        "_title": "Nuclear Energy & \"Bomb\": Most"
+        "_title": "1938\u20131977 CE \u2014 Nuclear Energy & \"Bomb\": Most Dangerous Deception"
       },
       "14.08.00-weather-control-from-martian.md": {
-        "_title": "Weather Control: From Martian"
+        "_title": "1946\u20132000 CE \u2014 Weather Control: From Martian Weapons to Modern Programs"
       },
       "14.09.00-flexner-report-suppression-of.md": {
-        "_title": "Flexner Report & Suppression of"
+        "_title": "1910\u20131935 CE \u2014 Flexner Report & Suppression of Bioelectric Medicine"
       },
       "_count": 11
     },
@@ -554,31 +539,31 @@
         "_title": "2000 CE \u2014 21st Century: The Final Struggle \u2014 Reverse Crusade IV"
       },
       "15.01.00-20th-c-predictive-programming.md": {
-        "_title": "20th C. Predictive Programming"
+        "_title": "1890\u20131985 CE \u2014 20th C. Predictive Programming"
       },
       "15.02.00-1942-ce-asimov-marx-in-space.md": {
-        "_title": "Asimov: Marx in Space!"
+        "_title": "1942\u20131992 CE \u2014 Asimov: Marx in Space!"
       },
       "15.03.00-censorship-book-burning-from.md": {
-        "_title": "Censorship and Book Burning: From Alexandria to the Internet"
+        "_title": "300 BCE \u2014 Censorship and Book Burning: From Alexandria to the Internet"
       },
       "15.04.00-historical-antibodies.md": {
-        "_title": "Historical Antibodies: Independent Agents Against Erasure"
+        "_title": "1898\u20132023 CE \u2014 Historical Antibodies: Independent Agents Against Erasure"
       },
       "15.05.00-false-flags-architecture-of.md": {
-        "_title": "False Flags: Architecture of Manufactured War"
+        "_title": "1898\u20132026 CE \u2014 False Flags: Architecture of Manufactured War"
       },
       "15.06.00-2009-ce-cern-s-lhc-portal.md": {
-        "_title": "2009 CE: CERN's LHC & Portal \u2014"
+        "_title": "2009 CE \u2014 CERN's LHC & Portal Technology"
       },
       "15.07.00-population-control-from-1492-to.md": {
-        "_title": "Population Control: From 1492 to"
+        "_title": "1492\u20132026 CE \u2014 Population Control: From 1492 to the Present"
       },
       "15.08.00-controlled-opposition-gatekeeping.md": {
-        "_title": "Controlled Opposition: Managed Disclosure and Gatekeeping"
+        "_title": "1900\u20132026 CE \u2014 Controlled Opposition: Managed Disclosure and Gatekeeping"
       },
       "15.08.01-1880-ce-mars-literature-as-reclassified-nonfiction.md": {
-        "_title": "Mars Literature as Reclassified Nonfiction"
+        "_title": "1880\u20131996 CE \u2014 Mars Literature as Reclassified Nonfiction"
       },
       "_count": 10
     },
@@ -1811,5 +1796,5 @@
     },
     "_count": 1
   },
-  "_count": 528
+  "_count": 527
 }
