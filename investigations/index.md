@@ -90,6 +90,9 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 ### Orphan Trains & Mass Displacement
 - [Orphan trains, Trail of Tears, MFEE thesis](orphan-trains/orphan-trains-investigation.md) — First US orphanage (1729 Natchez); orphan trains 1854–1929; Indian boarding schools; Khmer Rouge children; MFEE as catalyst; **Trail of Tears revised chronology: 1758–1851 (century-long campaign beginning BEFORE MFEE)**; Bering–Siberia theory
 
+### Slave Trades
+- [Slave trades and Moor etymology](slavery/slave-trades-and-moor-etymology-investigation.md) — African transatlantic, Barbary/white slavery, Arab/Indian Ocean trades; Moor involvement validated; "Moor" = "People of Death" (folk etymology); **Horde-Fracture thesis**: colonization/slave trade as direct result of Rus-Horde breakup—splinter empires far more extractive than unified empire
+
 ### Mudflood & MFEE
 - [MFEE investigation](mudflood/mfee-investigation.md) — Evidence of MFEE aftermath; map changes over time; Fomenko map analysis vs. paradigm-threat-files
 - [Tartarian maps investigation](mudflood/tartarian-maps-investigation.md) — Putin–Shaimiev Blaeu map (19 Jan 2017); forbidden maps disclosure; map downloads

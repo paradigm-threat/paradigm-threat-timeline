@@ -41,9 +41,13 @@ def validate_entry(entry, path, errors):
         if err:
             errors.append(f"{evt_id}: {err}")
         elif title and first_header and title != first_header:
-            errors.append(
-                f"{evt_id}: title mismatch\n  title: {repr(title)}\n  first header: {repr(first_header)}"
-            )
+            # Allow date-prefixed H1: "1453 CE — Title" matches title "Title"
+            import re
+            stripped = re.sub(r"^\d+\s*(?:BCE|CE|AD)\s*[—–-]\s*", "", first_header)
+            if title != stripped:
+                errors.append(
+                    f"{evt_id}: title mismatch\n  title: {repr(title)}\n  first header: {repr(first_header)}"
+                )
 
     for i, child in enumerate(children):
         validate_entry(child, f"{path}.children[{i}]", errors)

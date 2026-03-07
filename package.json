@@ -1,6 +1,6 @@
 {
   "name": "paradigm-threat-timeline",
-  "version": "1.2.22",
+  "version": "1.2.24",
   "private": true,
   "type": "module",
   "scripts": {
@@ -12,6 +12,7 @@
     "generate-pdf": "python3 scripts/generate-pdf.py",
     "generate-docx": "python3 scripts/generate-docx.py",
     "generate-exports": "python3 scripts/generate-pdf.py && python3 scripts/generate-docx.py",
+    "compress-images": "bash scripts/compress-images-for-print.sh all",
     "export": "bash scripts/export.sh",
     "dev": "npx serve . -p 3011 --cors",
     "prepare": "husky"

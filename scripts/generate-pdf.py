@@ -977,6 +977,44 @@ class PDFRenderer:
         """Render the Table of Contents with leader dots."""
         start_page = pdf.page
 
+        def _wrap_toc_text(text: str, max_width: float) -> list[str]:
+            """Greedy word-wrap helper using current PDF font metrics."""
+            text = (text or "").strip()
+            if not text:
+                return [""]
+
+            words = text.split()
+            lines: list[str] = []
+            current = ""
+
+            for word in words:
+                candidate = f"{current} {word}".strip()
+                if not current or pdf.get_string_width(candidate) <= max_width:
+                    current = candidate
+                    continue
+
+                lines.append(current)
+
+                # Handle extremely long single tokens (fallback char-wrap)
+                if pdf.get_string_width(word) <= max_width:
+                    current = word
+                    continue
+
+                chunk = ""
+                for ch in word:
+                    test = chunk + ch
+                    if not chunk or pdf.get_string_width(test) <= max_width:
+                        chunk = test
+                    else:
+                        lines.append(chunk)
+                        chunk = ch
+                current = chunk
+
+            if current:
+                lines.append(current)
+
+            return lines
+
         # Ensure correct mirrored margins for this page
         pdf._apply_margins()
 
@@ -1012,12 +1050,27 @@ class PDFRenderer:
                 indent  = 0
                 line_h  = 6.5
                 spacing = 1.5
+
+                # Split Part title: "Part X: 16th Century C.E." + subtitle
+                part_main = name
+                part_sub  = ""
+                pm = re.match(
+                    r"^(Part\s+[A-Z]+:\s*\d{1,2}(?:st|nd|rd|th)\s+Century(?:\s+C\.E\.)?)"
+                    r"(?:\s*[.:\-—]\s*|\s+)(.+)$",
+                    name,
+                )
+                if pm:
+                    part_main = pm.group(1).strip().rstrip(".")
+                    part_sub  = pm.group(2).strip().rstrip(".")
+                name = part_main  # use trimmed main for the entry line
+
             elif level == 1:
                 pdf.set_font(self.SERIF, "", 9.5)
                 pdf.set_text_color(*C_H2)
                 indent  = 8
                 line_h  = 5.5
                 spacing = 0.5
+                part_sub = ""
             else:
                 # Sub-section (level 2+)
                 pdf.set_font(self.SERIF, "I", 8.5)
@@ -1025,26 +1078,33 @@ class PDFRenderer:
                 indent  = 14
                 line_h  = 5.0
                 spacing = 0.2
-
-            if pdf.get_y() + line_h > pdf.h - pdf.b_margin:
-                pdf.add_page()
+                part_sub = ""
 
             x0 = pdf.l_margin + indent
+            page_str = str(page)
+            page_col_w = 18
+            page_gap = 3
+            avail_w = pw - indent - page_col_w - page_gap
+            lines = _wrap_toc_text(name, avail_w)
+            rows_h = line_h * max(1, len(lines))
+
+            if pdf.get_y() + rows_h + spacing > pdf.h - pdf.b_margin:
+                pdf.add_page()
+
             pdf.set_x(x0)
 
-            # Measure text width
-            name_w = pdf.get_string_width(name)
+            # Measure first line width for leader dots
+            first_line = lines[0] if lines else ""
+            first_line_w = min(pdf.get_string_width(first_line) + 2, avail_w)
             page_str = str(page)
-            page_w = 12
+            text_color = C_DARK if level == 0 else (C_H2 if level == 1 else C_GRAY)
 
-            avail_w = pw - indent - page_w
-
-            # Print entry name (truncated if needed)
-            pdf.cell(min(name_w + 2, avail_w), line_h, name)
+            # Print first line
+            pdf.cell(first_line_w, line_h, first_line)
 
             # Leader dots
-            dot_start = x0 + min(name_w + 2, avail_w)
-            dot_end   = pdf.w - pdf.r_margin - page_w
+            dot_start = x0 + first_line_w
+            dot_end   = pdf.w - pdf.r_margin - page_col_w - page_gap
             if dot_end > dot_start + 4:
                 saved_font = (pdf.font_family, pdf.font_style, pdf.font_size_pt)
                 pdf.set_font(self.SANS, "", 8)
@@ -1055,19 +1115,38 @@ class PDFRenderer:
                     ndots = int((dot_end - dot_start) / dot_w)
                     dots = " ." * ndots
                     pdf.cell(dot_end - dot_start, line_h, dots)
-                # Restore font for page number
+                # Restore entry font before number
                 pdf.set_font(saved_font[0], saved_font[1], saved_font[2])
-                if level == 0:
-                    pdf.set_text_color(*C_DARK)
-                else:
-                    pdf.set_text_color(*C_H2)
+                pdf.set_text_color(*text_color)
 
             # Page number
-            pdf.set_font(self.SANS, "", 9)
+            pdf.set_font(self.SANS, "", 6.5)
             pdf.set_text_color(*C_GRAY)
-            pdf.set_x(pdf.w - pdf.r_margin - page_w)
-            pdf.cell(page_w, line_h, page_str, align="R",
+            pdf.set_x(pdf.w - pdf.r_margin - page_col_w)
+            pdf.cell(page_col_w, line_h, page_str, align="R",
                      new_x="LMARGIN", new_y="NEXT")
+
+            # Print wrapped continuation lines beneath the first line
+            if len(lines) > 1:
+                if level == 0:
+                    pdf.set_font(self.SANS, "B", 10.5)
+                elif level == 1:
+                    pdf.set_font(self.SERIF, "", 9.5)
+                else:
+                    pdf.set_font(self.SERIF, "I", 8.5)
+                pdf.set_text_color(*text_color)
+                for cont in lines[1:]:
+                    pdf.set_x(x0)
+                    pdf.cell(avail_w, line_h, cont,
+                             new_x="LMARGIN", new_y="NEXT")
+
+            # Part subtitle (smaller italic line beneath the main title)
+            if level == 0 and part_sub:
+                pdf.set_font(self.SANS, "I", 8.8)
+                pdf.set_text_color(*C_GRAY)
+                pdf.set_x(x0 + 4)
+                pdf.cell(avail_w, 4.8, part_sub,
+                         new_x="LMARGIN", new_y="NEXT")
 
             pdf.ln(spacing)
 
@@ -1186,6 +1265,7 @@ class PDFRenderer:
             # TOC entry (level 0)
             toc_label = f"Part {roman}:  {h1_title}"
             self.pdf.start_section(toc_label, level=0)
+            self._last_section_level = 0
 
             # Open a new page (no ensure_recto — avoids blank pages after TOC)
             self.pdf._chapter_opener = True
@@ -1242,6 +1322,7 @@ class PDFRenderer:
             # TOC entry (level 1)
             toc_label = f"Chapter {ch_num}:  {h1_title}"
             self.pdf.start_section(toc_label, level=1)
+            self._last_section_level = 1
 
             self._restore_body()
             tokens = self._strip_first_h1(self.md.parse(text))
@@ -1254,8 +1335,15 @@ class PDFRenderer:
             self._para_index = 0
 
             # TOC entry (level 2)
+            # If we'd skip a level (e.g. part→subsection with no chapter),
+            # insert a phantom chapter section so fpdf2 doesn't raise.
+            target_level = 2
+            last = getattr(self, '_last_section_level', 0)
+            for gap_level in range(last + 1, target_level):
+                self.pdf.start_section("", level=gap_level)
             toc_label = h1_title
-            self.pdf.start_section(toc_label, level=2)
+            self.pdf.start_section(toc_label, level=target_level)
+            self._last_section_level = target_level
 
             # Demote headings: H1 → H2, H2 → H3, etc.
             self._restore_body()
@@ -1327,12 +1415,14 @@ class PDFRenderer:
         book_files, _ = _partition_files(all_files)
         if not book_files:
             sys.exit("No book markdown files in content/")
+        # TOC entries can wrap; reserve with a small safety buffer.
+        toc_pages = max(8, ((len(book_files) + 19) // 20) + 1)
         self._generate_volume(
             book_files,
             EXPORT_DIR / "timeline-book.pdf",
             "Paradigm Threat:",
             "The Third Story",
-            toc_pages=8,
+            toc_pages=toc_pages,
         )
 
     def generate_appendix(self):

@@ -1,0 +1,666 @@
+{
+  "chapter_count": 94,
+  "wrapped_count": 66,
+  "wrapped": [
+    {
+      "chapter_number": 4,
+      "file": "01.before-creation/01.01.00-3-plasmoids-in-the-southern-hemisphere.md",
+      "original": "3 Plasmoids in the Southern Hemisphere",
+      "recommended": "3 Plasmoids Southern Hemisphere",
+      "recommended_fits": true,
+      "original_width_mm": 91.66,
+      "recommended_width_mm": 80.81,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 7,
+      "file": "02.the-golden-age/02.01.00-4077-bce-proto-saturn-joins-the-suns-orbit-and-lights-up.md",
+      "original": "Proto-Saturn joins the Sun's orbit and lights up",
+      "recommended": "Proto-Saturn joins the Sun's orbit",
+      "recommended_fits": true,
+      "original_width_mm": 102.27,
+      "recommended_width_mm": 78.96,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 9,
+      "file": "02.the-golden-age/02.03.00-saturns-collinear-planetary-configuration-the-tree-of-life.md",
+      "original": "Saturn's Collinear Planetary Configuration - The Tree of Life",
+      "recommended": "Saturn's Collinear Planetary Configuration \u2014 Tree of Life",
+      "recommended_fits": false,
+      "original_width_mm": 125.05,
+      "recommended_width_mm": 119.83,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 10,
+      "file": "02.the-golden-age/02.04.00-the-absu-layers-surrounded-the-planets.md",
+      "original": "The Absu layers surrounded the Planets",
+      "recommended": "Absu layers surrounded Planets",
+      "recommended_fits": true,
+      "original_width_mm": 89.96,
+      "recommended_width_mm": 75.96,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 11,
+      "file": "02.the-golden-age/02.05.00-northern-hemisphere-configuration.md",
+      "original": "Northern Hemisphere Configuration",
+      "recommended": "Northern Hemisphere Configuration",
+      "recommended_fits": false,
+      "original_width_mm": 84.06,
+      "recommended_width_mm": 84.06,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 12,
+      "file": "02.the-golden-age/02.06.00-southern-hemisphere-configuration.md",
+      "original": "Southern Hemisphere Configuration",
+      "recommended": "Southern Hemisphere Configuration",
+      "recommended_fits": false,
+      "original_width_mm": 83.98,
+      "recommended_width_mm": 83.98,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 14,
+      "file": "02.the-golden-age/02.08.00-priori-mars-as-the-ladder-stairway-mountain-of-heaven.md",
+      "original": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
+      "recommended": "Priori-Mars as the Ladder /",
+      "recommended_fits": true,
+      "original_width_mm": 122.1,
+      "recommended_width_mm": 68.03,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 15,
+      "file": "02.the-golden-age/02.09.00-quantum-entanglement.md",
+      "original": "The Interplanetary Quantum Entanglement",
+      "recommended": "Interplanetary Quantum Entanglement",
+      "recommended_fits": false,
+      "original_width_mm": 95.74,
+      "recommended_width_mm": 88.3,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 16,
+      "file": "02.the-golden-age/02.10.00-the-seven-days-of-creation.md",
+      "original": "The Seven Days of Creation: A Compressed Memory of the Saturnian Epoch",
+      "recommended": "Seven Days of Creation: A",
+      "recommended_fits": true,
+      "original_width_mm": 151.44,
+      "recommended_width_mm": 66.26,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 18,
+      "file": "03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the-garden-of-eden.md",
+      "original": "Humanity was then cast out of the Garden of Eden",
+      "recommended": "Humanity was then cast out of the",
+      "recommended_fits": true,
+      "original_width_mm": 108.15,
+      "recommended_width_mm": 80.4,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 20,
+      "file": "03.the-dark-ages/03.04.00-2860-bce-all-planets-enter-a-stable-non-linear-orbit.md",
+      "original": "All planets enter a stable non-linear orbit.",
+      "recommended": "All planets enter a stable",
+      "recommended_fits": true,
+      "original_width_mm": 93.16,
+      "recommended_width_mm": 64.42,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 21,
+      "file": "03.the-dark-ages/03.05.00-2349-bce-jupiter-disappears-and-venus-attacks-earth.md",
+      "original": "September 8 - Jupiter disappears and Venus attacks Earth",
+      "recommended": "September 8 \u2014 Jupiter disappears",
+      "recommended_fits": true,
+      "original_width_mm": 121.07,
+      "recommended_width_mm": 80.42,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 22,
+      "file": "03.the-dark-ages/03.06.00-2193-bce-earth-leaves-last-absu-layer-and-jupiter-consumes-venus.md",
+      "original": "Earth leaves last Absu layer and Jupiter consumes Venus again",
+      "recommended": "Earth leaves last Absu layer &",
+      "recommended_fits": true,
+      "original_width_mm": 129.33,
+      "recommended_width_mm": 73.47,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 23,
+      "file": "03.the-dark-ages/03.07.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
+      "original": "Sodom and Gomorrah are completely destroyed by Mars.",
+      "recommended": "Sodom & Gomorrah are completely",
+      "recommended_fits": true,
+      "original_width_mm": 119.34,
+      "recommended_width_mm": 82.13,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 24,
+      "file": "03.the-dark-ages/03.08.00-1492-bce-the-passover-of-comet-venus-and-exodus.md",
+      "original": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire",
+      "recommended": "\"Passover\" of Comet Venus &",
+      "recommended_fits": true,
+      "original_width_mm": 143.77,
+      "recommended_width_mm": 72.14,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 26,
+      "file": "03.the-dark-ages/03.10.00-806-bce-mars-earth-and-mercury-finalize-orbits.md",
+      "original": "Mars, Earth and Mercury finalize orbits.",
+      "recommended": "Mars, Earth & Mercury finalize",
+      "recommended_fits": true,
+      "original_width_mm": 90.71,
+      "recommended_width_mm": 75.36,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 27,
+      "file": "03.the-dark-ages/03.11.00-670-bce-priori-mars-loses-its-outer-shell-iron-age-begins.md",
+      "original": "March 23 - Priori-Mars loses its outer shell - Iron Age Begins",
+      "recommended": "March 23 \u2014 Priori-Mars loses its",
+      "recommended_fits": true,
+      "original_width_mm": 125.61,
+      "recommended_width_mm": 78.0,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 31,
+      "file": "05.ce-11th-common-era-begins/05.01.00-1053-ce-year-of-our-lord-deception-1053-year-shift-forward.md",
+      "original": "'Year of our Lord' Deception - 1053 Year Shift forward",
+      "recommended": "'Year of our Lord' Deception \u2014",
+      "recommended_fits": true,
+      "original_width_mm": 114.4,
+      "recommended_width_mm": 74.45,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 32,
+      "file": "05.ce-11th-common-era-begins/05.02.00-the-sun-replaces-mars-as-the-new-saviour.md",
+      "original": "The Sun replaces Mars as the new Saviour",
+      "recommended": "Sun replaces Mars as new Saviour",
+      "recommended_fits": true,
+      "original_width_mm": 94.67,
+      "recommended_width_mm": 80.67,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 33,
+      "file": "05.ce-11th-common-era-begins/05.03.00-deep-state-centralize-world-religion-at-jerusalem.md",
+      "original": "Deep State Centralize World Religion at Jerusalem",
+      "recommended": "Deep State Centralize World",
+      "recommended_fits": true,
+      "original_width_mm": 108.26,
+      "recommended_width_mm": 70.63,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 34,
+      "file": "06.ce-12th-birth-of-christianity/06.01.00-the-deep-state-the-census-and-the-naming-of-christ.md",
+      "original": "The Deep State, the Census, and the Naming of Christ",
+      "recommended": "Deep State, the Census, & Naming",
+      "recommended_fits": true,
+      "original_width_mm": 114.49,
+      "recommended_width_mm": 81.32,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 36,
+      "file": "06.ce-12th-birth-of-christianity/06.03.00-1185-ce-historical-christ-is-crucified-in-istanbul.md",
+      "original": "Historical Christ is Crucified in Istanbul",
+      "recommended": "Christ is Crucified in Istanbul",
+      "recommended_fits": true,
+      "original_width_mm": 89.98,
+      "recommended_width_mm": 72.22,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 37,
+      "file": "06.ce-12th-birth-of-christianity/06.04.00-the-revolution-survives-despite-christs-martyrdom.md",
+      "original": "The Revolution Survives Despite Christ's Martyrdom",
+      "recommended": "Revolution Survives Despite Christ's Martyrdom",
+      "recommended_fits": false,
+      "original_width_mm": 111.66,
+      "recommended_width_mm": 104.21,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 38,
+      "file": "06.ce-12th-birth-of-christianity/06.05.00-1196-ce-the-first-crusade-and-the-trojan-war.md",
+      "original": "The First Crusade and the Trojan War",
+      "recommended": "The First Crusade & Trojan War",
+      "recommended_fits": true,
+      "original_width_mm": 86.72,
+      "recommended_width_mm": 76.85,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 42,
+      "file": "08.ce-14th-great-expansion-of-the-mongol-slav/08.01.00-1300-ce-european-religious-schism-emerges.md",
+      "original": "1300 CE: European Religious Schism Emerges",
+      "recommended": "1300 CE: European Religious",
+      "recommended_fits": true,
+      "original_width_mm": 101.46,
+      "recommended_width_mm": 71.97,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 43,
+      "file": "08.ce-14th-great-expansion-of-the-mongol-slav/08.02.00-1380-ce-giants-are-defeated-at-the-battle-of-kulikovo.md",
+      "original": "Giants are defeated at the Battle of Kulikovo",
+      "recommended": "Giants are defeated at the Battle of",
+      "recommended_fits": true,
+      "original_width_mm": 97.74,
+      "recommended_width_mm": 81.91,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 44,
+      "file": "08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-imperial-technology-and-the-knowledge-of-the-horde.md",
+      "original": "Imperial Technology and the Knowledge of the Horde",
+      "recommended": "Imperial Technology & Knowledge",
+      "recommended_fits": true,
+      "original_width_mm": 113.31,
+      "recommended_width_mm": 80.82,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 45,
+      "file": "09.ce-15th-ottoman-conquest-of-europe/09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md",
+      "original": "Meteorite (Star Metal) falls on Yaroslavl",
+      "recommended": "Meteorite falls on Yaroslavl",
+      "recommended_fits": true,
+      "original_width_mm": 90.48,
+      "recommended_width_mm": 68.66,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 46,
+      "file": "09.ce-15th-ottoman-conquest-of-europe/09.02.00-1453-ce-hundred-years-war-ends-fall-of-czar-grad.md",
+      "original": "Hundred Years' War ends \u2014 Fall of Czar-Grad (1453 CE)",
+      "recommended": "Hundred Years' War ends \u2014 Fall of",
+      "recommended_fits": true,
+      "original_width_mm": 118.74,
+      "recommended_width_mm": 81.9,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 47,
+      "file": "09.ce-15th-ottoman-conquest-of-europe/09.03.00-language-of-the-deep-state.md",
+      "original": "Theory: Latin is the Language of the Deep State",
+      "recommended": "Latin Language Deep State",
+      "recommended_fits": true,
+      "original_width_mm": 103.79,
+      "recommended_width_mm": 68.41,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 48,
+      "file": "09.ce-15th-ottoman-conquest-of-europe/09.04.00-jesuit-operations-conversion-and-catholicism.md",
+      "original": "Jesuit Operations: Conversion, Catholicism, and the New World",
+      "recommended": "Jesuit Operations: Conversion, Catholicism, & New World",
+      "recommended_fits": false,
+      "original_width_mm": 130.09,
+      "recommended_width_mm": 120.21,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 49,
+      "file": "09.ce-15th-ottoman-conquest-of-europe/09.05.00-1486-ce-revelation-of-the-coming-apocalypse.md",
+      "original": "Revelation of the coming Apocalypse",
+      "recommended": "Revelation coming Apocalypse",
+      "recommended_fits": true,
+      "original_width_mm": 84.61,
+      "recommended_width_mm": 73.73,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 53,
+      "file": "10.ce-16th-reformation-and-inquisition/10.02.00-1523-ce-jesuits-make-pilgrimage-to-palestine.md",
+      "original": "Jesuits make \"Pilgrimage\" to Palestine",
+      "recommended": "Jesuits make \"Pilgrimage\" to",
+      "recommended_fits": true,
+      "original_width_mm": 87.19,
+      "recommended_width_mm": 70.53,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 56,
+      "file": "10.ce-16th-reformation-and-inquisition/10.05.00-1552-ce-khazar-rebellion-in-the-russia-horde-empire.md",
+      "original": "Khazar Rebellion in the Russia-Horde Empire",
+      "recommended": "Khazar Rebellion in the",
+      "recommended_fits": true,
+      "original_width_mm": 99.36,
+      "recommended_width_mm": 61.8,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 58,
+      "file": "10.ce-16th-reformation-and-inquisition/10.07.00-1582-ce-gregorian-calendar-makes-slight-adjustment-to-length-of-a.md",
+      "original": "Gregorian Calendar makes slight adjustment to length of a year",
+      "recommended": "Gregorian Calendar makes slight",
+      "recommended_fits": true,
+      "original_width_mm": 130.66,
+      "recommended_width_mm": 78.23,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 59,
+      "file": "11.ce-17th-romanovs-rise-to-power/11.01.00-1611-ce-the-romanov-seizure-and-fracturing-of-the-empire.md",
+      "original": "The Romanov Seizure and Fracturing of the Empire (1611-1627)",
+      "recommended": "Romanov Seizure & Fracturing of",
+      "recommended_fits": true,
+      "original_width_mm": 131.94,
+      "recommended_width_mm": 79.27,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 60,
+      "file": "11.ce-17th-romanovs-rise-to-power/11.02.00-1618-ce-resistance-and-religious-wars.md",
+      "original": "Resistance and Religious Wars (1618-1660)",
+      "recommended": "Resistance & Religious Wars",
+      "recommended_fits": true,
+      "original_width_mm": 96.1,
+      "recommended_width_mm": 70.92,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 61,
+      "file": "11.ce-17th-romanovs-rise-to-power/11.03.00-the-marfull-framework-mediterranean-realignment.md",
+      "original": "The Marfull Framework: Mediterranean Realignment",
+      "recommended": "Marfull Framework: Mediterranean Realignment",
+      "recommended_fits": false,
+      "original_width_mm": 112.86,
+      "recommended_width_mm": 105.42,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 62,
+      "file": "11.ce-17th-romanovs-rise-to-power/11.04.00-1664-ce-london-1664-1694-the-financial-coup.md",
+      "original": "London 1664-1694: The Financial Coup",
+      "recommended": "London 1664-1694: Financial Coup",
+      "recommended_fits": true,
+      "original_width_mm": 89.12,
+      "recommended_width_mm": 81.68,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 63,
+      "file": "11.ce-17th-romanovs-rise-to-power/11.05.00-jesuit-global-operations-in-the-17th-century.md",
+      "original": "Jesuit Global Operations in the 17th Century",
+      "recommended": "Jesuit Global Operations in the",
+      "recommended_fits": true,
+      "original_width_mm": 97.82,
+      "recommended_width_mm": 74.21,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 64,
+      "file": "11.ce-17th-romanovs-rise-to-power/11.06.00-1583-ce-the-british-empire-as-deep-state-instrument.md",
+      "original": "The British Empire as Deep State Instrument (1583-1997)",
+      "recommended": "British Empire as Deep State",
+      "recommended_fits": true,
+      "original_width_mm": 120.79,
+      "recommended_width_mm": 71.44,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 68,
+      "file": "12.ce-18th-mudflood-and-pugachev/12.04.00-1774-ce-the-mudflood-and-world-cataclysm.md",
+      "original": "The MudFlood and World Cataclysm",
+      "recommended": "The MudFlood & World Cataclysm",
+      "recommended_fits": true,
+      "original_width_mm": 84.01,
+      "recommended_width_mm": 80.69,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 69,
+      "file": "12.ce-18th-mudflood-and-pugachev/12.05.00-1774-ce-instant-fossilization-and-electric-petrification.md",
+      "original": "Instant Fossilization and Electric Petrification",
+      "recommended": "Instant Fossilization & Electric",
+      "recommended_fits": true,
+      "original_width_mm": 100.13,
+      "recommended_width_mm": 74.7,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 71,
+      "file": "12.ce-18th-mudflood-and-pugachev/12.07.00-1758-ce-the-trail-of-tears-century-long-erasure.md",
+      "original": "The Trail of Tears: A Century-Long Erasure (1758\u20131839+)",
+      "recommended": "Trail Tears: Century-Long Erasure",
+      "recommended_fits": true,
+      "original_width_mm": 121.04,
+      "recommended_width_mm": 80.57,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 72,
+      "file": "13.ce-19th-rise-of-communism/13.01.00-1803-ce-napoleonic-wars.md",
+      "original": "Napoleonic Wars \u2014 Reverse Crusade I",
+      "recommended": "Napoleonic Wars \u2014 Reverse",
+      "recommended_fits": true,
+      "original_width_mm": 87.73,
+      "recommended_width_mm": 70.11,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 73,
+      "file": "13.ce-19th-rise-of-communism/13.02.00-1848-ce-the-battle-for-communisms-soul.md",
+      "original": "The Battle for Communism's Soul: Marx vs. Kinkel and the Road Not Taken",
+      "recommended": "Battle for Communism's Soul",
+      "recommended_fits": true,
+      "original_width_mm": 150.2,
+      "recommended_width_mm": 71.51,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 74,
+      "file": "13.ce-19th-rise-of-communism/13.03.00-1860-ce-the-assault-on-hordian-memory.md",
+      "original": "The 19th Century Assault on Hordian Memory",
+      "recommended": "19th Century Assault on Hordian",
+      "recommended_fits": true,
+      "original_width_mm": 100.71,
+      "recommended_width_mm": 78.09,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 75,
+      "file": "13.ce-19th-rise-of-communism/13.04.00-1814-ce-the-jesuit-restoration-and-the-missionary-military-pattern.md",
+      "original": "The Jesuit Restoration and the Missionary-Military Pattern",
+      "recommended": "Jesuit Restoration & Missionary-Military Pattern",
+      "recommended_fits": false,
+      "original_width_mm": 121.8,
+      "recommended_width_mm": 104.49,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 76,
+      "file": "13.ce-19th-rise-of-communism/13.05.00-1865-ce-19th-century-weapons-and-the-declassification-thesis.md",
+      "original": "19th Century Weapons and the Declassification Thesis",
+      "recommended": "19th Century Weapons &",
+      "recommended_fits": true,
+      "original_width_mm": 114.76,
+      "recommended_width_mm": 64.95,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 77,
+      "file": "13.ce-19th-rise-of-communism/13.06.00-1865-ce-the-suppression-of-maxwell-and-the-aether.md",
+      "original": "The Suppression of Maxwell and the Aether",
+      "recommended": "Suppression of Maxwell & Aether",
+      "recommended_fits": true,
+      "original_width_mm": 96.48,
+      "recommended_width_mm": 79.16,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 78,
+      "file": "14.ce-20th-the-1917-revolution/14.01.00-1917-ce-the-bolshevik-revolution.md",
+      "original": "The Bolshevik Revolution: Fulfilment of the Script",
+      "recommended": "Bolshevik Revolution: Fulfilment of",
+      "recommended_fits": true,
+      "original_width_mm": 107.08,
+      "recommended_width_mm": 81.68,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 79,
+      "file": "14.ce-20th-the-1917-revolution/14.02.00-1922-ce-the-russian-intellectual-emigration.md",
+      "original": "The Russian Intellectual Emigration",
+      "recommended": "Russian Intellectual Emigration",
+      "recommended_fits": true,
+      "original_width_mm": 83.18,
+      "recommended_width_mm": 75.74,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 80,
+      "file": "14.ce-20th-the-1917-revolution/14.03.00-1930-ce-soviet-historiography.md",
+      "original": "Soviet Historiography: The Final Falsification Layer",
+      "recommended": "Soviet Historiography: Final Falsification Layer",
+      "recommended_fits": false,
+      "original_width_mm": 110.29,
+      "recommended_width_mm": 102.84,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 81,
+      "file": "14.ce-20th-the-1917-revolution/14.04.00-1900-ce-from-missionaries-to-corporations.md",
+      "original": "From Missionaries to Corporations: The 20th Century Succession",
+      "recommended": "From Missionaries to Corporations",
+      "recommended_fits": true,
+      "original_width_mm": 133.47,
+      "recommended_width_mm": 81.34,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 82,
+      "file": "14.ce-20th-the-1917-revolution/14.05.00-1904-ce-the-american-chestnut-blight-martian-fungus-on-earth.md",
+      "original": "The American Chestnut Blight: Martian Fungus on Earth",
+      "recommended": "American Chestnut Blight: Martian",
+      "recommended_fits": true,
+      "original_width_mm": 118.78,
+      "recommended_width_mm": 81.75,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 83,
+      "file": "14.ce-20th-the-1917-revolution/14.06.00-1948-ce-operation-mockingbird.md",
+      "original": "Operation Mockingbird: State-Sponsored Erasure Goes Public",
+      "recommended": "Operation Mockingbird: State-Sponsored Erasure Goes Public",
+      "recommended_fits": false,
+      "original_width_mm": 127.73,
+      "recommended_width_mm": 127.73,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 84,
+      "file": "14.ce-20th-the-1917-revolution/14.07.00-1938-ce-nuclear-energy-and-the-bomb.md",
+      "original": "Nuclear Energy and the \"Bomb\": The Most Expensive Way to Boil Water",
+      "recommended": "Nuclear Energy & \"Bomb\": Most",
+      "recommended_fits": true,
+      "original_width_mm": 145.1,
+      "recommended_width_mm": 77.46,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 85,
+      "file": "14.ce-20th-the-1917-revolution/14.08.00-1946-ce-weather-control.md",
+      "original": "Weather Control: From Martian Beams to HAARP",
+      "recommended": "Weather Control: From Martian",
+      "recommended_fits": true,
+      "original_width_mm": 106.63,
+      "recommended_width_mm": 76.18,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 86,
+      "file": "14.ce-20th-the-1917-revolution/14.09.00-1910-ce-the-flexner-report-and-bioelectric-suppression.md",
+      "original": "The Flexner Report and the Suppression of Bioelectric Medicine",
+      "recommended": "Flexner Report & Suppression of",
+      "recommended_fits": true,
+      "original_width_mm": 131.53,
+      "recommended_width_mm": 77.99,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 87,
+      "file": "15.ce-21st-the-final-struggle/15.01.00-1890-ce-20th-century-predictive-programming-literature.md",
+      "original": "20th Century Predictive Programming: Literature as Historical Erasure",
+      "recommended": "20th Century Predictive Programming: Literature as Erasure",
+      "recommended_fits": false,
+      "original_width_mm": 143.72,
+      "recommended_width_mm": 125.96,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 89,
+      "file": "15.ce-21st-the-final-struggle/15.03.00-censorship-and-book-burning.md",
+      "original": "Censorship and Book Burning: From Alexandria to the Internet",
+      "recommended": "Censorship & Book Burning: From",
+      "recommended_fits": true,
+      "original_width_mm": 129.43,
+      "recommended_width_mm": 80.76,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 90,
+      "file": "15.ce-21st-the-final-struggle/15.04.00-historical-antibodies.md",
+      "original": "Historical Antibodies: Independent Agents Against Erasure",
+      "recommended": "Antibodies: Independent Agents Against Erasure",
+      "recommended_fits": false,
+      "original_width_mm": 122.74,
+      "recommended_width_mm": 104.98,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 91,
+      "file": "15.ce-21st-the-final-struggle/15.05.00-false-flags-the-architecture-of-manufactured-war.md",
+      "original": "False Flags: The Architecture of Manufactured War",
+      "recommended": "False Flags: Architecture of",
+      "recommended_fits": true,
+      "original_width_mm": 109.92,
+      "recommended_width_mm": 69.2,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 92,
+      "file": "15.ce-21st-the-final-struggle/15.06.00-2009-ce-cern-lhc-and-the-portal.md",
+      "original": "2009 CE: CERN's LHC and the Portal \u2014 Aether Manipulation in the Open",
+      "recommended": "2009 CE: CERN's LHC & Portal \u2014",
+      "recommended_fits": true,
+      "original_width_mm": 147.42,
+      "recommended_width_mm": 80.34,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 93,
+      "file": "15.ce-21st-the-final-struggle/15.07.00-2000-ce-population-control.md",
+      "original": "Population Control: From 1492 to the Technocratic Grid",
+      "recommended": "Population Control: From 1492 to",
+      "recommended_fits": true,
+      "original_width_mm": 117.64,
+      "recommended_width_mm": 79.26,
+      "limit_mm": 82.4
+    },
+    {
+      "chapter_number": 94,
+      "file": "15.ce-21st-the-final-struggle/15.08.00-ce-controlled-opposition-managed-disclosure.md",
+      "original": "Controlled Opposition: Managed Disclosure and Gatekeeping",
+      "recommended": "Controlled Opposition: Managed Disclosure & Gatekeeping",
+      "recommended_fits": false,
+      "original_width_mm": 126.31,
+      "recommended_width_mm": 122.99,
+      "limit_mm": 82.4
+    }
+  ]
+}

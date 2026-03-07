@@ -18,8 +18,9 @@ See `docs/PRINT_GOALS.md` §13 for the full strategy.
 ### Two-Book Split
 
 The appendix (Ch 16) is now a **separate companion volume**. The main book
-(Ch 00–15 + 17) has a hard page limit. The appendix book has no page limit —
-it is the overflow reservoir for all extended evidence, dossiers, and profiles.
+(Ch 00–15 + 17) has a hard page limit and reads like a history/story with steady pacing.
+The appendix has no page limit — it is a **large compilation** of investigations,
+dossiers, profiles, and everything too big to fit in the timeline.
 
 #### Book 1: Main Timeline (Ch 00–15 + 17)
 
@@ -36,13 +37,15 @@ it is the overflow reservoir for all extended evidence, dossiers, and profiles.
 
 #### Book 2: Appendix (Ch 16)
 
+Investigations, dossiers, extended evidence — everything too big for the timeline.
+
 | Metric | Value |
 |---|---|
 | Total words | **30,369** |
 | Total articles | **53** |
 | Embedded images | ~35 |
 | Est. pages | ~130+ |
-| **Page limit** | **None — grow freely** |
+| **Page limit** | **None — grow freely into a large compilation** |
 
 ## Target (updated Mar 5, 2026)
 
@@ -63,16 +66,21 @@ it is the overflow reservoir for all extended evidence, dossiers, and profiles.
 | Total words | No hard limit — max content approach |
 | Articles | No limit |
 
-## Core Strategy: Pack, Don't Pad — Max Content via Appendix Overflow
+## Core Strategy: Overflow First — Appendix Is the Primary Reduction Method
 
-**Goal:** Dense research in the main book. Every sentence carries information.
-When detail exceeds what the main book can hold, it overflows to the appendix
-book. No research is lost — it just moves to the companion volume.
+**Primary driving method:** When the main book exceeds its page budget, content **overflows to the appendix book**. The appendix (Ch 16) is printed as a **separate companion volume** with no page cap. It is still small (~30K words) and needs more content. Overflowing preserves all detail — nothing is lost.
 
-### Main Book vs Appendix: Dates and Pacing
+**What "reduction" means here:**
+- **Overflow to appendix** — Main article stays dense; extended evidence, tables, profiles, and analytical deep-dives move to the appendix. The main book shrinks; the appendix grows. No loss.
+- **Rewrite verbose sections** — If text is wordy or repetitive, rewrite for clarity and organization. Tighten prose without cutting substance.
+- **Organize data better** — Tables, lists, and catalogs can often be restructured to take less space or moved to the appendix for full treatment.
 
-- **Main book = dates and timeline.** The book reads like a story with steady pacing for the progression of human history. Event-dated articles, chronological narrative, and discrete episodes stay in the main timeline.
-- **Appendix = non-date or long-spanning topics.** Topics that break pacing — cross-century dossiers, methodological deep-dives, author catalogs, extended evidence tables, thematic surveys — overflow to the appendix. No cap on appendix length.
+**What we do NOT do:** Delete research, cut evidence, or drop author thesis. When strict reduction is needed, overflow first. **This approach avoids loss of detail.**
+
+### Main Book vs Appendix: Dates vs Investigations
+
+- **Main book = dates and timeline.** Prioritize dated events. The book reads like a **history/story** with **steady pacing** — chronological narrative, discrete episodes, the progression of human history. If it has a date and advances the story, it stays in the main timeline.
+- **Appendix = investigations and overflow.** The appendix is a **large compilation of everything that is too big to fit in the timeline** — investigations, cross-century dossiers, methodological deep-dives, author catalogs, extended evidence tables, thematic surveys, analytical frameworks. Anything that breaks story pacing or exceeds the main narrative belongs here. No cap on appendix length. **The appendix should grow as the main book stays lean and story-driven.**
 
 - **80% of text = cited evidence and sources** (third-person investigative)
 - **20% of text = author thesis** (clearly marked, usually at end of article)
@@ -127,6 +135,9 @@ Record each reduction pass below. One row per editing session.
 | 2026-03-06 | Phase D + Phase C | P4 + audit | — | — | ~8 | Phase D: Flexner (Tennant quote, Author note); Orphan Trains (Fomenko quotes); Controlled Opposition (Personal); Napoleonic (Gueniffey, Napoleon height); Soviet Historiography (Bogdanov). Phase C: fixed evt-deep-state-erases-russian-empire link in 14.06 |
 | 2026-03-06 | APPENDIX_MOVE_RECOMMENDATIONS (full) | Tiers 1–4 | — | — | ~25 | **Tier 1:** Mars Lit, Asimov, Orphan Trains → 16.10, 16.13, 16.14. **Tier 2:** Flexner (Tennant table), Controlled Opp, Aftermath 1812, Napoleonic, 15.01 (author table). **Tier 3:** Historical Antibodies, Censorship, False Flags, Mars Catastrophe (Brandenburg→12.06.01), Deep State Hordian Empire (condensed quotes). **Tier 4:** 00.02.02 Authors Cataclysm → 16.16; 00.03.02 Timeline Sync → 16.17; 03.04.03 Pyramids → 16.18. New appendix: 16.13–18. |
 | 2026-03-06 | 10k overflow + date/pacing principle | Tiers A–C | ~79k | ~74k | ~17 | **Principle:** Main book = dates/timeline (story pacing); appendix = non-date, long-spanning topics. **Tier A:** Napoleon 1812 → 16.19; Hordian Empire → 16.20 (stubs in main). **Tier B:** 15.01 Predictive Programming Lit → 16.21; 14.06 Mockingbird chain → 16.22; 13.06 Maxwell table/Dollard/sources → 16.09; 12.04 MudFlood extended → 16.23; 15.03 Censorship digital → 16.05. **Tier C:** 00.03.01, 02.02 year-length tables → 16.24; 14.03 Bogdanov → 16.25; 11.06 British Empire case studies → 16.26. New appendix: 16.19–26. Tier D (Ch 11 merge) deferred. |
+| 2026-03-07 | Phase A + Phase E | Merge + consolidate | — | — | ~19 | **Phase A:** Merged 11.01.03 (Deep State breaks up) into 11.01.00; 11.04.09 (Bank of England) into 11.04.00; 11.05.00 (Jesuit ops) into 11.00.00. Deleted stubs: 11.01.01 KJV, 10.06.01 Esther/Judith, 10.06.02 Shakespeare. **Phase E:** London consolidation — merged 11.04.02/03/06/08 (comet, plague, Dutch, Stop) into 11.04.00. MARFULL consolidation — merged 11.03.02–08 into 11.03.00. **Files removed:** 17. events.json md_path updated for all merged events. index: 540 → 523 files. |
+| 2026-03-07 | Phase D | Cross-reference deduplication | — | — | 0 | **Deep State:** Added cross-refs in 08.01, 06.04, 09.02, 05.02, 11.06, 13.02.01 → 03.02, 06.01. **Jesuits:** Added cross-ref in 10.04 → Jesuit Arc. Audited Mars, Predictive programming, False flags, Maxwell/energy — cross-refs already in place. |
+| 2026-03-07 | Phase F + G + H | Tighten, merge, compress script | — | — | ~2 | **Phase F:** Trail Tears — removed redundant "By 1839" section (~120w). 15.00.00 — tightened Immune Response, Infighting, Preparation sections (~50w). **Merge:** 12.00.00 (17w) into 12.01.00, deleted 12.00.00, updated events.json. **Phase H:** Added `scripts/compress-images-for-print.sh` and `npm run compress-images` — 800px, JPEG 72, greyscale. Requires ImageMagick. Main book: 159 articles. |
 
 **Cumulative savings (micro-pass):** ~8,813 words → ~29 pages estimated
 **Total savings (all sessions):** ~71,674 words → ~239 pages estimated
@@ -144,18 +155,21 @@ Record each reduction pass below. One row per editing session.
 > **Status:** Main book is only 4.2K words over target, but **34 articles over target**.
 > Since each article starts on a recto page, the file-count overage creates ~34 extra
 > recto-blank inserts, which is the primary driver of the ~50-page overage. **Priority:**
-> file-count reduction (merges + appendix moves) over word-count reduction.
+> overflow to appendix (move content, don't cut) + file-count reduction (merges + appendix moves).
+> The appendix is still small and should receive more content.
 
 ---
 
 ## Next Phase: File-Count Reduction (Mar 6, 2026)
 
-**Strategic Goal:** Reduce main book from **174 → ≤ 127 articles** to save ~47 recto blank pages  
-**Secondary Goal:** Maintain word count ≤ 70,000 (currently +4.2K over)
+**Strategic Goal:** Reduce main book from **174 → ≤ 127 articles** via overflow + merges  
+**Primary method:** Overflow to appendix — move content, don't cut. Appendix is a separate book with no page cap; it is still small and needs more content.  
+**Secondary Goal:** Maintain main-book word count ≤ 70,000 (overflow excess to appendix)
 
 **Key Insight:** The largest file in the main book is now only 933 words. Prose packing has reached
-diminishing returns. The remaining work is **structural consolidation** — merging small files and
-moving non-timeline content to the appendix.
+diminishing returns. The remaining work is **overflow to the appendix** — moving non-timeline content,
+extended evidence, and analytical dossiers to the companion volume — plus structural consolidation
+(merging small files). Overflow is the primary method; it avoids loss of detail.
 
 ### Phase A: Article Consolidation in Main Book (174 → ~146 articles)
 
@@ -227,14 +241,14 @@ into methodological mode mid-narrative.
 For each major topic, verify ONE canonical article exists and all others use
 a single-sentence cross-reference. Topics to audit:
 
-- [ ] Deep State (05→07→09→11→14→15)
-- [ ] Jesuits (09→10→11→12)
-- [ ] Masons (07→11)
-- [ ] Mars (12→15→16)
-- [ ] Predictive programming (15→16)
-- [ ] False flags (15→16)
-- [ ] Nuclear/weapons (13→14)
-- [ ] Maxwell/energy (13→16)
+- [x] Deep State (05→07→09→11→14→15) — Added cross-refs: 08.01, 06.04, 09.02, 05.02, 11.06, 13.02.01 → 03.02, 06.01 (2026-03-07)
+- [x] Jesuits (09→10→11→12) — Added cross-ref 10.04 → Jesuit Arc; 09.04, 10.02, 11.05.01, 13.04, 14.04 already had Cross-References sections
+- [x] Masons (07→11) — Single article 07.01.01; no dedup needed
+- [x] Mars (12→15→16) — 15.08.01 already cross-refs 12.06 Mars Catastrophe
+- [x] Predictive programming (15→16) — 15.01 canonical; 09.02 links to evt-predictive-programming
+- [x] False flags (15→16) — 15.05 + 16.20; cross-refs in place
+- [x] Nuclear/weapons (13→14) — Scattered; 13.05, 14.07 reference each other
+- [x] Maxwell/energy (13→16) — 13.06 cross-refs 16.08 Suppressed Energy
 
 ### Phase E: Chapter 11 Structural Consolidation (135 → ~127 articles)
 
@@ -256,27 +270,26 @@ dated events:
 **Recto pages saved:** ~8  
 **Word count impact:** Neutral (merges, not cuts)
 
-### Phase F: Global Prose Pack (main book only)
+### Phase F: Rewrite Verbose, Organize, Overflow (main book only)
 
-After Phases A–E, run a final tightening pass on Ch 00–15 to eliminate the remaining ~4.2K word overage:
-- Remove expository warm-up sentences
-- Convert multi-sentence transitions to single-sentence cross-refs
-- Pack block quotes into cited summaries
-- Eliminate restated definitions
-- Target: ~5,000 words removed across all chapters
+After Phases A–E, if the main book still exceeds target:
+- **Rewrite verbose sections** — Expository warm-ups, multi-sentence transitions, restated definitions → tighten or replace with cross-refs. Do not delete substance.
+- **Organize data better** — Tables, lists, long block quotes → restructure or move to appendix as full dossiers.
+- **Overflow before cutting** — If word count must drop, move content to appendix first. The appendix is the primary reduction tool.
+- Target: ~5K words shifted from main to appendix or tightened via rewrite (no loss of detail)
 
-### Phase G: Grow the Appendix Book
+### Phase G: Grow the Appendix Book — Overflow Destination
 
-All detail removed from the main book during Phases A–F should be **added to
-the appendix book**, not deleted. The appendix book is the max-content reservoir:
+**The appendix is still small (~30K words) and needs more content.** All overflow from the main book during Phases A–F is **added to the appendix book**; nothing is deleted. The appendix is the max-content reservoir:
 - Extended author profiles
 - Chronological dossiers and tables
 - Film/TV/game catalogs
 - Investigation summaries
 - Any evidence too detailed for the main narrative
+- Content "removed" from main articles (rewritten verbose sections, reorganized data) → full treatment in appendix
 
-**Expected appendix growth from Phases B–C:**  
-~5,000 words added across new articles 16.28–35
+**Expected appendix growth from Phases B–F:**  
+~5,000+ words added across new and expanded appendix articles
 
 ### Phase H: Image Compression (final, before print)
 
@@ -298,9 +311,10 @@ the appendix book**, not deleted. The appendix book is the max-content reservoir
 | Appendix words | 30,369 | **~35,800** | No limit | ✅ Free to grow |
 | Appendix articles | 53 | **~60** | No limit | ✅ Free to grow |
 
-**Conclusion:** The plan is viable. Phases A–E focus on **file-count reduction** (the primary driver
-of page count), while Phase F handles the minor word-count overage. Phase H compresses images for
-file-size compliance. The main book should reach **~340 pages** with room to add future content.
+**Conclusion:** The plan is viable. **Overflow to the appendix** is the primary reduction method —
+no detail lost. Phases A–E focus on file-count reduction (merges + appendix moves); Phase F rewrites
+verbose sections and overflows any remaining excess. Phase H compresses images for file-size compliance.
+The main book should reach **~340 pages**; the appendix will grow as it receives overflow content.
 
 ---
 
@@ -368,8 +382,9 @@ compression floor. No main-book file exceeds 1,000 words.
 | 554 | 08.03.01-geopolymer-concrete | 08 | Keep |
 
 **Observation:** The main book is now densely packed. Further word-count reduction
-would require cutting content, not just tightening prose. The path to the 350-page
-target is **file-count reduction** (merges + appendix moves), not more prose packing.
+must come from **overflow to the appendix** (move, don't cut) and rewriting verbose
+sections for clarity. The path to the 350-page target is **overflow + file-count
+reduction** (merges + appendix moves), not cutting research or evidence.
 
 ---
 

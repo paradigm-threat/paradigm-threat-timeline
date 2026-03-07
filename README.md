@@ -10,6 +10,7 @@ The PDF and DOCX exports in `export/` are **early drafts of an upcoming book**. 
 - **Mass-redaction is plausible.** Records could have been altered or destroyed at any point. Absence of a source does not mean it never existed.
 - **Add all dates.** We add every relevant date we can find for each event and attempt to calculate alternate dates based on different chronology systems (Saturnian, Fomenko, Scaligerian, Phantom Time, Byzantine, Judaic, indigenous).
 - **Investigation over adjudication.** Document claims, trace sources, stay open to alternate chronologies. Do not dismiss a date because mainstream scholarship disagrees.
+- **Challenge every paradigm.** The project exists to pose an intellectual challenge to the reigning paradigms of every discipline. If a paradigm cannot survive scrutiny, it does not deserve the authority it claims. Armed with history and ready to debate.
 
 ## Structure
 
