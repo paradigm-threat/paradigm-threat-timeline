@@ -215,6 +215,86 @@ During the "venus-returns" phase (-1492 to -806):
 | Venus Returns | Venus ↔ Mars (dragon tether) | Red-green intertwined | The dragon's body |
 | Modern | None visible | — | Tethers gone |
 
+### 2.6 Multi-View Camera System (Golden Age)
+
+During the Golden Age collinear phase, the animation shows **three linked camera views** of the same 3D scene simultaneously. This reflects how inhabitants of Earth would have seen different celestial configurations depending on which hemisphere they stood in.
+
+#### Camera Definitions
+
+| Camera | Name | View Direction | Celestial Bodies Visible | Angle |
+|--------|------|---------------|-------------------------|-------|
+| **Orbital** | Main orbital camera | Top-down / elevated overview | All planets in the column | Current (`y=22, z=28`) |
+| **North Pole** | Earth's north pole looking up | From Earth inward along column → Saturn | Saturn, Venus, Mars, Wheel of Heaven | 70° elevation from horizontal |
+| **South Pole** | Earth's south pole looking up | From Earth outward along column → Mercury, Neptune, Uranus | Mercury, Neptune, Uranus (squatting man) | 70° elevation from horizontal |
+
+#### Camera Positioning (Dynamic — tracks column rotation)
+
+All three cameras share the same Three.js `scene`. Each frame, the renderer draws the scene three times with different viewports.
+
+**North Pole Camera:**
+- Position: At Earth's location, offset **below** the column plane (y ≈ −2) to simulate looking "up" from the surface
+- Look Target: Saturn's position, slightly elevated (y ≈ +2) — gives the 70° elevation angle
+- FOV: 50° (slightly narrower to focus on the Wheel of Heaven)
+- This recreates the **Northern Hemisphere Configuration**: Saturn as sunlike body at center, Venus plasmoid star in front, Mars solid sphere, Wheel of Heaven spokes radiating outward, Birkeland currents (Bifröst) as glowing tethers
+
+**South Pole Camera:**
+- Position: At Earth's location, offset **below** the column plane (y ≈ −2) to simulate looking "up" from the opposite surface
+- Look Target: Midpoint of outer planets (Mercury/Neptune/Uranus), slightly elevated (y ≈ +2)
+- FOV: 60° (wider to capture the spread of the squatting-man figure)
+- This recreates the **Southern Hemisphere Configuration**: Uranus + Neptune + Mercury forming the squatting-man petroglyph figure visible in the southern sky
+
+#### Layout Toggle Modes
+
+The user can toggle between three layout arrangements. Each mode has one **main** (large) view and two **corner** (small, picture-in-picture) views:
+
+| Mode | Hotkey | Main View (≈75% area) | Top-Right Corner | Bottom-Right Corner |
+|------|--------|----------------------|------------------|---------------------|
+| **1 — Orbital** | `1` | Orbital (current default) | North Pole | South Pole |
+| **2 — North** | `2` | North Pole (Wheel of Heaven) | Orbital | South Pole |
+| **3 — South** | `3` | South Pole (Squatting Man) | Orbital | North Pole |
+
+Corner viewports: ~20% canvas width, 4px border, slight padding from edges.
+
+#### Technical Implementation (Three.js Multi-Camera)
+
+Three.js supports rendering the same scene from multiple cameras using `renderer.setViewport()` + `renderer.setScissor()`:
+
+```
+Per frame in animate():
+    renderer.setScissorTest(true);
+
+    // Main view (large)
+    renderer.setViewport(mainX, mainY, mainW, mainH);
+    renderer.setScissor(mainX, mainY, mainW, mainH);
+    renderer.render(scene, mainCamera);
+
+    // Corner 1 (small, top-right)
+    renderer.setViewport(c1X, c1Y, c1W, c1H);
+    renderer.setScissor(c1X, c1Y, c1W, c1H);
+    renderer.render(scene, corner1Camera);
+
+    // Corner 2 (small, bottom-right)
+    renderer.setViewport(c2X, c2Y, c2W, c2H);
+    renderer.setScissor(c2X, c2Y, c2W, c2H);
+    renderer.render(scene, corner2Camera);
+
+    renderer.setScissorTest(false);
+```
+
+**No duplicate logic** — all three cameras observe the exact same scene graph with the same planet positions, animations, and state. Only the viewpoint differs.
+
+#### Activation Rules
+
+- **Pre-4077 BC**: Single camera only (orbital). No multi-view.
+- **Golden Age (collinear phase)**: Multi-view active. All three cameras available.
+- **Post-Golden Age** (breakup, round table, modern, etc.): Revert to single camera (orbital only). Corner views hidden.
+
+#### UI Elements
+
+- **View toggle buttons** (or keyboard `1`/`2`/`3`): Rendered as HTML overlay on the canvas, top-left corner. Only visible during Golden Age.
+- **Corner view borders**: Thin cyan/white border around PIP views for visual separation.
+- **Labels**: Each corner view gets a small label ("NORTH POLE" / "SOUTH POLE" / "ORBITAL") rendered via HTML overlay or in-canvas text.
+
 ### 2.5 3D Scene Sequence Plan
 
 **Scene 1: Creation / Before Golden Age**
@@ -455,10 +535,15 @@ For historically accurate map sequences:
 ## References
 
 ### Animation Module
-- [animation/README.md](../animation/README.md) — Architecture, local dev, and integration guide
-- [animation/src/index.js](../animation/src/index.js) — Barrel export (public API)
-- [animation/data/events.js](../animation/data/events.js) — Timeline events, empire phases, planetary configs
-- [animation/data/empire-boundaries.geojson](../animation/data/empire-boundaries.geojson) — 8 GeoJSON empire polygons
+
+> **Note:** The animation source code has been moved to the website repo
+> (`paradigm-threat-site/packages/paradigm-threat-animation/`). Only this
+> tracker document remains in the timeline repo.
+>
+> - `src/` — Library code (controllers, utils, index.js)
+> - `demo/` — Standalone Vite dev harness
+> - `data/events.js` — Timeline events, empire phases, planetary configs
+> - `data/empire-boundaries.geojson` — 8 GeoJSON empire polygons
 
 ### Timeline Files
 - [events.json](../data/events.json) — Master event list

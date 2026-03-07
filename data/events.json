@@ -104,13 +104,13 @@
     },
     {
       "id": "evt-before-creation",
-      "title": "Before Creation",
+      "title": "5000 BCE — Before Creation",
       "type": "event",
       "md_path": "content/01.before-creation/01.00.00-5000-bce-before-creation.md",
       "children": [
         {
           "id": "evt-3-plasmoids-in-the-southern-hemisphere",
-          "title": "3 Plasmoids in the Southern Hemisphere",
+          "title": "3 Plasmoids Southern Hemisphere",
           "type": "article",
           "md_path": "content/01.before-creation/01.01.00-3-plasmoids-southern-hemisphere.md",
           "children": [],
@@ -164,13 +164,13 @@
     },
     {
       "id": "evt-the-golden-age",
-      "title": "The Golden Age",
+      "title": "4077 BCE — The Golden Age",
       "type": "event",
       "md_path": "content/02.the-golden-age/02.00.00-4077-bce-the-golden-age.md",
       "children": [
         {
           "id": "evt-proto-saturn-joins-the-suns-orbit-and-lights-up",
-          "title": "Proto-Saturn joins the Sun's orbit and lights up",
+          "title": "4077 BCE — Proto-Saturn joins the Sun's orbit",
           "type": "event",
           "md_path": "content/02.the-golden-age/02.01.00-proto-saturn-joins-the-sun-s-orbit.md",
           "children": [],
@@ -194,7 +194,7 @@
         },
         {
           "id": "evt-saturns-collinear-planetary-configuration-the-tree",
-          "title": "Saturn's Collinear Planetary Configuration - The Tree of Life",
+          "title": "Saturn Collinear Configuration",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.03.00-saturn-collinear-configuration.md",
           "children": [],
@@ -204,7 +204,7 @@
         },
         {
           "id": "evt-the-absu-layers-surrounded-the-planets",
-          "title": "The Absu layers surrounded the Planets",
+          "title": "Absu layers surrounded Planets",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.04.00-absu-layers-surrounded-planets.md",
           "children": [],
@@ -215,7 +215,7 @@
         },
         {
           "id": "evt-northern-hemisphere-configuration",
-          "title": "Northern Hemisphere Configuration",
+          "title": "Northern Configuration",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.05.00-northern-configuration.md",
           "children": [],
@@ -225,7 +225,7 @@
         },
         {
           "id": "evt-southern-hemisphere-configuration",
-          "title": "Southern Hemisphere Configuration",
+          "title": "Southern Configuration",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.06.00-southern-configuration.md",
           "children": [],
@@ -245,7 +245,7 @@
         },
         {
           "id": "evt-priori-mars-as-the-ladder-stairway-mountain-of-hea",
-          "title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
+          "title": "Priori-Mars as the Ladder /",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.08.00-priori-mars-as-the-ladder.md",
           "children": [],
@@ -255,7 +255,7 @@
         },
         {
           "id": "evt-quantum-entanglement",
-          "title": "The Interplanetary Quantum Entanglement",
+          "title": "Interplanetary Entanglement",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.09.00-interplanetary-entanglement.md",
           "children": [],
@@ -286,13 +286,13 @@
     },
     {
       "id": "evt-the-dark-ages",
-      "title": "The Dark Ages",
+      "title": "3147 BCE — The Dark Ages",
       "type": "event",
       "md_path": "content/03.the-dark-ages/03.00.00-3147-bce-the-dark-ages.md",
       "children": [
         {
           "id": "evt-the-golden-age-ends-violently",
-          "title": "The Golden Age Ends Violently.",
+          "title": "3147 BCE — The Golden Age Ends Violently.",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.01.00-3147-bce-the-golden-age-ends-violently.md",
           "children": [],
@@ -310,7 +310,7 @@
         },
         {
           "id": "evt-humanity-was-then-cast-out-of-the-garden-of-eden",
-          "title": "Humanity was then cast out of the Garden of Eden",
+          "title": "Humanity was then cast out of the Garden",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the.md",
           "children": [],
@@ -320,7 +320,7 @@
         },
         {
           "id": "evt-the-planets-are-at-war",
-          "title": "The Planets are at war.",
+          "title": "3067 BCE — The Planets are at war.",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.03.00-3067-bce-the-planets-are-at-war.md",
           "children": [],
@@ -337,7 +337,7 @@
         },
         {
           "id": "evt-all-planets-enter-a-stable-non-linear-orbit",
-          "title": "All planets enter a stable non-linear orbit.",
+          "title": "2860 BCE — All planets enter a stable Nonlinear Orbit",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.04.00-all-planets-enter-a-stable.md",
           "children": [
@@ -382,7 +382,7 @@
         },
         {
           "id": "evt-september-8-jupiter-disappears-and-venus-attacks-e",
-          "title": "September 8 - Jupiter disappears and Venus attacks Earth",
+          "title": "2349 BCE — September 8 — Jupiter disappears",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.05.00-september-8-jupiter-disappears.md",
           "children": [],
@@ -400,7 +400,7 @@
         },
         {
           "id": "evt-earth-leaves-last-absu-layer-and-jupiter-consumes-",
-          "title": "Earth leaves last Absu layer and Jupiter consumes Venus again",
+          "title": "2193–2167 BCE — Earth leaves last Absu layer & Seasons Begin",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.06.00-earth-leaves-last-absu-layer.md",
           "children": [],
@@ -418,7 +418,7 @@
         },
         {
           "id": "evt-sodom-and-gomorrah-are-completely-destroyed-by-mar",
-          "title": "Sodom and Gomorrah are completely destroyed by Mars.",
+          "title": "1936 BCE — Sodom & Gomorrah are completely Destroyed",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.07.00-sodom-gomorrah-are-completely.md",
           "children": [],
@@ -435,7 +435,7 @@
         },
         {
           "id": "evt-the-passover-of-comet-venus-and-exodus-from-the-py",
-          "title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire",
+          "title": "1492 BCE — \"Passover\" of Comet Venus & the Exodus",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.08.00-passover-of-comet-venus.md",
           "children": [
@@ -464,7 +464,7 @@
         },
         {
           "id": "evt-the-sun-stands-still-for-joshua",
-          "title": "The Sun Stands Still for Joshua",
+          "title": "1442 BCE — The Sun Stands Still for Joshua",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.09.00-1442-bce-the-sun-stands-still-for-joshua.md",
           "children": [],
@@ -482,7 +482,7 @@
         },
         {
           "id": "evt-mars-earth-and-mercury-finalize-orbits",
-          "title": "Mars, Earth and Mercury finalize orbits.",
+          "title": "806–670 BCE — Mars, Earth & Mercury finalize their Orbits",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.10.00-mars-earth-mercury-finalize.md",
           "children": [
@@ -507,7 +507,7 @@
         },
         {
           "id": "evt-march-23-priori-mars-loses-its-outer-shell-iron-ag",
-          "title": "March 23 - Priori-Mars loses its outer shell - Iron Age Begins",
+          "title": "670 BCE — March 23 — Priori-Mars loses its Outer Shell",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.11.00-march-23-priori-mars-loses-its.md",
           "children": [],
@@ -521,7 +521,7 @@
         },
         {
           "id": "evt-solar-system-becomes-stable",
-          "title": "Solar System becomes stable",
+          "title": "684 BCE — Solar System becomes stable",
           "type": "event",
           "md_path": "content/03.the-dark-ages/03.12.00-684-bce-solar-system-becomes-stable.md",
           "children": [],
@@ -588,13 +588,13 @@
     },
     {
       "id": "evt-11th-century-ce-common-era-begins",
-      "title": "11th Century C.E. Common Era Begins",
+      "title": "1053 CE — 11th Century C.E. Common Era Begins",
       "type": "event",
       "md_path": "content/05.ce-11th-common-era-begins/05.00.00-1053-ce-11th-century-ce-common-era-begins.md",
       "children": [
         {
           "id": "evt-year-of-our-lord-deception-1053-year-shift-forward",
-          "title": "'Year of our Lord' Deception - 1053 Year Shift forward",
+          "title": "1053 CE — 'Year of our Lord' Deception — Anno Domini",
           "type": "event",
           "md_path": "content/05.ce-11th-common-era-begins/05.01.00-year-of-our-lord-deception.md",
           "children": [],
@@ -611,7 +611,7 @@
         },
         {
           "id": "evt-the-sun-replaces-mars-as-the-new-saviour",
-          "title": "The Sun replaces Mars as the new Saviour",
+          "title": "Sun replaces Mars as new Saviour",
           "type": "article",
           "md_path": "content/05.ce-11th-common-era-begins/05.02.00-sun-replaces-mars-as-new-saviour.md",
           "children": [],
@@ -621,7 +621,7 @@
         },
         {
           "id": "evt-deep-state-centralize-world-religion-at-jerusalem",
-          "title": "Deep State Centralize World Religion at Jerusalem",
+          "title": "Deep State Centralizes World Religion",
           "type": "article",
           "md_path": "content/05.ce-11th-common-era-begins/05.03.00-deep-state-centralize-world.md",
           "children": [
@@ -658,13 +658,13 @@
     },
     {
       "id": "evt-12th-century-ce-birth-of-christianity",
-      "title": "12th Century C.E. Birth of Christianity",
+      "title": "1100 CE — 12th Century C.E. Birth of Christianity",
       "type": "event",
       "md_path": "content/06.ce-12th-birth-of-christianity/06.00.00-1100-ce-12th-century-ce-birth-of-christianity.md",
       "children": [
         {
           "id": "evt-the-deep-state-the-census-and-the-naming-of-christ",
-          "title": "The Deep State, the Census, and the Naming of Christ",
+          "title": "Deep State, the Census, & Naming",
           "type": "article",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.01.00-deep-state-the-census-naming.md",
           "children": [
@@ -686,7 +686,7 @@
         },
         {
           "id": "evt-historical-christ-is-born-in-crimea",
-          "title": "Historical Christ is Born in Crimea",
+          "title": "1152 CE — Historical Christ is Born in Crimea",
           "type": "event",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.02.00-1152-ce-historical-christ-is-born-in-crimea.md",
           "children": [],
@@ -703,7 +703,7 @@
         },
         {
           "id": "evt-historical-christ-is-crucified-in-istanbul",
-          "title": "Historical Christ is Crucified in Istanbul",
+          "title": "1185 CE — Christ is Crucified in Istanbul",
           "type": "event",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.03.00-christ-is-crucified-in-istanbul.md",
           "children": [
@@ -733,7 +733,7 @@
         },
         {
           "id": "evt-the-revolution-survives-despite-christs-martyrdom",
-          "title": "The Revolution Survives Despite Christ's Martyrdom",
+          "title": "Revolution Despite Martyrdom",
           "type": "article",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md",
           "children": [],
@@ -743,7 +743,7 @@
         },
         {
           "id": "evt-the-first-crusade-and-the-trojan-war",
-          "title": "The First Crusade and the Trojan War",
+          "title": "1196 CE — The First Crusade & Trojan War",
           "type": "event",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.05.00-the-first-crusade-trojan-war.md",
           "children": [],
@@ -772,7 +772,7 @@
     },
     {
       "id": "evt-13th-century-ce-the-russian-horde-tartarian-empire",
-      "title": "13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges",
+      "title": "1200 CE — 13th Century C.E.: The Russian Horde 'Tartarian' Empire emerges",
       "type": "event",
       "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.00.00-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e.md",
       "children": [
@@ -812,7 +812,7 @@
         },
         {
           "id": "evt-historical-christ-dies",
-          "title": "Historical Christ dies",
+          "title": "1258 CE — Historical Christ dies",
           "type": "event",
           "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.02.00-1258-ce-historical-christ-dies.md",
           "children": [],
@@ -829,7 +829,7 @@
         },
         {
           "id": "evt-first-olympic-games",
-          "title": "First Olympic Games",
+          "title": "1285 CE — First Olympic Games",
           "type": "event",
           "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.03.00-1285-ce-first-olympic-games.md",
           "children": [],
@@ -860,13 +860,13 @@
     },
     {
       "id": "evt-14th-century-ce-great-expansion-of-the-mongol-slav",
-      "title": "14th Century C.E.: The Great Expansion — Triumph and Betrayal",
+      "title": "1300 CE — 14th Century C.E.: The Great Expansion — Triumph and Betrayal",
       "type": "event",
       "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.00.00-1300-ce-14th-century-ce-the-great-expansion-triumph-and-betr.md",
       "children": [
         {
           "id": "evt-european-religious-schism-emerges",
-          "title": "1300 CE: European Religious Schism Emerges",
+          "title": "1300 CE — European Religious Schism",
           "type": "article",
           "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.01.00-1300-ce-european-religious.md",
           "children": [],
@@ -877,7 +877,7 @@
         },
         {
           "id": "evt-giants-are-defeated-at-the-battle-of-kulikovo",
-          "title": "Giants are defeated at the Battle of Kulikovo",
+          "title": "1380 CE — Giants are defeated at the Battle of Kulikovo",
           "type": "event",
           "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.00-giants-are-defeated-at-the-battle-of.md",
           "children": [
@@ -904,7 +904,7 @@
         },
         {
           "id": "evt-imperial-technology-and-the-knowledge-of-the-horde",
-          "title": "Imperial Technology and the Knowledge of the Horde",
+          "title": "Imperial Technology & Knowledge",
           "type": "article",
           "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.00-imperial-technology-knowledge.md",
           "children": [
@@ -936,19 +936,19 @@
     },
     {
       "id": "evt-15th-century-ce-ottoman-conquest-of-europe",
-      "title": "15th Century C.E. Ottoman Conquest of Europe.",
+      "title": "1400 CE — 15th Century C.E. Ottoman Conquest of Europe.",
       "type": "event",
       "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-1400-ce-15th-century-ce-ottoman-conquest-of-europe.md",
       "children": [
         {
           "id": "evt-meteorite-star-metal-falls-on-yaroslavl",
-          "title": "Meteorite (Star Metal) falls on Yaroslavl",
+          "title": "1421 CE — Meteorite falls on Yaroslavl",
           "type": "event",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.00-meteorite-falls-on-yaroslavl.md",
           "children": [
             {
               "id": "evt-jeanne-darc-is-executed-in-rouen-france",
-              "title": "Jeanne d'Arc is executed in Rouen, France",
+              "title": "1431 CE — Jeanne d'Arc is executed in Rouen, France",
               "type": "event",
               "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.01-1431-ce-jeanne-darc-is-executed-in-rouen-france.md",
               "children": [],
@@ -975,7 +975,7 @@
             },
             {
               "id": "evt-fall-of-czar-grad-constantinople",
-              "title": "Fall of Czar-Grad (Constantinople)",
+              "title": "1453 CE — Fall of Czar-Grad (Constantinople)",
               "type": "event",
               "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.02-1453-ce-fall-of-czar-grad-constantinople.md",
               "children": [],
@@ -1003,13 +1003,13 @@
         },
         {
           "id": "evt-bible-is-translated-into-latin",
-          "title": "Gutenberg Bible translated into Latin",
+          "title": "1455 CE — Gutenberg Bible translated into Latin",
           "type": "event",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1455-ce-gutenberg-bible-translated-into-latin.md",
           "children": [
             {
               "id": "evt-latin-is-the-language-of-the-deep-state",
-              "title": "Theory: Latin is the Language of the Deep State",
+              "title": "Latin Language Deep State",
               "type": "article",
               "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.01-language-of-the-deep-state.md",
               "children": [],
@@ -1065,7 +1065,7 @@
         },
         {
           "id": "evt-the-apocalypse-crusade-reverse-exodus",
-          "title": "The Apocalypse Crusade",
+          "title": "1492 CE — The Apocalypse Crusade",
           "type": "event",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.05.00-1492-ce-the-apocalypse-crusade.md",
           "children": [],
@@ -1106,13 +1106,13 @@
     },
     {
       "id": "evt-16th-century-ce-reformation-and-inquisition",
-      "title": "16th Century C.E. Reformation and Inquisition.",
+      "title": "1500 CE — 16th Century C.E. Reformation and Inquisition.",
       "type": "event",
       "md_path": "content/10.ce-16th-reformation-and-inquisition/10.00.00-1500-ce-16th-century-ce-reformation-and-inquisition.md",
       "children": [
         {
           "id": "evt-protestant-reformation-begins",
-          "title": "Protestant Reformation Begins",
+          "title": "1517 CE — Protestant Reformation Begins",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.01.00-1517-ce-protestant-reformation-begins.md",
           "children": [],
@@ -1129,7 +1129,7 @@
         },
         {
           "id": "evt-jesuits-make-pilgrimage-to-palestine",
-          "title": "Jesuits make \"Pilgrimage\" to Palestine",
+          "title": "1523 CE — Jesuits make \"Pilgrimage\" to Jerusalem",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.02.00-jesuits-make-pilgrimage-to.md",
           "children": [],
@@ -1146,7 +1146,7 @@
         },
         {
           "id": "evt-the-holy-inquisition",
-          "title": "The Holy Inquisition",
+          "title": "1542 CE — The Holy Inquisition",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.03.00-1542-ce-the-holy-inquisition.md",
           "children": [
@@ -1188,7 +1188,7 @@
         },
         {
           "id": "evt-jesuits-reach-africa",
-          "title": "Jesuits reach Africa",
+          "title": "1548 CE — Jesuits reach Africa",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.04.00-1548-ce-jesuits-reach-africa.md",
           "children": [],
@@ -1205,7 +1205,7 @@
         },
         {
           "id": "evt-khazar-rebellion-in-the-russia-horde-empire",
-          "title": "Khazar Rebellion in the Russia-Horde Empire",
+          "title": "1552 CE — Khazar Rebellion in the Horde Empire",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.05.00-khazar-rebellion-in-the.md",
           "children": [
@@ -1262,7 +1262,7 @@
         },
         {
           "id": "evt-gregorian-calendar-makes-slight-adjustment-to-leng",
-          "title": "Gregorian Calendar makes slight adjustment to length of a year",
+          "title": "1582 CE — Gregorian Calendar Correction",
           "type": "event",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.07.00-gregorian-calendar-makes-slight.md",
           "children": [],
@@ -1297,11 +1297,11 @@
           "id": "evt-romanov-seizure-and-fracturing-of-the-empire",
           "title": "The Romanov Seizure and Fracturing of the Empire (1611-1627)",
           "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.00-1611-ce-the-romanov-seizure-and-fracturing-of-the-empire.md",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.00-romanov-seizure-fracturing-of.md",
           "children": [
             {
               "id": "evt-king-james-version-of-the-bible-is-published",
-              "title": "King James version of the Bible is published",
+              "title": "Romanov Seizure & Fracturing of the Hordian Empire",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.00-romanov-seizure-fracturing-of.md",
               "children": [],
@@ -1315,7 +1315,7 @@
             },
             {
               "id": "evt-romanovs-zakharyin-yurievs-dynasty-takes-the-thron",
-              "title": "Romanovs-Zakharyin-Yurievs Dynasty takes the throne",
+              "title": "1613 CE — Romanovs-Zakharyin-Yurievs Dynasty takes the throne",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.02-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne.md",
               "children": [],
@@ -1329,7 +1329,7 @@
             },
             {
               "id": "evt-deep-state-breaks-up-the-hordian-empire",
-              "title": "Deep State breaks up the Hordian Empire",
+              "title": "Romanov Seizure & Fracturing of the Hordian Empire",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.00-romanov-seizure-fracturing-of.md",
               "children": [],
@@ -1339,7 +1339,7 @@
             },
             {
               "id": "evt-deep-state-erases-russian-empire-from-all-chronolo",
-              "title": "Deep State erases Russian Empire from all chronology",
+              "title": "1627 CE — Deep State erases Russian Empire from all chronology",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.03-1627-ce-deep-state-erases-russian-empire-from-all-chronology.md",
               "children": [],
@@ -1353,7 +1353,7 @@
             },
             {
               "id": "evt-shakespeare-encodes-the-horde",
-              "title": "Shakespeare Encodes the Horde",
+              "title": "1564–1616 CE — Shakespeare Encodes the Horde",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.04-shakespeare-encodes-the-horde.md",
               "children": [],
@@ -1381,7 +1381,7 @@
         },
         {
           "id": "evt-resistance-and-religious-wars",
-          "title": "Resistance and Religious Wars (1618-1660)",
+          "title": "1618–1660 CE — Resistance & Religious Wars",
           "type": "event",
           "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.00-resistance-religious-wars.md",
           "children": [
@@ -1394,7 +1394,7 @@
             },
             {
               "id": "evt-great-fight-in-the-heart-of-western-europe",
-              "title": "Great fight in the heart of Western Europe",
+              "title": "1618 CE — Great fight in the heart of Western Europe",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.02-1618-ce-great-fight-in-the-heart-of-western-europe.md",
               "children": [],
@@ -1408,7 +1408,7 @@
             },
             {
               "id": "evt-ce-the-english-revolution-and-civil-wars",
-              "title": "The English Revolution and Civil Wars",
+              "title": "1642 CE — The English Revolution and Civil Wars",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.03-1642-ce-the-english-revolution-and-civil-wars.md",
               "children": [],
@@ -1425,7 +1425,7 @@
             },
             {
               "id": "evt-cossackpolish-war-begins-ethnic-cleansing-of-russi",
-              "title": "Cossack–Polish War begins ethnic cleansing of Russians in Ukraine",
+              "title": "1648 CE — Cossack–Polish War begins ethnic cleansing of Russians in Ukraine",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.04-1648-ce-cossack-polish-war-begins-ethnic-cleansing-of-russia.md",
               "children": [],
@@ -1439,7 +1439,7 @@
             },
             {
               "id": "evt-russia-and-turkey-begin-300-years-of-war",
-              "title": "Russia and Turkey begin 300 years of war",
+              "title": "1600 CE — Russia and Turkey begin 300 years of war",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.05-1600-ce-russia-and-turkey-begin-300-years-of-war.md",
               "children": [],
@@ -1463,13 +1463,13 @@
         },
         {
           "id": "evt-marfull-framework-mediterranean-realignment",
-          "title": "The Marfull Framework: Mediterranean Realignment",
+          "title": "1633 CE — Disputes against Jews reemerge",
           "type": "article",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.00-the-marfull-framework-mediterranean-realignment.md",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.00-1633-ce-disputes-against-jews-reemerge.md",
           "children": [
             {
               "id": "evt-disputes-against-jews-reemerge",
-              "title": "Disputes against Jews reemerge",
+              "title": "1633 CE — Disputes against Jews reemerge",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.00-1633-ce-disputes-against-jews-reemerge.md",
               "children": [],
@@ -1567,7 +1567,7 @@
             },
             {
               "id": "evt-the-almogavars-conquer-athens-and-neopatria",
-              "title": "The almogavars conquer Athens and Neopatria",
+              "title": "1681–1689 CE — Marfull Framework",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.03.02-marfull-framework.md",
               "children": [],
@@ -1583,13 +1583,13 @@
         },
         {
           "id": "evt-london-1664-1694-the-financial-coup",
-          "title": "London 1664-1694: The Financial Coup",
+          "title": "1660–1666 CE — The Apocalypse Prophecy of 1666",
           "type": "event",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.00-1664-ce-london-1664-1694-the-financial-coup.md",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.00-1666-ce-the-apocalypse-prophecy-of-1666.md",
           "children": [
             {
               "id": "evt-the-apocalypse-prophecy-of-1666",
-              "title": "The Apocalypse Prophecy of 1666",
+              "title": "1660–1666 CE — The Apocalypse Prophecy of 1666",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.00-1666-ce-the-apocalypse-prophecy-of-1666.md",
               "children": [],
@@ -1635,7 +1635,7 @@
             },
             {
               "id": "evt-sept-6-1666-ce-london-burns-to-the-ground",
-              "title": "London Burns to the Ground (Sept 2-6, 1666)",
+              "title": "1666 CE — London Burns to the Ground (Sept 2-6, 1666)",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.03-1666-ce-london-burns-to-the-ground-sept-2-6-1666.md",
               "children": [],
@@ -1649,7 +1649,7 @@
             },
             {
               "id": "evt-goldsmiths-and-the-death-of-independent-valuation",
-              "title": "The Goldsmiths and the Death of Independent Valuation",
+              "title": "1660–1694 CE — The Goldsmiths and the Death of Independent Valuation",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.04-the-goldsmiths-and-the-death-of-independent-valuation.md",
               "children": [],
@@ -1678,7 +1678,7 @@
             },
             {
               "id": "evt-the-cabal-englands-shadow-cabinet",
-              "title": "The Cabal: England's Shadow Cabinet (1668-1674)",
+              "title": "1668–1674 CE — The Cabal: England's Shadow Cabinet",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.05-1668-ce-the-cabal-englands-shadow-cabinet.md",
               "children": [],
@@ -1709,7 +1709,7 @@
             },
             {
               "id": "evt-deep-state-solidifies-central-banking",
-              "title": "Deep State solidifies central banking",
+              "title": "1664–1694 CE — London Financial Coup",
               "type": "event",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-london-1664-1694-financial-coup.md",
               "children": [],
@@ -1747,9 +1747,9 @@
         },
         {
           "id": "evt-british-empire-as-deep-state-instrument",
-          "title": "The British Empire as Deep State Instrument (1583-1997)",
+          "title": "Jesuits Missions convert Asians to Buddhism",
           "type": "article",
-          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.05.00-1583-ce-the-british-empire-as-deep-state-instrument.md",
+          "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.05.00-jesuits-missions-convert-asians-to-buddhism.md",
           "children": [],
           "dates": [
             {
@@ -1762,7 +1762,7 @@
         },
         {
           "id": "evt-slave-trades-horde-fracture",
-          "title": "Slave Trades and the Horde Fracture (1526–1830s)",
+          "title": "1526–1830 CE — Slave Trades and the Horde Fracture",
           "type": "article",
           "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.07.00-slave-trades-and-the-horde-fracture.md",
           "children": [],
@@ -1815,7 +1815,7 @@
         },
         {
           "id": "evt-the-rebellion-of-pugachev",
-          "title": "The Rebellion of Pugachev",
+          "title": "1773 CE — The Rebellion of Pugachev",
           "type": "event",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.01.00-1773-ce-the-rebellion-of-pugachev.md",
           "children": [],
@@ -1829,7 +1829,7 @@
         },
         {
           "id": "evt-mysterious-carbon-14-spike",
-          "title": "mysterious carbon-14 spike",
+          "title": "1774 CE — mysterious carbon-14 spike",
           "type": "event",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.02.00-1774-ce-mysterious-carbon-14-spike.md",
           "children": [],
@@ -1860,7 +1860,7 @@
         },
         {
           "id": "evt-instant-fossilization-and-electric-petrification",
-          "title": "Instant Fossilization and Electric Petrification",
+          "title": "1774 CE — The MudFlood & World Cataclysm",
           "type": "article",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.04.00-the-mudflood-world-cataclysm.md",
           "children": [],
@@ -1877,13 +1877,13 @@
         },
         {
           "id": "evt-mars-catastrophe",
-          "title": "The Mars Catastrophe",
+          "title": "1774 CE — The Mars Catastrophe",
           "type": "article",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.05.00-1774-ce-the-mars-catastrophe.md",
           "children": [
             {
               "id": "evt-mars-catastrophe-brandenburg",
-              "title": "The Mars Catastrophe: Research Dead End",
+              "title": "1774 CE — The Mars Catastrophe: Research Dead End",
               "type": "article",
               "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.05.01-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md",
               "children": [],
@@ -1959,19 +1959,19 @@
     },
     {
       "id": "evt-19th-century-rise-of-communism",
-      "title": "19th Century: The Rise of Communism",
+      "title": "1800 CE — 19th Century: The Rise of Communism",
       "type": "event",
       "md_path": "content/13.ce-19th-rise-of-communism/13.00.00-1800-ce-19th-century-the-rise-of-communism.md",
       "children": [
         {
           "id": "evt-napoleonic-wars",
-          "title": "Napoleonic Wars — Reverse Crusade I",
+          "title": "1803–1815 CE — Napoleonic Wars — Reverse Crusades",
           "type": "event",
           "md_path": "content/13.ce-19th-rise-of-communism/13.01.00-napoleonic-wars-reverse.md",
           "children": [
             {
               "id": "evt-napoleon-invades-russia",
-              "title": "Napoleon invades Russia — Reverse Crusade I",
+              "title": "1812 CE — Napoleon invades Russia — Reverse Crusade I",
               "type": "event",
               "md_path": "content/13.ce-19th-rise-of-communism/13.01.01-1812-ce-napoleon-invades-russia-reverse-crusade-i.md",
               "children": [],
@@ -1985,7 +1985,7 @@
             },
             {
               "id": "evt-aftermath-of-1812-russian-pursuit-to-paris",
-              "title": "Aftermath of 1812: Russian Pursuit to Paris",
+              "title": "1814 CE — Aftermath of 1812: Russian Pursuit to Paris",
               "type": "event",
               "md_path": "content/13.ce-19th-rise-of-communism/13.01.02-1814-ce-aftermath-of-1812-russian-pursuit-to-paris.md",
               "children": [],
@@ -1999,7 +1999,7 @@
             },
             {
               "id": "evt-ecliptic-pathway-of-the-absu-last-seen",
-              "title": "Ecliptic pathway of the Absu last seen.",
+              "title": "1840 CE — Ecliptic pathway of the Absu last seen.",
               "type": "event",
               "md_path": "content/13.ce-19th-rise-of-communism/13.01.03-1840-ce-ecliptic-pathway-of-the-absu-last-seen.md",
               "children": [],
@@ -2016,7 +2016,7 @@
             },
             {
               "id": "evt-tchaikovsky-releases-1812-overture",
-              "title": "Tchaikovsky releases 1812 Overture",
+              "title": "1880 CE — Tchaikovsky releases 1812 Overture",
               "type": "event",
               "md_path": "content/13.ce-19th-rise-of-communism/13.01.04-1880-ce-tchaikovsky-releases-1812-overture.md",
               "children": [],
@@ -2039,7 +2039,7 @@
         },
         {
           "id": "evt-the-battle-for-communisms-soul",
-          "title": "The Battle for Communism's Soul: Marx vs. Kinkel and the Road Not Taken",
+          "title": "1848–1883 CE — Battle for Communism's Soul",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.02.00-battle-for-communism-s-soul.md",
           "media": [
@@ -2048,7 +2048,7 @@
           "children": [
             {
               "id": "evt-hijacking-of-communism",
-              "title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
+              "title": "1883–1945 CE — The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
               "type": "article",
               "md_path": "content/13.ce-19th-rise-of-communism/13.02.01-1883-ce-the-hijacking-of-communism.md",
               "children": [],
@@ -2074,13 +2074,13 @@
         },
         {
           "id": "evt-assault-on-hordian-memory",
-          "title": "The 19th Century Assault on Hordian Memory",
+          "title": "1860–1917 CE — 19th Century Assault on Hordian Communalism",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-19th-century-assault-on-hordian.md",
           "children": [
             {
               "id": "evt-orphan-trains-trail-of-tears-siberian-exile",
-              "title": "Orphan Trains, the Trail of Tears, and the Exile to Siberia",
+              "title": "1790–1929 CE — Orphan Trains, the Trail of Tears, and the Exile to Siberia",
               "type": "article",
               "md_path": "content/13.ce-19th-rise-of-communism/13.03.01-1830-ce-orphan-trains-trail-of-tears-and-siberian-exile.md",
               "children": [],
@@ -2112,7 +2112,7 @@
         },
         {
           "id": "evt-jesuit-restoration-missionary-military-pattern",
-          "title": "The Jesuit Restoration and the Missionary-Military Pattern",
+          "title": "1814–1900 CE — Jesuit Restoration: Mission Pattern",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-jesuit-restoration-mission-pattern.md",
           "children": [],
@@ -2132,7 +2132,7 @@
         },
         {
           "id": "evt-19th-century-weapons-declassification-thesis",
-          "title": "19th Century Weapons and the Declassification Thesis",
+          "title": "1865 CE — 19th Century Weapons & Declassification",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-19th-century-weapons.md",
           "children": [],
@@ -2153,7 +2153,7 @@
         },
         {
           "id": "evt-maxwell-and-the-suppression-of-the-aether",
-          "title": "The Suppression of Maxwell and the Aether",
+          "title": "1865–1930 CE — Suppression of Maxwell & Aether",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.06.00-suppression-of-maxwell-aether.md",
           "children": [],
@@ -2186,19 +2186,19 @@
     },
     {
       "id": "evt-1917-revolution",
-      "title": "20th Century: The Reverse Crusades Continue",
+      "title": "1900 CE — 20th Century: The Reverse Crusades Continue",
       "type": "event",
       "md_path": "content/14.ce-20th-the-1917-revolution/14.00.00-1900-ce-20th-century-the-reverse-crusades-continue.md",
       "children": [
         {
           "id": "evt-bolshevik-revolution",
-          "title": "The Bolshevik Revolution: Fulfilment of the Script",
+          "title": "1917 CE — Bolshevik Revolution: Fulfilment of the Marxist Plan",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.01.00-bolshevik-revolution-fulfilment-of.md",
           "children": [
             {
               "id": "evt-aftermath-flight-exile-erasure",
-              "title": "The Aftermath: Flight, Exile, and Erasure",
+              "title": "1917–1945 CE — The Aftermath: Flight, Exile, and Erasure",
               "type": "article",
               "md_path": "content/14.ce-20th-the-1917-revolution/14.01.01-1919-ce-the-aftermath-flight-exile-and-erasure.md",
               "children": [],
@@ -2221,7 +2221,7 @@
         },
         {
           "id": "evt-russian-intellectual-emigration",
-          "title": "The Russian Intellectual Emigration",
+          "title": "1922–1930 CE — Russian Intellectual Emigration",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.02.00-russian-intellectual-emigration.md",
           "children": [],
@@ -2235,7 +2235,7 @@
         },
         {
           "id": "evt-soviet-historiography",
-          "title": "Soviet Historiography: The Final Falsification Layer",
+          "title": "1918–1991 CE — Soviet Historiography: Final Layer",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.03.00-soviet-historiography-final-layer.md",
           "children": [],
@@ -2249,7 +2249,7 @@
         },
         {
           "id": "evt-from-missionaries-to-corporations",
-          "title": "From Missionaries to Corporations: The 20th Century Succession",
+          "title": "1900–1991 CE — From Missionaries to Corporations",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.04.00-from-missionaries-to-corporations.md",
           "children": [],
@@ -2268,7 +2268,7 @@
         },
         {
           "id": "evt-american-chestnut-blight",
-          "title": "The American Chestnut Blight: Martian Fungus on Earth",
+          "title": "1904–1950 CE — American Chestnut Blight: Martian Origin Theory",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.05.00-american-chestnut-blight-martian.md",
           "children": [],
@@ -2290,7 +2290,7 @@
         },
         {
           "id": "evt-operation-mockingbird",
-          "title": "Operation Mockingbird: State-Sponsored Erasure Goes Public",
+          "title": "1948–1975 CE — Mockingbird: Public Erasure",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.06.00-mockingbird-public-erasure.md",
           "children": [],
@@ -2315,7 +2315,7 @@
         },
         {
           "id": "evt-nuclear-energy-and-the-bomb",
-          "title": "Nuclear Energy and the \"Bomb\": The Most Expensive Way to Boil Water",
+          "title": "1938–1977 CE — Nuclear Energy & \"Bomb\": Most Dangerous Deception",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.07.00-nuclear-energy-bomb-most.md",
           "children": [],
@@ -2335,7 +2335,7 @@
         },
         {
           "id": "evt-weather-control",
-          "title": "Weather Control: From Martian Beams to HAARP",
+          "title": "1946–2000 CE — Weather Control: From Martian Weapons to Modern Programs",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.08.00-weather-control-from-martian.md",
           "children": [],
@@ -2357,7 +2357,7 @@
         },
         {
           "id": "evt-flexner-bioelectric-suppression",
-          "title": "The Flexner Report and the Suppression of Bioelectric Medicine",
+          "title": "1910–1935 CE — Flexner Report & Suppression of Bioelectric Medicine",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.09.00-flexner-report-suppression-of.md",
           "children": [],
@@ -2387,13 +2387,13 @@
     },
     {
       "id": "evt-the-final-struggle",
-      "title": "21st Century: The Final Struggle — Reverse Crusade IV",
+      "title": "2000 CE — 21st Century: The Final Struggle — Reverse Crusade IV",
       "type": "event",
       "md_path": "content/15.ce-21st-the-final-struggle/15.00.00-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv.md",
       "children": [
         {
           "id": "evt-20th-century-predictive-programming-literature",
-          "title": "20th Century Predictive Programming: Literature as Historical Erasure",
+          "title": "1890–1985 CE — 20th C. Predictive Programming",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.01.00-20th-c-predictive-programming.md",
           "children": [],
@@ -2415,7 +2415,7 @@
         },
         {
           "id": "evt-asimov-marx-in-space",
-          "title": "Asimov: Marx in Space!",
+          "title": "1942–1992 CE — Asimov: Marx in Space!",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.02.00-1942-ce-asimov-marx-in-space.md",
           "children": [],
@@ -2436,7 +2436,7 @@
         },
         {
           "id": "evt-censorship-and-book-burning",
-          "title": "Censorship and Book Burning: From Alexandria to the Internet",
+          "title": "300 BCE — Censorship and Book Burning: From Alexandria to the Internet",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.03.00-censorship-book-burning-from.md",
           "children": [],
@@ -2457,7 +2457,7 @@
         },
         {
           "id": "evt-historical-antibodies",
-          "title": "Historical Antibodies: Independent Agents Against Erasure",
+          "title": "1898–2023 CE — Historical Antibodies: Independent Agents Against Erasure",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.04.00-historical-antibodies.md",
           "children": [],
@@ -2478,7 +2478,7 @@
         },
         {
           "id": "evt-false-flags",
-          "title": "False Flags: The Architecture of Manufactured War",
+          "title": "1898–2026 CE — False Flags: Architecture of Manufactured War",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.05.00-false-flags-architecture-of.md",
           "children": [],
@@ -2501,7 +2501,7 @@
         },
         {
           "id": "evt-cern-lhc-portal",
-          "title": "2009 CE: CERN's LHC and the Portal — Aether Manipulation in the Open",
+          "title": "2009 CE — CERN's LHC & Portal Technology",
           "type": "event",
           "md_path": "content/15.ce-21st-the-final-struggle/15.06.00-2009-ce-cern-s-lhc-portal.md",
           "children": [],
@@ -2523,7 +2523,7 @@
         },
         {
           "id": "evt-population-control",
-          "title": "Population Control: From 1492 to the Technocratic Grid",
+          "title": "1492–2026 CE — Population Control: From 1492 to the Present",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.07.00-population-control-from-1492-to.md",
           "children": [],
@@ -2544,13 +2544,13 @@
         },
         {
           "id": "evt-controlled-opposition",
-          "title": "Controlled Opposition: Managed Disclosure and Gatekeeping",
+          "title": "1900–2026 CE — Controlled Opposition: Managed Disclosure and Gatekeeping",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.08.00-controlled-opposition-gatekeeping.md",
           "children": [
             {
               "id": "evt-mars-literature-reclassified",
-              "title": "Mars Literature as Reclassified Nonfiction",
+              "title": "1880–1996 CE — Mars Literature as Reclassified Nonfiction",
               "type": "article",
               "md_path": "content/15.ce-21st-the-final-struggle/15.08.01-1880-ce-mars-literature-as-reclassified-nonfiction.md",
               "children": [],

@@ -187,7 +187,14 @@ export async function createPlanetController(canvas) {
     function animate() {
         animId = requestAnimationFrame(animate);
         const t = performance.now() * 0.001;
-        if (p.sun) p.sun.rotation.y += 0.001;
+
+        // Enforce Sun visibility every frame (hidden before -4077)
+        if (currentYear < -4077) {
+            p.sun.visible = false;
+            L.sun.visible = false;
+        }
+
+        if (p.sun?.visible) p.sun.rotation.y += 0.001;
         if (p.saturn?.visible) p.saturn.rotation.y += 0.002;
         if (p.venus?.visible) p.venus.rotation.y += 0.005;
         if (p.mars?.visible) p.mars.rotation.y += 0.004;
@@ -776,8 +783,14 @@ export async function createPlanetController(canvas) {
  * Returns { update(year, label, desc, event), remove() }.
  */
 function buildHUD(canvas) {
-    const parent = canvas.parentElement;
-    if (parent) parent.style.position = 'relative';
+    // Ensure we have a positioned container around the canvas
+    let parent = canvas.parentElement;
+    if (parent) {
+        const pos = getComputedStyle(parent).position;
+        if (pos === 'static' || !pos) parent.style.position = 'relative';
+    }
+    // If parent isn't available, fall back to document.body
+    const container = parent || document.body;
 
     const el = document.createElement('div');
     el.className = 'planet-hud';
@@ -786,7 +799,7 @@ function buildHUD(canvas) {
         top: '0', left: '0', right: '0',
         zIndex: '900',
         padding: '10px 14px',
-        background: 'linear-gradient(180deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.45) 70%, transparent 100%)',
+        background: 'linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 60%, transparent 100%)',
         pointerEvents: 'none',
         fontFamily: "'Segoe UI', system-ui, -apple-system, sans-serif",
         color: '#e0e0e0',
@@ -822,7 +835,7 @@ function buildHUD(canvas) {
     el.appendChild(labelEl);
     el.appendChild(descEl);
     el.appendChild(eventEl);
-    if (parent) parent.appendChild(el);
+    container.appendChild(el);
 
     let lastText = '';
     return {
