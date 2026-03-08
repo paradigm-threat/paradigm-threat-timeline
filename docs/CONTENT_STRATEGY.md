@@ -160,10 +160,11 @@ This ensures the reader encounters the full treatment at the point of maximum re
 
 ### Placement Rules
 
-1. **Main timeline:** One canonical article per major topic. 300–800 words for standard articles; 800–1500 for canonical topic articles.
+1. **Main timeline:** One canonical article per major topic. 300–800 words for standard articles; 800–1500 for canonical topic articles. **The main article must contain all key dates, facts, arguments, and the core thesis.** A reader who never opens the appendix should still get the full picture.
 2. **Earlier mentions:** One sentence + link: *"For the full encoding analysis, see [Title](/timeline/evt-slug)."*
-3. **Appendix:** Extended evidence, chronological dossiers, profile bios, investigation summaries. ≤ 3000 words per appendix article.
+3. **Appendix:** Extended evidence **only** — primary-source quotations, detailed source-by-source analysis, exhaustive bibliographies, chronological sub-dossiers. The appendix is for material that supports but does not change the main article's argument. **Never defer core arguments, key dates, event catalogues, or thesis statements to the appendix.** If a reader must consult the appendix to understand the topic, the main article has failed.
 4. **Investigations:** Excluded from print. Content articles link via Browser URL.
+5. **Anti-overflow test:** Before creating or editing an appendix article, ask: "Does the main article stand alone without this?" If not, move the missing material into the main article first.
 
 ### Topic Placement Map
 

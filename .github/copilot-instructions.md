@@ -214,3 +214,11 @@ When writing or editing content:
 - Avoid long block quotes — summarize and cite.
 - Merge child articles under ~250 words into their parent.
 - See `docs/PRINT_GOALS.md` §13 and `docs/CONTENT_REDUCTION_TRACKER.md`.
+
+## Main Article vs. Appendix Overflow
+
+**The main article must stand alone.** All key dates, facts, event catalogues, thesis arguments, and tables must appear in the main article — never deferred to the appendix. A reader who never opens the appendix should still understand the full topic.
+
+Appendix articles are for **extended evidence only**: primary-source quotations, detailed source-by-source analysis, exhaustive bibliographies, and chronological sub-dossiers. If the main article is just a stub pointing at the appendix, it has failed.
+
+**Anti-overflow test:** Before creating or editing an appendix article, ask: "Does the main article stand alone without this?" If not, move the missing material into the main article first.
