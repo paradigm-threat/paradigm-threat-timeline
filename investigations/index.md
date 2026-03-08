@@ -78,6 +78,12 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 ### Religious Revival (1979)
 - [1979 Religious Revival investigation](religious-revival/1979-religious-revival-investigation.md) — CIA facilitation of Khomeini's return; Grand Mosque siege and Saudi Wahhabism; Moral Majority founding; Pope John Paul II in Poland; technology to simulate religious experience (God helmet, infrasound); invisible ray claims in churches (ongoing)
 
+### False Flags
+- [False Flags index](false-flags/index.md) — Architecture of manufactured war; false flags by both sides; war as deception
+- [9/11 Investigation](false-flags/09-11-investigation.md) — Good-actor historic antibody thesis; controlled demolition; no-planes/CGI; WTC 7 and CIA station destruction; Gulf of Tonkin; Twin Towers construction; deep state WW3 plan vs. War on Terror; predictive programming; "don't worry, we're doing something"
+- [20th–21st Century Catalog](false-flags/20th-21st-century-catalog.md) — Gleiwitz, Mainila, Lusitania, Bologna/Gladio, Syria, Ukraine allegations; confirmed/suspected/alleged
+- [Iran 2026 Propaganda Thesis](false-flags/iran-2026-propaganda-thesis.md) — Iran hitting own schools; fake training missions during war; propaganda thesis
+
 ### CERN & Portal Technology
 - [CERN and portal technology](cern-portal/index.md) — LHC as portal (project stance: no other explanation fits); Bertolucci quote and primary-source evidence; aether/manipulation thesis. Investigative section only; no timeline changes yet.
 
