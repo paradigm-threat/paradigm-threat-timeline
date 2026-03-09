@@ -145,7 +145,7 @@ Not all authors had equal access to truth. The following framework proposes five
 **Edgar Rice Burroughs** (1875–1950)
 - No known intelligence connections but an extraordinary level of specific detail: humans on Mars, multiple races, polar forbidden zones, religious conspiracy, hollow planet interiors
 - Burroughs was a failed businessman who suddenly started writing Mars fiction in 1911 — where did the specifics come from?
-- May have drawn on **Percival Lowell's** Mars observations (canals, civilisation) and 19th-century Theosophical/occult literature about Mars
+- May have drawn on **Percival Lowell's** Mars observations (canals, civilization) and 19th-century Theosophical/occult literature about Mars
 - His Barsoom series is the single most detailed fictional account of Mars political structures in existence
 
 **Leigh Brackett** (1915–1978)

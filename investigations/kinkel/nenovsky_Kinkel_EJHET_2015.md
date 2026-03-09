@@ -87,7 +87,7 @@ The periodisation operates on two levels:
 
 **Level 1 — Three Economic Eras (Cultural Cycles):**
 
-| Era | Civilisation | Approximate Period |
+| Era | civilization | Approximate Period |
 |-----|-------------|-------------------|
 | I | Babylonian, Egyptian, Peruvian, ancient Chinese | 5000 to 700–550 BC (Egyptian-Babylonian); to 16th century (Peruvian); 4000 BC to 9th century (Chinese) |
 | II | Greek–Roman | 1800 BC to 5th century AD |
@@ -126,7 +126,7 @@ When a given economic form comes into conflict with the development of productiv
 
 ### Capitalism Across Eras
 
-Kinkel's view that capitalist relations existed in the ancient world was drawn from Eduard Meyer, Theodor Mommsen, Max Weber, Joseph Kulisher and others. This contradicts Marx's interpretation where capitalism is an independent phase starting in the 18th century. Kinkel's approach theoretically "undervalues" capitalism by placing it on a lower analytical level — not as a civilisation era, but as an economic form that comes and goes in the alternation of the four forms.
+Kinkel's view that capitalist relations existed in the ancient world was drawn from Eduard Meyer, Theodor Mommsen, Max Weber, Joseph Kulisher and others. This contradicts Marx's interpretation where capitalism is an independent phase starting in the 18th century. Kinkel's approach theoretically "undervalues" capitalism by placing it on a lower analytical level — not as a civilization era, but as an economic form that comes and goes in the alternation of the four forms.
 
 Kinkel defines **capitalism** (form 3) as: the existence of large income in kind or in money; a large-scale (*en grand*) economy with a wide market; amalgamation of a large number of human work force, cooperation, and above all exploitation of free and unfree human labour. Capitalism existed in all three cultural periods but took different, progressively more complex forms:
 
@@ -172,7 +172,7 @@ Kinkel systematically analysed the strengths and limitations of models by Friedr
 - **Bücher and German historical school:** Criticised for "purely technical or organisational criteria" for periodisation
 - **Sombart:** Admired for similarities with Kinkel's ideas but rejected for "theoretical mess"; later criticised for his "Mediaeval-oriented pseudo-national socialist economy"
 
-The only major scholar of economic development absent from Kinkel's list is **Schumpeter** (1911 book). Kinkel mentioned Schumpeter only once, apparently considering him more preoccupied with Modern Capitalism while Kinkel's theory had far-reaching objectives encompassing the economic development of the whole human civilisation.
+The only major scholar of economic development absent from Kinkel's list is **Schumpeter** (1911 book). Kinkel mentioned Schumpeter only once, apparently considering him more preoccupied with Modern Capitalism while Kinkel's theory had far-reaching objectives encompassing the economic development of the whole human civilization.
 
 ---
 

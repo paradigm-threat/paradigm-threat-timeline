@@ -39,7 +39,6 @@ SECTIONS_AS_EVENTS = frozenset({
 # Era name -> (start, end) for date inference when header has no explicit date
 ERA_RANGES = {
     "Earth History Timeline Reconstruction": (-4077, -3148),
-    "Saturnian Cosmology Timeline Video": (-4077, -3148),
     "Project Objective": (-4077, -3148),
     "Before Creation": (-5000, -4078),
     "The Golden Age": (-4077, -3148),

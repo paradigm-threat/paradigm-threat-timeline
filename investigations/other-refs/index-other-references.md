@@ -50,7 +50,7 @@ A mining engineer falls into an underground world inhabited by the **Vril-ya**, 
 
 > *"By one operation of vril... they can influence the variations of temperature... they can exercise influence over minds, and bodies animal and vegetable, to an extent not surpassed in the romances of our mystics."*
 
-> *"In the bowels of the inner earth... might be discovered the remains of human habitation—not in huts and caverns, but in vast cities whose ruins attest the civilisation of races which flourished before the age of Noah."*
+> *"In the bowels of the inner earth... might be discovered the remains of human habitation—not in huts and caverns, but in vast cities whose ruins attest the civilization of races which flourished before the age of Noah."*
 
 ### Structure
 - Chapters I-IV: Discovery of the underground world

@@ -451,10 +451,16 @@
       "12.05.01-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence.md": {
         "_title": "1774 CE \u2014 The Mars Catastrophe: Research Dead End"
       },
-      "12.06.00-trail-tears-century-long-erasure.md": {
+      "12.06.00-1775-ce-the-american-revolution.md": {
+        "_title": "1775 CE \u2014 The American Revolution"
+      },
+      "12.07.00-1789-ce-the-french-revolution.md": {
+        "_title": "1789 CE \u2014 The French Revolution"
+      },
+      "12.08.00-trail-tears-century-long-erasure.md": {
         "_title": "Trail of Tears: Century-Long Erasure"
       },
-      "_count": 8
+      "_count": 10
     },
     "13.ce-19th-rise-of-communism": {
       "13.00.00-1800-ce-19th-century-the-rise-of-communism.md": {
@@ -490,13 +496,16 @@
       "13.04.00-jesuit-restoration-mission-pattern.md": {
         "_title": "1814\u20131900 CE \u2014 Jesuit Restoration: Mission Pattern"
       },
-      "13.05.00-19th-century-weapons.md": {
+      "13.05.00-1861-ce-the-us-civil-war.md": {
+        "_title": "1861 CE \u2014 The US Civil War"
+      },
+      "13.06.00-19th-century-weapons.md": {
         "_title": "1865 CE \u2014 19th Century Weapons & Declassification"
       },
-      "13.06.00-suppression-of-maxwell-aether.md": {
+      "13.07.00-suppression-of-maxwell-aether.md": {
         "_title": "1865\u20131930 CE \u2014 Suppression of Maxwell & Aether"
       },
-      "_count": 13
+      "_count": 14
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-1900-ce-20th-century-the-reverse-crusades-continue.md": {
@@ -544,7 +553,10 @@
       "14.12.01-world-war-ii-aftermath.md": {
         "_title": "1945\u2013 CE \u2014 World War II Aftermath: Architectural Erasure, German Evacuation, and Unsolved Technology"
       },
-      "_count": 15
+      "14.13.00-1991-ce-the-soviet-collapse.md": {
+        "_title": "1991 CE \u2014 The Soviet Collapse"
+      },
+      "_count": 16
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv.md": {
@@ -763,7 +775,10 @@
       "16.23.00-other-challenges-to-chronology.md": {
         "_title": "Other Challenges to Chronology (Extended)"
       },
-      "_count": 61
+      "16.24.00-reverse-crusades-structural-comparison.md": {
+        "_title": "The Four Reverse Crusades: A Structural Comparison"
+      },
+      "_count": 62
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -771,7 +786,7 @@
       },
       "_count": 1
     },
-    "_count": 225
+    "_count": 230
   },
   "data": {
     "events.json": {},
@@ -1261,10 +1276,25 @@
       "_title": "Thunderbolts Forum Deletions \u2014 Evidence Archive"
     },
     "war": {
+      "american-revolution-investigation.md": {
+        "_title": "Investigation: American Revolution \u2014 A Tiny Piece in a Much Bigger Puzzle"
+      },
+      "british-civil-war-investigation.md": {
+        "_title": "Investigation: British Civil War \u2014 Societized Consolidation and the Template for Western Governance"
+      },
+      "french-revolution-investigation.md": {
+        "_title": "Investigation: French Revolution \u2014 Societized Consolidation and Political Reorganization"
+      },
       "reverse-crusades-comparison.md": {
         "_title": "The Four Reverse Crusades: A Structural Comparison"
       },
-      "_count": 1
+      "soviet-collapse-investigation.md": {
+        "_title": "Investigation: Soviet Collapse \u2014 Western Orchestration, Media, and Post-WWII Isolation"
+      },
+      "us-civil-war-investigation.md": {
+        "_title": "Investigation: US Civil War \u2014 British Funding, Slavery as Instrument, and the DU Weapon Thesis"
+      },
+      "_count": 6
     },
     "weather-modification": {
       "weather-modification-investigation.md": {
@@ -1272,7 +1302,7 @@
       },
       "_count": 1
     },
-    "_count": 111
+    "_count": 116
   },
   "media": {
     "00.overview": {
@@ -1690,13 +1720,16 @@
       "king_james_bible.jpg": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAgABUB8JZgCdADWFh3YAPcH6HLqWGH5IdzFhe3i9sgUAKS6XIXJZAAAAA=="
       },
+      "shakespeare-encodes-the-horde.png": {
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JagCdAEDUv1NJAAA+6RNExSrDNjKM4bvI1FKpE85Nexj1+jEWPVpqSGTgfDBDlKqtZ3rhaj6mygTfgAAAA=="
+      },
       "shakespeare.png": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JagCdAEDUv1NJAAA+6RNExSrDNjKM4bvI1FKpE85Nexj1+jEWPVpqSGTgfDBDlKqtZ3rhaj6mygTfgAAAA=="
       },
       "shakespeare2.png": {
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JagCdACRMqboAAD87nWxIqhGAsQ/F/czjb4RRfqtVmizNSB5c50/5uCrEQRYhiXLbSHLV8snfrAA"
       },
-      "_count": 6
+      "_count": 7
     },
     "12.ce-18th-mudflood-and-pugachev": {
       "instant-fossilization.png": {
@@ -1741,7 +1774,10 @@
       "maxwell-was-right.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JYwCdADpnmAAAAD+0eLMh43r11pzF0A0J2h1gUIxUqbck/V+fdrZQ5YBoAAA"
       },
-      "_count": 6
+      "maxwell-was-right2.png": {
+        "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAAsABUB8JaACdADQauf7cAD+iRdKGfd8Ssk0zQ10qN+kdPOHIKSzfC6PnGg8gvpqzMJaJo6u3RisFgBZmiMNGdk7xAAA"
+      },
+      "_count": 7
     },
     "14.ce-20th-the-1917-revolution": {
       "chestnut-blight.png": {
@@ -1771,7 +1807,10 @@
       "predictive-programming.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JbACdADIvAhcAAD+g5npqLzLSmmW8n5hcxBBGGKswgmdayzezWlqiwW6y+AA"
       },
-      "_count": 2
+      "trump.png": {
+        "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAAsABUB8JZgCdAEfcIAF7u0SAAD+0F7lGdxhBkGbWWKrY/kOlnVVeHbq+s8nbh7WFq3O6ifRTIAA"
+      },
+      "_count": 3
     },
     "16.appendix": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1821,7 +1860,7 @@
       },
       "_count": 15
     },
-    "_count": 167
+    "_count": 170
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1829,5 +1868,5 @@
     },
     "_count": 1
   },
-  "_count": 536
+  "_count": 549
 }
