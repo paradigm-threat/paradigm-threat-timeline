@@ -99,8 +99,9 @@ BOOK_TITLE     = "PARADIGM THREAT: THE THIRD STORY"
 # ---------------------------------------------------------------------------
 # Image settings
 # ---------------------------------------------------------------------------
-MAX_IMG_PX    = 1200
-JPEG_QUALITY  = 82
+MAX_IMG_PX    = 800
+JPEG_QUALITY  = 72            # greyscale, aggressive compression
+GREYSCALE     = True          # convert images to greyscale for print
 MAX_IMG_IN    = 4.0    # max image width in inches (fits 6x9 with margins)
 
 # ---------------------------------------------------------------------------
@@ -229,8 +230,9 @@ def _add_toc(doc: Document, md_files: list):
 # DOCX Renderer
 # ---------------------------------------------------------------------------
 class DOCXRenderer:
-    def __init__(self):
+    def __init__(self, include_images: bool = False):
         self._img_cache: dict = {}
+        self._include_images = include_images
         self._reset_doc()
 
     def _reset_doc(self):
@@ -298,6 +300,8 @@ class DOCXRenderer:
             s.font.color.rgb = clr
             s.paragraph_format.space_before = Pt(14 if sz >= 16 else 10)
             s.paragraph_format.space_after  = Pt(4)
+            s.paragraph_format.keep_with_next = True
+            s.paragraph_format.keep_together  = True
 
         # Quote style
         if "Quote" not in [s.name for s in doc.styles]:
@@ -313,7 +317,7 @@ class DOCXRenderer:
         qs.paragraph_format.space_before = Pt(4)
         qs.paragraph_format.space_after  = Pt(4)
 
-        # List styles — smaller font, tighter spacing
+        # List styles — smaller font, tighter spacing, reduced indent
         for ls_name in ("List Bullet", "List Number"):
             try:
                 ls = doc.styles[ls_name]
@@ -323,6 +327,7 @@ class DOCXRenderer:
             ls.font.size = self.SECONDARY_SIZE
             ls.paragraph_format.space_before = Pt(1)
             ls.paragraph_format.space_after  = Pt(1)
+            ls.paragraph_format.left_indent  = Cm(0.5)
 
         # Caption style
         if "Caption" not in [s.name for s in doc.styles]:
@@ -532,6 +537,10 @@ class DOCXRenderer:
             elif img.mode != "RGB":
                 img = img.convert("RGB")
 
+            # Greyscale conversion for print (originals untouched)
+            if GREYSCALE:
+                img = img.convert("L").convert("RGB")
+
             buf = io.BytesIO()
             img.save(buf, "JPEG", quality=JPEG_QUALITY, optimize=True)
             buf.seek(0)
@@ -548,6 +557,8 @@ class DOCXRenderer:
             return None
 
     def _embed_image(self, src: str, caption: str = ""):
+        if not self._include_images:
+            return
         result = self._prepare_image(src)
         if not result:
             return
@@ -670,6 +681,8 @@ class DOCXRenderer:
         text  = _plain(inline_tok)
         style = f"Heading {min(level, 4)}"
         para  = self.doc.add_paragraph(style=style)
+        para.paragraph_format.keep_with_next = True
+        para.paragraph_format.keep_together  = True
         para.add_run(text)
 
     def _render_paragraph(self, inline_tok):
@@ -721,7 +734,7 @@ class DOCXRenderer:
                     para.paragraph_format.space_before = Pt(1)
                     para.paragraph_format.space_after  = Pt(1)
                     if depth > 0:
-                        para.paragraph_format.left_indent = Cm(depth * 1.0)
+                        para.paragraph_format.left_indent = Cm(0.5 + depth * 0.5)
                     self._apply_inline(para, tok.children,
                                        font_size_override=self.SECONDARY_SIZE)
                 elif tok.type == "bullet_list_open":
@@ -1021,9 +1034,22 @@ class DOCXRenderer:
             # New section with updated running header
             self._new_section_with_headers(h1_title)
 
-            # Part title heading
+            # Eyebrow label: "PART X" above the title
+            label = self.doc.add_paragraph()
+            label.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            label.paragraph_format.keep_with_next = True
+            label.paragraph_format.space_before = Pt(24)
+            label.paragraph_format.space_after  = Pt(4)
+            lr = label.add_run(f"PART {roman}")
+            lr.bold = True
+            lr.font.size = Pt(11)
+            lr.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+            lr.font.name = "Libre Franklin"
+
+            # Part title heading — clean, without "Part X —" prefix
             h = self.doc.add_paragraph(style="Heading 1")
-            run = h.add_run(f"Part {roman} — {h1_title}")
+            h.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            run = h.add_run(h1_title)
             run.bold = True
 
             tokens = self._strip_first_h1(tokens)
@@ -1035,12 +1061,34 @@ class DOCXRenderer:
             self._chapter_counter += 1
             ch_num = self._chapter_counter
 
-            # New section with updated running header
-            self._new_section_with_headers(h1_title)
+            # No page break for chapters — just a visual separator
+            sep = self.doc.add_paragraph()
+            sep.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            r = sep.add_run("— ✦ —")
+            r.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+            r.font.size = Pt(12)
+            sep.paragraph_format.space_before = Pt(14)
+            sep.paragraph_format.space_after  = Pt(2)
 
-            # Chapter heading
+            # Update running header for this chapter
+            self._current_chapter_title = h1_title
+
+            # Eyebrow label: "CHAPTER XX" — bold, gold, visible
+            label = self.doc.add_paragraph()
+            label.paragraph_format.keep_with_next = True
+            label.paragraph_format.space_before = Pt(0)
+            label.paragraph_format.space_after  = Pt(2)
+            lr = label.add_run(f"CHAPTER {ch_num}")
+            lr.bold = True
+            lr.font.size = Pt(9)
+            lr.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+            lr.font.name = "Libre Franklin"
+
+            # Chapter title — clean, without "Chapter XX:" prefix
             h = self.doc.add_paragraph(style="Heading 2")
-            run = h.add_run(f"Chapter {ch_num}: {h1_title}")
+            h.paragraph_format.keep_with_next = True
+            h.paragraph_format.keep_together  = True
+            run = h.add_run(h1_title)
             run.bold = True
 
             tokens = self._strip_first_h1(tokens)
@@ -1160,7 +1208,13 @@ class DOCXRenderer:
 
 # ---------------------------------------------------------------------------
 def main():
-    renderer = DOCXRenderer()
+    import argparse
+    parser = argparse.ArgumentParser(description="Generate timeline DOCX")
+    parser.add_argument("--images", action="store_true",
+                        help="Include images in the export (default: text-only)")
+    args = parser.parse_args()
+
+    renderer = DOCXRenderer(include_images=args.images)
     renderer.generate()
 
 

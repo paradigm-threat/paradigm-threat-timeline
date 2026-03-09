@@ -1945,10 +1945,52 @@
           ]
         },
         {
+          "id": "evt-american-revolution",
+          "title": "1775 CE — The American Revolution",
+          "type": "event",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.06.00-1775-ce-the-american-revolution.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1775,
+              "end": 1783,
+              "calendar": "CE",
+              "note": "From Lexington/Concord through Treaty of Paris"
+            }
+          ],
+          "related_events": [
+            "evt-the-rebellion-of-pugachev",
+            "evt-london-1664-1694-the-financial-coup",
+            "evt-british-empire-as-deep-state-instrument",
+            "evt-french-revolution"
+          ]
+        },
+        {
+          "id": "evt-french-revolution",
+          "title": "1789 CE — The French Revolution",
+          "type": "event",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.07.00-1789-ce-the-french-revolution.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1789,
+              "end": 1799,
+              "calendar": "CE",
+              "note": "From Estates-General through Brumaire coup; Napoleon becomes First Consul"
+            }
+          ],
+          "related_events": [
+            "evt-american-revolution",
+            "evt-ce-the-english-revolution-and-civil-wars",
+            "evt-napoleonic-wars",
+            "evt-napoleon-invades-russia"
+          ]
+        },
+        {
           "id": "evt-trail-of-tears-century-long-erasure",
           "title": "Trail of Tears: Century-Long Erasure",
           "type": "article",
-          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.06.00-trail-tears-century-long-erasure.md",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.08.00-trail-tears-century-long-erasure.md",
           "children": [],
           "dates": [
             {
@@ -2156,10 +2198,31 @@
           ]
         },
         {
+          "id": "evt-us-civil-war",
+          "title": "1861 CE — The US Civil War",
+          "type": "event",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-1861-ce-the-us-civil-war.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1861,
+              "end": 1865,
+              "calendar": "CE",
+              "note": "From Fort Sumter through Appomattox; Lincoln assassinated April 1865"
+            }
+          ],
+          "related_events": [
+            "evt-american-revolution",
+            "evt-british-empire-as-deep-state-instrument",
+            "evt-19th-century-weapons-declassification-thesis",
+            "evt-slave-trades-horde-fracture"
+          ]
+        },
+        {
           "id": "evt-19th-century-weapons-declassification-thesis",
           "title": "1865 CE — 19th Century Weapons & Declassification",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.05.00-19th-century-weapons.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.06.00-19th-century-weapons.md",
           "children": [],
           "dates": [
             {
@@ -2180,7 +2243,7 @@
           "id": "evt-maxwell-and-the-suppression-of-the-aether",
           "title": "1865–1930 CE — Suppression of Maxwell & Aether",
           "type": "article",
-          "md_path": "content/13.ce-19th-rise-of-communism/13.06.00-suppression-of-maxwell-aether.md",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.07.00-suppression-of-maxwell-aether.md",
           "children": [],
           "dates": [
             {
@@ -2499,6 +2562,29 @@
             "evt-nuclear-energy-and-the-bomb",
             "evt-the-final-struggle",
             "evt-false-flags"
+          ]
+        },
+        {
+          "id": "evt-soviet-collapse",
+          "title": "1991 CE — The Soviet Collapse",
+          "type": "event",
+          "md_path": "content/14.ce-20th-the-1917-revolution/14.13.00-1991-ce-the-soviet-collapse.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1991,
+              "end": 1991,
+              "calendar": "CE",
+              "note": "August Coup; USSR dissolved December 1991"
+            }
+          ],
+          "related_events": [
+            "evt-world-war-ii-reverse-crusade-iii",
+            "evt-soviet-historiography",
+            "evt-bolshevik-revolution",
+            "evt-operation-mockingbird",
+            "evt-the-final-struggle",
+            "evt-from-missionaries-to-corporations"
           ]
         }
       ],
@@ -3336,9 +3422,9 @@
         },
         {
           "id": "evt-building-the-new-chronology-appendix",
-          "title": "Building the New Chronology (Extended)",
+          "title": "Building the New Chronology",
           "type": "article",
-          "md_path": "content/16.appendix/16.22.00-building-the-new-chronology.md",
+          "md_path": "content/04.the-blip/04.01.00-building-the-new-chronology.md",
           "children": [],
           "related_events": [
             "evt-building-the-new-chronology",
@@ -3362,9 +3448,9 @@
         },
         {
           "id": "evt-other-challenges-to-chronology-appendix",
-          "title": "Other Challenges to Chronology (Extended)",
+          "title": "Other Challenges to Chronology",
           "type": "article",
-          "md_path": "content/16.appendix/16.23.00-other-challenges-to-chronology.md",
+          "md_path": "content/04.the-blip/04.02.00-other-challenges-to-chronology.md",
           "children": [],
           "related_events": [
             "evt-other-challenges-to-chronology",
@@ -3373,9 +3459,9 @@
         },
         {
           "id": "evt-building-the-new-chronology-extended",
-          "title": "Building the New Chronology",
+          "title": "Building the New Chronology (Extended)",
           "type": "article",
-          "md_path": "content/04.the-blip/04.01.00-building-the-new-chronology.md",
+          "md_path": "content/16.appendix/16.22.00-building-the-new-chronology.md",
           "children": [],
           "related_events": [
             "evt-building-the-new-chronology",
@@ -3384,13 +3470,28 @@
         },
         {
           "id": "evt-other-challenges-to-chronology-extended",
-          "title": "Other Challenges to Chronology",
+          "title": "Other Challenges to Chronology (Extended)",
           "type": "article",
-          "md_path": "content/04.the-blip/04.02.00-other-challenges-to-chronology.md",
+          "md_path": "content/16.appendix/16.23.00-other-challenges-to-chronology.md",
           "children": [],
           "related_events": [
             "evt-other-challenges-to-chronology",
             "evt-the-blip-7th-century-bce-to-10th-century-ce-never"
+          ]
+        },
+        {
+          "id": "evt-reverse-crusades-structural-comparison",
+          "title": "The Four Reverse Crusades: A Structural Comparison",
+          "type": "article",
+          "md_path": "content/16.appendix/16.24.00-reverse-crusades-structural-comparison.md",
+          "children": [],
+          "related_events": [
+            "evt-napoleon-invades-russia",
+            "evt-napoleonic-wars",
+            "evt-world-war-i-reverse-crusade-ii",
+            "evt-world-war-ii-reverse-crusade-iii",
+            "evt-the-final-struggle",
+            "evt-soviet-collapse"
           ]
         }
       ]

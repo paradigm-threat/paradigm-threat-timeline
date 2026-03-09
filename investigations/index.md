@@ -78,6 +78,14 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 ### Religious Revival (1979)
 - [1979 Religious Revival investigation](religious-revival/1979-religious-revival-investigation.md) — CIA facilitation of Khomeini's return; Grand Mosque siege and Saudi Wahhabism; Moral Majority founding; Pope John Paul II in Poland; technology to simulate religious experience (God helmet, infrasound); invisible ray claims in churches (ongoing)
 
+### War
+- [American Revolution](war/american-revolution-investigation.md) — Small piece of a bigger puzzle; Atlantic context; Bank of England, British Empire
+- [British Civil War](war/british-civil-war-investigation.md) — Societized consolidation; meritocracy, plutocracy, particracy; predates imperial expansion
+- [French Revolution](war/french-revolution-investigation.md) — Political reorganization; pre-Napoleonic template; Western governance model
+- [US Civil War](war/us-civil-war-investigation.md) — British funding; slavery as instrument not cause; northern freed-slave recruitment; DU weapon thesis
+- [Soviet Collapse](war/soviet-collapse-investigation.md) — Western orchestration; media, celebrities (Michael Palin), espionage; post-WWII isolation
+- [Reverse Crusades Comparison](war/reverse-crusades-comparison.md) — Four pan-European coalitions vs. Russia (1812, 1914, 1941, 2022); figurehead mechanics; false-flag triggers
+
 ### False Flags
 - [False Flags index](false-flags/index.md) — Architecture of manufactured war; false flags by both sides; war as deception
 - [9/11 Investigation](false-flags/09-11-investigation.md) — Good-actor historic antibody thesis; controlled demolition; no-planes/CGI; WTC 7 and CIA station destruction; Gulf of Tonkin; Twin Towers construction; deep state WW3 plan vs. War on Terror; predictive programming; "don't worry, we're doing something"

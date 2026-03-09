@@ -29,7 +29,7 @@ from pathlib import Path
 try:
     from fpdf import FPDF
     from fpdf.text_region import TextColumns
-    from fpdf.enums import Align
+    from fpdf.enums import Align, WrapMode
 except ImportError:
     sys.exit("ERROR: pip install fpdf2")
 
@@ -84,8 +84,9 @@ MARGIN_BOTTOM  = 22   # mm
 # ---------------------------------------------------------------------------
 # Image settings
 # ---------------------------------------------------------------------------
-MAX_IMG_PX   = 1400          # max width in pixels before resize
-JPEG_QUALITY = 82            # B&W edition
+MAX_IMG_PX   = 800           # max width in pixels before resize
+JPEG_QUALITY = 72            # B&W edition — greyscale, aggressive compression
+GREYSCALE    = True           # convert images to greyscale for print
 MAX_IMG_W_MM = 120           # max image width in PDF (mm)
 MAX_IMG_H_MM = 100           # max image height in PDF (mm)
 
@@ -327,10 +328,11 @@ class PDFRenderer:
     BODY_LEADING = 5.3     # mm  (≈ 15 pt)
     INDENT_MM    = 5       # first-line indent for subsequent paragraphs
 
-    def __init__(self):
+    def __init__(self, include_images: bool = False):
         self._tmp = tempfile.mkdtemp(prefix="timeline_pdf_")
         self._img_cache: dict = {}
         self._use_unicode = False
+        self._include_images = include_images
         self._init_pdf()
 
     def _init_pdf(self):
@@ -466,7 +468,7 @@ class PDFRenderer:
                 r = MAX_IMG_PX / img.width
                 img = img.resize((MAX_IMG_PX, int(img.height * r)), Image.LANCZOS)
 
-            # Convert to RGB for JPEG
+            # Convert to RGB for JPEG (flatten alpha)
             if img.mode in ("RGBA", "P", "LA"):
                 bg = Image.new("RGB", img.size, (255, 255, 255))
                 if img.mode == "P":
@@ -475,6 +477,10 @@ class PDFRenderer:
                 img = bg
             elif img.mode != "RGB":
                 img = img.convert("RGB")
+
+            # Greyscale conversion for print (originals untouched)
+            if GREYSCALE:
+                img = img.convert("L").convert("RGB")
 
             out = os.path.join(self._tmp, f"img_{len(self._img_cache)}.jpg")
             img.save(out, "JPEG", quality=JPEG_QUALITY, optimize=True)
@@ -487,6 +493,8 @@ class PDFRenderer:
 
     def _embed_image(self, src: str, caption: str = ""):
         """Render an image block centred on the page."""
+        if not self._include_images:
+            return
         path = self._prepare_image(src)
         if not path:
             return
@@ -728,14 +736,14 @@ class PDFRenderer:
             # Justified paragraph; first-line indent for subsequent paragraphs
             first_indent = self.INDENT_MM if self._para_index > 0 else 0
             tc = TextColumns(self.pdf, ncols=1)
-            p = tc.paragraph(text_align=Align.J, first_line_indent=first_indent)
+            p = tc.paragraph(text_align=Align.J, first_line_indent=first_indent, wrapmode=WrapMode.WORD)
             self._render_inline_para(inline_tok.children, p)
             tc.render()
 
         elif inline_tok.content:
             first_indent = self.INDENT_MM if self._para_index > 0 else 0
             tc = TextColumns(self.pdf, ncols=1)
-            p = tc.paragraph(text_align=Align.J, first_line_indent=first_indent)
+            p = tc.paragraph(text_align=Align.J, first_line_indent=first_indent, wrapmode=WrapMode.WORD)
             p.write(self._t(inline_tok.content))
             tc.render()
 
@@ -771,12 +779,12 @@ class PDFRenderer:
         saved_l = self.pdf.l_margin
 
         for idx, item_tokens in enumerate(items, 1):
-            self.pdf.set_left_margin(saved_l + 7)
+            self.pdf.set_left_margin(saved_l + 4)
             self.pdf.set_x(saved_l)
             self._restore_body()
 
             bullet = f"{idx}. " if ordered else "\u2022 "
-            self.pdf.cell(7, self._lh, self._t(bullet))
+            self.pdf.cell(4, self._lh, self._t(bullet))
 
             for tok in item_tokens:
                 if tok.type in ("paragraph_open", "paragraph_close"):
@@ -1271,17 +1279,17 @@ class PDFRenderer:
             self.pdf.add_page()
             self._para_index = 0
 
-            # "PART X" eyebrow label
-            self.pdf.set_font(self.SANS, "", 8)
-            self.pdf.set_text_color(*C_GRAY)
-            self.pdf.cell(0, 5, f"PART {roman}",
+            # "PART X" eyebrow label — prominent, centred
+            self.pdf.set_font(self.SANS, "B", 11)
+            self.pdf.set_text_color(*C_GOLD)
+            self.pdf.cell(0, 6, f"PART {roman}", align="C",
                           new_x="LMARGIN", new_y="NEXT")
-            self.pdf.ln(2)
+            self.pdf.ln(4)
 
             # Large Part title (bigger than chapter h1)
             self.pdf.set_font(self.SANS, "B", 28)
             self.pdf.set_text_color(*C_DARK)
-            self.pdf.multi_cell(0, 13, self._t(h1_title),
+            self.pdf.multi_cell(0, 13, self._t(h1_title), align="C",
                                 new_x="LMARGIN", new_y="NEXT")
             self.pdf.ln(3)
 
@@ -1311,16 +1319,31 @@ class PDFRenderer:
             self.pdf.chapter_title = h1_title
             self._chapter_title = h1_title
 
-            # Chapter label
-            self.pdf.set_font(self.SANS, "", 7.5)
-            self.pdf.set_text_color(*C_GRAY)
-            self.pdf.cell(0, 4, f"Part {roman}, Chapter {ch_num}",
+            # Eyebrow label: "CHAPTER XX" — bold, visible
+            self.pdf.set_font(self.SANS, "B", 10)
+            self.pdf.set_text_color(*C_GOLD)
+            self.pdf.cell(0, 5, f"CHAPTER {ch_num}",
                           new_x="LMARGIN", new_y="NEXT")
-            self.pdf.ln(1)
+            self.pdf.ln(2)
 
-            # TOC entry (level 1)
+            # TOC entry (level 1) — bookmark only, no visual render
             toc_label = f"Chapter {ch_num}:  {h1_title}"
             self.pdf.start_section(toc_label, level=1)
+
+            # Large chapter title (separate from chapter number)
+            self.pdf.set_font(self.SANS, "B", 20)
+            self.pdf.set_text_color(*C_DARK)
+            self.pdf.multi_cell(0, 9, self._t(h1_title),
+                                new_x="LMARGIN", new_y="NEXT")
+            self.pdf.ln(2)
+
+            # Ornamental rule beneath title
+            y = self.pdf.get_y()
+            self.pdf.set_draw_color(*C_GOLD)
+            self.pdf.set_line_width(0.7)
+            self.pdf.line(self.pdf.l_margin, y,
+                          self.pdf.w - self.pdf.r_margin, y)
+            self.pdf.ln(5)
 
             self._restore_body()
             tokens = self._strip_first_h1(self.md.parse(text))
@@ -1442,7 +1465,13 @@ class PDFRenderer:
 
 # ===================================================================
 def main():
-    renderer = PDFRenderer()
+    import argparse
+    parser = argparse.ArgumentParser(description="Generate timeline PDF")
+    parser.add_argument("--images", action="store_true",
+                        help="Include images in the export (default: text-only)")
+    args = parser.parse_args()
+
+    renderer = PDFRenderer(include_images=args.images)
     try:
         renderer.generate()
     finally:
