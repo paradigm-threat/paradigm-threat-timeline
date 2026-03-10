@@ -48,51 +48,51 @@ Three major commits since the last update bring the project to **v1.2.12** with 
 
 ### Asimov Deep Dive (10 files)
 A complete investigation of Isaac Asimov's works as encoded Marxist-materialist history:
-- [Asimov Investigation Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/asimov/index.md) — overview and navigation
-- [Biography & Context](https://paradigm-threat.net/timeline?view=browser&path=investigations/asimov/01-biography-and-context.md) — CPUSA connections, biochemistry career
-- [Bibliography & Major Works](https://paradigm-threat.net/timeline?view=browser&path=investigations/asimov/02-bibliography-and-major-works.md)
-- [Themes for Timeline Study](https://paradigm-threat.net/timeline?view=browser&path=investigations/asimov/03-themes-for-timeline-study.md)
-- [Investigation Threads](https://paradigm-threat.net/timeline?view=browser&path=investigations/asimov/04-investigation-threads.md)
-- [Foundation Series Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/asimov/foundation-index.md) — psychohistory as dialectical materialism
-- [I, Robot Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/asimov/i-robot-index.md) — Three Laws as social control
-- [Youth Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/asimov/youth-index.md), [Everest Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/asimov/everest-index.md), [Let's Get Together](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/asimov/lets-get-together-index.md), [Magnificent Possession](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/asimov/magnificent-possession-index.md)
+- [Asimov Investigation Index](/influence/predictive_programming/fiction_encoding/asimov/index.md) — overview and navigation
+- [Biography & Context](/influence/predictive_programming/fiction_encoding/asimov/01-biography-and-context.md) — CPUSA connections, biochemistry career
+- [Bibliography & Major Works](/influence/predictive_programming/fiction_encoding/asimov/02-bibliography-and-major-works.md)
+- [Themes for Timeline Study](/influence/predictive_programming/fiction_encoding/asimov/03-themes-for-timeline-study.md)
+- [Investigation Threads](/influence/predictive_programming/fiction_encoding/asimov/04-investigation-threads.md)
+- [Foundation Series Index](/influence/predictive_programming/fiction_encoding/asimov/foundation-index.md) — psychohistory as dialectical materialism
+- [I, Robot Index](/influence/predictive_programming/fiction_encoding/asimov/i-robot-index.md) — Three Laws as social control
+- [Youth Index](/influence/predictive_programming/fiction_encoding/asimov/youth-index.md), [Everest Index](/influence/predictive_programming/fiction_encoding/asimov/everest-index.md), [Let's Get Together](/influence/predictive_programming/fiction_encoding/asimov/lets-get-together-index.md), [Magnificent Possession](/influence/predictive_programming/fiction_encoding/asimov/magnificent-possession-index.md)
 
 ### Burroughs Barsoom Series (8 files)
 Complete indexes of the first seven Barsoom novels, plus overview:
-- [Burroughs Barsoom Overview](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/README.md)
-- [A Princess of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/princess-of-mars-index.md), [The Gods of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/gods-of-mars-index.md), [The Warlord of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/warlord-of-mars-index.md), [Thuvia, Maid of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/thuvia-maid-of-mars-index.md), [The Chessmen of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/chessmen-of-mars-index.md), [The Master Mind of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/master-mind-of-mars-index.md), [A Fighting Man of Mars](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/burroughs-barsoom/fighting-man-of-mars-index.md)
+- [Burroughs Barsoom Overview](/cosmos/mars/burroughs-barsoom/README.md)
+- [A Princess of Mars](/cosmos/mars/burroughs-barsoom/princess-of-mars-index.md), [The Gods of Mars](/cosmos/mars/burroughs-barsoom/gods-of-mars-index.md), [The Warlord of Mars](/cosmos/mars/burroughs-barsoom/warlord-of-mars-index.md), [Thuvia, Maid of Mars](/cosmos/mars/burroughs-barsoom/thuvia-maid-of-mars-index.md), [The Chessmen of Mars](/cosmos/mars/burroughs-barsoom/chessmen-of-mars-index.md), [The Master Mind of Mars](/cosmos/mars/burroughs-barsoom/master-mind-of-mars-index.md), [A Fighting Man of Mars](/cosmos/mars/burroughs-barsoom/fighting-man-of-mars-index.md)
 
 ### Mars Research
-- [Mars Master Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/index-mars.md) — comprehensive index of all Mars research sources
-- [Mars Fiction Survey](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/mars-fiction-survey.md) — 20+ authors, genre analysis, disclosure timeline
-- [Arnold's Gullivar Jones Reference](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/arnold-gullivar-jones-reference.md) — Lt. Gullivar Jones: His Vacation (1905) analysis
+- [Mars Master Index](/cosmos/mars/index-mars.md) — comprehensive index of all Mars research sources
+- [Mars Fiction Survey](/cosmos/mars/mars-fiction-survey.md) — 20+ authors, genre analysis, disclosure timeline
+- [Arnold's Gullivar Jones Reference](/cosmos/mars/arnold-gullivar-jones-reference.md) — Lt. Gullivar Jones: His Vacation (1905) analysis
 
 ### CERN & Portal Research
-- [CERN Portal Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/cern-portal/index.md) — the LHC as attempted polar column reopening
+- [CERN Portal Investigation](/science/cern_portal/index.md) — the LHC as attempted polar column reopening
 
 ### Havana Syndrome
-- [Havana Syndrome Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/havana-syndrome/havana-syndrome-investigation.md) — microwave weapons, scalar interference patterns, and the suppressed physics behind "anomalous health incidents"
+- [Havana Syndrome Investigation](/science/havana_syndrome/havana-syndrome-investigation.md) — microwave weapons, scalar interference patterns, and the suppressed physics behind "anomalous health incidents"
 
 ### Weather Modification
-- [Weather Modification Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/weather-modification/weather-modification-investigation.md) — from Tesla's patents to HAARP, full source analysis
+- [Weather Modification Investigation](/science/geoengineering/investigations/weather-modification-investigation.md) — from Tesla's patents to HAARP, full source analysis
 
 ### Maxwell & Aether
-- [Dayton Miller's Aether Drift Experiments](https://paradigm-threat.net/timeline?view=browser&path=investigations/maxwell-aether/03-dayton-miller.md) — 100,000+ readings confirming aether drift, buried by mainstream physics
-- [Steinmetz & Heaviside Sources](https://paradigm-threat.net/timeline?view=browser&path=investigations/maxwell-aether/04-steinmetz-heaviside-sources.md) — primary source verification
+- [Dayton Miller's Aether Drift Experiments](/science/maxwell_aether/03-dayton-miller.md) — 100,000+ readings confirming aether drift, buried by mainstream physics
+- [Steinmetz & Heaviside Sources](/science/maxwell_aether/04-steinmetz-heaviside-sources.md) — primary source verification
 
 ### Bioelectric Medicine
-- [Tennant: Healing is Voltage](https://paradigm-threat.net/timeline?view=browser&path=investigations/tennant/index-tennant-healing-voltage.md) — complete index of Tennant's claims from multiple lecture transcripts, professional validation, and timeline connections
+- [Tennant: Healing is Voltage](/science/health/tennant/index-tennant-healing-voltage.md) — complete index of Tennant's claims from multiple lecture transcripts, professional validation, and timeline connections
 
 ### Other Investigations
-- [Tolkien Palantír Analysis](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/tolkien/ARTICLE-palantir-analysis.md) — the Palantíri as encoded remote viewing technology
-- [Edwin Lester Arnold Bibliography](https://paradigm-threat.net/timeline?view=browser&path=investigations/fiction-encoding/arnold/arnold-books-bibliography.md) — the forgotten pre-Burroughs Mars writer
-- [1979 Religious Revival Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/religious-revival/1979-religious-revival-investigation.md) — the Iranian Revolution, Moral Majority, and John Paul II as coordinated religious resurgence
-- [Aether & Consciousness](https://paradigm-threat.net/timeline?view=browser&path=investigations/remote-viewing/aether-consciousness.md) — the aether as substrate for remote viewing
-- [Illig-Fomenko Boundary](https://paradigm-threat.net/timeline?view=browser&path=investigations/chronology/illig-fomenko-boundary.md) — reconciling Phantom Time with New Chronology
-- [Indigenous Creation Dates](https://paradigm-threat.net/timeline?view=browser&path=investigations/chronology/indigenous-creation-dates.md) — Quiche Maya and other non-Scaligerian timelines
-- [Joan of Arc Naming History](https://paradigm-threat.net/timeline?view=browser&path=investigations/joan-of-arc/naming-history.md)
-- [Requerimiento Dating](https://paradigm-threat.net/timeline?view=browser&path=investigations/requerimiento-dating.md)
-- [Thunderbolts Forum Archives](https://paradigm-threat.net/timeline?view=browser&path=investigations/thunderbolts-forum-archives.md)
+- [Tolkien Palantír Analysis](/influence/predictive_programming/fiction_encoding/tolkien/ARTICLE-palantir-analysis.md) — the Palantíri as encoded remote viewing technology
+- [Edwin Lester Arnold Bibliography](/influence/predictive_programming/fiction_encoding/arnold/arnold-books-bibliography.md) — the forgotten pre-Burroughs Mars writer
+- [1979 Religious Revival Investigation](/influence/religion/investigations/1979-religious-revival-investigation.md) — the Iranian Revolution, Moral Majority, and John Paul II as coordinated religious resurgence
+- [Aether & Consciousness](/science/telepathy/remote_viewing/aether-consciousness.md) — the aether as substrate for remote viewing
+- [Illig-Fomenko Boundary](/history/chronology/investigations/illig-fomenko-boundary.md) — reconciling Phantom Time with New Chronology
+- [Indigenous Creation Dates](/history/chronology/investigations/indigenous-creation-dates.md) — Quiche Maya and other non-Scaligerian timelines
+- [Joan of Arc Naming History](/history/joan_of_arc/naming-history.md)
+- [Requerimiento Dating](/history/requerimiento-dating.md)
+- [Thunderbolts Forum Archives](/history/thunderbolts-forum-archives.md)
 
 ---
 

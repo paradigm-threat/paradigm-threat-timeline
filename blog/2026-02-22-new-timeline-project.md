@@ -6,7 +6,7 @@
 
 After years of research, writing, and community building, we are proud to announce the launch of the **Paradigm Threat Timeline** — a dedicated, interactive timeline project for reconstructing and visualizing Earth's suppressed and alternative history.
 
-You can explore it now at **[paradigmthreat.net/timeline](https://paradigmthreat.net/timeline)**.
+You can explore it now at **[paradigmthreat.net/timeline](/timeline)**.
 
 ---
 
@@ -64,7 +64,7 @@ The timeline is live but the investigation never stops. Upcoming work includes:
 
 Come and investigate with us.
 
-**→ [paradigmthreat.net/timeline](https://paradigmthreat.net/timeline)**
+**→ [paradigmthreat.net/timeline](/timeline)**
 
 ---
 

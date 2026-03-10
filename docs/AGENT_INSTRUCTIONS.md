@@ -129,7 +129,7 @@ The `investigations/` folder is the project's **living knowledge base** — orga
 - Timeline articles in `content/` must **not** use relative paths to investigations (e.g. `../../investigations/...`) — these won't resolve in the printed book.
 - Instead, link to the live website's Browser mode:
   ```
-  [See: Title](https://paradigm-threat.net/timeline?view=browser&path=investigations/topic/filename.md)
+  [See: Title](/path/to/investigation.md)
   ```
 - Investigations may later become a separate publication or online article series.
 
