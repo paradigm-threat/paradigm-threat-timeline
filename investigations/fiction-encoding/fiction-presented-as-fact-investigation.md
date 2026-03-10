@@ -46,7 +46,7 @@
 |--------|------|------|-------|
 | **Max Brooks** | *World War Z* | 2006 | Oral history, UN Postwar Commission; mimics documentary—but **has legal disclaimer** ("any resemblance... purely coincidental"). |
 | **Max Brooks** | *The Zombie Survival Guide* | 2003 | Survival manual as if real; "never breaks character"—but marketed as parody/satire. |
-| **Mary Shelley** | *Frankenstein* | 1818 | Grounds tale in 1816 Geneva; scientific credibility—but **explicitly** states she does not accord "serious faith" to the premise. **Not in catalog.** |
+| **Mary Shelley** | *Frankenstein* | 1818 | Grounds tale in 1816 Geneva; scientific credibility—but **explicitly** states she does not accord "serious faith" to the premise. **Not in catalog.** **Conclusion:** Original author indeterminate; Mary campaigned to claim it as her fiction; evidence points to real story. [Investigation](shelley/shelley-frankenstein-true-story-investigation.md). |
 
 ---
 
@@ -65,7 +65,7 @@
 
 | Author | Work | Reason |
 |--------|------|--------|
-| Mary Shelley | *Frankenstein* | Preface explicitly denies "serious faith" in premise. |
+| Mary Shelley | *Frankenstein* | Original author cannot be determined (1818 anonymous). Mary went to great lengths to claim ownership and frame as her fiction. Everything points to the story being real. [Investigation](shelley/shelley-frankenstein-true-story-investigation.md). |
 | H.G. Wells | *War of the Worlds* | First-person narrator; Wells in other prefaces called his SF "fantasias of possibility." Context suggests fiction. |
 | Jules Verne | *Twenty Thousand Leagues*, etc. | Standard novel packaging; no found-document framing found. |
 | H.P. Lovecraft | *Herbert West—Reanimator* | Pulp serial; no documentary claim. |
@@ -79,6 +79,7 @@
 - [Compromised court cases & declared reality](compromised-court-cases-declared-reality-investigation.md) — Court outcomes as steering mechanism; reclassifying as "fiction" = control; Deeks v Wells, Doyle foreword
 - [Fiction-as-fact download index](/home/ari/dev/wget/fiction-as-fact/index-fiction-as-fact.md) — Downloaded full texts (PG + Anna's Archive links)
 - [Bram Stoker investigation](stoker/index-bram-stoker-investigation.md) | [Dracula index](stoker/index-dracula.md) — Book as fact, realistic physics, reasons to disbelieve
+- [Mary Shelley Frankenstein true-story](shelley/shelley-frankenstein-true-story-investigation.md) — What Shelley states; internal vs. external framing; locations; Aldini galvanism
 - [Zombie genre investigation](zombies/index-zombie-genre-investigation.md)
 - [Vampires index](/home/ari/dev/wget/vampires/index-vampires.md)
 - [Investigations index](../index.md)
