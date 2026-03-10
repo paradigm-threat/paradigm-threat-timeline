@@ -189,14 +189,14 @@
           "id": "evt-the-225-day-year",
           "title": "The 225-Day Year",
           "type": "article",
-          "md_path": "content/02.the-golden-age/02.02.00-the-225-day-year.md",
+          "md_path": "content/02.the-golden-age/02.00.00-4077-bce-the-golden-age.md",
           "children": []
         },
         {
           "id": "evt-saturns-collinear-planetary-configuration-the-tree",
           "title": "Saturn Collinear Configuration",
           "type": "article",
-          "md_path": "content/02.the-golden-age/02.03.00-saturn-collinear-configuration.md",
+          "md_path": "content/02.the-golden-age/02.00.00-4077-bce-the-golden-age.md",
           "children": [],
           "media": [
             "/media/02.the-golden-age/norse_yggdrasil.jpg"
@@ -227,7 +227,7 @@
           "id": "evt-southern-hemisphere-configuration",
           "title": "Southern Configuration",
           "type": "article",
-          "md_path": "content/02.the-golden-age/02.06.00-southern-configuration.md",
+          "md_path": "content/02.the-golden-age/02.05.00-northern-configuration.md",
           "children": [],
           "media": [
             "/media/02.the-golden-age/saturnian_configuration_south.jpg"
@@ -247,7 +247,7 @@
           "id": "evt-priori-mars-as-the-ladder-stairway-mountain-of-hea",
           "title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
           "type": "article",
-          "md_path": "content/02.the-golden-age/02.08.00-priori-mars-as-the-ladder.md",
+          "md_path": "content/02.the-golden-age/02.00.00-4077-bce-the-golden-age.md",
           "children": [],
           "media": [
             "/media/02.the-golden-age/golden_age_jacobs_ladder.jpg"
@@ -268,7 +268,7 @@
           "id": "evt-the-seven-days-of-creation",
           "title": "The Seven Days of Creation: A Compressed Memory of the Saturnian Epoch",
           "type": "article",
-          "md_path": "content/02.the-golden-age/02.10.00-seven-days-of-creation-a.md",
+          "md_path": "content/02.the-golden-age/02.00.00-4077-bce-the-golden-age.md",
           "children": []
         }
       ],
@@ -322,7 +322,7 @@
           "id": "evt-the-planets-are-at-war",
           "title": "3067 BCE — The Planets are at war.",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.03.00-3067-bce-the-planets-are-at-war.md",
+          "md_path": "content/03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the.md",
           "children": [],
           "dates": [
             {
@@ -339,7 +339,7 @@
           "id": "evt-all-planets-enter-a-stable-non-linear-orbit",
           "title": "2860 BCE — All planets enter a stable Nonlinear Orbit",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.04.00-all-planets-enter-a-stable.md",
+          "md_path": "content/03.the-dark-ages/03.04.01-jupiter-replaces-saturn-as-the-new-saviour.md",
           "children": [
             {
               "id": "evt-jupiter-replaces-saturn-as-the-new-saviour-aka-zeu",
@@ -352,7 +352,7 @@
               "id": "evt-pyramids-were-portals",
               "title": "Pyramids were Portals",
               "type": "article",
-              "md_path": "content/03.the-dark-ages/03.04.02-pyramids-were-portals.md",
+              "md_path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
               "children": [],
               "media": [
                 "/media/03.the-dark-ages/history_pyramid_gates1.jpg"
@@ -420,7 +420,7 @@
           "id": "evt-sodom-and-gomorrah-are-completely-destroyed-by-mar",
           "title": "1936 BCE — Sodom & Gomorrah are completely Destroyed",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.07.00-sodom-gomorrah-are-completely.md",
+          "md_path": "content/03.the-dark-ages/03.08.00-passover-of-comet-venus.md",
           "children": [],
           "dates": [
             {
@@ -484,7 +484,7 @@
           "id": "evt-mars-earth-and-mercury-finalize-orbits",
           "title": "806–670 BCE — Mars, Earth & Mercury finalize their Orbits",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.10.00-mars-earth-mercury-finalize.md",
+          "md_path": "content/03.the-dark-ages/03.12.00-684-bce-solar-system-becomes-stable.md",
           "children": [
             {
               "id": "evt-mars-aka-prometheus-replaces-venus-as-the-new-savi",
@@ -566,7 +566,7 @@
           "id": "evt-other-challenges-to-chronology",
           "title": "Other Challenges to Chronology",
           "type": "article",
-          "md_path": "content/04.the-blip/04.02.00-other-challenges-to-chronology.md",
+          "md_path": "content/04.the-blip/04.01.00-building-the-new-chronology.md",
           "children": [],
           "dates": [],
           "media": []
@@ -944,7 +944,7 @@
           "id": "evt-meteorite-star-metal-falls-on-yaroslavl",
           "title": "1421 CE — Meteorite falls on Yaroslavl",
           "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.00-meteorite-falls-on-yaroslavl.md",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-1400-ce-15th-century-ce-ottoman-conquest-of-europe.md",
           "children": [
             {
               "id": "evt-jeanne-darc-is-executed-in-rouen-france",
@@ -993,7 +993,7 @@
               "id": "evt-hundred-years-war-ends-fall-of",
               "title": "Fall of Czar-Grad (Constantinople)",
               "type": "article",
-              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.03-hundred-years-war-ends-fall-of.md",
+              "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.02-1453-ce-fall-of-czar-grad-constantinople.md",
               "children": [],
               "dates": [
                 {
@@ -1019,7 +1019,7 @@
           "id": "evt-bible-is-translated-into-latin",
           "title": "1455 CE — Gutenberg Bible translated into Latin",
           "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1455-ce-gutenberg-bible-translated-into-latin.md",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.01-language-of-the-deep-state.md",
           "children": [
             {
               "id": "evt-latin-is-the-language-of-the-deep-state",
@@ -1054,7 +1054,7 @@
           "id": "evt-jesuits-convert-native-religions-to-monotheism-stub",
           "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
           "type": "article",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.03.00-jesuit-ops-stub.md",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-1400-ce-15th-century-ce-ottoman-conquest-of-europe.md",
           "children": [],
           "related_events": [
             "evt-jesuits-convert-native-religions-to-monotheism"
@@ -1128,7 +1128,7 @@
           "id": "evt-protestant-reformation-begins",
           "title": "1517 CE — Protestant Reformation Begins",
           "type": "event",
-          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.01.00-1517-ce-protestant-reformation-begins.md",
+          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.00.00-1500-ce-16th-century-ce-reformation-and-inquisition.md",
           "children": [],
           "dates": [
             {
@@ -1204,7 +1204,7 @@
           "id": "evt-jesuits-reach-africa",
           "title": "1548 CE — Jesuits reach Africa",
           "type": "event",
-          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.04.00-1548-ce-jesuits-reach-africa.md",
+          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.02.00-jesuits-make-pilgrimage-to.md",
           "children": [],
           "dates": [
             {
@@ -1455,7 +1455,7 @@
               "id": "evt-russia-and-turkey-begin-300-years-of-war",
               "title": "1600 CE — Russia and Turkey begin 300 years of war",
               "type": "event",
-              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.05-1600-ce-russia-and-turkey-begin-300-years-of-war.md",
+              "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.00-resistance-religious-wars.md",
               "children": [],
               "dates": [
                 {
@@ -1845,7 +1845,7 @@
           "id": "evt-mysterious-carbon-14-spike",
           "title": "1774 CE — mysterious carbon-14 spike",
           "type": "event",
-          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.02.00-1774-ce-mysterious-carbon-14-spike.md",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
           "children": [],
           "dates": [
             {
@@ -2040,7 +2040,7 @@
               "id": "evt-napoleon-invades-russia",
               "title": "1812 CE — Napoleon invades Russia — Reverse Crusade I",
               "type": "event",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.01.01-1812-ce-napoleon-invades-russia-reverse-crusade-i.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.01.00-napoleonic-wars-reverse.md",
               "children": [],
               "dates": [
                 {
@@ -2149,7 +2149,7 @@
               "id": "evt-orphan-trains-trail-of-tears-siberian-exile",
               "title": "1790–1929 CE — Orphan Trains, the Trail of Tears, and the Exile to Siberia",
               "type": "article",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.03.01-1830-ce-orphan-trains-trail-of-tears-and-siberian-exile.md",
+              "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-19th-century-assault-on-hordian.md",
               "children": [],
               "dates": [
                 {
@@ -2604,7 +2604,7 @@
       "children": [
         {
           "id": "evt-censorship-and-book-burning",
-          "title": "300 BCE — Censorship and Book Burning: From Alexandria to the Internet",
+          "title": "Censorship and Book Burning: From Alexandria to the Internet",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.01.00-censorship-book-burning-from.md",
           "children": [],
@@ -2633,7 +2633,7 @@
               "id": "evt-asimov-marx-in-space",
               "title": "1942–1992 CE — Asimov: Marx in Space!",
               "type": "article",
-              "md_path": "content/15.ce-21st-the-final-struggle/15.02.01-1942-ce-asimov-marx-in-space.md",
+              "md_path": "content/15.ce-21st-the-final-struggle/15.02.00-20th-c-predictive-programming.md",
               "children": [],
               "dates": [
                 {
@@ -2671,7 +2671,7 @@
           "id": "evt-controlled-opposition",
           "title": "1900–2026 CE — Controlled Opposition: Managed Disclosure and Gatekeeping",
           "type": "article",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.03.00-controlled-opposition-gatekeeping.md",
+          "md_path": "content/16.appendix/16.19.00-controlled-opposition-managed-disclosure.md",
           "children": [],
           "dates": [
             {
@@ -3450,7 +3450,7 @@
           "id": "evt-other-challenges-to-chronology-appendix",
           "title": "Other Challenges to Chronology",
           "type": "article",
-          "md_path": "content/04.the-blip/04.02.00-other-challenges-to-chronology.md",
+          "md_path": "content/04.the-blip/04.01.00-building-the-new-chronology.md",
           "children": [],
           "related_events": [
             "evt-other-challenges-to-chronology",
