@@ -1,6 +1,6 @@
 # Investigative Strategy
 
-This document defines how the Paradigm Threat Timeline approaches investigations. It applies to all research in `investigations/`, to sourcing for timeline articles, and to how we treat claims that conflict with mainstream consensus.
+This document defines how the Paradigm Threat Timeline approaches investigations. It applies to all research in **paradigm-threat-files** and **wget** (investigations no longer live in the timeline repo), to sourcing for timeline articles, and to how we treat claims that conflict with mainstream consensus.
 
 ---
 
