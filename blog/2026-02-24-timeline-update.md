@@ -79,7 +79,7 @@ The PDF is regenerated on each commit and versioned with the repository. The cur
 
 ---
 
-The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/timeline). The investigation continues.
+The timeline is at [paradigmthreat.net/timeline](/timeline). The investigation continues.
 
 ---
 

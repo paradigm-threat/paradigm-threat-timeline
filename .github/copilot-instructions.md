@@ -48,33 +48,33 @@ When adding a new content file:
 
 ## Investigations as Knowledge Pool
 
-The `investigations/` folder is the project's **living knowledge base**. It contains research, debates, source analysis, and validation documents organized by topic (e.g. `investigations/maxwell-aether/`, `investigations/nuclear/`, `investigations/text/`).
+Investigations live in **paradigm-threat-files** (separate repo). They contain research, debates, source analysis, and validation documents organized by sphere: `governance/war/investigations/`, `cosmos/mars/investigations/`, `science/maxwell_aether/`, etc.
 
 ### When adding or editing timeline content
 
 - **Consult `docs/CONTENT_STRATEGY.md`** for writing style, content placement, and contradiction handling.
-- **Always scan `investigations/` for relevant material** before writing or modifying assertions in `content/` articles. This ensures the timeline stays internally coherent and doesn't contradict established research.
-- If an investigation supports or challenges a claim in the timeline, cross-reference it.
+- **Always scan paradigm-threat-files** for relevant investigations before writing or modifying assertions in `content/` articles. This ensures the timeline stays internally coherent and doesn't contradict established research.
+- If an investigation supports or challenges a claim in the timeline, cross-reference it using root-relative paths (e.g. `/governance/war/investigations/filename.md`).
 - If editing reveals a contradiction with existing investigations, flag it in `docs/OUTSTANDING_QUESTIONS.md` and optionally open a new investigation.
-- New research or debates that inform timeline content should be added to `investigations/` under the appropriate topic folder.
+- New research or debates that inform timeline content should be added to paradigm-threat-files under the appropriate sphere folder.
 
 ### Investigations are NOT part of the book
 
 - Investigation files are **not included** in the PDF/DOCX exports. They are reference material for the website only.
 - **Do not** refer to investigation files as if they appear in the book's index or table of contents.
 - **Do not** use relative paths like `../../investigations/...` in timeline articles — these work in the repo but not in the rendered book.
-- Instead, link readers to the **website's Browser mode** using this URL format:
+- Investigations live in **paradigm-threat-files** (separate repo). Use **root-relative URLs**:
   ```
-  [See: Investigation Title](https://paradigm-threat.net/timeline?view=browser&path=investigations/topic/filename.md)
+  [See: Investigation Title](/governance/war/investigations/filename.md)
   ```
-  This deep-links directly to the `.md` file in the repo's file browser on the live site.
+  Path prefixes: `governance/war/investigations/`, `events/false_flag/investigations/`, `cosmos/mars/investigations/`, `science/maxwell_aether/`, `influence/predictive_programming/fiction_encoding/`, etc. See paradigm-threat-files `REORGANIZATION_MAP.md` for full mapping.
 - Investigations may become the basis for a separate book, online articles, or supplementary web content.
 
 ### When investigating claims
 
-- Use `investigations/` for validation research. Do not assume mainstream sources are complete or unaltered.
+- Use paradigm-threat-files for validation research. Do not assume mainstream sources are complete or unaltered.
 - If a cited source cannot be found: document the gap, add to `docs/OUTSTANDING_QUESTIONS.md`. Prefer "source may be redacted/lost" over "claimant made an error."
-- See `investigations/index.md` for the full topic index.
+- See paradigm-threat-files and its `REORGANIZATION_MAP.md` for the investigation path index.
 
 ## Scripts (run after edits)
 
@@ -152,9 +152,9 @@ Create a new blog entry whenever the user requests one, or when a significant ba
 
 3. **Highlight new content by topic.** Group changes into sections:
    - **New articles** — list each new content file with its chapter, title, and a 1–2 sentence summary
-   - **New investigations** — list each new investigation file/folder with a description and a **Browser mode deep link**:
+   - **New investigations** — list each new investigation file/folder with a description and a **root-relative link** to paradigm-threat-files:
      ```
-     [Investigation Title](https://paradigm-threat.net/timeline?view=browser&path=investigations/topic/filename.md)
+     [Investigation Title](/governance/war/investigations/filename.md)
      ```
    - **Structural changes** — hierarchy reorganizations, renumbering, chapter moves
    - **Export/tooling improvements** — PDF/DOCX changes, script updates
@@ -180,22 +180,23 @@ Create a new blog entry whenever the user requests one, or when a significant ba
 
 ### Linking to investigations and browser-viewable files
 
-Always use the **Browser mode deep link** format when referencing investigation files or any repo file that readers can view on the website:
+Investigations live in **paradigm-threat-files**. Use **root-relative URLs** (no absolute domain):
 ```
-[Title](https://paradigm-threat.net/timeline?view=browser&path=<relative-path>)
+[Title](/path/to/file.md)
 ```
 Examples:
-- `[Death on Mars Analysis](https://paradigm-threat.net/timeline?view=browser&path=investigations/mars/death-on-mars.md)`
-- `[De Grazia Book Summaries](https://paradigm-threat.net/timeline?view=browser&path=investigations/de-grazia/books/chaos-and-creation.md)`
+- `[Death on Mars Analysis](/cosmos/mars/investigations/death-on-mars.md)`
+- `[De Grazia Book Summaries](/cosmos/cosmology/de_grazia/books/chaos-and-creation.md)`
+- Timeline content: `/timeline?view=browser&path=content/...` or `/timeline/evt-...`
 
-This ensures links work on the live site regardless of how the repo is hosted.
+See paradigm-threat-files `REORGANIZATION_MAP.md` for the full path mapping.
 
 ## Key Paths
 
 - `data/events.json` — canonical event list and hierarchy
 - `data/timeline-schema.json` — schema
 - `content/` — article markdown files in chapter subfolders (`content/<chapter>/XX.YY.ZZ-slug.md`)
-- `investigations/` — validation research
+- paradigm-threat-files — validation research (investigations)
 - `docs/INVESTIGATIVE_STRATEGY.md` — evidence, consensus, burden of proof; investigate from scratch; predictive programming as data; **when unsure, ask for interpretation**
 - `docs/CONTENT_STRATEGY.md` — writing style, pacing, placement, contradictions, rescan schedule; **consult before content edits; never implement strategy changes without approval**
 - `docs/AGENT_INSTRUCTIONS.md` — detailed agent guide

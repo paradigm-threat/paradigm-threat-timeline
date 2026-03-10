@@ -50,7 +50,7 @@ Many things that humans widely believed **before the 19th century** were later o
 
 - **CONTENT_STRATEGY.md** — Writing style, placement, contradictions; investigations feed into timeline content.
 - **OUTSTANDING_QUESTIONS.md** — Contradictions and open questions; investigations that remain unresolved are logged here.
-- **investigations/maxwell-aether/01-burden-of-proof-debate.md** — Worked example of burden-of-proof reasoning (aether; old consensus vs. new science; secrecy).
+- **science/maxwell_aether/01-burden-of-proof-debate.md** (paradigm-threat-files) — Worked example of burden-of-proof reasoning (aether; old consensus vs. new science; secrecy).
 - **.cursor/rules & AGENT_INSTRUCTIONS** — AI and contributors should consult this strategy when adding or editing investigations and when evaluating sources.
 
 ---

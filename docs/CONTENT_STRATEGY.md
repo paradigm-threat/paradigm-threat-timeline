@@ -35,7 +35,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 - [ ] No unexplained first-person unless author thesis block
 - [ ] Claims attributed to source or marked as synthesis
 - [ ] Cross-references use standard format: `[Title](/timeline/evt-slug)`
-- [ ] Investigation links use Browser mode URL: `https://paradigm-threat.net/timeline?view=browser&path=...`
+- [ ] Investigation links use root-relative paradigm-threat-files paths (e.g. `/influence/...`, `/science/...`); timeline content uses `/timeline/evt-...` or `/timeline?view=browser&path=content/...`
 - [ ] Word count target: 300–800 per article (PRINT_GOALS §13)
 
 ---

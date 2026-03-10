@@ -65,25 +65,25 @@ Major appendix expansion with 30+ new extended-evidence articles:
 
 ### War Investigations (6 files)
 A complete set of war investigations examining Western conflicts through the timeline's framework:
-- [American Revolution Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/war/american-revolution-investigation.md) — Atlantic context, Pugachev connection, Bank of England debt
-- [British Civil War Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/war/british-civil-war-investigation.md) — Societized consolidation, the 1666 apocalyptic sequence
-- [French Revolution Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/war/french-revolution-investigation.md) — Revolution-before-empire pattern, four governance pillars
-- [US Civil War Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/war/us-civil-war-investigation.md) — British funding, slavery as instrument, DU weapon thesis
-- [Soviet Collapse Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/war/soviet-collapse-investigation.md) — Western orchestration, Michael Palin, NED
-- [Reverse Crusades Comparison](https://paradigm-threat.net/timeline?view=browser&path=investigations/war/reverse-crusades-comparison.md) — Four-war structural analysis, figurehead mechanics
+- [American Revolution Investigation](/governance/war/investigations/american-revolution-investigation.md) — Atlantic context, Pugachev connection, Bank of England debt
+- [British Civil War Investigation](/governance/war/investigations/british-civil-war-investigation.md) — Societized consolidation, the 1666 apocalyptic sequence
+- [French Revolution Investigation](/governance/war/investigations/french-revolution-investigation.md) — Revolution-before-empire pattern, four governance pillars
+- [US Civil War Investigation](/governance/war/investigations/us-civil-war-investigation.md) — British funding, slavery as instrument, DU weapon thesis
+- [Soviet Collapse Investigation](/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, Michael Palin, NED
+- [Reverse Crusades Comparison](/governance/war/investigations/reverse-crusades-comparison.md) — Four-war structural analysis, figurehead mechanics
 
 ### False Flags Investigations (4 files)
-- [False Flags Index](https://paradigm-threat.net/timeline?view=browser&path=investigations/false-flags/index.md)
-- [9/11 Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/false-flags/09-11-investigation.md)
-- [20th–21st Century Catalog](https://paradigm-threat.net/timeline?view=browser&path=investigations/false-flags/20th-21st-century-catalog.md)
-- [Iran 2026 Propaganda Thesis](https://paradigm-threat.net/timeline?view=browser&path=investigations/false-flags/iran-2026-propaganda-thesis.md)
+- [False Flags Index](/events/false_flag/investigations/index.md)
+- [9/11 Investigation](/events/false_flag/investigations/09-11-investigation.md)
+- [20th–21st Century Catalog](/events/false_flag/investigations/20th-21st-century-catalog.md)
+- [Iran 2026 Propaganda Thesis](/events/false_flag/investigations/iran-2026-propaganda-thesis.md)
 
 ### Other Investigations
-- [MudFlood / MFEE Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/mudflood/mfee-investigation.md) — Mud Flood Extinction Event research
-- [Tartarian Maps Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/mudflood/tartarian-maps-investigation.md) — Historical cartography showing Tartaria
-- [Orphan Trains Investigation](https://paradigm-threat.net/timeline?view=browser&path=investigations/orphan-trains/orphan-trains-investigation.md) — Population displacement as Horde-erasure tool
-- [Slave Trades & Moor Etymology](https://paradigm-threat.net/timeline?view=browser&path=investigations/slavery/slave-trades-and-moor-etymology-investigation.md)
-- [Creation Event Interpretations](https://paradigm-threat.net/timeline?view=browser&path=investigations/chronology/creation-event-interpretations.md) — Cross-cultural creation myths as plasma cosmology witnesses
+- [MudFlood / MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) — Mud Flood Extinction Event research
+- [Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md) — Historical cartography showing Tartaria
+- [Orphan Trains Investigation](/history/orphan_trains/orphan-trains-investigation.md) — Population displacement as Horde-erasure tool
+- [Slave Trades & Moor Etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md)
+- [Creation Event Interpretations](/history/chronology/investigations/creation-event-interpretations.md) — Cross-cultural creation myths as plasma cosmology witnesses
 
 ---
 
