@@ -106,7 +106,7 @@ When editing content, if a contradiction or unresolved question appears:
 
 | Topic | Rationale | Proposed Path |
 |-------|-----------|---------------|
-| **CERN and portal technology** | Maxwell article raises it; no systematic research | `investigations/cern-portal/` |
+| **CERN and portal technology** | Maxwell article raises it; no systematic research | paradigm-threat-files: `science/cern_portal/` |
 | **Heaviside reduction of Maxwell** | Critical to aether thesis; needs primary-source verification | Extend `investigations/maxwell-aether/` |
 | **Dayton Miller interferometry** | Maxwell article cites; "dismissed but never refuted" — verify | `investigations/maxwell-aether/03-dayton-miller.md` |
 | **Indigenous creation chronologies** | Rules mention; content lacks | `investigations/chronology/indigenous-creation-dates.md` |
