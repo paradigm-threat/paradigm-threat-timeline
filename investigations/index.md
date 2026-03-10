@@ -34,6 +34,7 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 - [H.P. Lovecraft](fiction-encoding/lovecraft/index-lovecraft.md)
 - [Arthur Machen](fiction-encoding/machen/index-machen.md)
 - [H.G. Wells (Moreau)](fiction-encoding/wells/index-island-of-dr-moreau.md) — Gland/blood vs. surgery; House of Pain = dissection; pineal/adrenochrome encoding; cross-read Thompson, Dracula
+- [Mary Shelley (Frankenstein)](fiction-encoding/shelley/shelley-frankenstein-true-story-investigation.md) — **Conclusion:** Original author indeterminate; Mary campaigned to claim it as her fiction; everything points to real story. Locations (Ingolstadt, Geneva), Aldini galvanism, internal documentary frame.
 - [T.H. White (Once and Future King)](fiction-encoding/white/index-once-and-future-king.md) — Arthur+Merlin = Jupiter (dual aspect); Merlin ~ Moses; beard = coma/Mountain of Heaven; Grail = Tree of Life/Yggdrasil; Once and Future King = Sun emergence; sulphur+mercury in Excalibur = managed disclosure
 - [Jules Verne](fiction-encoding/jules-verne/index-jules-verne.md)
 - [J.R.R. Tolkien](fiction-encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md) | [Source mapping](fiction-encoding/tolkien/RESEARCH-three-tasks-source-mapping.md)

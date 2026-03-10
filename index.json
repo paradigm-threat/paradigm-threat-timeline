@@ -42,7 +42,10 @@
     "2026-03-09-timeline-update.md": {
       "_title": "Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring"
     },
-    "_count": 10
+    "2026-03-10-timeline-update.md": {
+      "_title": "Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow"
+    },
+    "_count": 11
   },
   "content": {
     "00.overview": {
@@ -962,6 +965,9 @@
         },
         "_count": 1
       },
+      "compromised-court-cases-declared-reality-investigation.md": {
+        "_title": "Compromised Court Cases and Declared Reality \u2014 Investigation"
+      },
       "cslewis": {
         "index-cslewis.md": {
           "_title": "C. S. Lewis Collection \u2014 Index"
@@ -989,6 +995,15 @@
       "machen": {
         "index-machen.md": {
           "_title": "Arthur Machen \u2014 Downloaded Texts Index"
+        },
+        "_count": 1
+      },
+      "seabrook": {
+        "_count": 0
+      },
+      "shelley": {
+        "shelley-frankenstein-true-story-investigation.md": {
+          "_title": "Mary Shelley \u2014 Frankenstein as Potential True Story: Investigation"
         },
         "_count": 1
       },
@@ -1055,13 +1070,25 @@
         },
         "_count": 2
       },
+      "white": {
+        "index-once-and-future-king.md": {
+          "_title": "The Once and Future King (1958) \u2014 Index"
+        },
+        "white-excalibur-sulphur-mercury-investigation.md": {
+          "_title": "White vs Excalibur: Sulphur + Mercury \u2014 Book vs Movie, Managed Disclosure?"
+        },
+        "white-saturnian-round-table-investigation.md": {
+          "_title": "T.H. White, The Once and Future King: Saturnian Round Table Investigation"
+        },
+        "_count": 3
+      },
       "zombies": {
         "index-zombie-genre-investigation.md": {
           "_title": "Zombie Genre \u2014 Investigation"
         },
         "_count": 1
       },
-      "_count": 34
+      "_count": 39
     },
     "hairy-mary": {
       "index-hairy-mary-one-more-time.md": {
@@ -1311,7 +1338,7 @@
       },
       "_count": 1
     },
-    "_count": 134
+    "_count": 139
   },
   "media": {
     "00.overview": {
@@ -1877,5 +1904,5 @@
     },
     "_count": 1
   },
-  "_count": 549
+  "_count": 555
 }
