@@ -159,6 +159,10 @@ Record each reduction pass below. One row per editing session.
 > overflow to appendix (move content, don't cut) + file-count reduction (merges + appendix moves).
 > The appendix is still small and should receive more content.
 
+**Updated Mar 9, 2026:** Content reduction applied. **Main book: 156 articles, ~80K words** (was 167 / ~84K). Phases 1–2 completed: 11 files merged/deleted, 4 overflow sections created, methodology stubs condensed. See **[CONTENT_REDUCTION_RECOMMENDATIONS.md](CONTENT_REDUCTION_RECOMMENDATIONS.md)**.
+
+**Updated Mar 10, 2026:** Merges and overflow continued. **Main book: 145 articles, ~71.5K words**. Phase 2 overflow: 15.01.00 (censorship), 15.07.00 (antibodies) → stubs. Merges: Ch 02 (02.02, 02.03, 02.06, 02.08 → 02.00/02.05); Ch 03 (03.07→03.08, 03.03→03.02, 03.10→03.12); Ch 09 (09.01, 09.01.03→09.00, 09.02.00→09.02.01); Ch 10 (10.01→10.00); Ch 11 (11.02.05→11.02.00). events.json md_path updated for all merged events. Target: ≤140 articles, ≤70K words — **within range**.
+
 ---
 
 ## Next Phase: File-Count Reduction (Mar 6, 2026)

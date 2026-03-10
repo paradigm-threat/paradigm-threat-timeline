@@ -359,6 +359,7 @@ class PDFRenderer:
         self._current_part_xx = None   # XX string of current Part
         self._chapter_counter = 0      # increments continuously across all parts
         self._current_part_num = 0     # integer for Roman numeral
+        self._last_section_level = -1  # for TOC hierarchy (0=part, 1=chapter, 2=subsection)
 
     # ---------------------------------------------------------------
     #  Font bootstrap — prioritise fonts/ dir (EB Garamond, Libre
@@ -1273,6 +1274,7 @@ class PDFRenderer:
             # TOC entry (level 0)
             toc_label = f"Part {roman}:  {h1_title}"
             self.pdf.start_section(toc_label, level=0)
+            self._last_section_level = 0
 
             # Open a new page (no ensure_recto — avoids blank pages after TOC)
             self.pdf._chapter_opener = True
@@ -1351,13 +1353,41 @@ class PDFRenderer:
 
         else:
             # ── SUB-SECTION ───────────────────────────────────────
-            # No page break — continue on the current page
-            self._render_hr()
-            self._para_index = 0
+            # TOC hierarchy: cannot skip levels (e.g. level 2 after level 0).
+            # If last was part (0), promote this subsection to chapter (1).
+            toc_level = 2 if self._last_section_level >= 1 else 1
+            self._last_section_level = toc_level
 
-            # TOC entry (level 2)
-            toc_label = h1_title
-            self.pdf.start_section(toc_label, level=2)
+            if toc_level == 1:
+                # Promote to chapter-style: new page, chapter number
+                self._chapter_counter += 1
+                ch_num = self._chapter_counter
+                self.pdf._chapter_opener = True
+                self.pdf.add_page()
+                self._para_index = 0
+                self.pdf.chapter_title = h1_title
+                self._chapter_title = h1_title
+                toc_label = f"Chapter {ch_num}:  {h1_title}"
+                self.pdf.start_section(toc_label, level=1)
+                self.pdf.set_font(self.SANS, "B", 10)
+                self.pdf.set_text_color(*C_GOLD)
+                self.pdf.cell(0, 5, f"CHAPTER {ch_num}", new_x="LMARGIN", new_y="NEXT")
+                self.pdf.ln(2)
+                self.pdf.set_font(self.SANS, "B", 20)
+                self.pdf.set_text_color(*C_DARK)
+                self.pdf.multi_cell(0, 9, self._t(h1_title), new_x="LMARGIN", new_y="NEXT")
+                self.pdf.ln(2)
+                y = self.pdf.get_y()
+                self.pdf.set_draw_color(*C_GOLD)
+                self.pdf.set_line_width(0.7)
+                self.pdf.line(self.pdf.l_margin, y, self.pdf.w - self.pdf.r_margin, y)
+                self.pdf.ln(5)
+            else:
+                # Normal subsection: no page break
+                self._render_hr()
+                self._para_index = 0
+                toc_label = h1_title
+                self.pdf.start_section(toc_label, level=2)
 
             # Demote headings: H1 → H2, H2 → H3, etc.
             self._restore_body()
