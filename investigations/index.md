@@ -22,15 +22,22 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 - Books: [Burning of Troy](de-grazia/books/burning-of-troy.md) | [Chaos & Creation](de-grazia/books/chaos-and-creation.md) | [Cosmic Heretics](de-grazia/books/cosmic-heretics.md) | [Disastrous Love Affair](de-grazia/books/disastrous-love-affair.md) | [Divine Succession](de-grazia/books/divine-succession.md) | [Fire Not Blown](de-grazia/books/fire-not-blown.md) | [God's Fire](de-grazia/books/gods-fire.md) | [Homo Schizo I](de-grazia/books/homo-schizo-i.md) | [Homo Schizo II](de-grazia/books/homo-schizo-ii.md) | [Iron Age of Mars](de-grazia/books/iron-age-of-mars.md) | [Ka](de-grazia/books/ka.md) | [Lately Tortured Earth](de-grazia/books/lately-tortured-earth.md) | [Q Intro](de-grazia/books/q-intro.md) | [Recollections of a Fallen Sky](de-grazia/books/recollections-fallen-sky.md) | [Solaria Binaria](de-grazia/books/solaria-binaria.md) | [Velikovsky Affair](de-grazia/books/velikovsky-affair.md)
 
 ### Fiction Encoding (Authors Encoding Real History)
+- [Fiction presented as fact](fiction-encoding/fiction-presented-as-fact-investigation.md) — SF/fantasy authors (20th c. and before) who presented fiction as fact without disclaimer; Defoe, Swift, Poe, Stoker, Burroughs, Doyle, Lovecraft, Tolkien, Le Fanu, Machen, Polidori
 - [Isaac Asimov](asimov/index.md) — Biography, bibliography, themes for timeline study; Russian roots, Foundation/empire collapse, Robots/Multivac/predictive programming
+- [Bram Stoker](fiction-encoding/stoker/index-bram-stoker-investigation.md) — Fiction vs. fact framing, Eastern European sources (Wilkinson, Gerard, Johnson, Mazuchelli), Dracula lineage speech, family lines, downloadable works
+- [Dracula index](fiction-encoding/stoker/index-dracula.md) — Beast/blood transformation, youth renewal, Renfield life-eating; adrenochrome-style motifs; cross-read Moreau, Thompson
+- [Zombie genre](fiction-encoding/zombies/index-zombie-genre-investigation.md) — Pre-20th c. roots (Ishtar, ghouls, revenants, Frankenstein), author framing (fiction vs. fact), Stoker-like documentary presentation
 - [Algernon Blackwood](fiction-encoding/blackwood/index-blackwood.md)
 - [Orson Scott Card](fiction-encoding/card/index-card.md)
 - [C.S. Lewis](fiction-encoding/cslewis/index-cslewis.md) | [Narnia planetary encoding](fiction-encoding/cslewis/investigation-narnia-planetary-encoding.md)
 - [H.P. Lovecraft](fiction-encoding/lovecraft/index-lovecraft.md)
 - [Arthur Machen](fiction-encoding/machen/index-machen.md)
-- [H.G. Wells](fiction-encoding/wells/index-wells.md)
+- [H.G. Wells (Moreau)](fiction-encoding/wells/index-island-of-dr-moreau.md) — Gland/blood vs. surgery; House of Pain = dissection; pineal/adrenochrome encoding; cross-read Thompson, Dracula
+- [T.H. White (Once and Future King)](fiction-encoding/white/index-once-and-future-king.md) — Arthur+Merlin = Jupiter (dual aspect); Merlin ~ Moses; beard = coma/Mountain of Heaven; Grail = Tree of Life/Yggdrasil; Once and Future King = Sun emergence; sulphur+mercury in Excalibur = managed disclosure
 - [Jules Verne](fiction-encoding/jules-verne/index-jules-verne.md)
 - [J.R.R. Tolkien](fiction-encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md) | [Source mapping](fiction-encoding/tolkien/RESEARCH-three-tasks-source-mapping.md)
+- [Hunter S. Thompson](fiction-encoding/thompson/thompson-managed-disclosure-investigation.md) — Fear and Loathing bar scene (Satan-worshippers, pineal gland, human sacrifice); managed disclosure thesis; he may not have been joking
+- Thompson indexes: [main](fiction-encoding/thompson/index-thompson-main.md) | [Fear and Loathing](fiction-encoding/thompson/index-fear-and-loathing.md) | [Fear and Loathing in America](fiction-encoding/thompson/index-fear-and-loathing-in-america.md) | [Hells Angels](fiction-encoding/thompson/index-hells-angels.md) | [Great Shark Hunt](fiction-encoding/thompson/index-great-shark-hunt.md) | [Playboy interview](fiction-encoding/thompson/index-playboy-interview.md) | [Curse of Lono](fiction-encoding/thompson/index-curse-of-lono.md) | [Kitchen readings](fiction-encoding/thompson/index-kitchen-readings.md)
 
 ### Hairy Mary (Wild Woman / Mary Magdalene)
 - [Original investigation](hairy-mary/index-hairy-mary-original.md) | [One more time](hairy-mary/index-hairy-mary-one-more-time.md)
@@ -39,7 +46,9 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 
 ### Kinkel Family
 - [Gottfried Kinkel](kinkel/gottfried-kinkel.md) | [Johanna Kinkel](kinkel/johanna-kinkel.md) | [Dickens connection](kinkel/dickens.md)
+- [De Jonge Gottfried Kinkel index](kinkel/index-de-jonge-gottfried-kinkel.md)
 - [Ivan Kinkel / Nenovsky analysis](kinkel/nenovsky_Kinkel_EJHET_2015.md)
+- [Ivan Kinkel Psychologische Grundlagen 1922 index](kinkel/index-psychologische-grundlagen-1922.md) | [Ivan Kinkel sources index](kinkel/index-ivan-kinkel-sources.md)
 
 ### Mars
 - [Death on Mars](mars/death-on-mars.md)

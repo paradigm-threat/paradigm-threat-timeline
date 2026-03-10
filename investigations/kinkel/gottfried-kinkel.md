@@ -132,8 +132,19 @@ The `ivan-kinkel/` directory in this archive contains research on **Ivan Germano
 
 ---
 
+## Downloaded Materials
+
+| File | Source |
+|------|--------|
+| `Gottfried-Kinkel-Political-Social-Thinker-DeJonge.pdf` | Anna's Archive (De Jonge, AMS Press 1966) |
+
+See [index-de-jonge-gottfried-kinkel.md](index-de-jonge-gottfried-kinkel.md) for index.
+
+---
+
 ## Sources
 
+- Alfred R. De Jonge, *Gottfried Kinkel as Political and Social Thinker* (AMS Press, 1966)
 - [Gottfried Kinkel — Wikipedia](https://en.wikipedia.org/wiki/Gottfried_Kinkel)
 - [Johanna Kinkel — Wikipedia](https://en.wikipedia.org/wiki/Johanna_Kinkel)
 - [Carl Schurz — Wikipedia](https://en.wikipedia.org/wiki/Carl_Schurz)

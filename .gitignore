@@ -6,3 +6,9 @@ __pycache__/
 .env.local
 .DS_Store
 *.log
+
+# Copyrighted material (full texts live in ~/dev/wget/)
+investigations/**/*.pdf
+investigations/**/*.epub
+investigations/**/*.mobi
+investigations/**/*.azw3
