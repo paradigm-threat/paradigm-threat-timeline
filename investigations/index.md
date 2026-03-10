@@ -23,6 +23,7 @@ Ongoing research to validate, correct, or deepen claims referenced in the paradi
 
 ### Fiction Encoding (Authors Encoding Real History)
 - [Fiction presented as fact](fiction-encoding/fiction-presented-as-fact-investigation.md) — SF/fantasy authors (20th c. and before) who presented fiction as fact without disclaimer; Defoe, Swift, Poe, Stoker, Burroughs, Doyle, Lovecraft, Tolkien, Le Fanu, Machen, Polidori
+- [Compromised court cases & declared reality](fiction-encoding/compromised-court-cases-declared-reality-investigation.md) — Court outcomes as steering mechanism: declaring histories fiction, discrediting sources, winning as path of least resistance; Deeks v Wells, Doyle's Lost World foreword; mass-publishing victor's version
 - [Isaac Asimov](asimov/index.md) — Biography, bibliography, themes for timeline study; Russian roots, Foundation/empire collapse, Robots/Multivac/predictive programming
 - [Bram Stoker](fiction-encoding/stoker/index-bram-stoker-investigation.md) — Fiction vs. fact framing, Eastern European sources (Wilkinson, Gerard, Johnson, Mazuchelli), Dracula lineage speech, family lines, downloadable works
 - [Dracula index](fiction-encoding/stoker/index-dracula.md) — Beast/blood transformation, youth renewal, Renfield life-eating; adrenochrome-style motifs; cross-read Moreau, Thompson

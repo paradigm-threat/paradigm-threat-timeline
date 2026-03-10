@@ -76,6 +76,7 @@
 
 ## Cross-References
 
+- [Compromised court cases & declared reality](compromised-court-cases-declared-reality-investigation.md) — Court outcomes as steering mechanism; reclassifying as "fiction" = control; Deeks v Wells, Doyle foreword
 - [Fiction-as-fact download index](/home/ari/dev/wget/fiction-as-fact/index-fiction-as-fact.md) — Downloaded full texts (PG + Anna's Archive links)
 - [Bram Stoker investigation](stoker/index-bram-stoker-investigation.md) | [Dracula index](stoker/index-dracula.md) — Book as fact, realistic physics, reasons to disbelieve
 - [Zombie genre investigation](zombies/index-zombie-genre-investigation.md)
