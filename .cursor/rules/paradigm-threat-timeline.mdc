@@ -67,6 +67,10 @@ npm run validate-events    # Schema + title/header match
 npm run generate-index     # Pre-commit
 ```
 
+## Blog Entries
+
+- `blog/*.md`: Use **absolute URLs** for all links — `https://paradigmthreat.net/path` — so entries work when viewed in GitHub, RSS, or any context. Do not use relative paths like `/influence/...`.
+
 ## File Conventions
 
 - Event markdown: `events/{bce|ce}-{year}-{slug}.md`

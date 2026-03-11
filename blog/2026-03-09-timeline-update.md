@@ -42,7 +42,7 @@ Six new articles covering Western wars through the timeline's lens — short, th
 - **08.03.01 — Geopolymer Concrete: The Horde's Secret** — Joseph Davidovits' geopolymer thesis; limestone concrete rather than quarried blocks; the Horde's construction technology
 - **16.12.02 — Fomenko and the Pyramid Question** (Appendix) — Fomenko's critique of conventional pyramid dating
 
-![Pyramids Around the World](/media/03.the-dark-ages/pyramids_around_the_world.png)
+![Pyramids Around the World](https://paradigmthreat.net/media/03.the-dark-ages/pyramids_around_the_world.png)
 
 ### Population Control (Ch 15, Appendix)
 
@@ -65,25 +65,25 @@ Major appendix expansion with 30+ new extended-evidence articles:
 
 ### War Investigations (6 files)
 A complete set of war investigations examining Western conflicts through the timeline's framework:
-- [American Revolution Investigation](/governance/war/investigations/american-revolution-investigation.md) — Atlantic context, Pugachev connection, Bank of England debt
-- [British Civil War Investigation](/governance/war/investigations/british-civil-war-investigation.md) — Societized consolidation, the 1666 apocalyptic sequence
-- [French Revolution Investigation](/governance/war/investigations/french-revolution-investigation.md) — Revolution-before-empire pattern, four governance pillars
-- [US Civil War Investigation](/governance/war/investigations/us-civil-war-investigation.md) — British funding, slavery as instrument, DU weapon thesis
-- [Soviet Collapse Investigation](/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, Michael Palin, NED
-- [Reverse Crusades Comparison](/governance/war/investigations/reverse-crusades-comparison.md) — Four-war structural analysis, figurehead mechanics
+- [American Revolution Investigation](https://paradigmthreat.net/governance/war/investigations/american-revolution-investigation.md) — Atlantic context, Pugachev connection, Bank of England debt
+- [British Civil War Investigation](https://paradigmthreat.net/governance/war/investigations/british-civil-war-investigation.md) — Societized consolidation, the 1666 apocalyptic sequence
+- [French Revolution Investigation](https://paradigmthreat.net/governance/war/investigations/french-revolution-investigation.md) — Revolution-before-empire pattern, four governance pillars
+- [US Civil War Investigation](https://paradigmthreat.net/governance/war/investigations/us-civil-war-investigation.md) — British funding, slavery as instrument, DU weapon thesis
+- [Soviet Collapse Investigation](https://paradigmthreat.net/governance/war/investigations/soviet-collapse-investigation.md) — Western orchestration, Michael Palin, NED
+- [Reverse Crusades Comparison](https://paradigmthreat.net/governance/war/investigations/reverse-crusades-comparison.md) — Four-war structural analysis, figurehead mechanics
 
 ### False Flags Investigations (4 files)
-- [False Flags Index](/events/false_flag/investigations/index.md)
-- [9/11 Investigation](/events/false_flag/investigations/09-11-investigation.md)
-- [20th–21st Century Catalog](/events/false_flag/investigations/20th-21st-century-catalog.md)
-- [Iran 2026 Propaganda Thesis](/events/false_flag/investigations/iran-2026-propaganda-thesis.md)
+- [False Flags Index](https://paradigmthreat.net/events/false_flag/investigations/index.md)
+- [9/11 Investigation](https://paradigmthreat.net/events/false_flag/investigations/09-11-investigation.md)
+- [20th–21st Century Catalog](https://paradigmthreat.net/events/false_flag/investigations/20th-21st-century-catalog.md)
+- [Iran 2026 Propaganda Thesis](https://paradigmthreat.net/events/false_flag/investigations/iran-2026-propaganda-thesis.md)
 
 ### Other Investigations
-- [MudFlood / MFEE Investigation](/history/mudflood/investigations/mfee-investigation.md) — Mud Flood Extinction Event research
-- [Tartarian Maps Investigation](/history/mudflood/investigations/tartarian-maps-investigation.md) — Historical cartography showing Tartaria
-- [Orphan Trains Investigation](/history/orphan_trains/orphan-trains-investigation.md) — Population displacement as Horde-erasure tool
-- [Slave Trades & Moor Etymology](/governance/slavery/slave-trades-and-moor-etymology-investigation.md)
-- [Creation Event Interpretations](/history/chronology/investigations/creation-event-interpretations.md) — Cross-cultural creation myths as plasma cosmology witnesses
+- [MudFlood / MFEE Investigation](https://paradigmthreat.net/history/mudflood/investigations/mfee-investigation.md) — Mud Flood Extinction Event research
+- [Tartarian Maps Investigation](https://paradigmthreat.net/history/mudflood/investigations/tartarian-maps-investigation.md) — Historical cartography showing Tartaria
+- [Orphan Trains Investigation](https://paradigmthreat.net/history/orphan_trains/orphan-trains-investigation.md) — Population displacement as Horde-erasure tool
+- [Slave Trades & Moor Etymology](https://paradigmthreat.net/governance/slavery/slave-trades-and-moor-etymology-investigation.md)
+- [Creation Event Interpretations](https://paradigmthreat.net/history/chronology/investigations/creation-event-interpretations.md) — Cross-cultural creation myths as plasma cosmology witnesses
 
 ---
 
@@ -116,7 +116,7 @@ A complete set of war investigations examining Western conflicts through the tim
 - **ANIMATION_TRACKER.md** — Multi-view camera system spec added
 - **CONTENT_REDUCTION_TRACKER.md** — Full Tier 1–4 appendix-move plan
 
-![Trump](/media/15.ce-21st-the-final-struggle/trump.png)
+![Trump](https://paradigmthreat.net/media/15.ce-21st-the-final-struggle/trump.png)
 
 ---
 
