@@ -69,7 +69,8 @@ npm run generate-index     # Pre-commit
 
 ## Blog Entries
 
-- `blog/*.md`: Use **absolute URLs** for all links — `https://paradigmthreat.net/path` — so entries work when viewed in GitHub, RSS, or any context. Do not use relative paths like `/influence/...`.
+- Blog lives in **paradigm-threat-files** (`blog/`), not this repo. Add entries there. See `docs/BLOG.md` in paradigm-threat-files.
+- All links and images in blog files must use **fully absolute URLs** — `https://paradigmthreat.net/path`.
 
 ## File Conventions
 
