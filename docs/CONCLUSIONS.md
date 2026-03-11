@@ -36,4 +36,15 @@ Speculations and conclusions ascertained from the Alternate Earth History Timeli
 - **Giants defeated at Kulikovo (1380)**: The Battle of Kulikovo saw giants of the Horde defeated by cannon technology. "Royal" Christianity gave way to Apostolic Christianity (Canonization).
 - **Smithsonian cover-up**: Giant skeletons were systematically destroyed or recategorized as "dinosaur" fossils. Native Americans were reframed as primitive to justify colonialism.
 
+## Microchips and Suppressed Technology (Major Finding)
+
+- **Nobody knows how chips are made.** Mainstream sources acknowledge that nations cannot replicate advanced semiconductor capability: the U.S. spends $12B to move TSMC to Arizona yet the fab produces chips a generation behind Taiwan ("you cannot move the learning curves"); China spent $150B attempting to replicate EUV lithography and domestic alternatives to ASML "do not exist"; the EU's $50B goes to older-generation production. The U.S. DoD is "critically dependent" on foreign chip supply and "may be unable to do without" offshore chips.
+- **Deliberate worldwide system of control.** IP regimes, export restrictions, geopolitical concentration in vassal states (Taiwan, historically Japan/Korea). See [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/investigations/microchips-shrinking-technology-investigation).
+
+## Artificial Intelligence and Deliberate Bad Software
+
+- **AI was never meant as a tool for everyone.** Designed to subsume software/hardware, take controls away from humans, position a "self-aware" entity—the deep state's hijacking—as the only thing capable of operating deliberately broken systems.
+- **Deliberate bad software:** Microsoft and Apple made software difficult for handicapped and elderly, full of DLL hell and back doors—not accident, not negligence. Done on purpose, anticipating the AI revolution.
+- **Spaceballs rule:** "Even in the future nothing works" — human technology unreliable, robots extra reliable. Voice-command dependency → ultimate remote control. The "ghost in the machine" = deep-state takeover. See [ai-control-investigation](https://paradigmthreat.net/science/ai/investigations/ai-control-investigation).
+
 *(Further conclusions to be added as the timeline is correlated and sources synthesised.)*
