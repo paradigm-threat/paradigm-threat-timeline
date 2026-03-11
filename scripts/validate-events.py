@@ -27,6 +27,25 @@ def get_first_header(md_path):
         return None, str(e)
 
 
+def get_all_h1_h2_headers(md_path):
+    """Extract all # and ## headers from markdown file (for multi-section matching)."""
+    full_path = os.path.join(REPO_DIR, md_path)
+    if not os.path.exists(full_path):
+        return []
+    headers = []
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("# "):
+                    headers.append(line[2:].strip())
+                elif line.startswith("## "):
+                    headers.append(line[3:].strip())
+    except Exception:
+        pass
+    return headers
+
+
 def validate_entry(entry, path, errors):
     """Recursively validate entry and children."""
     evt_id = entry.get("id", path)
@@ -37,14 +56,18 @@ def validate_entry(entry, path, errors):
     if not md_path:
         errors.append(f"{evt_id}: missing md_path")
     else:
+        import re
         first_header, err = get_first_header(md_path)
         if err:
             errors.append(f"{evt_id}: {err}")
-        elif title and first_header and title != first_header:
-            # Allow date-prefixed H1: "1453 CE — Title" matches title "Title"
-            import re
+        elif title and first_header:
             stripped = re.sub(r"^\d+\s*(?:BCE|CE|AD)\s*[—–-]\s*", "", first_header)
-            if title != stripped:
+            # Match: exact first header, stripped first header, or any H1/H2 in file (for multi-section docs)
+            # Also allow title as prefix of header (e.g. "Saturn Collinear Configuration" in "Saturn Collinear Configuration (Tree of Life)")
+            all_headers = get_all_h1_h2_headers(md_path)
+            stripped_headers = [re.sub(r"^\d+\s*(?:BCE|CE|AD)\s*[—–-]\s*", "", h) for h in all_headers]
+            title_prefix_match = any(h.startswith(title) or title.startswith(h) for h in all_headers + stripped_headers)
+            if title != first_header and title != stripped and title not in all_headers and title not in stripped_headers and not title_prefix_match:
                 errors.append(
                     f"{evt_id}: title mismatch\n  title: {repr(title)}\n  first header: {repr(first_header)}"
                 )

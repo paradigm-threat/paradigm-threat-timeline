@@ -245,7 +245,7 @@
         },
         {
           "id": "evt-priori-mars-as-the-ladder-stairway-mountain-of-hea",
-          "title": "Priori-Mars as the Ladder / Stairway / Mountain of Heaven",
+          "title": "Priori-Mars: The Cosmic Mountain / Ladder to Heaven",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.00.00-4077-bce-the-golden-age.md",
           "children": [],
@@ -2380,7 +2380,7 @@
         },
         {
           "id": "evt-american-chestnut-blight",
-          "title": "1904–1950 CE — American Chestnut Blight: Martian Origin Theory",
+          "title": "1904–1950 CE — American Chestnut Blight: Martian Incursion Contamination",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.06.00-american-chestnut-blight-martian.md",
           "children": [],
@@ -3493,6 +3493,30 @@
             "evt-the-final-struggle",
             "evt-soviet-collapse"
           ]
+        },
+        {
+          "id": "evt-21st-century-geopolitics-extended",
+          "title": "21st Century Geopolitics: Europe's War and America's Escalation Machine",
+          "type": "article",
+          "md_path": "content/16.appendix/16.25.00-21st-century-geopolitics-extended.md",
+          "children": [],
+          "related_events": ["evt-the-final-struggle"]
+        },
+        {
+          "id": "evt-world-war-ii-aftermath-extended",
+          "title": "World War II Aftermath: Extended Evidence",
+          "type": "article",
+          "md_path": "content/16.appendix/16.26.00-world-war-ii-aftermath-extended.md",
+          "children": [],
+          "related_events": ["evt-world-war-ii-reverse-crusade-iii"]
+        },
+        {
+          "id": "evt-trump-case-study-extended",
+          "title": "Trump and the MAGA Revolution: Extended Evidence",
+          "type": "article",
+          "md_path": "content/16.appendix/16.27.00-trump-case-study-extended.md",
+          "children": [],
+          "related_events": ["evt-trump-maga-revolution"]
         }
       ]
     },
