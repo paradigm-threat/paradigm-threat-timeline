@@ -11,45 +11,6 @@
     },
     "_count": 0
   },
-  "blog": {
-    "2026-02-22-new-timeline-project.md": {
-      "_title": "A Dedicated Timeline for Earth's Hidden History"
-    },
-    "2026-02-24-timeline-update.md": {
-      "_title": "Timeline Update: Atlantis Investigation, Joan of Arc, and the Absu"
-    },
-    "2026-02-25-timeline-update.md": {
-      "_title": "Timeline Update: New Articles, Restructure, and a Media Audit"
-    },
-    "2026-02-26-timeline-update.md": {
-      "_title": "Timeline Update: Author Profiles, Third Story, Core Concepts, and Major Restructure"
-    },
-    "2026-02-27-timeline-update.md": {
-      "_title": "Timeline Update: Chapter Consolidation, New Articles, Print-Ready PDF, and Chronological Corrections"
-    },
-    "2026-02-28-timeline-update.md": {
-      "_title": "Timeline Update: New Chapters 13\u201315, Ch11 Reorganization, 3-Tier Export Hierarchy, and Animation Module"
-    },
-    "2026-03-01-timeline-update.md": {
-      "_title": "Timeline Update: Massive Condensation, Mars Catastrophe, Operation Mockingbird, and PDF Shrinks to 420 Pages"
-    },
-    "2026-03-03-timeline-update.md": {
-      "_title": "Timeline Update: Investigations Library, Maxwell & the Aether, Nuclear Myths, Browser Mode, and 13 New Articles"
-    },
-    "2026-03-05-timeline-update.md": {
-      "_title": "Timeline Update: Flexner Report, Weather Control, CERN, Mars Literature, Asimov, and 38 New Investigations"
-    },
-    "2026-03-09-timeline-update.md": {
-      "_title": "Timeline Update: Six Wars, World Wars, Trump, Pyramids, Seven Days, Population Control, and Major Restructuring"
-    },
-    "2026-03-10-timeline-update.md": {
-      "_title": "Timeline Update: Content Reduction, Fiction-Encoding Investigations, Arthurian Cosmology, and New Appendix Overflow"
-    },
-    "2026-03-11-timeline-update.md": {
-      "_title": "Timeline Update: Stolen Credit Suite, Yakuza Investigation, Site SSR, and TTS Improvements"
-    },
-    "_count": 12
-  },
   "content": {
     "00.overview": {
       "00.00.00-introduction.md": {
@@ -1367,5 +1328,5 @@
     },
     "_count": 1
   },
-  "_count": 418
+  "_count": 406
 }

@@ -130,57 +130,13 @@ When generating or replacing illustrations for timeline articles:
 
 ## Blog Entries
 
-Blog posts live in `blog/` and follow the naming convention `YYYY-MM-DD-slug.md`. They serve as changelogs and highlights for the project.
+**Blog posts live in paradigm-threat-files** (`paradigm-threat-files/blog/`), not in this repo. Add new blog entries there. See paradigm-threat-files `docs/BLOG.md` for conventions.
 
-### When to create a new blog entry
-
-Create a new blog entry whenever the user requests one, or when a significant batch of work has been completed.
-
-### How to create a blog entry
-
-1. **Gather changes since the last entry.** Run:
-   ```bash
-   git log --oneline --since="<date-of-last-blog-entry>" --no-decorate
-   ```
-   Use the date from the most recent file in `blog/` (e.g. `2026-03-01` for `2026-03-01-timeline-update.md`).
-
-2. **Read the diff for new files.** For each commit, check what was added/changed:
-   ```bash
-   git diff --stat <oldest-commit>^..HEAD
-   ```
-   Pay special attention to **new files** — these deserve headline coverage.
-
-3. **Highlight new content by topic.** Group changes into sections:
-   - **New articles** — list each new content file with its chapter, title, and a 1–2 sentence summary
-   - **New investigations** — list each new investigation file/folder with a description and a **root-relative link** to paradigm-threat-files:
-     ```
-     [Investigation Title](/governance/war/investigations/filename.md)
-     ```
-   - **Structural changes** — hierarchy reorganizations, renumbering, chapter moves
-   - **Export/tooling improvements** — PDF/DOCX changes, script updates
-   - **Bug fixes** — notable fixes
-
-4. **Include a Stats table** at the end comparing previous vs current metrics:
-   - Version, entry count, word count, PDF pages, PDF size, content file count, image count
-   - Get current stats from `npm run validate-events`, `npm run audit-missing`, and `wc -w content/**/*.md`.
-
-5. **Use the same format** as existing blog entries (see `blog/` for examples): H1 title, date line, horizontal rules between sections, bold key terms.
-
-6. **Include images.** Pick 1–3 choice images from `media/` that relate to the new content and embed them using **root-relative URLs**:
-   ```markdown
-   ![Alt text](/media/chapter-folder/image-name.png)
-   ```
-   Choose images that are visually striking and represent the key topics of the update.
-
-7. **After creating the blog entry**, run:
-   ```bash
-   npm run generate-index
-   ```
-   to include the new blog file in `index.json`.
+**URLs in blog files:** Use **fully absolute URLs** — `https://paradigmthreat.net/path` — for all links and images. Do not use relative paths.
 
 ### Linking to investigations and browser-viewable files
 
-**Blog entries (`blog/*.md`):** Use **absolute URLs** — `https://paradigmthreat.net/path` — so links work when viewed in GitHub, RSS, or any context. Do not use relative paths like `/influence/...`.
+**Blog entries (`paradigm-threat-files/blog/*.md`):** Use **absolute URLs** — `https://paradigmthreat.net/path` — so links work when viewed in GitHub, RSS, or any context. Do not use relative paths like `/influence/...`.
 
 **Timeline content (investigations, etc.):** Investigations live in **paradigm-threat-files**. Use **root-relative URLs** (no absolute domain):
 ```
