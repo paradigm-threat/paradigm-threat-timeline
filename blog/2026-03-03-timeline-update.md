@@ -26,45 +26,45 @@ This is especially useful for linking to **investigation files**, which are not 
 The project's living knowledge base has been reorganized into a proper directory structure with **13 topic folders** and **63 markdown files**. Previously scattered or external, these are now all browsable via the new Browser mode.
 
 ### Saturnian Cosmology & Plasma Research
-- [Saturnian Cosmology Index](/cosmos/cosmology/saturnian/index-saturniancosmology.md) — Master index of the Saturnian cosmology source archive
-- [Thunderbolts Project Index](/cosmos/cosmology/saturnian/index-thunderbolts.md) — Electric Universe and plasma cosmology resources
-- [SAFIRE Project Index](/cosmos/cosmology/saturnian/index-safireproject.md) — Laboratory plasma sun experiments
-- [Myths Are History Index](/cosmos/cosmology/saturnian/index-mythsarehistory.md) — Comparative mythology as historical record
+- [Saturnian Cosmology Index](https://paradigmthreat.net/cosmos/cosmology/saturnian/index-saturniancosmology.md) — Master index of the Saturnian cosmology source archive
+- [Thunderbolts Project Index](https://paradigmthreat.net/cosmos/cosmology/saturnian/index-thunderbolts.md) — Electric Universe and plasma cosmology resources
+- [SAFIRE Project Index](https://paradigmthreat.net/cosmos/cosmology/saturnian/index-safireproject.md) — Laboratory plasma sun experiments
+- [Myths Are History Index](https://paradigmthreat.net/cosmos/cosmology/saturnian/index-mythsarehistory.md) — Comparative mythology as historical record
 
 ### Mars Research
-- [War of the Worlds — Complete Investigation](/cosmos/mars/investigations/wotw.md) — Full H.G. Wells analysis as encoded Mars catastrophe
-- [Mars Catastrophe & MFEE](/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) — Brandenburg's Mars-catastrophe-to-Earth pipeline
-- [Martian Civilization Analysis](/cosmos/mars/investigations/wotw-martian-civilization.md) — Physical evidence for prior Mars civilization
-- [Death on Mars Book Analysis](/cosmos/mars/investigations/death-on-mars.md) — Full analysis of Brandenburg's nuclear evidence
+- [War of the Worlds — Complete Investigation](https://paradigmthreat.net/cosmos/mars/investigations/wotw.md) — Full H.G. Wells analysis as encoded Mars catastrophe
+- [Mars Catastrophe & MFEE](https://paradigmthreat.net/cosmos/mars/investigations/wotw-mfee-mars-catastrophe.md) — Brandenburg's Mars-catastrophe-to-Earth pipeline
+- [Martian Civilization Analysis](https://paradigmthreat.net/cosmos/mars/investigations/wotw-martian-civilization.md) — Physical evidence for prior Mars civilization
+- [Death on Mars Book Analysis](https://paradigmthreat.net/cosmos/mars/investigations/death-on-mars.md) — Full analysis of Brandenburg's nuclear evidence
 
 ### Alfred de Grazia Library (16 books)
-- [De Grazia Overview](/cosmos/cosmology/de_grazia/README.md) — Introduction to the complete Quantavolution series
-- [Chaos and Creation](/cosmos/cosmology/de_grazia/books/chaos-and-creation.md), [Solaria Binaria](/cosmos/cosmology/de_grazia/books/solaria-binaria.md), [The Lately Tortured Earth](/cosmos/cosmology/de_grazia/books/lately-tortured-earth.md), [Iron Age of Mars](/cosmos/cosmology/de_grazia/books/iron-age-of-mars.md), and 12 more
+- [De Grazia Overview](https://paradigmthreat.net/cosmos/cosmology/de_grazia/README.md) — Introduction to the complete Quantavolution series
+- [Chaos and Creation](https://paradigmthreat.net/cosmos/cosmology/de_grazia/books/chaos-and-creation.md), [Solaria Binaria](https://paradigmthreat.net/cosmos/cosmology/de_grazia/books/solaria-binaria.md), [The Lately Tortured Earth](https://paradigmthreat.net/cosmos/cosmology/de_grazia/books/lately-tortured-earth.md), [Iron Age of Mars](https://paradigmthreat.net/cosmos/cosmology/de_grazia/books/iron-age-of-mars.md), and 12 more
 
 ### Fiction Encoding Investigations
-- [Tolkien as Redacted Fact](/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md) — The Lord of the Rings as encoded Hordian collapse
-- [C.S. Lewis Planetary Encoding](/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md) — Narnia and the Space Trilogy as Saturnian cosmology
-- [Jules Verne Index](/influence/predictive_programming/fiction_encoding/jules-verne/index-jules-verne.md) — Verne's novels as declassified technology manuals
-- [H.P. Lovecraft Index](/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md) — Cosmic horror as suppressed cosmological memory
-- [H.G. Wells Index](/influence/predictive_programming/fiction_encoding/wells/index-wells.md) — Wells as intelligence-adjacent chronicler
+- [Tolkien as Redacted Fact](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/tolkien/INVESTIGATION-tolkien-redacted-fact.md) — The Lord of the Rings as encoded Hordian collapse
+- [C.S. Lewis Planetary Encoding](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/cslewis/investigation-narnia-planetary-encoding.md) — Narnia and the Space Trilogy as Saturnian cosmology
+- [Jules Verne Index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/jules-verne/index-jules-verne.md) — Verne's novels as declassified technology manuals
+- [H.P. Lovecraft Index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/lovecraft/index-lovecraft.md) — Cosmic horror as suppressed cosmological memory
+- [H.G. Wells Index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/wells/index-wells.md) — Wells as intelligence-adjacent chronicler
 
 ### Maxwell & the Aether
-- [Burden of Proof Debate](/science/maxwell_aether/01-burden-of-proof-debate.md) — Who bears the burden in the aether question?
-- [Did Maxwell Prove the Aether?](/science/maxwell_aether/02-did-maxwell-prove-the-aether.md) — Analysis of the original equations vs. Heaviside's truncation
+- [Burden of Proof Debate](https://paradigmthreat.net/science/maxwell_aether/01-burden-of-proof-debate.md) — Who bears the burden in the aether question?
+- [Did Maxwell Prove the Aether?](https://paradigmthreat.net/science/maxwell_aether/02-did-maxwell-prove-the-aether.md) — Analysis of the original equations vs. Heaviside's truncation
 
 ### Nuclear Weapons & Energy
-- [Nukes Don't Exist Investigation](/science/nukes/investigations/nukes-dont-exist-investigation.md) — The case against nuclear detonation
-- [Nuclear Waste Is Safe Investigation](/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — Radiation hormesis and the waste mythology
+- [Nukes Don't Exist Investigation](https://paradigmthreat.net/science/nukes/investigations/nukes-dont-exist-investigation.md) — The case against nuclear detonation
+- [Nuclear Waste Is Safe Investigation](https://paradigmthreat.net/science/nukes/investigations/nuke-waste-is-safe-investigation.md) — Radiation hormesis and the waste mythology
 
 ### Chronology
-- [Chronologia.org Index](/history/chronology/investigations/index-chronologia.md) — Fomenko's New Chronology source archive
-- [Offenbarung Index](/history/chronology/investigations/index-offenbarung.md) — German chronology-critical sources
+- [Chronologia.org Index](https://paradigmthreat.net/history/chronology/investigations/index-chronologia.md) — Fomenko's New Chronology source archive
+- [Offenbarung Index](https://paradigmthreat.net/history/chronology/investigations/index-offenbarung.md) — German chronology-critical sources
 
 ### Other Topics
-- [Kinkel Family Research](/history/kinkel/gottfried-kinkel.md) — Gottfried & Johanna Kinkel, the 1848 revolution, and Dickens connections
-- [Hairy Mary / Wild Woman](/influence/religion/hairy_mary/index-hairy-mary-original.md) — Mary Magdalene iconography and the wild woman archetype
-- [Soviet Probiotic Research](/science/health/probiotics_chernobyl/soviet-probiotic-research-the-real-story.md) — The real story of Soviet fermented food research
-- [Remote Viewing & Fiction](/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) — The encoding of remote viewing programs in fiction
+- [Kinkel Family Research](https://paradigmthreat.net/history/kinkel/gottfried-kinkel.md) — Gottfried & Johanna Kinkel, the 1848 revolution, and Dickens connections
+- [Hairy Mary / Wild Woman](https://paradigmthreat.net/influence/religion/hairy_mary/index-hairy-mary-original.md) — Mary Magdalene iconography and the wild woman archetype
+- [Soviet Probiotic Research](https://paradigmthreat.net/science/health/probiotics_chernobyl/soviet-probiotic-research-the-real-story.md) — The real story of Soviet fermented food research
+- [Remote Viewing & Fiction](https://paradigmthreat.net/science/telepathy/remote_viewing/index-remote-viewing-fiction.md) — The encoding of remote viewing programs in fiction
 
 ---
 

@@ -10,40 +10,40 @@ One day since the last update: paradigm-threat-timeline v1.2.43 → **v1.2.51**;
 
 ## Stolen Credit Suite (paradigm-threat-files)
 
-Nine investigations added or expanded in [Stolen Credit](/influence/stolen_credit):
+Nine investigations added or expanded in [Stolen Credit](https://paradigmthreat.net/influence/stolen_credit):
 
 ### Video Game Composers (7 files)
 
 | Investigation | Summary |
 |---------------|---------|
-| [Dave Wise / Rare](/influence/stolen_credit/dave-wise) | DKC3 GBA amateur dive; sampling/QA thesis vs. composition; Eveline Fischer major contributor; Yukio Kaneoka (Nintendo) on Aquatic Ambience copyright; Tropical Freeze/Returns Hamano pattern; Prime 4 credit anomaly |
-| [Minako Hamano](/influence/stolen_credit/minako-hamano) | Super Metroid (Ridley, Maridia, Mother Brain); "often credited only to Yamamoto"; Returns/Tropical Freeze excellence; Prime 4 Beyond soundtrack disaster |
-| [Rare & Nintendo R&D](/influence/stolen_credit/rare-nintendo-rd) | Games without credits — Battletoads, PIN·BOT; 335 games in VGMPF; Nintendo R&D contribution thesis |
-| [Capcom / Mega Man](/influence/stolen_credit/capcom) | Platform betrayal, composer churn, leftover theory; MM9 from original projects |
-| [Yasunori Mitsuda](/influence/stolen_credit/yasunori-mitsuda) | Chrono Trigger third hands; Chrono Cross RD Edition corruption; franchise corruption thesis |
-| [Koji Kondo](/influence/stolen_credit/koji-kondo) | Nintendo institutional support; Kaneoka; unrecognized Zelda composers |
-| [Robin Beanland](/influence/stolen_credit/robin-beanland) | DKC Aquatic Ambience four-way copyright; role vs. Wise/Fischer |
+| [Dave Wise / Rare](https://paradigmthreat.net/influence/stolen_credit/dave-wise) | DKC3 GBA amateur dive; sampling/QA thesis vs. composition; Eveline Fischer major contributor; Yukio Kaneoka (Nintendo) on Aquatic Ambience copyright; Tropical Freeze/Returns Hamano pattern; Prime 4 credit anomaly |
+| [Minako Hamano](https://paradigmthreat.net/influence/stolen_credit/minako-hamano) | Super Metroid (Ridley, Maridia, Mother Brain); "often credited only to Yamamoto"; Returns/Tropical Freeze excellence; Prime 4 Beyond soundtrack disaster |
+| [Rare & Nintendo R&D](https://paradigmthreat.net/influence/stolen_credit/rare-nintendo-rd) | Games without credits — Battletoads, PIN·BOT; 335 games in VGMPF; Nintendo R&D contribution thesis |
+| [Capcom / Mega Man](https://paradigmthreat.net/influence/stolen_credit/capcom) | Platform betrayal, composer churn, leftover theory; MM9 from original projects |
+| [Yasunori Mitsuda](https://paradigmthreat.net/influence/stolen_credit/yasunori-mitsuda) | Chrono Trigger third hands; Chrono Cross RD Edition corruption; franchise corruption thesis |
+| [Koji Kondo](https://paradigmthreat.net/influence/stolen_credit/koji-kondo) | Nintendo institutional support; Kaneoka; unrecognized Zelda composers |
+| [Robin Beanland](https://paradigmthreat.net/influence/stolen_credit/robin-beanland) | DKC Aquatic Ambience four-way copyright; role vs. Wise/Fischer |
 
 ### Nintendo–Sony Breakup (1 expansion)
 
-- **Super Mario RPG section** added to [Nintendo–Sony Breakup](/influence/stolen_credit/nintendo-sony-breakup): Suspicious timing (1995–96); Square courting Sony while Nintendo believed the collaboration signified commitment; the game as "reassurance signal" or sincere last gesture before the divorce; connection to stolen-credit thesis.
+- **Super Mario RPG section** added to [Nintendo–Sony Breakup](https://paradigmthreat.net/influence/stolen_credit/nintendo-sony-breakup): Suspicious timing (1995–96); Square courting Sony while Nintendo believed the collaboration signified commitment; the game as "reassurance signal" or sincere last gesture before the divorce; connection to stolen-credit thesis.
 
 ### Classical Composers (2 files)
 
 | Investigation | Summary |
 |---------------|---------|
-| [Fanny Mendelssohn](/influence/stolen_credit/fanny-mendelssohn) | 6 songs under Felix's name; Easter Sonata misattributed 40 years |
-| [Ferde Grofé](/influence/stolen_credit/ferde-grofe) | Rhapsody in Blue orchestration; blurry composition line |
+| [Fanny Mendelssohn](https://paradigmthreat.net/influence/stolen_credit/fanny-mendelssohn) | 6 songs under Felix's name; Easter Sonata misattributed 40 years |
+| [Ferde Grofé](https://paradigmthreat.net/influence/stolen_credit/ferde-grofe) | Rhapsody in Blue orchestration; blurry composition line |
 
 ### Methodology
 
-- [VGM Preservation / Credits](/influence/stolen_credit/vgm-preservation-credits) — 335 games without credits; publisher policies; ROM/hex methodology
+- [VGM Preservation / Credits](https://paradigmthreat.net/influence/stolen_credit/vgm-preservation-credits) — 335 games without credits; publisher policies; ROM/hex methodology
 
 ---
 
 ## Yakuza Remote-Control Investigation
 
-New governance investigation: [Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan](/governance/war/investigations/yakuza-remote-control-investigation).
+New governance investigation: [Yakuza Remote Control: British Influence, Media Capture, and Technology Containment in Japan](https://paradigmthreat.net/governance/war/investigations/yakuza-remote-control-investigation).
 
 **Thesis:** The Yakuza may function as a remote-controlled instrument of Western (chiefly British) interests in Japan — enforcing compliance, media capture, and technology containment.
 
@@ -54,7 +54,7 @@ New governance investigation: [Yakuza Remote Control: British Influence, Media C
 - Consolidation of power after natural disasters
 - Ideological separation of youth and elderly; mockery of tradition
 
-**Linked:** [nintendo-sony-breakup](/influence/stolen_credit/nintendo-sony-breakup) for technology containment thesis.
+**Linked:** [nintendo-sony-breakup](https://paradigmthreat.net/influence/stolen_credit/nintendo-sony-breakup) for technology containment thesis.
 
 ---
 

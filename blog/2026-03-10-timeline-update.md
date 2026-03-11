@@ -26,41 +26,41 @@ A new **CONTENT_REDUCTION_RECOMMENDATIONS.md** was added to `docs/` cataloguing 
 
 ### Fiction-Encoding Suite (16 files)
 
-Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](/influence/predictive_programming/fiction_encoding)):
+Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding)):
 
 **Bram Stoker (2 files)**
-- [Bram Stoker Investigation](/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) — Fiction vs. nonfiction framing, Eastern European sources, Dracula family lines
-- [Dracula Index](/influence/predictive_programming/fiction_encoding/stoker/index-dracula.md) — Full text analysis of the 1897 novel
+- [Bram Stoker Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/stoker/index-bram-stoker-investigation.md) — Fiction vs. nonfiction framing, Eastern European sources, Dracula family lines
+- [Dracula Index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/stoker/index-dracula.md) — Full text analysis of the 1897 novel
 
 **Hunter S. Thompson (10 files)**
-- [Thompson Main Index](/influence/predictive_programming/fiction_encoding/thompson/index-thompson-main.md) — Overview: evidence of government acting antagonistically toward ordinary people
-- [Thompson Managed Disclosure Investigation](/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md) — Gonzo journalism as disclosure vehicle
-- [Fear and Loathing in Las Vegas](/influence/predictive_programming/fiction_encoding/thompson/index-fear-and-loathing.md)
-- [Fear and Loathing in America](/influence/predictive_programming/fiction_encoding/thompson/index-fear-and-loathing-in-america.md)
-- [Hell's Angels](/influence/predictive_programming/fiction_encoding/thompson/index-hells-angels.md)
-- [The Great Shark Hunt](/influence/predictive_programming/fiction_encoding/thompson/index-great-shark-hunt.md)
-- [The Curse of Lono](/influence/predictive_programming/fiction_encoding/thompson/index-curse-of-lono.md)
-- [Kitchen Readings](/influence/predictive_programming/fiction_encoding/thompson/index-kitchen-readings.md)
-- [Playboy Interview](/influence/predictive_programming/fiction_encoding/thompson/index-playboy-interview.md)
+- [Thompson Main Index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-thompson-main.md) — Overview: evidence of government acting antagonistically toward ordinary people
+- [Thompson Managed Disclosure Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/thompson-managed-disclosure-investigation.md) — Gonzo journalism as disclosure vehicle
+- [Fear and Loathing in Las Vegas](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-fear-and-loathing.md)
+- [Fear and Loathing in America](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-fear-and-loathing-in-america.md)
+- [Hell's Angels](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-hells-angels.md)
+- [The Great Shark Hunt](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-great-shark-hunt.md)
+- [The Curse of Lono](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-curse-of-lono.md)
+- [Kitchen Readings](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-kitchen-readings.md)
+- [Playboy Interview](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/thompson/index-playboy-interview.md)
 
 **T.H. White — Arthurian Saturnian Cosmology (3 files)**
-- [The Once and Future King Index](/influence/predictive_programming/fiction_encoding/white/index-once-and-future-king.md) — 1958 composite novel analysis
-- [Saturnian Round Table Investigation](/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md) — Arthur/Merlin = Jupiter (dual aspect); the Round Table as nonlinear planetary configuration; the Grail = Tree of Life; "Once and Future King" = the Sun's emergence after Saturn's fall
-- [Excalibur: Sulphur + Mercury Investigation](/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md) — Comparing White's 1958 text against Boorman's 1981 *Excalibur* film; managed disclosure for suppressed gold-transmutation knowledge
+- [The Once and Future King Index](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/white/index-once-and-future-king.md) — 1958 composite novel analysis
+- [Saturnian Round Table Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/white/white-saturnian-round-table-investigation.md) — Arthur/Merlin = Jupiter (dual aspect); the Round Table as nonlinear planetary configuration; the Grail = Tree of Life; "Once and Future King" = the Sun's emergence after Saturn's fall
+- [Excalibur: Sulphur + Mercury Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/white/white-excalibur-sulphur-mercury-investigation.md) — Comparing White's 1958 text against Boorman's 1981 *Excalibur* film; managed disclosure for suppressed gold-transmutation knowledge
 
 **Other Fiction-Encoding (2 files)**
-- [The Island of Dr. Moreau (1896)](/influence/predictive_programming/fiction_encoding/wells/index-island-of-dr-moreau.md) — H.G. Wells' vivisection narrative as encoded biological control disclosure
-- [Zombie Genre Investigation](/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) — Pre-20th century literary roots, Stoker-like documentary presentation
+- [The Island of Dr. Moreau (1896)](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/wells/index-island-of-dr-moreau.md) — H.G. Wells' vivisection narrative as encoded biological control disclosure
+- [Zombie Genre Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/zombies/index-zombie-genre-investigation.md) — Pre-20th century literary roots, Stoker-like documentary presentation
 
 **Fiction-Presented-as-Fact (2 files)**
-- [Fiction Presented as Fact Investigation](/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md) — Expanded master investigation
-- [Compromised Court Cases & Declared Reality](/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) — How court cases (real and fictional) steer "declared reality"; early 20th century case density
+- [Fiction Presented as Fact Investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/fiction-presented-as-fact-investigation.md) — Expanded master investigation
+- [Compromised Court Cases & Declared Reality](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/compromised-court-cases-declared-reality-investigation.md) — How court cases (real and fictional) steer "declared reality"; early 20th century case density
 
 ### Gottfried Kinkel / Ivan Kinkel (4 files)
-- [Gottfried Kinkel Biography](/history/kinkel/gottfried-kinkel.md) — German poet, revolutionary, 1848er, political exile
-- [Ivan Kinkel Sources](/history/kinkel/index-ivan-kinkel-sources.md) — Source inventory for Dr. Johann (Ivan) Kinkel
-- [De Jonge on Gottfried Kinkel](/history/kinkel/index-de-jonge-gottfried-kinkel.md) — Secondary analysis
-- [Zur Frage der psychologischen Grundlagen (1922)](/history/kinkel/index-psychologische-grundlagen-1922.md) — Ivan Kinkel's psychoanalytic text on the origins of religion (Internationaler Psychoanalytischer Verlag)
+- [Gottfried Kinkel Biography](https://paradigmthreat.net/history/kinkel/gottfried-kinkel.md) — German poet, revolutionary, 1848er, political exile
+- [Ivan Kinkel Sources](https://paradigmthreat.net/history/kinkel/index-ivan-kinkel-sources.md) — Source inventory for Dr. Johann (Ivan) Kinkel
+- [De Jonge on Gottfried Kinkel](https://paradigmthreat.net/history/kinkel/index-de-jonge-gottfried-kinkel.md) — Secondary analysis
+- [Zur Frage der psychologischen Grundlagen (1922)](https://paradigmthreat.net/history/kinkel/index-psychologische-grundlagen-1922.md) — Ivan Kinkel's psychoanalytic text on the origins of religion (Internationaler Psychoanalytischer Verlag)
 
 ---
 
@@ -77,7 +77,7 @@ Investigations now live in **paradigm-threat-files** (see [Fiction Encoding](/in
 - **Mars Literature Author Profiles** (16.02.01) — Expanded profiles
 - **Mars Literature as Reclassified Nonfiction** (14.10.00) — Trimmed for content reduction
 
-![The Once and Future King — Saturn as Arthur](/media/02.the-golden-age/golden_age_night_sky_full.png)
+![The Once and Future King — Saturn as Arthur](https://paradigmthreat.net/media/02.the-golden-age/golden_age_night_sky_full.png)
 
 ---
 

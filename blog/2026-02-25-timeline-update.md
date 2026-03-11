@@ -89,7 +89,7 @@ Both are versioned with the repository and available in `export/`.
 
 ---
 
-The timeline is at [paradigmthreat.net/timeline](/timeline). The investigation continues.
+The timeline is at [paradigmthreat.net/timeline](https://paradigmthreat.net/timeline). The investigation continues.
 
 ---
 

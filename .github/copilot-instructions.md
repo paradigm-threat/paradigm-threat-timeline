@@ -180,7 +180,9 @@ Create a new blog entry whenever the user requests one, or when a significant ba
 
 ### Linking to investigations and browser-viewable files
 
-Investigations live in **paradigm-threat-files**. Use **root-relative URLs** (no absolute domain):
+**Blog entries (`blog/*.md`):** Use **absolute URLs** — `https://paradigmthreat.net/path` — so links work when viewed in GitHub, RSS, or any context. Do not use relative paths like `/influence/...`.
+
+**Timeline content (investigations, etc.):** Investigations live in **paradigm-threat-files**. Use **root-relative URLs** (no absolute domain):
 ```
 [Title](/path/to/file.md)
 ```
