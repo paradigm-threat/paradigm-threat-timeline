@@ -41,6 +41,10 @@ Speculations and conclusions ascertained from the Alternate Earth History Timeli
 - **Nobody knows how chips are made.** Mainstream sources acknowledge that nations cannot replicate advanced semiconductor capability: the U.S. spends $12B to move TSMC to Arizona yet the fab produces chips a generation behind Taiwan ("you cannot move the learning curves"); China spent $150B attempting to replicate EUV lithography and domestic alternatives to ASML "do not exist"; the EU's $50B goes to older-generation production. The U.S. DoD is "critically dependent" on foreign chip supply and "may be unable to do without" offshore chips.
 - **Deliberate worldwide system of control.** IP regimes, export restrictions, geopolitical concentration in vassal states (Taiwan, historically Japan/Korea). See [microchips-shrinking-technology-investigation](https://paradigmthreat.net/science/microchips/microchips-shrinking-technology-investigation).
 
+## Predictive Programming and Controlled Opposition
+
+- **Ed Wood as controlled opposition:** *Plan 9 from Outer Space* (1957) encodes the zombie-apocalypse-as-alien-takeover narrative with unusual specificity—extraterrestrials resurrect the dead via pituitary assault, overwhelm capitals, force compliance, and reveal themselves. Wood, a cross-dressing filmmaker working on minimal budget, does not appear capable of originating such a coherent operational narrative. Thesis: funded predictive programming with Wood as willing agent; his filmography (Glen or Glenda, etc.) also fits early LGBTQ media-propagation model. See [Ed Wood / Plan 9 investigation](https://paradigmthreat.net/influence/predictive_programming/fiction_encoding/ed-wood-plan9/index-ed-wood-plan9-investigation).
+
 ## Artificial Intelligence and Deliberate Bad Software
 
 - **AI was never meant as a tool for everyone.** Designed to subsume software/hardware, take controls away from humans, position a "self-aware" entity—the deep state's hijacking—as the only thing capable of operating deliberately broken systems.
