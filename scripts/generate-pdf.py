@@ -11,7 +11,8 @@ Print spec: docs/PRINT_GOALS.md
   - EB Garamond body, Libre Franklin headings, JetBrains Mono code
   - Alternating running headers, recto chapter openers, leader-dot TOC
 
-Requirements:  pip install fpdf2 markdown-it-py Pillow
+Requirements:  pip install fpdf2 markdown-it-py mdit-py-plugins Pillow
+  Optional:  pip install cairosvg  (for SVG→PNG conversion; vector illustrations)
 """
 
 import io
@@ -39,9 +40,19 @@ except ImportError:
     sys.exit("ERROR: pip install markdown-it-py")
 
 try:
+    from mdit_py_plugins.attrs import attrs_plugin
+except ImportError:
+    attrs_plugin = None  # optional: enables ![alt](src){.class} syntax
+
+try:
     from PIL import Image
 except ImportError:
     sys.exit("ERROR: pip install Pillow")
+
+try:
+    import cairosvg
+except ImportError:
+    cairosvg = None  # optional: SVG support for vector illustrations
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -192,6 +203,12 @@ def _sanitize(text: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Book illustration class — images with this CSS class are included in PDF/DOCX
+# even when --images is not passed. Use: ![alt](src){.book-illustration}
+# ---------------------------------------------------------------------------
+BOOK_ILLUSTRATION_CLASS = "book-illustration"
+
+# ---------------------------------------------------------------------------
 # Token attribute helper  (markdown-it-py can use dict or list-of-tuples)
 # ---------------------------------------------------------------------------
 def _attr(tok, key: str, default: str = "") -> str:
@@ -203,6 +220,12 @@ def _attr(tok, key: str, default: str = "") -> str:
         if k == key:
             return v
     return default
+
+
+def _has_class(tok, class_name: str) -> bool:
+    """Return True if token has the given CSS class (requires attrs plugin)."""
+    cls = _attr(tok, "class", "")
+    return class_name in cls.split()
 
 
 # ===================================================================
@@ -328,11 +351,13 @@ class PDFRenderer:
     BODY_LEADING = 5.3     # mm  (≈ 15 pt)
     INDENT_MM    = 5       # first-line indent for subsequent paragraphs
 
-    def __init__(self, include_images: bool = False):
+    def __init__(self, include_images: bool = False,
+                 book_illustration_class: str = BOOK_ILLUSTRATION_CLASS):
         self._tmp = tempfile.mkdtemp(prefix="timeline_pdf_")
         self._img_cache: dict = {}
         self._use_unicode = False
         self._include_images = include_images
+        self._book_illustration_class = book_illustration_class
         self._init_pdf()
 
     def _init_pdf(self):
@@ -342,6 +367,8 @@ class PDFRenderer:
         self.pdf.set_auto_page_break(True, margin=MARGIN_BOTTOM)
 
         self.md = MarkdownIt("commonmark", {"typographer": False}).enable("table")
+        if attrs_plugin:
+            self.md.use(attrs_plugin)
 
         self._setup_fonts()
 
@@ -464,6 +491,16 @@ class PDFRenderer:
             return None
 
         try:
+            # SVG: convert to PNG for embedding (vector → raster at print resolution)
+            if abs_path.suffix.lower() == ".svg":
+                if not cairosvg:
+                    print(f"    WARN SVG not supported: install cairosvg for {rel}", file=sys.stderr)
+                    self._img_cache[src] = None
+                    return None
+                png_path = os.path.join(self._tmp, f"svg_{len(self._img_cache)}.png")
+                cairosvg.svg2png(url=str(abs_path), write_to=png_path, scale=2.0)
+                abs_path = Path(png_path)
+
             img = Image.open(abs_path)
             if img.width > MAX_IMG_PX:
                 r = MAX_IMG_PX / img.width
@@ -492,9 +529,9 @@ class PDFRenderer:
             self._img_cache[src] = None
             return None
 
-    def _embed_image(self, src: str, caption: str = ""):
+    def _embed_image(self, src: str, caption: str = "", is_book_illustration: bool = False):
         """Render an image block centred on the page."""
-        if not self._include_images:
+        if not self._include_images and not is_book_illustration:
             return
         path = self._prepare_image(src)
         if not path:
@@ -592,7 +629,8 @@ class PDFRenderer:
             elif tp == "image":
                 src = _attr(tok, "src")
                 alt = _attr(tok, "alt") or tok.content or ""
-                self._embed_image(src, alt)
+                self._embed_image(src, alt,
+                                 is_book_illustration=_has_class(tok, self._book_illustration_class))
 
             elif tp == "html_inline":
                 if "<br" in (tok.content or ""):
@@ -717,7 +755,8 @@ class PDFRenderer:
             if len(real) == 1 and real[0].type == "image":
                 img = real[0]
                 self._embed_image(_attr(img, "src"),
-                                  _attr(img, "alt") or img.content or "")
+                                  _attr(img, "alt") or img.content or "",
+                                  is_book_illustration=_has_class(img, self._book_illustration_class))
                 return
 
             # Image-with-caption pattern
@@ -731,7 +770,8 @@ class PDFRenderer:
                     if c.type == "text":
                         cap_parts.append(c.content)
                 caption = "".join(cap_parts) or _attr(img, "alt") or img.content or ""
-                self._embed_image(_attr(img, "src"), caption)
+                self._embed_image(_attr(img, "src"), caption,
+                                 is_book_illustration=_has_class(img, self._book_illustration_class))
                 return
 
             # Justified paragraph; first-line indent for subsequent paragraphs
@@ -1498,10 +1538,13 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="Generate timeline PDF")
     parser.add_argument("--images", action="store_true",
-                        help="Include images in the export (default: text-only)")
+                        help="Include all images in the export (default: text-only)")
+    parser.add_argument("--book-illustration-class", default=BOOK_ILLUSTRATION_CLASS,
+                        help=f"CSS class for images to include when --images is not set (default: {BOOK_ILLUSTRATION_CLASS})")
     args = parser.parse_args()
 
-    renderer = PDFRenderer(include_images=args.images)
+    renderer = PDFRenderer(include_images=args.images,
+                          book_illustration_class=args.book_illustration_class)
     try:
         renderer.generate()
     finally:

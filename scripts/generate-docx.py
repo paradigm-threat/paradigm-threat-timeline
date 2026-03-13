@@ -5,7 +5,8 @@ Generate a Word document (.docx) from all content/*.md files -> export/timeline.
 Uses python-docx for document generation and markdown-it-py for markdown parsing.
 Images are embedded using Pillow for pre-processing.
 
-Requirements:  pip install python-docx markdown-it-py Pillow
+Requirements:  pip install python-docx markdown-it-py mdit-py-plugins Pillow
+  Optional:  pip install cairosvg  (for SVG→PNG conversion; vector illustrations)
 """
 
 import io
@@ -35,9 +36,19 @@ except ImportError:
     sys.exit("ERROR: pip install markdown-it-py")
 
 try:
+    from mdit_py_plugins.attrs import attrs_plugin
+except ImportError:
+    attrs_plugin = None  # optional: enables ![alt](src){.class} syntax
+
+try:
     from PIL import Image
 except ImportError:
     sys.exit("ERROR: pip install Pillow")
+
+try:
+    import cairosvg
+except ImportError:
+    cairosvg = None  # optional: SVG support for vector illustrations
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -105,6 +116,12 @@ GREYSCALE     = True          # convert images to greyscale for print
 MAX_IMG_IN    = 4.0    # max image width in inches (fits 6x9 with margins)
 
 # ---------------------------------------------------------------------------
+# Book illustration class — images with this CSS class are included in PDF/DOCX
+# even when --images is not passed. Use: ![alt](src){.book-illustration}
+# ---------------------------------------------------------------------------
+BOOK_ILLUSTRATION_CLASS = "book-illustration"
+
+# ---------------------------------------------------------------------------
 # Token attribute helper (markdown-it-py can use dict or list-of-tuples)
 # ---------------------------------------------------------------------------
 def _attr(tok, key: str, default: str = "") -> str:
@@ -116,6 +133,13 @@ def _attr(tok, key: str, default: str = "") -> str:
         if k == key:
             return v
     return default
+
+
+def _has_class(tok, class_name: str) -> bool:
+    """Return True if token has the given CSS class (requires attrs plugin)."""
+    cls = _attr(tok, "class", "")
+    return class_name in cls.split()
+
 
 # ---------------------------------------------------------------------------
 # Plain text extractor from inline token tree
@@ -230,15 +254,19 @@ def _add_toc(doc: Document, md_files: list):
 # DOCX Renderer
 # ---------------------------------------------------------------------------
 class DOCXRenderer:
-    def __init__(self, include_images: bool = False):
+    def __init__(self, include_images: bool = False,
+                 book_illustration_class: str = BOOK_ILLUSTRATION_CLASS):
         self._img_cache: dict = {}
         self._include_images = include_images
+        self._book_illustration_class = book_illustration_class
         self._reset_doc()
 
     def _reset_doc(self):
         """Create a fresh Document with styles and layout."""
         self.doc = Document()
         self.md  = MarkdownIt("commonmark", {"typographer": False}).enable("table")
+        if attrs_plugin:
+            self.md.use(attrs_plugin)
         self._chapter_counter = 0
         self._current_part_xx = None
         self._current_part_label = ""   # e.g. "Part I — Introduction"
@@ -523,7 +551,18 @@ class DOCXRenderer:
             return None
 
         try:
-            img = Image.open(abs_path)
+            # SVG: convert to PNG for embedding (vector → raster at print resolution)
+            if abs_path.suffix.lower() == ".svg":
+                if not cairosvg:
+                    print(f"    WARN SVG not supported: install cairosvg for {rel}", file=sys.stderr)
+                    self._img_cache[src] = None
+                    return None
+                png_buf = io.BytesIO()
+                cairosvg.svg2png(url=str(abs_path), write_to=png_buf, scale=2.0)
+                png_buf.seek(0)
+                img = Image.open(png_buf)
+            else:
+                img = Image.open(abs_path)
             if img.width > MAX_IMG_PX:
                 r = MAX_IMG_PX / img.width
                 img = img.resize((MAX_IMG_PX, int(img.height * r)), Image.LANCZOS)
@@ -556,8 +595,8 @@ class DOCXRenderer:
             self._img_cache[src] = None
             return None
 
-    def _embed_image(self, src: str, caption: str = ""):
-        if not self._include_images:
+    def _embed_image(self, src: str, caption: str = "", is_book_illustration: bool = False):
+        if not self._include_images and not is_book_illustration:
             return
         result = self._prepare_image(src)
         if not result:
@@ -650,7 +689,8 @@ class DOCXRenderer:
             elif tp == "image":
                 isrc = _attr(tok, "src")
                 ialt = _attr(tok, "alt") or tok.content or ""
-                self._embed_image(isrc, ialt)
+                self._embed_image(isrc, ialt,
+                                 is_book_illustration=_has_class(tok, self._book_illustration_class))
 
             elif tp == "html_inline":
                 if "<br" in (tok.content or ""):
@@ -696,7 +736,8 @@ class DOCXRenderer:
                 if c.type not in ("softbreak", "hardbreak")]
         if len(real) == 1 and real[0].type == "image":
             img = real[0]
-            self._embed_image(_attr(img, "src"), _attr(img, "alt") or img.content or "")
+            self._embed_image(_attr(img, "src"), _attr(img, "alt") or img.content or "",
+                             is_book_illustration=_has_class(img, self._book_illustration_class))
             return
 
         # Image + caption pattern
@@ -707,7 +748,8 @@ class DOCXRenderer:
                 if c.type == "em_close": break
                 if c.type == "text": cap_parts.append(c.content)
             caption = "".join(cap_parts) or _attr(img, "alt") or img.content or ""
-            self._embed_image(_attr(img, "src"), caption)
+            self._embed_image(_attr(img, "src"), caption,
+                             is_book_illustration=_has_class(img, self._book_illustration_class))
             return
 
         para = self.doc.add_paragraph()
@@ -1211,10 +1253,13 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="Generate timeline DOCX")
     parser.add_argument("--images", action="store_true",
-                        help="Include images in the export (default: text-only)")
+                        help="Include all images in the export (default: text-only)")
+    parser.add_argument("--book-illustration-class", default=BOOK_ILLUSTRATION_CLASS,
+                        help=f"CSS class for images to include when --images is not set (default: {BOOK_ILLUSTRATION_CLASS})")
     args = parser.parse_args()
 
-    renderer = DOCXRenderer(include_images=args.images)
+    renderer = DOCXRenderer(include_images=args.images,
+                            book_illustration_class=args.book_illustration_class)
     renderer.generate()
 
 

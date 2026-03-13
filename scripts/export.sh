@@ -24,7 +24,7 @@ if [[ ! -x "$PYTHON" ]]; then
 fi
 
 # ── 2. Install / upgrade dependencies ────────────────────────────────
-"$PIP" install -q --upgrade markdown-it-py Pillow python-docx
+"$PIP" install -q --upgrade markdown-it-py mdit-py-plugins Pillow python-docx cairosvg
 
 # ── 3. Generate DOCX (book + appendix) ───────────────────────────────
 EXPORT_DIR="$REPO_DIR/export"

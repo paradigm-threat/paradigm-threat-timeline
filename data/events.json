@@ -104,9 +104,9 @@
     },
     {
       "id": "evt-before-creation",
-      "title": "5000 BCE — Before Creation",
+      "title": "Before Creation",
       "type": "event",
-      "md_path": "content/01.before-creation/01.00.00-5000-bce-before-creation.md",
+      "md_path": "content/01.before-creation/01.00.00-before-creation.md",
       "children": [
         {
           "id": "evt-3-plasmoids-in-the-southern-hemisphere",
