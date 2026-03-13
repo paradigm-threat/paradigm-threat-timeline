@@ -82,6 +82,20 @@ npm run generate-index     # Pre-commit
 
 When generating or replacing illustrations for timeline articles:
 
+### Book Illustrations (`.book-illustration`)
+
+- **Aspect ratio:** Use **wide horizontal format** — limited height, full page width. Aim for ~3:1 (e.g. 1357×476 px) so illustrations fit the 6″×9″ print layout. Use taller proportions only when the illustration requires it.
+
+- **Resolution:** Target ~1360×480 px for wide diagrams (or equivalent in vector). This is the preferred size for book illustrations.
+
+- **Format preference:** Prefer **vector formats (SVG)** over raster (PNG, JPG) — SVG scales cleanly and suits diagrams, cosmologies, and technical illustrations. Use raster (PNG/JPG) when depicting **human scenes** (figures, faces, narrative art) where vector would look flat or artificial.
+
+- **SVG diagrams:** Use **greyscale only** (no color). **Opaque backgrounds are okay** when the diagram has text, lines, or illustrations — use book-page cream (#f5f4f0) so content is visible in both light and dark mode. Text and strokes must be dark (#111–#444) to read clearly. Grid lines and fills may use light greys (#ccc, #ddd) with low opacity where needed.
+
+- **Color and detail:** For raster images (human scenes), use full color and sufficient detail. For SVG diagrams, use greyscale only. Avoid sparse or overly minimal diagrams unless the content demands it.
+
+- **Key table:** Include a **key/legend** when the illustration has multiple labeled elements, phases, or symbols that readers need to identify. Omit the key when the diagram is self-explanatory or labels are sufficient.
+
 - **Saturn’s rings:** Saturn does **not** have rings in BCE times, only in CE. In BCE/Golden Age images, do not draw Saturn with the distinct ring system; use a sunlike body, spoked wheel, or plasma halo/Absu only.
 
 - **Venus vs Mars (Wheel of Heaven):** In Golden Age / BCE images, **Venus** is a **plasmoid** appearing as a **single** star figure (one 3–8 sided star, e.g. six- or eight-pointed)—luminous, plasma-like—not many stars or symbols. **Mars** always looks **solid** (a distinct spherical or solid body, not plasmoid). Do not show other symbols in the sky; only Mars, Venus (single star), and Saturn.
