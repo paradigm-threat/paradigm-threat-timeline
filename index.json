@@ -460,10 +460,13 @@
       "14.12.01-world-war-ii-aftermath.md": {
         "_title": "1945\u2013 CE \u2014 World War II Aftermath"
       },
+      "14.12.02-1948-ce-israel-creation-british-mandate.md": {
+        "_title": "1948 CE \u2014 Israel Creation: British Mandate, Divide-and-Conquer, and False Geography"
+      },
       "14.13.00-1991-ce-the-soviet-collapse.md": {
         "_title": "1991 CE \u2014 The Soviet Collapse"
       },
-      "_count": 16
+      "_count": 17
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv.md": {
@@ -696,7 +699,7 @@
       },
       "_count": 1
     },
-    "_count": 210
+    "_count": 211
   },
   "data": {
     "events.json": {},
@@ -1331,5 +1334,5 @@
     },
     "_count": 1
   },
-  "_count": 407
+  "_count": 408
 }
