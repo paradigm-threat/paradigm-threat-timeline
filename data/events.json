@@ -1563,6 +1563,20 @@
               "type": "article",
               "md_path": "content/14.ce-20th-the-1917-revolution/14.12.01-world-war-ii-aftermath.md",
               "children": []
+            },
+            {
+              "id": "evt-1948-ce-israel-creation-british-mandate",
+              "title": "1948 CE \u2014 Israel Creation: British Mandate, Divide-and-Conquer, and False Geography",
+              "type": "event",
+              "md_path": "content/14.ce-20th-the-1917-revolution/14.12.02-1948-ce-israel-creation-british-mandate.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1948,
+                  "end": 1948,
+                  "calendar": "CE"
+                }
+              ]
             }
           ]
         },
