@@ -10,45 +10,46 @@ paradigm-threat-timeline is a standalone project. It does NOT reference paradigm
 
 ## Content File Numbering Convention
 
+**Source of truth:** The `content/` folder. `data/events.json` is **generated** from it by `build-events-from-content.py` (run automatically on pre-commit).
+
 All articles live in `content/` and use the filename format `XX.YY.ZZ-slug.md`.
 
 | Segment | Meaning |
 |---|---|
-| `XX` | Chapter number (01–15). **Never change.** |
+| `XX` | Chapter number (01–17). **Never change.** |
 | `YY` | Position within chapter. `00` = chapter root. |
 | `ZZ` | `00` = standalone / parent article. **Non-zero = child of `XX.YY.00`.** |
 
-### Hierarchy rules (derived from `data/events.json`)
+### Hierarchy rules (derived from XX.YY.ZZ in filenames)
 
-- The first top-level `entries[]` item for each section XX is the chapter root → `XX.00.00`
-- Direct children of the chapter root → `XX.01.00`, `XX.02.00`, … (YY = position in DFS order)
+- Chapter root → `XX.00.00` (top-level in `entries[]`)
+- Direct children of chapter root → `XX.YY.00` (YY = 01, 02, …)
 - Children of a `XX.YY.00` article → `XX.YY.01`, `XX.YY.02`, … (ZZ = position among siblings)
 - Grandchildren are flattened into the same `XX.YY.ZZ` space (3-level max)
-- Additional top-level `entries[]` siblings in the same section → `XX.NN.00` (continuing YY sequence)
 
 **Key invariant:** `ZZ = 00` ↔ article is not a child of any other article. `ZZ ≠ 0` ↔ sub-article.
 
+### Dates
+
+Dates are extracted from the filename slug when present:
+- `1664-1694` → range 1664–1694 CE
+- `1774-ce` → single year 1774 CE
+- `4077-bce` → single year 4077 BCE
+
+### Optional fields (YAML frontmatter)
+
+Add to the markdown file's frontmatter: `media`, `related_events`, `duplicate_of`, `tags`, `timeline_sources`, `context`, `categories`.
+
 ### When adding a new content file
 
-1. Add the entry to the correct `children[]` array in `data/events.json` (set `md_path` to a placeholder).
-2. Run `python3 scripts/renumber-from-hierarchy.py` — this assigns the correct number based on hierarchy position, renames all files, and updates all cross-links and `md_path` values.
-3. Create the markdown file at the new path printed by the script.
-4. Run `npm run validate-events && npm run audit-missing && npm run generate-index`.
-
-### When the hierarchy changes
-
-If you move an entry between parents, add children, or restructure `events.json`:
-```bash
-python3 scripts/renumber-from-hierarchy.py
-npm run validate-events && npm run audit-missing && npm run generate-index
-```
+1. Create the markdown file in the correct chapter subfolder with `XX.YY.ZZ-slug.md` naming.
+2. Run `python3 scripts/build-events-from-content.py` (or commit — pre-commit runs it).
 
 ## Adding Events
 
-1. Add an event to `data/events.json` following the schema in `data/timeline-schema.json`.
-2. Create the corresponding markdown file in `content/` at the path assigned by the numbering convention (use `renumber-from-hierarchy.py` after placing the entry in `children[]`).
-3. The first `#` header in the markdown file must exactly match the `title` field in `events.json`.
-4. Run `python3 scripts/validate-events.py` to verify.
+1. Create the markdown file in `content/` with `XX.YY.ZZ-slug.md` naming.
+2. The first `#` header becomes the `title` in `events.json`.
+3. Run `python3 scripts/build-events-from-content.py` and `npm run validate-events`.
 
 ## Event Schema
 
@@ -84,33 +85,32 @@ When correlating duplicate events (e.g. 774 CE ↔ 1774 Pugachev):
 
 ## Scripts
 
-- **renumber-from-hierarchy.py**: Re-derives all `XX.YY.ZZ` numbers from the `events.json` hierarchy. Run whenever hierarchy changes. Updates filenames, `md_path` values, and cross-links.
+- **build-events-from-content.py**: Generates `data/events.json` from the `content/` file structure. One entry per file. Hierarchy from XX.YY.ZZ. Dates from filename slug. Optional fields from YAML frontmatter. Run on pre-commit.
 - **generate-index.py**: Builds `index.json` (for file browser). Run on pre-commit.
 - **validate-events.py**: Checks schema and title/header match. Run after edits.
-- **audit-missing.py**: Verifies every `content/*.md` file is registered in `events.json`. Run after any file rename.
-- **split-chronology.py**: Extracts events from paradigm-threat-files. Reads only; writes to timeline. Use `--source-dir` to point at paradigm-threat-files.
-- **normalize-events.py**: Adds missing dates using the "last date header" rule, renames files to `bce-YYYY-` or `ce-YYYY-` format (era before year, start date only, no ranges). Run after split or when adding dates.
-- **refactor-sections.py**: Assigns each event to a section (BCE Option A + CE centuries), moves duplicate timeline_sources to sections, keeps per-event sources when different. Run after split or normalize.
+- **audit-missing.py**: Verifies every `content/*.md` file is registered in `events.json`.
+- **audit-links.py**: Audits `/timeline/evt-xxx` links in content against events.json. Reports broken links.
+- **apply-link-fixes.py**: Applies link fixes from `scripts/link-fix-mapping.json`. Use `--apply` to modify files.
 
-## Last Date Header Rule
+### Link audit workflow
 
-The chronology page is the timeline. Sections without date headers occur within the date of the **last** preceding `###` that has a date. normalize-events.py applies this rule when assigning dates.
+See `docs/LINK_AUDIT.md` for the full audit report. To fix broken timeline links:
+
+1. Resolve duplicate XX.YY.ZZ (see LINK_AUDIT §1) so the build succeeds.
+2. Review and approve link fix mapping in `docs/LINK_AUDIT.md` and `scripts/link-fix-mapping.json`.
+3. Run `python scripts/apply-link-fixes.py --apply`.
+4. Run `python scripts/audit-links.py` to confirm zero broken links.
 
 ## Running Scripts
 
 ```bash
-# After restructuring hierarchy (adding/moving entries in events.json):
-python3 scripts/renumber-from-hierarchy.py
-
-# Standard post-edit validation:
+# After adding/editing content:
+python3 scripts/build-events-from-content.py
 npm run validate-events
 npm run audit-missing
 npm run generate-index
 
-# Older pipeline scripts (for re-importing from paradigm-threat-files):
-npm run split-chronology
-npm run normalize-events
-npm run refactor-sections
+# Or just commit — pre-commit runs the above automatically.
 ```
 
 ## Investigations (Knowledge Pool)

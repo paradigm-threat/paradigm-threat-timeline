@@ -1,3 +1,9 @@
+# Build events.json from content/ file structure
+python3 scripts/build-events-from-content.py
+
+# Validate and generate index
+npm run validate-events && npm run audit-missing && npm run generate-index
+
 # Auto-bump patch version
 node -e "
 const fs = require('fs');
@@ -9,4 +15,4 @@ fs.writeFileSync('package.json', JSON.stringify(p, null, 2) + '\n');
 console.log('Version bumped to ' + p.version);
 "
 
-npm run validate-events && npm run audit-missing && npm run generate-index && git add index.json package.json
+git add data/events.json index.json package.json

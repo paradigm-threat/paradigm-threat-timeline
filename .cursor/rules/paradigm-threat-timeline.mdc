@@ -61,10 +61,10 @@ When adding or updating events, attempt to calculate or research dates for:
 ## Scripts (run after edits)
 
 ```bash
-npm run normalize-events   # Assign dates, rename files
-npm run refactor-sections  # Assign sections, collapse timeline_sources
+npm run build-events       # Generate events.json from content/ (run on pre-commit)
 npm run validate-events    # Schema + title/header match
-npm run generate-index     # Pre-commit
+npm run audit-missing      # Verify all content files registered
+npm run generate-index    # Pre-commit
 ```
 
 ## Blog Entries
@@ -74,9 +74,10 @@ npm run generate-index     # Pre-commit
 
 ## File Conventions
 
-- Event markdown: `events/{bce|ce}-{year}-{slug}.md`
-- Title must exactly match first `#` header in the markdown.
-- Sections: BCE Option A (before-creation, golden-age, dark-ages, iron-age-blip) + CE centuries.
+- Content markdown: `content/<chapter>/XX.YY.ZZ-slug.md`. **content/ is the source of truth**; events.json is generated from it.
+- Title is taken from the first `#` header in the markdown.
+- Dates: include in filename slug when present (e.g. `1664-1694`, `1774-ce`, `4077-bce`).
+- Optional fields (media, related_events, duplicate_of): use YAML frontmatter.
 
 ## Image Generation (Golden Age vs Dark Age)
 

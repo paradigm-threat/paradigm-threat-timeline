@@ -80,6 +80,21 @@ def count_entries(entries):
     return sum(1 + count_entries(e.get("children", [])) for e in entries)
 
 
+def collect_ids(entries):
+    """Return list of (id, path) for all entries."""
+    result = []
+
+    def visit(nodes, path):
+        for i, e in enumerate(nodes):
+            evt_id = e.get("id")
+            if evt_id:
+                result.append((evt_id, f"{path}[{i}]"))
+            visit(e.get("children", []), f"{path}[{i}].children")
+
+    visit(entries, "entries")
+    return result
+
+
 def main():
     if not os.path.exists(EVENTS_PATH):
         print(f"Error: {EVENTS_PATH} not found")
@@ -94,6 +109,14 @@ def main():
         sys.exit(1)
 
     errors = []
+    # Check for duplicate IDs
+    id_to_paths = {}
+    for evt_id, path in collect_ids(entries):
+        id_to_paths.setdefault(evt_id, []).append(path)
+    for evt_id, paths in id_to_paths.items():
+        if len(paths) > 1:
+            errors.append(f"Duplicate id {repr(evt_id)} at: {', '.join(paths)}")
+
     for i, entry in enumerate(entries):
         validate_entry(entry, f"entries[{i}]", errors)
 
