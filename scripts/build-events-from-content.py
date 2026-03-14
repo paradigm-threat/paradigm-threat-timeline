@@ -84,6 +84,38 @@ def get_first_header(md_path: str) -> str | None:
     return None
 
 
+# Regex to extract image paths from markdown: ![alt](path) or ![alt](path "title")
+MD_IMG_RE = re.compile(r"!\[[^\]]*\]\(([^)\s\"]+)(?:\s+\"[^\"]*\")?\)")
+# HTML img tags
+HTML_IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+
+
+def extract_images_from_markdown(md_path: str) -> list[str]:
+    """Extract image paths from markdown content. Returns list of paths for events.json media.
+    Paths are normalized to start with / for correct URL resolution against baseUrl."""
+    full_path = os.path.join(REPO_DIR, md_path)
+    if not os.path.exists(full_path):
+        return []
+    seen: set[str] = set()
+    result: list[str] = []
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except Exception:
+        return []
+    for pat in (MD_IMG_RE, HTML_IMG_RE):
+        for m in pat.finditer(content):
+            raw = m.group(1).strip()
+            if not raw or raw.startswith("data:") or raw.startswith("#"):
+                continue
+            # Normalize: ensure path starts with / for baseUrl + path URL construction
+            p = raw if raw.startswith("/") else "/" + raw
+            if p not in seen:
+                seen.add(p)
+                result.append(p)
+    return result
+
+
 def parse_frontmatter(md_path: str) -> dict:
     """Parse first YAML frontmatter block from markdown file."""
     full_path = os.path.join(REPO_DIR, md_path)
@@ -152,9 +184,16 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
         entry["dates"] = dates
 
     fm = parse_frontmatter(md_path)
-    for key in ("media", "related_events", "duplicate_of", "tags", "timeline_sources", "context", "categories"):
+    for key in ("related_events", "duplicate_of", "tags", "timeline_sources", "context", "categories"):
         if key in fm and fm[key] is not None:
             entry[key] = fm[key]
+    # media: use frontmatter if present, otherwise extract from markdown (for TTS slideshow / auto-playback)
+    if "media" in fm and fm["media"] is not None:
+        entry["media"] = [str(p) if isinstance(p, str) else str(p.get("path", p)) for p in fm["media"]]
+    else:
+        extracted = extract_images_from_markdown(md_path)
+        if extracted:
+            entry["media"] = extracted
 
     return entry, None
 

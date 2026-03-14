@@ -11,7 +11,10 @@
           "title": "The Third Story",
           "type": "article",
           "md_path": "content/00.overview/00.01.00-the-third-story.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/00.overview/the-third-story.png"
+          ]
         },
         {
           "id": "evt-background",
@@ -38,8 +41,16 @@
               "title": "Challenging Established Physics",
               "type": "article",
               "md_path": "content/00.overview/00.02.03-challenging-established-physics.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/00.overview/challenging-established-physics.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/00.overview/tartarian_structures_illustrated.png",
+            "/media/00.overview/saturnian-cosmology-symbols.png",
+            "/media/00.overview/fomenko_books.jpg"
           ]
         },
         {
@@ -53,7 +64,10 @@
               "title": "The Length of a Year Changes Throughout Antiquity",
               "type": "article",
               "md_path": "content/00.overview/00.03.01-the-length-of-a-year-changes-throughout-antiquity.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/00.overview/year-length-timeline.svg"
+              ]
             },
             {
               "id": "evt-timeline-synchronization",
@@ -67,10 +81,21 @@
               "title": "Cosmic Life Cycle",
               "type": "article",
               "md_path": "content/00.overview/00.03.03-cosmic-life-cycle.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/00.overview/cosmic-lifecycle.png",
+                "/media/00.overview/brown_dwarf.jpg",
+                "/media/00.overview/plasma_discharge_recorded2.jpg"
+              ]
             }
+          ],
+          "media": [
+            "/media/00.overview/core-concepts.png"
           ]
         }
+      ],
+      "media": [
+        "/media/00.overview/paradigm-threat-the-third-story.png"
       ]
     },
     {
@@ -84,7 +109,10 @@
           "title": "3 Plasmoids Southern Hemisphere",
           "type": "article",
           "md_path": "content/01.before-creation/01.01.00-3-plasmoids-southern-hemisphere.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/01.before-creation/3-plasmoids-in-the-southern-hemisphere.png"
+          ]
         },
         {
           "id": "evt-spawning-of-the-first-life-forms",
@@ -97,8 +125,14 @@
               "title": "Scalar Energy as the basis of Creation",
               "type": "article",
               "md_path": "content/01.before-creation/01.02.01-scalar-energy-as-the-basis-of-creation.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/01.before-creation/scalar-energy-as-the-basis-of-creation.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/01.before-creation/spawning-first-life-forms.png"
           ]
         },
         {
@@ -106,8 +140,15 @@
           "title": "All planets and suns are hollow",
           "type": "article",
           "md_path": "content/01.before-creation/01.03.00-all-planets-and-suns-are-hollow.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/01.before-creation/hollow-earth-diagram.png",
+            "/media/01.before-creation/hollow_earth_EU_model.jpg"
+          ]
         }
+      ],
+      "media": [
+        "/media/01.before-creation/before-creation.png"
       ]
     },
     {
@@ -121,35 +162,54 @@
           "title": "4077 BCE \u2014 Proto-Saturn joins the Sun's orbit",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.01.00-proto-saturn-joins-the-sun-s-orbit.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/colinear-configuration-golden-age.svg",
+            "/media/02.the-golden-age/saturn_configuration_vortex.jpg"
+          ]
         },
         {
           "id": "evt-absu-layers-surrounded-planets",
           "title": "Absu layers surrounded Planets",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.04.00-absu-layers-surrounded-planets.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/the-absu.png",
+            "/media/02.the-golden-age/golden_age_absu.jpg"
+          ]
         },
         {
           "id": "evt-northern-configuration",
           "title": "Northern Configuration",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.05.00-northern-configuration.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/saturnian_configuration_north.jpg",
+            "/media/02.the-golden-age/saturnian_configuration_south.jpg"
+          ]
         },
         {
           "id": "evt-atlantis-and-the-tree-of-knowledge",
           "title": "Atlantis and the Tree of Knowledge",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.07.00-atlantis-and-the-tree-of-knowledge.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/atlantis_first_jerusalem.png"
+          ]
         },
         {
           "id": "evt-interplanetary-entanglement",
           "title": "Interplanetary Entanglement",
           "type": "article",
           "md_path": "content/02.the-golden-age/02.09.00-interplanetary-entanglement.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/02.the-golden-age/quantum-entanglement.png",
+            "/media/02.the-golden-age/wormhole.jpg"
+          ]
         }
       ],
       "dates": [
@@ -158,6 +218,10 @@
           "end": -4077,
           "calendar": "BCE"
         }
+      ],
+      "media": [
+        "/media/02.the-golden-age/golden_age_hieronimus_bosch.jpg",
+        "/media/02.the-golden-age/cosmic_mountain.jpg"
       ]
     },
     {
@@ -178,6 +242,10 @@
               "end": -3147,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/golden_age_ends_kronos_devours.jpg",
+            "/media/03.the-dark-ages/golden_age_ends_great_deluge.jpg"
           ]
         },
         {
@@ -185,35 +253,53 @@
           "title": "Humanity was then cast out of the Garden",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/pyramids_around_the_world.png"
+          ]
         },
         {
           "id": "evt-jupiter-replaces-saturn-as-the-new-saviour",
           "title": "2860 BCE \u2014 Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.04.01-jupiter-replaces-saturn-as-the-new-saviour.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/planet_narnia.jpg"
+          ]
         },
         {
           "id": "evt-pyramids-myths-vs-reality",
           "title": "Pyramids: Myths vs Reality",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
+            "/media/03.the-dark-ages/history_pyramid_gates1.jpg"
+          ]
         },
         {
           "id": "evt-september-8-jupiter-disappears",
           "title": "2349 BCE \u2014 September 8 \u2014 Jupiter disappears",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.05.00-september-8-jupiter-disappears.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/venus_and_mars.jpg",
+            "/media/03.the-dark-ages/planet_venus_as_medusa.jpg"
+          ]
         },
         {
           "id": "evt-earth-leaves-last-absu-layer",
           "title": "2193\u20132167 BCE \u2014 Earth leaves last Absu layer & Seasons Begin",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.06.00-earth-leaves-last-absu-layer.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/binding_of_isaac.jpg",
+            "/media/03.the-dark-ages/mount_sinai.jpg"
+          ]
         },
         {
           "id": "evt-passover-of-comet-venus",
@@ -226,8 +312,15 @@
               "title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)",
               "type": "article",
               "md_path": "content/03.the-dark-ages/03.08.01-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/03.the-dark-ages/plagues_of_venus.jpg",
+                "/media/03.the-dark-ages/chinese_dragon.jpg"
+              ]
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/exodus.jpg"
           ]
         },
         {
@@ -242,6 +335,10 @@
               "end": -1442,
               "calendar": "BCE"
             }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/sun_stands_still_joshua_bayeux.jpg",
+            "/media/03.the-dark-ages/cathoderal.jpg"
           ]
         },
         {
@@ -249,7 +346,10 @@
           "title": "Mars (aka Prometheus) replaces Venus as the new Saviour",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.10.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/prometheus.jpg"
+          ]
         },
         {
           "id": "evt-march-23-priori-mars-loses-its",
@@ -263,7 +363,10 @@
           "title": "806\u2013670 BCE \u2014 Mars, Earth & Mercury finalize Orbits / 684 BCE \u2014 Solar System becomes stable",
           "type": "article",
           "md_path": "content/03.the-dark-ages/03.12.00-684-bce-solar-system-becomes-stable.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/03.the-dark-ages/lunar_calendar.jpg"
+          ]
         }
       ],
       "dates": [
@@ -272,6 +375,9 @@
           "end": -3147,
           "calendar": "BCE"
         }
+      ],
+      "media": [
+        "/media/03.the-dark-ages/dark-ages-timeline.svg"
       ]
     },
     {
@@ -285,8 +391,14 @@
           "title": "Building the New Chronology",
           "type": "article",
           "md_path": "content/04.the-blip/04.01.00-building-the-new-chronology.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/04.the-blip/building-new-chronology.png"
+          ]
         }
+      ],
+      "media": [
+        "/media/04.the-blip/blip-timeline.svg"
       ]
     },
     {
@@ -300,14 +412,21 @@
           "title": "1053 CE \u2014 'Year of our Lord' Deception \u2014 Anno Domini",
           "type": "article",
           "md_path": "content/05.ce-11th-common-era-begins/05.01.00-year-of-our-lord-deception.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/year-of-the-lord-deception.png"
+          ]
         },
         {
           "id": "evt-sun-replaces-mars-as-new-saviour",
           "title": "Sun replaces Mars as new Saviour",
           "type": "article",
           "md_path": "content/05.ce-11th-common-era-begins/05.02.00-sun-replaces-mars-as-new-saviour.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour.png",
+            "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour2.png"
+          ]
         },
         {
           "id": "evt-deep-state-centralize-world",
@@ -320,8 +439,15 @@
               "title": "New Religion of Constancy",
               "type": "article",
               "md_path": "content/05.ce-11th-common-era-begins/05.03.01-new-religion-of-constancy.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/05.ce-11th-common-era-begins/constancy.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/05.ce-11th-common-era-begins/deep-state-centralizes-world-religion.png",
+            "/media/05.ce-11th-common-era-begins/troy_1st_jerusalem.jpg"
           ]
         }
       ],
@@ -331,6 +457,10 @@
           "end": 1053,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/05.ce-11th-common-era-begins/11th_century_common_era_begins.png",
+        "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour.png"
       ]
     },
     {
@@ -350,8 +480,15 @@
               "title": "Hairy Mary: The Wild Woman Who Threatened Patriarchal Religion",
               "type": "article",
               "md_path": "content/06.ce-12th-birth-of-christianity/06.01.01-hairy-mary.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/06.ce-12th-birth-of-christianity/hairy-mary.png",
+                "/media/06.ce-12th-birth-of-christianity/hairy_mary.jpg"
+              ]
             }
+          ],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/giant_books.jpg"
           ]
         },
         {
@@ -366,6 +503,9 @@
               "end": 1152,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/map_tartaria_hondius.jpg"
           ]
         },
         {
@@ -379,8 +519,16 @@
               "title": "The Brother on the Cross",
               "type": "article",
               "md_path": "content/06.ce-12th-birth-of-christianity/06.03.01-the-brother-on-the-cross.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/06.ce-12th-birth-of-christianity/tomb_of_christ_and_brother.jpg"
+              ]
             }
+          ],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/crucifixion_descent_tintoretto_1565.jpg",
+            "/media/06.ce-12th-birth-of-christianity/hans_bol_crucifixion_1587.jpg",
+            "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png"
           ]
         },
         {
@@ -388,14 +536,20 @@
           "title": "Revolution Despite Christ's Martyrdom",
           "type": "article",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/conjunction.jpg"
+          ]
         },
         {
           "id": "evt-the-first-crusade-trojan-war",
           "title": "1196 CE \u2014 The First Crusade & Trojan War",
           "type": "article",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.05.00-the-first-crusade-trojan-war.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/06.ce-12th-birth-of-christianity/1196_revenge_for_christ.png"
+          ]
         }
       ],
       "dates": [
@@ -404,6 +558,9 @@
           "end": 1100,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/06.ce-12th-birth-of-christianity/twelve_tribes_zodiac.jpg"
       ]
     },
     {
@@ -423,15 +580,27 @@
               "title": "The Masons: Imperial Builders of the Rus-Horde Empire",
               "type": "article",
               "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.01-the-masons.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/07.ce-13th-the-russian-horde-tartarian-empire/the-masons.png"
+              ]
             },
             {
               "id": "evt-the-giants-of-the-rus-horde",
               "title": "The Giants of the Rus-Horde",
               "type": "article",
               "md_path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/07.ce-13th-the-russian-horde-tartarian-empire/giants-of-the-rus-horde.png",
+                "/media/07.ce-13th-the-russian-horde-tartarian-empire/giants_write_books.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/the-second-golden-age.png",
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/tartarian_empire_emerges_14th_century.jpg",
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/giants_write_books.png"
           ]
         },
         {
@@ -446,6 +615,9 @@
               "end": 1258,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/1258ce_christ_dies.png"
           ]
         },
         {
@@ -460,6 +632,9 @@
               "end": 1285,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/07.ce-13th-the-russian-horde-tartarian-empire/1285_olympics.png"
           ]
         }
       ],
@@ -469,6 +644,11 @@
           "end": 1200,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.png",
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
       ]
     },
     {
@@ -502,8 +682,15 @@
               "title": "European Castles \u2014 Fortresses Against Giants",
               "type": "article",
               "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.02.01-european-castles-fortresses-against-giants.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/08.ce-14th-great-expansion-of-the-mongol-slav/castles-vs-giants.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/1380ce_battle_of_kulikovo.png",
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/extraordinary_black_book.jpg"
           ]
         },
         {
@@ -517,8 +704,14 @@
               "title": "Geopolymer Concrete: The Horde's Construction Secret",
               "type": "article",
               "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.01-geopolymer-concrete-horde-secret.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/08.ce-14th-great-expansion-of-the-mongol-slav/pyramid-concrete.png"
+              ]
             }
+          ],
+          "media": [
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/imperial-technology.png"
           ]
         }
       ],
@@ -528,6 +721,10 @@
           "end": 1300,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-great-expansion.png",
+        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-hundred-years-war-begins.png"
       ]
     },
     {
@@ -548,6 +745,10 @@
               "end": 1431,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/jeanne-darc-is-executed.png",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
           ]
         },
         {
@@ -569,14 +770,20 @@
           "title": "Gutenberg Bible (1455 CE) / Latin: Language of the Deep State",
           "type": "article",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.01-language-of-the-deep-state.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/latin-language-of-deep-state.png"
+          ]
         },
         {
           "id": "evt-deep-state-redacts-christianity-into-jesuit-catholicism",
           "title": "Deep State Redacts Christianity into Jesuit Catholicism",
           "type": "article",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.02-deep-state-redacts-christianity-into-jesuit-catholicism.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/christianity-redacted-into-monotheism.png"
+          ]
         },
         {
           "id": "evt-revelation-coming-apocalypse",
@@ -597,6 +804,12 @@
               "end": 1492,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse-crusade.png",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_vasnetsov.jpg",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/pompeii_painting.jpg",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_b_west.jpg"
           ]
         },
         {
@@ -604,7 +817,10 @@
           "title": "Theory: The Reverse Exodus",
           "type": "article",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.06.00-the-reverse-exodus-theory.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/08.ce-14th-great-expansion-of-the-mongol-slav/reverse-exodus-theory.png"
+          ]
         }
       ],
       "dates": [
@@ -613,6 +829,9 @@
           "end": 1400,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/09.ce-15th-ottoman-conquest-of-europe/15th-conquest-of-europe.png"
       ]
     },
     {
@@ -626,7 +845,10 @@
           "title": "1523 CE \u2014 Jesuits make \"Pilgrimage\" to Jerusalem",
           "type": "article",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.02.00-jesuits-make-pilgrimage-to.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/galileo_facing_the_inquisition.jpg"
+          ]
         },
         {
           "id": "evt-1542-ce-the-holy-inquisition",
@@ -639,7 +861,10 @@
               "title": "Heresy of the Judaizers",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.03.01-heresy-of-the-judaizers.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/10.ce-16th-reformation-and-inquisition/cathar_suppression.jpg"
+              ]
             },
             {
               "id": "evt-cathar-suppression",
@@ -662,6 +887,9 @@
               "end": 1542,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/jews_vs_gentiles.jpg"
           ]
         },
         {
@@ -675,7 +903,10 @@
               "title": "The Cathar\u2013Khazar\u2013Katya Connection",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.05.01-cathar-khazar-katya-link.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/10.ce-16th-reformation-and-inquisition/cathar-khazar-katya.png"
+              ]
             }
           ]
         },
@@ -691,6 +922,9 @@
               "end": 1565,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/10.ce-16th-reformation-and-inquisition/oprichniki_bish.jpg"
           ]
         },
         {
@@ -707,6 +941,10 @@
           "end": 1500,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/10.ce-16th-reformation-and-inquisition/painting_ottoman_invades_vienna_1683.jpg",
+        "/media/10.ce-16th-reformation-and-inquisition/painting_german_peasant_war_1525.jpg"
       ]
     },
     {
@@ -754,7 +992,10 @@
               "title": "1564\u20131616 CE \u2014 Shakespeare Encodes the Horde",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.01.03-shakespeare-encodes-the-horde.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/shakespeare-encodes-the-horde.png"
+              ]
             }
           ]
         },
@@ -797,6 +1038,9 @@
                   "end": 1642,
                   "calendar": "CE"
                 }
+              ],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/1652_massacre_of_polish_captives_at_batih.jpg"
               ]
             },
             {
@@ -855,6 +1099,9 @@
                   "end": 1666,
                   "calendar": "CE"
                 }
+              ],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/great_comet_of_1665.jpg"
               ]
             },
             {
@@ -930,6 +1177,9 @@
           "end": 1600,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/11.ce-17th-romanovs-rise-to-power/king_james_bible.jpg"
       ]
     },
     {
@@ -957,14 +1207,20 @@
           "title": "1774 CE \u2014 The MudFlood & World Cataclysm",
           "type": "article",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png"
+          ]
         },
         {
           "id": "evt-instant-fossilization-electric",
           "title": "Instant Fossilization & Electric",
           "type": "article",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.04.00-instant-fossilization-electric.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png"
+          ]
         },
         {
           "id": "evt-1774-ce-the-mars-catastrophe",
@@ -984,6 +1240,9 @@
                   "end": 1774,
                   "calendar": "CE"
                 }
+              ],
+              "media": [
+                "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png"
               ]
             }
           ],
@@ -993,6 +1252,10 @@
               "end": 1774,
               "calendar": "CE"
             }
+          ],
+          "media": [
+            "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png",
+            "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png"
           ]
         },
         {
@@ -1077,6 +1340,9 @@
                   "end": 1840,
                   "calendar": "CE"
                 }
+              ],
+              "media": [
+                "/media/13.ce-19th-rise-of-communism/last-absu-seen.png"
               ]
             },
             {
@@ -1113,8 +1379,15 @@
                   "end": 1883,
                   "calendar": "CE"
                 }
+              ],
+              "media": [
+                "/media/13.ce-19th-rise-of-communism/ivan-kinkel.png"
               ]
             }
+          ],
+          "media": [
+            "/media/13.ce-19th-rise-of-communism/marx-vs-kinkel.png",
+            "/media/13.ce-19th-rise-of-communism/gottfried-kinkel-escape.png"
           ]
         },
         {
@@ -1157,7 +1430,10 @@
           "title": "1865\u20131930 CE \u2014 Suppression of Maxwell & Aether",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.07.00-suppression-of-maxwell-aether.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/13.ce-19th-rise-of-communism/maxwell-was-right.png"
+          ]
         }
       ],
       "dates": [
@@ -1229,14 +1505,20 @@
           "title": "1904\u20131950 CE \u2014 American Chestnut Blight: Martian Incursion Contamination",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.06.00-american-chestnut-blight-martian.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/14.ce-20th-the-1917-revolution/chestnut-blight.png"
+          ]
         },
         {
           "id": "evt-mockingbird-public-erasure",
           "title": "1948\u20131975 CE \u2014 Mockingbird: Public Erasure",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.07.00-mockingbird-public-erasure.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/14.ce-20th-the-1917-revolution/mockingbird.png"
+          ]
         },
         {
           "id": "evt-mars-literature-as-reclassified-nonfiction",
@@ -1264,7 +1546,10 @@
           "title": "1910\u20131935 CE \u2014 Flexner Report & Suppression of Bioelectric Medicine",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.11.00-flexner-report-suppression-of.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/14.ce-20th-the-1917-revolution/tennant-electricity-in-the-body.png"
+          ]
         },
         {
           "id": "evt-world-war-ii-reverse-crusade-iii",
@@ -1322,7 +1607,10 @@
           "title": "1890\u20131985 CE \u2014 20th C. Predictive Programming",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.02.00-20th-c-predictive-programming.md",
-          "children": []
+          "children": [],
+          "media": [
+            "/media/13.ce-19th-rise-of-communism/wells-spinster.png"
+          ]
         },
         {
           "id": "evt-false-flags-architecture-of",
@@ -1402,6 +1690,9 @@
               "md_path": "content/16.appendix/16.01.02-predictive-programming-literature.md",
               "children": []
             }
+          ],
+          "media": [
+            "/media/15.ce-21st-the-final-struggle/predictive-programming.png"
           ]
         },
         {
@@ -1473,84 +1764,123 @@
               "title": "N. A. Morozov",
               "type": "article",
               "md_path": "content/16.appendix/16.07.01-n-a-morozov.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/na-morozov.png"
+              ]
             },
             {
               "id": "evt-wal-thornhill",
               "title": "Wal Thornhill",
               "type": "article",
               "md_path": "content/16.appendix/16.07.02-wal-thornhill.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/wal-thornhill.png"
+              ]
             },
             {
               "id": "evt-ralph-juergens",
               "title": "Ralph Juergens",
               "type": "article",
               "md_path": "content/16.appendix/16.07.03-ralph-juergens.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/ralph_juergens.png",
+                "/media/00.overview/ralph_juergens_chart.png",
+                "/media/00.overview/ralph_juergens_photo.png",
+                "/media/00.overview/ralph_juergens_murdered.png"
+              ]
             },
             {
               "id": "evt-immanuel-velikovsky",
               "title": "Immanuel Velikovsky (1895\u20131979)",
               "type": "article",
               "md_path": "content/16.appendix/16.07.04-immanuel-velikovsky.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/immanuel-velikovsky.png"
+              ]
             },
             {
               "id": "evt-anatoly-fomenko",
               "title": "Anatoly Fomenko (b. 1945)",
               "type": "article",
               "md_path": "content/16.appendix/16.07.05-anatoly-fomenko.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/anatoly-fomenko.png"
+              ]
             },
             {
               "id": "evt-david-talbott",
               "title": "David Talbott (b. 1942)",
               "type": "article",
               "md_path": "content/16.appendix/16.07.06-david-talbott.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/david-talbott.png"
+              ]
             },
             {
               "id": "evt-anthony-peratt",
               "title": "Anthony Peratt (b. 1940)",
               "type": "article",
               "md_path": "content/16.appendix/16.07.07-anthony-peratt.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/anthony-peratt.png"
+              ]
             },
             {
               "id": "evt-jno-cook",
               "title": "Jno Cook",
               "type": "article",
               "md_path": "content/16.appendix/16.07.08-jno-cook.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/jno-cook.png"
+              ]
             },
             {
               "id": "evt-alfred-de-grazia",
               "title": "Alfred de Grazia (1919\u20132014)",
               "type": "article",
               "md_path": "content/16.appendix/16.07.09-alfred-de-grazia.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/alfred-de-grazia.png"
+              ]
             },
             {
               "id": "evt-donald-scott",
               "title": "Donald Scott",
               "type": "article",
               "md_path": "content/16.appendix/16.07.10-donald-scott.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/donald-scott.png"
+              ]
             },
             {
               "id": "evt-ev-cochrane",
               "title": "Ev Cochrane (b. 1952)",
               "type": "article",
               "md_path": "content/16.appendix/16.07.11-ev-cochrane.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/ev-cochrane.png"
+              ]
             },
             {
               "id": "evt-de-santillana-von-dechend",
               "title": "Giorgio de Santillana & Hertha von Dechend",
               "type": "article",
               "md_path": "content/16.appendix/16.07.12-de-santillana-von-dechend.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/16.appendix/Giorgio-de-Santillana-Hertha-von-Dechend.png"
+              ]
             },
             {
               "id": "evt-heribert-illig",
@@ -1721,7 +2051,10 @@
               "title": "Deep State breaks up the Hordian Empire (Extended)",
               "type": "article",
               "md_path": "content/16.appendix/16.13.01-hordian-empire-fracture.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/eight_pointed_star_and_crescent.jpg"
+              ]
             }
           ]
         },
@@ -1792,7 +2125,10 @@
               "title": "Building the New Chronology (Extended)",
               "type": "article",
               "md_path": "content/16.appendix/16.22.01-building-the-new-chronology-appendix.md",
-              "children": []
+              "children": [],
+              "media": [
+                "/media/04.the-blip/building-new-chronology.png"
+              ]
             }
           ]
         },
@@ -1809,6 +2145,9 @@
               "md_path": "content/16.appendix/16.23.01-jesuit-ops-conversion-empire.md",
               "children": []
             }
+          ],
+          "media": [
+            "/media/04.the-blip/other-challenges-to-chronology.png"
           ]
         },
         {
