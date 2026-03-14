@@ -1,9 +1,10 @@
 {
   "name": "paradigm-threat-timeline",
-  "version": "1.2.65",
+  "version": "1.2.67",
   "private": true,
   "type": "module",
   "scripts": {
+    "build-events": "python3 scripts/build-events-from-content.py",
     "generate-index": "python3 scripts/generate-index.py",
     "validate-events": "python3 scripts/validate-events.py",
     "audit-missing": "python3 scripts/audit-missing.py",

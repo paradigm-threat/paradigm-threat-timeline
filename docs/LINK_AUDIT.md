@@ -1,0 +1,318 @@
+# Link Audit — Broken `/timeline/evt-xxx` Links
+
+**Status:** Pending approval  
+**Total broken links:** ~663 occurrences across content  
+**Last run:** 2025-03-12
+
+---
+
+## 1. Duplicate XX.YY.ZZ — File Rename Recommendations
+
+The build fails because three section numbers have duplicate files. Recommend renaming one file in each pair to get a unique `XX.YY.ZZ`:
+
+| Current Path | Proposed New Path |
+|--------------|-------------------|
+| `content/16.appendix/16.13.00-hordian-empire-fracture.md` | `content/16.appendix/16.13.01-hordian-empire-fracture.md` |
+| `content/16.appendix/16.22.00-building-the-new-chronology.md` | `content/16.appendix/16.22.01-building-the-new-chronology-appendix.md` |
+| `content/16.appendix/16.23.00-jesuit-ops-conversion-empire.md` | `content/16.appendix/16.23.01-jesuit-ops-conversion-empire.md` |
+
+**Effect:** Slugs stay the same, so event ids are unchanged. Build will succeed.
+
+---
+
+## 2. Link Fix Mapping (Update Links in Content)
+
+For each broken link id, replace with the correct id below. All fixes are **link updates only** — no file renames needed for these.
+
+### Golden Age / Cosmology
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-the-absu-layers-surrounded-the-planets` | `evt-absu-layers-surrounded-planets` |
+| `evt-the-golden-age` | `evt-4077-bce-the-golden-age` |
+| `evt-proto-saturn-joins-the-suns-orbit-and-lights-up` | `evt-proto-saturn-joins-the-sun-s-orbit` |
+| `evt-saturns-collinear-planetary-configuration-the-tree` | `evt-atlantis-and-the-tree-of-knowledge` |
+| `evt-northern-hemisphere-configuration` | `evt-northern-configuration` |
+| `evt-southern-hemisphere-configuration` | `evt-3-plasmoids-southern-hemisphere` |
+| `evt-the-225-day-year` | `evt-the-length-of-a-year-changes-throughout-antiquity` |
+| `evt-the-dark-ages` | `evt-3147-bce-the-dark-ages` |
+| `evt-the-golden-age-ends-violently` | `evt-3147-bce-the-golden-age-ends-violently` |
+| `evt-southern-configuration` | `evt-3-plasmoids-southern-hemisphere` |
+| `evt-seven-days-of-creation-extended` | `evt-seven-days-of-creation` |
+
+### Saviour Transitions (truncated / alternate names)
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-the-sun-replaces-mars-as-the-new-saviour` | `evt-sun-replaces-mars-as-new-saviour` |
+| `evt-jupiter-replaces-saturn-as-the-new-saviour-aka-zeu` | `evt-jupiter-replaces-saturn-as-the-new-saviour` |
+| `evt-venus-replaces-jupiter-as-the-new-saviour-aka-josh` | `evt-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer` |
+| `evt-mars-aka-prometheus-replaces-venus-as-the-new-savi` | `evt-mars-aka-prometheus-replaces-venus-as-the-new-saviour` |
+| `evt-september-8-jupiter-disappears-and-venus-attacks-e` | `evt-september-8-jupiter-disappears` |
+| `evt-earth-leaves-last-absu-layer-and-jupiter-consumes-` | `evt-earth-leaves-last-absu-layer` |
+| `evt-sodom-and-gomorrah-are-completely-destroyed-by-mar` | `evt-september-8-jupiter-disappears` |
+
+### Deep State / Empire
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-british-empire-as-deep-state-instrument` | `evt-british-empire-as-deep-state` |
+| `evt-british-empire-deep-state` | `evt-british-empire-as-deep-state` |
+| `evt-deep-state-redacts-christianity-into-jesuit-cathol` | `evt-deep-state-redacts-christianity-into-jesuit-catholicism` |
+| `evt-deep-state-centralize-world-religion-at-jerusalem` | `evt-deep-state-centralize-world` |
+| `evt-year-of-our-lord-deception-1053-year-shift-forward` | `evt-year-of-our-lord-deception` |
+| `evt-deep-state-the-census-and-the-naming-of-christ` | `evt-deep-state-the-census-naming` |
+| `evt-deep-state-erases-russian-empire-from-all-chronolo` | `evt-1627-ce-deep-state-erases-russian-empire-from-all-chronology` |
+| `evt-deep-state-breaks-up-the-hordian-empire` | `evt-slave-trades-and-the-horde-fracture` |
+| `evt-deep-state-solidifies-central-banking` | `evt-london-1664-1694-financial-coup` |
+| `evt-ce-deep-state-targets-independent-banks` | `evt-london-1664-1694-financial-coup` |
+| `evt-the-deep-state-and-the-atlantean-priest-class` | `evt-atlantis-and-the-tree-of-knowledge` |
+
+### Jesuit / Inquisition
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-jesuits-make-pilgrimage-to-palestine` | `evt-jesuits-make-pilgrimage-to` |
+| `evt-jesuits-convert-native-religions-to-monotheism` | `evt-jesuits-missions-convert-asians-to-buddhism` |
+| `evt-secret-society-of-jesus-goes-public` | `evt-1718-ce-secret-society-of-jesus-goes-public` |
+| `evt-jesuit-restoration-missionary-military-pattern` | `evt-jesuit-restoration-mission-pattern` |
+| `evt-jesuits-reach-africa` | `evt-jesuit-restoration-mission-pattern` |
+
+### Censorship / Mockingbird / Opposition
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-censorship-and-book-burning` | `evt-censorship-book-burning-from` |
+| `evt-operation-mockingbird` | `evt-operation-mockingbird-historical-chain` |
+| `evt-mockingbird-historical-chain` | `evt-operation-mockingbird-historical-chain` |
+| `evt-thunderbolts-case-study` | `evt-controlled-opposition-thunderbolts-case-study` |
+| `evt-controlled-opposition` | `evt-controlled-opposition-managed-disclosure` (or `evt-controlled-opposition-thunderbolts-case-study` depending on context) |
+
+### Predictive Programming / Literature
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-predictive-programming` | `evt-predictive-programming-film-tv-games` (default; use `-literature` or `-fiction-as-control` where context fits) |
+| `evt-predictive-programming-literature-extended` | `evt-predictive-programming-literature` |
+| `evt-pp-film-tv-games` | `evt-predictive-programming-film-tv-games` |
+| `evt-20th-century-predictive-programming-literature` | `evt-predictive-programming-literature` |
+| `evt-asimov-marx-in-space` | `evt-asimov-three-laws-and-marx-encoding` |
+| `evt-asimov-marx-extended` | `evt-asimov-three-laws-and-marx-encoding` |
+| `evt-asimov-three-laws-marx-encoding-extended` | `evt-asimov-three-laws-and-marx-encoding` |
+| `evt-mars-literature-appendix` | `evt-mars-literature-author-profiles` |
+| `evt-mars-literature-reclassified` | `evt-mars-literature-as-reclassified-nonfiction` |
+| `evt-mars-catastrophe` | `evt-1774-ce-the-mars-catastrophe` |
+| `evt-mars-catastrophe-brandenburg` | `evt-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence` |
+
+### Population / Slavery / Empire
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-population-control` | `evt-population-control-timeline-15th-21st-centuries` |
+| `evt-population-control-timeline` | `evt-population-control-timeline-15th-21st-centuries` |
+| `evt-slave-trades-horde-fracture` | `evt-slave-trades-and-the-horde-fracture` |
+| `evt-romanov-seizure-and-fracturing-of-the-empire` | `evt-romanov-seizure-fracturing-of` |
+| `evt-romanovs-dynasty-takes-the-throne` | `evt-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne` |
+| `evt-romanov-dynasty-stages-the-oprichnina-coup` | `evt-1565-ce-romanov-dynasty-stages-the-oprichnina-coup` |
+| `evt-romanovs-zakharyin-yurievs-dynasty-takes-the-thron` | `evt-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne` |
+| `evt-hordian-empire-fracture-extended` | `evt-slave-trades-and-the-horde-fracture` |
+
+### False Flags / Napoleon / 1812
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-false-flags` | `evt-false-flags-architecture` (or `evt-false-flags-investigation` where appropriate) |
+| `evt-false-flags-appendix` | `evt-false-flags-architecture` |
+| `evt-false-flags-architecture-extended` | `evt-false-flags-architecture` |
+| `evt-napoleonic-wars` | `evt-napoleonic-wars-1812-evidence` |
+| `evt-napoleon-invades-russia` | `evt-napoleon-1812-campaign` |
+| `evt-aftermath-of-1812-russian-pursuit-to-paris` | `evt-1814-ce-aftermath-of-1812-russian-pursuit-to-paris` |
+| `evt-napoleonic-1812-extended` | `evt-napoleon-1812-campaign` |
+| `evt-napoleonic-wars-1812-extended-evidence` | `evt-napoleonic-wars-1812-evidence` |
+| `evt-napoleon-1812-campaign-extended` | `evt-napoleon-1812-campaign` |
+
+### Mudflood / Pugachev / Trail of Tears
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-the-mudflood-and-world-cataclysm` | `evt-the-mudflood-world-cataclysm` |
+| `evt-the-rebellion-of-pugachev` | `evt-1773-ce-the-rebellion-of-pugachev` |
+| `evt-pugachev-rebellion` | `evt-1773-ce-the-rebellion-of-pugachev` |
+| `evt-trail-of-tears-century-long-erasure` | `evt-trail-tears-century-long-erasure` |
+| `evt-orphan-trains-trail-of-tears-siberian-exile` | `evt-orphan-trains-trail-of-tears-evidence` |
+| `evt-mudflood-extended-evidence` | `evt-mudflood-evidence` |
+
+### London 1666 / Goldsmiths
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-sept-6-1666-ce-london-burns-to-the-ground` | `evt-1666-ce-london-burns-to-the-ground-sept-2-6-1666` |
+| `evt-the-apocalypse-prophecy-of-1666` | `evt-1666-ce-the-apocalypse-prophecy-of-1666` |
+| `evt-the-apocalypse-crusade-reverse-exodus` | `evt-1492-ce-the-apocalypse-crusade` |
+| `evt-goldsmiths-and-the-death-of-independent-valuation` | `evt-the-goldsmiths-and-the-death-of-independent-valuation` |
+| `evt-the-cabal-englands-shadow-cabinet` | `evt-1668-ce-the-cabal-englands-shadow-cabinet` |
+| `evt-the-great-comet-of-1664-1665` | `evt-london-1664-1694-financial-coup` |
+| `evt-the-great-plague-of-1664-1666` | `evt-london-1664-1694-financial-coup` |
+| `evt-dutch-burn-the-english-fleet` | `evt-london-1664-1694-financial-coup` |
+
+### Author Profiles (evt-ap-X → evt-actual-slug)
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-ap-morozov` | `evt-n-a-morozov` |
+| `evt-ap-thornhill` | `evt-wal-thornhill` |
+| `evt-ap-juergens` | `evt-ralph-juergens` |
+| `evt-ap-velikovsky` | `evt-immanuel-velikovsky` |
+| `evt-ap-fomenko` | `evt-anatoly-fomenko` |
+| `evt-ap-talbott` | `evt-david-talbott` |
+| `evt-ap-peratt` | `evt-anthony-peratt` |
+| `evt-ap-jno-cook` | `evt-jno-cook` |
+| `evt-ap-de-grazia` | `evt-alfred-de-grazia` |
+| `evt-ap-donald-scott` | `evt-donald-scott` |
+| `evt-ap-cochrane` | `evt-ev-cochrane` |
+| `evt-ap-de-santillana` | `evt-de-santillana-von-dechend` |
+| `evt-ap-illig` | `evt-heribert-illig` |
+| `evt-ap-heinsohn` | `evt-gunnar-heinsohn` |
+| `evt-ap-cardona` | `evt-dwardu-cardona` |
+| `evt-ap-clube-napier` | `evt-clube-napier` |
+| `evt-ap-stecchini` | `evt-livio-stecchini` |
+| `evt-ap-rose-vaughan` | `evt-rose-vaughan` |
+| `evt-ap-van-flandern` | `evt-tom-van-flandern` |
+| `evt-ap-van-der-sluijs` | `evt-martinus-van-der-sluijs` |
+| `evt-ap-ginenthal` | `evt-charles-ginenthal` |
+| `evt-ap-schoch` | `evt-robert-schoch` |
+| `evt-ap-hancock` | `evt-graham-hancock` |
+| `evt-ap-cremo` | `evt-michael-cremo` |
+| `evt-ap-jerry-tennant` | `evt-jerry-tennant` |
+
+### Suppression / Energy / Weapons
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-maxwell-and-the-suppression-of-the-aether` | `evt-suppression-of-maxwell-aether` |
+| `evt-flexner-bioelectric-suppression` | `evt-flexner-report-suppression-of` |
+| `evt-suppressed-energy-cross-reference` | `evt-suppressed-energy-technology-cross-reference` |
+| `evt-weather-control` | `evt-weather-control-from-martian` |
+| `evt-cern-lhc-portal` | `evt-2009-ce-cern-s-lhc-portal` |
+| `evt-nuclear-energy-and-the-bomb` | `evt-nuclear-energy-bomb-most` |
+| `evt-19th-century-weapons-declassification-thesis` | `evt-19th-century-weapons` |
+| `evt-the-rainbow-bridge-bifrost` | `evt-suppression-of-maxwell-aether` |
+
+### Soviet / Censorship / Historiography
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-soviet-historiography` | `evt-soviet-historiography-bogdanov` (or `evt-soviet-historiography-final-layer` where appropriate) |
+| `evt-king-james-bible` | `evt-deep-state-the-census-naming` |
+| `evt-king-james-version-of-the-bible-is-published` | `evt-deep-state-the-census-naming` |
+| `evt-gregorian-calendar-adjustment` | `evt-gregorian-calendar-makes-slight` |
+
+### Christ / Crusades / Horde
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-historical-christ-dies` | `evt-1258-ce-historical-christ-dies` |
+| `evt-historical-christ-is-crucified-in-istanbul` | `evt-christ-is-crucified-in-istanbul` |
+| `evt-the-first-crusade-and-the-trojan-war` | `evt-the-first-crusade-trojan-war` |
+| `evt-the-revolution-survives-despite-christs-martyrdom` | `evt-revolution-despite-martyrdom` |
+| `evt-13th-century-ce-the-russian-horde-tartarian-empire` | `evt-1200-ce-13th-century-ce-the-russian-horde-tartarian-empire-e` |
+| `evt-14th-century-ce-great-expansion-of-the-mongol-slav` | `evt-1300-ce-14th-century-ce-the-great-expansion-triumph-and-betr` |
+| `evt-16th-century-ce-reformation-and-inquisition` | `evt-1500-ce-16th-century-ce-reformation-and-inquisition` |
+| `evt-17th-century-from-empire-to-invisible-government` | `evt-1600-ce-17th-century-from-empire-to-invisible-government` |
+| `evt-european-religious-schism-emerges` | `evt-1300-ce-european-religious` |
+| `evt-the-holy-inquisition` | `evt-1542-ce-the-holy-inquisition` |
+| `evt-latin-is-the-language-of-the-deep-state` | `evt-language-of-the-deep-state` |
+| `evt-giants-are-defeated-at-the-battle-of-kulikovo` | `evt-giants-are-defeated-at-the-battle-of` |
+| `evt-hundred-years-war-ends` | `evt-1300-ce-14th-century-ce-the-great-expansion-triumph-and-betr` |
+| `evt-khazar-rebellion-in-the-russia-horde-empire` | `evt-khazar-rebellion-in-the` |
+| `evt-russia-and-turkey-begin-300-years-of-war` | `evt-1648-ce-cossack-polish-war-begins-ethnic-cleansing-of-russia` |
+| `evt-ce-the-english-revolution-and-civil-wars` | `evt-1642-ce-the-english-revolution-and-civil-wars` |
+| `evt-great-fight-in-the-heart-of-western-europe` | `evt-1618-ce-great-fight-in-the-heart-of-western-europe` |
+| `evt-cossackpolish-war-begins-ethnic-cleansing-of-russi` | `evt-1648-ce-cossack-polish-war-begins-ethnic-cleansing-of-russia` |
+| `evt-resistance-and-religious-wars` | `evt-resistance-religious-wars` |
+| `evt-marfull-framework-mediterranean-realignment` | `evt-marfull-framework` |
+| `evt-london-1664-1694-the-financial-coup` | `evt-london-1664-1694-financial-coup` |
+| `evt-jesuit-global-operations-17th-century` | `evt-1718-ce-secret-society-of-jesus-goes-public` |
+
+### Ottoman / Cathars / Exodus
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-fall-of-czar-grad-constantinople` | `evt-1453-ce-fall-of-czar-grad-constantinople` |
+| `evt-cathars-are-annihilated-in-a-reversed-holy-crusade` | `evt-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition` |
+| `evt-the-passover-of-comet-venus-and-exodus-from-the-py` | `evt-passover-of-comet-venus` |
+| `evt-revelation-of-the-coming-apocalypse` | `evt-revelation-coming-apocalypse` |
+| `evt-redacted-into-the-books-of-esther-judith` | `evt-pentateuch-as-horde-chronicle` |
+| `evt-jeanne-darc-is-executed-in-rouen-france` | `evt-1431-ce-jeanne-darc-is-executed-in-rouen-france` |
+| `evt-meteorite-star-metal-falls-on-yaroslavl` | `evt-1453-ce-fall-of-czar-grad-constantinople` |
+
+### Blip / Chronology
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-constancy-doctrine` | `evt-new-religion-of-constancy` |
+| `evt-the-blip-7th-century-bce-to-10th-century-ce-never-` | `evt-670-bce-the-blip` |
+| `evt-building-the-new-chronology-extended` | `evt-building-the-new-chronology` |
+| `evt-other-challenges-to-chronology-extended` | `evt-other-challenges-to-chronology` |
+| `evt-timeline-sync-tables` | `evt-timeline-synchronization-tables` |
+| `evt-fomenko-pyramid-question` | `evt-fomenko-and-the-pyramid-question` |
+| `evt-orphan-trains-evidence` | `evt-orphan-trains-trail-of-tears-evidence` |
+
+### 20th / 21st Century
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-trump-maga-revolution` | `evt-trump` |
+| `evt-the-final-struggle` | `evt-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv` |
+| `evt-1917-revolution` | `evt-bolshevik-revolution-fulfilment-of` |
+| `evt-the-1917-revolution` | `evt-bolshevik-revolution-fulfilment-of` |
+| `evt-hijacking-of-communism` | `evt-1883-ce-the-hijacking-of-communism` |
+| `evt-the-battle-for-communisms-soul` | `evt-battle-for-communism-s-soul` |
+| `evt-the-hijacking-of-communism` | `evt-1883-ce-the-hijacking-of-communism` |
+| `evt-controlled-opposition-extended` | `evt-controlled-opposition-managed-disclosure` |
+| `evt-historical-antibodies-extended` | `evt-historical-antibodies` |
+| `evt-antibodies-appendix` | `evt-historical-antibodies-pattern` |
+| `evt-authors-cataclysm-appendix` | `evt-authors-cataclysm-texts` |
+| `evt-napoleonic-1812-extended` | `evt-napoleon-1812-campaign` |
+
+### Misc / Appendices
+
+| Broken Link | → Fix To |
+|-------------|----------|
+| `evt-american-chestnut-blight` | `evt-american-chestnut-blight-martian` |
+| `evt-instant-fossilization-and-electric-petrification` | `evt-instant-fossilization-electric` |
+| `evt-saturnian-cosmology` | `evt-4077-bce-the-golden-age` |
+| `evt-the-electric-universe-safire` | `evt-1774-ce-the-mars-catastrophe` |
+| `evt-carbon-14-spike-774-ce` | `evt-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence` |
+| `evt-mysterious-carbon-14-spike` | `evt-1774-ce-the-mars-catastrophe-brandenburgs-nuclear-evidence` |
+| `evt-the-planets-are-at-war` | `evt-1774-ce-the-mars-catastrophe` |
+| `evt-assault-on-hordian-memory` | `evt-19th-century-assault-on-hordian` |
+| `evt-imperial-technology-and-the-knowledge-of-the-horde` | `evt-imperial-technology-knowledge` |
+| `evt-russian-empire-expands-through-conquest` | `evt-1300-ce-14th-century-ce-the-great-expansion-triumph-and-betr` |
+| `evt-12th-century-ce-birth-of-christianity` | `evt-1100-ce-12th-century-ce-birth-of-christianity` |
+| `evt-tchaikovsky-releases-1812-overture` | `evt-1880-ce-tchaikovsky-releases-1812-overture` |
+| `evt-ww2-aftermath-evacuation-technology` | `evt-world-war-ii-aftermath` |
+| `evt-philadelphia-experiment` | `evt-1774-ce-the-mars-catastrophe` |
+| `evt-pyramids-were-portals` | `evt-pyramids-myths-vs-reality` |
+
+---
+
+## 3. No Clear Target (Review Manually)
+
+These broken links have no obvious 1:1 mapping. May need new content or a judgment call:
+
+| Broken Link | Notes |
+|-------------|-------|
+| `evt-ap-thornhill` (if not in table) | → `evt-wal-thornhill` |
+| `evt-the-mars-catastrophe` | Could be `evt-1774-ce-the-mars-catastrophe` |
+| `evt-the-mudflood-and-world-cataclysm` | → `evt-the-mudflood-world-cataclysm` |
+
+---
+
+## Next Steps
+
+1. **Approve** duplicate file renames (Section 1).
+2. **Approve** link fix mapping (Section 2).
+3. Run `scripts/apply-link-fixes.py` (to be created) with the approved mapping.
+4. Run `npm run build` to regenerate `events.json` and verify.
+5. Re-run `scripts/audit-links.py` to confirm zero broken links.

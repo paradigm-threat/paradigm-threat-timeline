@@ -337,7 +337,7 @@
       "11.05.00-british-empire-as-deep-state.md": {
         "_title": "British Empire as Deep State Instrument"
       },
-      "11.05.00-jesuits-missions-convert-asians-to-buddhism.md": {
+      "11.05.01-jesuits-missions-convert-asians-to-buddhism.md": {
         "_title": "Jesuits Missions convert Asians to Buddhism"
       },
       "11.06.00-slave-trades-and-the-horde-fracture.md": {
@@ -442,8 +442,8 @@
       "14.07.00-mockingbird-public-erasure.md": {
         "_title": "1948\u20131975 CE \u2014 Mockingbird: Public Erasure"
       },
-      "14.08.00-1880-ce-mars-literature-as-reclassified-nonfiction.md": {
-        "_title": "1880\u20131996 CE \u2014 Mars Literature as Reclassified Nonfiction"
+      "14.08.00-mars-literature-as-reclassified-nonfiction.md": {
+        "_title": "Mars Literature as Reclassified Nonfiction"
       },
       "14.09.00-nuclear-energy-bomb-most.md": {
         "_title": "1938\u20131977 CE \u2014 Nuclear Energy & \"Bomb\": Most Dangerous Deception"
@@ -637,7 +637,7 @@
       "16.13.00-asimov-three-laws-and-marx-encoding.md": {
         "_title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence"
       },
-      "16.13.00-hordian-empire-fracture.md": {
+      "16.13.01-hordian-empire-fracture.md": {
         "_title": "Deep State breaks up the Hordian Empire (Extended)"
       },
       "16.14.00-mudflood-evidence.md": {
@@ -664,17 +664,17 @@
       "16.21.00-false-flags-architecture.md": {
         "_title": "False Flags: Architecture of Manufactured War (Extended)"
       },
-      "16.22.00-building-the-new-chronology.md": {
-        "_title": "Building the New Chronology (Extended)"
-      },
       "16.22.00-censorship-pattern.md": {
         "_title": "Censorship and Book Burning: From Alexandria to the Internet (Extended)"
       },
-      "16.23.00-jesuit-ops-conversion-empire.md": {
-        "_title": "Jesuit Operations: Conversion, Catholicism, and the New World (Extended)"
+      "16.22.01-building-the-new-chronology-appendix.md": {
+        "_title": "Building the New Chronology (Extended)"
       },
       "16.23.00-other-challenges-to-chronology.md": {
         "_title": "Other Challenges to Chronology (Extended)"
+      },
+      "16.23.01-jesuit-ops-conversion-empire.md": {
+        "_title": "Jesuit Operations: Conversion, Catholicism, and the New World (Extended)"
       },
       "16.24.00-reverse-crusades-structural-comparison.md": {
         "_title": "The Four Reverse Crusades: A Structural Comparison"
@@ -731,6 +731,9 @@
     "INVESTIGATIVE_STRATEGY.md": {
       "_title": "Investigative Strategy"
     },
+    "LINK_AUDIT.md": {
+      "_title": "Link Audit \u2014 Broken `/timeline/evt-xxx` Links"
+    },
     "OUTSTANDING_QUESTIONS.md": {
       "_title": "Outstanding Questions"
     },
@@ -746,7 +749,7 @@
     "TIMELINE_FAQ.md": {
       "_title": "FAQ"
     },
-    "_count": 14
+    "_count": 15
   },
   "export": {
     "timeline-appendix.pdf": {},
@@ -821,7 +824,7 @@
         "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAsABUB8JZACdADbZo5jKbwAAP2dTL3sXXpAWlKfjctB6fejzIohK6jkM9BpJI4iXsyeclX3NSzq6WlJ4AAA"
       },
       "before-creation.png": {
-        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JQBOgB42oAAA/uXvd9bhDLp2tzOy/s6SQSunQDtt4sNV/xLe6qVAAAA="
+        "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoQAAkABUB8JZwAAhu6gYAA/uv/RRvhiXNTcsmmxOzALX7wPvHAAA=="
       },
       "hollow-earth-diagram.png": {
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JbACdADrsDJAAP7R4rTNA5DRnMh4J5yLawFlMSiTsT54Uy6517Ajf74aQK/TMzO8RWu4tFAAAA=="
@@ -1328,5 +1331,5 @@
     },
     "_count": 1
   },
-  "_count": 406
+  "_count": 407
 }
