@@ -153,9 +153,9 @@
       ],
       "dates": [
         {
-          "start": -5000,
           "end": -4077,
-          "calendar": "BCE"
+          "calendar": "BCE",
+          "start_label": "unknown"
         }
       ],
       "media": [
