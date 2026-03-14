@@ -52,12 +52,16 @@
             "type": "object",
             "properties": {
               "start": {
-                "type": "number",
-                "description": "Start year (negative = BCE)"
+                "type": ["number", "null"],
+                "description": "Start year (negative = BCE). Omit or null when unknown (e.g. before-creation period)."
               },
               "end": {
                 "type": "number",
                 "description": "End year"
+              },
+              "start_label": {
+                "type": "string",
+                "description": "Display label when start is unknown (e.g. 'unknown')"
               },
               "calendar": {
                 "type": "string",

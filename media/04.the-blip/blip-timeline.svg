@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1357 360"
+   width="1357"
+   height="360"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="blip-timeline.svg"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3058217"
+     inkscape:cx="513.85271"
+     inkscape:cy="234.71812"
+     inkscape:window-width="3374"
+     inkscape:window-height="1403"
+     inkscape:window-x="66"
+     inkscape:window-y="541"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="blipGrad1"
+       x1="274.88101"
+       y1="108.88984"
+       x2="440.61273"
+       y2="108.88984"
+       gradientTransform="scale(1.3696836,0.73009564)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#999"
+         stop-opacity="0.06"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#666"
+         stop-opacity="0.14"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="blipGrad2"
+       x1="351.25681"
+       y1="136.36391"
+       x2="558.80438"
+       y2="136.36391"
+       gradientTransform="scale(1.7152693,0.58299883)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#666"
+         stop-opacity="0.14"
+         id="stop3" />
+      <stop
+         offset="100%"
+         stop-color="#999"
+         stop-opacity="0.06"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect
+     width="1357"
+     height="360.08966"
+     fill="#f5f4f0"
+     id="rect4"
+     x="0"
+     y="0"
+     style="stroke-width:0.925935" />
+  <!-- Pre-Blip zone: 1492 BCE to 670 BCE -->
+  <rect
+     x="100"
+     y="80"
+     width="277"
+     height="120"
+     fill="#999999"
+     fill-opacity="0.04"
+     id="rect5" />
+  <!-- Chart area bounds. Span: 1492 BCE to 2000 CE (3492 yrs). Width 1177. -->
+  <!-- 1492 BCE: 0y -> 100. 670 BCE: 822y -> 377. 1 CE (BLIP): 1493y -> 603. 1053 CE: 2545y -> 958. 2000 CE: 3492y -> 1277 -->
+  <line
+     x1="100"
+     y1="200"
+     x2="1277"
+     y2="200"
+     stroke="#cccccc"
+     stroke-width="1"
+     id="line5" />
+  <line
+     x1="100"
+     y1="80"
+     x2="100"
+     y2="200"
+     stroke="#cccccc"
+     stroke-width="1"
+     id="line6" />
+  <line
+     x1="1277"
+     y1="80"
+     x2="1277"
+     y2="200"
+     stroke="#cccccc"
+     stroke-width="1"
+     id="line7" />
+  <!-- 670 phantom years block: 670 BCE to 1 CE -->
+  <rect
+     x="377"
+     y="80"
+     width="226"
+     height="120"
+     fill="url(#blipGrad1)"
+     stroke="#999999"
+     stroke-width="1"
+     stroke-opacity="0.4"
+     id="rect7"
+     style="fill:url(#blipGrad1)" />
+  <!-- 1053 phantom years block: 1 CE to 1053 CE -->
+  <rect
+     x="603"
+     y="80"
+     width="355"
+     height="120"
+     fill="url(#blipGrad2)"
+     stroke="#999999"
+     stroke-width="1"
+     stroke-opacity="0.4"
+     id="rect8"
+     style="fill:url(#blipGrad2)" />
+  <!-- Post-Byzantine zone: 1053 CE to 2000 CE -->
+  <rect
+     x="958"
+     y="80"
+     width="319"
+     height="120"
+     fill="#999999"
+     fill-opacity="0.04"
+     id="rect9" />
+  <!-- Vertical BLIP line (convergence point) – extends only to chart bottom -->
+  <line
+     x1="603"
+     y1="80"
+     x2="603"
+     y2="210"
+     stroke="#333333"
+     stroke-width="3"
+     id="line9" />
+  <!-- Left block label: 670 -->
+  <text
+     x="490"
+     y="135"
+     text-anchor="middle"
+     font-size="16px"
+     font-weight="bold"
+     fill="#222222"
+     id="text9">670 phantom years</text>
+  <text
+     x="490"
+     y="158"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#444444"
+     id="text10">fabricated between Saturnian 670 BCE</text>
+  <text
+     x="490"
+     y="175"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#444444"
+     id="text11">and Christian &quot;Year Zero&quot;</text>
+  <!-- Right block label: 1053 -->
+  <text
+     x="780"
+     y="135"
+     text-anchor="middle"
+     font-size="16px"
+     font-weight="bold"
+     fill="#222222"
+     id="text12">1,053 phantom years</text>
+  <text
+     x="780"
+     y="158"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#444444"
+     id="text13">inserted between Year Zero</text>
+  <text
+     x="780"
+     y="175"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#444444"
+     id="text14">and Common Era CE</text>
+  <!-- X-axis ticks and labels -->
+  <line
+     x1="100"
+     y1="200"
+     x2="100"
+     y2="210"
+     stroke="#999999"
+     stroke-width="1"
+     id="line14" />
+  <text
+     x="100"
+     y="235"
+     text-anchor="middle"
+     font-size="14px"
+     font-weight="bold"
+     fill="#111111"
+     id="text15">1492 BCE</text>
+  <text
+     x="100"
+     y="253"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#444444"
+     id="text16">Exodus / Venus Comet</text>
+  <line
+     x1="377"
+     y1="200"
+     x2="377"
+     y2="210"
+     stroke="#999999"
+     stroke-width="1"
+     id="line16" />
+  <text
+     x="377"
+     y="235"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#444444"
+     id="text17">670 BCE</text>
+  <text
+     x="377"
+     y="253"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#444444"
+     id="text18">Last contact with Mars</text>
+  <line
+     x1="603"
+     y1="200"
+     x2="603"
+     y2="210"
+     stroke="#333333"
+     stroke-width="2"
+     id="line18" />
+  <text
+     x="603"
+     y="235"
+     text-anchor="middle"
+     font-size="15px"
+     font-weight="bold"
+     fill="#111111"
+     id="text19">THE BLIP</text>
+  <text
+     x="603"
+     y="253"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#444444"
+     id="text20">670 BCE = 0 CE = 1053 CE</text>
+  <text
+     x="603"
+     y="273"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#555555"
+     font-style="italic"
+     id="text21">same year, three names</text>
+  <line
+     x1="958"
+     y1="200"
+     x2="958"
+     y2="210"
+     stroke="#999999"
+     stroke-width="1"
+     id="line21" />
+  <text
+     x="958"
+     y="235"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#444444"
+     id="text22">1053 CE</text>
+  <text
+     x="958"
+     y="253"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#444444"
+     id="text23">Start of Modern Age</text>
+  <line
+     x1="1277"
+     y1="200"
+     x2="1277"
+     y2="210"
+     stroke="#999999"
+     stroke-width="1"
+     id="line23" />
+  <text
+     x="1277"
+     y="235"
+     text-anchor="middle"
+     font-size="14px"
+     font-weight="bold"
+     fill="#111111"
+     id="text24">2000 CE</text>
+  <!-- Total fabricated (below graph, no overlap with BLIP line) -->
+  <text
+     x="688"
+     y="340"
+     text-anchor="middle"
+     font-size="14px"
+     fill="#444444"
+     id="text25">Total fabricated time: 1,723 years</text>
+  <!-- Title -->
+  <text
+     x="688"
+     y="50"
+     text-anchor="middle"
+     font-size="22px"
+     font-weight="bold"
+     fill="#111111"
+     id="text26">The 670 + 1053 Year Blip</text>
+  <text
+     x="688"
+     y="72"
+     text-anchor="middle"
+     font-size="14px"
+     fill="#444444"
+     id="text27">Three dating systems converge on one transitional moment</text>
+</svg>
