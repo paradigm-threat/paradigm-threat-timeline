@@ -359,6 +359,24 @@ Per frame in animate():
 - Venus standard warm yellow
 - No plasma effects, no tethers
 
+### 2.7 TTS Slideshow Planet Slide Requirements
+
+The planet sim appears in the TTS (text-to-speech) audio slideshow. **Do not change this** — it is intentionally simple to prevent regression.
+
+**Scope:** Only the **current chapter's** slides are shown. No cross-chapter slides.
+
+**Per-chapter slide order (fixed):**
+1. **First image** for that chapter
+2. **Planet sim** (year = chapter's event date)
+3. **Remaining images** for that chapter
+4. **Loop** back to step 1 (within chapter only)
+
+**Chapter advance:** When TTS moves to the next segment, the slideshow resets to the **first image** of that chapter. Then it cycles: image → planet → rest → loop (stays within that chapter).
+
+**Implementation:** `TTSSlideshowOverlay.tsx` builds `allImages` from only the current segment's event: `[firstImage, planetSlide, ...restImages]`. When segment changes, `allImages` is rebuilt and `currentImgIndex` resets to 0. Advance uses `(i + 1) % allImages.length` so it loops within the chapter.
+
+**Regression prevention:** If the planet sim disappears or cross-chapter slides return, restore: single-chapter scope + this exact order.
+
 ---
 
 ## Part 3: Map Sources and Comparison
