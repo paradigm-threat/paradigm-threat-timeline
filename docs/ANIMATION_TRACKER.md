@@ -136,7 +136,16 @@ Track changes to render in 3D:
 | 3147 | Golden Age ends | Collinear breaks apart | Dramatic separation animation |
 | 3147–3067 | Exit from Absu | Planets leave Saturn's plasma sheath | Plasma layers discharge |
 | 3067 | Jupiter assault | Jupiter attacks Saturn | Battle animation |
+| 3147–670 | Dark Age | **Unified Dark Age mechanics** (see §2.3.1) | 5-planet circle, Moon 1×/month, Saturn hidden |
 | 3067–2349 | Round Table | Non-linear "Arthurian" configuration | Circular orbit around Sun |
+
+#### 2.3.1 Dark Age Orbital Mechanics (3147–670 BCE)
+
+During the Dark Age period, the planet sim uses unified orbital mechanics:
+
+1. **Saturn**: Not visible (no longer seen in the sky).
+2. **Moon**: Orbits Earth once per month (period = 1/12 year).
+3. **Five-planet circle**: Earth, Venus, Mars, Mercury, and Jupiter form a rotating circle with **nothing in the center**. The circle rotates slowly **4 times per year**. The circle itself orbits the Sun **once per year**.
 | 2349 | Deluge begins | Configuration destabilizes | Water/plasma catastrophe |
 | 2193 | Jupiter consumes Venus | Venus swallowed | Major orbital change |
 | 1936 | Sodom/Gomorrah | Mars close approach | Destruction animation |
@@ -148,7 +157,7 @@ Track changes to render in 3D:
 
 | Element | Golden Age Appearance | Dark Age Appearance | Modern Appearance |
 |---------|---------------------|--------------------|--------------------|
-| Saturn | Sunlike brown dwarf, no rings, plasma halo | Retreating, still luminous | Yellow with distinct rings |
+| Saturn | Sunlike brown dwarf, no rings, plasma halo | **Not visible** (no longer seen) | Yellow with distinct rings |
 | Venus | Single plasmoid star (6-8 points) | Comet with tail | Current (morning/evening star) |
 | Mars | Solid red sphere | Dragon-tethered to Venus | Current |
 | Jupiter | Distant or obscured | Dominant "king" | Current |
@@ -163,10 +172,11 @@ Track changes to render in 3D:
 |-------|-----------|------------|-------------------|
 | Before Creation | -5000 to -4077 | Dim orange-brown dwarf | Faint glow, pulsing emissive, NO rings |
 | Golden Age | -4077 to -3147 | **Sunlike** brilliant gold body | Large radiant glow sprite, strong emissive, NO rings; spoked "Wheel of Heaven" overlay rotating slowly; plasma halo (Absu) surrounds entire configuration |
-| Breakup | -3147 to -3067 | Losing luminosity | Glow fading rapidly, jolts of brightness (electric discharge), still NO rings |
-| Round Table | -3067 to -2349 | Dim, retreating to outer solar system | Far away, small, barely glowing, NO rings; Saturn has "fled" |
-| Post-Deluge | -2349 to -806 | Distant speck | Very dim, outer solar system position, NO rings |
-| Stabilization | -806 to -670 | Rings **forming** | Ring opacity animates from 0→0.5 over this period; color shifts from orange to golden-yellow |
+| Breakup | -3147 to -3067 | **Not visible** | Saturn no longer seen in the sky |
+| Round Table | -3067 to -2349 | **Not visible** | Saturn no longer seen |
+| Post-Deluge | -2349 to -806 | **Not visible** | Saturn no longer seen |
+| Venus Returns | -1492 to -806 | **Not visible** | Saturn no longer seen |
+| Stabilization | -806 to -670 | **Not visible** | Saturn no longer seen (Dark Age) |
 | Modern | -670 onward | Modern Saturn | Full rings visible (opacity 0.5), yellow-gold color, faint glow |
 
 #### Venus — from Plasmoid Star to Dragon to Planet
