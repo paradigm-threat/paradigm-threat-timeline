@@ -1908,13 +1908,13 @@
         },
         {
           "id": "evt-other-challenges-to-chronology",
-          "title": "Other Challenges to Chronology (Extended)",
+          "title": "Other Challenges to Chronology",
           "type": "article",
           "md_path": "content/16.appendix/16.02.00-other-challenges-to-chronology.md",
           "children": [
             {
               "id": "evt-building-the-new-chronology-appendix",
-              "title": "Building the New Chronology (Extended)",
+              "title": "Building the New Chronology",
               "type": "article",
               "md_path": "content/16.appendix/16.02.01-building-the-new-chronology-appendix.md",
               "children": [],
@@ -1929,22 +1929,29 @@
         },
         {
           "id": "evt-timeline-synchronization-tables",
-          "title": "Timeline Synchronization: Date Tables (Extended)",
+          "title": "Timeline Synchronization",
           "type": "article",
           "md_path": "content/16.appendix/16.03.00-timeline-synchronization-tables.md",
           "children": [
             {
               "id": "evt-year-length-calendar-evidence",
-              "title": "Year-Length and Calendar Evidence (Extended)",
+              "title": "Year-Length and Calendar Evidence",
               "type": "article",
               "md_path": "content/16.appendix/16.03.01-year-length-calendar-evidence.md",
+              "children": []
+            },
+            {
+              "id": "evt-mars-contacts-timeline",
+              "title": "Known Contacts with Mars: A Chronological Dossier",
+              "type": "article",
+              "md_path": "content/16.appendix/16.03.02-mars-contacts-timeline.md",
               "children": []
             }
           ]
         },
         {
           "id": "evt-pyramids-myths-evidence",
-          "title": "Pyramids: Myths vs Reality \u2014 Evidence Table (Extended)",
+          "title": "Pyramids: Myths vs Reality",
           "type": "article",
           "md_path": "content/16.appendix/16.04.00-pyramids-myths-evidence.md",
           "children": [
@@ -1958,153 +1965,44 @@
           ]
         },
         {
-          "id": "evt-hordian-empire-fracture",
-          "title": "Deep State breaks up the Hordian Empire (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.13.01-hordian-empire-fracture.md",
-          "children": [],
-          "media": [
-            "/media/11.ce-17th-romanovs-rise-to-power/eight_pointed_star_and_crescent.jpg"
-          ]
-        },
-        {
-          "id": "evt-mudflood-evidence",
-          "title": "The MudFlood and World Cataclysm: Extended Evidence",
-          "type": "article",
-          "md_path": "content/16.appendix/16.14.00-mudflood-evidence.md",
-          "children": []
-        },
-        {
-          "id": "evt-soviet-historiography-bogdanov",
-          "title": "Soviet Historiography: Bogdanov and Suppressed Science (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.15.00-soviet-historiography-bogdanov.md",
-          "children": []
-        },
-        {
-          "id": "evt-slave-trades-evidence",
-          "title": "Slave Trades: Evidence and Horde-Fracture Thesis (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.16.00-slave-trades-evidence.md",
-          "children": []
-        },
-        {
-          "id": "evt-british-empire-case-studies",
-          "title": "British Empire as Deep State: Case Studies (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.17.00-british-empire-case-studies.md",
-          "children": []
-        },
-        {
           "id": "evt-seven-days-of-creation",
-          "title": "Seven Days of Creation (Extended)",
+          "title": "Seven Days and other Creation Narratives",
           "type": "article",
-          "md_path": "content/16.appendix/16.18.00-seven-days-of-creation.md",
-          "children": []
-        },
-        {
-          "id": "evt-controlled-opposition-managed-disclosure",
-          "title": "Controlled Opposition: Managed Disclosure and Gatekeeping (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.19.00-controlled-opposition-managed-disclosure.md",
-          "children": []
-        },
-        {
-          "id": "evt-historical-antibodies-pattern",
-          "title": "Historical Antibodies: Pattern Analysis (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.20.00-historical-antibodies-pattern.md",
-          "children": [
-            {
-              "id": "evt-historical-antibodies-profiles",
-              "title": "Historical Antibodies: Detailed Profiles",
-              "type": "article",
-              "md_path": "content/16.appendix/16.20.01-historical-antibodies-profiles.md",
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "evt-false-flags-architecture",
-          "title": "False Flags: Architecture of Manufactured War (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.21.00-false-flags-architecture.md",
-          "children": []
-        },
-        {
-          "id": "evt-censorship-pattern",
-          "title": "Censorship and Book Burning: From Alexandria to the Internet (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.22.00-censorship-pattern.md",
-          "children": []
-        },
-        {
-          "id": "evt-jesuit-ops-conversion-empire",
-          "title": "Jesuit Operations: Conversion, Catholicism, and the New World (Extended)",
-          "type": "article",
-          "md_path": "content/16.appendix/16.23.00-jesuit-ops-conversion-empire.md",
-          "children": []
-        },
-        {
-          "id": "evt-reverse-crusades-structural-comparison",
-          "title": "The Four Reverse Crusades: A Structural Comparison",
-          "type": "article",
-          "md_path": "content/16.appendix/16.24.00-reverse-crusades-structural-comparison.md",
-          "children": []
-        },
-        {
-          "id": "evt-21st-century-geopolitics-extended",
-          "title": "21st Century Geopolitics: Europe's War and America's Escalation Machine",
-          "type": "article",
-          "md_path": "content/16.appendix/16.25.00-21st-century-geopolitics-extended.md",
-          "children": []
-        },
-        {
-          "id": "evt-world-war-ii-aftermath-extended",
-          "title": "World War II Aftermath: Extended Evidence",
-          "type": "article",
-          "md_path": "content/16.appendix/16.26.00-world-war-ii-aftermath-extended.md",
-          "children": []
-        },
-        {
-          "id": "evt-trump-case-study-extended",
-          "title": "Trump and the MAGA Revolution: Extended Evidence",
-          "type": "article",
-          "md_path": "content/16.appendix/16.27.00-trump-case-study-extended.md",
+          "md_path": "content/16.appendix/16.05.00-seven-days-of-creation.md",
           "children": []
         },
         {
           "id": "evt-predictive-programming-fiction-as-control",
           "title": "Predictive Programming: Fiction as Control",
           "type": "article",
-          "md_path": "content/16.appendix/16.31.00-predictive-programming-fiction-as-control.md",
+          "md_path": "content/16.appendix/16.43.00-predictive-programming-fiction-as-control.md",
           "children": [
             {
               "id": "evt-predictive-programming-film-tv-games",
               "title": "Predictive Programming in Film, Television, and Games",
               "type": "article",
-              "md_path": "content/16.appendix/16.31.01-predictive-programming-film-tv-games.md",
+              "md_path": "content/16.appendix/16.43.01-predictive-programming-film-tv-games.md",
               "children": []
             },
             {
               "id": "evt-predictive-programming-literature",
               "title": "20th Century Predictive Programming: Literature \u2014 Extended Author Evidence",
               "type": "article",
-              "md_path": "content/16.appendix/16.31.02-predictive-programming-literature.md",
+              "md_path": "content/16.appendix/16.43.02-predictive-programming-literature.md",
               "children": []
             },
             {
               "id": "evt-asimov-three-laws-and-marx-encoding",
               "title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence",
               "type": "article",
-              "md_path": "content/16.appendix/16.31.03-asimov-three-laws-and-marx-encoding.md",
+              "md_path": "content/16.appendix/16.43.03-asimov-three-laws-and-marx-encoding.md",
               "children": []
             },
             {
               "id": "evt-mars-literature-author-profiles",
               "title": "Mars Literature: Author Profiles and Evidence",
               "type": "article",
-              "md_path": "content/16.appendix/16.31.04-mars-literature-author-profiles.md",
+              "md_path": "content/16.appendix/16.43.04-mars-literature-author-profiles.md",
               "children": []
             }
           ],
@@ -2113,75 +2011,226 @@
           ]
         },
         {
-          "id": "evt-mars-contacts-timeline",
-          "title": "Known Contacts with Mars: A Chronological Dossier",
-          "type": "article",
-          "md_path": "content/16.appendix/16.32.00-mars-contacts-timeline.md",
-          "children": []
-        },
-        {
           "id": "evt-controlled-opposition-appendix",
-          "title": "Controlled Opposition: Appendix",
+          "title": "Controlled Opposition",
           "type": "article",
-          "md_path": "content/16.appendix/16.33.00-controlled-opposition-appendix.md",
+          "md_path": "content/16.appendix/16.44.00-controlled-opposition-appendix.md",
           "children": [
             {
               "id": "evt-controlled-opposition-thunderbolts-case-study",
               "title": "The Thunderbolts Project: A Case Study in Managed Disclosure",
               "type": "article",
-              "md_path": "content/16.appendix/16.33.01-controlled-opposition-thunderbolts-case-study.md",
+              "md_path": "content/16.appendix/16.44.01-controlled-opposition-thunderbolts-case-study.md",
               "children": []
             },
             {
               "id": "evt-operation-mockingbird-historical-chain",
-              "title": "Operation Mockingbird: The Historical Chain (Extended)",
+              "title": "Operation Mockingbird: The Historical Chain",
               "type": "article",
-              "md_path": "content/16.appendix/16.33.02-operation-mockingbird-historical-chain.md",
+              "md_path": "content/16.appendix/16.44.02-operation-mockingbird-historical-chain.md",
+              "children": []
+            },
+            {
+              "id": "evt-controlled-opposition-managed-disclosure",
+              "title": "Controlled Opposition: Managed Disclosure and Gatekeeping",
+              "type": "article",
+              "md_path": "content/16.appendix/16.44.03-controlled-opposition-managed-disclosure.md",
               "children": []
             }
           ]
         },
         {
-          "id": "evt-censorship-historical-timeline",
-          "title": "Censorship and Book Burning: The Historical Record",
+          "id": "evt-censorship-appendix",
+          "title": "Censorship and Book Burning",
           "type": "article",
-          "md_path": "content/16.appendix/16.34.00-censorship-historical-timeline.md",
-          "children": []
+          "md_path": "content/16.appendix/16.46.00-censorship-appendix.md",
+          "children": [
+            {
+              "id": "evt-censorship-pattern",
+              "title": "Censorship and Book Burning: From Alexandria to the Internet",
+              "type": "article",
+              "md_path": "content/16.appendix/16.46.01-censorship-pattern.md",
+              "children": []
+            },
+            {
+              "id": "evt-censorship-historical-timeline",
+              "title": "Censorship and Book Burning: The Historical Record",
+              "type": "article",
+              "md_path": "content/16.appendix/16.46.02-censorship-historical-timeline.md",
+              "children": []
+            }
+          ]
         },
         {
-          "id": "evt-false-flags-investigation",
-          "title": "False Flags Investigation: Evidence Dossier",
+          "id": "evt-false-flags-appendix",
+          "title": "False Flags",
           "type": "article",
-          "md_path": "content/16.appendix/16.35.00-false-flags-investigation.md",
-          "children": []
+          "md_path": "content/16.appendix/16.47.00-false-flags-appendix.md",
+          "children": [
+            {
+              "id": "evt-false-flags-architecture",
+              "title": "False Flags: Architecture of Manufactured War",
+              "type": "article",
+              "md_path": "content/16.appendix/16.47.01-false-flags-architecture.md",
+              "children": []
+            },
+            {
+              "id": "evt-false-flags-investigation",
+              "title": "False Flags Investigation: Evidence Dossier",
+              "type": "article",
+              "md_path": "content/16.appendix/16.47.02-false-flags-investigation.md",
+              "children": []
+            }
+          ]
         },
         {
-          "id": "evt-suppressed-energy-technology-cross-reference",
-          "title": "Suppressed Energy Technology: A Cross-Reference",
+          "id": "evt-deep-state-empire-evidence",
+          "title": "Deep State and Empire",
           "type": "article",
-          "md_path": "content/16.appendix/16.37.00-suppressed-energy-technology-cross-reference.md",
-          "children": []
+          "md_path": "content/16.appendix/16.48.00-deep-state-empire-evidence.md",
+          "children": [
+            {
+              "id": "evt-hordian-empire-fracture",
+              "title": "Deep State breaks up the Hordian Empire",
+              "type": "article",
+              "md_path": "content/16.appendix/16.48.01-hordian-empire-fracture.md",
+              "children": [],
+              "media": [
+                "/media/11.ce-17th-romanovs-rise-to-power/eight_pointed_star_and_crescent.jpg"
+              ]
+            },
+            {
+              "id": "evt-slave-trades-evidence",
+              "title": "Slave Trades: Evidence and Horde-Fracture Thesis",
+              "type": "article",
+              "md_path": "content/16.appendix/16.48.02-slave-trades-evidence.md",
+              "children": []
+            },
+            {
+              "id": "evt-british-empire-case-studies",
+              "title": "British Empire as Deep State: Case Studies",
+              "type": "article",
+              "md_path": "content/16.appendix/16.48.03-british-empire-case-studies.md",
+              "children": []
+            },
+            {
+              "id": "evt-jesuit-ops-conversion-empire",
+              "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
+              "type": "article",
+              "md_path": "content/16.appendix/16.48.04-jesuit-ops-conversion-empire.md",
+              "children": []
+            },
+            {
+              "id": "evt-napoleonic-wars-1812-evidence",
+              "title": "Napoleonic Wars and 1812 \u2014 Extended Evidence",
+              "type": "article",
+              "md_path": "content/16.appendix/16.48.05-napoleonic-wars-1812-evidence.md",
+              "children": []
+            }
+          ]
         },
         {
-          "id": "evt-population-control-timeline-15th-21st-centuries",
-          "title": "Population Control: A Timeline (15th\u201321st Centuries)",
+          "id": "evt-reverse-crusades-modern-wars-evidence",
+          "title": "Reverse Crusades and Modern Wars",
           "type": "article",
-          "md_path": "content/16.appendix/16.38.00-population-control-timeline-15th-21st-centuries.md",
-          "children": []
+          "md_path": "content/16.appendix/16.50.00-reverse-crusades-modern-wars-evidence.md",
+          "children": [
+            {
+              "id": "evt-reverse-crusades-structural-comparison",
+              "title": "The Four Reverse Crusades: A Structural Comparison",
+              "type": "article",
+              "md_path": "content/16.appendix/16.50.01-reverse-crusades-structural-comparison.md",
+              "children": []
+            },
+            {
+              "id": "evt-21st-century-geopolitics-extended",
+              "title": "21st Century Geopolitics",
+              "type": "article",
+              "md_path": "content/16.appendix/16.50.02-21st-century-geopolitics-extended.md",
+              "children": []
+            },
+            {
+              "id": "evt-world-war-ii-aftermath-extended",
+              "title": "World War II Aftermath",
+              "type": "article",
+              "md_path": "content/16.appendix/16.50.03-world-war-ii-aftermath-extended.md",
+              "children": []
+            }
+          ]
         },
         {
-          "id": "evt-orphan-trains-trail-of-tears-evidence",
-          "title": "Orphan Trains, Trail of Tears, Siberian Exile \u2014 Extended Evidence",
+          "id": "evt-suppressed-science-technology-appendix",
+          "title": "Suppressed Science and Technology",
           "type": "article",
-          "md_path": "content/16.appendix/16.39.00-orphan-trains-trail-of-tears-evidence.md",
-          "children": []
+          "md_path": "content/16.appendix/16.51.00-suppressed-science-technology-appendix.md",
+          "children": [
+            {
+              "id": "evt-soviet-historiography-bogdanov",
+              "title": "Soviet Historiography: Bogdanov and Suppressed Science",
+              "type": "article",
+              "md_path": "content/16.appendix/16.51.01-soviet-historiography-bogdanov.md",
+              "children": []
+            },
+            {
+              "id": "evt-suppressed-energy-technology-cross-reference",
+              "title": "Suppressed Energy Technology: A Cross-Reference",
+              "type": "article",
+              "md_path": "content/16.appendix/16.51.02-suppressed-energy-technology-cross-reference.md",
+              "children": []
+            }
+          ]
         },
         {
-          "id": "evt-napoleonic-wars-1812-evidence",
-          "title": "Napoleonic Wars and 1812 \u2014 Extended Evidence",
+          "id": "evt-population-control-displacement-evidence",
+          "title": "Population Control and Displacement",
           "type": "article",
-          "md_path": "content/16.appendix/16.40.00-napoleonic-wars-1812-evidence.md",
-          "children": []
+          "md_path": "content/16.appendix/16.52.00-population-control-displacement-evidence.md",
+          "children": [
+            {
+              "id": "evt-population-control-timeline-15th-21st-centuries",
+              "title": "Population Control: A Timeline (15th\u201321st Centuries)",
+              "type": "article",
+              "md_path": "content/16.appendix/16.52.01-population-control-timeline-15th-21st-centuries.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "evt-mudflood-evidence",
+          "title": "The MudFlood and World Cataclysm",
+          "type": "article",
+          "md_path": "content/16.appendix/16.53.00-mudflood-evidence.md",
+          "children": [
+            {
+              "id": "evt-orphan-trains-trail-of-tears-evidence",
+              "title": "Orphan Trains, Trail of Tears, Siberian Exile",
+              "type": "article",
+              "md_path": "content/16.appendix/16.53.01-orphan-trains-trail-of-tears-evidence.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "evt-historical-antibodies-pattern",
+          "title": "Historical Antibodies: Pattern Analysis",
+          "type": "article",
+          "md_path": "content/16.appendix/16.55.00-historical-antibodies-pattern.md",
+          "children": [
+            {
+              "id": "evt-historical-antibodies-profiles",
+              "title": "Historical Antibodies: Detailed Profiles",
+              "type": "article",
+              "md_path": "content/16.appendix/16.55.01-historical-antibodies-profiles.md",
+              "children": []
+            },
+            {
+              "id": "evt-trump-case-study-extended",
+              "title": "Trump and the MAGA Revolution",
+              "type": "article",
+              "md_path": "content/16.appendix/16.55.02-trump-case-study-extended.md",
+              "children": []
+            }
+          ]
         }
       ]
     },
