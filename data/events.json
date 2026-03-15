@@ -354,9 +354,16 @@
         {
           "id": "evt-march-23-priori-mars-loses-its",
           "title": "670 BCE \u2014 March 23 \u2014 Priori-Mars loses its Outer Shell",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.11.00-march-23-priori-mars-loses-its.md",
-          "children": []
+          "children": [],
+          "dates": [
+            {
+              "start": -670,
+              "end": -670,
+              "calendar": "BCE"
+            }
+          ]
         },
         {
           "id": "evt-684-bce-solar-system-becomes-stable",
@@ -372,7 +379,7 @@
       "dates": [
         {
           "start": -3147,
-          "end": -3147,
+          "end": -670,
           "calendar": "BCE"
         }
       ],
