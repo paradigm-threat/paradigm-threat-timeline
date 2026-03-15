@@ -173,6 +173,22 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
     if date_err:
         return None, f"{md_path}: {date_err}"
 
+    fm = parse_frontmatter(md_path)
+    # Allow frontmatter "dates" to override slug dates or supply when slug has none
+    if fm.get("dates") and isinstance(fm["dates"], list) and len(fm["dates"]) > 0:
+        d0 = fm["dates"][0]
+        if isinstance(d0, dict):
+            start = d0.get("start") if d0.get("start") is not None else d0.get("value")
+            end = d0.get("end") if d0.get("end") is not None else start
+            if start is not None:
+                if start < MIN_YEAR or start > MAX_YEAR:
+                    return None, f"{md_path}: frontmatter year {start} out of range [{MIN_YEAR}, {MAX_YEAR}]"
+                if end is not None and (end < MIN_YEAR or end > MAX_YEAR):
+                    return None, f"{md_path}: frontmatter end year {end} out of range [{MIN_YEAR}, {MAX_YEAR}]"
+                if end is not None and start > end:
+                    return None, f"{md_path}: frontmatter invalid date range: start {start} > end {end}"
+                dates = [{"start": start, "end": end or start, "calendar": d0.get("calendar", "BCE" if start < 0 else "CE")}]
+
     entry = {
         "id": evt_id,
         "title": title,
@@ -183,7 +199,6 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
     if dates:
         entry["dates"] = dates
 
-    fm = parse_frontmatter(md_path)
     for key in ("related_events", "duplicate_of", "tags", "timeline_sources", "context", "categories"):
         if key in fm and fm[key] is not None:
             entry[key] = fm[key]
