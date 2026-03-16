@@ -115,13 +115,13 @@ npm run generate-index
 
 ## Investigations (Knowledge Pool)
 
-The `investigations/` folder is the project's **living knowledge base** — organized by topic (e.g. `investigations/maxwell-aether/`, `investigations/nuclear/`, `investigations/text/`). See `investigations/index.md` for the full topic index.
+Investigations live in **paradigm-threat-files** (separate repo), not in the timeline repo. Topic index: e.g. `history/chronology/investigations/index-investigations.md`, `governance/war/investigations/`, `cosmos/mars/investigations/`. Link from timeline articles using root-relative paths (e.g. `/history/chronology/investigations/wuxing-five-planets-dark-ages.md`).
 
 ### Coherence workflow
 
-- **Before writing or editing any timeline article**, scan `investigations/` for relevant prior research. This prevents contradictions and keeps assertions in sync across the timeline.
+- **Before writing or editing any timeline article**, scan paradigm-threat-files investigations for relevant prior research. This prevents contradictions and keeps assertions in sync across the timeline.
 - If an investigation supports or contradicts a timeline claim, cross-reference it or flag the contradiction in `docs/OUTSTANDING_QUESTIONS.md`.
-- New research conducted while editing the timeline should be added to `investigations/` under the appropriate topic folder.
+- New research conducted while editing the timeline should be added to **paradigm-threat-files** under the appropriate topic folder (e.g. `history/chronology/investigations/`).
 
 ### Investigations are NOT part of the book
 

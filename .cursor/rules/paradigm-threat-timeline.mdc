@@ -54,7 +54,7 @@ When adding or updating events, attempt to calculate or research dates for:
 
 ## Investigations
 
-- `investigations/` holds research to validate or trace claims. See `investigations/index.md`.
+- Investigations live in **paradigm-threat-files** (not in this repo). Chronology-related: `history/chronology/investigations/` (e.g. [Wuxing](https://github.com/clevertree/paradigm-threat-files/blob/master/history/chronology/investigations/wuxing-five-planets-dark-ages.md)); others under `governance/war/investigations/`, `cosmos/mars/investigations/`, etc. Link from timeline content using root-relative paths (e.g. `/history/chronology/investigations/wuxing-five-planets-dark-ages.md`).
 - When a source cannot be found online or in mainstream refs: assume redaction or gatekeeping before assuming error. Document the gap and add to `docs/OUTSTANDING_QUESTIONS.md`.
 - Add speculative conclusions to `docs/CONCLUSIONS.md` when evidence supports them; mark confidence level.
 
