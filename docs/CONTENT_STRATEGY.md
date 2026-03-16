@@ -227,6 +227,6 @@ Append to `docs/CONTENT_REDUCTION_TRACKER.md` or create `docs/STRATEGY_RESCAN_LO
 - `docs/OUTSTANDING_QUESTIONS.md` — Contradictions, clarifications, open theories
 - `docs/CONCLUSIONS.md` — Synthesized conclusions with confidence levels
 - `docs/CONTENT_REDUCTION_TRACKER.md` — Reduction log and word counts
-- `investigations/index.md` — Investigation topic index
+- paradigm-threat-files investigations (e.g. `history/chronology/investigations/index-investigations.md`) — investigation topic indexes
 - `.cursor/rules/paradigm-threat-timeline.mdc` — AI instructions
 - `.github/copilot-instructions.md` — Copilot instructions

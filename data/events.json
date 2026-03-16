@@ -1601,6 +1601,23 @@
                   "calendar": "CE"
                 }
               ]
+            },
+            {
+              "id": "evt-1947-ce-central-intelligence-agency-oss-rebrand",
+              "title": "1947 CE \u2014 Central Intelligence Agency: OSS Rebrand and Cold War Deep State",
+              "type": "event",
+              "md_path": "content/14.ce-20th-the-1917-revolution/14.12.03-1947-ce-central-intelligence-agency-oss-rebrand.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1947,
+                  "end": 1947,
+                  "calendar": "CE"
+                }
+              ],
+              "media": [
+                "/media/14.ce-20th-the-1917-revolution/cia-to-oss.png"
+              ]
             }
           ]
         },
