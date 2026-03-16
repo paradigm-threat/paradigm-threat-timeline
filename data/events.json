@@ -374,6 +374,23 @@
           "media": [
             "/media/03.the-dark-ages/lunar_calendar.jpg"
           ]
+        },
+        {
+          "id": "evt-wuxing-five-planets-five-elements",
+          "title": "Wuxing and the Five Planets \u2014 Five Elements as Observational Record",
+          "type": "event",
+          "md_path": "content/03.the-dark-ages/03.13.00-wuxing-five-planets-five-elements.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -800,
+              "end": -600,
+              "calendar": "BCE"
+            }
+          ],
+          "media": [
+            "/media/03.the-dark-ages/wuxing-five-planets.png"
+          ]
         }
       ],
       "dates": [
@@ -1674,6 +1691,23 @@
               "md_path": "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
               "children": []
             }
+          ]
+        },
+        {
+          "id": "evt-suppression-of-wuxing-four-elements-replacement",
+          "title": "Suppression of Wuxing \u2014 Four Elements, Air, and the Erasure of Planetary Science",
+          "type": "event",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.08.00-suppression-of-wuxing-four-elements-replacement.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1949,
+              "end": 1980,
+              "calendar": "CE"
+            }
+          ],
+          "media": [
+            "/media/15.ce-21st-the-final-struggle/wuxing-suppression.png"
           ]
         }
       ],
