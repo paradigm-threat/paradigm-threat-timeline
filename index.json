@@ -124,7 +124,10 @@
       "03.12.00-684-bce-solar-system-becomes-stable.md": {
         "_title": "806\u2013670 BCE \u2014 Mars, Earth & Mercury finalize Orbits / 684 BCE \u2014 Solar System becomes stable"
       },
-      "_count": 13
+      "03.13.00-wuxing-five-planets-five-elements.md": {
+        "_title": "Wuxing and the Five Planets \u2014 Five Elements as Observational Record"
+      },
+      "_count": 14
     },
     "04.the-blip": {
       "04.00.00-670-bce-the-blip.md": {
@@ -463,10 +466,13 @@
       "14.12.02-1948-ce-israel-creation-british-mandate.md": {
         "_title": "1948 CE \u2014 Israel Creation: British Mandate, Divide-and-Conquer, and False Geography"
       },
+      "14.12.03-1947-ce-central-intelligence-agency-oss-rebrand.md": {
+        "_title": "1947 CE \u2014 Central Intelligence Agency: OSS Rebrand and Cold War Deep State"
+      },
       "14.13.00-1991-ce-the-soviet-collapse.md": {
         "_title": "1991 CE \u2014 The Soviet Collapse"
       },
-      "_count": 17
+      "_count": 18
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv.md": {
@@ -493,7 +499,10 @@
       "15.07.01-trump.md": {
         "_title": "Trump and the MAGA Revolution: The Antibody That Survived Crucifixion"
       },
-      "_count": 8
+      "15.08.00-suppression-of-wuxing-four-elements-replacement.md": {
+        "_title": "Suppression of Wuxing \u2014 Four Elements, Air, and the Erasure of Planetary Science"
+      },
+      "_count": 9
     },
     "16.appendix": {
       "16.00.00-appendix.md": {
@@ -714,7 +723,7 @@
       },
       "_count": 1
     },
-    "_count": 216
+    "_count": 219
   },
   "data": {
     "events.json": {},
@@ -781,6 +790,12 @@
     "LICENSE-JetBrainsMono.txt": {},
     "LICENSE-LibreFranklin.txt": {},
     "_count": 3
+  },
+  "investigations": {
+    "wuxing": {
+      "_count": 0
+    },
+    "_count": 0
   },
   "media": {
     "00.overview": {
@@ -961,7 +976,10 @@
       "venus_and_mars.jpg": {
         "_lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAA4ABUB8JZACdAEfbp1dHS1AAP6HVvaPOyB885VdhEKQrUja0JwvEX/m9rU1qnrvaX5pMYezbs+Fs6EvTaxmaQN5xHl5mAA="
       },
-      "_count": 20
+      "wuxing-five-planets.png": {
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACQAQCdASoQAAsABUB8JYgCdABGCAAA/tA9AsS7CzyD0/CHFnV27/BBrJkYcCEOaHkuS+iz56gcLAMYVw6Unf5gAAA="
+      },
+      "_count": 21
     },
     "04.the-blip": {
       "684bce_1053ce_blip.png": {
@@ -1015,8 +1033,8 @@
       "1196_revenge_for_christ.png": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAsABUB8JagCdADwssiW01AAAP7ZqAz3EEMRR3VgutDFPxrFb4KDmzBGRCxN4FB22gAA"
       },
-      "conjunction.jpg": {
-        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JZgAAxXeUKrDAAD+5l7p84ZFRoZcO32wZkwONB6NdYii8MQ0o9FPnMOSH8IP7EAAAA=="
+      "conjunction.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAsABUB8JQAALNNn5AAA/unXBBt2hFwCc6OXSp/dIF3MB1tGYslT+Mn1HEld7IUAAA=="
       },
       "crucifixion_descent_tintoretto_1565.jpg": {
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAA0ABUB8JbACdADQ8lkUTHeAAP7s2fPCXzdTryLkfyVz914GM07M9XPXU1FsSFARuRrBA1LtzzwctxILS1UfRV8AAA=="
@@ -1036,13 +1054,16 @@
       "map_tartaria_hondius.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdADM25+xTQAA+NYK0D24ziqMXcxrPTRBS9G4WLUsu1BHHW5u9cbm17LlXq8rgAAA"
       },
+      "revolution-despite-martyrdom.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JagCdADyoMfEAADJWsxbC/BkvqEEfUOVRzbW/NhCHOrYCiOWoZHYYTByUpudiQAAAA=="
+      },
       "tomb_of_christ_and_brother.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAA4ABUB8JQAAXG6h0IJAAPy0IPcH2uErG//YDjDbOA6BDHD2DY5nedGo7U5X+sg6gAAA"
       },
       "twelve_tribes_zodiac.jpg": {
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAwABUB8JZQCw7ED+WuTcAAA8kH5C7M02Cip6RVFCVZfUwlGghfhp8F1vug+/YeyM1VkUYAAAA=="
       },
-      "_count": 11
+      "_count": 12
     },
     "07.ce-13th-the-russian-horde-tartarian-empire": {
       "1258ce_christ_dies.png": {
@@ -1264,6 +1285,9 @@
       "chestnut-blight.png": {
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAQCdASoQAAsABUB8JagCdAIHgADj527AxNCSJtfZspQj4MjZEGbliUympnBfOsc51OH0RI11e5apMnBNabcAAAA="
       },
+      "cia-to-oss.png": {
+        "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JbACdAEf6y71YgAA/j36Aao89uAdNbYPaKnA1tLWmEwlbynmNTRm1fKzHiSZC5HW3/yTsZAAAA=="
+      },
       "martian-incursion.png": {
         "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAsABUB8JZACdAB+qAAA/nWTR4wpcdWSt6PlHbIKkQQzNvL5OtxQ9EAAAA=="
       },
@@ -1279,7 +1303,7 @@
       "tennant-electricity-in-the-body2.png": {
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsABUB8JZACdIExEH2eU6AAAP7Aat78osLAv/g+z0E4MUwudeJIIzGXcrl4aFY3p/1OtFAwYHGlS63tLycKgAA="
       },
-      "_count": 6
+      "_count": 7
     },
     "15.ce-21st-the-final-struggle": {
       "population-control.png": {
@@ -1291,7 +1315,10 @@
       "trump.png": {
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoQAAsABUB8JZgCdAEfcIAF7u0SAAD+0F7lGdxhBkGbWWKrY/kOlnVVeHbq+s8nbh7WFq3O6ifRTIAA"
       },
-      "_count": 3
+      "wuxing-suppression.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZgCdAD6y1SPoAAA/tDZMTErWPEFdjyeOVFv058XOq8yL4BGzjKrWTeFvz7n4HwAAA=="
+      },
+      "_count": 4
     },
     "16.appendix": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1341,7 +1368,7 @@
       },
       "_count": 15
     },
-    "_count": 171
+    "_count": 175
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1349,5 +1376,5 @@
     },
     "_count": 1
   },
-  "_count": 413
+  "_count": 420
 }
