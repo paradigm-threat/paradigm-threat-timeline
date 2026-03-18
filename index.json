@@ -223,7 +223,10 @@
       "08.03.01-geopolymer-concrete-horde-secret.md": {
         "_title": "Geopolymer Concrete: The Horde's Construction Secret"
       },
-      "_count": 6
+      "08.03.02-freemasonry-operative-to-speculative.md": {
+        "_title": "Freemasonry: From Operative to Speculative"
+      },
+      "_count": 7
     },
     "09.ce-15th-ottoman-conquest-of-europe": {
       "09.00.00-1400-ce-15th-century-ce-ottoman-conquest-of-europe.md": {
@@ -723,7 +726,7 @@
       },
       "_count": 1
     },
-    "_count": 219
+    "_count": 220
   },
   "data": {
     "events.json": {},
@@ -1376,5 +1379,5 @@
     },
     "_count": 1
   },
-  "_count": 420
+  "_count": 421
 }
