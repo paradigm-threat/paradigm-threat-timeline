@@ -24,7 +24,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 ### Recommended Unified Style
 
 1. **Default voice: Third-person investigative.** Present claims as "this timeline argues" or "sources indicate" rather than "I believe." Reserve first person for explicitly marked author theses.
-2. **Author thesis blocks:** When presenting original synthesis, use explicit markup: *"Author's thesis:"* or a dedicated callout. Place at **end of article**, after all cited evidence. Do not interleave personal opinion with sourced claims. The 80/20 rule: ~80% cited evidence, ~20% author thesis.
+2. **Author thesis blocks:** When presenting original synthesis, use explicit markup: *"Author's thesis:"* or a dedicated callout. Place at **end of article**, after all cited evidence. Do not interleave personal opinion with sourced claims. The 80/20 rule: ~80% cited evidence, ~20% author thesis. **Exception:** under `content/`, follow **§ Timeline book voice** — show inference chains instead of thesis labels unless a rare exception is requested.
 3. **Pack, don't pad.** Every sentence must carry information. Remove expository warm-ups ("In order to understand X…"), restated theses from prior articles, multi-sentence transitions, preambles before block quotes. Let cross-references do the connecting.
 4. **Proposition lists:** Reserve numbered propositions for methodology (Core Concepts). Avoid proposition-style exposition in narrative articles.
 5. **Tone consistency:** Maintain "investigation, not adjudication" — document claims, trace sources, stay open. Avoid absolute certainty language ("proven," "definitely") unless citing a primary source.
@@ -37,6 +37,15 @@ Content exhibits several distinct voices that can jar when read sequentially:
 - [ ] Cross-references use standard format: `[Title](/timeline/evt-slug)`
 - [ ] Investigation links use root-relative paradigm-threat-files paths (e.g. `/influence/...`, `/science/...`); timeline content uses `/timeline/evt-...` or `/timeline?view=browser&path=content/...`
 - [ ] Word count target: 300–800 per article (PRINT_GOALS §13)
+
+### Timeline book voice (`content/**/*.md` only)
+
+For **print-facing narrative** under `content/`, prefer **demonstrated logic** over **ownership labels**:
+
+1. **Do not** frame arguments as "author thesis," "Paradigm Threat," "author only," or "this site's theory" in ordinary prose.
+2. **Do** chain inference: named source **scope** → **gap** → what **else** the chronology already establishes → **conclusion**, in third person or "this chronology holds…".
+3. **Exception:** First-person or explicit "thesis" blocks remain acceptable in **intro/overview** pieces where the project already uses confessional voice (e.g. ch.00 intro) — do not retroactively strip those without editorial intent.
+4. **Scope:** This convention applies to **timeline `content/`** only; **paradigm-threat-files**, blog, and investigations are unchanged unless separately edited.
 
 ---
 

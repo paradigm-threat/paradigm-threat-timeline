@@ -550,6 +550,7 @@
             }
           ],
           "media": [
+            "/media/06.ce-12th-birth-of-christianity/conjunction.png",
             "/media/06.ce-12th-birth-of-christianity/crucifixion_descent_tintoretto_1565.jpg",
             "/media/06.ce-12th-birth-of-christianity/hans_bol_crucifixion_1587.jpg",
             "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png"
@@ -560,10 +561,7 @@
           "title": "Revolution Despite Christ's Martyrdom",
           "type": "article",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md",
-          "children": [],
-          "media": [
-            "/media/06.ce-12th-birth-of-christianity/conjunction.jpg"
-          ]
+          "children": []
         },
         {
           "id": "evt-the-first-crusade-trojan-war",
