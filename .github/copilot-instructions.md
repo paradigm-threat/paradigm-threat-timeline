@@ -92,22 +92,18 @@ npm run generate-index
 
 ## Regenerating PDF / DOCX exports
 
-The PDF and DOCX generators require Python packages (`fpdf2`, `markdown-it-py`, `Pillow`, `python-docx`) that are **not** installed system-wide. A venv at `.venv/` is used.
+The PDF and DOCX generators require Python packages that are **not** installed system-wide on many distros. **`npm run generate-pdf`**, **`npm run generate-docx`**, and **`npm run generate-exports`** use `scripts/run-with-export-venv.sh`, which creates `.venv/`, installs deps, and runs the generator — no manual venv step.
 
-To regenerate both exports in one command:
-```bash
-npm run export
-```
+| Command | Output |
+|---------|--------|
+| `npm run generate-exports` | `export/timeline-book.pdf`, `timeline-appendix.pdf`, `timeline-book.docx`, `timeline-appendix.docx` (native fpdf2 PDFs + python-docx) |
+| `npm run export` | DOCX via venv, then PDF via **LibreOffice** conversion (different PDF pipeline) |
 
-This runs `scripts/export.sh`, which:
-1. Creates `.venv/` if it doesn't exist (`python3 -m venv .venv`)
-2. Installs/upgrades the required packages (`fpdf2`, `markdown-it-py`, `Pillow`, `python-docx`) into the venv
-3. Runs `generate-docx.py` using the venv Python
-4. Converts DOCX → PDF via LibreOffice (`libreoffice --headless --convert-to pdf`); if LibreOffice is not installed, falls back to `generate-pdf.py`
+`scripts/export.sh` still: venv → `generate-docx.py` → `libreoffice --headless --convert-to pdf`. Use **`generate-exports`** for the print-spec native PDFs in `PRINT_GOALS.md`.
 
-**Do not** use bare `python3 scripts/generate-pdf.py` or `python3 scripts/generate-docx.py` — they will fail if the system Python lacks the dependencies. Always use `npm run export`.
+**Do not** rely on bare `python3 scripts/generate-pdf.py` unless system Python has `fpdf2` etc. Prefer **`npm run generate-exports`**.
 
-> **LibreOffice dependency:** The PDF conversion requires `libreoffice` on the PATH. On Ubuntu/Debian: `sudo apt install libreoffice`. On macOS: `brew install --cask libreoffice`. Without it, the fallback native PDF generator produces lower-fidelity output.
+> **LibreOffice dependency (for `npm run export` only):** Without `libreoffice` on PATH, `export.sh` skips DOCX→PDF conversion. **`npm run generate-exports`** does not need LibreOffice.
 
 ## Image Generation (Golden Age vs Dark Age)
 
