@@ -545,7 +545,7 @@
               "md_path": "content/06.ce-12th-birth-of-christianity/06.03.01-the-brother-on-the-cross.md",
               "children": [],
               "media": [
-                "/media/06.ce-12th-birth-of-christianity/tomb_of_christ_and_brother.jpg"
+                "/media/06.ce-12th-birth-of-christianity/tomb_of_christ.png"
               ]
             }
           ],
@@ -763,24 +763,6 @@
       "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-1400-ce-15th-century-ce-ottoman-conquest-of-europe.md",
       "children": [
         {
-          "id": "evt-1431-ce-jeanne-darc-is-executed-in-rouen-france",
-          "title": "1431 CE \u2014 Jeanne d'Arc is executed in Rouen, France",
-          "type": "event",
-          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.01.01-1431-ce-jeanne-darc-is-executed-in-rouen-france.md",
-          "children": [],
-          "dates": [
-            {
-              "start": 1431,
-              "end": 1431,
-              "calendar": "CE"
-            }
-          ],
-          "media": [
-            "/media/09.ce-15th-ottoman-conquest-of-europe/jeanne-darc-is-executed.png",
-            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
-          ]
-        },
-        {
           "id": "evt-1453-ce-fall-of-czar-grad-constantinople",
           "title": "1453 CE \u2014 Fall of Czar-Grad (Constantinople)",
           "type": "event",
@@ -919,6 +901,24 @@
           ],
           "media": [
             "/media/10.ce-16th-reformation-and-inquisition/jews_vs_gentiles.jpg"
+          ]
+        },
+        {
+          "id": "evt-1580-ce-jeanne-darc-is-executed-in-rouen-france",
+          "title": "1580 CE \u2014 Jeanne d'Arc is executed in Rouen, France",
+          "type": "event",
+          "md_path": "content/10.ce-16th-reformation-and-inquisition/10.04.00-1580-ce-jeanne-darc-is-executed-in-rouen-france.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1580,
+              "end": 1580,
+              "calendar": "CE"
+            }
+          ],
+          "media": [
+            "/media/09.ce-15th-ottoman-conquest-of-europe/jeanne-darc-is-executed.png",
+            "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
           ]
         },
         {
