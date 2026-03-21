@@ -244,7 +244,7 @@ For each broken link id, replace with the correct id below. All fixes are **link
 | `evt-revelation-of-the-coming-apocalypse` | `evt-revelation-coming-apocalypse` |
 | `evt-redacted-into-the-books-of-esther-judith` | `evt-pentateuch-as-horde-chronicle` |
 | `evt-jeanne-darc-is-executed-in-rouen-france` | `evt-1431-ce-jeanne-darc-is-executed-in-rouen-france` |
-| `evt-meteorite-star-metal-falls-on-yaroslavl` | `evt-1453-ce-fall-of-czar-grad-constantinople` |
+| `evt-meteorite-star-metal-falls-on-yaroslavl` | `evt-1421-ce-meteorite-falls-on-yaroslavl` |
 
 ### Blip / Chronology
 

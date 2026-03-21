@@ -10,18 +10,22 @@ EVENTS_PATH = os.path.join(REPO_DIR, "data", "events.json")
 
 
 def get_first_header(md_path):
-    """Extract first # header from markdown file."""
+    """Extract first # header from markdown file (skip YAML frontmatter)."""
     full_path = os.path.join(REPO_DIR, md_path)
     if not os.path.exists(full_path):
         return None, f"File not found: {md_path}"
     try:
         with open(full_path, "r", encoding="utf-8") as f:
+            in_frontmatter = False
             for line in f:
-                line = line.strip()
-                if line.startswith("# "):
-                    return line[2:].strip(), None
-                if line.startswith("---") and f.tell() < 200:
+                stripped = line.strip()
+                if stripped == "---":
+                    in_frontmatter = not in_frontmatter
                     continue
+                if in_frontmatter:
+                    continue
+                if stripped.startswith("# "):
+                    return stripped[2:].strip(), None
         return None, "No # header found"
     except Exception as e:
         return None, str(e)

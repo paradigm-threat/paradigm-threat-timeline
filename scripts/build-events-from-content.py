@@ -5,7 +5,10 @@ Build data/events.json from content/ file structure.
 Source of truth: content/ folder. One entry per file.
 - Hierarchy from XX.YY.ZZ in filename
 - Dates from filename slug when present (YYYY-YYYY, YYYY-bce, YYYY-ce)
-- Optional fields (media, related_events, etc.) from YAML frontmatter
+- Optional fields (media, related_events, id, etc.) from YAML frontmatter.
+  Use `id: evt-...` to keep stable timeline URLs when the filename slug no longer includes the year.
+- Dates use one signed-year line (negative = BCE, positive = CE). Optional YAML `calendar` is legacy;
+  if omitted, it is inferred. Spans crossing year 0 are stored as calendar "mixed".
 """
 import json
 import os
@@ -168,12 +171,18 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
     if not title or not title.strip():
         return None, f"{md_path}: missing first # header"
 
-    evt_id = slug_to_id(slug)
+    fm = parse_frontmatter(md_path)
+    id_override = fm.get("id") if isinstance(fm.get("id"), str) else None
+    if id_override and id_override.strip():
+        evt_id = id_override.strip()
+        if not evt_id.startswith("evt-"):
+            return None, f"{md_path}: frontmatter id must start with evt-"
+    else:
+        evt_id = slug_to_id(slug)
     dates, date_err = extract_dates_from_slug(slug)
     if date_err:
         return None, f"{md_path}: {date_err}"
 
-    fm = parse_frontmatter(md_path)
     # Allow frontmatter "dates" to override slug dates or supply when slug has none
     if fm.get("dates") and isinstance(fm["dates"], list) and len(fm["dates"]) > 0:
         d0 = fm["dates"][0]
@@ -187,7 +196,29 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
                     return None, f"{md_path}: frontmatter end year {end} out of range [{MIN_YEAR}, {MAX_YEAR}]"
                 if end is not None and start > end:
                     return None, f"{md_path}: frontmatter invalid date range: start {start} > end {end}"
-                dates = [{"start": start, "end": end or start, "calendar": d0.get("calendar", "BCE" if start < 0 else "CE")}]
+                if d0.get("calendar") is not None and str(d0.get("calendar")).strip() != "":
+                    cal = str(d0["calendar"]).strip()
+                elif end is not None and start < 0 < end:
+                    cal = "mixed"
+                else:
+                    cal = "BCE" if start < 0 else "CE"
+                dates = [{"start": start, "end": end or start, "calendar": cal}]
+            elif end is not None:
+                # Open lower bound (e.g. Before Creation): display as ∞ … end in UI
+                if end < MIN_YEAR or end > MAX_YEAR:
+                    return None, f"{md_path}: frontmatter end year {end} out of range [{MIN_YEAR}, {MAX_YEAR}]"
+                cal = d0.get("calendar", "BCE" if end < 0 else "CE")
+                start_label = d0.get("start_label")
+                if start_label is None or start_label == "":
+                    start_label = "∞"
+                dates = [
+                    {
+                        "start": None,
+                        "end": end,
+                        "calendar": cal,
+                        "start_label": start_label,
+                    }
+                ]
 
     entry = {
         "id": evt_id,
