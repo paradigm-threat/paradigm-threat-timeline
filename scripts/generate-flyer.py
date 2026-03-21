@@ -35,8 +35,8 @@ OUT         = REPO_DIR / "export" / "test-reader-flyer.docx"
 SAMPLE_CHAPTERS = [
     "content/00.overview/00.00.00-introduction.md",
     "content/02.the-golden-age/02.02.00-the-225-day-year.md",
-    "content/05.ce-11th-common-era-begins/05.00.00-1053-ce-11th-century-ce-common-era-begins.md",
-    "content/09.ce-15th-ottoman-conquest-of-europe/09.01.00-meteorite-falls-on-yaroslavl.md",
+    "content/05.ce-11th-common-era-begins/05.00.00-11th-century-ce-common-era-begins.md",
+    "content/09.ce-15th-ottoman-conquest-of-europe/09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md",
     "content/14.ce-20th-the-1917-revolution/14.01.00-world-war-i-reverse-crusade-ii.md",
     "content/15.ce-21st-the-final-struggle/15.07.00-historical-antibodies.md",
     "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
