@@ -758,6 +758,9 @@
     "CONTENT_REDUCTION_TRACKER.md": {
       "_title": "Content Reduction Tracker"
     },
+    "CONTENT_SCAN.md": {
+      "_title": "Content scan: chapters 05\u201315"
+    },
     "CONTENT_STRATEGY.md": {
       "_title": "Content Strategy: Paradigm Threat Timeline"
     },
@@ -788,7 +791,7 @@
     "TIMELINE_FAQ.md": {
       "_title": "FAQ"
     },
-    "_count": 16
+    "_count": 17
   },
   "export": {
     "timeline-appendix.pdf": {},
@@ -1213,10 +1216,13 @@
       "painting_ottoman_invades_vienna_1683.jpg": {
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsABUB8JQBOgB5vt/UAAPyO3WkMmaqPwNoeKhniCzvxoAA="
       },
+      "painting_ottoman_invades_vienna_1683_annotated.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JYgCdACGsPwAAPjY1DtP1/YyAKEyG4JrgjF8cfO5ums0r0hOeRJUpgoPo3d49fgAAA=="
+      },
       "ship-of-fools.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JaACdAD58C0sAAD4oFGdGRafDSW5HBqH6CD6s/MRX9ldhhME5E3YGAAAAA=="
       },
-      "_count": 11
+      "_count": 12
     },
     "11.ce-17th-romanovs-rise-to-power": {
       "1652_massacre_of_polish_captives_at_batih.jpg": {
@@ -1386,7 +1392,7 @@
       },
       "_count": 17
     },
-    "_count": 177
+    "_count": 178
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1394,5 +1400,5 @@
     },
     "_count": 1
   },
-  "_count": 426
+  "_count": 428
 }
