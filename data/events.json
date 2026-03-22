@@ -95,7 +95,8 @@
         }
       ],
       "media": [
-        "/media/00.overview/paradigm-threat-the-third-story.png"
+        "/media/00.overview/paradigm-threat-the-third-story.png",
+        "/media/00.overview/chapter-timeline-positions.svg"
       ]
     },
     {
@@ -156,7 +157,9 @@
         }
       ],
       "media": [
-        "/media/01.before-creation/before-creation.png"
+        "/media/01.before-creation/before-creation.png",
+        "/media/01.before-creation/chapter-span.svg",
+        "/media/01.before-creation/chapter-events.svg"
       ]
     },
     {
@@ -314,6 +317,7 @@
       ],
       "media": [
         "/media/02.the-golden-age/golden_age_hieronimus_bosch.jpg",
+        "/media/02.the-golden-age/chapter-span.svg",
         "/media/02.the-golden-age/chapter-events.svg",
         "/media/02.the-golden-age/cosmic_mountain.jpg"
       ]
@@ -530,7 +534,9 @@
         }
       ],
       "media": [
-        "/media/03.the-dark-ages/dark-ages-timeline.svg"
+        "/media/03.the-dark-ages/dark-ages-timeline.svg",
+        "/media/03.the-dark-ages/chapter-span.svg",
+        "/media/03.the-dark-ages/chapter-events.svg"
       ]
     },
     {
@@ -558,7 +564,8 @@
         }
       ],
       "media": [
-        "/media/04.the-blip/blip-timeline.svg"
+        "/media/04.the-blip/blip-timeline.svg",
+        "/media/04.the-blip/chapter-span.svg"
       ]
     },
     {
@@ -619,6 +626,8 @@
         }
       ],
       "media": [
+        "/media/05.ce-11th-common-era-begins/chapter-span.svg",
+        "/media/05.ce-11th-common-era-begins/chapter-events.svg",
         "/media/05.ce-11th-common-era-begins/11th_century_common_era_begins.png",
         "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour.png"
       ]
@@ -718,6 +727,8 @@
         }
       ],
       "media": [
+        "/media/06.ce-12th-birth-of-christianity/chapter-span.svg",
+        "/media/06.ce-12th-birth-of-christianity/chapter-events.svg",
         "/media/06.ce-12th-birth-of-christianity/twelve_tribes_zodiac.jpg"
       ]
     },
@@ -804,6 +815,8 @@
         }
       ],
       "media": [
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/chapter-span.svg",
+        "/media/07.ce-13th-the-russian-horde-tartarian-empire/chapter-events.svg",
         "/media/07.ce-13th-the-russian-horde-tartarian-empire/troy_protected_from_mars_by_antonio_raffaele_calliano_1815.jpg",
         "/media/07.ce-13th-the-russian-horde-tartarian-empire/kremlin_2nd_jerusalem_boris_godunov.png",
         "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
@@ -888,6 +901,8 @@
         }
       ],
       "media": [
+        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/chapter-span.svg",
+        "/media/08.ce-14th-great-expansion-of-the-mongol-slav/chapter-events.svg",
         "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-great-expansion.png",
         "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-hundred-years-war-begins.png"
       ]
@@ -997,6 +1012,8 @@
         }
       ],
       "media": [
+        "/media/09.ce-15th-ottoman-conquest-of-europe/chapter-span.svg",
+        "/media/09.ce-15th-ottoman-conquest-of-europe/chapter-events.svg",
         "/media/09.ce-15th-ottoman-conquest-of-europe/15th-conquest-of-europe.png",
         "/media/09.ce-15th-ottoman-conquest-of-europe/1421CE-meteor-yaroslavl.png"
       ]
@@ -1128,6 +1145,8 @@
         }
       ],
       "media": [
+        "/media/10.ce-16th-reformation-and-inquisition/chapter-span.svg",
+        "/media/10.ce-16th-reformation-and-inquisition/chapter-events.svg",
         "/media/10.ce-16th-reformation-and-inquisition/painting_ottoman_invades_vienna_1683_annotated.png",
         "/media/10.ce-16th-reformation-and-inquisition/painting_german_peasant_war_1525.jpg"
       ]
@@ -1364,6 +1383,8 @@
         }
       ],
       "media": [
+        "/media/11.ce-17th-romanovs-rise-to-power/chapter-span.svg",
+        "/media/11.ce-17th-romanovs-rise-to-power/chapter-events.svg",
         "/media/11.ce-17th-romanovs-rise-to-power/king_james_bible.jpg"
       ]
     },
@@ -1485,6 +1506,10 @@
           "end": 1800,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/12.ce-18th-mudflood-and-pugachev/chapter-span.svg",
+        "/media/12.ce-18th-mudflood-and-pugachev/chapter-events.svg"
       ]
     },
     {
@@ -1634,6 +1659,10 @@
           "end": 1900,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/13.ce-19th-rise-of-communism/chapter-span.svg",
+        "/media/13.ce-19th-rise-of-communism/chapter-events.svg"
       ]
     },
     {
@@ -1810,6 +1839,10 @@
           "end": 2000,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/14.ce-20th-the-1917-revolution/chapter-span.svg",
+        "/media/14.ce-20th-the-1917-revolution/chapter-events.svg"
       ]
     },
     {
@@ -1902,6 +1935,10 @@
           "end": 2100,
           "calendar": "CE"
         }
+      ],
+      "media": [
+        "/media/15.ce-21st-the-final-struggle/chapter-span.svg",
+        "/media/15.ce-21st-the-final-struggle/chapter-events.svg"
       ]
     },
     {
