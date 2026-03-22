@@ -1,6 +1,6 @@
 {
   "name": "paradigm-threat-timeline",
-  "version": "1.2.98",
+  "version": "1.2.99",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,6 +10,7 @@
     "audit-missing": "python3 scripts/audit-missing.py",
     "build-entries": "python3 scripts/build-entries.py",
     "populate-media": "python3 scripts/populate-media.py",
+    "generate-chapter-timeline-svgs": "python3 scripts/generate-chapter-timeline-svgs.py",
     "generate-pdf": "bash scripts/run-with-export-venv.sh scripts/generate-pdf.py",
     "generate-docx": "bash scripts/run-with-export-venv.sh scripts/generate-docx.py",
     "generate-exports": "npm run generate-pdf && npm run generate-docx",

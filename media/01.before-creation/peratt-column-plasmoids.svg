@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <linearGradient id="columnGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#333"/>
+      <stop offset="50%" stop-color="#555"/>
+      <stop offset="100%" stop-color="#888" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="240" fill="#f5f4f0"/>
+  <!-- Earth (bottom) - simple arc for horizon -->
+  <ellipse cx="450" cy="218" rx="200" ry="30" fill="#888" fill-opacity="0.3" stroke="#666" stroke-width="1"/>
+  <text x="450" y="233" text-anchor="middle" font-size="10" fill="#333">Earth - South Pole</text>
+  <!-- Plasma column (vertical, bent ~30 deg off axis) -->
+  <path d="M 448 198 L 420 120 Q 440 55 452 28" fill="none" stroke="url(#columnGrad)" stroke-width="6" stroke-linecap="round"/>
+  <!-- Filaments (56 to 28 to 4) - simplified as converging lines -->
+  <g stroke="#666" stroke-width="0.5" stroke-opacity="0.6">
+    <line x1="440" y1="178" x2="430" y2="120"/>
+    <line x1="456" y1="178" x2="466" y2="120"/>
+  </g>
+  <!-- Three plasmoids - labels to the right to avoid column overlap -->
+  <circle cx="420" cy="142" r="10" fill="#fff" fill-opacity="0.9" stroke="#333" stroke-width="1"/>
+  <text x="480" y="146" font-size="8" fill="#222">P1 ~165k mi</text>
+  <circle cx="412" cy="98" r="11" fill="#fff" fill-opacity="0.9" stroke="#333" stroke-width="1"/>
+  <text x="480" y="102" font-size="8" fill="#222">P2 ~190k mi</text>
+  <circle cx="445" cy="42" r="14" fill="#fff" fill-opacity="0.95" stroke="#333" stroke-width="1"/>
+  <text x="485" y="46" font-size="8" fill="#222">P3 ~435k mi</text>
+  <!-- Key -->
+  <rect x="20" y="18" width="200" height="65" fill="#fff" fill-opacity="0.8" stroke="#999" stroke-width="0.5" rx="2"/>
+  <text x="120" y="35" text-anchor="middle" font-size="10" font-weight="bold" fill="#111">Key</text>
+  <text x="30" y="52" font-size="9" fill="#333">Plasma column from South Pole</text>
+  <text x="30" y="64" font-size="9" fill="#333">3 plasmoids: Hurakan, Muspelheim,</text>
+  <text x="30" y="76" font-size="9" fill="#333">three stones, turtle (Maya)</text>
+  <!-- Title -->
+  <text x="450" y="18" text-anchor="middle" font-size="16" font-weight="bold" fill="#111">Peratt Column and Three Plasmoids</text>
+  <text x="450" y="34" text-anchor="middle" font-size="11" fill="#444">Southern hemisphere - Before Creation</text>
+</svg>

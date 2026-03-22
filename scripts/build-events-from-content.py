@@ -203,6 +203,10 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
                 else:
                     cal = "BCE" if start < 0 else "CE"
                 dates = [{"start": start, "end": end or start, "calendar": cal}]
+                if d0.get("display_year") is not None:
+                    dates[0]["display_year"] = d0["display_year"]
+                if d0.get("note") is not None:
+                    dates[0]["note"] = d0["note"]
             elif end is not None:
                 # Open lower bound (e.g. Before Creation): display as ∞ … end in UI
                 if end < MIN_YEAR or end > MAX_YEAR:

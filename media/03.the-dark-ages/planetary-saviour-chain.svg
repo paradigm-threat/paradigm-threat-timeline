@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240">
+  <!-- Background -->
+  <rect width="1200" height="240" fill="#f5f4f0"/>
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#555"/>
+    </marker>
+  </defs>
+  <!-- Vertical divider: 75% / 25% split at x=900 -->
+  <line x1="900" y1="25" x2="900" y2="215" stroke="#999" stroke-width="2"/>
+  <!-- LEFT 75%: Planetary Saviour Chain -->
+  <g transform="translate(40, 0)">
+    <line x1="20" y1="115" x2="820" y2="115" stroke="#ccc" stroke-width="1" stroke-dasharray="4 2"/>
+    <circle cx="100" cy="115" r="28" fill="#e8e4d8" stroke="#555" stroke-width="1.5"/>
+    <text x="100" y="158" text-anchor="middle" font-size="10" fill="#222">Saturn</text>
+    <text x="100" y="170" text-anchor="middle" font-size="9" fill="#444">Creator to Devourer</text>
+    <text x="100" y="178" text-anchor="middle" font-size="8" fill="#555">Golden Age</text>
+    <line x1="135" y1="115" x2="215" y2="115" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+    <circle cx="260" cy="115" r="26" fill="#d4c4a8" stroke="#555" stroke-width="1.5"/>
+    <text x="260" y="158" text-anchor="middle" font-size="10" fill="#222">Jupiter</text>
+    <text x="260" y="170" text-anchor="middle" font-size="9" fill="#444">Good King to Jealous</text>
+    <text x="260" y="182" text-anchor="middle" font-size="8" fill="#555">2860-2349 BCE</text>
+    <line x1="293" y1="115" x2="373" y2="115" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+    <polygon points="410,100 422,90 428,103 442,98 436,111 450,115 436,119 442,132 428,127 422,140 410,130 398,140 404,127 390,119 404,111 390,103" fill="#f0ebe0" stroke="#555" stroke-width="1"/>
+    <text x="420" y="158" text-anchor="middle" font-size="9" fill="#222">Venus</text>
+    <text x="420" y="170" text-anchor="middle" font-size="9" fill="#444">Light Bringer to Dragon</text>
+    <text x="420" y="182" text-anchor="middle" font-size="8" fill="#555">1492-1442 BCE</text>
+    <line x1="445" y1="115" x2="525" y2="115" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+    <circle cx="550" cy="115" r="22" fill="#999" stroke="#555" stroke-width="1.5"/>
+    <text x="550" y="158" text-anchor="middle" font-size="10" fill="#222">Mars</text>
+    <text x="550" y="170" text-anchor="middle" font-size="9" fill="#444">Fire Giver to Red Dragon</text>
+    <text x="550" y="182" text-anchor="middle" font-size="8" fill="#555">806-670 BCE</text>
+    <line x1="579" y1="115" x2="659" y2="115" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+    <circle cx="674" cy="115" r="30" fill="#f5f0e0" stroke="#555" stroke-width="1.5"/>
+    <text x="674" y="158" text-anchor="middle" font-size="10" fill="#222">Sun</text>
+    <text x="674" y="170" text-anchor="middle" font-size="9" fill="#444">Final God</text>
+    <text x="674" y="182" text-anchor="middle" font-size="8" fill="#555">670 BCE-present</text>
+    <rect x="20" y="195" width="720" height="20" fill="#fff" fill-opacity="0.7" stroke="#ccc" stroke-width="0.5"/>
+    <text x="380" y="209" text-anchor="middle" font-size="9" fill="#555">225d to 240d to 260d to 273d to 360d to 365.25d</text>
+  </g>
+  <text x="450" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#111">Planetary Saviour Chain</text>
+  <text x="450" y="50" text-anchor="middle" font-size="11" fill="#444">Each worshipped as saviour before destroyer (Dark Ages 3147-670 BCE)</text>
+  <!-- RIGHT 25%: Human Saviour Chain -->
+  <text x="1050" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#111">Human Saviour Chain</text>
+  <text x="1050" y="50" text-anchor="middle" font-size="11" fill="#444">Monotheist redaction: celestial to invisible</text>
+  <g transform="translate(920, 0)">
+    <rect x="0" y="68" width="260" height="88" fill="#fff" fill-opacity="0.6" stroke="#bbb" stroke-width="1" rx="4"/>
+    <text x="130" y="92" text-anchor="middle" font-size="10" fill="#444">Sun (+ Jupiter) redacted to</text>
+    <line x1="30" y1="100" x2="230" y2="100" stroke="#999" stroke-width="1" stroke-dasharray="3 2"/>
+    <text x="130" y="118" text-anchor="middle" font-size="12" font-weight="bold" fill="#222">Christ</text>
+    <text x="130" y="135" text-anchor="middle" font-size="10" fill="#444">"Sun" of invisible God</text>
+  </g>
+  <g transform="translate(920, 0)">
+    <rect x="0" y="168" width="260" height="38" fill="#f0eeee" fill-opacity="0.9" stroke="#bbb" stroke-width="0.5" rx="2"/>
+    <text x="130" y="188" text-anchor="middle" font-size="10" fill="#555">Saturn - no longer named</text>
+    <text x="130" y="202" text-anchor="middle" font-size="9" fill="#666">(original Creator erased)</text>
+  </g>
+</svg>

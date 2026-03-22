@@ -166,14 +166,53 @@
       "md_path": "content/02.the-golden-age/02.00.00-the-golden-age.md",
       "children": [
         {
-          "id": "evt-proto-saturn-joins-the-sun-s-orbit",
+          "id": "evt-4077-bce-proto-saturn-joins-sun-orbit",
           "title": "Proto-Saturn joins the Sun's orbit",
-          "type": "article",
+          "type": "event",
           "md_path": "content/02.the-golden-age/02.01.00-proto-saturn-joins-the-sun-s-orbit.md",
           "children": [],
+          "dates": [
+            {
+              "start": -4077,
+              "end": -4077,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             "/media/02.the-golden-age/colinear-configuration-golden-age.svg",
             "/media/02.the-golden-age/saturn_configuration_vortex.jpg"
+          ]
+        },
+        {
+          "id": "evt-golden-age-earth-started-rotating-visibly",
+          "title": "Earth started rotating visibly",
+          "type": "event",
+          "md_path": "content/02.the-golden-age/02.02.00-earth-started-rotating-visibly.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -3800,
+              "end": -3800,
+              "calendar": "BCE",
+              "display_year": "?",
+              "note": "Date uncertain. Jno Cook and Talbott: planets in collinear configuration did not spin; Earth's axis was fixed toward Saturn. When rotation became visibly apparent is not established."
+            }
+          ]
+        },
+        {
+          "id": "evt-golden-age-mars-venus-changed-positions",
+          "title": "Mars and Venus changed positions",
+          "type": "event",
+          "md_path": "content/02.the-golden-age/02.03.00-mars-and-venus-changed-positions.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -3600,
+              "end": -3600,
+              "calendar": "BCE",
+              "display_year": "?",
+              "note": "Date uncertain. Northern config order was Mars, Venus, Saturn, Jupiter, Sun. When or whether Mars and Venus shifted relative positions during the Golden Age is not established by Jno Cook or Talbott."
+            }
           ]
         },
         {
@@ -199,6 +238,22 @@
           ]
         },
         {
+          "id": "evt-golden-age-mars-drew-close-earth-oscillation",
+          "title": "Mars drew close to Earth in oscillation",
+          "type": "event",
+          "md_path": "content/02.the-golden-age/02.06.00-mars-drew-close-to-earth-in-oscillation.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -3500,
+              "end": -3500,
+              "calendar": "BCE",
+              "display_year": "?",
+              "note": "Date uncertain. Priori-Mars inner shell approached Earth in oscillation, sometimes causing cataclysm, before retreating. The pattern repeated until Mars lost its outer shell in 686 BCE."
+            }
+          ]
+        },
+        {
           "id": "evt-atlantis-and-the-tree-of-knowledge",
           "title": "Atlantis and the Tree of Knowledge",
           "type": "article",
@@ -206,6 +261,22 @@
           "children": [],
           "media": [
             "/media/02.the-golden-age/atlantis_first_jerusalem.png"
+          ]
+        },
+        {
+          "id": "evt-golden-age-cataclysm-hit-earth",
+          "title": "Cataclysm hit Earth",
+          "type": "event",
+          "md_path": "content/02.the-golden-age/02.08.00-cataclysm-hit-earth.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -3400,
+              "end": -3400,
+              "calendar": "BCE",
+              "display_year": "?",
+              "note": "Date uncertain. Mars inner-shell approaches caused cataclysm during Golden Age. The Great Deluge at ~3147 BCE marks the definitive break. Earlier cataclysmic contacts are not dated."
+            }
           ]
         },
         {
@@ -218,6 +289,20 @@
             "/media/02.the-golden-age/quantum-entanglement.png",
             "/media/02.the-golden-age/wormhole.jpg"
           ]
+        },
+        {
+          "id": "evt-3147-bce-collinear-configuration-unstable",
+          "title": "Collinear configuration became unstable",
+          "type": "event",
+          "md_path": "content/02.the-golden-age/02.10.00-collinear-configuration-became-unstable.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -3147,
+              "end": -3147,
+              "calendar": "BCE"
+            }
+          ]
         }
       ],
       "dates": [
@@ -229,6 +314,7 @@
       ],
       "media": [
         "/media/02.the-golden-age/golden_age_hieronimus_bosch.jpg",
+        "/media/02.the-golden-age/chapter-events.svg",
         "/media/02.the-golden-age/cosmic_mountain.jpg"
       ]
     },
@@ -290,9 +376,16 @@
         {
           "id": "evt-september-8-jupiter-disappears",
           "title": "September 8 \u2014 Jupiter disappears",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.05.00-september-8-jupiter-disappears.md",
           "children": [],
+          "dates": [
+            {
+              "start": -2349,
+              "end": -2349,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             "/media/03.the-dark-ages/venus_and_mars.jpg",
             "/media/03.the-dark-ages/planet_venus_as_medusa.jpg"
@@ -301,9 +394,16 @@
         {
           "id": "evt-earth-leaves-last-absu-layer",
           "title": "Earth leaves last Absu layer & Seasons Begin",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.06.00-earth-leaves-last-absu-layer.md",
           "children": [],
+          "dates": [
+            {
+              "start": -2193,
+              "end": -2193,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             "/media/03.the-dark-ages/binding_of_isaac.jpg",
             "/media/03.the-dark-ages/mount_sinai.jpg"
@@ -312,7 +412,7 @@
         {
           "id": "evt-passover-of-comet-venus",
           "title": "Sodom & Gomorrah / 1492 BCE \u2014 \"Passover\" of Comet Venus & the Exodus",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.08.00-passover-of-comet-venus.md",
           "children": [
             {
@@ -325,6 +425,13 @@
                 "/media/03.the-dark-ages/plagues_of_venus.jpg",
                 "/media/03.the-dark-ages/chinese_dragon.jpg"
               ]
+            }
+          ],
+          "dates": [
+            {
+              "start": -1492,
+              "end": -1492,
+              "calendar": "BCE"
             }
           ],
           "media": [
@@ -352,9 +459,16 @@
         {
           "id": "evt-mars-aka-prometheus-replaces-venus-as-the-new-saviour",
           "title": "Mars (aka Prometheus) replaces Venus as the new Saviour",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.10.01-mars-aka-prometheus-replaces-venus-as-the-new-saviour.md",
           "children": [],
+          "dates": [
+            {
+              "start": -806,
+              "end": -806,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             "/media/03.the-dark-ages/prometheus.jpg"
           ]
@@ -376,9 +490,16 @@
         {
           "id": "evt-684-bce-solar-system-becomes-stable",
           "title": "Mars, Earth & Mercury finalize Orbits / 684 BCE \u2014 Solar System becomes stable",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.12.00-684-bce-solar-system-becomes-stable.md",
           "children": [],
+          "dates": [
+            {
+              "start": -684,
+              "end": -684,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             "/media/03.the-dark-ages/lunar_calendar.jpg"
           ]
@@ -2074,7 +2195,18 @@
           "title": "Seven Days and other Creation Narratives",
           "type": "article",
           "md_path": "content/16.appendix/16.05.00-seven-days-of-creation.md",
-          "children": []
+          "children": [
+            {
+              "id": "evt-golden-age-documentary-sequence-appendix",
+              "title": "Golden Age: Talbott Documentary Sequence (Table)",
+              "type": "article",
+              "md_path": "content/16.appendix/16.05.01-golden-age-documentary-sequence-appendix.md",
+              "children": [],
+              "media": [
+                "/media/02.the-golden-age/chapter-events.svg"
+              ]
+            }
+          ]
         },
         {
           "id": "evt-predictive-programming-fiction-as-control",
