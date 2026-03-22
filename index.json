@@ -70,19 +70,34 @@
       "02.01.00-proto-saturn-joins-the-sun-s-orbit.md": {
         "_title": "Proto-Saturn joins the Sun's orbit"
       },
+      "02.02.00-earth-started-rotating-visibly.md": {
+        "_title": "Earth started rotating visibly"
+      },
+      "02.03.00-mars-and-venus-changed-positions.md": {
+        "_title": "Mars and Venus changed positions"
+      },
       "02.04.00-absu-layers-surrounded-planets.md": {
         "_title": "Absu layers surrounded Planets"
       },
       "02.05.00-northern-configuration.md": {
         "_title": "Northern Configuration"
       },
+      "02.06.00-mars-drew-close-to-earth-in-oscillation.md": {
+        "_title": "Mars drew close to Earth in oscillation"
+      },
       "02.07.00-atlantis-and-the-tree-of-knowledge.md": {
         "_title": "Atlantis and the Tree of Knowledge"
+      },
+      "02.08.00-cataclysm-hit-earth.md": {
+        "_title": "Cataclysm hit Earth"
       },
       "02.09.00-interplanetary-entanglement.md": {
         "_title": "Interplanetary Entanglement"
       },
-      "_count": 6
+      "02.10.00-collinear-configuration-became-unstable.md": {
+        "_title": "Collinear configuration became unstable"
+      },
+      "_count": 11
     },
     "03.the-dark-ages": {
       "03.00.00-the-dark-ages.md": {
@@ -616,6 +631,9 @@
       "16.05.00-seven-days-of-creation.md": {
         "_title": "Seven Days and other Creation Narratives"
       },
+      "16.05.01-golden-age-documentary-sequence-appendix.md": {
+        "_title": "Golden Age: Talbott Documentary Sequence (Table)"
+      },
       "16.43.00-predictive-programming-fiction-as-control.md": {
         "_title": "Predictive Programming: Fiction as Control"
       },
@@ -724,7 +742,7 @@
       "16.56.00-giants-infantry-guerrilla-childrens-crusade-etymology.md": {
         "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Etymology"
       },
-      "_count": 71
+      "_count": 72
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -732,7 +750,7 @@
       },
       "_count": 1
     },
-    "_count": 222
+    "_count": 228
   },
   "data": {
     "events.json": {},
@@ -764,6 +782,9 @@
     "CONTENT_STRATEGY.md": {
       "_title": "Content Strategy: Paradigm Threat Timeline"
     },
+    "ILLUSTRATIONS.md": {
+      "_title": "Timeline Illustrations Plan"
+    },
     "IMAGE_GENERATION_PROMPT.md": {
       "_title": "Image Generation Prompt Template"
     },
@@ -791,7 +812,7 @@
     "TIMELINE_FAQ.md": {
       "_title": "FAQ"
     },
-    "_count": 17
+    "_count": 18
   },
   "export": {
     "timeline-appendix.pdf": {},
@@ -1750,5 +1771,5 @@
     },
     "_count": 1
   },
-  "_count": 428
+  "_count": 435
 }
