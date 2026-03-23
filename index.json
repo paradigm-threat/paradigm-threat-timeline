@@ -718,6 +718,9 @@
       "16.51.02-suppressed-energy-technology-cross-reference.md": {
         "_title": "Suppressed Energy Technology: A Cross-Reference"
       },
+      "16.51.03-einstein-1905-aether-and-theoretical-physics-appendix.md": {
+        "_title": "Einstein, 1905, the Luminiferous Aether, and \u201cTheoretical Physics\u201d (Appendix)"
+      },
       "16.52.00-population-control-displacement-evidence.md": {
         "_title": "Population Control and Displacement"
       },
@@ -742,7 +745,7 @@
       "16.56.00-giants-infantry-guerrilla-childrens-crusade-etymology.md": {
         "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Etymology"
       },
-      "_count": 72
+      "_count": 73
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -750,7 +753,7 @@
       },
       "_count": 1
     },
-    "_count": 228
+    "_count": 229
   },
   "data": {
     "events.json": {},
@@ -1771,5 +1774,5 @@
     },
     "_count": 1
   },
-  "_count": 435
+  "_count": 436
 }
