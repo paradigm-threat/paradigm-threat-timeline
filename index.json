@@ -733,6 +733,12 @@
       "16.53.01-orphan-trains-trail-of-tears-evidence.md": {
         "_title": "Orphan Trains, Trail of Tears, Siberian Exile"
       },
+      "16.53.02-slow-ecological-collapse-mfee-donner-appendix.md": {
+        "_title": "Slow ecological collapse \u2014 MFEE through the Donner era"
+      },
+      "16.53.03-new-world-naming-mfee-colonization-memory-appendix.md": {
+        "_title": "\u201cNew World\u201d naming, MFEE, and colonization memory"
+      },
       "16.55.00-historical-antibodies-pattern.md": {
         "_title": "Historical Antibodies: Pattern Analysis"
       },
@@ -745,7 +751,7 @@
       "16.56.00-giants-infantry-guerrilla-childrens-crusade-etymology.md": {
         "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Etymology"
       },
-      "_count": 73
+      "_count": 75
     },
     "17-credits": {
       "17.00.00-credits.md": {
@@ -753,7 +759,7 @@
       },
       "_count": 1
     },
-    "_count": 229
+    "_count": 231
   },
   "data": {
     "events.json": {},
@@ -1768,5 +1774,5 @@
     },
     "_count": 1
   },
-  "_count": 436
+  "_count": 438
 }
