@@ -6,6 +6,8 @@ Source of truth: content/ folder. One entry per file.
 - Hierarchy from XX.YY.ZZ in filename
 - Dates from filename slug when present (YYYY-YYYY, YYYY-bce, YYYY-ce)
 - Optional fields (media, related_events, id, etc.) from YAML frontmatter.
+  Auto-extracted media uses {\"path\": \"...\"} or {\"path\": \"...\", \"bookIllustration\": true}
+  when the markdown image has {.book-illustration} (skipped in site TTS fullscreen slideshow).
   Use `id: evt-...` to keep stable timeline URLs when the filename slug no longer includes the year.
 - Dates use one signed-year line (negative = BCE, positive = CE). Optional YAML `calendar` is legacy;
   if omitted, it is inferred. Spans crossing year 0 are stored as calendar "mixed".
@@ -87,36 +89,98 @@ def get_first_header(md_path: str) -> str | None:
     return None
 
 
-# Regex to extract image paths from markdown: ![alt](path) or ![alt](path "title")
-MD_IMG_RE = re.compile(r"!\[[^\]]*\]\(([^)\s\"]+)(?:\s+\"[^\"]*\")?\)")
+# Markdown images: optional Pandoc block after ) e.g. {.book-illustration}
+MD_IMG_RE = re.compile(
+    r"!\[[^\]]*\]\(([^)\s\"]+)(?:\s+\"[^\"]*\")?\)(\s*\{[^}]+\})?"
+)
 # HTML img tags
 HTML_IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
 
+BOOK_ILLUSTRATION_IN_ATTRS = re.compile(r"\.book-illustration\b")
 
-def extract_images_from_markdown(md_path: str) -> list[str]:
-    """Extract image paths from markdown content. Returns list of paths for events.json media.
-    Paths are normalized to start with / for correct URL resolution against baseUrl."""
+
+def _attr_block_marks_book_illustration(block: str | None) -> bool:
+    if not block or not str(block).strip():
+        return False
+    s = str(block).strip()
+    if len(s) < 3 or not (s.startswith("{") and s.endswith("}")):
+        return False
+    return bool(BOOK_ILLUSTRATION_IN_ATTRS.search(s[1:-1]))
+
+
+def _normalize_media_path(raw: str) -> str:
+    raw = raw.strip()
+    if not raw or raw.startswith("data:") or raw.startswith("#"):
+        return ""
+    return raw if raw.startswith("/") else "/" + raw
+
+
+def _media_item_dict(path: str, book_illustration: bool) -> dict:
+    """events.json media[] item: {path} or {path, bookIllustration: true}."""
+    p = _normalize_media_path(path)
+    if not p:
+        return {}
+    if book_illustration:
+        return {"path": p, "bookIllustration": True}
+    return {"path": p}
+
+
+def normalize_media_from_frontmatter(fm_media: list) -> list[dict]:
+    """Convert YAML media list to events.json objects (path + optional bookIllustration)."""
+    out: list[dict] = []
+    for p in fm_media:
+        if isinstance(p, str):
+            item = _media_item_dict(p, False)
+            if item:
+                out.append(item)
+        elif isinstance(p, dict):
+            path = p.get("path") or p.get("src")
+            if path is None:
+                continue
+            book = bool(p.get("bookIllustration") or p.get("book_illustration"))
+            item = _media_item_dict(str(path), book)
+            if item:
+                out.append(item)
+    return out
+
+
+def extract_images_from_markdown(md_path: str) -> list[dict]:
+    """Extract image entries from markdown for events.json media[].
+    Each item is {\"path\": \"/...\"} or {\"path\": \"...\", \"bookIllustration\": true}
+    when the image line ends with {.book-illustration} (Pandoc class syntax)."""
     full_path = os.path.join(REPO_DIR, md_path)
     if not os.path.exists(full_path):
         return []
-    seen: set[str] = set()
-    result: list[str] = []
+    order: list[str] = []
+    flags: dict[str, bool] = {}
     try:
         with open(full_path, "r", encoding="utf-8") as f:
             content = f.read()
     except Exception:
         return []
-    for pat in (MD_IMG_RE, HTML_IMG_RE):
-        for m in pat.finditer(content):
-            raw = m.group(1).strip()
-            if not raw or raw.startswith("data:") or raw.startswith("#"):
-                continue
-            # Normalize: ensure path starts with / for baseUrl + path URL construction
-            p = raw if raw.startswith("/") else "/" + raw
-            if p not in seen:
-                seen.add(p)
-                result.append(p)
-    return result
+
+    for m in MD_IMG_RE.finditer(content):
+        raw = m.group(1).strip()
+        book = _attr_block_marks_book_illustration(m.group(2))
+        p = _normalize_media_path(raw)
+        if not p:
+            continue
+        if p not in flags:
+            order.append(p)
+            flags[p] = book
+        else:
+            flags[p] = flags[p] or book
+
+    for m in HTML_IMG_RE.finditer(content):
+        raw = m.group(1).strip()
+        p = _normalize_media_path(raw)
+        if not p:
+            continue
+        if p not in flags:
+            order.append(p)
+            flags[p] = False
+
+    return [_media_item_dict(p, flags[p]) for p in order]
 
 
 def parse_frontmatter(md_path: str) -> dict:
@@ -237,9 +301,12 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
     for key in ("related_events", "duplicate_of", "tags", "timeline_sources", "context", "categories"):
         if key in fm and fm[key] is not None:
             entry[key] = fm[key]
-    # media: use frontmatter if present, otherwise extract from markdown (for TTS slideshow / auto-playback)
-    if "media" in fm and fm["media"] is not None:
-        entry["media"] = [str(p) if isinstance(p, str) else str(p.get("path", p)) for p in fm["media"]]
+    # media: use frontmatter if present, otherwise extract from markdown (for TTS slideshow / auto-playback).
+    # Items are {path} or {path, bookIllustration: true}; TTS slideshow skips book-only-print figures.
+    if "media" in fm and fm["media"] is not None and isinstance(fm["media"], list):
+        norm = normalize_media_from_frontmatter(fm["media"])
+        if norm:
+            entry["media"] = norm
     else:
         extracted = extract_images_from_markdown(md_path)
         if extracted:
