@@ -871,7 +871,7 @@
       "paradigm-threat-the-third-story.png": {
         "_width": 1536,
         "_height": 1024,
-        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JYgCdAD69236loAA/sBP7o0BCVxfTHlLcHM57Myqrt9cOmfnG6/+14xMcTCZnWdD4QS1YugNsL+FEwAAAA=="
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JbACdAEQROAPX9oAAP7s3osN2G490g+ctrL72wS7fzGzfOWYFRzp+4Z18xYO95qYgGekhCEbBUrSpAAAAA=="
       },
       "planets-act-like-electrons.png": {
         "_width": 1536,
@@ -908,6 +908,11 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JZACdADWIIAAAPxn7DOpfUwevjgSQATQzYbaMJDftB1VTgtBb960XgRN2BgAAAA="
       },
+      "the-third-story-tree.png": {
+        "_width": 1536,
+        "_height": 1024,
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JYgCdAD69236loAA/sBP7o0BCVxfTHlLcHM57Myqrt9cOmfnG6/+14xMcTCZnWdD4QS1YugNsL+FEwAAAA=="
+      },
       "the-third-story.png": {
         "_width": 1536,
         "_height": 1024,
@@ -918,7 +923,7 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JZACdABp7IAA/qNsqMBLYNdJ75MObF6rabeKkpFRXTxklcDii8A0NQ/sLWvFoPY2gAAA"
       },
-      "_count": 16
+      "_count": 17
     },
     "01.before-creation": {
       "3-plasmoids-in-the-southern-hemisphere.png": {
@@ -1766,7 +1771,7 @@
       },
       "_count": 17
     },
-    "_count": 178
+    "_count": 179
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1774,5 +1779,5 @@
     },
     "_count": 1
   },
-  "_count": 438
+  "_count": 439
 }
