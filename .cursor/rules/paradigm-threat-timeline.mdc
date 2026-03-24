@@ -75,6 +75,7 @@ npm run generate-index    # Pre-commit
 
 ## Timeline book voice (`content/**/*.md`)
 
+- **Emphasis:** In `content/*.md`, use `**bold**` and `*italic*` sparingly for stress—about **one to four** emphasized spans per paragraph on average—not word-by-word highlighting. See `docs/CONTENT_MARKDOWN_STYLE.md`. (Does not apply outside `content/`.)
 - **No meta-labels** in running prose: avoid "author thesis," "author only," "Paradigm Threat theory," "this site's reading," and similar unless a rare footnote is explicitly requested.
 - **Show the logic** when extending beyond a named source (e.g. Fomenko): state **what the source covers** (e.g. horizon ~11th c. forward), **what the chronology establishes elsewhere** (e.g. Istanbul church predates Christ), **therefore** the next inference. Write in **third person** or neutral **"this chronology holds"** — book-facing, not editorial self-reference.
 - **Does not apply** to `paradigm-threat-files` or blog copy unless editing those for another reason.

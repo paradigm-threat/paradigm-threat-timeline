@@ -8,6 +8,10 @@ paradigm-threat-timeline is a standalone project. It does NOT reference paradigm
 
 **Investigative strategy:** See `docs/INVESTIGATIVE_STRATEGY.md`. We treat every possibility as open from scratch; do not rule out claims due to "scientific consensus" or "lack of evidence" alone. Predictive programming and media patterns are data. When an old belief was the default (e.g. aether), the burden of proof is on the new scientists. When unsure, ask for interpretation.
 
+## Prose emphasis in `content/`
+
+Markdown under `content/` is book-facing narrative. Use **bold** and *italic* sparingly for rhetorical stress—about **one to four** emphasized spans per paragraph on average—not word-by-word highlighting. Full rules: `docs/CONTENT_MARKDOWN_STYLE.md`.
+
 ## Content File Numbering Convention
 
 **Source of truth:** The `content/` folder. `data/events.json` is **generated** from it by `build-events-from-content.py` (run automatically on pre-commit).
