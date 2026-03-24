@@ -27,6 +27,8 @@ Unresolved questions, contradictions, and clarifications needed for the Alternat
 
 ## Newly Logged (to resolve)
 
+- **Ehrenberg blood-rain snippet — English periodical:** A scan titled *On the microscopical analysis of the dust of the regular winds and of blood-rain* (synopsis of Ehrenberg’s *Passat-Staub und Blut-Regen*, Berlin Academy 1844–1849) is archived at paradigm-threat-files [`/history/mudflood/ehrenberg-passat-dust-blood-rain-english-snippet.png`](https://github.com/clevertree/paradigm-threat-files/blob/master/history/mudflood/ehrenberg-passat-dust-blood-rain-english-snippet.png). The **exact 19th-century English journal, volume, and pages** are not yet identified. Investigation: [`blood-rain-dust-ecological-disasters-investigation.md`](https://github.com/clevertree/paradigm-threat-files/blob/master/history/mudflood/investigations/blood-rain-dust-ecological-disasters-investigation.md).
+
 - **Atlantean city names — Og, Aryan, Poseida**: None of these three names appear in Plato or any ancient primary
   source as Atlantean city names. Current sourcing: *Og* — ancient (Og of Bashan, biblical/Talmudic, Book of Giants)
   but as a person/king, not a city; *Aryan* — Blavatsky's *Secret Doctrine* (1888) as a post-Atlantean root race name,
