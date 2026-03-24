@@ -8,11 +8,9 @@ Writes:
   export/timeline-book-plain.txt
   export/timeline-appendix-index.txt   (if appendix files exist)
   export/timeline-appendix-plain.txt
-Then creates a zip containing only:
-  timeline-book.docx, timeline-appendix.docx,
-  timeline-book-index.txt, timeline-book-plain.txt,
-  timeline-appendix-index.txt, timeline-appendix-plain.txt
-(PDFs and any other export/ files are never included.)
+
+Not run by export.sh. Optional: npm run generate-plaintext
+Russian: scripts/export-russian-remote.sh (DOCX only).
 """
 
 from __future__ import annotations
@@ -21,8 +19,6 @@ import html
 import json
 import re
 import sys
-import zipfile
-from datetime import datetime, timezone
 from pathlib import Path
 
 from markdown_it import MarkdownIt
@@ -36,16 +32,6 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_DIR = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR = REPO_DIR / "export"
-
-# Exact allowlist for timeline-export-*.zip — book + appendix DOCX and plaintext only.
-ZIP_MEMBERS_DOCX_TXT_ONLY = (
-    "timeline-book.docx",
-    "timeline-appendix.docx",
-    "timeline-book-index.txt",
-    "timeline-book-plain.txt",
-    "timeline-appendix-index.txt",
-    "timeline-appendix-plain.txt",
-)
 
 _APPENDIX_PREFIXES = ("16.", "17.")
 
@@ -202,32 +188,6 @@ def write_volume(
     print(f"Wrote {plain_path.relative_to(REPO_DIR)} ({plain_path.stat().st_size // 1024} KB)")
 
 
-def make_export_zip(pkg_version: str) -> Path:
-    """Zip book + appendix DOCX and plaintext index/body. PDFs are never added."""
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%SZ")
-    zip_name = f"timeline-export-v{pkg_version}-{stamp}.zip"
-    zip_path = EXPORT_DIR / zip_name
-
-    added: list[str] = []
-    missing: list[str] = []
-
-    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
-        for name in ZIP_MEMBERS_DOCX_TXT_ONLY:
-            assert not name.endswith(".pdf"), "ZIP_MEMBERS_DOCX_TXT_ONLY must not include PDFs"
-            p = EXPORT_DIR / name
-            if p.is_file():
-                zf.write(p, arcname=name)
-                added.append(name)
-            else:
-                missing.append(name)
-
-    print(f"Wrote {zip_path.relative_to(REPO_DIR)} ({zip_path.stat().st_size // 1024} KB)")
-    print(f"  Zip: {len(added)} file(s) (DOCX + plaintext only; PDFs excluded).")
-    if missing:
-        print(f"  Skipped (not on disk): {', '.join(missing)}")
-    return zip_path
-
-
 def main() -> None:
     md = MarkdownIt("commonmark", {"typographer": False}).enable("table")
     if attrs_plugin:
@@ -238,9 +198,6 @@ def main() -> None:
 
     if not book_files:
         sys.exit("No book markdown files in content/")
-
-    with open(REPO_DIR / "package.json", encoding="utf-8") as f:
-        pkg_version = json.load(f)["version"]
 
     print("\n=== Plain-text index + body (book) ===")
     write_volume(
@@ -260,9 +217,6 @@ def main() -> None:
         )
     else:
         print("\n(No appendix markdown — skipping appendix plain text.)")
-
-    print("\n=== Compressing DOCX + plain text ===")
-    make_export_zip(pkg_version)
 
 
 if __name__ == "__main__":

@@ -121,10 +121,16 @@
       "03.06.00-earth-leaves-last-absu-layer.md": {
         "_title": "Earth leaves last Absu layer & Seasons Begin"
       },
-      "03.08.00-passover-of-comet-venus.md": {
-        "_title": "Sodom & Gomorrah / 1492 BCE \u2014 \"Passover\" of Comet Venus & the Exodus"
+      "03.07.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md": {
+        "_title": "Sodom and Gomorrah are completely destroyed by Mars."
       },
-      "03.08.01-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md": {
+      "03.08.00-1492-bce-the-passover-of-comet-venus-and-exodus.md": {
+        "_title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire"
+      },
+      "03.08.02-the-length-of-a-year-jumps-by-92-rotations-to-365-days.md": {
+        "_title": "The length of a year jumps by 92 rotations to 365 days"
+      },
+      "03.08.03-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md": {
         "_title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)"
       },
       "03.09.00-1442-bce-the-sun-stands-still-for-joshua.md": {
@@ -142,7 +148,7 @@
       "03.13.00-wuxing-five-planets-five-elements.md": {
         "_title": "Wuxing and the Five Planets \u2014 Five Elements as Observational Record"
       },
-      "_count": 14
+      "_count": 16
     },
     "04.the-blip": {
       "04.00.00-the-blip.md": {
@@ -762,7 +768,7 @@
       },
       "_count": 1
     },
-    "_count": 232
+    "_count": 234
   },
   "data": {
     "events.json": {},
@@ -830,15 +836,11 @@
     "_count": 19
   },
   "export": {
-    "timeline-appendix-index.txt": {},
-    "timeline-appendix-plain.txt": {},
     "timeline-appendix.pdf": {},
-    "timeline-book-index.txt": {},
-    "timeline-book-plain.txt": {},
     "timeline-book.pdf": {},
     "toc-wrap-recommendations.json": {},
     "toc-wrapped-chapters.json": {},
-    "_count": 8
+    "_count": 4
   },
   "fonts": {
     "LICENSE-EBGaramond.txt": {},
@@ -881,7 +883,7 @@
       "paradigm-threat-the-third-story.png": {
         "_width": 1536,
         "_height": 1024,
-        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JbACdACzlc7s0AAA/u9jJvRDFupq8N9wC+ZtcZHhTh+zVyGuAMNJIGP3vzuHw6f9tTr6vTDcITSOkmugAA=="
+        "_lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAsABUB8JbACdAC4gi/Z0AAA/vGAhbkmKANPrtMyaV6TwvhP9FU6QmBYy8JHmxq32I4z2bewaxQjmDeobhCaUlmO2AAA"
       },
       "planets-act-like-electrons.png": {
         "_width": 1536,
@@ -1789,5 +1791,5 @@
     },
     "_count": 1
   },
-  "_count": 445
+  "_count": 443
 }

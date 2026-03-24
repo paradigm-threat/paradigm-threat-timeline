@@ -7,8 +7,7 @@ __pycache__/
 .DS_Store
 *.log
 
-# Export: generated zip bundles and LibreOffice lock files
-export/timeline-export-*.zip
+# LibreOffice lock files
 **/.~lock.*#
 
 # Copyrighted material (full texts live in ~/dev/wget/)
