@@ -456,6 +456,10 @@
           ],
           "media": [
             {
+              "path": "/media/03.the-dark-ages/dark-ages-configuration.svg",
+              "bookIllustration": true
+            },
+            {
               "path": "/media/03.the-dark-ages/planet_narnia.jpg"
             }
           ]
@@ -704,10 +708,6 @@
         }
       ],
       "media": [
-        {
-          "path": "/media/03.the-dark-ages/dark-ages-timeline.svg",
-          "bookIllustration": true
-        },
         {
           "path": "/media/03.the-dark-ages/chapter-span.svg",
           "bookIllustration": true

@@ -4,8 +4,8 @@ Translate export/timeline-*.docx (book + appendix) to Russian via PARADIGM_TRANS
 
 Requires English artifacts from: npm run export
 Run:      PARADIGM_TRANSLATE_URL=http://host:5588 bash scripts/export-russian-remote.sh
-Or:       bash scripts/export-russian-remote.sh http://host:5588
-Probe:    bash scripts/export-russian-remote.sh http://host:5588 --probe
+Multi:    PARADIGM_TRANSLATE_URL='http://atlanta1...:5588,http://dallas1...:5588' (round-robin)
+Probe:    bash scripts/export-russian-remote.sh 'http://a:5588,http://d:5588' --probe
 """
 
 from __future__ import annotations
@@ -39,16 +39,16 @@ def main() -> None:
     url = (os.environ.get("PARADIGM_TRANSLATE_URL") or "").strip()
     if not url:
         sys.exit(
-            "Set PARADIGM_TRANSLATE_URL to the relay base (no trailing slash), e.g.\n"
-            "  export PARADIGM_TRANSLATE_URL=http://atlanta1.relaygateway.net:5588"
+            "Set PARADIGM_TRANSLATE_URL to one or more relay bases (comma-separated), e.g.\n"
+            "  export PARADIGM_TRANSLATE_URL=http://atlanta1.relaygateway.net:5588\n"
+            "  export PARADIGM_TRANSLATE_URL='http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588'"
         )
 
     sys.path.insert(0, str(SCRIPT_DIR))
-    from export_translate_util import probe_relay_languages, run_russian_export
+    from export_translate_util import probe_all_relays, run_russian_export
 
     if args.probe:
-        print(f"GET {url.rstrip('/')}/languages\n", flush=True)
-        probe_relay_languages(url)
+        probe_all_relays(url)
         return
 
     need = [

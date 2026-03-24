@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1357 280"
+   width="1357"
+   height="280"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg80"
+   sodipodi:docname="dark-ages-configuration.svg"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview80"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.92335535"
+     inkscape:cx="459.19482"
+     inkscape:cy="-83.933016"
+     inkscape:window-width="3374"
+     inkscape:window-height="1403"
+     inkscape:window-x="66"
+     inkscape:window-y="541"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg80" />
+  <title
+     id="title">Dark Ages planetary configuration (schematic)</title>
+  <desc
+     id="desc">Top-down view: Sun at the left focus of a thin elongated orbit; debris along the arc; Earth, Moon, Venus, Mars, Mercury, and Jupiter clustered at the right end. Greyscale diagram.</desc>
+  <defs
+     id="defs5">
+    <radialGradient
+       id="sunGlow"
+       cx="135"
+       cy="148"
+       r="40"
+       fx="135"
+       fy="148"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(534)">
+      <stop
+         offset="0%"
+         stop-color="#c4c4c4"
+         id="stop1" />
+      <stop
+         offset="55%"
+         stop-color="#a6a6a6"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#f5f4f0"
+         stop-opacity="0"
+         id="stop3" />
+    </radialGradient>
+    <radialGradient
+       id="venusHalo"
+       cx="50%"
+       cy="50%"
+       r="50%">
+      <stop
+         offset="0%"
+         stop-color="#d8d8d8"
+         id="stop4" />
+      <stop
+         offset="100%"
+         stop-color="#f5f4f0"
+         stop-opacity="0"
+         id="stop5" />
+    </radialGradient>
+  </defs>
+  <rect
+     width="1357"
+     height="280"
+     fill="#f5f4f0"
+     id="rect5" />
+  <!-- subtle star field -->
+  <g
+     fill="#ccc"
+     opacity="0.7"
+     id="g20">
+    <circle
+       cx="40"
+       cy="32"
+       r="1"
+       id="circle5" />
+    <circle
+       cx="220"
+       cy="48"
+       r="1"
+       id="circle6" />
+    <circle
+       cx="410"
+       cy="22"
+       r="1"
+       id="circle7" />
+    <circle
+       cx="590"
+       cy="58"
+       r="1"
+       id="circle8" />
+    <circle
+       cx="780"
+       cy="35"
+       r="1"
+       id="circle9" />
+    <circle
+       cx="960"
+       cy="52"
+       r="1"
+       id="circle10" />
+    <circle
+       cx="1120"
+       cy="28"
+       r="1"
+       id="circle11" />
+    <circle
+       cx="1300"
+       cy="44"
+       r="1"
+       id="circle12" />
+    <circle
+       cx="150"
+       cy="240"
+       r="1"
+       id="circle13" />
+    <circle
+       cx="340"
+       cy="258"
+       r="1"
+       id="circle14" />
+    <circle
+       cx="520"
+       cy="242"
+       r="1"
+       id="circle15" />
+    <circle
+       cx="890"
+       cy="250"
+       r="1"
+       id="circle16" />
+    <circle
+       cx="1050"
+       cy="235"
+       r="1"
+       id="circle17" />
+    <circle
+       cx="1240"
+       cy="262"
+       r="1"
+       id="circle18" />
+    <circle
+       cx="673"
+       cy="18"
+       r="1"
+       id="circle19" />
+    <circle
+       cx="310"
+       cy="190"
+       r="1"
+       id="circle20" />
+  </g>
+  <text
+     x="673"
+     y="26"
+     text-anchor="middle"
+     font-size="15"
+     font-weight="600"
+     fill="#222"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text20">Dark Ages configuration</text>
+  <text
+     x="673"
+     y="44"
+     text-anchor="middle"
+     font-size="10"
+     fill="#444"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text21">Schematic top view — elongated shared path (planet-sim proportions)</text>
+  <!-- Sun drawn first so orbit stroke crosses it and reads as a closed loop -->
+  <circle
+     cx="669"
+     cy="148"
+     r="40"
+     fill="url(#sunGlow)"
+     id="circle21"
+     style="fill:url(#sunGlow)" />
+  <circle
+     cx="669"
+     cy="148"
+     r="24"
+     fill="#aeaeae"
+     stroke="#777777"
+     stroke-width="1"
+     id="circle22" />
+  <text
+     x="669"
+     y="114"
+     text-anchor="middle"
+     font-size="10px"
+     font-weight="600"
+     fill="#333333"
+     font-family="system-ui, 'Segoe UI', sans-serif"
+     id="text22">SUN</text>
+  <!-- Shared elongated orbit: Sun at left focus (inside the path; perihelion at left vertex) -->
+  <ellipse
+     cx="672.85"
+     cy="148"
+     rx="545"
+     ry="88"
+     fill="none"
+     stroke="#666"
+     stroke-width="1.25"
+     id="ellipse22" />
+  <!-- Debris / dust arc (between Sun and cluster) -->
+  <g
+     fill="#888"
+     opacity="0.42"
+     transform="translate(-7.15 0)"
+     id="g66">
+    <circle
+       cx="280"
+       cy="130"
+       r="1.2"
+       id="circle23" />
+    <circle
+       cx="305"
+       cy="118"
+       r="1"
+       id="circle24" />
+    <circle
+       cx="340"
+       cy="125"
+       r="1.4"
+       id="circle25" />
+    <circle
+       cx="375"
+       cy="108"
+       r="1.1"
+       id="circle26" />
+    <circle
+       cx="420"
+       cy="115"
+       r="1.3"
+       id="circle27" />
+    <circle
+       cx="455"
+       cy="98"
+       r="1"
+       id="circle28" />
+    <circle
+       cx="490"
+       cy="105"
+       r="1.2"
+       id="circle29" />
+    <circle
+       cx="530"
+       cy="92"
+       r="1.1"
+       id="circle30" />
+    <circle
+       cx="565"
+       cy="100"
+       r="1.3"
+       id="circle31" />
+    <circle
+       cx="600"
+       cy="88"
+       r="1"
+       id="circle32" />
+    <circle
+       cx="640"
+       cy="95"
+       r="1.2"
+       id="circle33" />
+    <circle
+       cx="675"
+       cy="82"
+       r="1.1"
+       id="circle34" />
+    <circle
+       cx="710"
+       cy="90"
+       r="1.3"
+       id="circle35" />
+    <circle
+       cx="745"
+       cy="78"
+       r="1"
+       id="circle36" />
+    <circle
+       cx="780"
+       cy="85"
+       r="1.2"
+       id="circle37" />
+    <circle
+       cx="820"
+       cy="72"
+       r="1.1"
+       id="circle38" />
+    <circle
+       cx="855"
+       cy="80"
+       r="1.3"
+       id="circle39" />
+    <circle
+       cx="890"
+       cy="68"
+       r="1"
+       id="circle40" />
+    <circle
+       cx="925"
+       cy="75"
+       r="1.2"
+       id="circle41" />
+    <circle
+       cx="960"
+       cy="65"
+       r="1.1"
+       id="circle42" />
+    <circle
+       cx="295"
+       cy="155"
+       r="1.1"
+       id="circle43" />
+    <circle
+       cx="330"
+       cy="168"
+       r="1.3"
+       id="circle44" />
+    <circle
+       cx="365"
+       cy="178"
+       r="1"
+       id="circle45" />
+    <circle
+       cx="405"
+       cy="165"
+       r="1.2"
+       id="circle46" />
+    <circle
+       cx="445"
+       cy="182"
+       r="1.1"
+       id="circle47" />
+    <circle
+       cx="485"
+       cy="172"
+       r="1.3"
+       id="circle48" />
+    <circle
+       cx="525"
+       cy="188"
+       r="1"
+       id="circle49" />
+    <circle
+       cx="565"
+       cy="178"
+       r="1.2"
+       id="circle50" />
+    <circle
+       cx="605"
+       cy="192"
+       r="1.1"
+       id="circle51" />
+    <circle
+       cx="645"
+       cy="182"
+       r="1.3"
+       id="circle52" />
+    <circle
+       cx="685"
+       cy="198"
+       r="1"
+       id="circle53" />
+    <circle
+       cx="725"
+       cy="188"
+       r="1.2"
+       id="circle54" />
+    <circle
+       cx="765"
+       cy="202"
+       r="1.1"
+       id="circle55" />
+    <circle
+       cx="805"
+       cy="192"
+       r="1.3"
+       id="circle56" />
+    <circle
+       cx="845"
+       cy="205"
+       r="1"
+       id="circle57" />
+    <circle
+       cx="885"
+       cy="195"
+       r="1.2"
+       id="circle58" />
+    <circle
+       cx="920"
+       cy="208"
+       r="1.1"
+       id="circle59" />
+    <circle
+       cx="955"
+       cy="198"
+       r="1.2"
+       id="circle60" />
+    <circle
+       cx="315"
+       cy="142"
+       r="1"
+       id="circle61" />
+    <circle
+       cx="550"
+       cy="135"
+       r="1.2"
+       id="circle62" />
+    <circle
+       cx="720"
+       cy="128"
+       r="1.1"
+       id="circle63" />
+    <circle
+       cx="860"
+       cy="122"
+       r="1.3"
+       id="circle64" />
+    <circle
+       cx="480"
+       cy="148"
+       r="1"
+       id="circle65" />
+    <circle
+       cx="630"
+       cy="158"
+       r="1.1"
+       id="circle66" />
+  </g>
+  <!-- Planet cluster (right); sizes relative, not metric -->
+  <g
+     stroke="#555"
+     stroke-width="0.8"
+     id="g73">
+    <circle
+       cx="1188"
+       cy="108"
+       r="21"
+       fill="#9a9a9a"
+       id="circle67" />
+    <circle
+       cx="1165"
+       cy="138"
+       r="5"
+       fill="#c6c6c6"
+       id="circle68" />
+    <circle
+       cx="1172"
+       cy="168"
+       r="6"
+       fill="#6a6a6a"
+       id="circle69" />
+    <circle
+       cx="1208"
+       cy="182"
+       r="11"
+       fill="url(#venusHalo)"
+       id="circle70" />
+    <circle
+       cx="1208"
+       cy="182"
+       r="10"
+       fill="#bdbdbd"
+       id="circle71" />
+    <circle
+       cx="1245"
+       cy="152"
+       r="9"
+       fill="#7a7a7a"
+       id="circle72" />
+    <circle
+       cx="1256"
+       cy="150"
+       r="3"
+       fill="#aaa"
+       id="circle73" />
+  </g>
+  <text
+     x="1188"
+     y="88"
+     text-anchor="middle"
+     font-size="9"
+     font-weight="600"
+     fill="#333"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text73">JUPITER</text>
+  <text
+     x="1165"
+     y="128"
+     text-anchor="middle"
+     font-size="8"
+     fill="#333"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text74">MERCURY</text>
+  <text
+     x="1172"
+     y="192"
+     text-anchor="middle"
+     font-size="8"
+     fill="#333"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text75">MARS</text>
+  <text
+     x="1208"
+     y="212"
+     text-anchor="middle"
+     font-size="8"
+     fill="#333"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text76">VENUS</text>
+  <text
+     x="1245"
+     y="178"
+     text-anchor="middle"
+     font-size="8"
+     fill="#333"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text77">EARTH</text>
+  <text
+     x="1262"
+     y="168"
+     text-anchor="start"
+     font-size="7"
+     fill="#555"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text78">MOON</text>
+  <!-- Key -->
+  <rect
+     x="48"
+     y="232"
+     width="420"
+     height="38"
+     fill="#ebe8e2"
+     stroke="#bbb"
+     stroke-width="0.6"
+     rx="3"
+     id="rect78" />
+  <text
+     x="60"
+     y="250"
+     font-size="9"
+     fill="#333"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text79">Key: thin ellipse = shared path during unstable epochs</text>
+  <text
+     x="60"
+     y="262"
+     font-size="8"
+     fill="#555"
+     font-family="system-ui, Segoe UI, sans-serif"
+     id="text80">Sun at inner focus; path is a closed curve around it; cluster opposite; dots = debris (not to scale).</text>
+</svg>

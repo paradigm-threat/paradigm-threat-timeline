@@ -1,33 +1,385 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1357 256" width="1357" height="256">
-  <rect width="1357" height="256" fill="#f5f4f0"/>
-  <line x1="100" y1="140" x2="1200" y2="140" stroke="#333" stroke-width="2"/>
-  <line x1="100" y1="136" x2="100" y2="144" stroke="#333" stroke-width="1"/>
-  <line x1="1200" y1="136" x2="1200" y2="144" stroke="#333" stroke-width="1"/>
-  <line x1="100.0" y1="140" x2="100.0" y2="164" stroke="#999" stroke-width="1"/>
-  <text x="100.0" y="188" text-anchor="middle" font-size="11px" fill="#222">3147 BCE</text>
-  <text x="100.0" y="206" text-anchor="middle" font-size="10px" fill="#444">The Dark Ages</text>
-  <text x="100.0" y="224" text-anchor="middle" font-size="10px" fill="#444">The Golden Age Ends Violently.</text>
-  <line x1="454.3802987484861" y1="140" x2="454.3802987484861" y2="116" stroke="#999" stroke-width="1"/>
-  <text x="454.3802987484861" y="92" text-anchor="middle" font-size="11px" fill="#222">2349 BCE</text>
-  <text x="454.3802987484861" y="74" text-anchor="middle" font-size="10px" fill="#444">September 8 — Jupiter disappears</text>
-  <line x1="523.6576503835284" y1="140" x2="523.6576503835284" y2="164" stroke="#999" stroke-width="1"/>
-  <text x="523.6576503835284" y="188" text-anchor="middle" font-size="11px" fill="#222">2193 BCE</text>
-  <text x="523.6576503835284" y="206" text-anchor="middle" font-size="10px" fill="#444">Earth leaves last Absu layer &amp; Seasons Begin</text>
-  <line x1="834.9616471538152" y1="140" x2="834.9616471538152" y2="116" stroke="#999" stroke-width="1"/>
-  <text x="834.9616471538152" y="92" text-anchor="middle" font-size="11px" fill="#222">1492 BCE</text>
-  <text x="834.9616471538152" y="74" text-anchor="middle" font-size="10px" fill="#444">Sodom &amp; Gomorrah / 1492 BCE — &quot;Passover&quot; of Co...</text>
-  <line x1="862.9616471538152" y1="140" x2="862.9616471538152" y2="164" stroke="#999" stroke-width="1"/>
-  <text x="862.9616471538152" y="188" text-anchor="middle" font-size="11px" fill="#222">1442 BCE</text>
-  <text x="862.9616471538152" y="206" text-anchor="middle" font-size="10px" fill="#444">The Sun Stands Still for Joshua</text>
-  <line x1="1117.60436011304" y1="140" x2="1117.60436011304" y2="116" stroke="#999" stroke-width="1"/>
-  <text x="1117.60436011304" y="92" text-anchor="middle" font-size="11px" fill="#222">806 BCE</text>
-  <text x="1117.60436011304" y="74" text-anchor="middle" font-size="10px" fill="#444">Mars (aka Prometheus) replaces Venus as the ne...</text>
-  <line x1="1200.0" y1="140" x2="1200.0" y2="164" stroke="#999" stroke-width="1"/>
-  <text x="1200.0" y="188" text-anchor="middle" font-size="11px" fill="#222">800 BCE</text>
-  <text x="1200.0" y="206" text-anchor="middle" font-size="10px" fill="#444">Wuxing and the Five Planets — Five Elements as...</text>
-  <text x="1200.0" y="224" text-anchor="middle" font-size="10px" fill="#444">Mars, Earth &amp; Mercury finalize Orbits / 684 BC...</text>
-  <text x="1200.0" y="242" text-anchor="middle" font-size="10px" fill="#444">March 23 — Priori-Mars loses its Outer Shell</text>
-  <text x="650" y="24" text-anchor="middle" font-size="16px" font-weight="bold" fill="#111">The Dark Ages — Events</text>
-  <text x="650" y="42" text-anchor="middle" font-size="10px" fill="#444">Timeline of events in this chapter</text>
+<svg
+   viewBox="0 0 1357 263.50552"
+   width="1357"
+   height="263.50552"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="dark-ages-timeline.svg"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8467107"
+     inkscape:cx="673.08864"
+     inkscape:cy="161.63874"
+     inkscape:window-width="3374"
+     inkscape:window-height="1403"
+     inkscape:window-x="66"
+     inkscape:window-y="541"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <!-- Background -->
+  <rect
+     width="1357"
+     height="263.50552"
+     fill="#f5f4f0"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:0.792083" />
+  <!-- Timeline: 3147 BCE to 670 BCE = 2477 years. x = 100 + (3147 + year) / 2477 * 1177 -->
+  <!-- 3147:100, 3067:139, 2860:236, 2349:478, 2193:555, 1936:666, 1492:883, 1442:911, 806:1211, 684:1246, 670:1277 -->
+  <!-- Main timeline line -->
+  <line
+     x1="100"
+     y1="169.13432"
+     x2="1277"
+     y2="169.13432"
+     stroke="#333333"
+     stroke-width="2"
+     id="line1" />
+  <line
+     x1="100"
+     y1="164.13432"
+     x2="100"
+     y2="174.13432"
+     stroke="#cccccc"
+     stroke-width="1"
+     id="line2" />
+  <line
+     x1="1277"
+     y1="164.13432"
+     x2="1277"
+     y2="174.13432"
+     stroke="#cccccc"
+     stroke-width="1"
+     id="line3" />
+  <!-- Event tick marks and labels (alternating above/below) -->
+  <!-- 3147: below -->
+  <line
+     x1="100"
+     y1="169.13432"
+     x2="100"
+     y2="184.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line4" />
+  <text
+     x="100"
+     y="209.13432"
+     text-anchor="middle"
+     font-size="13px"
+     font-weight="bold"
+     fill="#111111"
+     id="text4">3147 BCE</text>
+  <text
+     x="100"
+     y="227.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text5">Golden Age ends</text>
+  <text
+     x="100"
+     y="243.13431"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text6">Deluge</text>
+  <!-- 3067: above -->
+  <line
+     x1="139"
+     y1="154.13432"
+     x2="139"
+     y2="169.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line6" />
+  <text
+     x="139"
+     y="137.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text7">3067</text>
+  <text
+     x="139"
+     y="121.13432"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text8">Planets at war</text>
+  <!-- 2860: below -->
+  <line
+     x1="236"
+     y1="169.13432"
+     x2="236"
+     y2="184.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line8" />
+  <text
+     x="236"
+     y="209.13432"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#222222"
+     id="text9">2860 BCE</text>
+  <text
+     x="236"
+     y="227.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text10">Jupiter era</text>
+  <text
+     x="236"
+     y="243.13431"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text11">stable nonlinear orbit</text>
+  <!-- 2349: above -->
+  <line
+     x1="478"
+     y1="154.13432"
+     x2="478"
+     y2="169.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line11" />
+  <text
+     x="478"
+     y="137.13432"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#222222"
+     id="text12">2349 BCE</text>
+  <text
+     x="478"
+     y="121.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text13">Jupiter disappears</text>
+  <text
+     x="478"
+     y="105.13432"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text14">Moon captured</text>
+  <!-- 2193: below -->
+  <line
+     x1="555"
+     y1="169.13432"
+     x2="555"
+     y2="181.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line14" />
+  <text
+     x="555"
+     y="201.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text15">2193 BCE</text>
+  <text
+     x="555"
+     y="215.13432"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text16">Earth leaves Absu</text>
+  <!-- 1936: above -->
+  <line
+     x1="666"
+     y1="154.13432"
+     x2="666"
+     y2="169.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line16" />
+  <text
+     x="666"
+     y="137.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text17">1936 BCE</text>
+  <text
+     x="666"
+     y="121.13432"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text18">Sodom &amp; Gomorrah</text>
+  <!-- 1492: below -->
+  <line
+     x1="883"
+     y1="169.13432"
+     x2="883"
+     y2="184.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line18" />
+  <text
+     x="883"
+     y="209.13432"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#222222"
+     id="text19">1492 BCE</text>
+  <text
+     x="883"
+     y="227.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text20">Exodus / Venus era</text>
+  <text
+     x="883"
+     y="243.13431"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text21">Passover</text>
+  <!-- 1442: above -->
+  <line
+     x1="911"
+     y1="154.13432"
+     x2="911"
+     y2="169.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line21" />
+  <text
+     x="911"
+     y="137.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text22">1442 BCE</text>
+  <text
+     x="911"
+     y="121.13432"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text23">Sun stands still</text>
+  <!-- 806: below -->
+  <line
+     x1="1211"
+     y1="169.13432"
+     x2="1211"
+     y2="184.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line23" />
+  <text
+     x="1211"
+     y="209.13432"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#222222"
+     id="text24">806 BCE</text>
+  <text
+     x="1211"
+     y="227.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text25">Mars era</text>
+  <text
+     x="1211"
+     y="243.13431"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text26">orbits finalize</text>
+  <!-- 684: above -->
+  <line
+     x1="1246"
+     y1="154.13432"
+     x2="1246"
+     y2="169.13432"
+     stroke="#999999"
+     stroke-width="1"
+     id="line26" />
+  <text
+     x="1246"
+     y="137.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text27">684 BCE</text>
+  <text
+     x="1246"
+     y="121.13432"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text28">Solar system stable</text>
+  <!-- 670: below -->
+  <line
+     x1="1277"
+     y1="169.13432"
+     x2="1277"
+     y2="184.13432"
+     stroke="#333333"
+     stroke-width="2"
+     id="line28" />
+  <text
+     x="1277"
+     y="209.13432"
+     text-anchor="middle"
+     font-size="13px"
+     font-weight="bold"
+     fill="#111111"
+     id="text29">670 BCE</text>
+  <text
+     x="1277"
+     y="227.13432"
+     text-anchor="middle"
+     font-size="11px"
+     fill="#444444"
+     id="text30">Mars shell lost</text>
+  <text
+     x="1277"
+     y="243.13431"
+     text-anchor="middle"
+     font-size="10px"
+     fill="#555555"
+     id="text31">Blip</text>
+  <!-- Title -->
+  <text
+     x="688"
+     y="34.134308"
+     text-anchor="middle"
+     font-size="22px"
+     font-weight="bold"
+     fill="#111111"
+     id="text32">The Dark Ages (3147–670 BCE)</text>
+  <text
+     x="688"
+     y="57.134308"
+     text-anchor="middle"
+     font-size="14px"
+     fill="#444444"
+     id="text33">Non-linear “round table” configuration of planets — 2,477 years of instability</text>
+  <!-- Caption -->
 </svg>
