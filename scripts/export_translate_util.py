@@ -3,8 +3,9 @@
 Translate timeline export DOCX volumes to Russian.
 
 Backends (first match):
-  PARADIGM_TRANSLATE_URL — HTTP relay: POST {base}/translate JSON
-    {"q","source","target","format"} (see translate-export-to-ru-remote.sh).
+  PARADIGM_TRANSLATE_URL — HTTP relay(s): POST {base}/translate JSON
+    {"q","source","target","format"}. Use a comma-separated list to round-robin
+    across multiple relays (e.g. Atlanta + Dallas) and spread load / rate limits.
   DEEPL_AUTH_KEY / DEEPL_API_KEY — DeepL.
   Else — Google via deep-translator.
 
@@ -276,9 +277,22 @@ def _parse_relay_response(raw: str) -> str:
     raise ValueError(f"Unexpected /translate JSON (first 400 chars): {raw[:400]!r}")
 
 
-def translate_via_relay(base_url: str, text: str, *, source: str, target: str, fmt: str) -> str:
-    """POST to {base}/translate. base_url without trailing slash."""
-    url = base_url.rstrip("/") + "/translate"
+def parse_relay_urls(raw: str) -> list[str]:
+    """Split PARADIGM_TRANSLATE_URL on commas; strip; drop empties."""
+    return [u.strip().rstrip("/") for u in (raw or "").split(",") if u.strip()]
+
+
+def translate_via_relay(
+    get_base_url: Callable[[], str],
+    text: str,
+    *,
+    source: str,
+    target: str,
+    fmt: str,
+) -> str:
+    """POST to {base}/translate; get_base_url() picks the relay for this request (round-robin)."""
+    base_url = get_base_url().rstrip("/")
+    url = base_url + "/translate"
     payload = json.dumps(
         {"q": text, "source": source, "target": target, "format": fmt},
         ensure_ascii=False,
@@ -314,17 +328,30 @@ class TranslateBackend(NamedTuple):
 
 
 def build_translate_backend() -> TranslateBackend:
-    relay = (os.environ.get("PARADIGM_TRANSLATE_URL") or "").strip()
-    if relay:
+    relay_raw = (os.environ.get("PARADIGM_TRANSLATE_URL") or "").strip()
+    relay_urls = parse_relay_urls(relay_raw)
+    if relay_urls:
+        n = len(relay_urls)
+        idx = [0]
+
+        def next_base() -> str:
+            u = relay_urls[idx[0] % n]
+            idx[0] += 1
+            return u
+
+        if n == 1:
+            label = f"Relay ({relay_urls[0]})"
+        else:
+            label = f"Relay pool ({n} endpoints, round-robin)"
 
         def relay_fn(s: str) -> str:
             if not s.strip():
                 return s
             return translate_via_relay(
-                relay, s, source="en", target="ru", fmt="text"
+                next_base, s, source="en", target="ru", fmt="text"
             )
 
-        return TranslateBackend(relay_fn, 0.0, 0.0, f"Relay ({relay})")
+        return TranslateBackend(relay_fn, 0.0, 0.0, label)
 
     key = (os.environ.get("DEEPL_AUTH_KEY") or os.environ.get("DEEPL_API_KEY") or "").strip()
 
@@ -451,6 +478,7 @@ def run_russian_export(
 
 
 def probe_relay_languages(base_url: str) -> None:
+    """GET /languages for one base URL."""
     url = base_url.rstrip("/") + "/languages"
     timeout = float((os.environ.get("PARADIGM_TRANSLATE_TIMEOUT") or "60").strip())
     req = urllib.request.Request(url, method="GET")
@@ -459,3 +487,11 @@ def probe_relay_languages(base_url: str) -> None:
         req.add_header("Authorization", f"Bearer {key}")
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         print(resp.read().decode("utf-8")[:2000], flush=True)
+
+
+def probe_all_relays(relay_raw: str) -> None:
+    """GET /languages for each comma-separated relay base."""
+    for u in parse_relay_urls(relay_raw):
+        print(f"GET {u}/languages", flush=True)
+        probe_relay_languages(u)
+        print("", flush=True)

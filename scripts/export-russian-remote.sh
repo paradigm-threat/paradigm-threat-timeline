@@ -6,8 +6,11 @@
 #   export PARADIGM_TRANSLATE_URL=http://atlanta1.relaygateway.net:5588
 #   bash scripts/export-russian-remote.sh
 #
+# Two relays (round-robin per translate request — spreads load across nodes):
+#   export PARADIGM_TRANSLATE_URL='http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588'
+#
 #   bash scripts/export-russian-remote.sh http://atlanta1.relaygateway.net:5588
-#   bash scripts/export-russian-remote.sh http://host:5588 --probe
+#   bash scripts/export-russian-remote.sh 'http://atlanta1...:5588,http://dallas1...:5588' --probe
 #
 # Optional:
 #   PARADIGM_TRANSLATE_API_KEY — Bearer token
@@ -42,6 +45,7 @@ done
 if [[ -z "$URL" ]]; then
   echo "Set PARADIGM_TRANSLATE_URL or pass the relay base URL as the first argument."
   echo "Example: bash scripts/export-russian-remote.sh http://atlanta1.relaygateway.net:5588"
+  echo "  Or two relays (comma-separated URL list): .../atlanta...:5588,.../dallas...:5588"
   exit 1
 fi
 
