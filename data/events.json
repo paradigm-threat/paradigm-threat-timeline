@@ -425,9 +425,16 @@
         {
           "id": "evt-humanity-was-then-cast-out-of-the",
           "title": "Humanity was then cast out of the Garden",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.02.00-humanity-was-then-cast-out-of-the.md",
           "children": [],
+          "dates": [
+            {
+              "start": -3147,
+              "end": -3147,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             {
               "path": "/media/03.the-dark-ages/pyramids_around_the_world.png"
@@ -437,9 +444,16 @@
         {
           "id": "evt-jupiter-replaces-saturn-as-the-new-saviour",
           "title": "Jupiter replaces Saturn as the new Saviour (aka Zeus, Thor, King Arthur)",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.04.01-jupiter-replaces-saturn-as-the-new-saviour.md",
           "children": [],
+          "dates": [
+            {
+              "start": -2860,
+              "end": -2860,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             {
               "path": "/media/03.the-dark-ages/planet_narnia.jpg"
@@ -449,9 +463,16 @@
         {
           "id": "evt-pyramids-myths-vs-reality",
           "title": "Pyramids: Myths vs Reality",
-          "type": "article",
+          "type": "event",
           "md_path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
           "children": [],
+          "dates": [
+            {
+              "start": -3147,
+              "end": -670,
+              "calendar": "BCE"
+            }
+          ],
           "media": [
             {
               "path": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png"
@@ -506,17 +527,57 @@
           ]
         },
         {
-          "id": "evt-passover-of-comet-venus",
-          "title": "Sodom & Gomorrah / 1492 BCE \u2014 \"Passover\" of Comet Venus & the Exodus",
+          "id": "evt-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars",
+          "title": "Sodom and Gomorrah are completely destroyed by Mars.",
           "type": "event",
-          "md_path": "content/03.the-dark-ages/03.08.00-passover-of-comet-venus.md",
+          "md_path": "content/03.the-dark-ages/03.07.00-1936-bce-sodom-and-gomorrah-are-completely-destroyed-by-mars.md",
+          "children": [],
+          "dates": [
+            {
+              "start": -1936,
+              "end": -1936,
+              "calendar": "BCE"
+            }
+          ],
+          "media": [
+            {
+              "path": "/media/03.the-dark-ages/sodom_and_gomorrah.jpg"
+            }
+          ]
+        },
+        {
+          "id": "evt-passover-of-comet-venus",
+          "title": "The \"Passover\" of Comet Venus and Exodus from the Pyramidal Empire",
+          "type": "event",
+          "md_path": "content/03.the-dark-ages/03.08.00-1492-bce-the-passover-of-comet-venus-and-exodus.md",
           "children": [
+            {
+              "id": "evt-the-length-of-a-year-jumps-by-92-rotations-to-365-days",
+              "title": "The length of a year jumps by 92 rotations to 365 days",
+              "type": "event",
+              "md_path": "content/03.the-dark-ages/03.08.02-the-length-of-a-year-jumps-by-92-rotations-to-365-days.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": -1492,
+                  "end": -1492,
+                  "calendar": "BCE"
+                }
+              ]
+            },
             {
               "id": "evt-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer",
               "title": "Venus replaces Jupiter as the new Saviour (aka Joshua / Lucifer)",
-              "type": "article",
-              "md_path": "content/03.the-dark-ages/03.08.01-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
+              "type": "event",
+              "md_path": "content/03.the-dark-ages/03.08.03-venus-replaces-jupiter-as-the-new-saviour-aka-joshua-lucifer.md",
               "children": [],
+              "dates": [
+                {
+                  "start": -1492,
+                  "end": -1492,
+                  "calendar": "BCE"
+                }
+              ],
               "media": [
                 {
                   "path": "/media/03.the-dark-ages/plagues_of_venus.jpg"
