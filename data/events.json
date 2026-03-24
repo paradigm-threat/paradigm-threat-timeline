@@ -1967,6 +1967,26 @@
               "path": "/media/13.ce-19th-rise-of-communism/maxwell-was-right.png"
             }
           ]
+        },
+        {
+          "id": "evt-blood-rain-phenomenon",
+          "title": "The blood-rain phenomenon and the 19th-century ecological tail",
+          "type": "event",
+          "md_path": "content/13.ce-19th-rise-of-communism/13.08.00-blood-rain-phenomenon.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1800,
+              "end": 1899,
+              "calendar": "CE",
+              "note": "Bracket for post-MFEE ecological and atmospheric tail; late-century stabilization is approximate (~1880s\u20131900)."
+            }
+          ],
+          "related_events": [
+            "evt-the-mudflood-world-cataclysm",
+            "evt-slow-ecological-collapse-mfee-donner-appendix",
+            "evt-mudflood-evidence"
+          ]
         }
       ],
       "dates": [
