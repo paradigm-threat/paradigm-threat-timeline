@@ -830,11 +830,15 @@
     "_count": 19
   },
   "export": {
+    "timeline-appendix-index.txt": {},
+    "timeline-appendix-plain.txt": {},
     "timeline-appendix.pdf": {},
+    "timeline-book-index.txt": {},
+    "timeline-book-plain.txt": {},
     "timeline-book.pdf": {},
     "toc-wrap-recommendations.json": {},
     "toc-wrapped-chapters.json": {},
-    "_count": 4
+    "_count": 8
   },
   "fonts": {
     "LICENSE-EBGaramond.txt": {},
@@ -877,7 +881,7 @@
       "paradigm-threat-the-third-story.png": {
         "_width": 1536,
         "_height": 1024,
-        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JbACdAEQROAPX9oAAP7s3osN2G490g+ctrL72wS7fzGzfOWYFRzp+4Z18xYO95qYgGekhCEbBUrSpAAAAA=="
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JbACdACzlc7s0AAA/u9jJvRDFupq8N9wC+ZtcZHhTh+zVyGuAMNJIGP3vzuHw6f9tTr6vTDcITSOkmugAA=="
       },
       "planets-act-like-electrons.png": {
         "_width": 1536,
@@ -1785,5 +1789,5 @@
     },
     "_count": 1
   },
-  "_count": 441
+  "_count": 445
 }
