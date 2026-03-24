@@ -32,13 +32,19 @@ EXPORT_DIR="$REPO_DIR/export"
 echo "=== Generating DOCX (book + appendix) ==="
 "$PYTHON" "$REPO_DIR/scripts/generate-docx.py" $EXTRA_FLAGS
 
-# ── 4. Convert DOCX → PDF via LibreOffice ────────────────────────────
+# ── 4. Plain-text index + body + zip (DOCX + TXT) ─────────────────────
+echo "=== Generating plain text + export zip ==="
+"$PYTHON" "$REPO_DIR/scripts/generate-plaintext.py"
+
+# ── 5. Convert DOCX → PDF via LibreOffice ─────────────────────────────
 if command -v libreoffice &>/dev/null; then
   echo "=== Converting DOCX → PDF (LibreOffice) ==="
+  shopt -s nullglob
   for docx in "$EXPORT_DIR"/timeline-*.docx; do
     echo "  Converting $(basename "$docx") ..."
     libreoffice --headless --convert-to pdf --outdir "$EXPORT_DIR" "$docx" 2>/dev/null
   done
+  shopt -u nullglob
 else
   echo "WARNING: LibreOffice not found — skipping PDF conversion."
   echo "  Install: sudo apt install libreoffice (Debian/Ubuntu)"
@@ -47,4 +53,5 @@ fi
 
 echo "=== Done ==="
 echo "Output files:"
-ls -lh "$EXPORT_DIR"/timeline-*.{docx,pdf} 2>/dev/null || true
+ls -lh "$EXPORT_DIR"/timeline-book.docx "$EXPORT_DIR"/timeline-appendix.docx 2>/dev/null || true
+ls -lh "$EXPORT_DIR"/timeline-*.{pdf,txt,zip} 2>/dev/null || true
