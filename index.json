@@ -779,6 +779,9 @@
     "CONCLUSIONS.md": {
       "_title": "Conclusions"
     },
+    "CONTENT_MARKDOWN_STYLE.md": {
+      "_title": "Markdown prose style \u2014 `content/` only"
+    },
     "CONTENT_REDUCTION_RECOMMENDATIONS.md": {
       "_title": "Content Reduction Recommendations \u2014 Mar 9, 2026"
     },
@@ -821,7 +824,7 @@
     "TIMELINE_FAQ.md": {
       "_title": "FAQ"
     },
-    "_count": 18
+    "_count": 19
   },
   "export": {
     "timeline-appendix.pdf": {},
@@ -1779,5 +1782,5 @@
     },
     "_count": 1
   },
-  "_count": 439
+  "_count": 440
 }

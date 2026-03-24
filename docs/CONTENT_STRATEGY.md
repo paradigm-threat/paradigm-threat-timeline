@@ -29,6 +29,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 4. **Proposition lists:** Reserve numbered propositions for methodology (Core Concepts). Avoid proposition-style exposition in narrative articles.
 5. **Tone consistency:** Maintain "investigation, not adjudication" — document claims, trace sources, stay open. Avoid absolute certainty language ("proven," "definitely") unless citing a primary source.
 6. **Block quotes:** Prefer short, punchy quotes. Long passages should be summarized with citation. See PRINT_GOALS §13.
+7. **Inline emphasis (`content/` only):** Use `**bold**` and `*italic*` sparingly for rhetorical stress—not dense highlighting. Target about **one to four** emphasized spans per paragraph on average (see `docs/CONTENT_MARKDOWN_STYLE.md`). Italics for titles of works follow normal typography and are not “decoration.”
 
 ### Style Checklist (for editors/AI)
 
@@ -37,6 +38,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 - [ ] Cross-references use standard format: `[Title](/timeline/evt-slug)`
 - [ ] Investigation links use root-relative paradigm-threat-files paths (e.g. `/influence/...`, `/science/...`); timeline content uses `/timeline/evt-...` or `/timeline?view=browser&path=content/...`
 - [ ] Word count target: 300–800 per article (PRINT_GOALS §13)
+- [ ] `content/` Markdown follows `docs/CONTENT_MARKDOWN_STYLE.md` for bold/italic density
 
 ### Timeline book voice (`content/**/*.md` only)
 
