@@ -1952,30 +1952,13 @@
           "title": "Battle for Communism's Soul",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.02.00-battle-for-communism-s-soul.md",
-          "children": [
-            {
-              "id": "evt-1883-ce-the-hijacking-of-communism",
-              "title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version",
-              "type": "event",
-              "md_path": "content/13.ce-19th-rise-of-communism/13.02.01-1883-ce-the-hijacking-of-communism.md",
-              "children": [],
-              "dates": [
-                {
-                  "start": 1883,
-                  "end": 1883,
-                  "calendar": "CE"
-                }
-              ],
-              "media": [
-                {
-                  "path": "/media/13.ce-19th-rise-of-communism/ivan-kinkel.png"
-                }
-              ]
-            }
-          ],
+          "children": [],
           "media": [
             {
               "path": "/media/13.ce-19th-rise-of-communism/marx-vs-kinkel.png"
+            },
+            {
+              "path": "/media/13.ce-19th-rise-of-communism/ivan-kinkel.png"
             },
             {
               "path": "/media/13.ce-19th-rise-of-communism/gottfried-kinkel-escape.png"
@@ -1994,7 +1977,13 @@
           "title": "Jesuit Restoration: Mission Pattern",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.04.00-jesuit-restoration-mission-pattern.md",
-          "children": []
+          "children": [],
+          "media": [
+            {
+              "path": "/media/13.ce-19th-rise-of-communism/jesuit-restoration-mission-pattern.png",
+              "bookIllustration": true
+            }
+          ]
         },
         {
           "id": "evt-1861-ce-the-us-civil-war",
@@ -2985,7 +2974,8 @@
                 "evt-the-mudflood-world-cataclysm",
                 "evt-mudflood-evidence",
                 "evt-jesuit-ops-conversion-empire",
-                "evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe"
+                "evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe",
+                "evt-1833-ce-josiah-priest-american-antiquities"
               ]
             }
           ]
