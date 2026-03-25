@@ -424,9 +424,6 @@
       "13.02.00-battle-for-communism-s-soul.md": {
         "_title": "Battle for Communism's Soul"
       },
-      "13.02.01-1883-ce-the-hijacking-of-communism.md": {
-        "_title": "The Hijacking of Communism: Why the Deep State Had to Impose Its Own Version"
-      },
       "13.03.00-19th-century-assault-on-hordian.md": {
         "_title": "19th Century Assault on Hordian Communalism"
       },
@@ -445,7 +442,7 @@
       "13.08.00-blood-rain-phenomenon.md": {
         "_title": "The blood-rain phenomenon and the 19th-century ecological tail"
       },
-      "_count": 13
+      "_count": 12
     },
     "14.ce-20th-the-1917-revolution": {
       "14.00.00-20th-century-the-reverse-crusades-continue.md": {
@@ -768,7 +765,7 @@
       },
       "_count": 1
     },
-    "_count": 234
+    "_count": 233
   },
   "data": {
     "events.json": {},
@@ -1607,6 +1604,11 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JbACdADhcmuSBRIAAM3v9He/6MqESGkbdHBN9YM/iaxRDcf9n7AU1ZWh0st3aHXcS7lLAAA="
       },
+      "jesuit-restoration-mission-pattern.png": {
+        "_width": 1536,
+        "_height": 1024,
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JYwCsADOO0UxVWAA/q+lBZCWgfPFNu0HMMc2R6pFJ9w52lWcQuJnsTagAA=="
+      },
       "last-absu-seen.png": {
         "_width": 1536,
         "_height": 1024,
@@ -1632,7 +1634,7 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAsABUB8JQBOgA3+9nMAAP6DkD9A26tPh0acDpCoukqnepRaAjZN978GcOeS/2xGSB7dj3edrkldAn7QAA=="
       },
-      "_count": 8
+      "_count": 9
     },
     "14.ce-20th-the-1917-revolution": {
       "chestnut-blight.png": {
@@ -1783,7 +1785,7 @@
       },
       "_count": 17
     },
-    "_count": 179
+    "_count": 180
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {

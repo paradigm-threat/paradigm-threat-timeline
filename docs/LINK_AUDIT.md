@@ -266,9 +266,10 @@ For each broken link id, replace with the correct id below. All fixes are **link
 | `evt-the-final-struggle` | `evt-2000-ce-21st-century-the-final-struggle-reverse-crusade-iv` |
 | `evt-1917-revolution` | `evt-bolshevik-revolution-fulfilment-of` |
 | `evt-the-1917-revolution` | `evt-bolshevik-revolution-fulfilment-of` |
-| `evt-hijacking-of-communism` | `evt-1883-ce-the-hijacking-of-communism` |
+| `evt-hijacking-of-communism` | `evt-battle-for-communism-s-soul` |
 | `evt-the-battle-for-communisms-soul` | `evt-battle-for-communism-s-soul` |
-| `evt-the-hijacking-of-communism` | `evt-1883-ce-the-hijacking-of-communism` |
+| `evt-the-hijacking-of-communism` | `evt-battle-for-communism-s-soul` |
+| `evt-1883-ce-the-hijacking-of-communism` | `evt-battle-for-communism-s-soul` (merged into Battle article) |
 | `evt-controlled-opposition-extended` | `evt-controlled-opposition-managed-disclosure` |
 | `evt-historical-antibodies-extended` | `evt-historical-antibodies` |
 | `evt-antibodies-appendix` | `evt-historical-antibodies-pattern` |
