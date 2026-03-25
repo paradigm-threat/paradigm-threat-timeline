@@ -4,31 +4,34 @@ Bugs that recur or have been reported; track status and fix location here.
 
 ---
 
-## TTS / Full-screen timeline playback: last 2 entries show same text
+## TTS / Full-screen timeline playback: last segment repeats (audio and/or caption)
 
-**Status:** Documented; fix applied in `paradigm-threat-site` (see below). If the bug persists, the watchdog/onended path in useTTS is the next place to tighten.
+**Status:** **Open / recurring** (2026-03). Sentence dedupe in `ttsHelpers.ts` and Piper `onended` deduping plus a near-end guard in the audio watchdog in `useTTS.ts` are in place, but reports continue: the **last part of an article plays twice** in TTS, sometimes with the scrubber already at the final index (e.g. **58 / 58**).
 
-**Description:** In the full-screen timeline playback (TTS slideshow), the **last two entries** (sentences) of **each article** often display the **same text**. The progress indicator shows e.g. "13 / 14" and "14 / 14" but the caption shows identical content for both. This has been reported multiple times.
+**Description:** In full-screen **Timeline Audio** (`TTSSlideshowOverlay`), users hear the **closing content again** after narration should stop. An older pattern: the **last two scrubber steps** showed the **same caption** ("13 / 14" and "14 / 14" identical). Duplicate **array slots** (splitting) vs **double playback** of the last sentence (watchdog / `onend` race) are distinct; both should stay in scope.
 
-**Where it appears:** Paradigm Threat **site** (paradigm-threat-site): Timeline TTS slideshow overlay when playing an event/article. The caption and progress are driven by sentence index; the last two sentence slots show duplicate content.
+**Where it appears:** `paradigm-threat-site` — `components/Timeline/TTSSlideshowOverlay.tsx` (caption + seek bar), `lib/hooks/useTTS.ts` (Piper `HTMLAudioElement` + Web Speech `SpeechSynthesisUtterance`).
+
+**UI note:** The seek bar label says **Paragraph** but values are **sentence** indices (`ttsState.sentences`). The label is misleading for debugging only.
 
 **Likely causes (investigation):**
 
-1. **Sentence splitting (paradigm-threat-site)**  
-   `splitSentences()` in `components/Timeline/ttsHelpers.ts` builds the array of sentences from article text. Under some inputs (e.g. trailing newline, line that repeats the previous sentence, or leftover/merge logic), the last two elements in the array can end up identical.  
-   **Fix:** After building the sentence list, strip a trailing duplicate: if the last sentence equals the second-to-last, remove the last one so the final two displayed entries are not the same.
+1. **Sentence splitting (duplicate captions)** — `splitSentences()` in `components/Timeline/ttsHelpers.ts`; trailing identical sentences are stripped in a `while` loop. Remaining edge cases (speaker blocks, normalization) could still duplicate the last two slots.
 
-2. **Audio watchdog / onended firing twice (paradigm-threat-site)**  
-   In `lib/hooks/useTTS.ts`, the audio watchdog and Piper `onended` can fire near the end of a clip (duration vs decode timing). There is already a dedupe for Piper `onended` and a guard in the watchdog to avoid retrying when the clip is effectively finished (`el.ended || el.currentTime >= el.duration - 0.45`). If the guard fails in edge cases, the same sentence can be spoken twice and the UI can show the same text for two consecutive “entries.”  
-   **Mitigation:** Keep the existing guards; if the duplicate persists after fixing (1), consider tightening the watchdog threshold or skipping advance when the “next” sentence text equals the current.
+2. **Piper: audio watchdog vs `onended` (duplicate audio)** — `startAudioWatchdog()` in `lib/tts/ttsResilience.ts` invokes `onStall` → `handlePiperSegmentFail` → **retry same sentence**. Near clip end, `useTTS` ignores stall when `el.ended || el.currentTime >= el.duration - 0.45` (see comment: *classic "last paragraph twice" bug*). Bad **`duration`** or timing can still **replay the last sentence**; `piperEndedDedupeRef` (900 ms, key `gen:segIndex:sentenceIndex`) mitigates double `onended`.
 
-**Fix location / applied:**  
-- **Sentence dedupe (applied):** `paradigm-threat-site/components/Timeline/ttsHelpers.ts` — in `splitSentences()`, after building `merged`, strip trailing duplicate sentences so the last two entries are never identical.  
-- **Watchdog:** `paradigm-threat-site/lib/hooks/useTTS.ts` — see comment “classic 'last paragraph twice' bug” around the audio watchdog; adjust only if (1) does not resolve the issue.
+3. **Web Speech: utterance watchdog vs `onend`** — `startUtteranceWatchdog()` uses a large timeout (comment: underestimating *replays the sentence, often the long last one*). Late `onend` can overlap with watchdog **cancel + retry** on long final sentences.
 
-**References:**  
-- User report: last 2 entries in each full-screen timeline playback article show same text; recurring bug that duplicates content at end of articles.  
-- Screenshots: progress "13 / 14" and "14 / 14" with same caption text; background image for final entry also showed duplicated sign text ("GRAVE GRAVE", "Jesus' Jesus'") in one case — may be a separate asset-generation issue.
+4. **Double `onended`** — Rare; Piper path partially dedupes.
+
+**Fix locations already in repo:** `ttsHelpers.ts` (`splitSentences` dedupe); `useTTS.ts` (Piper `onended` dedupe, audio watchdog guard, Web Speech paths).
+
+**Next steps when fixing:** Reproduce under **Piper** vs **Speech API**; log watchdog vs end events with `sentenceIndex` and `sentences.length`; consider **no stall-retry** on the last sentence when near natural end; rename seek label **Paragraph** → **Sentence**.
+
+**References:**
+
+- Earlier report: duplicate caption on last two steps; possible slideshow/image duplication ("GRAVE GRAVE") — may be separate from TTS.
+- 2026-03: **58 / 58** with **audio** repeating the end — favors (2) or (3) over (1).
 
 ---
 
