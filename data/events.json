@@ -2068,7 +2068,22 @@
           "title": "World War I: Reverse Crusade II",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.01.00-world-war-i-reverse-crusade-ii.md",
-          "children": []
+          "children": [
+            {
+              "id": "evt-marie-curie-radiography-radiation-narrative",
+              "title": "Marie Curie: Field Radiography and the Radiation Martyr Arc",
+              "type": "event",
+              "md_path": "content/14.ce-20th-the-1917-revolution/14.01.01-1914-1934-marie-curie-radiography-and-radiation-narrative.md",
+              "children": [],
+              "dates": [
+                {
+                  "start": 1914,
+                  "end": 1934,
+                  "calendar": "CE"
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "evt-bolshevik-revolution-fulfilment-of",
