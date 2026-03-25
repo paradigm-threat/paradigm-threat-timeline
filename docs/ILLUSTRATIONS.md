@@ -59,7 +59,9 @@ This document outlines the illustration plan for each chapter. Illustrations fal
 
 | Illustration | Type | Description | Status |
 |-------------|------|-------------|--------|
-| Dark Ages timeline | SVG diagram | Main events 3147–670 BCE on horizontal timeline | ✅ Exists: `media/03.the-dark-ages/dark-ages-timeline.svg` |
+| Dark Ages chapter opener — era span | SVG diagram | Horizontal bar: Dark Ages date range (3147–670 BCE) vs. adjacent eras | Done: `media/03.the-dark-ages/chapter-span.svg` |
+| Dark Ages chapter opener — events | SVG diagram | Main events 3147–670 BCE on horizontal timeline (replaces former standalone `dark-ages-timeline.svg`) | Done: `media/03.the-dark-ages/chapter-events.svg` |
+| Dark Ages configuration (planet sim) | SVG diagram | Top-down schematic: Sun at center, shared elongated path, clustered inner planets, debris arc; simulator-style proportions; key/legend | Done: `media/03.the-dark-ages/dark-ages-configuration.svg` (e.g. Jupiter replaces Saturn article) |
 | Planetary saviour chain | SVG diagram | Horizontal sequence: Saturn → Jupiter → Venus → Mars → Sun; eras, roles (Creator→Devourer, etc.); days/year at each transition | Done: `media/03.the-dark-ages/planetary-saviour-chain.svg` |
 | Venus–Mars as dragon (Dark Age sky) | SVG diagram | **Horizon + planets**: Venus and Mars tethered together as dragon; no Saturnian polar wheel | Done: `media/03.the-dark-ages/venus-mars-dragon-dark-age.svg` |
 | Year-length jumps table (visual) | SVG diagram | Bar chart or stepped line: 225→240→260→273→360→365.24 with event labels | **Create** (or reuse 00 overview with Dark Age focus) |
