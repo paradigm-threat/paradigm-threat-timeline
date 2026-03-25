@@ -451,6 +451,9 @@
       "14.01.00-world-war-i-reverse-crusade-ii.md": {
         "_title": "World War I: Reverse Crusade II"
       },
+      "14.01.01-1914-1934-marie-curie-radiography-and-radiation-narrative.md": {
+        "_title": "Marie Curie: Field Radiography and the Radiation Martyr Arc"
+      },
       "14.02.00-bolshevik-revolution-fulfilment-of.md": {
         "_title": "Bolshevik Revolution: Fulfilment of the Marxist Plan"
       },
@@ -499,7 +502,7 @@
       "14.13.00-1991-ce-the-soviet-collapse.md": {
         "_title": "The Soviet Collapse"
       },
-      "_count": 18
+      "_count": 19
     },
     "15.ce-21st-the-final-struggle": {
       "15.00.00-21st-century-the-final-struggle-reverse-crusade-iv.md": {
@@ -765,7 +768,7 @@
       },
       "_count": 1
     },
-    "_count": 233
+    "_count": 234
   },
   "data": {
     "events.json": {},
@@ -1793,5 +1796,5 @@
     },
     "_count": 1
   },
-  "_count": 443
+  "_count": 444
 }
