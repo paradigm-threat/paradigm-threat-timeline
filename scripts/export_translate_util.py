@@ -87,6 +87,72 @@ def _walk_docx_translate(container, translate_fn: Callable[[str], str], stats: d
                     _walk_docx_translate(cell, translate_fn, stats)
 
 
+def _count_translate_calls_for_block(s: str) -> int:
+    """How many relay/API calls _wrap_translate_chunked will make for this block (matches translate path)."""
+    if not s.strip():
+        return 0
+    if len(s) <= _MAX_CHUNK:
+        return 1
+    return sum(1 for piece in _hard_split(s, _MAX_CHUNK) if not _should_skip_chunk(piece))
+
+
+def _count_docx_translate_requests(container) -> int:
+    """Total translate calls for a DOCX body (paragraphs + tables); must match _walk_docx_translate + _wrap_translate_chunked."""
+    total = 0
+    for block in _iter_block_items(container):
+        if isinstance(block, Paragraph):
+            txt = block.text
+            if txt.strip():
+                total += _count_translate_calls_for_block(txt)
+        elif isinstance(block, Table):
+            seen_tc = set()
+            for row in block.rows:
+                for cell in row.cells:
+                    tc_id = id(cell._tc)
+                    if tc_id in seen_tc:
+                        continue
+                    seen_tc.add(tc_id)
+                    total += _count_docx_translate_requests(cell)
+    return total
+
+
+def _count_long_text_requests(text: str) -> int:
+    """Total translate calls translate_long_text will make (same buffer / flush / split rules)."""
+    count = 0
+    paragraphs = text.split("\n\n")
+    buf: list[str] = []
+    buf_len = 0
+
+    def flush_count() -> None:
+        nonlocal buf, buf_len, count
+        if not buf:
+            return
+        chunk = "\n\n".join(buf)
+        buf = []
+        buf_len = 0
+        if _should_skip_chunk(chunk):
+            return
+        count += 1
+
+    for para in paragraphs:
+        if len(para) > _MAX_CHUNK:
+            if buf:
+                flush_count()
+            for piece in _hard_split(para, _MAX_CHUNK):
+                if not _should_skip_chunk(piece):
+                    count += 1
+            continue
+
+        plen = len(para) + 2
+        if buf_len + plen > _MAX_CHUNK and buf:
+            flush_count()
+        buf.append(para)
+        buf_len += plen
+
+    flush_count()
+    return count
+
+
 def _wrap_translate_chunked(
     translate_fn: Callable[[str], str], sleep_s: float = 0.08
 ) -> Callable[[str], str]:
@@ -124,12 +190,16 @@ def translate_docx(
     doc = Document(str(path_en))
     stats: dict = {}
     n = [0]
+    total_req = (
+        _count_docx_translate_requests(doc) if progress_prefix else 0
+    )
 
     def fn(s: str) -> str:
         if progress_prefix:
             n[0] += 1
+            tot = total_req if total_req > 0 else "?"
             print(
-                f"{progress_prefix} request #{n[0]} (in {len(s)} chars) …",
+                f"{progress_prefix} request {n[0]}/{tot} (in {len(s)} chars) …",
                 flush=True,
             )
         return translate_fn(s)
@@ -138,7 +208,11 @@ def translate_docx(
     safe = _wrap_translate_chunked(inner, sleep_s=docx_chunk_sleep)
     _walk_docx_translate(doc, safe, stats)
     if progress_prefix:
-        print(f"{progress_prefix} done ({stats.get('paragraphs', 0)} paragraphs touched).", flush=True)
+        print(
+            f"{progress_prefix} done ({stats.get('paragraphs', 0)} paragraphs, "
+            f"{n[0]}/{total_req} requests).",
+            flush=True,
+        )
     doc.save(str(path_ru))
 
 
@@ -188,12 +262,14 @@ def translate_long_text(
 ) -> str:
     """Translate long text; optional progress_prefix prints each API/chunk call."""
     n = [0]
+    total_chunks = _count_long_text_requests(text) if progress_prefix else 0
 
     def call(s: str) -> str:
         if progress_prefix:
             n[0] += 1
+            tot = total_chunks if total_chunks > 0 else "?"
             print(
-                f"{progress_prefix} chunk #{n[0]} (in {len(s)} chars) …",
+                f"{progress_prefix} chunk {n[0]}/{tot} (in {len(s)} chars) …",
                 flush=True,
             )
         r = translate_fn(s)
@@ -241,7 +317,10 @@ def translate_long_text(
 
     flush()
     if progress_prefix:
-        print(f"{progress_prefix} text chunks complete ({n[0]} translated).", flush=True)
+        print(
+            f"{progress_prefix} text chunks complete ({n[0]}/{total_chunks} translated).",
+            flush=True,
+        )
     return "\n\n".join(out_parts)
 
 

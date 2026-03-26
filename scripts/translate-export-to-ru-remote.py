@@ -3,9 +3,10 @@
 Translate export/timeline-*.docx (book + appendix) to Russian via PARADIGM_TRANSLATE_URL relay.
 
 Requires English artifacts from: npm run export
+Run:      bash scripts/export-russian-remote.sh   (defaults: atlanta1 + dallas1 relays)
 Run:      PARADIGM_TRANSLATE_URL=http://host:5588 bash scripts/export-russian-remote.sh
 Multi:    PARADIGM_TRANSLATE_URL='http://atlanta1...:5588,http://dallas1...:5588' (round-robin)
-Probe:    bash scripts/export-russian-remote.sh 'http://a:5588,http://d:5588' --probe
+Probe:    bash scripts/export-russian-remote.sh --probe
 """
 
 from __future__ import annotations
@@ -18,6 +19,11 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_DIR = SCRIPT_DIR.parent
 EXPORT_DIR = REPO_DIR / "export"
+
+# Same default as scripts/export-russian-remote.sh when env/CLI omit URLs.
+DEFAULT_PARADIGM_TRANSLATE_URLS = (
+    "http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588"
+)
 
 
 def main() -> None:
@@ -38,11 +44,14 @@ def main() -> None:
 
     url = (os.environ.get("PARADIGM_TRANSLATE_URL") or "").strip()
     if not url:
-        sys.exit(
-            "Set PARADIGM_TRANSLATE_URL to one or more relay bases (comma-separated), e.g.\n"
-            "  export PARADIGM_TRANSLATE_URL=http://atlanta1.relaygateway.net:5588\n"
-            "  export PARADIGM_TRANSLATE_URL='http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588'"
+        url = DEFAULT_PARADIGM_TRANSLATE_URLS
+        print(
+            "PARADIGM_TRANSLATE_URL not set — using default relay list:\n"
+            f"  {url}",
+            file=sys.stderr,
         )
+    # run_russian_export reads os.environ, not this local variable
+    os.environ["PARADIGM_TRANSLATE_URL"] = url
 
     sys.path.insert(0, str(SCRIPT_DIR))
     from export_translate_util import probe_all_relays, run_russian_export
