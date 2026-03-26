@@ -803,6 +803,9 @@
     "CONTENT_STRATEGY.md": {
       "_title": "Content Strategy: Paradigm Threat Timeline"
     },
+    "FEEDBACK.md": {
+      "_title": "Reader feedback (anonymized)"
+    },
     "ILLUSTRATIONS.md": {
       "_title": "Timeline Illustrations Plan"
     },
@@ -833,7 +836,7 @@
     "TIMELINE_FAQ.md": {
       "_title": "FAQ"
     },
-    "_count": 19
+    "_count": 20
   },
   "export": {
     "timeline-appendix.pdf": {},
@@ -1796,5 +1799,5 @@
     },
     "_count": 1
   },
-  "_count": 444
+  "_count": 445
 }

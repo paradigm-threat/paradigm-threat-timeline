@@ -3,6 +3,9 @@
 # Prerequisite: npm run export  (English timeline-book/appendix .docx + .txt)
 #
 # Usage:
+#   bash scripts/export-russian-remote.sh
+#     (defaults to atlanta1 + dallas1 relays if PARADIGM_TRANSLATE_URL unset)
+#
 #   export PARADIGM_TRANSLATE_URL=http://atlanta1.relaygateway.net:5588
 #   bash scripts/export-russian-remote.sh
 #
@@ -18,6 +21,9 @@
 #   PARADIGM_TRANSLATE_RESUME=1 — skip a pair if *-ru.* exists and is newer than English source
 set -euo pipefail
 export PYTHONUNBUFFERED=1
+
+# Default relays when env and CLI omit URLs (comma-separated, no trailing slashes).
+DEFAULT_PARADIGM_TRANSLATE_URLS='http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588'
 
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO"
@@ -43,10 +49,9 @@ for a in "$@"; do
 done
 
 if [[ -z "$URL" ]]; then
-  echo "Set PARADIGM_TRANSLATE_URL or pass the relay base URL as the first argument."
-  echo "Example: bash scripts/export-russian-remote.sh http://atlanta1.relaygateway.net:5588"
-  echo "  Or two relays (comma-separated URL list): .../atlanta...:5588,.../dallas...:5588"
-  exit 1
+  URL="$DEFAULT_PARADIGM_TRANSLATE_URLS"
+  echo "PARADIGM_TRANSLATE_URL not set — using default relay list:"
+  echo "  $URL"
 fi
 
 export PARADIGM_TRANSLATE_URL="$URL"

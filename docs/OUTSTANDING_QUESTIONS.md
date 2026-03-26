@@ -2,6 +2,8 @@
 
 Unresolved questions, contradictions, and clarifications needed for the Alternate Earth History Timeline.
 
+**Reader feedback (anonymized)** — East/West perception notes and actionable responses: [FEEDBACK.md](./FEEDBACK.md).
+
 ## Unresolved Questions
 
 - **Phantom time boundaries**: Illig's Phantom Time (297 years, ~AD 614–911) vs Fomenko's ~1053-year shift. How do these interact? Are they nested (Illig subset of Fomenko) or overlapping? Which fabrication applies where? (See also investigations/chronology/illig-fomenko-boundary.md.)

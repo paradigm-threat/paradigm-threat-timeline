@@ -53,4 +53,4 @@ echo "=== Done ==="
 echo "Output files:"
 ls -lh "$EXPORT_DIR"/timeline-book.docx "$EXPORT_DIR"/timeline-appendix.docx 2>/dev/null || true
 ls -lh "$EXPORT_DIR"/timeline-*.pdf 2>/dev/null || true
-echo "Russian: bash scripts/export-russian-remote.sh \"\$PARADIGM_TRANSLATE_URL\""
+echo "Russian: npm run export:russian-remote   (defaults: atlanta1 + dallas1; override PARADIGM_TRANSLATE_URL)"
