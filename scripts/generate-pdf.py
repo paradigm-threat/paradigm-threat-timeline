@@ -6,6 +6,10 @@ Uses fpdf2 for direct PDF generation — no HTML/CSS intermediate step.
 Markdown is parsed with markdown-it-py and rendered directly to PDF primitives.
 Images are resized with Pillow and embedded as native JPEG streams.
 
+Missing glyphs (e.g. arrows in Libre Franklin, CJK in EB Garamond): fpdf2
+``set_fallback_fonts`` loads DejaVu Sans from the system when available, plus
+an optional Noto / Source Han font for Chinese. See docs/PRINT_GOALS.md.
+
 Print spec: docs/PRINT_GOALS.md
   - 6″ × 9″ trade paperback, mirrored margins, PDF 1.4
   - EB Garamond body, Libre Franklin headings, JetBrains Mono code
@@ -160,6 +164,44 @@ def _find_ttf(pattern: str):
             if pat in p.name.lower():
                 return str(p)
     return None
+
+
+# Extensions for optional CJK / broad-coverage fallback fonts (Noto is often .otf)
+_FONT_FILE_EXTS = (".ttf", ".otf", ".otc", ".ttc")
+
+
+def _find_font_file(pattern: str) -> str | None:
+    """Like _find_ttf but also matches .otf / .otc / .ttc (substring on basename)."""
+    pat = pattern.lower()
+    for base in _FONT_DIRS:
+        if not base.is_dir():
+            continue
+        for ext in _FONT_FILE_EXTS:
+            try:
+                for p in base.rglob(f"*{ext}"):
+                    if pat in p.name.lower():
+                        return str(p)
+            except OSError:
+                continue
+    return None
+
+
+# Prefer single-file SC fonts over huge CJK .ttc collections when possible.
+# Debian/Ubuntu fonts-noto-cjk ships NotoSansCJK-Regular.ttc — matches
+# "notosanscjk-regular", not "notosanscjksc" (that substring is absent from the filename).
+_CJK_FALLBACK_PATTERNS = (
+    "notosanssc-regular",
+    "notosanssc",
+    "notosanscjk-regular",
+    "notosanscjksc",
+    "notosanscjk",
+    "notoserifcjk-regular",
+    "notoserifcjksc",
+    "notoserifcjk",
+    "sourcehansanscn",
+    "sourcehansanssc",
+    "sourcehansans",
+)
 
 
 # ---------------------------------------------------------------------------
@@ -455,8 +497,42 @@ class PDFRenderer:
                 self.MONO  = "Courier"
                 print("  Fonts: built-in Latin-1 (Unicode chars replaced)")
 
+        if self._use_unicode:
+            self._register_glyph_fallback_fonts()
+
         self.pdf._sans  = self.SANS
         self.pdf._serif = self.SERIF
+
+    def _register_glyph_fallback_fonts(self) -> None:
+        """DejaVu Sans: arrows and many symbols missing from Libre Franklin / Garamond.
+        Optional Noto / Source Han: CJK (e.g. 五行 in Wuxing articles)."""
+        fb_families: list[str] = []
+
+        dv = _find_ttf("dejavusans.")
+        if dv:
+            # Separate family name so we do not collide with primary "Sans" = Libre Franklin
+            self.pdf.add_font("fbdejavu", "", dv)
+            fb_families.append("fbdejavu")
+
+        for pat in _CJK_FALLBACK_PATTERNS:
+            cjk = _find_font_file(pat)
+            if cjk:
+                try:
+                    self.pdf.add_font("fbhan", "", cjk)
+                    fb_families.append("fbhan")
+                except Exception as exc:
+                    print(f"  WARN: could not load CJK fallback {cjk}: {exc}", file=sys.stderr)
+                break
+
+        if fb_families:
+            self.pdf.set_fallback_fonts(fb_families, exact_match=False)
+            print(f"  Glyph fallbacks (fpdf2): {', '.join(fb_families)}")
+        else:
+            print(
+                "  WARN: no glyph fallback fonts found — install fonts-dejavu-core "
+                "and optionally fonts-noto-cjk (or place NotoSansSC-Regular.otf in fonts/)",
+                file=sys.stderr,
+            )
 
     def _t(self, text: str) -> str:
         """Sanitise text: strip emojis always, plus Latin-1 fixes if no TTF."""

@@ -514,6 +514,9 @@
       "15.02.00-20th-c-predictive-programming.md": {
         "_title": "20th C. Predictive Programming"
       },
+      "15.03.00-suppression-of-wuxing-four-elements-replacement.md": {
+        "_title": "Suppression of Wuxing \u2014 Four Elements, Air, and the Erasure of Planetary Science"
+      },
       "15.04.00-false-flags-architecture-of.md": {
         "_title": "False Flags: Architecture of Manufactured War"
       },
@@ -529,10 +532,10 @@
       "15.07.01-trump.md": {
         "_title": "Trump and the MAGA Revolution: The Antibody That Survived Crucifixion"
       },
-      "15.08.00-suppression-of-wuxing-four-elements-replacement.md": {
-        "_title": "Suppression of Wuxing \u2014 Four Elements, Air, and the Erasure of Planetary Science"
+      "15.08.00-where-we-go-from-here.md": {
+        "_title": "Where Do We Go From Here?"
       },
-      "_count": 9
+      "_count": 10
     },
     "16.appendix": {
       "16.00.00-appendix.md": {
@@ -768,7 +771,7 @@
       },
       "_count": 1
     },
-    "_count": 234
+    "_count": 235
   },
   "data": {
     "events.json": {},
@@ -1799,5 +1802,5 @@
     },
     "_count": 1
   },
-  "_count": 445
+  "_count": 446
 }

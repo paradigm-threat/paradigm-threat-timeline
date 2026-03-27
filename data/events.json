@@ -2292,6 +2292,26 @@
           ]
         },
         {
+          "id": "evt-suppression-of-wuxing-four-elements-replacement",
+          "title": "Suppression of Wuxing \u2014 Four Elements, Air, and the Erasure of Planetary Science",
+          "type": "event",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.03.00-suppression-of-wuxing-four-elements-replacement.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1949,
+              "end": 1980,
+              "calendar": "CE"
+            }
+          ],
+          "media": [
+            {
+              "path": "/media/15.ce-21st-the-final-struggle/wuxing-suppression.png",
+              "bookIllustration": true
+            }
+          ]
+        },
+        {
           "id": "evt-false-flags-architecture-of",
           "title": "False Flags: Architecture of Manufactured War",
           "type": "article",
@@ -2335,22 +2355,16 @@
           ]
         },
         {
-          "id": "evt-suppression-of-wuxing-four-elements-replacement",
-          "title": "Suppression of Wuxing \u2014 Four Elements, Air, and the Erasure of Planetary Science",
+          "id": "evt-where-we-go-from-here",
+          "title": "Where Do We Go From Here?",
           "type": "event",
-          "md_path": "content/15.ce-21st-the-final-struggle/15.08.00-suppression-of-wuxing-four-elements-replacement.md",
+          "md_path": "content/15.ce-21st-the-final-struggle/15.08.00-where-we-go-from-here.md",
           "children": [],
           "dates": [
             {
-              "start": 1949,
-              "end": 1980,
+              "start": 2000,
+              "end": 2100,
               "calendar": "CE"
-            }
-          ],
-          "media": [
-            {
-              "path": "/media/15.ce-21st-the-final-struggle/wuxing-suppression.png",
-              "bookIllustration": true
             }
           ]
         }
