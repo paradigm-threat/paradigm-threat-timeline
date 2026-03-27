@@ -54,7 +54,8 @@ When adding or updating events, attempt to calculate or research dates for:
 
 ## Investigations
 
-- Investigations live in **paradigm-threat-files** (not in this repo). Chronology-related: `history/chronology/investigations/` (e.g. [Wuxing](https://github.com/clevertree/paradigm-threat-files/blob/master/history/chronology/investigations/wuxing-five-planets-dark-ages.md)); others under `governance/war/investigations/`, `cosmos/mars/investigations/`, etc. Link from timeline content using root-relative paths (e.g. `/history/chronology/investigations/wuxing-five-planets-dark-ages.md`).
+- Investigations live in **paradigm-threat-files** (not in this repo). Chronology-related: `history/chronology/investigations/`; others under `governance/war/investigations/`, `cosmos/mars/investigations/`, etc.
+- **Live site URLs:** `https://paradigmthreat.net` serves **the entire** **paradigm-threat-files** tree from the **site root** (same path as the repo: `governance/...`, `history/...`, `blog/...`, assets, etc.). In timeline `content/`, link to investigations and other files with **root-relative** paths — e.g. `/history/chronology/investigations/wuxing-five-planets-dark-ages.md` — which resolve on the live site as `https://paradigmthreat.net/history/chronology/investigations/wuxing-five-planets-dark-ages.md`. Use **GitHub** `blob` links only when the audience is repo-only (e.g. raw GitHub browsing); prefer root-relative for reader-facing timeline prose.
 - When a source cannot be found online or in mainstream refs: assume redaction or gatekeeping before assuming error. Document the gap and add to `docs/OUTSTANDING_QUESTIONS.md`.
 - Add speculative conclusions to `docs/CONCLUSIONS.md` when evidence supports them; mark confidence level.
 
