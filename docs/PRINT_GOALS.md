@@ -189,6 +189,8 @@ The script searches for fonts in this priority order:
 Download the TTF files and place them in `fonts/` at the repo root.
 The script will detect them automatically without any code changes.
 
+**Unicode glyph fallbacks (PDF only, `scripts/generate-pdf.py`):** EB Garamond and Libre Franklin omit some code points (e.g. arrows, Chinese characters). fpdf2 is configured to fall back to **DejaVu Sans** when that font is installed (`fonts-dejavu-core` on Debian/Ubuntu), then to a **CJK** face if found: Noto Sans SC / Noto Sans CJK SC / Source Han Sans CN (package `fonts-noto-cjk` or drop `NotoSansSC-Regular.otf` into `fonts/`). Without DejaVu, you may see missing-glyph warnings; without a CJK font, Han characters in the body may still be omitted.
+
 ---
 
 ## 12. DOCX Export

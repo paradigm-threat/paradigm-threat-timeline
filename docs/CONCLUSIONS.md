@@ -51,4 +51,8 @@ Speculations and conclusions ascertained from the Alternate Earth History Timeli
 - **Deliberate bad software:** Microsoft and Apple made software difficult for handicapped and elderly, full of DLL hell and back doors—not accident, not negligence. Done on purpose, anticipating the AI revolution.
 - **Spaceballs rule:** "Even in the future nothing works" — human technology unreliable, robots extra reliable. Voice-command dependency → ultimate remote control. The "ghost in the machine" = deep-state takeover. See [ai-control-investigation](https://paradigmthreat.net/science/ai/ai-control-investigation).
 
+## Book closure (provisional)
+
+For the print-facing narrative, the chronology currently **closes** on the reading in [Trump and the MAGA Revolution: The Antibody That Survived Crucifixion](/timeline/evt-trump) (`content/15.ce-21st-the-final-struggle/15.07.01-trump.md`): a twenty-first-century antibody as sin eater, grave sins admitted rather than hidden, and outcome-over-rhetoric as the final measure once elective terms end. **This is the working end of the book until a different closing is adopted.** Alternate endings may be drafted later; update this section when the print arc changes.
+
 *(Further conclusions to be added as the timeline is correlated and sources synthesised.)*
