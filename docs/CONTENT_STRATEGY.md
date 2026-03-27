@@ -36,7 +36,7 @@ Content exhibits several distinct voices that can jar when read sequentially:
 - [ ] No unexplained first-person unless author thesis block
 - [ ] Claims attributed to source or marked as synthesis
 - [ ] Cross-references use standard format: `[Title](/timeline/evt-slug)`
-- [ ] Investigation links use root-relative paradigm-threat-files paths (e.g. `/influence/...`, `/science/...`); timeline content uses `/timeline/evt-...` or `/timeline?view=browser&path=content/...`
+- [ ] Links to **paradigm-threat-files** (investigations, `history/`, `governance/`, assets, etc.) use **root-relative** paths from the site root (e.g. `/governance/war/investigations/foo.md`, `/history/chronology/investigations/bar.md`). **paradigmthreat.net** serves that repo at `/`; those paths work on the live site. Timeline events use `/timeline/evt-...` or `/timeline?view=browser&path=content/...`
 - [ ] Word count target: 300–800 per article (PRINT_GOALS §13)
 - [ ] `content/` Markdown follows `docs/CONTENT_MARKDOWN_STYLE.md` for bold/italic density
 
