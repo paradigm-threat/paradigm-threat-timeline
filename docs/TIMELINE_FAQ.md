@@ -3,6 +3,7 @@
 Answers to questions and forum posts. Sourced from external authors, publications, and research — not from any single timeline or project.
 
 **Format rules:**
+
 - Answers are brief, clinical, and in plain language.
 - Short questions get short answers; long questions get long answers.
 - Each answer ends with a compact **Sources** line citing external authors, books, or publications.
@@ -19,6 +20,18 @@ Answers to questions and forum posts. Sourced from external authors, publication
 **Deadlock:** No shared criterion for what would settle the dispute. Mainstream won't run tests that might validate geopolymer; alternative side won't accept that copper+abrasive experiments or ramp finds could suffice. Each interprets the same facts through incompatible priors — mass redaction vs gradual development, lost tech vs known techniques. Authority (who gets to decide) is the real battleground. Movement would require independent replication or novel excavation both sides feel compelled to engage — unlikely given mutual dismissal.
 
 **Sources:** Fomenko (*History: Fiction or Science?*, chronologia.org); Davidovits (*The Pyramids: An Enigma Solved*, geopolymer.org); Talbott (*The Saturn Myth*); Cook (Jno Cook, Saturnian chronology); Al-Ma'mun account (9th c.)
+
+---
+
+## Q: Big Bang — claim that predictions have been refuted since the 1990s vs “consensus says pillars stay robust” (JWST galaxies, BBN)?
+
+**Mainstream side (typical rebuttal):** “The assertion that all Big Bang theory predictions have been refuted by data since the 1990s is incorrect and contradicts current scientific consensus. While new data from telescopes like JWST challenge early galaxy formation timelines and indicate potential issues with Big Bang Nucleosynthesis, the core pillars of the theory remain robust.”
+
+**Investigative framing:** **Scientific consensus** functions as **social and institutional weight**; it does not by itself close logical questions — a distinction parallel to chronology debates that separate documentary authority from reconstructed calendars. **ΛCDM** still matches large suites of observations (CMB acoustic structure, expansion history across many regimes, broad-brush light-element abundances). Open disagreement concerns whether **persistent, named tensions** are routine refinement or symptoms of a **protective belt** around core commitments. Mainstream literature itself highlights **Hubble tension** (early- vs late-universe expansion rates), **S₈ / σ₈** tension with weak lensing and large-scale structure, the **lithium problem** in BBN, and **JWST** galaxies at high redshift that appear massive or evolved earlier than the simplest hierarchical models expected — addressed through revised astrophysics, dust, IMF, or proposals such as early dark energy, rather than dismissed. Whether that pattern reads as **robust pillars** or **successive rescues** depends on falsifiability criteria the camps define differently. Plasma / electric-sun and catastrophist cosmologies are documented as **separate frameworks** (not single replacement proofs) in material such as [Challenging established physics](/timeline/evt-challenging-established-physics), which surveys marginalized experiment and observation relative to standard stellar and geological assumptions.
+
+**Deadlock:** “Refuted” vs “robust” is partly **vocabulary**. Defenders can absorb many shocks by adjusting sub-models while keeping the hot big-bang **narrative spine**; critics can list **failed narrow forecasts** and **parameter freedom** and still not deliver a single institutionally adopted successor. Until both sides agree on **what observation would count as decisive** (and who would fund and publish it), the argument runs on **priors** — gatekept consensus vs. anomaly-first investigation.
+
+**Sources:** Planck Collaboration (2018, ΛCDM parameters and CMB); JWST high-*z* galaxy programs (e.g. CEERS, JADES) and subsequent modeling papers (2023–); BBN reviews and the primordial lithium problem (e.g. Cyburt et al., *Rev. Mod. Phys.* / update literature); cosmology textbooks (Ryden, Dodelson) for standard pillar claims.
 
 ---
 
