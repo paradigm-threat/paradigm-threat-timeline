@@ -185,7 +185,12 @@ candidates (child articles that can fold into parents without breaking narrative
 
 ```bash
 # Generate merge candidates (main book only):
-find content/ -name '*.md' -not -path '*/16.appendix/*' -print0 | xargs -0 wc -w | grep -v total | awk '$1 < 300' | sort -n
+find content/ -name '*.md' \
+  -not -path '*/16.appendix-authors/*' -not -path '*/17.appendix-chronology/*' \
+  -not -path '*/18.appendix-narrative/*' -not -path '*/19.appendix-conflict/*' \
+  -not -path '*/20.appendix-science-society/*' -not -path '*/21.appendix-cataclysm-memory/*' \
+  -not -path '*/22.credits/*' \
+  -print0 | xargs -0 wc -w | grep -v total | awk '$1 < 300' | sort -n
 ```
 
 **Priority merge targets by chapter:**
@@ -405,7 +410,7 @@ reduction** (merges + appendix moves), not cutting research or evidence.
     14  content/12.ce-18th-mudflood-and-pugachev/12.00.00-1700-ce-18th-19th-century.md
     17  content/10.ce-16th-reformation-and-inquisition/10.06.01-redacted-into-the-books-of-esther-judith.md
     24  content/11.ce-17th-romanovs-rise-to-power/11.01.01-1611-ce-king-james-version-of-the-bible-is-published.md
-    64  content/17-credits/17.00.00-credits.md
+    64  content/22.credits/22.00.00-credits.md
     79  content/00.overview/00.02.02-authors-cataclysm-texts.md
     93  content/10.ce-16th-reformation-and-inquisition/10.04.00-1548-ce-jesuits-reach-africa.md
    111  content/11.ce-17th-romanovs-rise-to-power/11.04.09-1694-ce-deep-state-solidifies-central-banking.md
@@ -443,5 +448,10 @@ reduction** (merges + appendix moves), not cutting research or evidence.
 
 **To regenerate this list:**
 ```bash
-find content/ -name '*.md' -not -path '*/16.appendix/*' -print0 | xargs -0 wc -w | grep -v total | awk '$1 < 300' | sort -n
+find content/ -name '*.md' \
+  -not -path '*/16.appendix-authors/*' -not -path '*/17.appendix-chronology/*' \
+  -not -path '*/18.appendix-narrative/*' -not -path '*/19.appendix-conflict/*' \
+  -not -path '*/20.appendix-science-society/*' -not -path '*/21.appendix-cataclysm-memory/*' \
+  -not -path '*/22.credits/*' \
+  -print0 | xargs -0 wc -w | grep -v total | awk '$1 < 300' | sort -n
 ```

@@ -6,17 +6,15 @@
 
 ---
 
-## 1. Duplicate XX.YY.ZZ — File Rename Recommendations
+## 1. Appendix articles that paired with main-book section numbers (reference)
 
-The build fails because three section numbers have duplicate files. Recommend renaming one file in each pair to get a unique `XX.YY.ZZ`:
+These appendix files sit beside main-book topics with related slugs; each has a distinct `XX.YY.ZZ` after the Parts XVI–XXII split.
 
-| Current Path | Proposed New Path |
+| Path | Notes |
 |--------------|-------------------|
-| `content/16.appendix/16.13.00-hordian-empire-fracture.md` | `content/16.appendix/16.13.01-hordian-empire-fracture.md` |
-| `content/16.appendix/16.22.00-building-the-new-chronology.md` | `content/16.appendix/16.22.01-building-the-new-chronology-appendix.md` |
-| `content/16.appendix/16.23.00-jesuit-ops-conversion-empire.md` | `content/16.appendix/16.23.01-jesuit-ops-conversion-empire.md` |
-
-**Effect:** Slugs stay the same, so event ids are unchanged. Build will succeed.
+| `content/19.appendix-conflict/19.48.01-hordian-empire-fracture.md` | Conflict / empire band (former `16.13.*`) |
+| `content/17.appendix-chronology/17.02.01-building-the-new-chronology-appendix.md` | Pairs with ch. 4 `building-the-new-chronology` |
+| `content/19.appendix-conflict/19.48.04-jesuit-ops-conversion-empire.md` | Former `16.23.*` |
 
 ---
 

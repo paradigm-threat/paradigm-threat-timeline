@@ -67,8 +67,8 @@ CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR  = REPO_DIR / "export"
 FONTS_DIR   = REPO_DIR / "fonts"
 
-# Chapter prefixes that belong in the appendix volume
-_APPENDIX_PREFIXES = ("16.", "17.")
+# Filename prefixes (part numbers) included in the appendix volume export
+_APPENDIX_PREFIXES = tuple(f"{i}." for i in range(16, 23))
 
 with open(REPO_DIR / "package.json") as _f:
     PKG_VERSION = json.load(_f)["version"]
@@ -126,6 +126,7 @@ C_RULE    = (220, 220, 220)
 _ROMAN = [
     "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
     "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
+    "XXI", "XXII",
 ]
 
 _TIER_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{2})")
@@ -141,6 +142,26 @@ def _classify_tier(filename: str):
     if zz == "00":
         return ("chapter", xx, yy, zz)
     return ("subsection", xx, yy, zz)
+
+
+def _strip_yaml_frontmatter(text: str) -> str:
+    """Remove leading ``--- ... ---`` YAML block so body starts at real markdown."""
+    text = text.lstrip("\ufeff")
+    if not text.startswith("---"):
+        return text
+    lines = text.splitlines(keepends=True)
+    if not lines or lines[0].strip() != "---":
+        return text
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            return "".join(lines[i + 1 :])
+    return text
+
+
+def _extract_h1_title(text: str, fallback_stem: str) -> str:
+    """First markdown ``# `` line after optional frontmatter; else *fallback_stem*."""
+    m = re.search(r"(?m)^#\s+(.+)$", text)
+    return m.group(1).strip() if m else fallback_stem
 
 # ---------------------------------------------------------------------------
 # Font discovery — priority: fonts/ repo dir > system fonts > built-in
@@ -1366,10 +1387,10 @@ class PDFRenderer:
         text = path.read_text("utf-8")
         text = re.sub(r"<[A-Z][A-Za-z0-9]*[^>]*/?>", "", text)    # strip JSX
         text = re.sub(r"</?[A-Z][A-Za-z0-9]*>", "", text)          # strip closing JSX
+        text = _strip_yaml_frontmatter(text)
 
-        # Extract H1 title for the Table of Contents
-        h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
-        h1_title = h1_match.group(1).strip() if h1_match else path.stem
+        # Extract H1 title for the Table of Contents (not filename — needs body after frontmatter)
+        h1_title = _extract_h1_title(text, path.stem)
 
         # Classify into Part / Chapter / Sub-section
         tier, xx, yy, zz = _classify_tier(path.name)

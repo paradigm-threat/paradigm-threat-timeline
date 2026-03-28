@@ -327,7 +327,8 @@ def _build_toc(doc, sample_set: set):
 
     # Gather all book files (same logic as the main exporter)
     all_files = sorted(CONTENT_DIR.rglob("*.md"))
-    book_files = [p for p in all_files if not p.name.startswith(("16.", "17."))]
+    _apx = tuple(f"{i}." for i in range(16, 23))
+    book_files = [p for p in all_files if not p.name.startswith(_apx)]
     if not book_files:
         return
 

@@ -537,9 +537,9 @@
       },
       "_count": 10
     },
-    "16.appendix": {
-      "16.00.00-appendix.md": {
-        "_title": "Appendix"
+    "16.appendix-authors": {
+      "16.00.00-authors-appendix-part.md": {
+        "_title": "Appendix \u2014 Author Profiles"
       },
       "16.01.00-author-profiles.md": {
         "_title": "Author Profiles"
@@ -619,159 +619,189 @@
       "16.01.25-jerry-tennant.md": {
         "_title": "Dr. Jerry Tennant (b. 1940)"
       },
-      "16.02.00-other-challenges-to-chronology.md": {
+      "_count": 27
+    },
+    "17.appendix-chronology": {
+      "17.00.00-appendix.md": {
+        "_title": "Appendix \u2014 Chronology"
+      },
+      "17.02.00-other-challenges-to-chronology.md": {
         "_title": "Other Challenges to Chronology"
       },
-      "16.02.01-building-the-new-chronology-appendix.md": {
+      "17.02.01-building-the-new-chronology-appendix.md": {
         "_title": "Building the New Chronology"
       },
-      "16.03.00-timeline-synchronization-tables.md": {
+      "17.03.00-timeline-synchronization-tables.md": {
         "_title": "Timeline Synchronization"
       },
-      "16.03.01-year-length-calendar-evidence.md": {
+      "17.03.01-year-length-calendar-evidence.md": {
         "_title": "Year-Length and Calendar Evidence"
       },
-      "16.03.02-mars-contacts-timeline.md": {
+      "17.03.02-mars-contacts-timeline.md": {
         "_title": "Known Contacts with Mars: A Chronological Dossier"
       },
-      "16.04.00-pyramids-myths-evidence.md": {
+      "17.04.00-pyramids-myths-evidence.md": {
         "_title": "Pyramids: Myths vs Reality"
       },
-      "16.04.01-fomenko-and-the-pyramid-question.md": {
+      "17.04.01-fomenko-and-the-pyramid-question.md": {
         "_title": "Fomenko and the Pyramid Question"
       },
-      "16.05.00-seven-days-of-creation.md": {
+      "17.05.00-seven-days-of-creation.md": {
         "_title": "Seven Days and other Creation Narratives"
       },
-      "16.05.01-golden-age-documentary-sequence-appendix.md": {
+      "17.05.01-golden-age-documentary-sequence-appendix.md": {
         "_title": "Golden Age: Talbott Documentary Sequence (Table)"
       },
-      "16.43.00-predictive-programming-fiction-as-control.md": {
+      "_count": 10
+    },
+    "18.appendix-narrative": {
+      "18.00.00-appendix-narrative-control-part.md": {
+        "_title": "Appendix \u2014 Narrative Control"
+      },
+      "18.43.00-predictive-programming-fiction-as-control.md": {
         "_title": "Predictive Programming: Fiction as Control"
       },
-      "16.43.01-predictive-programming-film-tv-games.md": {
+      "18.43.01-predictive-programming-film-tv-games.md": {
         "_title": "Predictive Programming in Film, Television, and Games"
       },
-      "16.43.02-predictive-programming-literature.md": {
+      "18.43.02-predictive-programming-literature.md": {
         "_title": "20th Century Predictive Programming: Literature \u2014 Extended Author Evidence"
       },
-      "16.43.03-asimov-three-laws-and-marx-encoding.md": {
+      "18.43.03-asimov-three-laws-and-marx-encoding.md": {
         "_title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence"
       },
-      "16.43.04-mars-literature-author-profiles.md": {
+      "18.43.04-mars-literature-author-profiles.md": {
         "_title": "Mars Literature: Author Profiles and Evidence"
       },
-      "16.44.00-controlled-opposition-appendix.md": {
+      "18.44.00-controlled-opposition-appendix.md": {
         "_title": "Controlled Opposition"
       },
-      "16.44.01-controlled-opposition-thunderbolts-case-study.md": {
+      "18.44.01-controlled-opposition-thunderbolts-case-study.md": {
         "_title": "The Thunderbolts Project: A Case Study in Managed Disclosure"
       },
-      "16.44.02-operation-mockingbird-historical-chain.md": {
+      "18.44.02-operation-mockingbird-historical-chain.md": {
         "_title": "Operation Mockingbird: The Historical Chain"
       },
-      "16.44.03-controlled-opposition-managed-disclosure.md": {
+      "18.44.03-controlled-opposition-managed-disclosure.md": {
         "_title": "Controlled Opposition: Managed Disclosure and Gatekeeping"
       },
-      "16.46.00-censorship-appendix.md": {
+      "18.46.00-censorship-appendix.md": {
         "_title": "Censorship and Book Burning"
       },
-      "16.46.01-censorship-pattern.md": {
+      "18.46.01-censorship-pattern.md": {
         "_title": "Censorship and Book Burning: From Alexandria to the Internet"
       },
-      "16.46.02-censorship-historical-timeline.md": {
+      "18.46.02-censorship-historical-timeline.md": {
         "_title": "Censorship and Book Burning: The Historical Record"
       },
-      "16.47.00-false-flags-appendix.md": {
+      "_count": 13
+    },
+    "19.appendix-conflict": {
+      "19.00.00-appendix-conflict-empire-part.md": {
+        "_title": "Appendix \u2014 Conflict, Empire, and Manufactured War"
+      },
+      "19.47.00-false-flags-appendix.md": {
         "_title": "False Flags"
       },
-      "16.47.01-false-flags-architecture.md": {
+      "19.47.01-false-flags-architecture.md": {
         "_title": "False Flags: Architecture of Manufactured War"
       },
-      "16.47.02-false-flags-investigation.md": {
+      "19.47.02-false-flags-investigation.md": {
         "_title": "False Flags Investigation: Evidence Dossier"
       },
-      "16.48.00-deep-state-empire-evidence.md": {
+      "19.48.00-deep-state-empire-evidence.md": {
         "_title": "Deep State and Empire"
       },
-      "16.48.01-hordian-empire-fracture.md": {
+      "19.48.01-hordian-empire-fracture.md": {
         "_title": "Deep State breaks up the Hordian Empire"
       },
-      "16.48.02-slave-trades-evidence.md": {
+      "19.48.02-slave-trades-evidence.md": {
         "_title": "Slave Trades: Evidence and Horde-Fracture Thesis"
       },
-      "16.48.03-british-empire-case-studies.md": {
+      "19.48.03-british-empire-case-studies.md": {
         "_title": "British Empire as Deep State: Case Studies"
       },
-      "16.48.04-jesuit-ops-conversion-empire.md": {
+      "19.48.04-jesuit-ops-conversion-empire.md": {
         "_title": "Jesuit Operations: Conversion, Catholicism, and the New World"
       },
-      "16.48.05-napoleonic-wars-1812-evidence.md": {
+      "19.48.05-napoleonic-wars-1812-evidence.md": {
         "_title": "Napoleonic Wars and 1812 \u2014 Extended Evidence"
       },
-      "16.50.00-reverse-crusades-modern-wars-evidence.md": {
+      "19.50.00-reverse-crusades-modern-wars-evidence.md": {
         "_title": "Reverse Crusades and Modern Wars"
       },
-      "16.50.01-reverse-crusades-structural-comparison.md": {
+      "19.50.01-reverse-crusades-structural-comparison.md": {
         "_title": "The Four Reverse Crusades: A Structural Comparison"
       },
-      "16.50.02-21st-century-geopolitics-extended.md": {
+      "19.50.02-21st-century-geopolitics-extended.md": {
         "_title": "21st Century Geopolitics"
       },
-      "16.50.03-world-war-ii-aftermath-extended.md": {
+      "19.50.03-world-war-ii-aftermath-extended.md": {
         "_title": "World War II Aftermath"
       },
-      "16.51.00-suppressed-science-technology-appendix.md": {
+      "_count": 14
+    },
+    "20.appendix-science-society": {
+      "20.00.00-appendix-science-society-part.md": {
+        "_title": "Appendix \u2014 Science, Displacement, and Antibodies"
+      },
+      "20.51.00-suppressed-science-technology-appendix.md": {
         "_title": "Suppressed Science and Technology"
       },
-      "16.51.01-soviet-historiography-bogdanov.md": {
+      "20.51.01-soviet-historiography-bogdanov.md": {
         "_title": "Soviet Historiography: Bogdanov and Suppressed Science"
       },
-      "16.51.02-suppressed-energy-technology-cross-reference.md": {
+      "20.51.02-suppressed-energy-technology-cross-reference.md": {
         "_title": "Suppressed Energy Technology: A Cross-Reference"
       },
-      "16.51.03-einstein-1905-aether-and-theoretical-physics-appendix.md": {
+      "20.51.03-einstein-1905-aether-and-theoretical-physics-appendix.md": {
         "_title": "Einstein, 1905, the Luminiferous Aether, and \u201cTheoretical Physics\u201d (Appendix)"
       },
-      "16.52.00-population-control-displacement-evidence.md": {
+      "20.52.00-population-control-displacement-evidence.md": {
         "_title": "Population Control and Displacement"
       },
-      "16.52.01-population-control-timeline-15th-21st-centuries.md": {
+      "20.52.01-population-control-timeline-15th-21st-centuries.md": {
         "_title": "Population Control: A Timeline (15th\u201321st Centuries)"
       },
-      "16.53.00-mudflood-evidence.md": {
-        "_title": "The MudFlood and World Cataclysm"
-      },
-      "16.53.01-orphan-trains-trail-of-tears-evidence.md": {
-        "_title": "Orphan Trains, Trail of Tears, Siberian Exile"
-      },
-      "16.53.02-slow-ecological-collapse-mfee-donner-appendix.md": {
-        "_title": "Slow ecological collapse \u2014 MFEE through the Donner era"
-      },
-      "16.53.03-new-world-naming-mfee-colonization-memory-appendix.md": {
-        "_title": "\u201cNew World\u201d naming, MFEE, and colonization memory"
-      },
-      "16.55.00-historical-antibodies-pattern.md": {
+      "20.55.00-historical-antibodies-pattern.md": {
         "_title": "Historical Antibodies: Pattern Analysis"
       },
-      "16.55.01-historical-antibodies-profiles.md": {
+      "20.55.01-historical-antibodies-profiles.md": {
         "_title": "Historical Antibodies: Detailed Profiles"
       },
-      "16.55.02-trump-case-study-extended.md": {
+      "20.55.02-trump-case-study-extended.md": {
         "_title": "Trump and the MAGA Revolution"
       },
-      "16.56.00-giants-infantry-guerrilla-childrens-crusade-etymology.md": {
+      "_count": 10
+    },
+    "21.appendix-cataclysm-memory": {
+      "21.00.00-appendix-cataclysm-memory-part.md": {
+        "_title": "Appendix \u2014 Cataclysm and Memory"
+      },
+      "21.53.00-mudflood-evidence.md": {
+        "_title": "The MudFlood and World Cataclysm"
+      },
+      "21.53.01-orphan-trains-trail-of-tears-evidence.md": {
+        "_title": "Orphan Trains, Trail of Tears, Siberian Exile"
+      },
+      "21.53.02-slow-ecological-collapse-mfee-donner-appendix.md": {
+        "_title": "Slow ecological collapse \u2014 MFEE through the Donner era"
+      },
+      "21.53.03-new-world-naming-mfee-colonization-memory-appendix.md": {
+        "_title": "\u201cNew World\u201d naming, MFEE, and colonization memory"
+      },
+      "21.56.00-giants-infantry-guerrilla-childrens-crusade-etymology.md": {
         "_title": "Giants, Infantry, Guerrilla, and the Children's Crusade \u2014 Etymology"
       },
-      "_count": 75
+      "_count": 6
     },
-    "17-credits": {
-      "17.00.00-credits.md": {
-        "_title": "Credits"
+    "22.credits": {
+      "22.00.00-credits.md": {
+        "_title": "Appendix \u2014 Credits"
       },
       "_count": 1
     },
-    "_count": 235
+    "_count": 240
   },
   "data": {
     "events.json": {},
@@ -1802,5 +1832,5 @@
     },
     "_count": 1
   },
-  "_count": 446
+  "_count": 451
 }

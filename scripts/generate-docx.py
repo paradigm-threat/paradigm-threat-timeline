@@ -58,8 +58,8 @@ REPO_DIR    = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR  = REPO_DIR / "export"
 
-# Chapter prefixes that belong in the appendix volume
-_APPENDIX_PREFIXES = ("16.", "17.")
+# Filename prefixes (part numbers) included in the appendix volume export
+_APPENDIX_PREFIXES = tuple(f"{i}." for i in range(16, 23))
 
 with open(REPO_DIR / "package.json") as _f:
     PKG_VERSION = json.load(_f)["version"]
@@ -81,6 +81,7 @@ def _partition_files(md_files: list[Path]):
 _ROMAN = [
     "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
     "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
+    "XXI", "XXII",
 ]
 
 _NUM_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{2})")
@@ -96,6 +97,27 @@ def _classify_tier(filename: str):
     if zz == "00":
         return ("chapter", xx, yy, zz)
     return ("subsection", xx, yy, zz)
+
+
+def _strip_yaml_frontmatter(text: str) -> str:
+    """Remove leading ``--- ... ---`` YAML block so body starts at real markdown."""
+    text = text.lstrip("\ufeff")
+    if not text.startswith("---"):
+        return text
+    lines = text.splitlines(keepends=True)
+    if not lines or lines[0].strip() != "---":
+        return text
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            return "".join(lines[i + 1 :])
+    return text
+
+
+def _extract_h1_title(text: str, fallback_stem: str) -> str:
+    """First markdown ``# `` line after optional frontmatter; else *fallback_stem*."""
+    m = re.search(r"(?m)^#\s+(.+)$", text)
+    return m.group(1).strip() if m else fallback_stem
+
 
 # ---------------------------------------------------------------------------
 # Page dimensions: 6 x 9 inch trade paperback
@@ -191,11 +213,10 @@ def _add_toc(doc: Document, md_files: list):
     for path in md_files:
         tier, xx, yy, zz = _classify_tier(path.name)
 
-        # Read H1 title
+        # Read H1 title (skip YAML frontmatter — first line is often ``---``)
         try:
-            with open(path, encoding="utf-8") as f:
-                first_line = f.readline().strip()
-            title = first_line.lstrip("#").strip() if first_line.startswith("#") else path.stem
+            raw = path.read_text(encoding="utf-8")
+            title = _extract_h1_title(_strip_yaml_frontmatter(raw), path.stem)
         except Exception:
             title = path.stem
 
@@ -1057,16 +1078,16 @@ class DOCXRenderer:
     #  Article entry point  (3-tier: Part / Chapter / Sub-section)
     # ---------------------------------------------------------------
     def render_article(self, md_path: Path):
-        text   = md_path.read_text(encoding="utf-8")
+        text = md_path.read_text(encoding="utf-8")
+        text = _strip_yaml_frontmatter(text)
         tokens = self.md.parse(text)
 
         tier, xx, yy, zz = _classify_tier(md_path.name)
         part_num = int(xx)
         roman = _ROMAN[part_num] if part_num < len(_ROMAN) else str(part_num)
 
-        # Extract H1 for labelling
-        h1_match = re.match(r"^#\s+(.+)", text, re.MULTILINE)
-        h1_title = h1_match.group(1).strip() if h1_match else md_path.stem
+        # Extract H1 for labelling (body only — frontmatter already stripped)
+        h1_title = _extract_h1_title(text, md_path.stem)
 
         if tier == "part":
             # ── PART ──────────────────────────────────────────────
