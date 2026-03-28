@@ -39,6 +39,42 @@ Content exhibits several distinct voices that can jar when read sequentially:
 - [ ] Links to **paradigm-threat-files** (investigations, `history/`, `governance/`, assets, etc.) use **root-relative** paths from the site root (e.g. `/governance/war/investigations/foo.md`, `/history/chronology/investigations/bar.md`). **paradigmthreat.net** serves that repo at `/`; those paths work on the live site. Timeline events use `/timeline/evt-...` or `/timeline?view=browser&path=content/...`
 - [ ] Word count target: 300–800 per article (PRINT_GOALS §13)
 - [ ] `content/` Markdown follows `docs/CONTENT_MARKDOWN_STYLE.md` for bold/italic density
+- [ ] Long articles (>12 paragraph-blocks): optional `> **TL;DR:**` block present (see § TL;DR below)
+
+### TL;DR summaries (long pieces)
+
+**Scope:** Timeline `content/**/*.md` and paradigm-threat-files markdown (investigations, hubs, etc.) when length warrants it.
+
+**Threshold:** Add a TL;DR when the body (after YAML frontmatter) has **more than 12 paragraph-blocks**. A **paragraph-block** is a non-empty stretch of text separated from the next by one or more blank lines (horizontal-rule-only blocks excluded). Headings count as their own block when separated by blank lines. **Omit** TL;DR when the piece is short enough.
+
+**Markup (option A):**
+
+```markdown
+> **TL;DR:** TODO
+```
+
+(Replace **`TODO`** with one paragraph in a model/editor pass.)
+
+**Placement:** Immediately after the first `#` line; if a hero image line follows the title, put TL;DR **immediately under the image**, then the rest of the body.
+
+**Substance:** Restate what the file already argues or documents—**no** new theses, citations, or hedges that the body does not support.
+
+**Openers:** Do **not** begin with meta framing such as “this article,” “this chapter,” “this piece,” “here,” or “below we.” Prefer **subject-first** or **neutral declarative** sentences (e.g. “Mainstream chronology may reflect who kept the records,” “The trial record stops at X; the open web only shows Y.”).
+
+**Tone options** (pick one per file and stay consistent with investigative stance):
+
+| Tone | Aim | Example shape (not a template line) |
+|------|-----|-------------------------------------|
+| **Plain third-person** | Default for timeline book voice; sounds like compressed narrative | Opens on the topic: who did what, what’s disputed, what stays open. |
+| **Direct “you”** | Slightly warmer lay access | “You’ll see …” / “Expect …” only when it restates the article’s actual flow—still no “in this article.” |
+| **Dry précis** | Maximum compression | Short clauses: topic → claims → limits. Still no “this chapter.” |
+| **Investigation file** | Best fit for `paradigm-threat-files` investigations | States what is traced, what is out of scope, what remains unknown—without calling the file “this investigation” in the first words (e.g. “Sources on X are …; Y is left open.”). |
+
+**Exports:** TL;DR lives in the markdown; book PDF/DOCX will include it unless a later filter strips blockquotes—if print layout needs a different treatment, decide in `PRINT_GOALS` / export scripts separately.
+
+**Tooling:** In **paradigm-threat-timeline**, `npm run generate-tldr` runs `scripts/generate_tldr.py` on `content/`, inserting `> **TL;DR:** TODO` where the >12 paragraph-block rule applies. For **paradigm-threat-files**: `python3 scripts/generate_tldr.py --root /path/to/paradigm-threat-files` from the timeline repo. The script **skips** `blog/` and `docs/` and root `REORGANIZATION_MAP.md` / `README.md`. Use `--refresh-tldr` to strip an existing TL;DR line and re-insert `TODO`. **Replace `TODO` with real copy in a dedicated model/editor pass** (not auto-filled by the script).
+
+**Approval:** Bulk retrofits across the corpus require the same editorial sign-off as other strategy changes.
 
 ### Timeline book voice (`content/**/*.md` only)
 
