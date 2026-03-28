@@ -1714,6 +1714,11 @@
       "_count": 7
     },
     "15.ce-21st-the-final-struggle": {
+      "15.07.00-historical-antibodies.png": {
+        "_width": 1280,
+        "_height": 1024,
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAA0ABUB8JQBdgCIGrKiN7oAA/o4oohZdHqTko2kIi7gq75Nuhv977adoL6eVubl4aPTIDiMrt5UsAAA="
+      },
       "population-control.png": {
         "_width": 1536,
         "_height": 1024,
@@ -1734,7 +1739,7 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZgCdAD6y1SPoAAA/tDZMTErWPEFdjyeOVFv058XOq8yL4BGzjKrWTeFvz7n4HwAAA=="
       },
-      "_count": 4
+      "_count": 5
     },
     "16.appendix": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1824,7 +1829,7 @@
       },
       "_count": 17
     },
-    "_count": 180
+    "_count": 181
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1832,5 +1837,5 @@
     },
     "_count": 1
   },
-  "_count": 451
+  "_count": 452
 }
