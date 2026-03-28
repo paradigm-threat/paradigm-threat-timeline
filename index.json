@@ -1719,6 +1719,11 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAA0ABUB8JQBdgCIGrKiN7oAA/o4oohZdHqTko2kIi7gq75Nuhv977adoL6eVubl4aPTIDiMrt5UsAAA="
       },
+      "15.08.00-where-we-go-from-here.png": {
+        "_width": 1536,
+        "_height": 1024,
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdADz5UK8AAD3TcKpo8siDuOcp2KZZGcUm237C7wabuA9wP38ZzlBoCf0z9eHkf3RAAA="
+      },
       "population-control.png": {
         "_width": 1536,
         "_height": 1024,
@@ -1739,7 +1744,7 @@
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZgCdAD6y1SPoAAA/tDZMTErWPEFdjyeOVFv058XOq8yL4BGzjKrWTeFvz7n4HwAAA=="
       },
-      "_count": 5
+      "_count": 6
     },
     "16.appendix": {
       "Giorgio-de-Santillana-Hertha-von-Dechend.png": {
@@ -1829,7 +1834,7 @@
       },
       "_count": 17
     },
-    "_count": 181
+    "_count": 182
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -1837,5 +1842,5 @@
     },
     "_count": 1
   },
-  "_count": 452
+  "_count": 453
 }
