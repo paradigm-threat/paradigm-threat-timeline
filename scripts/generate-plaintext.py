@@ -33,7 +33,7 @@ REPO_DIR = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_DIR / "content"
 EXPORT_DIR = REPO_DIR / "export"
 
-_APPENDIX_PREFIXES = ("16.", "17.")
+_APPENDIX_PREFIXES = tuple(f"{i}." for i in range(16, 23))
 
 _ROMAN = [
     "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
@@ -67,22 +67,26 @@ def _classify_tier(filename: str):
 
 def _read_title(path: Path) -> str:
     try:
-        with open(path, encoding="utf-8") as f:
-            first_line = f.readline().strip()
-        if first_line.startswith("#"):
-            return first_line.lstrip("#").strip()
+        text = path.read_text(encoding="utf-8")
     except OSError:
-        pass
-    return path.stem
+        return path.stem
+    body = _strip_frontmatter(text)
+    m = re.search(r"(?m)^#\s+(.+)$", body)
+    return m.group(1).strip() if m else path.stem
 
 
 def _strip_frontmatter(text: str) -> str:
+    """Remove leading ``--- ... ---`` YAML block (same rules as PDF/DOCX export)."""
+    text = text.lstrip("\ufeff")
     if not text.startswith("---"):
         return text
-    end = text.find("\n---", 3)
-    if end == -1:
+    lines = text.splitlines(keepends=True)
+    if not lines or lines[0].strip() != "---":
         return text
-    return text[end + 4 :].lstrip("\n")
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            return "".join(lines[i + 1 :])
+    return text
 
 
 def _md_to_plain_html_strip(md_src: str, md: MarkdownIt) -> str:
