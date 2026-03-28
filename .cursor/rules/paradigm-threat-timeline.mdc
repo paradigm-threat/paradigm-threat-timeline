@@ -81,6 +81,13 @@ npm run generate-index    # Pre-commit
 - **Show the logic** when extending beyond a named source (e.g. Fomenko): state **what the source covers** (e.g. horizon ~11th c. forward), **what the chronology establishes elsewhere** (e.g. Istanbul church predates Christ), **therefore** the next inference. Write in **third person** or neutral **"this chronology holds"** — book-facing, not editorial self-reference.
 - **Does not apply** to `paradigm-threat-files` or blog copy unless editing those for another reason.
 
+## TL;DR for long `content/` articles
+
+- **When:** More than **12 paragraph-blocks** after YAML frontmatter (blank-line separated non-empty blocks; see `docs/CONTENT_STRATEGY.md` § TL;DR).
+- **Where:** Right under `#` title, or under the hero image if one sits directly below the title.
+- **Format:** `> **TL;DR:** TODO` until a model pass replaces `TODO` with one paragraph (see `docs/CONTENT_STRATEGY.md` § TL;DR).
+- **Tooling:** `npm run generate-tldr` on `content/`; `python3 scripts/generate_tldr.py --root ../paradigm-threat-files`; `--refresh-tldr` resets to `TODO`.
+
 ## File Conventions
 
 - Content markdown: `content/<chapter>/XX.YY.ZZ-slug.md`. **content/ is the source of truth**; events.json is generated from it.

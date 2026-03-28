@@ -60,6 +60,21 @@ Investigations live in **paradigm-threat-files** (separate repo). They contain r
 - If editing reveals a contradiction with existing investigations, flag it in `docs/OUTSTANDING_QUESTIONS.md` and optionally open a new investigation.
 - New research or debates that inform timeline content should be added to paradigm-threat-files under the appropriate sphere folder.
 
+## TL;DR (long `content/` articles)
+
+When a timeline markdown file has **more than 12 paragraph-blocks** (see `docs/CONTENT_STRATEGY.md` § TL;DR for the counting rule), keep a TL;DR placeholder unless the user omits it on purpose.
+
+- **Markup (option A):** a single blockquote with a bold label, immediately after the `#` title—or, if a hero image sits directly under the title, **immediately below that image**—then the body.
+
+  ```markdown
+  > **TL;DR:** TODO
+  ```
+
+  Replace **`TODO`** with one paragraph when running a model pass: compress what the article already says; **do not** add new claims; **do not** open with “this article,” “this chapter,” “this piece,” or “below.” See `docs/CONTENT_STRATEGY.md` § TL;DR for tone options.
+- **If ≤12 paragraph-blocks:** omit TL;DR.
+
+**Batch / refresh:** `npm run generate-tldr` inserts `> **TL;DR:** TODO` under `content/`. For paradigm-threat-files use `python3 scripts/generate_tldr.py --root ../paradigm-threat-files`. `--refresh-tldr` resets existing TL;DR lines to `TODO`.
+
 ### Investigations are NOT part of the book
 
 - Investigation files are **not included** in the PDF/DOCX exports. They are reference material for the website only.
