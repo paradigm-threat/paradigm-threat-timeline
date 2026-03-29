@@ -1,6 +1,12 @@
 # FAQ
 
+**Canonical file:** `docs/TIMELINE_FAQ.md` — this document **is** the project FAQ for the timeline repo (no separate FAQ elsewhere).
+
+**Not book content:** this file **does not** go into **PDF/DOCX/print** editions. Editors use it (with [FEEDBACK.md](./FEEDBACK.md)) to **rank concerns** and **steer** chapter narrative so objections are **handled in situ** — see [BOOK_EDITIONS_PLAN.md](./BOOK_EDITIONS_PLAN.md) (Educational edition, section 3.4).
+
 Answers to questions and forum posts. Sourced from external authors, publications, and research — not from any single timeline or project.
+
+**Related:** New FAQ items that reflect **educated skeptic** pushback help **prioritize** **educational**-edition **rewrites** — see [FEEDBACK.md](./FEEDBACK.md).
 
 **Format rules:**
 
