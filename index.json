@@ -803,6 +803,69 @@
     },
     "_count": 240
   },
+  "content-editions": {
+    "README.md": {
+      "_title": "Content editions (print-oriented)"
+    },
+    "modern-religious": {
+      "00.overview": {
+        "00.00.00-introduction.md": {
+          "_title": "Introduction \u2014 Many Traditions, One Human Story"
+        },
+        "00.01.00-the-third-story.md": {
+          "_title": "The Third Story \u2014 Myth, the Sky, and Shared Memory"
+        },
+        "00.02.00-background.md": {
+          "_title": "Background \u2014 Calendars, Courts, and the Name Above Time"
+        },
+        "00.02.01-authors-challenging-chronology.md": {
+          "_title": "Authors Challenging the Mainstream Timeline"
+        },
+        "00.02.02-authors-cataclysm-texts.md": {
+          "_title": "Authors Who Read Ancient Sources as World Cataclysm"
+        },
+        "00.02.03-challenging-established-physics.md": {
+          "_title": "Challenging Established Physics \u2014 Where to Read the Full Case"
+        },
+        "00.03.00-core-concepts.md": {
+          "_title": "Core Concepts \u2014 Eight Propositions (Modern Religious Edition)"
+        },
+        "00.03.01-the-length-of-a-year-changes-throughout-antiquity.md": {
+          "_title": "The Length of a Year Changes Throughout Antiquity"
+        },
+        "00.03.02-timeline-synchronization.md": {
+          "_title": "Timeline Synchronization \u2014 Creation Numbers and Redaction"
+        },
+        "00.03.03-cosmic-life-cycle.md": {
+          "_title": "Cosmic Life Cycle \u2014 Renewal and Sacred Narrative"
+        },
+        "_count": 10
+      },
+      "01.before-creation": {
+        "01.00.00-before-creation.md": {
+          "_title": "Before Creation \u2014 Darkness, Memory, and the First Counted Year"
+        },
+        "01.01.00-3-plasmoids-southern-hemisphere.md": {
+          "_title": "Three Lights in the Southern Sky"
+        },
+        "01.02.00-spawning-of-the-first-life-forms.md": {
+          "_title": "Spawning of the First Life Forms \u2014 After the Likeness of Heaven"
+        },
+        "01.02.01-scalar-energy-as-the-basis-of-creation.md": {
+          "_title": "From Heavenly Pattern to Living Form \u2014 What the Full Timeline Argues"
+        },
+        "01.03.00-all-planets-and-suns-are-hollow.md": {
+          "_title": "Hollow Worlds \u2014 Maps, Explorers, and the Question of Layers"
+        },
+        "_count": 5
+      },
+      "README.md": {
+        "_title": "Modern religious (interfaith) edition"
+      },
+      "_count": 16
+    },
+    "_count": 17
+  },
   "data": {
     "events.json": {},
     "timeline-schema.json": {},
@@ -817,6 +880,9 @@
     },
     "APPENDIX_MOVE_RECOMMENDATIONS.md": {
       "_title": "Appendix Move Recommendations"
+    },
+    "BOOK_EDITIONS_PLAN.md": {
+      "_title": "Audience-specific book editions"
     },
     "CONCLUSIONS.md": {
       "_title": "Conclusions"
@@ -869,7 +935,7 @@
     "TIMELINE_FAQ.md": {
       "_title": "FAQ"
     },
-    "_count": 20
+    "_count": 21
   },
   "export": {
     "timeline-appendix.pdf": {},
@@ -1842,5 +1908,5 @@
     },
     "_count": 1
   },
-  "_count": 453
+  "_count": 471
 }

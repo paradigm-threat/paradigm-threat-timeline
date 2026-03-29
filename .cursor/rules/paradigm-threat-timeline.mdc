@@ -88,6 +88,10 @@ npm run generate-index    # Pre-commit
 - **Format:** `> **TL;DR:** TODO` until a model pass replaces `TODO` with one paragraph (see `docs/CONTENT_STRATEGY.md` § TL;DR).
 - **Tooling:** `npm run generate-tldr` on `content/`; `python3 scripts/generate_tldr.py --root ../paradigm-threat-files`; `--refresh-tldr` resets to `TODO`.
 
+## Print-oriented editions (`content-editions/`)
+
+- Parallel book trees (not fed to `events.json`): `modern-religious/`, `jewish/` (planned), `educational/` (planned). See **docs/BOOK_EDITIONS_PLAN.md**. **`modern-religious`** is the on-disk interfaith pilot (merged former Christian tree); Christ-only or Zionist-specific trees are optional future forks.
+
 ## File Conventions
 
 - Content markdown: `content/<chapter>/XX.YY.ZZ-slug.md`. **content/ is the source of truth**; events.json is generated from it.
