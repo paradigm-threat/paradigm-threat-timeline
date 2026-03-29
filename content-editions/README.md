@@ -1,9 +1,11 @@
 # Content editions (print-oriented)
 
-Parallel markdown trees for **audience-specific books**. Canonical timeline prose for the site remains in **`../content/`**.
+The project has **three** book products (see **docs/BOOK_EDITIONS_PLAN.md**):
 
-- **`modern-religious/`** — **Interfaith “modern religious perspective”**; **pilot** content in **`00.*`** and **`01.*`** (former Christian pilot merged here and rewritten per the Modern religious edition in **BOOK_EDITIONS_PLAN.md**). See **docs/BOOK_EDITIONS_PLAN.md** (Modern religious edition / interpretation covenant).
-- **`jewish/`** — Zionist-perspective Jewish edition (planned; see **docs/BOOK_EDITIONS_PLAN.md** (Zionist Jewish edition)).
-- **`educational/`** — **Science-full** edition; **`docs/TIMELINE_FAQ.md` + `docs/FEEDBACK.md`** guide **what to fix first** in prose — **not** included in the book (see **docs/BOOK_EDITIONS_PLAN.md** (Educational edition)). (planned)
+1. **Default edition** — **`../content/`** (canonical timeline; drives the site and `events.json`).
+2. **Religious edition** — this folder, **`modern-religious/`**: interfaith, interpretation-only, science-light adaptation of (1). Pilot: **`00.*`**, **`01.*`**.
+3. **Educational edition** — **`educational/`** (planned): science-full like (1); **`docs/TIMELINE_FAQ.md`** and **`docs/FEEDBACK.md`** guide editorial priority only — not printed in the book.
 
-See **[docs/BOOK_EDITIONS_PLAN.md](../docs/BOOK_EDITIONS_PLAN.md)** for guardrails, workflow, and open editorial questions.
+**In `content-editions/`:** only **`modern-religious/`** and (when created) **`educational/`**. There is **no** separate Jewish/Zionist tree; Jewish-readership guardrails live inside the **religious** edition plan.
+
+See **[docs/BOOK_EDITIONS_PLAN.md](../docs/BOOK_EDITIONS_PLAN.md)** for guardrails, workflow, and open questions.
