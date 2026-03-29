@@ -90,7 +90,7 @@ npm run generate-index    # Pre-commit
 
 ## Print-oriented editions (`content-editions/`)
 
-- Parallel book trees (not fed to `events.json`): `modern-religious/`, `jewish/` (planned), `educational/` (planned). See **docs/BOOK_EDITIONS_PLAN.md**. **`modern-religious`** is the on-disk interfaith pilot (merged former Christian tree); Christ-only or Zionist-specific trees are optional future forks.
+- **Three book products:** canonical **`content/`** (default), **`content-editions/modern-religious/`** (religious), **`content-editions/educational/`** (planned). Edition trees are not fed to `events.json`. See **docs/BOOK_EDITIONS_PLAN.md**. No separate `content-editions/jewish/` tree.
 
 ## File Conventions
 

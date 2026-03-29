@@ -6,6 +6,8 @@ This document defines the print quality target for `export/timeline.pdf`.
 The benchmark is the output Vellum produces for trade-paperback and black-and-white
 print editions. All requirements here are implemented in `scripts/generate-pdf.py`.
 
+**Print-oriented variants** — **religious** (`content-editions/modern-religious/`) and **educational** (`content-editions/educational/`) — are defined in **[BOOK_EDITIONS_PLAN.md](BOOK_EDITIONS_PLAN.md)** alongside the **default** book in **`content/`**; canonical `content/` remains the timeline source until export tooling gains an alternate content root.
+
 ---
 
 ## 1. Page Setup
