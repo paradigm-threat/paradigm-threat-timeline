@@ -382,6 +382,9 @@
       "12.01.00-1773-ce-the-rebellion-of-pugachev.md": {
         "_title": "The Rebellion of Pugachev"
       },
+      "12.02.00-1726-ce-gullivers-travels-managed-disclosure.md": {
+        "_title": "1726 CE: *Gulliver's Travels* \u2014 travel testimony and the satire shell"
+      },
       "12.03.00-the-mudflood-world-cataclysm.md": {
         "_title": "The MudFlood & World Cataclysm"
       },
@@ -403,7 +406,7 @@
       "12.08.00-trail-tears-century-long-erasure.md": {
         "_title": "Trail of Tears: Century-Long Erasure"
       },
-      "_count": 9
+      "_count": 10
     },
     "13.ce-19th-rise-of-communism": {
       "13.00.00-19th-century-the-rise-of-communism.md": {
@@ -801,7 +804,7 @@
       },
       "_count": 1
     },
-    "_count": 240
+    "_count": 241
   },
   "content-editions": {
     "README.md": {
@@ -1908,5 +1911,5 @@
     },
     "_count": 1
   },
-  "_count": 471
+  "_count": 472
 }
