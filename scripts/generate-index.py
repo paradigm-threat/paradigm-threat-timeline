@@ -2,6 +2,47 @@
 """Generate index.json file tree for paradigm-threat-timeline. Used by file browser, not by timeline component."""
 import os
 import json
+import subprocess
+from datetime import datetime, timezone
+from typing import Dict, Optional
+
+
+def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
+    """Newest-first `git log`; first sighting of each path = last commit touching it."""
+    try:
+        proc = subprocess.run(
+            [
+                "git",
+                "-C",
+                repo_dir,
+                "log",
+                "--no-renames",
+                "--name-only",
+                "--pretty=format:%ct",
+            ],
+            capture_output=True,
+            text=True,
+            check=True,
+            timeout=120,
+        )
+    except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+        return {}
+
+    last: Dict[str, int] = {}
+    current_ts: Optional[int] = None
+    for line in proc.stdout.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if s.isdigit():
+            current_ts = int(s)
+            continue
+        if current_ts is None:
+            continue
+        key = s.replace("\\", "/")
+        if key not in last:
+            last[key] = current_ts
+    return last
 
 def get_lqip(image_path):
     """Generates a 16x16 base64-encoded WebP LQIP string for an image. Returns None if PIL unavailable."""
@@ -36,6 +77,8 @@ def generate_index():
     }
 
     include_exts = {'.md', '.txt', '.pdf', '.json', '.jpg', '.jpeg', '.png', '.webp'}
+
+    git_times = _git_last_commit_unix_times(repo_dir)
 
     def build_tree(current_path):
         tree = {}
@@ -94,6 +137,19 @@ def generate_index():
                         lqip = get_lqip(full_path)
                         if lqip:
                             file_data["_lqip"] = lqip
+
+                    rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
+                    ts = git_times.get(rel_posix)
+                    if ts is not None:
+                        dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                        file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                    else:
+                        try:
+                            mtime = os.path.getmtime(full_path)
+                            dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
+                            file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                        except OSError:
+                            pass
 
                     tree[item] = file_data
                     total_files += 1
