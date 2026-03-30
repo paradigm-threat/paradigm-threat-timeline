@@ -1750,6 +1750,25 @@
           ]
         },
         {
+          "id": "evt-1726-ce-gullivers-travels-managed-disclosure",
+          "title": "1726 CE: *Gulliver's Travels* \u2014 travel testimony and the satire shell",
+          "type": "event",
+          "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.02.00-1726-ce-gullivers-travels-managed-disclosure.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1726,
+              "end": 1726,
+              "calendar": "CE"
+            }
+          ],
+          "related_events": [
+            "evt-mars-literature-as-reclassified-nonfiction",
+            "evt-predictive-programming-literature",
+            "evt-1774-ce-the-mars-catastrophe"
+          ]
+        },
+        {
           "id": "evt-the-mudflood-world-cataclysm",
           "title": "The MudFlood & World Cataclysm",
           "type": "article",
