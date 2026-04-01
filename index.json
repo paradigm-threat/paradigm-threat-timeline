@@ -63,7 +63,7 @@
       },
       "01.01.00-3-plasmoids-southern-hemisphere.md": {
         "_title": "3 Plasmoids Southern Hemisphere",
-        "_updated": "2026-03-28T21:52:13Z"
+        "_updated": "2026-04-01T18:01:37Z"
       },
       "01.02.00-spawning-of-the-first-life-forms.md": {
         "_title": "Spawning of the First Life Forms",
@@ -1130,7 +1130,7 @@
   },
   "data": {
     "events.json": {
-      "_updated": "2026-03-30T12:39:34Z"
+      "_updated": "2026-04-01T18:01:37Z"
     },
     "timeline-schema.json": {
       "_updated": "2026-03-23T22:13:29Z"
@@ -1398,16 +1398,22 @@
         "_updated": "2026-02-28T16:21:57Z"
       },
       "plasma-columns-atlantean-grid-network-wide.png": {
+        "_width": 1024,
+        "_height": 1536,
+        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoLABAABUB8JYgCdADdcBrzMNnUAAD9U6Y5esszOkPljv8NyJ7fm9ARVRfbZRqe6YNvZ+a80eyH9an6TNrHD2Zzm3hvnn1SBLAAAA==",
+        "_updated": "2026-04-01T18:01:37Z"
+      },
+      "plasma-columns-atlantean-grid-network-wide2.png": {
         "_width": 1536,
         "_height": 1024,
-        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JYwCdADz6QJlAgAA/qbDRmT+i2LWHqRg5tlVyuYT07QiPfaG3odSknQtTOJ9JVHcMi9nkY7s191QAAA=",
-        "_updated": "2026-04-01T14:38:37Z"
+        "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JQBOgB6JNAOwAAD+o3Biomu2sgdIehjhe70+AkoKMmkPi7TkGQmLuRHGJUd0r7gV0y3AAAA=",
+        "_updated": "2026-04-01T18:14:06Z"
       },
       "plasma-columns-atlantean-grid-network.png": {
         "_width": 1024,
         "_height": 1536,
         "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoLABAABUB8JQBOgBwq/LwA/n51rpKmA1Y2TUK5iLh6lWAKJgrT5EDdzgWs7Vbk0zCfWF7K4ya/bBDuXwcRo9YAAAA=",
-        "_updated": "2026-04-01T14:34:31Z"
+        "_updated": "2026-04-01T18:01:37Z"
       },
       "scalar-energy-as-the-basis-of-creation.png": {
         "_width": 1536,
@@ -1421,7 +1427,7 @@
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JbACdADwYDybYAAA/jLIZO/JG8o6gEsyms7Q9QmGLCqUm3REuxRvjL4G+DzGvxn6tIKYAAA=",
         "_updated": "2026-02-22T15:24:46Z"
       },
-      "_count": 12
+      "_count": 13
     },
     "02.the-golden-age": {
       "atlantis_first_jerusalem.png": {
@@ -2398,7 +2404,7 @@
       },
       "_count": 17
     },
-    "_count": 184
+    "_count": 185
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -2407,5 +2413,5 @@
     },
     "_count": 1
   },
-  "_count": 474
+  "_count": 475
 }
