@@ -1397,6 +1397,18 @@
       "perattyaoaurora-prehistory.pdf": {
         "_updated": "2026-02-28T16:21:57Z"
       },
+      "plasma-columns-atlantean-grid-network-wide.png": {
+        "_width": 1536,
+        "_height": 1024,
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAsABUB8JYwCdADz6QJlAgAA/qbDRmT+i2LWHqRg5tlVyuYT07QiPfaG3odSknQtTOJ9JVHcMi9nkY7s191QAAA=",
+        "_updated": "2026-04-01T14:38:37Z"
+      },
+      "plasma-columns-atlantean-grid-network.png": {
+        "_width": 1024,
+        "_height": 1536,
+        "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoLABAABUB8JQBOgBwq/LwA/n51rpKmA1Y2TUK5iLh6lWAKJgrT5EDdzgWs7Vbk0zCfWF7K4ya/bBDuXwcRo9YAAAA=",
+        "_updated": "2026-04-01T14:34:31Z"
+      },
       "scalar-energy-as-the-basis-of-creation.png": {
         "_width": 1536,
         "_height": 1024,
@@ -1409,7 +1421,7 @@
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JbACdADwYDybYAAA/jLIZO/JG8o6gEsyms7Q9QmGLCqUm3REuxRvjL4G+DzGvxn6tIKYAAA=",
         "_updated": "2026-02-22T15:24:46Z"
       },
-      "_count": 10
+      "_count": 12
     },
     "02.the-golden-age": {
       "atlantis_first_jerusalem.png": {
@@ -2386,7 +2398,7 @@
       },
       "_count": 17
     },
-    "_count": 182
+    "_count": 184
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -2395,5 +2407,5 @@
     },
     "_count": 1
   },
-  "_count": 472
+  "_count": 474
 }
