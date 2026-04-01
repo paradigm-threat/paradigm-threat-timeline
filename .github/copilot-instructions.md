@@ -147,7 +147,7 @@ When generating or replacing illustrations for timeline articles:
 [Title](/path/to/file.md)
 ```
 Examples:
-- `[Death on Mars Analysis](/cosmos/mars/investigations/death-on-mars.md)`
+- `[Death on Mars Analysis](/cosmos/mars/death-on-mars-analysis.md)`
 - `[De Grazia Book Summaries](/cosmos/cosmology/de_grazia/books/chaos-and-creation.md)`
 - Timeline content: `/timeline?view=browser&path=content/...` or `/timeline/evt-...`
 
