@@ -4,16 +4,16 @@
 #
 # Usage:
 #   bash scripts/export-russian-remote.sh
-#     (defaults to atlanta1 + dallas1 relays if PARADIGM_TRANSLATE_URL unset)
+#     (defaults to atlanta3 + jp-osa relays if PARADIGM_TRANSLATE_URL unset)
 #
-#   export PARADIGM_TRANSLATE_URL=http://atlanta1.relaygateway.net:5588
+#   export PARADIGM_TRANSLATE_URL=http://atlanta3.relaygateway.net:5588
 #   bash scripts/export-russian-remote.sh
 #
 # Two relays (round-robin per translate request — spreads load across nodes):
-#   export PARADIGM_TRANSLATE_URL='http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588'
+#   export PARADIGM_TRANSLATE_URL='http://atlanta3.relaygateway.net:5588,http://jp-osa.relaygateway.net:5588'
 #
-#   bash scripts/export-russian-remote.sh http://atlanta1.relaygateway.net:5588
-#   bash scripts/export-russian-remote.sh 'http://atlanta1...:5588,http://dallas1...:5588' --probe
+#   bash scripts/export-russian-remote.sh http://atlanta3.relaygateway.net:5588
+#   bash scripts/export-russian-remote.sh 'http://atlanta3...:5588,http://jp-osa...:5588' --probe
 #
 # Optional:
 #   PARADIGM_TRANSLATE_API_KEY — Bearer token
@@ -23,7 +23,7 @@ set -euo pipefail
 export PYTHONUNBUFFERED=1
 
 # Default relays when env and CLI omit URLs (comma-separated, no trailing slashes).
-DEFAULT_PARADIGM_TRANSLATE_URLS='http://atlanta1.relaygateway.net:5588,http://dallas1.relaygateway.net:5588'
+DEFAULT_PARADIGM_TRANSLATE_URLS='http://atlanta3.relaygateway.net:5588,http://jp-osa.relaygateway.net:5588'
 
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO"
