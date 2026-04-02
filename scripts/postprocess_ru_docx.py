@@ -60,6 +60,8 @@ APPENDIX_REPLACEMENTS: list[tuple[str, str]] = [
     ("TL;DR:", "Кратко:"),
     ("сфабрикованным Blip", "выдуманным «блипом»"),
     ("Посмотреть The Blip.", "См. «Блип»."),
+    # Same link text without trailing period (Word/run splits differ)
+    ("Посмотреть The Blip", "См. «Блип»"),
 ]
 
 COMMON_REPLACEMENTS: list[tuple[str, str]] = [
