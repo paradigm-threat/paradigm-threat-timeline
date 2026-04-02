@@ -11,17 +11,32 @@ Backends (first match):
 
 Optional headers from env:
   PARADIGM_TRANSLATE_API_KEY — sent as Authorization: Bearer <key>
+
+Parallel relay throughput:
+  PARADIGM_TRANSLATE_WORKERS — concurrent paragraph jobs when using PARADIGM_TRANSLATE_URL
+    (default 4). Each job may still issue multiple /translate calls for long paragraphs.
+
+Resilience (relay HTTP):
+  PARADIGM_TRANSLATE_RETRIES — max attempts per segment (default 6)
+  PARADIGM_TRANSLATE_BACKOFF — initial backoff seconds before retry (default 2.0)
+  PARADIGM_TRANSLATE_BACKOFF_MAX — cap on backoff (default 90)
 """
 
 from __future__ import annotations
 
+import errno
+import http.client
 import json
+import ssl
 import os
+import random
 import re
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Callable, NamedTuple
 
@@ -85,6 +100,24 @@ def _walk_docx_translate(container, translate_fn: Callable[[str], str], stats: d
                         continue
                     seen_tc.add(tc_id)
                     _walk_docx_translate(cell, translate_fn, stats)
+
+
+def _collect_docx_paragraph_jobs(container, jobs: list) -> None:
+    """Append (Paragraph, text) in document order; same table cell rules as _walk_docx_translate."""
+    for block in _iter_block_items(container):
+        if isinstance(block, Paragraph):
+            txt = block.text
+            if txt.strip():
+                jobs.append((block, txt))
+        elif isinstance(block, Table):
+            seen_tc = set()
+            for row in block.rows:
+                for cell in row.cells:
+                    tc_id = id(cell._tc)
+                    if tc_id in seen_tc:
+                        continue
+                    seen_tc.add(tc_id)
+                    _collect_docx_paragraph_jobs(cell, jobs)
 
 
 def _count_translate_calls_for_block(s: str) -> int:
@@ -183,6 +216,7 @@ def translate_docx(
     *,
     docx_chunk_sleep: float = 0.08,
     progress_prefix: str | None = None,
+    parallel_workers: int = 1,
 ) -> None:
     from docx import Document
 
@@ -193,20 +227,40 @@ def translate_docx(
     total_req = (
         _count_docx_translate_requests(doc) if progress_prefix else 0
     )
+    prog_lock = threading.Lock()
 
     def fn(s: str) -> str:
         if progress_prefix:
-            n[0] += 1
-            tot = total_req if total_req > 0 else "?"
-            print(
-                f"{progress_prefix} request {n[0]}/{tot} (in {len(s)} chars) …",
-                flush=True,
-            )
+            with prog_lock:
+                n[0] += 1
+                cur = n[0]
+                tot = total_req if total_req > 0 else "?"
+                print(
+                    f"{progress_prefix} request {cur}/{tot} (in {len(s)} chars) …",
+                    flush=True,
+                )
         return translate_fn(s)
 
     inner = fn if progress_prefix else translate_fn
     safe = _wrap_translate_chunked(inner, sleep_s=docx_chunk_sleep)
-    _walk_docx_translate(doc, safe, stats)
+
+    workers = max(1, int(parallel_workers))
+    if workers > 1:
+        jobs: list = []
+        _collect_docx_paragraph_jobs(doc, jobs)
+        stats["paragraphs"] = len(jobs)
+        texts = [t for _, t in jobs]
+
+        def translate_block(t: str) -> str:
+            return safe(t)
+
+        with ThreadPoolExecutor(max_workers=workers) as ex:
+            translated = list(ex.map(translate_block, texts))
+        for (para, _), new_t in zip(jobs, translated):
+            para.text = new_t
+    else:
+        _walk_docx_translate(doc, safe, stats)
+
     if progress_prefix:
         print(
             f"{progress_prefix} done ({stats.get('paragraphs', 0)} paragraphs, "
@@ -361,6 +415,52 @@ def parse_relay_urls(raw: str) -> list[str]:
     return [u.strip().rstrip("/") for u in (raw or "").split(",") if u.strip()]
 
 
+def _relay_retry_config() -> tuple[int, float, float]:
+    attempts = max(1, int((os.environ.get("PARADIGM_TRANSLATE_RETRIES") or "6").strip()))
+    base = float((os.environ.get("PARADIGM_TRANSLATE_BACKOFF") or "2.0").strip())
+    cap = float((os.environ.get("PARADIGM_TRANSLATE_BACKOFF_MAX") or "90").strip())
+    return attempts, base, cap
+
+
+def _relay_backoff_sleep(attempt_index: int, base: float, cap: float) -> None:
+    """Exponential backoff with jitter (attempt_index 0 = first retry wait)."""
+    exp = min(cap, base * (2**attempt_index))
+    jitter = random.uniform(0, 0.25 * exp)
+    time.sleep(exp + jitter)
+
+
+def _is_transient_http_code(code: int) -> bool:
+    return code in (429, 500, 502, 503, 504)
+
+
+def _is_transient_relay_exc(exc: BaseException) -> bool:
+    if isinstance(exc, urllib.error.URLError):
+        return True
+    if isinstance(
+        exc,
+        (
+            http.client.RemoteDisconnected,
+            BrokenPipeError,
+            TimeoutError,
+            ConnectionResetError,
+        ),
+    ):
+        return True
+    if isinstance(exc, OSError):
+        no = getattr(exc, "errno", None)
+        if no in (
+            errno.ECONNRESET,
+            errno.ECONNREFUSED,
+            errno.ETIMEDOUT,
+            errno.EPIPE,
+            errno.ENETUNREACH,
+        ):
+            return True
+    if isinstance(exc, ssl.SSLError):
+        return True
+    return False
+
+
 def translate_via_relay(
     get_base_url: Callable[[], str],
     text: str,
@@ -369,34 +469,62 @@ def translate_via_relay(
     target: str,
     fmt: str,
 ) -> str:
-    """POST to {base}/translate; get_base_url() picks the relay for this request (round-robin)."""
-    base_url = get_base_url().rstrip("/")
-    url = base_url + "/translate"
+    """POST to {base}/translate; get_base_url() picks the relay for this request (round-robin).
+
+    Retries transient HTTP codes and connection drops (RemoteDisconnected, reset, timeout).
+    """
     payload = json.dumps(
         {"q": text, "source": source, "target": target, "format": fmt},
         ensure_ascii=False,
     ).encode("utf-8")
     timeout = float((os.environ.get("PARADIGM_TRANSLATE_TIMEOUT") or "300").strip())
-    req = urllib.request.Request(
-        url,
-        data=payload,
-        method="POST",
-        headers={"Content-Type": "application/json; charset=utf-8"},
-    )
     key = (os.environ.get("PARADIGM_TRANSLATE_API_KEY") or "").strip()
-    if key:
-        req.add_header("Authorization", f"Bearer {key}")
+    max_attempts, backoff_base, backoff_cap = _relay_retry_config()
+    last_err: BaseException | None = None
 
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            body = resp.read().decode("utf-8")
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode("utf-8", errors="replace")[:800]
-        raise RuntimeError(f"HTTP {e.code} from {url}: {detail}") from e
-    except urllib.error.URLError as e:
-        raise RuntimeError(f"Request failed {url}: {e}") from e
+    for attempt in range(max_attempts):
+        base_url = get_base_url().rstrip("/")
+        url = base_url + "/translate"
+        req = urllib.request.Request(
+            url,
+            data=payload,
+            method="POST",
+            headers={"Content-Type": "application/json; charset=utf-8"},
+        )
+        if key:
+            req.add_header("Authorization", f"Bearer {key}")
 
-    return _parse_relay_response(body)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                body = resp.read().decode("utf-8")
+            return _parse_relay_response(body)
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", errors="replace")[:800]
+            last_err = e
+            if _is_transient_http_code(e.code) and attempt < max_attempts - 1:
+                print(
+                    f"  [relay] HTTP {e.code} from {url} — retry {attempt + 2}/{max_attempts} after backoff…",
+                    file=sys.stderr,
+                    flush=True,
+                )
+                _relay_backoff_sleep(attempt, backoff_base, backoff_cap)
+                continue
+            raise RuntimeError(f"HTTP {e.code} from {url}: {detail}") from e
+        except Exception as e:
+            last_err = e
+            if _is_transient_relay_exc(e) and attempt < max_attempts - 1:
+                print(
+                    f"  [relay] {type(e).__name__}: {e} — retry {attempt + 2}/{max_attempts} after backoff…",
+                    file=sys.stderr,
+                    flush=True,
+                )
+                _relay_backoff_sleep(attempt, backoff_base, backoff_cap)
+                continue
+            if isinstance(e, urllib.error.URLError):
+                raise RuntimeError(f"Request failed {url}: {e}") from e
+            raise
+
+    raise RuntimeError(f"Request failed {url} after {max_attempts} attempts: {last_err!r}")
 
 
 class TranslateBackend(NamedTuple):
@@ -412,11 +540,13 @@ def build_translate_backend() -> TranslateBackend:
     if relay_urls:
         n = len(relay_urls)
         idx = [0]
+        rr_lock = threading.Lock()
 
         def next_base() -> str:
-            u = relay_urls[idx[0] % n]
-            idx[0] += 1
-            return u
+            with rr_lock:
+                u = relay_urls[idx[0] % n]
+                idx[0] += 1
+                return u
 
         if n == 1:
             label = f"Relay ({relay_urls[0]})"
@@ -507,6 +637,17 @@ def run_russian_export(
         raise SystemExit(f"Translation backend failed to initialize: {e}") from e
 
     print(f"\n=== Russian export (target=ru, backend={backend.label}) ===", flush=True)
+    relay_urls_list = parse_relay_urls(relay)
+    parallel_workers = 1
+    if relay_urls_list:
+        parallel_workers = max(
+            1, int((os.environ.get("PARADIGM_TRANSLATE_WORKERS") or "4").strip())
+        )
+    if parallel_workers > 1:
+        print(
+            f"  DOCX parallel workers: {parallel_workers} (set PARADIGM_TRANSLATE_WORKERS to change).",
+            flush=True,
+        )
     print("  Progress lines list each HTTP/chunk request.", flush=True)
 
     pairs = [
@@ -542,6 +683,7 @@ def run_russian_export(
                 backend.translate,
                 docx_chunk_sleep=backend.docx_chunk_sleep,
                 progress_prefix=prefix,
+                parallel_workers=parallel_workers,
             )
         else:
             translate_utf8_file(

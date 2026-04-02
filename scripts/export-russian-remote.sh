@@ -18,12 +18,14 @@
 # Optional:
 #   PARADIGM_TRANSLATE_API_KEY — Bearer token
 #   PARADIGM_TRANSLATE_TIMEOUT — seconds (default 300)
+#   PARADIGM_TRANSLATE_WORKERS — parallel paragraph jobs for relay mode (default 4)
+#   PARADIGM_TRANSLATE_RETRIES / PARADIGM_TRANSLATE_BACKOFF / PARADIGM_TRANSLATE_BACKOFF_MAX — relay retries
 #   PARADIGM_TRANSLATE_RESUME=1 — skip a pair if *-ru.* exists and is newer than English source
 set -euo pipefail
 export PYTHONUNBUFFERED=1
 
 # Default relays when env and CLI omit URLs (comma-separated, no trailing slashes).
-DEFAULT_PARADIGM_TRANSLATE_URLS='http://atlanta3.relaygateway.net:5588,http://jp-osa.relaygateway.net:5588'
+DEFAULT_PARADIGM_TRANSLATE_URLS='http://atlanta2.relaygateway.net:5588,http://atlanta3.relaygateway.net:5588,http://jp-osa.relaygateway.net:5588'
 
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO"
