@@ -22,7 +22,9 @@ EXPORT_DIR = REPO_DIR / "export"
 
 # Same default as scripts/export-russian-remote.sh when env/CLI omit URLs.
 DEFAULT_PARADIGM_TRANSLATE_URLS = (
-    "http://atlanta3.relaygateway.net:5588,http://jp-osa.relaygateway.net:5588"
+    "http://atlanta2.relaygateway.net:5588,"
+    "http://atlanta3.relaygateway.net:5588,"
+    "http://jp-osa.relaygateway.net:5588"
 )
 
 
