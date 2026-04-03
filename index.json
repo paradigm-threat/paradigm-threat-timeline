@@ -16,7 +16,7 @@
     "00.overview": {
       "00.00.00-introduction.md": {
         "_title": "Introduction",
-        "_updated": "2026-03-28T16:16:11Z"
+        "_updated": "2026-04-03T12:16:57Z"
       },
       "00.01.00-the-third-story.md": {
         "_title": "The Third Story",
@@ -1051,13 +1051,13 @@
   "content-editions": {
     "README.md": {
       "_title": "Content editions (print-oriented)",
-      "_updated": "2026-03-29T23:13:35Z"
+      "_updated": "2026-04-03T12:16:57Z"
     },
     "modern-religious": {
       "00.overview": {
         "00.00.00-introduction.md": {
           "_title": "Introduction \u2014 Many Traditions, One Human Story",
-          "_updated": "2026-03-29T22:56:27Z"
+          "_updated": "2026-04-03T12:16:57Z"
         },
         "00.01.00-the-third-story.md": {
           "_title": "The Third Story \u2014 Myth, the Sky, and Shared Memory",
@@ -1122,7 +1122,7 @@
       },
       "README.md": {
         "_title": "Modern religious (interfaith) edition",
-        "_updated": "2026-03-29T23:13:35Z"
+        "_updated": "2026-04-03T12:16:57Z"
       },
       "_count": 16
     },
@@ -1152,7 +1152,7 @@
     },
     "BOOK_EDITIONS_PLAN.md": {
       "_title": "Audience-specific book editions",
-      "_updated": "2026-03-29T23:13:35Z"
+      "_updated": "2026-04-03T12:16:57Z"
     },
     "CONCLUSIONS.md": {
       "_title": "Conclusions",
@@ -1176,11 +1176,11 @@
     },
     "CONTENT_STRATEGY.md": {
       "_title": "Content Strategy: Paradigm Threat Timeline",
-      "_updated": "2026-03-29T23:13:35Z"
+      "_updated": "2026-04-03T12:16:57Z"
     },
     "FEEDBACK.md": {
       "_title": "Reader feedback (anonymized)",
-      "_updated": "2026-03-29T23:13:56Z"
+      "_updated": "2026-04-03T12:16:57Z"
     },
     "ILLUSTRATIONS.md": {
       "_title": "Timeline Illustrations Plan",
@@ -1208,7 +1208,7 @@
     },
     "PRINT_GOALS.md": {
       "_title": "Print Production Goals \u2014 Paradigm Threat: The Third Story",
-      "_updated": "2026-03-29T23:13:35Z"
+      "_updated": "2026-04-03T12:16:57Z"
     },
     "RESTRUCTURE_PLAN.md": {
       "_title": "Restructure Plan: Unified Decimal-Numbered Content Folder",
@@ -1220,7 +1220,7 @@
     },
     "TIMELINE_FAQ.md": {
       "_title": "FAQ",
-      "_updated": "2026-03-29T23:13:56Z"
+      "_updated": "2026-04-03T12:16:57Z"
     },
     "_count": 21
   },
