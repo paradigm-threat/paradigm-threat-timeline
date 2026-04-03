@@ -4,7 +4,9 @@ This document outlines the strategy for aligning writing styles, improving pacin
 
 **Investigative strategy:** How we treat evidence, consensus, and burden of proof is defined in **`docs/INVESTIGATIVE_STRATEGY.md`**. Investigations are conducted objectively from scratch; we do not rule out possibilities due to "scientific consensus" or "lack of evidence" alone. See that doc for burden-of-proof rules, predictive programming as data, and when the burden lies on new scientists.
 
-**Audience book editions:** Strategy for **three** products — canonical **`content/`**, **`content-editions/modern-religious/`**, **`content-editions/educational/`** — is in **`docs/BOOK_EDITIONS_PLAN.md`**. Implementation of export switches for alternate content roots requires the same approval process as other strategy changes.
+**Audience book editions:** Strategy for **two** products — definitive **`content/`** (default and educational, one tree), and **`content-editions/modern-religious/`** — is in **`docs/BOOK_EDITIONS_PLAN.md`**. Implementation of export switches for alternate content roots requires the same approval process as other strategy changes.
+
+**Public slogans (Third Story):** *One human family. One shattered memory. One story to reunite it.* — *Sacred memory + honest inquiry = the Third Story.* Documented with sticker assets in **`paradigm-threat-site/public/brand/README.md`** and **`docs/PRINT_GOALS.md`**.
 
 ---
 

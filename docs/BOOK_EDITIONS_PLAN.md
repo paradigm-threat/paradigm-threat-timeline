@@ -1,12 +1,11 @@
 # Audience-specific book editions
 
-This document defines **three** book products:
+This document defines **two** book products:
 
-1. **Default (canonical) edition** — `content/**/*.md`: the **live timeline** and **source of truth** for `events.json` and the site. **Science-full** where chapters include EU, plasma, chronology detail, etc.
+1. **Definitive (default) edition** — `content/**/*.md`: the **live timeline** and **source of truth** for `events.json` and the site. **Science-full** where chapters include EU, plasma, chronology detail, etc. This tree is also the **educational** product: narrative is shaped using **`docs/TIMELINE_FAQ.md`** and **`docs/FEEDBACK.md`** as **off-manuscript** priority guides only (see §3.1).
 2. **Religious edition** — `content-editions/modern-religious/`: **interfaith**, **interpretation-only**, **science-light** adaptation of (1) for print readers who practice a living religion (see §3.2).
-3. **Educational edition** — `content-editions/educational/`: **science-full** like (1), with narrative shaped using **`docs/TIMELINE_FAQ.md`** and **`docs/FEEDBACK.md`** as **off-manuscript** priority guides only (see §3.4).
 
-Editions (2) and (3) live in **parallel trees on `main`**, adapted by **model passes** (voice, omissions, reframing)—not mechanical string-replacement scripts. Both **derive from** the default edition; they do not replace `content/` for the web app.
+The **religious** edition lives in a **parallel tree on `main`**, adapted by **model passes** (voice, omissions, reframing)—not mechanical string-replacement scripts. It **derives from** the definitive edition and does not replace `content/` for the web app.
 
 **Related:** [CONTENT_STRATEGY.md](CONTENT_STRATEGY.md), [INVESTIGATIVE_STRATEGY.md](INVESTIGATIVE_STRATEGY.md), [PRINT_GOALS.md](PRINT_GOALS.md), [FEEDBACK.md](FEEDBACK.md).
 
@@ -20,13 +19,12 @@ Editions (2) and (3) live in **parallel trees on `main`**, adapted by **model pa
 - **Print today:** `scripts/generate-pdf.py` and `scripts/generate-docx.py` use `CONTENT_DIR = REPO_DIR / "content"` and scan all `*.md` there. There is **no edition switch** yet (see Phase 2 below).
 - **Precedent:** `scripts/export-russian-remote.sh` already treats some exports as separate from canonical English `content/` for the web app.
 
-Replacing `content/` on **perpetual branches** would break timeline validation or require divergent `events.json` trees. Prefer **parallel `content-editions/` directories on `main`** for (2) and (3).
+Replacing `content/` on **perpetual branches** would break timeline validation or require divergent `events.json` trees. Prefer **one parallel `content-editions/` tree on `main`** for the religious product.
 
 **Convention (chosen):**
 
-- **`content/`** — default edition (canonical).
+- **`content/`** — definitive (default / educational) edition (canonical).
 - **`content-editions/modern-religious/`** — religious edition (current pilot: `00.*`, `01.*` and onward).
-- **`content-editions/educational/`** — educational edition (planned).
 
 **Short-lived branches** are fine for batch work, then merge to `main`. Avoid branches where canonical `content/` diverges from `main` unless the whole product forks.
 
@@ -46,15 +44,22 @@ Replacing `content/` on **perpetual branches** would break timeline validation o
 
 | # | Edition | Location | Aim |
 |---|--------|----------|-----|
-| **1** | **Default (canonical)** | `content/` | Full timeline for **web and repo readers**; **investigative** and **science-full** where the chapter requires it; **drives** `events.json`. |
+| **1** | **Definitive (default / educational)** | `content/` | Full timeline for **web and repo readers**; **investigative** and **science-full** where the chapter requires it; **drives** `events.json`. Use **`TIMELINE_FAQ.md` + `FEEDBACK.md`** only **off-manuscript** to **prioritize** rewrites in this same tree; **do not** paste those docs into the book. **Honest framing**, **separate hypotheses**, **named sources** where skeptics need clarity. |
 | **2** | **Religious (interfaith)** | `content-editions/modern-religious/` | **One book, many homes:** Muslims, Hindus, Christians, Jews, Buddhists, Sikhs, Jains, Zoroastrians, Indigenous traditions, and others — **interpretation only**; **convergence** in myth, calendar, and catastrophe memory as **evidence of shared past**; **no** conversion ask. **Science-light**; **stubs** to canonical `content/` for EU/plasma depth. **Institutions vs. lay faithful**; **no** collective **Jewish** mastermind; **no** circumcision focus; **Exodus** without ethnic blame; **natural-catastrophe** reading open. See §3.2–§3.3. |
-| **3** | **Educational** | `content-editions/educational/` | **Science-full** like (1); use **`TIMELINE_FAQ.md` + `FEEDBACK.md`** only **off-manuscript** to **prioritize** rewrites; **do not** paste into the book. **Honest framing**, **separate hypotheses**, **named sources**. See §3.4. |
 
-### 3.1 Default canonical edition (`content/`)
+### 3.1 Definitive edition (`content/`) — canonical and educational
 
-- **Role:** authoritative **timeline prose** for **paradigmthreat.net** (and exports that scan `content/`).
-- **No separate “Christian” or “Jewish” tree:** denomination-specific voice lives only as **optional phrasing** inside **religious** adaptation if you later split chapters—not as a third `content-editions/` folder.
-- **Fomenko, EU, Mars, chronology:** present as in each chapter; **educational** edition may add **FAQ-driven** clarifications without changing this tree’s event IDs.
+- **Role:** authoritative **timeline prose** for **paradigmthreat.net** (and exports that scan `content/`). There is **no** separate `content-editions/educational/` tree; **educational** means **how** we edit **`content/`** (clarity, genre labels, FAQ-driven fixes).
+- **No separate “Christian” or “Jewish” tree:** denomination-specific voice lives only as **optional phrasing** inside **religious** adaptation if you later split chapters—not as another `content-editions/` folder.
+- **Fomenko, EU, Mars, chronology:** present as in each chapter; add **FAQ-driven** clarifications in **`content/`** when needed **without** changing event IDs.
+
+**`TIMELINE_FAQ.md` + `FEEDBACK.md` (editorial only — not book pages)**
+
+1. **Read** those files to build a **priority list**.
+2. **Shape** `content/` so narrative **absorbs** concerns **where the story belongs** — e.g. **separate** **Fomenko / NC** from **Saturnian / 4077 BCE**; **Fomenko / RAS** wording per **FB-001**; **Mars vs Martians** disambiguation.
+3. **Use** FAQ as **tone models** — **not** pasted text.
+
+**Concrete hygiene (FB-001):** never imply **Russian state sponsorship** of **NC** without **cited** evidence; **RAS** = **mathematics**, not **NC endorsement**. **`TIMELINE_FAQ.md` stays in `docs/`.**
 
 ### 3.2 Religious edition — **interpretation covenant** (`modern-religious/`)
 
@@ -121,18 +126,6 @@ Replacing `content/` on **perpetual branches** would break timeline validation o
 
 - **Include**; **causation** **ambiguous**. **Do not** identify **Christ** as **giant** / **Nephilim** figure.
 
-### 3.4 Educational edition — `TIMELINE_FAQ.md` + `FEEDBACK.md` (**editorial only**)
-
-**These files are not book content.** They live in **`docs/`** for **authors and editors** only.
-
-**Workflow**
-
-1. **Read** **[TIMELINE_FAQ.md](TIMELINE_FAQ.md)** and **[FEEDBACK.md](FEEDBACK.md)** to build a **priority list**.
-2. **Shape** `content-editions/educational/` (or canonical `content/` when shared) so narrative **absorbs** those concerns **where the story belongs** — e.g. **separate** **Fomenko / NC** from **Saturnian / 4077 BCE**; **Fomenko / RAS** wording per **FB-001**; **Mars vs Martians** disambiguation.
-3. **Use** FAQ as **tone models** — **not** pasted text.
-
-**Concrete hygiene (FB-001):** never imply **Russian state sponsorship** of **NC** without **cited** evidence; **RAS** = **mathematics**, not **NC endorsement**. **`TIMELINE_FAQ.md` stays in `docs/`**.
-
 ---
 
 ## 4. Non-negotiable guardrails
@@ -147,31 +140,31 @@ No **antisemitic** tropes: collective blame, cabal mastermind, blood libel, “f
 
 **Remove** **monotheism-as-cult** narrator voice in **religious** edition.
 
-### 4.3 Educational edition
+### 4.3 Definitive (`content/`) — educational editorial standard
 
-**Science-full** and **skeptic-facing** (see §3.4). **Clear genre labels** (NC vs. Saturnian vs. EU) per [FEEDBACK.md](FEEDBACK.md).
+**Science-full** and **skeptic-facing** (see §3.1). **Clear genre labels** (NC vs. Saturnian vs. EU) per [FEEDBACK.md](FEEDBACK.md).
 
 ---
 
 ## 5. Content matrix (editorial checklist)
 
-| Topic cluster | Default `content/` | Religious | Educational |
-|---------------|-------------------|-----------|-------------|
-| EU / plasma / SAFIRE | As in chapter | Omit or stub; rotate non-Western parallels in prose | **Full** + clarity |
-| Martians / breakaway civs | As in chapter | **Omit** | **Full** + disambiguation |
-| Controlled opposition | As in chapter | Full; Protestant thesis **late** | Full; clinical framing |
-| Catholic institutional critique | As in chapter | Documented power; not anti–lay Catholic | Documented history |
-| Russia–Ukraine + Caucasus | As in chapter | Ongoing; sensitive to Muslim/Christian/Jewish readers | Clinical sourcing |
-| Fomenko / chronology | As in chapter | Attribute Fomenko; no forced single creed | **NC vs cosmic** separated |
-| Interfaith / interpretation | N/A | **Interpretation-only**; no conversion ask | N/A |
-| `TIMELINE_FAQ.md` + `FEEDBACK.md` | N/A (not in book) | **N/A** | **Priority guide** for rewrites only |
+| Topic cluster | Definitive `content/` (educational) | Religious |
+|---------------|-------------------------------------|-----------|
+| EU / plasma / SAFIRE | **Full** + clarity where FAQ/feedback flags confusion | Omit or stub; rotate non-Western parallels in prose |
+| Martians / breakaway civs | **Full** + disambiguation | **Omit** |
+| Controlled opposition | Full; clinical framing | Full; Protestant thesis **late** |
+| Catholic institutional critique | Documented history | Documented power; not anti–lay Catholic |
+| Russia–Ukraine + Caucasus | Clinical sourcing | Ongoing; sensitive to Muslim/Christian/Jewish readers |
+| Fomenko / chronology | **NC vs cosmic** separated where needed | Attribute Fomenko; no forced single creed |
+| Interfaith / interpretation | N/A | **Interpretation-only**; no conversion ask |
+| `TIMELINE_FAQ.md` + `FEEDBACK.md` | **Priority guide** for `content/` rewrites only (not in book) | **N/A** |
 
 ---
 
 ## 6. Model-driven adaptation workflow (not scripts)
 
 - **Inputs:** canonical file from **`content/`**, **edition brief** (this doc §3–4), matrix row, link rules.
-- **Output:** `content-editions/<edition>/...`; **rewrite `#` titles**; **keep filenames**.
+- **Output:** `content-editions/modern-religious/...` for the religious product; **rewrite `#` titles**; **keep filenames**.
 - **QA:** antisemitism/Islamophobia pass; **Hindu/Muslim/Buddhist dignity** pass on **religious**; **no Christ-as-giant**; **no cult framing**; **sourcing** on imperial-religion claims.
 
 ---
@@ -206,9 +199,9 @@ flowchart LR
 
 **Removed:** `content-editions/christian/` (merged into **`modern-religious/`**).
 
-**Not done:** `TL;DR` **TODO**s on edition files; **`educational/`** tree; export **CONTENT_ROOT** (phase 2).
+**Not done:** `TL;DR` **TODO**s on edition files; export **CONTENT_ROOT** (phase 2).
 
-**Next:** Religious `02.*` onward; **educational** pilot from **`content/`**.
+**Next:** Religious `02.*` onward; continue **FAQ/feedback-driven** improvements in **`content/`**.
 
 ---
 
@@ -221,11 +214,11 @@ flowchart LR
 | Controlled opposition | Depth | **Full**; **Russia–Ukraine** ongoing; **Armenian Genocide** (**sourced**); **Protestant CO** **late** only. |
 | Catholic church | Placement / tone | **Documented** abuse **fairly**; **not** attack on **lay Catholics**. |
 | Mudflood / giants | Include? | **Yes**; **ambiguous**; **no Christ as giant**. |
-| Science | EU / lab | **Omit/stub** in **religious**; **full** in **default** and **educational**. |
-| Educational | Scope | **FAQ/FEEDBACK** **off-manuscript** only — approved. |
+| Science | EU / lab | **Omit/stub** in **religious**; **full** in **definitive `content/`**. |
+| Educational | Scope | **FAQ/FEEDBACK** steer **`content/`** only (**off-manuscript**) — no separate educational tree — approved (2026-04-03). |
 | Exodus | Religious | **Before** modern chattel-slavery picture; **cultic/attention**; **natural catastrophe** open; **no** ethnic blame — approved. |
 | Blame / wars | Religion vs actors | **Institutions + imperial print**; **lay believers not blamed** — approved. |
-| Three editions only | Strategy | **Default `content/`** + **religious** + **educational** — no separate **Jewish** `content-editions/` tree — approved (2026-03-29). |
+| Two editions | Strategy | **Definitive `content/`** (default + educational) + **religious** — no separate **Jewish** `content-editions/` tree — approved (2026-04-03). |
 
 ---
 

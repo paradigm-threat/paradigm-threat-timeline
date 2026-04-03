@@ -4,7 +4,7 @@ Raw notes from people reviewing the timeline, site book material, or translation
 
 **Why this file exists:** Feedback is treated as primary data for finding real flaws, unclear framing, and **perception gaps**—especially **East vs. West** readings of the same figure or event. When Western secondary sources label something “state-sponsored” or “debunked,” this project prefers **citable Eastern or Russian-language sources** (academy bulletins, national biographical references, professional historiography in Russian) where they give a finer-grained picture—without pretending those sources endorse alternate chronology.
 
-**Related:** [OUTSTANDING_QUESTIONS.md](./OUTSTANDING_QUESTIONS.md) (internal consistency and research backlog). With **`docs/TIMELINE_FAQ.md`** ([TIMELINE_FAQ.md](./TIMELINE_FAQ.md)), this file **guides editorial priority** for the **educational** edition — **neither** file is **pasted into** the book; concerns are **woven into** narrative where relevant — see [BOOK_EDITIONS_PLAN.md](./BOOK_EDITIONS_PLAN.md) (Educational edition, section 3.4).
+**Related:** [OUTSTANDING_QUESTIONS.md](./OUTSTANDING_QUESTIONS.md) (internal consistency and research backlog). With **`docs/TIMELINE_FAQ.md`** ([TIMELINE_FAQ.md](./TIMELINE_FAQ.md)), this file **guides editorial priority** for the **definitive** timeline in **`content/`** (the same product as “educational”) — **neither** file is **pasted into** the book; concerns are **woven into** narrative where relevant — see [BOOK_EDITIONS_PLAN.md](./BOOK_EDITIONS_PLAN.md) (§3.1).
 
 ---
 

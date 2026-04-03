@@ -6,7 +6,14 @@ This document defines the print quality target for `export/timeline.pdf`.
 The benchmark is the output Vellum produces for trade-paperback and black-and-white
 print editions. All requirements here are implemented in `scripts/generate-pdf.py`.
 
-**Print-oriented variants** — **religious** (`content-editions/modern-religious/`) and **educational** (`content-editions/educational/`) — are defined in **[BOOK_EDITIONS_PLAN.md](BOOK_EDITIONS_PLAN.md)** alongside the **default** book in **`content/`**; canonical `content/` remains the timeline source until export tooling gains an alternate content root.
+**Print-oriented variant** — **religious** (`content-editions/modern-religious/`) — is defined in **[BOOK_EDITIONS_PLAN.md](BOOK_EDITIONS_PLAN.md)** alongside the **definitive** book in **`content/`** (default + educational, single tree). Canonical `content/` remains the timeline source until export tooling gains an alternate content root.
+
+**Book slogans (official):**
+
+1. *One human family. One shattered memory. One story to reunite it.*
+2. *Sacred memory + honest inquiry = the Third Story.*
+
+Use on covers, colophons, site stickers, and ads unless you are deliberately testing alternate copy. SVG implementations: **`paradigm-threat-site/public/brand/`** (see **`README.md`** there for file list and variants).
 
 ---
 
