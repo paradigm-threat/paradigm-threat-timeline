@@ -12,6 +12,9 @@
     },
     "_count": 0
   },
+  "changelog.json": {
+    "_updated": "2026-04-04T16:11:54Z"
+  },
   "content": {
     "00.overview": {
       "00.00.00-introduction.md": {
@@ -82,7 +85,7 @@
     "02.the-golden-age": {
       "02.00.00-the-golden-age.md": {
         "_title": "The Golden Age",
-        "_updated": "2026-03-28T21:52:13Z"
+        "_updated": "2026-04-04T15:14:03Z"
       },
       "02.01.00-proto-saturn-joins-the-sun-s-orbit.md": {
         "_title": "Proto-Saturn joins the Sun's orbit",
@@ -815,7 +818,7 @@
     "17.appendix-chronology": {
       "17.00.00-appendix.md": {
         "_title": "Appendix \u2014 Chronology",
-        "_updated": "2026-03-28T16:16:11Z"
+        "_updated": "2026-04-04T15:14:03Z"
       },
       "17.02.00-other-challenges-to-chronology.md": {
         "_title": "Other Challenges to Chronology",
@@ -1226,10 +1229,10 @@
   },
   "export": {
     "timeline-appendix.pdf": {
-      "_updated": "2026-04-02T15:18:46Z"
+      "_updated": "2026-04-04T15:14:03Z"
     },
     "timeline-book.pdf": {
-      "_updated": "2026-04-02T15:18:46Z"
+      "_updated": "2026-04-04T15:14:03Z"
     },
     "toc-wrap-recommendations.json": {
       "_updated": "2026-03-07T14:09:27Z"
@@ -2413,5 +2416,5 @@
     },
     "_count": 1
   },
-  "_count": 475
+  "_count": 476
 }
