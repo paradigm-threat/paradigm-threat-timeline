@@ -1,0 +1,296 @@
+[
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "032bfa81f81e0aac9cf20069b553fde3452da57a",
+    "date": "2026-04-04T15:14:03.000Z",
+    "message": "Regenerate timeline book/appendix PDF and DOCX; update golden age and appendix content.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/02.the-golden-age/02.00.00-the-golden-age.md",
+        "href": "/timeline/evt-4077-bce-the-golden-age"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.00.00-appendix.md",
+        "href": "/timeline/evt-appendix"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-appendix.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-appendix.pdf",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-book.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-book.pdf",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "69c1ce9f0087bdaa2cad0ce7de4d03ed0a711529",
+    "date": "2026-04-04T13:48:59.000Z",
+    "message": "timeline: add Urantia investigation cross-references",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.02.00-20th-c-predictive-programming.md",
+        "href": "/timeline/evt-20th-c-predictive-programming"
+      },
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
+        "href": "/timeline/evt-predictive-programming-literature"
+      },
+      {
+        "status": "M",
+        "path": "docs/CONTENT_MARKDOWN_STYLE.md",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "dde6ba9b9e7536dd749ba3aeef7b68f251898742",
+    "date": "2026-04-03T12:24:35.000Z",
+    "message": "docs: blog workflow — always git log since prior post (see files BLOG.md)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": ".github/copilot-instructions.md",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "a58ec06ed79fc72ed64f06939d5ab8671517c6fa",
+    "date": "2026-04-03T12:16:57.000Z",
+    "message": "content: edition intro, docs, and cursor rules updates",
+    "files": [
+      {
+        "status": "M",
+        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "content-editions/README.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "content-editions/modern-religious/00.overview/00.00.00-introduction.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "content-editions/modern-religious/README.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "content/00.overview/00.00.00-introduction.md",
+        "href": "/timeline/evt-introduction"
+      },
+      {
+        "status": "M",
+        "path": "docs/BOOK_EDITIONS_PLAN.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/CONTENT_STRATEGY.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/FEEDBACK.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/PRINT_GOALS.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/TIMELINE_FAQ.md",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "b9da63e8074938fb8de4ab770eadfebec1c73657",
+    "date": "2026-04-02T15:43:02.000Z",
+    "message": "RU appendix DOCX: postprocess fix and remove backup copies",
+    "files": [
+      {
+        "status": "M",
+        "path": "export/timeline-appendix-ru.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/postprocess_ru_docx.py",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "f89fe8cd8e015fbfa50e687ffe8eb02c3b80c47e",
+    "date": "2026-04-02T15:18:46.000Z",
+    "message": "Link Cathar-Khazar hub and articles to suppression dossiers",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/10.ce-16th-reformation-and-inquisition/10.03.02-cathar-suppression.md",
+        "href": "/timeline/evt-cathar-suppression"
+      },
+      {
+        "status": "M",
+        "path": "content/10.ce-16th-reformation-and-inquisition/10.05.00-khazar-rebellion-in-the.md",
+        "href": "/timeline/evt-khazar-rebellion-in-the"
+      },
+      {
+        "status": "M",
+        "path": "content/10.ce-16th-reformation-and-inquisition/10.05.01-cathar-khazar-katya-link.md",
+        "href": "/timeline/evt-cathar-khazar-katya-link"
+      },
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.07.00-historical-antibodies.md",
+        "href": "/timeline/evt-historical-antibodies"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-appendix-ru.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "export/timeline-appendix-ru.docx.bak-manual-20260402",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-appendix.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-appendix.pdf",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-book-ru.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "export/timeline-book-ru.docx.bak-manual-20260402",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-book.docx",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "export/timeline-book.pdf",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/export-russian-remote.sh",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/export_translate_util.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "scripts/postprocess_ru_docx.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "scripts/run-docx-translate-on-atlanta3.sh",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/translate-export-to-ru-remote.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "scripts/translate_docx_argos_on_server.py",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "2034a7360178130fba2f2fe5c919ea043733b58d",
+    "date": "2026-04-02T00:48:20.000Z",
+    "message": "chore(translate): default LibreTranslate relays atlanta3 + jp-osa",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/export-russian-remote.sh",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/export.sh",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/export_translate_util.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/translate-export-to-ru-remote.py",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "0701acd918ffb82e81df1119105a3367caf005c2",
+    "date": "2026-04-01T19:42:12.000Z",
+    "message": "docs: Copilot instructions link to death-on-mars-analysis path",
+    "files": [
+      {
+        "status": "M",
+        "path": ".github/copilot-instructions.md",
+        "href": "/timeline"
+      }
+    ]
+  }
+]
