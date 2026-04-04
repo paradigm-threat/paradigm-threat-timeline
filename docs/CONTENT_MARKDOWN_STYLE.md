@@ -21,5 +21,6 @@ Hierarchy is structural (`#` … `####`). Do not compensate for reduced inline b
 
 - **Timeline events:** root-relative `/timeline/evt-...` (and browser deep-links as in `CONTENT_STRATEGY.md`).
 - **paradigm-threat-files on the live site:** `https://paradigmthreat.net` exposes the **full** paradigm-threat-files tree at the **URL root** (repo path = URL path). Link investigations and other repo files with root-relative paths, e.g. `/governance/war/investigations/example.md` → `https://paradigmthreat.net/governance/war/investigations/example.md`. See `docs/LINKING_AND_SITE_PATHS.md` in paradigm-threat-files for the canonical note.
+- **Do not link to `https://github.com/clevertree/...`:** that GitHub account is gone; those URLs 404. Prefer root-relative or `https://paradigmthreat.net/...` for reader-facing links. Full policy, replacements, and a file inventory: **paradigm-threat-files** `docs/LINKING_AND_SITE_PATHS.md` (section *Do not use the old github.com/clevertree URLs*).
 
 Emphasis rules do not apply inside link text in ways that hurt readability—prefer plain link labels when the surrounding prose already stresses the point.
