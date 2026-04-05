@@ -1,6 +1,6 @@
 {
   "name": "paradigm-threat-timeline",
-  "version": "1.2.163",
+  "version": "1.2.164",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,6 +8,7 @@
     "generate-index": "python3 scripts/generate-index.py",
     "generate-changelog": "node scripts/generate-changelog.cjs",
     "validate-events": "python3 scripts/validate-events.py",
+    "append-keywords": "python3 scripts/append_article_keywords.py --apply --timeline-root . --files-root ../paradigm-threat-files",
     "audit-missing": "python3 scripts/audit-missing.py",
     "generate-tldr": "python3 scripts/generate_tldr.py",
     "build-entries": "python3 scripts/build-entries.py",

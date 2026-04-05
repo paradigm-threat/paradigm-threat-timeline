@@ -29,3 +29,8 @@ Where “evil” comes from in this telling. Not from a personified devil as his
 Physics. Full technical argument stays on the definitive timeline and repository. Here, sky, catastrophe, and “natural philosophy” appear as witness and pattern in human story — aligned with this moral-historical lens, not as a separate metaphysical debate with your faith.
 
 Dossier (letters, envoys, Fomenko vs author claims): [Prester John, Presbyter, Rus–Horde (NC)](/history/chronology/investigations/prester-john-presbyter-rus-horde-nc-investigation.md) in paradigm-threat-files.
+
+---
+
+Keywords: #readme #modern #religious #interfaith #edition
+

@@ -1,6 +1,42 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "hash": "9166d2c6283d4bf1691e17860d4229f50f2f49ba",
+    "date": "2026-04-05T13:28:22.000Z",
+    "message": "extra grifin article",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.00.00-15th-century-ce-ottoman-conquest-of-europe.md",
+        "href": "/timeline/evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe"
+      },
+      {
+        "status": "A",
+        "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.07.00-1463-ce-man-eating-griffins-extinction.md",
+        "href": "/timeline/evt-1463-ce-man-eating-griffins-extinction"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "hash": "fe87562b0ed4dfa67138b5f3047c9eb1b3e09034",
+    "date": "2026-04-04T16:11:54.000Z",
+    "message": "changelog: generate timeline file-link entries on pre-commit",
+    "files": [
+      {
+        "status": "M",
+        "path": ".husky/pre-commit",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "hash": "032bfa81f81e0aac9cf20069b553fde3452da57a",
     "date": "2026-04-04T15:14:03.000Z",
     "message": "Regenerate timeline book/appendix PDF and DOCX; update golden age and appendix content.",
@@ -248,47 +284,6 @@
       {
         "status": "A",
         "path": "scripts/translate_docx_argos_on_server.py",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "2034a7360178130fba2f2fe5c919ea043733b58d",
-    "date": "2026-04-02T00:48:20.000Z",
-    "message": "chore(translate): default LibreTranslate relays atlanta3 + jp-osa",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/export-russian-remote.sh",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/export.sh",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/export_translate_util.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/translate-export-to-ru-remote.py",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "0701acd918ffb82e81df1119105a3367caf005c2",
-    "date": "2026-04-01T19:42:12.000Z",
-    "message": "docs: Copilot instructions link to death-on-mars-analysis path",
-    "files": [
-      {
-        "status": "M",
-        "path": ".github/copilot-instructions.md",
         "href": "/timeline"
       }
     ]

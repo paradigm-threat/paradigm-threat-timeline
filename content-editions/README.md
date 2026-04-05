@@ -8,3 +8,8 @@ The project has **two** book products (see **docs/BOOK_EDITIONS_PLAN.md**):
 **In `content-editions/`:** only **`modern-religious/`**. There is **no** separate Jewish/Zionist tree; Jewish-readership guardrails live inside the **religious** edition plan.
 
 See **[docs/BOOK_EDITIONS_PLAN.md](../docs/BOOK_EDITIONS_PLAN.md)** for guardrails, workflow, and open questions.
+
+---
+
+Keywords: #readme #content #editions #print-oriented
+

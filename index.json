@@ -326,7 +326,7 @@
     "09.ce-15th-ottoman-conquest-of-europe": {
       "09.00.00-15th-century-ce-ottoman-conquest-of-europe.md": {
         "_title": "15th Century: Ottoman Conquest of Europe.",
-        "_updated": "2026-03-28T21:52:13Z"
+        "_updated": "2026-04-05T13:28:22Z"
       },
       "09.01.00-1421-ce-meteorite-falls-on-yaroslavl.md": {
         "_title": "Meteorite falls on Yaroslavl",
@@ -356,7 +356,11 @@
         "_title": "Theory: The Reverse Exodus",
         "_updated": "2026-03-28T21:52:13Z"
       },
-      "_count": 8
+      "09.07.00-1463-ce-man-eating-griffins-extinction.md": {
+        "_title": "1463 CE \u2014 Man-eating griffins and the steppe extinction campaign",
+        "_updated": "2026-04-05T13:28:22Z"
+      },
+      "_count": 9
     },
     "10.ce-16th-reformation-and-inquisition": {
       "10.00.00-16th-century-ce-reformation-and-inquisition.md": {
@@ -1049,7 +1053,7 @@
       },
       "_count": 1
     },
-    "_count": 241
+    "_count": 242
   },
   "content-editions": {
     "README.md": {
@@ -2416,5 +2420,5 @@
     },
     "_count": 1
   },
-  "_count": 476
+  "_count": 477
 }
