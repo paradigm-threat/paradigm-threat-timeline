@@ -16,6 +16,10 @@
             {
               "path": "/media/00.overview/the-third-story.png"
             }
+          ],
+          "keywords": [
+            "third",
+            "story"
           ]
         },
         {
@@ -29,14 +33,28 @@
               "title": "Authors Challenging the Mainstream Timeline",
               "type": "article",
               "md_path": "content/00.overview/00.02.01-authors-challenging-chronology.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "authors",
+                "challenging",
+                "mainstream"
+              ]
             },
             {
               "id": "evt-authors-cataclysm-texts",
               "title": "Authors Who Read Ancient Sources as World Cataclysm",
               "type": "article",
               "md_path": "content/00.overview/00.02.02-authors-cataclysm-texts.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "authors",
+                "cataclysm",
+                "texts",
+                "read",
+                "ancient",
+                "sources",
+                "world"
+              ]
             },
             {
               "id": "evt-challenging-established-physics",
@@ -48,6 +66,11 @@
                 {
                   "path": "/media/00.overview/challenging-established-physics.png"
                 }
+              ],
+              "keywords": [
+                "challenging",
+                "established",
+                "physics"
               ]
             }
           ],
@@ -61,6 +84,9 @@
             {
               "path": "/media/00.overview/fomenko_books.jpg"
             }
+          ],
+          "keywords": [
+            "background"
           ]
         },
         {
@@ -79,6 +105,11 @@
                 {
                   "path": "/media/00.overview/year-length-timeline.svg"
                 }
+              ],
+              "keywords": [
+                "length",
+                "changes",
+                "antiquity"
               ]
             },
             {
@@ -86,7 +117,10 @@
               "title": "Timeline Synchronization",
               "type": "article",
               "md_path": "content/00.overview/00.03.02-timeline-synchronization.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "synchronization"
+              ]
             },
             {
               "id": "evt-cosmic-life-cycle",
@@ -104,6 +138,11 @@
                 {
                   "path": "/media/00.overview/plasma_discharge_recorded2.jpg"
                 }
+              ],
+              "keywords": [
+                "cosmic",
+                "life",
+                "cycle"
               ]
             }
           ],
@@ -111,6 +150,10 @@
             {
               "path": "/media/00.overview/core-concepts.png"
             }
+          ],
+          "keywords": [
+            "core",
+            "concepts"
           ]
         }
       ],
@@ -121,6 +164,9 @@
         {
           "path": "/media/00.overview/chapter-timeline-positions.svg"
         }
+      ],
+      "keywords": [
+        "article"
       ]
     },
     {
@@ -142,6 +188,11 @@
             {
               "path": "/media/01.before-creation/plasma-columns-atlantean-grid-network.png"
             }
+          ],
+          "keywords": [
+            "plasmoids",
+            "southern",
+            "hemisphere"
           ]
         },
         {
@@ -160,6 +211,12 @@
                 {
                   "path": "/media/01.before-creation/scalar-energy-as-the-basis-of-creation.png"
                 }
+              ],
+              "keywords": [
+                "scalar",
+                "energy",
+                "basis",
+                "creation"
               ]
             }
           ],
@@ -167,6 +224,12 @@
             {
               "path": "/media/01.before-creation/spawning-first-life-forms.png"
             }
+          ],
+          "keywords": [
+            "spawning",
+            "first",
+            "life",
+            "forms"
           ]
         },
         {
@@ -182,6 +245,11 @@
             {
               "path": "/media/01.before-creation/hollow_earth_EU_model.jpg"
             }
+          ],
+          "keywords": [
+            "planets",
+            "suns",
+            "hollow"
           ]
         }
       ],
@@ -204,6 +272,9 @@
           "path": "/media/01.before-creation/chapter-events.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "creation"
       ]
     },
     {
@@ -233,6 +304,14 @@
             {
               "path": "/media/02.the-golden-age/saturn_configuration_vortex.jpg"
             }
+          ],
+          "keywords": [
+            "proto",
+            "saturn",
+            "joins",
+            "sun",
+            "orbit",
+            "proto-saturn"
           ]
         },
         {
@@ -249,6 +328,11 @@
               "display_year": "?",
               "note": "Date uncertain. Jno Cook and Talbott: planets in collinear configuration did not spin; Earth's axis was fixed toward Saturn. When rotation became visibly apparent is not established."
             }
+          ],
+          "keywords": [
+            "started",
+            "rotating",
+            "visibly"
           ]
         },
         {
@@ -265,6 +349,12 @@
               "display_year": "?",
               "note": "Date uncertain. Northern config order was Mars, Venus, Saturn, Jupiter, Sun. When or whether Mars and Venus shifted relative positions during the Golden Age is not established by Jno Cook or Talbott."
             }
+          ],
+          "keywords": [
+            "mars",
+            "venus",
+            "changed",
+            "positions"
           ]
         },
         {
@@ -280,6 +370,12 @@
             {
               "path": "/media/02.the-golden-age/golden_age_absu.jpg"
             }
+          ],
+          "keywords": [
+            "absu",
+            "layers",
+            "surrounded",
+            "planets"
           ]
         },
         {
@@ -295,6 +391,10 @@
             {
               "path": "/media/02.the-golden-age/saturnian_configuration_south.jpg"
             }
+          ],
+          "keywords": [
+            "northern",
+            "configuration"
           ]
         },
         {
@@ -311,6 +411,12 @@
               "display_year": "?",
               "note": "Date uncertain. Priori-Mars inner shell approached Earth in oscillation, sometimes causing cataclysm, before retreating. The pattern repeated until Mars lost its outer shell in 686 BCE."
             }
+          ],
+          "keywords": [
+            "mars",
+            "drew",
+            "close",
+            "oscillation"
           ]
         },
         {
@@ -323,6 +429,11 @@
             {
               "path": "/media/02.the-golden-age/atlantis_first_jerusalem.png"
             }
+          ],
+          "keywords": [
+            "atlantis",
+            "tree",
+            "knowledge"
           ]
         },
         {
@@ -339,6 +450,10 @@
               "display_year": "?",
               "note": "Date uncertain. Mars inner-shell approaches caused cataclysm during Golden Age. The Great Deluge at ~3147 BCE marks the definitive break. Earlier cataclysmic contacts are not dated."
             }
+          ],
+          "keywords": [
+            "cataclysm",
+            "hit"
           ]
         },
         {
@@ -354,6 +469,10 @@
             {
               "path": "/media/02.the-golden-age/wormhole.jpg"
             }
+          ],
+          "keywords": [
+            "interplanetary",
+            "entanglement"
           ]
         },
         {
@@ -368,6 +487,12 @@
               "end": -3147,
               "calendar": "BCE"
             }
+          ],
+          "keywords": [
+            "collinear",
+            "configuration",
+            "became",
+            "unstable"
           ]
         }
       ],
@@ -392,6 +517,9 @@
         {
           "path": "/media/02.the-golden-age/cosmic_mountain.jpg"
         }
+      ],
+      "keywords": [
+        "golden"
       ]
     },
     {
@@ -420,6 +548,12 @@
             {
               "path": "/media/03.the-dark-ages/golden_age_ends_great_deluge.jpg"
             }
+          ],
+          "keywords": [
+            "3147",
+            "golden",
+            "ends",
+            "violently"
           ]
         },
         {
@@ -439,6 +573,12 @@
             {
               "path": "/media/03.the-dark-ages/pyramids_around_the_world.png"
             }
+          ],
+          "keywords": [
+            "humanity",
+            "cast",
+            "out",
+            "garden"
           ]
         },
         {
@@ -461,6 +601,18 @@
             {
               "path": "/media/03.the-dark-ages/planet_narnia.jpg"
             }
+          ],
+          "keywords": [
+            "jupiter",
+            "replaces",
+            "saturn",
+            "new",
+            "saviour",
+            "aka",
+            "zeus",
+            "thor",
+            "king",
+            "arthur"
           ]
         },
         {
@@ -483,6 +635,12 @@
             {
               "path": "/media/03.the-dark-ages/history_pyramid_gates1.jpg"
             }
+          ],
+          "keywords": [
+            "pyramids",
+            "myths",
+            "vs",
+            "reality"
           ]
         },
         {
@@ -505,6 +663,11 @@
             {
               "path": "/media/03.the-dark-ages/planet_venus_as_medusa.jpg"
             }
+          ],
+          "keywords": [
+            "september",
+            "jupiter",
+            "disappears"
           ]
         },
         {
@@ -527,6 +690,14 @@
             {
               "path": "/media/03.the-dark-ages/mount_sinai.jpg"
             }
+          ],
+          "keywords": [
+            "leaves",
+            "last",
+            "absu",
+            "layer",
+            "seasons",
+            "begin"
           ]
         },
         {
@@ -546,6 +717,14 @@
             {
               "path": "/media/03.the-dark-ages/sodom_and_gomorrah.jpg"
             }
+          ],
+          "keywords": [
+            "1936",
+            "sodom",
+            "gomorrah",
+            "completely",
+            "destroyed",
+            "mars"
           ]
         },
         {
@@ -566,6 +745,12 @@
                   "end": -1492,
                   "calendar": "BCE"
                 }
+              ],
+              "keywords": [
+                "length",
+                "jumps",
+                "rotations",
+                "days"
               ]
             },
             {
@@ -588,6 +773,16 @@
                 {
                   "path": "/media/03.the-dark-ages/chinese_dragon.jpg"
                 }
+              ],
+              "keywords": [
+                "venus",
+                "replaces",
+                "jupiter",
+                "new",
+                "saviour",
+                "aka",
+                "joshua",
+                "lucifer"
               ]
             }
           ],
@@ -602,6 +797,15 @@
             {
               "path": "/media/03.the-dark-ages/exodus.jpg"
             }
+          ],
+          "keywords": [
+            "1492",
+            "passover",
+            "comet",
+            "venus",
+            "exodus",
+            "pyramidal",
+            "empire"
           ]
         },
         {
@@ -624,6 +828,12 @@
             {
               "path": "/media/03.the-dark-ages/cathoderal.jpg"
             }
+          ],
+          "keywords": [
+            "1442",
+            "sun",
+            "stands",
+            "joshua"
           ]
         },
         {
@@ -643,6 +853,15 @@
             {
               "path": "/media/03.the-dark-ages/prometheus.jpg"
             }
+          ],
+          "keywords": [
+            "mars",
+            "aka",
+            "prometheus",
+            "replaces",
+            "venus",
+            "new",
+            "saviour"
           ]
         },
         {
@@ -657,6 +876,16 @@
               "end": -670,
               "calendar": "BCE"
             }
+          ],
+          "keywords": [
+            "march",
+            "priori",
+            "mars",
+            "loses",
+            "its",
+            "priori-mars",
+            "outer",
+            "shell"
           ]
         },
         {
@@ -676,6 +905,16 @@
             {
               "path": "/media/03.the-dark-ages/lunar_calendar.jpg"
             }
+          ],
+          "keywords": [
+            "solar",
+            "system",
+            "becomes",
+            "stable",
+            "mars",
+            "mercury",
+            "finalize",
+            "orbits"
           ]
         },
         {
@@ -695,6 +934,14 @@
             {
               "path": "/media/03.the-dark-ages/wuxing-five-planets.png"
             }
+          ],
+          "keywords": [
+            "wuxing",
+            "five",
+            "planets",
+            "elements",
+            "observational",
+            "record"
           ]
         }
       ],
@@ -714,6 +961,10 @@
           "path": "/media/03.the-dark-ages/chapter-events.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "dark",
+        "ages"
       ]
     },
     {
@@ -732,6 +983,10 @@
             {
               "path": "/media/04.the-blip/building-new-chronology.png"
             }
+          ],
+          "keywords": [
+            "building",
+            "new"
           ]
         }
       ],
@@ -751,6 +1006,9 @@
           "path": "/media/04.the-blip/chapter-span.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "blip"
       ]
     },
     {
@@ -769,6 +1027,13 @@
             {
               "path": "/media/05.ce-11th-common-era-begins/year-of-the-lord-deception.png"
             }
+          ],
+          "keywords": [
+            "our",
+            "lord",
+            "deception",
+            "anno",
+            "domini"
           ]
         },
         {
@@ -784,6 +1049,13 @@
             {
               "path": "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour2.png"
             }
+          ],
+          "keywords": [
+            "sun",
+            "replaces",
+            "mars",
+            "new",
+            "saviour"
           ]
         },
         {
@@ -802,6 +1074,11 @@
                 {
                   "path": "/media/05.ce-11th-common-era-begins/constancy.png"
                 }
+              ],
+              "keywords": [
+                "new",
+                "religion",
+                "constancy"
               ]
             }
           ],
@@ -812,6 +1089,14 @@
             {
               "path": "/media/05.ce-11th-common-era-begins/troy_1st_jerusalem.jpg"
             }
+          ],
+          "keywords": [
+            "deep",
+            "state",
+            "centralize",
+            "world",
+            "centralizes",
+            "religion"
           ]
         }
       ],
@@ -836,6 +1121,12 @@
         {
           "path": "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour.png"
         }
+      ],
+      "keywords": [
+        "11th",
+        "common",
+        "begins",
+        "th"
       ]
     },
     {
@@ -863,6 +1154,15 @@
                 {
                   "path": "/media/06.ce-12th-birth-of-christianity/hairy_mary.jpg"
                 }
+              ],
+              "keywords": [
+                "hairy",
+                "mary",
+                "wild",
+                "woman",
+                "threatened",
+                "patriarchal",
+                "religion"
               ]
             }
           ],
@@ -870,6 +1170,13 @@
             {
               "path": "/media/06.ce-12th-birth-of-christianity/giant_books.jpg"
             }
+          ],
+          "keywords": [
+            "deep",
+            "state",
+            "census",
+            "naming",
+            "christ"
           ]
         },
         {
@@ -889,6 +1196,13 @@
             {
               "path": "/media/06.ce-12th-birth-of-christianity/map_tartaria_hondius.jpg"
             }
+          ],
+          "keywords": [
+            "1152",
+            "historical",
+            "christ",
+            "born",
+            "crimea"
           ]
         },
         {
@@ -907,6 +1221,10 @@
                 {
                   "path": "/media/06.ce-12th-birth-of-christianity/tomb_of_christ.png"
                 }
+              ],
+              "keywords": [
+                "brother",
+                "cross"
               ]
             }
           ],
@@ -923,6 +1241,11 @@
             {
               "path": "/media/06.ce-12th-birth-of-christianity/1185ce_giant_crucifixion.png"
             }
+          ],
+          "keywords": [
+            "christ",
+            "crucified",
+            "istanbul"
           ]
         },
         {
@@ -930,7 +1253,13 @@
           "title": "Revolution Despite Christ's Martyrdom",
           "type": "article",
           "md_path": "content/06.ce-12th-birth-of-christianity/06.04.00-revolution-despite-martyrdom.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "revolution",
+            "despite",
+            "martyrdom",
+            "christ"
+          ]
         },
         {
           "id": "evt-the-first-crusade-trojan-war",
@@ -942,6 +1271,12 @@
             {
               "path": "/media/06.ce-12th-birth-of-christianity/1196_revenge_for_christ.png"
             }
+          ],
+          "keywords": [
+            "first",
+            "crusade",
+            "trojan",
+            "war"
           ]
         }
       ],
@@ -964,6 +1299,12 @@
         {
           "path": "/media/06.ce-12th-birth-of-christianity/twelve_tribes_zodiac.jpg"
         }
+      ],
+      "keywords": [
+        "12th",
+        "birth",
+        "christianity",
+        "th"
       ]
     },
     {
@@ -988,6 +1329,13 @@
                 {
                   "path": "/media/07.ce-13th-the-russian-horde-tartarian-empire/the-masons.png"
                 }
+              ],
+              "keywords": [
+                "masons",
+                "imperial",
+                "builders",
+                "rus-horde",
+                "empire"
               ]
             },
             {
@@ -1003,6 +1351,12 @@
                 {
                   "path": "/media/07.ce-13th-the-russian-horde-tartarian-empire/giants_write_books.png"
                 }
+              ],
+              "keywords": [
+                "giants",
+                "rus",
+                "horde",
+                "rus-horde"
               ]
             }
           ],
@@ -1016,6 +1370,10 @@
             {
               "path": "/media/07.ce-13th-the-russian-horde-tartarian-empire/giants_write_books.png"
             }
+          ],
+          "keywords": [
+            "second",
+            "golden"
           ]
         },
         {
@@ -1035,6 +1393,12 @@
             {
               "path": "/media/07.ce-13th-the-russian-horde-tartarian-empire/1258ce_christ_dies.png"
             }
+          ],
+          "keywords": [
+            "1258",
+            "historical",
+            "christ",
+            "dies"
           ]
         },
         {
@@ -1054,6 +1418,12 @@
             {
               "path": "/media/07.ce-13th-the-russian-horde-tartarian-empire/1285_olympics.png"
             }
+          ],
+          "keywords": [
+            "1285",
+            "first",
+            "olympic",
+            "games"
           ]
         }
       ],
@@ -1081,6 +1451,15 @@
         {
           "path": "/media/07.ce-13th-the-russian-horde-tartarian-empire/israel_fake_history.jpg"
         }
+      ],
+      "keywords": [
+        "13th",
+        "russian",
+        "horde",
+        "tartarian",
+        "empire",
+        "th",
+        "emerges"
       ]
     },
     {
@@ -1101,6 +1480,12 @@
               "end": 1300,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1300",
+            "european",
+            "religious",
+            "schism"
           ]
         },
         {
@@ -1119,6 +1504,12 @@
                 {
                   "path": "/media/08.ce-14th-great-expansion-of-the-mongol-slav/castles-vs-giants.png"
                 }
+              ],
+              "keywords": [
+                "european",
+                "castles",
+                "fortresses",
+                "giants"
               ]
             }
           ],
@@ -1129,6 +1520,12 @@
             {
               "path": "/media/08.ce-14th-great-expansion-of-the-mongol-slav/extraordinary_black_book.jpg"
             }
+          ],
+          "keywords": [
+            "giants",
+            "defeated",
+            "battle",
+            "kulikovo"
           ]
         },
         {
@@ -1147,6 +1544,13 @@
                 {
                   "path": "/media/08.ce-14th-great-expansion-of-the-mongol-slav/pyramid-concrete.png"
                 }
+              ],
+              "keywords": [
+                "geopolymer",
+                "concrete",
+                "horde",
+                "secret",
+                "construction"
               ]
             },
             {
@@ -1154,13 +1558,22 @@
               "title": "Freemasonry: From Operative to Speculative",
               "type": "article",
               "md_path": "content/08.ce-14th-great-expansion-of-the-mongol-slav/08.03.02-freemasonry-operative-to-speculative.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "freemasonry",
+                "operative"
+              ]
             }
           ],
           "media": [
             {
               "path": "/media/08.ce-14th-great-expansion-of-the-mongol-slav/imperial-technology.png"
             }
+          ],
+          "keywords": [
+            "imperial",
+            "technology",
+            "knowledge"
           ]
         }
       ],
@@ -1185,6 +1598,15 @@
         {
           "path": "/media/08.ce-14th-great-expansion-of-the-mongol-slav/14th-hundred-years-war-begins.png"
         }
+      ],
+      "keywords": [
+        "14th",
+        "great",
+        "expansion",
+        "triumph",
+        "betr",
+        "th",
+        "betrayal"
       ]
     },
     {
@@ -1213,6 +1635,12 @@
             {
               "path": "/media/09.ce-15th-ottoman-conquest-of-europe/star-metal.png"
             }
+          ],
+          "keywords": [
+            "1421",
+            "meteorite",
+            "falls",
+            "yaroslavl"
           ]
         },
         {
@@ -1227,6 +1655,14 @@
               "end": 1453,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1453",
+            "fall",
+            "czar",
+            "grad",
+            "constantinople",
+            "czar-grad"
           ]
         },
         {
@@ -1245,6 +1681,14 @@
                 {
                   "path": "/media/09.ce-15th-ottoman-conquest-of-europe/latin-language-of-deep-state.png"
                 }
+              ],
+              "keywords": [
+                "language",
+                "deep",
+                "state",
+                "gutenberg",
+                "bible",
+                "latin"
               ]
             }
           ],
@@ -1252,6 +1696,14 @@
             {
               "path": "/media/09.ce-15th-ottoman-conquest-of-europe/christianity-redacted-into-monotheism.png"
             }
+          ],
+          "keywords": [
+            "deep",
+            "state",
+            "redacts",
+            "christianity",
+            "jesuit",
+            "catholicism"
           ]
         },
         {
@@ -1259,7 +1711,12 @@
           "title": "Revelation of the Coming Apocalypse",
           "type": "article",
           "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.04.00-revelation-coming-apocalypse.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "revelation",
+            "coming",
+            "apocalypse"
+          ]
         },
         {
           "id": "evt-1492-ce-the-apocalypse-crusade",
@@ -1287,6 +1744,11 @@
             {
               "path": "/media/09.ce-15th-ottoman-conquest-of-europe/apocalypse_b_west.jpg"
             }
+          ],
+          "keywords": [
+            "1492",
+            "apocalypse",
+            "crusade"
           ]
         },
         {
@@ -1298,6 +1760,24 @@
           "media": [
             {
               "path": "/media/08.ce-14th-great-expansion-of-the-mongol-slav/reverse-exodus-theory.png"
+            }
+          ],
+          "keywords": [
+            "reverse",
+            "exodus"
+          ]
+        },
+        {
+          "id": "evt-1463-ce-man-eating-griffins-extinction",
+          "title": "1463 CE \u2014 Man-eating griffins and the steppe extinction campaign",
+          "type": "event",
+          "md_path": "content/09.ce-15th-ottoman-conquest-of-europe/09.07.00-1463-ce-man-eating-griffins-extinction.md",
+          "children": [],
+          "dates": [
+            {
+              "start": 1463,
+              "end": 1463,
+              "calendar": "CE"
             }
           ]
         }
@@ -1323,6 +1803,13 @@
         {
           "path": "/media/09.ce-15th-ottoman-conquest-of-europe/1421CE-meteor-yaroslavl.png"
         }
+      ],
+      "keywords": [
+        "15th",
+        "ottoman",
+        "conquest",
+        "europe",
+        "th"
       ]
     },
     {
@@ -1341,6 +1828,12 @@
             {
               "path": "/media/10.ce-16th-reformation-and-inquisition/galileo_facing_the_inquisition.jpg"
             }
+          ],
+          "keywords": [
+            "jesuits",
+            "make",
+            "pilgrimage",
+            "jerusalem"
           ]
         },
         {
@@ -1359,6 +1852,10 @@
                 {
                   "path": "/media/10.ce-16th-reformation-and-inquisition/cathar_suppression.jpg"
                 }
+              ],
+              "keywords": [
+                "heresy",
+                "judaizers"
               ]
             },
             {
@@ -1366,14 +1863,23 @@
               "title": "Cathar Suppression",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.03.02-cathar-suppression.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "cathar",
+                "suppression"
+              ]
             },
             {
               "id": "evt-pentateuch-as-horde-chronicle",
               "title": "The Pentateuch as a Horde Chronicle",
               "type": "article",
               "md_path": "content/10.ce-16th-reformation-and-inquisition/10.03.03-pentateuch-as-horde-chronicle.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "pentateuch",
+                "horde",
+                "chronicle"
+              ]
             }
           ],
           "dates": [
@@ -1387,6 +1893,11 @@
             {
               "path": "/media/10.ce-16th-reformation-and-inquisition/jews_vs_gentiles.jpg"
             }
+          ],
+          "keywords": [
+            "1542",
+            "holy",
+            "inquisition"
           ]
         },
         {
@@ -1409,6 +1920,15 @@
             {
               "path": "/media/09.ce-15th-ottoman-conquest-of-europe/painting_samson_and_delilah_by_rubens.jpg"
             }
+          ],
+          "keywords": [
+            "1580",
+            "jeanne",
+            "darc",
+            "executed",
+            "rouen",
+            "france",
+            "arc"
           ]
         },
         {
@@ -1427,8 +1947,21 @@
                 {
                   "path": "/media/10.ce-16th-reformation-and-inquisition/cathar-khazar-katya.png"
                 }
+              ],
+              "keywords": [
+                "cathar",
+                "khazar",
+                "katya",
+                "link",
+                "connection"
               ]
             }
+          ],
+          "keywords": [
+            "khazar",
+            "rebellion",
+            "horde",
+            "empire"
           ]
         },
         {
@@ -1448,6 +1981,14 @@
             {
               "path": "/media/10.ce-16th-reformation-and-inquisition/oprichniki_bish.jpg"
             }
+          ],
+          "keywords": [
+            "1565",
+            "romanov",
+            "dynasty",
+            "stages",
+            "oprichnina",
+            "coup"
           ]
         },
         {
@@ -1455,7 +1996,14 @@
           "title": "Gregorian Calendar Correction",
           "type": "article",
           "md_path": "content/10.ce-16th-reformation-and-inquisition/10.07.00-gregorian-calendar-makes-slight.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "gregorian",
+            "calendar",
+            "makes",
+            "slight",
+            "correction"
+          ]
         }
       ],
       "dates": [
@@ -1480,6 +2028,12 @@
         {
           "path": "/media/10.ce-16th-reformation-and-inquisition/painting_german_peasant_war_1525.jpg"
         }
+      ],
+      "keywords": [
+        "16th",
+        "reformation",
+        "inquisition",
+        "th"
       ]
     },
     {
@@ -1506,6 +2060,16 @@
                   "end": 1613,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1613",
+                "romanovs",
+                "zakharyin",
+                "yurievs",
+                "dynasty",
+                "takes",
+                "throne",
+                "romanovs-zakharyin-yurievs"
               ]
             },
             {
@@ -1520,6 +2084,14 @@
                   "end": 1627,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1627",
+                "deep",
+                "state",
+                "erases",
+                "russian",
+                "empire"
               ]
             },
             {
@@ -1532,8 +2104,20 @@
                 {
                   "path": "/media/11.ce-17th-romanovs-rise-to-power/shakespeare-encodes-the-horde.png"
                 }
+              ],
+              "keywords": [
+                "shakespeare",
+                "encodes",
+                "horde"
               ]
             }
+          ],
+          "keywords": [
+            "romanov",
+            "seizure",
+            "fracturing",
+            "hordian",
+            "empire"
           ]
         },
         {
@@ -1547,7 +2131,15 @@
               "title": "Cathars are annihilated in a *reversed* \"Holy\" Crusade & Inquisition",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.02.01-cathars-are-annihilated-in-a-reversed-holy-crusade-inquisition.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "cathars",
+                "annihilated",
+                "reversed",
+                "holy",
+                "crusade",
+                "inquisition"
+              ]
             },
             {
               "id": "evt-1618-ce-great-fight-in-the-heart-of-western-europe",
@@ -1561,6 +2153,14 @@
                   "end": 1618,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1618",
+                "great",
+                "fight",
+                "heart",
+                "western",
+                "europe"
               ]
             },
             {
@@ -1580,6 +2180,13 @@
                 {
                   "path": "/media/11.ce-17th-romanovs-rise-to-power/1652_massacre_of_polish_captives_at_batih.jpg"
                 }
+              ],
+              "keywords": [
+                "1642",
+                "english",
+                "revolution",
+                "civil",
+                "wars"
               ]
             },
             {
@@ -1594,8 +2201,25 @@
                   "end": 1648,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1648",
+                "cossack",
+                "polish",
+                "war",
+                "begins",
+                "ethnic",
+                "cleansing",
+                "russia",
+                "russians",
+                "ukraine"
               ]
             }
+          ],
+          "keywords": [
+            "resistance",
+            "religious",
+            "wars"
           ]
         },
         {
@@ -1616,8 +2240,18 @@
                   "end": 1633,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1633",
+                "disputes",
+                "jews",
+                "reemerge"
               ]
             }
+          ],
+          "keywords": [
+            "marfull",
+            "framework"
           ]
         },
         {
@@ -1643,6 +2277,11 @@
                 {
                   "path": "/media/11.ce-17th-romanovs-rise-to-power/great_comet_of_1665.jpg"
                 }
+              ],
+              "keywords": [
+                "1666",
+                "apocalypse",
+                "prophecy"
               ]
             },
             {
@@ -1657,6 +2296,13 @@
                   "end": 1666,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1666",
+                "london",
+                "burns",
+                "ground",
+                "sept"
               ]
             },
             {
@@ -1664,7 +2310,13 @@
               "title": "The Goldsmiths and the Death of Independent Valuation",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.04.03-the-goldsmiths-and-the-death-of-independent-valuation.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "goldsmiths",
+                "death",
+                "independent",
+                "valuation"
+              ]
             },
             {
               "id": "evt-1668-ce-the-cabal-englands-shadow-cabinet",
@@ -1678,6 +2330,14 @@
                   "end": 1668,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1668",
+                "cabal",
+                "englands",
+                "shadow",
+                "cabinet",
+                "england"
               ]
             }
           ],
@@ -1687,6 +2347,13 @@
               "end": 1694,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "london",
+            "1664",
+            "1694",
+            "financial",
+            "coup"
           ]
         },
         {
@@ -1700,8 +2367,22 @@
               "title": "Jesuits Missions convert Asians to Buddhism",
               "type": "article",
               "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.05.01-jesuits-missions-convert-asians-to-buddhism.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "jesuits",
+                "missions",
+                "convert",
+                "asians",
+                "buddhism"
+              ]
             }
+          ],
+          "keywords": [
+            "british",
+            "empire",
+            "deep",
+            "state",
+            "instrument"
           ]
         },
         {
@@ -1709,7 +2390,13 @@
           "title": "Slave Trades and the Horde Fracture",
           "type": "article",
           "md_path": "content/11.ce-17th-romanovs-rise-to-power/11.06.00-slave-trades-and-the-horde-fracture.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "slave",
+            "trades",
+            "horde",
+            "fracture"
+          ]
         }
       ],
       "dates": [
@@ -1730,6 +2417,13 @@
         {
           "path": "/media/11.ce-17th-romanovs-rise-to-power/king_james_bible.jpg"
         }
+      ],
+      "keywords": [
+        "17th",
+        "empire",
+        "invisible",
+        "government",
+        "th"
       ]
     },
     {
@@ -1750,6 +2444,11 @@
               "end": 1773,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1773",
+            "rebellion",
+            "pugachev"
           ]
         },
         {
@@ -1769,6 +2468,17 @@
             "evt-mars-literature-as-reclassified-nonfiction",
             "evt-predictive-programming-literature",
             "evt-1774-ce-the-mars-catastrophe"
+          ],
+          "keywords": [
+            "1726",
+            "gullivers",
+            "travels",
+            "managed",
+            "disclosure",
+            "gulliver",
+            "travel",
+            "satire",
+            "shell"
           ]
         },
         {
@@ -1781,6 +2491,11 @@
             {
               "path": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png"
             }
+          ],
+          "keywords": [
+            "mudflood",
+            "world",
+            "cataclysm"
           ]
         },
         {
@@ -1793,6 +2508,11 @@
             {
               "path": "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png"
             }
+          ],
+          "keywords": [
+            "instant",
+            "fossilization",
+            "electric"
           ]
         },
         {
@@ -1818,6 +2538,17 @@
                 {
                   "path": "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png"
                 }
+              ],
+              "keywords": [
+                "1774",
+                "mars",
+                "catastrophe",
+                "brandenburgs",
+                "nuclear",
+                "evidence",
+                "research",
+                "dead",
+                "end"
               ]
             }
           ],
@@ -1835,6 +2566,11 @@
             {
               "path": "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png"
             }
+          ],
+          "keywords": [
+            "1774",
+            "mars",
+            "catastrophe"
           ]
         },
         {
@@ -1849,6 +2585,11 @@
               "end": 1775,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1775",
+            "american",
+            "revolution"
           ]
         },
         {
@@ -1863,6 +2604,11 @@
               "end": 1789,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1789",
+            "french",
+            "revolution"
           ]
         },
         {
@@ -1870,7 +2616,14 @@
           "title": "Trail of Tears: Century-Long Erasure",
           "type": "article",
           "md_path": "content/12.ce-18th-mudflood-and-pugachev/12.08.00-trail-tears-century-long-erasure.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "trail",
+            "tears",
+            "long",
+            "erasure",
+            "century-long"
+          ]
         }
       ],
       "dates": [
@@ -1888,6 +2641,14 @@
           "path": "/media/12.ce-18th-mudflood-and-pugachev/chapter-events.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "18th",
+        "mudflood",
+        "pugachev",
+        "th",
+        "jesuit",
+        "order"
       ]
     },
     {
@@ -1914,6 +2675,14 @@
                   "end": 1814,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1814",
+                "aftermath",
+                "1812",
+                "russian",
+                "pursuit",
+                "paris"
               ]
             },
             {
@@ -1933,6 +2702,14 @@
                 {
                   "path": "/media/13.ce-19th-rise-of-communism/last-absu-seen.png"
                 }
+              ],
+              "keywords": [
+                "1840",
+                "ecliptic",
+                "pathway",
+                "absu",
+                "last",
+                "seen"
               ]
             },
             {
@@ -1947,6 +2724,13 @@
                   "end": 1880,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1880",
+                "tchaikovsky",
+                "releases",
+                "1812",
+                "overture"
               ]
             }
           ],
@@ -1956,6 +2740,12 @@
               "end": 1815,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "napoleonic",
+            "wars",
+            "reverse",
+            "crusades"
           ]
         },
         {
@@ -1974,6 +2764,11 @@
             {
               "path": "/media/13.ce-19th-rise-of-communism/gottfried-kinkel-escape.png"
             }
+          ],
+          "keywords": [
+            "battle",
+            "communism",
+            "soul"
           ]
         },
         {
@@ -1981,7 +2776,14 @@
           "title": "19th Century Assault on Hordian Communalism",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.03.00-19th-century-assault-on-hordian.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "19th",
+            "assault",
+            "hordian",
+            "th",
+            "communalism"
+          ]
         },
         {
           "id": "evt-jesuit-restoration-mission-pattern",
@@ -1993,6 +2795,12 @@
             {
               "path": "/media/13.ce-19th-rise-of-communism/jesuit-restoration-mission-pattern.png"
             }
+          ],
+          "keywords": [
+            "jesuit",
+            "restoration",
+            "mission",
+            "pattern"
           ]
         },
         {
@@ -2007,6 +2815,12 @@
               "end": 1861,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1861",
+            "us",
+            "civil",
+            "war"
           ]
         },
         {
@@ -2014,7 +2828,13 @@
           "title": "19th Century Weapons & Declassification",
           "type": "article",
           "md_path": "content/13.ce-19th-rise-of-communism/13.06.00-19th-century-weapons.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "19th",
+            "weapons",
+            "th",
+            "declassification"
+          ]
         },
         {
           "id": "evt-suppression-of-maxwell-aether",
@@ -2026,6 +2846,11 @@
             {
               "path": "/media/13.ce-19th-rise-of-communism/maxwell-was-right.png"
             }
+          ],
+          "keywords": [
+            "suppression",
+            "maxwell",
+            "aether"
           ]
         },
         {
@@ -2046,6 +2871,15 @@
             "evt-the-mudflood-world-cataclysm",
             "evt-slow-ecological-collapse-mfee-donner-appendix",
             "evt-mudflood-evidence"
+          ],
+          "keywords": [
+            "blood",
+            "rain",
+            "phenomenon",
+            "blood-rain",
+            "th-century",
+            "ecological",
+            "tail"
           ]
         }
       ],
@@ -2064,6 +2898,12 @@
           "path": "/media/13.ce-19th-rise-of-communism/chapter-events.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "19th",
+        "rise",
+        "communism",
+        "th"
       ]
     },
     {
@@ -2090,8 +2930,27 @@
                   "end": 1934,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1914",
+                "1934",
+                "marie",
+                "curie",
+                "radiography",
+                "radiation",
+                "narrative",
+                "field",
+                "martyr",
+                "arc"
               ]
             }
+          ],
+          "keywords": [
+            "world",
+            "war",
+            "reverse",
+            "crusade",
+            "ii"
           ]
         },
         {
@@ -2112,8 +2971,22 @@
                   "end": 1919,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1919",
+                "aftermath",
+                "flight",
+                "exile",
+                "erasure"
               ]
             }
+          ],
+          "keywords": [
+            "bolshevik",
+            "revolution",
+            "fulfilment",
+            "marxist",
+            "plan"
           ]
         },
         {
@@ -2121,21 +2994,36 @@
           "title": "Russian Intellectual Emigration",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.03.00-russian-intellectual-emigration.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "russian",
+            "intellectual",
+            "emigration"
+          ]
         },
         {
           "id": "evt-soviet-historiography-final-layer",
           "title": "Soviet Historiography: Final Layer",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.04.00-soviet-historiography-final-layer.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "soviet",
+            "historiography",
+            "final",
+            "layer"
+          ]
         },
         {
           "id": "evt-from-missionaries-to-corporations",
           "title": "From Missionaries to Corporations",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.05.00-from-missionaries-to-corporations.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "missionaries",
+            "corporations"
+          ]
         },
         {
           "id": "evt-american-chestnut-blight-martian",
@@ -2147,6 +3035,14 @@
             {
               "path": "/media/14.ce-20th-the-1917-revolution/chestnut-blight.png"
             }
+          ],
+          "keywords": [
+            "american",
+            "chestnut",
+            "blight",
+            "martian",
+            "incursion",
+            "contamination"
           ]
         },
         {
@@ -2159,6 +3055,11 @@
             {
               "path": "/media/14.ce-20th-the-1917-revolution/mockingbird.png"
             }
+          ],
+          "keywords": [
+            "mockingbird",
+            "public",
+            "erasure"
           ]
         },
         {
@@ -2166,21 +3067,42 @@
           "title": "Mars Literature as Reclassified Nonfiction",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.08.00-mars-literature-as-reclassified-nonfiction.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "mars",
+            "literature",
+            "reclassified",
+            "nonfiction"
+          ]
         },
         {
           "id": "evt-nuclear-energy-bomb-most",
           "title": "Nuclear Energy & \"Bomb\": Most Dangerous Deception",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.09.00-nuclear-energy-bomb-most.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "nuclear",
+            "energy",
+            "bomb",
+            "dangerous",
+            "deception"
+          ]
         },
         {
           "id": "evt-weather-control-from-martian",
           "title": "Weather Control: From Martian Weapons to Modern Programs",
           "type": "article",
           "md_path": "content/14.ce-20th-the-1917-revolution/14.10.00-weather-control-from-martian.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "weather",
+            "control",
+            "martian",
+            "weapons",
+            "modern",
+            "programs"
+          ]
         },
         {
           "id": "evt-flexner-report-suppression-of",
@@ -2192,6 +3114,13 @@
             {
               "path": "/media/14.ce-20th-the-1917-revolution/tennant-electricity-in-the-body.png"
             }
+          ],
+          "keywords": [
+            "flexner",
+            "report",
+            "suppression",
+            "bioelectric",
+            "medicine"
           ]
         },
         {
@@ -2205,7 +3134,13 @@
               "title": "World War II Aftermath",
               "type": "article",
               "md_path": "content/14.ce-20th-the-1917-revolution/14.12.01-world-war-ii-aftermath.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "world",
+                "war",
+                "ii",
+                "aftermath"
+              ]
             },
             {
               "id": "evt-1948-ce-israel-creation-british-mandate",
@@ -2219,6 +3154,16 @@
                   "end": 1948,
                   "calendar": "CE"
                 }
+              ],
+              "keywords": [
+                "1948",
+                "israel",
+                "creation",
+                "british",
+                "mandate",
+                "divide-and-conquer",
+                "false",
+                "geography"
               ]
             },
             {
@@ -2238,8 +3183,28 @@
                 {
                   "path": "/media/14.ce-20th-the-1917-revolution/cia-to-oss.png"
                 }
+              ],
+              "keywords": [
+                "1947",
+                "central",
+                "intelligence",
+                "agency",
+                "oss",
+                "rebrand",
+                "cold",
+                "war",
+                "deep",
+                "state"
               ]
             }
+          ],
+          "keywords": [
+            "world",
+            "war",
+            "ii",
+            "reverse",
+            "crusade",
+            "iii"
           ]
         },
         {
@@ -2254,6 +3219,11 @@
               "end": 1991,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "1991",
+            "soviet",
+            "collapse"
           ]
         }
       ],
@@ -2273,6 +3243,13 @@
           "path": "/media/14.ce-20th-the-1917-revolution/chapter-events.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "20th",
+        "reverse",
+        "crusades",
+        "continue",
+        "th"
       ]
     },
     {
@@ -2286,7 +3263,14 @@
           "title": "Censorship and Book Burning: From Alexandria to the Internet",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.01.00-censorship-book-burning-from.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "censorship",
+            "book",
+            "burning",
+            "alexandria",
+            "internet"
+          ]
         },
         {
           "id": "evt-20th-c-predictive-programming",
@@ -2298,6 +3282,12 @@
             {
               "path": "/media/13.ce-19th-rise-of-communism/wells-spinster.png"
             }
+          ],
+          "keywords": [
+            "20th",
+            "predictive",
+            "programming",
+            "th"
           ]
         },
         {
@@ -2317,6 +3307,17 @@
             {
               "path": "/media/15.ce-21st-the-final-struggle/wuxing-suppression.png"
             }
+          ],
+          "keywords": [
+            "suppression",
+            "wuxing",
+            "four",
+            "elements",
+            "replacement",
+            "air",
+            "erasure",
+            "planetary",
+            "science"
           ]
         },
         {
@@ -2324,14 +3325,27 @@
           "title": "False Flags: Architecture of Manufactured War",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "false",
+            "flags",
+            "architecture",
+            "manufactured",
+            "war"
+          ]
         },
         {
           "id": "evt-population-control-from-1492-to",
           "title": "Population Control: From 1492 to the Present",
           "type": "article",
           "md_path": "content/15.ce-21st-the-final-struggle/15.05.00-population-control-from-1492-to.md",
-          "children": []
+          "children": [],
+          "keywords": [
+            "population",
+            "control",
+            "1492",
+            "present"
+          ]
         },
         {
           "id": "evt-2009-ce-cern-s-lhc-portal",
@@ -2345,6 +3359,13 @@
               "end": 2009,
               "calendar": "CE"
             }
+          ],
+          "keywords": [
+            "2009",
+            "cern",
+            "lhc",
+            "portal",
+            "technology"
           ]
         },
         {
@@ -2358,13 +3379,28 @@
               "title": "Trump and the MAGA Revolution: The Antibody That Survived Crucifixion",
               "type": "article",
               "md_path": "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "trump",
+                "maga",
+                "revolution",
+                "antibody",
+                "survived",
+                "crucifixion"
+              ]
             }
           ],
           "media": [
             {
               "path": "/media/15.ce-21st-the-final-struggle/15.07.00-historical-antibodies.png"
             }
+          ],
+          "keywords": [
+            "historical",
+            "antibodies",
+            "independent",
+            "agents",
+            "erasure"
           ]
         },
         {
@@ -2384,6 +3420,10 @@
             {
               "path": "/media/15.ce-21st-the-final-struggle/15.08.00-where-we-go-from-here.png"
             }
+          ],
+          "keywords": [
+            "go",
+            "do"
           ]
         }
       ],
@@ -2402,6 +3442,15 @@
           "path": "/media/15.ce-21st-the-final-struggle/chapter-events.svg",
           "bookIllustration": true
         }
+      ],
+      "keywords": [
+        "21st",
+        "final",
+        "struggle",
+        "reverse",
+        "crusade",
+        "iv",
+        "st"
       ]
     },
     {
@@ -2426,6 +3475,9 @@
                 {
                   "path": "/media/16.appendix/na-morozov.png"
                 }
+              ],
+              "keywords": [
+                "morozov"
               ]
             },
             {
@@ -2438,6 +3490,10 @@
                 {
                   "path": "/media/16.appendix/wal-thornhill.png"
                 }
+              ],
+              "keywords": [
+                "wal",
+                "thornhill"
               ]
             },
             {
@@ -2459,6 +3515,10 @@
                 {
                   "path": "/media/00.overview/ralph_juergens_murdered.png"
                 }
+              ],
+              "keywords": [
+                "ralph",
+                "juergens"
               ]
             },
             {
@@ -2471,6 +3531,10 @@
                 {
                   "path": "/media/16.appendix/immanuel-velikovsky.png"
                 }
+              ],
+              "keywords": [
+                "immanuel",
+                "velikovsky"
               ]
             },
             {
@@ -2483,6 +3547,10 @@
                 {
                   "path": "/media/16.appendix/anatoly-fomenko.png"
                 }
+              ],
+              "keywords": [
+                "anatoly",
+                "fomenko"
               ]
             },
             {
@@ -2495,6 +3563,10 @@
                 {
                   "path": "/media/16.appendix/david-talbott.png"
                 }
+              ],
+              "keywords": [
+                "david",
+                "talbott"
               ]
             },
             {
@@ -2507,6 +3579,10 @@
                 {
                   "path": "/media/16.appendix/anthony-peratt.png"
                 }
+              ],
+              "keywords": [
+                "anthony",
+                "peratt"
               ]
             },
             {
@@ -2519,6 +3595,10 @@
                 {
                   "path": "/media/16.appendix/jno-cook.png"
                 }
+              ],
+              "keywords": [
+                "jno",
+                "cook"
               ]
             },
             {
@@ -2531,6 +3611,11 @@
                 {
                   "path": "/media/16.appendix/alfred-de-grazia.png"
                 }
+              ],
+              "keywords": [
+                "alfred",
+                "de",
+                "grazia"
               ]
             },
             {
@@ -2543,6 +3628,10 @@
                 {
                   "path": "/media/16.appendix/donald-scott.png"
                 }
+              ],
+              "keywords": [
+                "donald",
+                "scott"
               ]
             },
             {
@@ -2555,6 +3644,10 @@
                 {
                   "path": "/media/16.appendix/ev-cochrane.png"
                 }
+              ],
+              "keywords": [
+                "ev",
+                "cochrane"
               ]
             },
             {
@@ -2567,6 +3660,14 @@
                 {
                   "path": "/media/16.appendix/Giorgio-de-Santillana-Hertha-von-Dechend.png"
                 }
+              ],
+              "keywords": [
+                "de",
+                "santillana",
+                "von",
+                "dechend",
+                "giorgio",
+                "hertha"
               ]
             },
             {
@@ -2574,94 +3675,163 @@
               "title": "Heribert Illig (b. 1947)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.13-heribert-illig.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "heribert",
+                "illig"
+              ]
             },
             {
               "id": "evt-gunnar-heinsohn",
               "title": "Gunnar Heinsohn (b. 1943)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.14-gunnar-heinsohn.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "gunnar",
+                "heinsohn"
+              ]
             },
             {
               "id": "evt-dwardu-cardona",
               "title": "Dwardu Cardona (1937\u20132018)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.15-dwardu-cardona.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "dwardu",
+                "cardona"
+              ]
             },
             {
               "id": "evt-clube-napier",
               "title": "Victor Clube & Bill Napier",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.16-clube-napier.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "clube",
+                "napier",
+                "victor",
+                "bill"
+              ]
             },
             {
               "id": "evt-livio-stecchini",
               "title": "Livio Stecchini (1913\u20131979)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.17-livio-stecchini.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "livio",
+                "stecchini"
+              ]
             },
             {
               "id": "evt-rose-vaughan",
               "title": "Lynn Rose & Raymond Vaughan",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.18-rose-vaughan.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "rose",
+                "vaughan",
+                "lynn",
+                "raymond"
+              ]
             },
             {
               "id": "evt-tom-van-flandern",
               "title": "Tom Van Flandern (1940\u20132009)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.19-tom-van-flandern.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "tom",
+                "van",
+                "flandern"
+              ]
             },
             {
               "id": "evt-martinus-van-der-sluijs",
               "title": "Martinus van der Sluijs",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.20-martinus-van-der-sluijs.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "martinus",
+                "van",
+                "der",
+                "sluijs"
+              ]
             },
             {
               "id": "evt-charles-ginenthal",
               "title": "Charles Ginenthal",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.21-charles-ginenthal.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "charles",
+                "ginenthal"
+              ]
             },
             {
               "id": "evt-robert-schoch",
               "title": "Robert Schoch (b. 1959)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.22-robert-schoch.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "robert",
+                "schoch"
+              ]
             },
             {
               "id": "evt-graham-hancock",
               "title": "Graham Hancock (b. 1950)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.23-graham-hancock.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "graham",
+                "hancock"
+              ]
             },
             {
               "id": "evt-michael-cremo",
               "title": "Michael Cremo (b. 1948)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.24-michael-cremo.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "michael",
+                "cremo"
+              ]
             },
             {
               "id": "evt-jerry-tennant",
               "title": "Dr. Jerry Tennant (b. 1940)",
               "type": "article",
               "md_path": "content/16.appendix-authors/16.01.25-jerry-tennant.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "jerry",
+                "tennant"
+              ]
             }
+          ],
+          "keywords": [
+            "author",
+            "profiles"
           ]
         }
+      ],
+      "keywords": [
+        "authors",
+        "part",
+        "author",
+        "profiles"
       ]
     },
     {
@@ -2686,6 +3856,10 @@
                 {
                   "path": "/media/04.the-blip/building-new-chronology.png"
                 }
+              ],
+              "keywords": [
+                "building",
+                "new"
               ]
             }
           ],
@@ -2693,6 +3867,9 @@
             {
               "path": "/media/04.the-blip/other-challenges-to-chronology.png"
             }
+          ],
+          "keywords": [
+            "challenges"
           ]
         },
         {
@@ -2706,15 +3883,32 @@
               "title": "Year-Length and Calendar Evidence",
               "type": "article",
               "md_path": "content/17.appendix-chronology/17.03.01-year-length-calendar-evidence.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "length",
+                "calendar",
+                "evidence",
+                "year-length"
+              ]
             },
             {
               "id": "evt-mars-contacts-timeline",
               "title": "Known Contacts with Mars: A Chronological Dossier",
               "type": "article",
               "md_path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "mars",
+                "contacts",
+                "known",
+                "chronological",
+                "dossier"
+              ]
             }
+          ],
+          "keywords": [
+            "synchronization",
+            "tables"
           ]
         },
         {
@@ -2728,8 +3922,20 @@
               "title": "Fomenko and the Pyramid Question",
               "type": "article",
               "md_path": "content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "fomenko",
+                "pyramid",
+                "question"
+              ]
             }
+          ],
+          "keywords": [
+            "pyramids",
+            "myths",
+            "evidence",
+            "vs",
+            "reality"
           ]
         },
         {
@@ -2748,10 +3954,26 @@
                 {
                   "path": "/media/02.the-golden-age/chapter-events.svg"
                 }
+              ],
+              "keywords": [
+                "golden",
+                "documentary",
+                "sequence",
+                "talbott",
+                "table"
               ]
             }
+          ],
+          "keywords": [
+            "seven",
+            "days",
+            "creation",
+            "narratives"
           ]
         }
+      ],
+      "keywords": [
+        "article"
       ]
     },
     {
@@ -2771,34 +3993,73 @@
               "title": "Predictive Programming in Film, Television, and Games",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.43.01-predictive-programming-film-tv-games.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "predictive",
+                "programming",
+                "film",
+                "tv",
+                "games",
+                "television"
+              ]
             },
             {
               "id": "evt-predictive-programming-literature",
               "title": "20th Century Predictive Programming: Literature \u2014 Extended Author Evidence",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "predictive",
+                "programming",
+                "literature",
+                "th",
+                "extended",
+                "author",
+                "evidence"
+              ]
             },
             {
               "id": "evt-asimov-three-laws-and-marx-encoding",
               "title": "Asimov: Three Laws and Marx Encoding \u2014 Extended Evidence",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.43.03-asimov-three-laws-and-marx-encoding.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "asimov",
+                "three",
+                "laws",
+                "marx",
+                "encoding",
+                "extended",
+                "evidence"
+              ]
             },
             {
               "id": "evt-mars-literature-author-profiles",
               "title": "Mars Literature: Author Profiles and Evidence",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.43.04-mars-literature-author-profiles.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "mars",
+                "literature",
+                "author",
+                "profiles",
+                "evidence"
+              ]
             }
           ],
           "media": [
             {
               "path": "/media/15.ce-21st-the-final-struggle/predictive-programming.png"
             }
+          ],
+          "keywords": [
+            "predictive",
+            "programming",
+            "fiction",
+            "control"
           ]
         },
         {
@@ -2812,22 +4073,49 @@
               "title": "The Thunderbolts Project: A Case Study in Managed Disclosure",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.44.01-controlled-opposition-thunderbolts-case-study.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "controlled",
+                "opposition",
+                "thunderbolts",
+                "case",
+                "study",
+                "project",
+                "managed",
+                "disclosure"
+              ]
             },
             {
               "id": "evt-operation-mockingbird-historical-chain",
               "title": "Operation Mockingbird: The Historical Chain",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.44.02-operation-mockingbird-historical-chain.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "operation",
+                "mockingbird",
+                "historical",
+                "chain"
+              ]
             },
             {
               "id": "evt-controlled-opposition-managed-disclosure",
               "title": "Controlled Opposition: Managed Disclosure and Gatekeeping",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.44.03-controlled-opposition-managed-disclosure.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "controlled",
+                "opposition",
+                "managed",
+                "disclosure",
+                "gatekeeping"
+              ]
             }
+          ],
+          "keywords": [
+            "controlled",
+            "opposition"
           ]
         },
         {
@@ -2841,17 +4129,38 @@
               "title": "Censorship: Pattern (Appendix)",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.46.01-censorship-pattern.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "censorship",
+                "pattern"
+              ]
             },
             {
               "id": "evt-censorship-historical-timeline",
               "title": "Censorship and Book Burning: The Historical Record",
               "type": "article",
               "md_path": "content/18.appendix-narrative/18.46.02-censorship-historical-timeline.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "censorship",
+                "historical",
+                "book",
+                "burning",
+                "record"
+              ]
             }
+          ],
+          "keywords": [
+            "censorship",
+            "book",
+            "burning"
           ]
         }
+      ],
+      "keywords": [
+        "narrative",
+        "control",
+        "part"
       ]
     },
     {
@@ -2871,15 +4180,30 @@
               "title": "False Flags: Architecture (Appendix)",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.47.01-false-flags-architecture.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "false",
+                "flags",
+                "architecture"
+              ]
             },
             {
               "id": "evt-false-flags-investigation",
               "title": "False Flags Investigation: Evidence Dossier",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.47.02-false-flags-investigation.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "false",
+                "flags",
+                "evidence",
+                "dossier"
+              ]
             }
+          ],
+          "keywords": [
+            "false",
+            "flags"
           ]
         },
         {
@@ -2898,6 +4222,14 @@
                 {
                   "path": "/media/11.ce-17th-romanovs-rise-to-power/eight_pointed_star_and_crescent.jpg"
                 }
+              ],
+              "keywords": [
+                "hordian",
+                "empire",
+                "fracture",
+                "deep",
+                "state",
+                "breaks"
               ]
             },
             {
@@ -2910,6 +4242,13 @@
                 {
                   "path": "/media/16.appendix/slave-trades-and-moor-etymology-investigation.png"
                 }
+              ],
+              "keywords": [
+                "slave",
+                "trades",
+                "evidence",
+                "horde-fracture",
+                "thesis"
               ]
             },
             {
@@ -2917,22 +4256,53 @@
               "title": "British Empire as Deep State: Case Studies",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.48.03-british-empire-case-studies.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "british",
+                "empire",
+                "case",
+                "studies",
+                "deep",
+                "state"
+              ]
             },
             {
               "id": "evt-jesuit-ops-conversion-empire",
               "title": "Jesuit Operations: Conversion, Catholicism, and the New World",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.48.04-jesuit-ops-conversion-empire.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "jesuit",
+                "ops",
+                "conversion",
+                "empire",
+                "operations",
+                "catholicism",
+                "new",
+                "world"
+              ]
             },
             {
               "id": "evt-napoleonic-wars-1812-evidence",
               "title": "Napoleonic Wars and 1812 \u2014 Extended Evidence",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.48.05-napoleonic-wars-1812-evidence.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "napoleonic",
+                "wars",
+                "1812",
+                "evidence",
+                "extended"
+              ]
             }
+          ],
+          "keywords": [
+            "deep",
+            "state",
+            "empire",
+            "evidence"
           ]
         },
         {
@@ -2946,24 +4316,58 @@
               "title": "The Four Reverse Crusades: A Structural Comparison",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.50.01-reverse-crusades-structural-comparison.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "reverse",
+                "crusades",
+                "structural",
+                "comparison",
+                "four"
+              ]
             },
             {
               "id": "evt-21st-century-geopolitics-extended",
               "title": "21st Century Geopolitics",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.50.02-21st-century-geopolitics-extended.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "21st",
+                "geopolitics",
+                "extended",
+                "st"
+              ]
             },
             {
               "id": "evt-world-war-ii-aftermath-extended",
               "title": "World War II Aftermath",
               "type": "article",
               "md_path": "content/19.appendix-conflict/19.50.03-world-war-ii-aftermath-extended.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "world",
+                "war",
+                "ii",
+                "aftermath",
+                "extended"
+              ]
             }
+          ],
+          "keywords": [
+            "reverse",
+            "crusades",
+            "modern",
+            "wars",
+            "evidence"
           ]
         }
+      ],
+      "keywords": [
+        "conflict",
+        "empire",
+        "part",
+        "manufactured",
+        "war"
       ]
     },
     {
@@ -2983,22 +4387,50 @@
               "title": "Soviet Historiography: Bogdanov and Suppressed Science",
               "type": "article",
               "md_path": "content/20.appendix-science-society/20.51.01-soviet-historiography-bogdanov.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "soviet",
+                "historiography",
+                "bogdanov",
+                "suppressed",
+                "science"
+              ]
             },
             {
               "id": "evt-suppressed-energy-technology-cross-reference",
               "title": "Suppressed Energy Technology: A Cross-Reference",
               "type": "article",
               "md_path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "suppressed",
+                "energy",
+                "technology",
+                "cross",
+                "reference",
+                "cross-reference"
+              ]
             },
             {
               "id": "evt-einstein-1905-aether-theoretical-physics-appendix",
               "title": "Einstein, 1905, the Luminiferous Aether, and \u201cTheoretical Physics\u201d (Appendix)",
               "type": "article",
               "md_path": "content/20.appendix-science-society/20.51.03-einstein-1905-aether-and-theoretical-physics-appendix.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "einstein",
+                "1905",
+                "aether",
+                "theoretical",
+                "physics",
+                "luminiferous"
+              ]
             }
+          ],
+          "keywords": [
+            "suppressed",
+            "science",
+            "technology"
           ]
         },
         {
@@ -3012,8 +4444,22 @@
               "title": "Population Control: A Timeline (15th\u201321st Centuries)",
               "type": "article",
               "md_path": "content/20.appendix-science-society/20.52.01-population-control-timeline-15th-21st-centuries.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "population",
+                "control",
+                "15th",
+                "21st",
+                "th",
+                "st"
+              ]
             }
+          ],
+          "keywords": [
+            "population",
+            "control",
+            "displacement",
+            "evidence"
           ]
         },
         {
@@ -3027,17 +4473,44 @@
               "title": "Historical Antibodies: Detailed Profiles",
               "type": "article",
               "md_path": "content/20.appendix-science-society/20.55.01-historical-antibodies-profiles.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "historical",
+                "antibodies",
+                "profiles",
+                "detailed"
+              ]
             },
             {
               "id": "evt-trump-case-study-extended",
               "title": "Trump and the MAGA Revolution",
               "type": "article",
               "md_path": "content/20.appendix-science-society/20.55.02-trump-case-study-extended.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "trump",
+                "case",
+                "study",
+                "extended",
+                "maga",
+                "revolution"
+              ]
             }
+          ],
+          "keywords": [
+            "historical",
+            "antibodies",
+            "pattern",
+            "analysis"
           ]
         }
+      ],
+      "keywords": [
+        "science",
+        "society",
+        "part",
+        "displacement",
+        "antibodies"
       ]
     },
     {
@@ -3057,7 +4530,16 @@
               "title": "Orphan Trains, Trail of Tears, Siberian Exile",
               "type": "article",
               "md_path": "content/21.appendix-cataclysm-memory/21.53.01-orphan-trains-trail-of-tears-evidence.md",
-              "children": []
+              "children": [],
+              "keywords": [
+                "orphan",
+                "trains",
+                "trail",
+                "tears",
+                "evidence",
+                "siberian",
+                "exile"
+              ]
             },
             {
               "id": "evt-slow-ecological-collapse-mfee-donner-appendix",
@@ -3070,6 +4552,13 @@
                 "evt-mudflood-evidence",
                 "evt-orphan-trains-trail-of-tears-evidence",
                 "evt-trail-tears-century-long-erasure"
+              ],
+              "keywords": [
+                "slow",
+                "ecological",
+                "collapse",
+                "mfee",
+                "donner"
               ]
             },
             {
@@ -3084,8 +4573,22 @@
                 "evt-jesuit-ops-conversion-empire",
                 "evt-1400-ce-15th-century-ce-ottoman-conquest-of-europe",
                 "evt-1833-ce-josiah-priest-american-antiquities"
+              ],
+              "keywords": [
+                "new",
+                "world",
+                "naming",
+                "mfee",
+                "colonization",
+                "memory"
               ]
             }
+          ],
+          "keywords": [
+            "mudflood",
+            "evidence",
+            "world",
+            "cataclysm"
           ]
         },
         {
@@ -3098,8 +4601,22 @@
             {
               "path": "/media/16.appendix/giants-infantry-guerrilla-etymology-investigation.png"
             }
+          ],
+          "keywords": [
+            "giants",
+            "infantry",
+            "guerrilla",
+            "childrens",
+            "crusade",
+            "etymology",
+            "children"
           ]
         }
+      ],
+      "keywords": [
+        "cataclysm",
+        "memory",
+        "part"
       ]
     },
     {
@@ -3107,7 +4624,10 @@
       "title": "Appendix \u2014 Credits",
       "type": "article",
       "md_path": "content/22.credits/22.00.00-credits.md",
-      "children": []
+      "children": [],
+      "keywords": [
+        "credits"
+      ]
     }
   ],
   "introArticles": [

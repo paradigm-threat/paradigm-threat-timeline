@@ -98,6 +98,25 @@ HTML_IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
 
 BOOK_ILLUSTRATION_IN_ATTRS = re.compile(r"\.book-illustration\b")
 
+# Trailing "Keywords: #tag #tag" line (from append_article_keywords.py)
+KEYWORDS_LINE_RE = re.compile(r"^Keywords:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
+
+
+def extract_keywords_from_markdown(md_path: str) -> list[str]:
+    """Parse hashtag tokens from a Keywords: line at end of markdown. Returns lowercase-ish tokens without #."""
+    full_path = os.path.join(REPO_DIR, md_path)
+    if not os.path.exists(full_path):
+        return []
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except OSError:
+        return []
+    m = KEYWORDS_LINE_RE.search(content)
+    if not m:
+        return []
+    return re.findall(r"#([a-zA-Z0-9\-]+)", m.group(1))
+
 
 def _attr_block_marks_book_illustration(block: str | None) -> bool:
     if not block or not str(block).strip():
@@ -311,6 +330,10 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
         extracted = extract_images_from_markdown(md_path)
         if extracted:
             entry["media"] = extracted
+
+    kws = extract_keywords_from_markdown(md_path)
+    if kws:
+        entry["keywords"] = kws
 
     return entry, None
 
