@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "hash": "25f8415108d06dd620119f515d43e4b19c2e1ede",
+    "date": "2026-04-09T16:28:03.000Z",
+    "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "hash": "23a5da2aa9eaeb701110b0de1bc0362781ffc188",
     "date": "2026-04-09T16:25:26.000Z",
     "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
@@ -1436,64 +1449,6 @@
       {
         "status": "M",
         "path": ".github/copilot-instructions.md",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "a58ec06ed79fc72ed64f06939d5ab8671517c6fa",
-    "date": "2026-04-03T12:16:57.000Z",
-    "message": "content: edition intro, docs, and cursor rules updates",
-    "files": [
-      {
-        "status": "M",
-        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "content-editions/README.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "content-editions/modern-religious/00.overview/00.00.00-introduction.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "content-editions/modern-religious/README.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "content/00.overview/00.00.00-introduction.md",
-        "href": "/timeline/evt-introduction"
-      },
-      {
-        "status": "M",
-        "path": "docs/BOOK_EDITIONS_PLAN.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/CONTENT_STRATEGY.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/FEEDBACK.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/PRINT_GOALS.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/TIMELINE_FAQ.md",
         "href": "/timeline"
       }
     ]
