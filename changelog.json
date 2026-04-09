@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "hash": "23a5da2aa9eaeb701110b0de1bc0362781ffc188",
+    "date": "2026-04-09T16:25:26.000Z",
+    "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
+    "files": [
+      {
+        "status": "A",
+        "path": ".relay.yaml",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "hash": "2d3b288952f1a793661bbf888406f8a691b3f5d5",
     "date": "2026-04-05T13:32:26.000Z",
     "message": "griff merge",
@@ -1481,24 +1494,6 @@
       {
         "status": "M",
         "path": "docs/TIMELINE_FAQ.md",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "b9da63e8074938fb8de4ab770eadfebec1c73657",
-    "date": "2026-04-02T15:43:02.000Z",
-    "message": "RU appendix DOCX: postprocess fix and remove backup copies",
-    "files": [
-      {
-        "status": "M",
-        "path": "export/timeline-appendix-ru.docx",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/postprocess_ru_docx.py",
         "href": "/timeline"
       }
     ]

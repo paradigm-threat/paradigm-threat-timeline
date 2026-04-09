@@ -6,7 +6,7 @@ git:
           requireSigned: true
           allowUnsigned: false
           allowedKeys:
-            - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIACk5sziqzdeqWPlUGoXxNvQ4lVqmo0mqBHSJO2C7cQ8 ari@Paradigm"
+            - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIACk5sziqzdeqWPlUGoXxNvQ4lVqmo0mqBHSJO2C7cQ8 paradigm-threat-signing"
       - name: develop
         rule:
           allowUnsigned: true
