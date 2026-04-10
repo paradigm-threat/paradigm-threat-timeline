@@ -11,5 +11,5 @@ See **[docs/BOOK_EDITIONS_PLAN.md](../docs/BOOK_EDITIONS_PLAN.md)** for guardrai
 
 ---
 
-Keywords: #readme #content #editions #print-oriented
+Keywords: #readme #content #editions #printoriented
 

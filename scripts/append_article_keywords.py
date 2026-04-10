@@ -2,6 +2,9 @@
 """
 Append a trailing Keywords line (hashtag form) to markdown articles.
 
+Each tag is Instagram-safe: letters, digits, underscores only (hyphens are stripped
+when emitting; Instagram treats a hyphen inside a hashtag as ending the tag).
+
 Format (avoids ATX headings: line does not start with #):
   ---
   Keywords: #one #two
@@ -169,7 +172,7 @@ def build_keyword_list(
 def format_keywords_line(tags: list[str]) -> str:
     if not tags:
         return "Keywords: #article"
-    parts = [f"#{t}" for t in tags]
+    parts = [f"#{t.replace('-', '')}" for t in tags]
     return "Keywords: " + " ".join(parts)
 
 
