@@ -1,6 +1,13 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "hash": "533909261e499a6ef4cb7e74d59201ca3fbf3317",
+    "date": "2026-04-09T16:28:51.000Z",
+    "message": "chore: confirm relay accepts SSH-signed push",
+    "files": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "hash": "25f8415108d06dd620119f515d43e4b19c2e1ede",
     "date": "2026-04-09T16:28:03.000Z",
     "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
@@ -1431,24 +1438,6 @@
       {
         "status": "M",
         "path": "docs/CONTENT_MARKDOWN_STYLE.md",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "dde6ba9b9e7536dd749ba3aeef7b68f251898742",
-    "date": "2026-04-03T12:24:35.000Z",
-    "message": "docs: blog workflow — always git log since prior post (see files BLOG.md)",
-    "files": [
-      {
-        "status": "M",
-        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": ".github/copilot-instructions.md",
         "href": "/timeline"
       }
     ]
