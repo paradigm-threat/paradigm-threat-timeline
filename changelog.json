@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "hash": "c47ae419fa9577b07d87e2d78ddf2cb157b63e34",
+    "date": "2026-04-10T16:34:18.000Z",
+    "message": "Trump timeline: 2016 primary lane (Angry Birds gate, Jade Helm rhyme, Cruz/Trump backup); link investigations",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
+        "href": "/timeline/evt-trump"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "hash": "533909261e499a6ef4cb7e74d59201ca3fbf3317",
     "date": "2026-04-09T16:28:51.000Z",
     "message": "chore: confirm relay accepts SSH-signed push",
@@ -1415,29 +1428,6 @@
       {
         "status": "M",
         "path": "export/timeline-book.pdf",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "69c1ce9f0087bdaa2cad0ce7de4d03ed0a711529",
-    "date": "2026-04-04T13:48:59.000Z",
-    "message": "timeline: add Urantia investigation cross-references",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.02.00-20th-c-predictive-programming.md",
-        "href": "/timeline/evt-20th-c-predictive-programming"
-      },
-      {
-        "status": "M",
-        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
-        "href": "/timeline/evt-predictive-programming-literature"
-      },
-      {
-        "status": "M",
-        "path": "docs/CONTENT_MARKDOWN_STYLE.md",
         "href": "/timeline"
       }
     ]
