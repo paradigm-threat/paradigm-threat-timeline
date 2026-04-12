@@ -82,9 +82,9 @@ Analysis of `content/` against `docs/CONTENT_REDUCTION_TRACKER.md` targets.
 | File | Words | Action |
 |------|-------|--------|
 | `15.00.00-2000-ce-21st-century-final-struggle.md` | **2,302** | Overflow: "Europe's War: Six Operators" table (~400w), "America's Escalation" section (~500w), "WW3 Blueprint" hybrid table (~300w) → New `16.xx` "21st Century Geopolitics Extended". Condense Immune Response, Infighting, Preparation to ~600w. **Est. save:** ~1,200w |
-| `15.07.01-trump.md` | **1,949** | Overflow: biographical timeline, detailed quote blocks → `16.xx` "Historical Antibodies: Trump Case Study". Main keeps thesis + 2–3 key points (~400w). **Est. save:** ~1,500w |
+| `15.08.01-trump.md` | **1,949** | Overflow: biographical timeline, detailed quote blocks → `16.xx` "Historical Antibodies: Trump Case Study". Main keeps thesis + 2–3 key points (~400w). **Est. save:** ~1,500w |
 | `15.04.00-false-flags-architecture.md` | **1,885** | Overflow: extended case studies, evidence tables → `16.21.00` (already exists). Main keeps framework + 1 para per pattern (~400w). **Est. save:** ~1,500w |
-| `15.07.00-historical-antibodies.md` | 893 | Overflow: pattern analysis → `16.20.00`. Stub in main. **Est. save:** ~600w |
+| `15.08.00-historical-antibodies.md` | 893 | Overflow: pattern analysis → `16.20.00`. Stub in main. **Est. save:** ~600w |
 | `15.01.00-censorship-book-burning.md` | 704 | Overflow: century-spanning survey → `16.05.00` or new 16.xx. Stub. **Est. save:** ~500w |
 | `15.05.00-population-control.md` | 428 | Condense or overflow case list → appendix. **Est. save:** ~200w |
 

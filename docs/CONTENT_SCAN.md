@@ -77,7 +77,7 @@ Files at **≤5 lines** are effectively placeholders or near-empty; worth expand
 |------:|------|
 | 3 | `14.ce-20th-the-1917-revolution/14.12.01-world-war-ii-aftermath.md` |
 | 3 | `15.ce-21st-the-final-struggle/15.01.00-censorship-book-burning-from.md` |
-| 3 | `15.ce-21st-the-final-struggle/15.07.01-trump.md` |
+| 3 | `15.ce-21st-the-final-struggle/15.08.01-trump.md` |
 | 5 | `15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md` |
 
 Other very short (11–15 lines) cluster in **ch.15** and **ch.11**; see repository search or `wc -l` on `content/1[0-5].*` as needed.
