@@ -1,6 +1,89 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "hash": "367bf03af6d05770498efff41133a5a1203faa61",
+    "date": "2026-04-10T22:29:47.000Z",
+    "message": "Content and tooling: timeline articles, appendix edits, append_article_keywords, CONTENT_MARKDOWN_STYLE",
+    "files": [
+      {
+        "status": "M",
+        "path": "content-editions/README.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "content/02.the-golden-age/02.01.00-proto-saturn-joins-the-sun-s-orbit.md",
+        "href": "/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit"
+      },
+      {
+        "status": "M",
+        "path": "content/03.the-dark-ages/03.11.00-march-23-priori-mars-loses-its.md",
+        "href": "/timeline/evt-march-23-priori-mars-loses-its"
+      },
+      {
+        "status": "M",
+        "path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.01-the-masons.md",
+        "href": "/timeline/evt-the-masons"
+      },
+      {
+        "status": "M",
+        "path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md",
+        "href": "/timeline/evt-the-giants-of-the-rus-horde"
+      },
+      {
+        "status": "M",
+        "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1453-ce-fall-of-czar-grad-constantinople.md",
+        "href": "/timeline/evt-1453-ce-fall-of-czar-grad-constantinople"
+      },
+      {
+        "status": "M",
+        "path": "content/11.ce-17th-romanovs-rise-to-power/11.01.01-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne.md",
+        "href": "/timeline/evt-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne"
+      },
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.08.00-trail-tears-century-long-erasure.md",
+        "href": "/timeline/evt-trail-tears-century-long-erasure"
+      },
+      {
+        "status": "M",
+        "path": "content/13.ce-19th-rise-of-communism/13.08.00-blood-rain-phenomenon.md",
+        "href": "/timeline/evt-blood-rain-phenomenon"
+      },
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.12.02-1948-ce-israel-creation-british-mandate.md",
+        "href": "/timeline/evt-1948-ce-israel-creation-british-mandate"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.03.01-year-length-calendar-evidence.md",
+        "href": "/timeline/evt-year-length-calendar-evidence"
+      },
+      {
+        "status": "M",
+        "path": "content/19.appendix-conflict/19.48.02-slave-trades-evidence.md",
+        "href": "/timeline/evt-slave-trades-evidence"
+      },
+      {
+        "status": "M",
+        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
+        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
+      },
+      {
+        "status": "M",
+        "path": "docs/CONTENT_MARKDOWN_STYLE.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/append_article_keywords.py",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "hash": "c47ae419fa9577b07d87e2d78ddf2cb157b63e34",
     "date": "2026-04-10T16:34:18.000Z",
     "message": "Trump timeline: 2016 primary lane (Angry Birds gate, Jade Helm rhyme, Cruz/Trump backup); link investigations",
@@ -8,7 +91,7 @@
       {
         "status": "M",
         "path": "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
-        "href": "/timeline/evt-trump"
+        "href": "/timeline"
       }
     ]
   },
@@ -924,17 +1007,17 @@
       {
         "status": "M",
         "path": "content/15.ce-21st-the-final-struggle/15.07.00-historical-antibodies.md",
-        "href": "/timeline/evt-historical-antibodies"
+        "href": "/timeline"
       },
       {
         "status": "M",
         "path": "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
-        "href": "/timeline/evt-trump"
+        "href": "/timeline"
       },
       {
         "status": "M",
         "path": "content/15.ce-21st-the-final-struggle/15.08.00-where-we-go-from-here.md",
-        "href": "/timeline/evt-where-we-go-from-here"
+        "href": "/timeline"
       },
       {
         "status": "M",
@@ -1390,44 +1473,6 @@
       {
         "status": "A",
         "path": "scripts/generate-changelog.cjs",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "032bfa81f81e0aac9cf20069b553fde3452da57a",
-    "date": "2026-04-04T15:14:03.000Z",
-    "message": "Regenerate timeline book/appendix PDF and DOCX; update golden age and appendix content.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/02.the-golden-age/02.00.00-the-golden-age.md",
-        "href": "/timeline/evt-4077-bce-the-golden-age"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.00.00-appendix.md",
-        "href": "/timeline/evt-appendix"
-      },
-      {
-        "status": "M",
-        "path": "export/timeline-appendix.docx",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "export/timeline-appendix.pdf",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "export/timeline-book.docx",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "export/timeline-book.pdf",
         "href": "/timeline"
       }
     ]
