@@ -1,7 +1,73 @@
 [
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "367bf03af6d05770498efff41133a5a1203faa61",
+    "date": "2026-04-12T12:42:39.000Z",
+    "message": "Timeline: Fra Mauro Sahara investigation links; ch15 renames; Jade Helm primary",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
+        "href": "/timeline/evt-the-mudflood-world-cataclysm"
+      },
+      {
+        "status": "A",
+        "path": "content/15.ce-21st-the-final-struggle/15.07.00-jade-helm-cruz-2016-primary.md",
+        "href": "/timeline/evt-jade-helm-cruz-2016-primary"
+      },
+      {
+        "status": "R",
+        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
+        "href": "/timeline/evt-historical-antibodies"
+      },
+      {
+        "status": "R",
+        "path": "content/15.ce-21st-the-final-struggle/15.08.01-trump.md",
+        "href": "/timeline/evt-trump"
+      },
+      {
+        "status": "R",
+        "path": "content/15.ce-21st-the-final-struggle/15.11.00-where-we-go-from-here.md",
+        "href": "/timeline/evt-where-we-go-from-here"
+      },
+      {
+        "status": "M",
+        "path": "content/21.appendix-cataclysm-memory/21.53.00-mudflood-evidence.md",
+        "href": "/timeline/evt-mudflood-evidence"
+      },
+      {
+        "status": "M",
+        "path": "docs/CONCLUSIONS.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/CONTENT_REDUCTION_RECOMMENDATIONS.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/CONTENT_SCAN.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "R",
+        "path": "media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "href": "/timeline"
+      },
+      {
+        "status": "R",
+        "path": "media/15.ce-21st-the-final-struggle/15.11.00-where-we-go-from-here.png",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-flyer.py",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-10T22:29:47.000Z",
     "message": "Content and tooling: timeline articles, appendix edits, append_article_keywords, CONTENT_MARKDOWN_STYLE",
     "files": [
@@ -84,7 +150,6 @@
   },
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "c47ae419fa9577b07d87e2d78ddf2cb157b63e34",
     "date": "2026-04-10T16:34:18.000Z",
     "message": "Trump timeline: 2016 primary lane (Angry Birds gate, Jade Helm rhyme, Cruz/Trump backup); link investigations",
     "files": [
@@ -97,14 +162,12 @@
   },
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "533909261e499a6ef4cb7e74d59201ca3fbf3317",
     "date": "2026-04-09T16:28:51.000Z",
     "message": "chore: confirm relay accepts SSH-signed push",
     "files": []
   },
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "25f8415108d06dd620119f515d43e4b19c2e1ede",
     "date": "2026-04-09T16:28:03.000Z",
     "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
     "files": [
@@ -117,7 +180,6 @@
   },
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "23a5da2aa9eaeb701110b0de1bc0362781ffc188",
     "date": "2026-04-09T16:25:26.000Z",
     "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
     "files": [
@@ -130,7 +192,6 @@
   },
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "2d3b288952f1a793661bbf888406f8a691b3f5d5",
     "date": "2026-04-05T13:32:26.000Z",
     "message": "griff merge",
     "files": [
@@ -1443,7 +1504,6 @@
   },
   {
     "repo": "paradigm-threat-timeline",
-    "hash": "9166d2c6283d4bf1691e17860d4229f50f2f49ba",
     "date": "2026-04-05T13:28:22.000Z",
     "message": "extra grifin article",
     "files": [
@@ -1456,24 +1516,6 @@
         "status": "A",
         "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.07.00-1463-ce-man-eating-griffins-extinction.md",
         "href": "/timeline/evt-1463-ce-man-eating-griffins-extinction"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "hash": "fe87562b0ed4dfa67138b5f3047c9eb1b3e09034",
-    "date": "2026-04-04T16:11:54.000Z",
-    "message": "changelog: generate timeline file-link entries on pre-commit",
-    "files": [
-      {
-        "status": "M",
-        "path": ".husky/pre-commit",
-        "href": "/timeline"
-      },
-      {
-        "status": "A",
-        "path": "scripts/generate-changelog.cjs",
-        "href": "/timeline"
       }
     ]
   }

@@ -1,3 +1,7 @@
+/**
+ * Builds changelog.json from `git log` (paths-first; no commit hash in output).
+ * Optional: PARADIGM_CHANGELOG_STAGED_TOP=1 prepends one row from `git diff --cached`.
+ */
 const { execSync } = require('child_process')
 const fs = require('fs')
 const path = require('path')
@@ -46,10 +50,8 @@ function toTimelineHref(filePath, eventMap) {
     return '/timeline'
 }
 
-function parseChangedFiles(hash, eventMap) {
-    const output = run(`git show --pretty="" --name-status --find-renames ${hash}`)
+function parseNameStatusOutput(output, eventMap) {
     if (!output) return []
-
     const changes = []
     for (const rawLine of output.split('\n')) {
         const line = rawLine.trim()
@@ -74,23 +76,50 @@ function parseChangedFiles(hash, eventMap) {
     return changes
 }
 
+function parseChangedFiles(hash, eventMap) {
+    const output = run(`git show --pretty="" --name-status --find-renames ${hash}`)
+    return parseNameStatusOutput(output, eventMap)
+}
+
+function maybeStagedTopEntry(eventMap) {
+    if (process.env.PARADIGM_CHANGELOG_STAGED_TOP !== '1') return null
+    try {
+        const output = run('git diff --cached --name-status --find-renames')
+        const files = parseNameStatusOutput(output, eventMap)
+        if (files.length === 0) return null
+        return {
+            repo: 'paradigm-threat-timeline',
+            date: new Date().toISOString(),
+            message: '(staged)',
+            files
+        }
+    } catch {
+        return null
+    }
+}
+
 function generateChangelog() {
     try {
         const eventMap = loadEventMap()
+        const stagedTop = maybeStagedTopEntry(eventMap)
         const logData = run(`git log -n ${CHANGE_LIMIT} --pretty=format:"%H|%at|%s"`)
-        const entries = logData
+        const fromLog = logData
             .split('\n')
             .filter(Boolean)
             .map((line) => {
                 const [hash, timestamp, ...msgParts] = line.split('|')
                 return {
                     repo: 'paradigm-threat-timeline',
-                    hash,
                     date: new Date(Number(timestamp) * 1000).toISOString(),
                     message: msgParts.join('|'),
                     files: parseChangedFiles(hash, eventMap)
                 }
             })
+
+        let entries = fromLog
+        if (stagedTop) {
+            entries = [stagedTop, ...fromLog].slice(0, CHANGE_LIMIT)
+        }
 
         const outputPath = path.resolve(__dirname, '../changelog.json')
         fs.writeFileSync(outputPath, JSON.stringify(entries, null, 2) + '\n')

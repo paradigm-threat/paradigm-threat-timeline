@@ -13,7 +13,7 @@
     "_count": 0
   },
   "changelog.json": {
-    "_updated": "2026-04-10T22:29:47Z"
+    "_updated": "2026-04-12T12:42:39Z"
   },
   "content": {
     "00.overview": {
@@ -507,7 +507,7 @@
       },
       "12.03.00-the-mudflood-world-cataclysm.md": {
         "_title": "The MudFlood & World Cataclysm",
-        "_updated": "2026-04-05T13:32:26Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "12.04.00-instant-fossilization-electric.md": {
         "_title": "Instant Fossilization & Electric",
@@ -696,19 +696,19 @@
       },
       "15.07.00-jade-helm-cruz-2016-primary.md": {
         "_title": "2016 Primary: Texas, Jade Helm, and the Cruz Lane",
-        "_updated": "2026-04-11T13:55:43Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "15.08.00-historical-antibodies.md": {
         "_title": "Historical Antibodies: Independent Agents Against Erasure",
-        "_updated": "2026-04-11T13:55:29Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "15.08.01-trump.md": {
         "_title": "Trump and the MAGA Revolution: The Antibody That Survived Crucifixion",
-        "_updated": "2026-04-12T11:55:49Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "15.11.00-where-we-go-from-here.md": {
         "_title": "Where Do We Go From Here?",
-        "_updated": "2026-04-12T11:55:49Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "_count": 11
     },
@@ -1030,7 +1030,7 @@
       },
       "21.53.00-mudflood-evidence.md": {
         "_title": "The MudFlood and World Cataclysm",
-        "_updated": "2026-04-05T13:32:26Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "21.53.01-orphan-trains-trail-of-tears-evidence.md": {
         "_title": "Orphan Trains, Trail of Tears, Siberian Exile",
@@ -1141,7 +1141,7 @@
   },
   "data": {
     "events.json": {
-      "_updated": "2026-04-10T22:29:47Z"
+      "_updated": "2026-04-12T12:42:39Z"
     },
     "timeline-schema.json": {
       "_updated": "2026-03-23T22:13:29Z"
@@ -1167,7 +1167,7 @@
     },
     "CONCLUSIONS.md": {
       "_title": "Conclusions",
-      "_updated": "2026-03-27T21:07:44Z"
+      "_updated": "2026-04-12T12:42:39Z"
     },
     "CONTENT_MARKDOWN_STYLE.md": {
       "_title": "Markdown prose style \u2014 `content/` only",
@@ -1175,7 +1175,7 @@
     },
     "CONTENT_REDUCTION_RECOMMENDATIONS.md": {
       "_title": "Content Reduction Recommendations \u2014 Mar 9, 2026",
-      "_updated": "2026-03-10T02:17:55Z"
+      "_updated": "2026-04-12T12:42:39Z"
     },
     "CONTENT_REDUCTION_TRACKER.md": {
       "_title": "Content Reduction Tracker",
@@ -1183,7 +1183,7 @@
     },
     "CONTENT_SCAN.md": {
       "_title": "Content scan: chapters 05\u201315",
-      "_updated": "2026-03-22T12:02:39Z"
+      "_updated": "2026-04-12T12:42:39Z"
     },
     "CONTENT_STRATEGY.md": {
       "_title": "Content Strategy: Paradigm Threat Timeline",
@@ -2276,13 +2276,13 @@
         "_width": 1280,
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAA0ABUB8JQBdgCIGrKiN7oAA/o4oohZdHqTko2kIi7gq75Nuhv977adoL6eVubl4aPTIDiMrt5UsAAA=",
-        "_updated": "2026-03-28T13:36:31Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "15.11.00-where-we-go-from-here.png": {
         "_width": 1536,
         "_height": 1024,
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JbACdADz5UK8AAD3TcKpo8siDuOcp2KZZGcUm237C7wabuA9wP38ZzlBoCf0z9eHkf3RAAA=",
-        "_updated": "2026-03-28T14:08:13Z"
+        "_updated": "2026-04-12T12:42:39Z"
       },
       "population-control.png": {
         "_width": 1536,
