@@ -13,7 +13,7 @@
     "_count": 0
   },
   "changelog.json": {
-    "_updated": "2026-04-12T14:11:30Z"
+    "_updated": "2026-04-13T12:12:19Z"
   },
   "content": {
     "00.overview": {
@@ -148,7 +148,7 @@
       },
       "03.04.03-pyramids-myths-vs-reality.md": {
         "_title": "Pyramids: Myths vs Reality",
-        "_updated": "2026-04-05T13:32:26Z"
+        "_updated": "2026-04-13T12:12:19Z"
       },
       "03.05.00-september-8-jupiter-disappears.md": {
         "_title": "September 8 \u2014 Jupiter disappears",
@@ -719,7 +719,7 @@
       },
       "16.01.00-author-profiles.md": {
         "_title": "Author Profiles",
-        "_updated": "2026-04-05T13:32:26Z"
+        "_updated": "2026-04-13T12:12:19Z"
       },
       "16.01.01-n-a-morozov.md": {
         "_title": "N. A. Morozov",
@@ -823,7 +823,7 @@
       },
       "16.01.26-bill-kerrell-kathy-goggin.md": {
         "_title": "Bill Kerrell & Kathy Goggin",
-        "_updated": "2026-04-13T12:11:15Z"
+        "_updated": "2026-04-13T12:12:19Z"
       },
       "_count": 28
     },
@@ -854,11 +854,11 @@
       },
       "17.04.00-pyramids-myths-evidence.md": {
         "_title": "Pyramids: Myths vs Reality",
-        "_updated": "2026-04-05T13:32:26Z"
+        "_updated": "2026-04-13T12:12:19Z"
       },
       "17.04.01-fomenko-and-the-pyramid-question.md": {
         "_title": "Fomenko and the Pyramid Question",
-        "_updated": "2026-04-05T13:32:26Z"
+        "_updated": "2026-04-13T12:12:19Z"
       },
       "17.05.00-seven-days-of-creation.md": {
         "_title": "Seven Days and other Creation Narratives",
@@ -1145,7 +1145,7 @@
   },
   "data": {
     "events.json": {
-      "_updated": "2026-04-12T12:42:39Z"
+      "_updated": "2026-04-13T12:12:19Z"
     },
     "timeline-schema.json": {
       "_updated": "2026-03-23T22:13:29Z"
@@ -2391,7 +2391,7 @@
         "_width": 1031,
         "_height": 1678,
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoKABAABUB8JbACdLoAAZv9tCv0AAD0UyS/G9GopmsNeKzZzMhOD6JZCX6GExwmt7jzqDPiAU3298EDedNYLSxEZnOAAA==",
-        "_updated": "2026-04-13T12:10:47Z"
+        "_updated": "2026-04-13T12:12:19Z"
       },
       "na-morozov.png": {
         "_width": 1536,
