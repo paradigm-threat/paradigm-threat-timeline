@@ -1,6 +1,28 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-13T12:41:10.000Z",
+    "message": "docs(timeline): Kerrell/Goggin habitability framing for BCE pyramid thesis",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
+        "href": "/timeline/evt-pyramids-myths-vs-reality"
+      },
+      {
+        "status": "M",
+        "path": "content/16.appendix-authors/16.01.26-bill-kerrell-kathy-goggin.md",
+        "href": "/timeline/evt-bill-kerrell-kathy-goggin"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md",
+        "href": "/timeline/evt-fomenko-and-the-pyramid-question"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-13T12:13:22.000Z",
     "message": "Restore Dr. Jerry Tennant in author profiles hub table.",
     "files": [
@@ -226,11 +248,5 @@
         "href": "/timeline"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-09T16:28:51.000Z",
-    "message": "chore: confirm relay accepts SSH-signed push",
-    "files": []
   }
 ]
