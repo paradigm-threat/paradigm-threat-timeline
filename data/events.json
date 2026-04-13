@@ -3837,6 +3837,25 @@
                 "jerry",
                 "tennant"
               ]
+            },
+            {
+              "id": "evt-bill-kerrell-kathy-goggin",
+              "title": "Bill Kerrell & Kathy Goggin",
+              "type": "article",
+              "md_path": "content/16.appendix-authors/16.01.26-bill-kerrell-kathy-goggin.md",
+              "children": [],
+              "media": [
+                {
+                  "path": "/media/16.appendix/kerrell-goggin.png"
+                }
+              ],
+              "keywords": [
+                "kerrell",
+                "goggin",
+                "pyramid",
+                "energy",
+                "1977"
+              ]
             }
           ],
           "keywords": [
