@@ -13,7 +13,7 @@
     "_count": 0
   },
   "changelog.json": {
-    "_updated": "2026-04-12T14:10:14Z"
+    "_updated": "2026-04-12T14:11:30Z"
   },
   "content": {
     "00.overview": {
@@ -821,7 +821,11 @@
         "_title": "Dr. Jerry Tennant (b. 1940)",
         "_updated": "2026-04-05T13:32:26Z"
       },
-      "_count": 27
+      "16.01.26-bill-kerrell-kathy-goggin.md": {
+        "_title": "Bill Kerrell & Kathy Goggin",
+        "_updated": "2026-04-13T12:11:15Z"
+      },
+      "_count": 28
     },
     "17.appendix-chronology": {
       "17.00.00-appendix.md": {
@@ -1057,7 +1061,7 @@
       },
       "_count": 1
     },
-    "_count": 243
+    "_count": 244
   },
   "content-editions": {
     "README.md": {
@@ -2383,6 +2387,12 @@
         "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JagCdADNClGObzhgAM3t6PGOWASr825AQhaKquxRJUYoOB2vqdypi8rsZVb2GESSWywLgAA=",
         "_updated": "2026-03-01T13:11:15Z"
       },
+      "kerrell-goggin.png": {
+        "_width": 1031,
+        "_height": 1678,
+        "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoKABAABUB8JbACdLoAAZv9tCv0AAD0UyS/G9GopmsNeKzZzMhOD6JZCX6GExwmt7jzqDPiAU3298EDedNYLSxEZnOAAA==",
+        "_updated": "2026-04-13T12:10:47Z"
+      },
       "na-morozov.png": {
         "_width": 1536,
         "_height": 1024,
@@ -2413,9 +2423,9 @@
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA",
         "_updated": "2026-03-01T13:11:15Z"
       },
-      "_count": 17
+      "_count": 18
     },
-    "_count": 185
+    "_count": 186
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -2424,5 +2434,5 @@
     },
     "_count": 1
   },
-  "_count": 478
+  "_count": 480
 }
