@@ -1,6 +1,18 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-13T12:13:22.000Z",
+    "message": "Restore Dr. Jerry Tennant in author profiles hub table.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/16.appendix-authors/16.01.00-author-profiles.md",
+        "href": "/timeline/evt-author-profiles"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-13T12:12:19.000Z",
     "message": "Cite Kerrell & Goggin (1977) pyramid energy handbook across appendix.",
     "files": [
@@ -220,17 +232,5 @@
     "date": "2026-04-09T16:28:51.000Z",
     "message": "chore: confirm relay accepts SSH-signed push",
     "files": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-09T16:28:03.000Z",
-    "message": "fix(.relay): allowedKeys line must be valid for git allowed_signers (no @ in comment)",
-    "files": [
-      {
-        "status": "M",
-        "path": ".relay.yaml",
-        "href": "/timeline"
-      }
-    ]
   }
 ]
