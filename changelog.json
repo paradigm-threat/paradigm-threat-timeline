@@ -1,6 +1,43 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-13T12:12:19.000Z",
+    "message": "Cite Kerrell & Goggin (1977) pyramid energy handbook across appendix.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
+        "href": "/timeline/evt-pyramids-myths-vs-reality"
+      },
+      {
+        "status": "M",
+        "path": "content/16.appendix-authors/16.01.00-author-profiles.md",
+        "href": "/timeline/evt-author-profiles"
+      },
+      {
+        "status": "A",
+        "path": "content/16.appendix-authors/16.01.26-bill-kerrell-kathy-goggin.md",
+        "href": "/timeline/evt-bill-kerrell-kathy-goggin"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.04.00-pyramids-myths-evidence.md",
+        "href": "/timeline/evt-pyramids-myths-evidence"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md",
+        "href": "/timeline/evt-fomenko-and-the-pyramid-question"
+      },
+      {
+        "status": "A",
+        "path": "media/16.appendix/kerrell-goggin.png",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-12T14:11:30.000Z",
     "message": "chore: refresh changelog.json after validation",
     "files": []
@@ -191,18 +228,6 @@
     "files": [
       {
         "status": "M",
-        "path": ".relay.yaml",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-09T16:25:26.000Z",
-    "message": "Add .relay.yaml for relay branch policy (SSH-signed commits on main)",
-    "files": [
-      {
-        "status": "A",
         "path": ".relay.yaml",
         "href": "/timeline"
       }
