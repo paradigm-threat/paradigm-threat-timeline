@@ -13,7 +13,7 @@
     "_count": 0
   },
   "changelog.json": {
-    "_updated": "2026-04-13T12:41:10Z"
+    "_updated": "2026-04-13T12:59:38Z"
   },
   "content": {
     "00.overview": {
@@ -148,7 +148,7 @@
       },
       "03.04.03-pyramids-myths-vs-reality.md": {
         "_title": "Pyramids: Myths vs Reality",
-        "_updated": "2026-04-13T12:41:10Z"
+        "_updated": "2026-04-13T12:59:38Z"
       },
       "03.05.00-september-8-jupiter-disappears.md": {
         "_title": "September 8 \u2014 Jupiter disappears",
@@ -825,7 +825,11 @@
         "_title": "Bill Kerrell & Kathy Goggin",
         "_updated": "2026-04-13T12:41:10Z"
       },
-      "_count": 28
+      "16.01.27-les-brown-the-pyramid.md": {
+        "_title": "Les Brown (*The Pyramid*)",
+        "_updated": "2026-04-14T11:53:00Z"
+      },
+      "_count": 29
     },
     "17.appendix-chronology": {
       "17.00.00-appendix.md": {
@@ -1061,7 +1065,7 @@
       },
       "_count": 1
     },
-    "_count": 244
+    "_count": 245
   },
   "content-editions": {
     "README.md": {
@@ -2393,6 +2397,12 @@
         "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoKABAABUB8JbACdLoAAZv9tCv0AAD0UyS/G9GopmsNeKzZzMhOD6JZCX6GExwmt7jzqDPiAU3298EDedNYLSxEZnOAAA==",
         "_updated": "2026-04-13T12:12:19Z"
       },
+      "les-brown-pyramid.png": {
+        "_width": 1224,
+        "_height": 1584,
+        "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoMABAABUB8JQAAXa/t8hQAAP7giOgxdostxzrzN/tk7xAAAAA=",
+        "_updated": "2026-04-14T11:52:42Z"
+      },
       "na-morozov.png": {
         "_width": 1536,
         "_height": 1024,
@@ -2423,9 +2433,9 @@
         "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEfa9ooeAAA/t2iKZpmKglP0v8vos6qyetEROpRpFrnJ+D89FlehFuJqgTdgYAA",
         "_updated": "2026-03-01T13:11:15Z"
       },
-      "_count": 18
+      "_count": 19
     },
-    "_count": 186
+    "_count": 187
   },
   "prompt": {
     "golden-age-northern-hemisphere-configuration.md": {
@@ -2434,5 +2444,5 @@
     },
     "_count": 1
   },
-  "_count": 480
+  "_count": 482
 }

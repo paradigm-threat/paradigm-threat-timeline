@@ -1,6 +1,18 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-13T12:59:38.000Z",
+    "message": "docs(timeline): cite Michell ley lines on Pyramids Myths vs Reality",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
+        "href": "/timeline/evt-pyramids-myths-vs-reality"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-13T12:41:10.000Z",
     "message": "docs(timeline): Kerrell/Goggin habitability framing for BCE pyramid thesis",
     "files": [
@@ -233,18 +245,6 @@
       {
         "status": "M",
         "path": "scripts/append_article_keywords.py",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-10T16:34:18.000Z",
-    "message": "Trump timeline: 2016 primary lane (Angry Birds gate, Jade Helm rhyme, Cruz/Trump backup); link investigations",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.07.01-trump.md",
         "href": "/timeline"
       }
     ]
