@@ -3856,6 +3856,25 @@
                 "energy",
                 "1977"
               ]
+            },
+            {
+              "id": "evt-les-brown-the-pyramid",
+              "title": "Les Brown (*The Pyramid*)",
+              "type": "article",
+              "md_path": "content/16.appendix-authors/16.01.27-les-brown-the-pyramid.md",
+              "children": [],
+              "media": [
+                {
+                  "path": "/media/16.appendix/les-brown-pyramid.png"
+                }
+              ],
+              "keywords": [
+                "les-brown",
+                "pyramid",
+                "1978",
+                "greenhouse",
+                "pyramid-power"
+              ]
             }
           ],
           "keywords": [
