@@ -13,7 +13,7 @@
     "_count": 0
   },
   "changelog.json": {
-    "_updated": "2026-04-13T12:59:38Z"
+    "_updated": "2026-04-14T11:54:16Z"
   },
   "content": {
     "00.overview": {
@@ -148,7 +148,7 @@
       },
       "03.04.03-pyramids-myths-vs-reality.md": {
         "_title": "Pyramids: Myths vs Reality",
-        "_updated": "2026-04-13T12:59:38Z"
+        "_updated": "2026-04-14T11:54:16Z"
       },
       "03.05.00-september-8-jupiter-disappears.md": {
         "_title": "September 8 \u2014 Jupiter disappears",
@@ -719,7 +719,7 @@
       },
       "16.01.00-author-profiles.md": {
         "_title": "Author Profiles",
-        "_updated": "2026-04-13T12:13:22Z"
+        "_updated": "2026-04-14T11:54:16Z"
       },
       "16.01.01-n-a-morozov.md": {
         "_title": "N. A. Morozov",
@@ -827,7 +827,7 @@
       },
       "16.01.27-les-brown-the-pyramid.md": {
         "_title": "Les Brown (*The Pyramid*)",
-        "_updated": "2026-04-14T11:53:00Z"
+        "_updated": "2026-04-14T11:54:16Z"
       },
       "_count": 29
     },
@@ -1149,7 +1149,7 @@
   },
   "data": {
     "events.json": {
-      "_updated": "2026-04-13T12:12:19Z"
+      "_updated": "2026-04-14T11:54:16Z"
     },
     "timeline-schema.json": {
       "_updated": "2026-03-23T22:13:29Z"
@@ -2401,7 +2401,7 @@
         "_width": 1224,
         "_height": 1584,
         "_lqip": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoMABAABUB8JQAAXa/t8hQAAP7giOgxdostxzrzN/tk7xAAAAA=",
-        "_updated": "2026-04-14T11:52:42Z"
+        "_updated": "2026-04-14T11:54:16Z"
       },
       "na-morozov.png": {
         "_width": 1536,
