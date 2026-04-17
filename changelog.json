@@ -1,6 +1,33 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-14T11:54:16.000Z",
+    "message": "docs(timeline): Les Brown appendix and Pyramids Myths cite",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
+        "href": "/timeline/evt-pyramids-myths-vs-reality"
+      },
+      {
+        "status": "M",
+        "path": "content/16.appendix-authors/16.01.00-author-profiles.md",
+        "href": "/timeline/evt-author-profiles"
+      },
+      {
+        "status": "A",
+        "path": "content/16.appendix-authors/16.01.27-les-brown-the-pyramid.md",
+        "href": "/timeline/evt-les-brown-the-pyramid"
+      },
+      {
+        "status": "A",
+        "path": "media/16.appendix/les-brown-pyramid.png",
+        "href": "/timeline"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-13T12:59:38.000Z",
     "message": "docs(timeline): cite Michell ley lines on Pyramids Myths vs Reality",
     "files": [
@@ -163,88 +190,6 @@
       {
         "status": "M",
         "path": "scripts/generate-flyer.py",
-        "href": "/timeline"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-10T22:29:47.000Z",
-    "message": "Content and tooling: timeline articles, appendix edits, append_article_keywords, CONTENT_MARKDOWN_STYLE",
-    "files": [
-      {
-        "status": "M",
-        "path": "content-editions/README.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "content/02.the-golden-age/02.01.00-proto-saturn-joins-the-sun-s-orbit.md",
-        "href": "/timeline/evt-4077-bce-proto-saturn-joins-sun-orbit"
-      },
-      {
-        "status": "M",
-        "path": "content/03.the-dark-ages/03.11.00-march-23-priori-mars-loses-its.md",
-        "href": "/timeline/evt-march-23-priori-mars-loses-its"
-      },
-      {
-        "status": "M",
-        "path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.01-the-masons.md",
-        "href": "/timeline/evt-the-masons"
-      },
-      {
-        "status": "M",
-        "path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.01.02-the-giants-of-the-rus-horde.md",
-        "href": "/timeline/evt-the-giants-of-the-rus-horde"
-      },
-      {
-        "status": "M",
-        "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.02.00-1453-ce-fall-of-czar-grad-constantinople.md",
-        "href": "/timeline/evt-1453-ce-fall-of-czar-grad-constantinople"
-      },
-      {
-        "status": "M",
-        "path": "content/11.ce-17th-romanovs-rise-to-power/11.01.01-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne.md",
-        "href": "/timeline/evt-1613-ce-romanovs-zakharyin-yurievs-dynasty-takes-the-throne"
-      },
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.08.00-trail-tears-century-long-erasure.md",
-        "href": "/timeline/evt-trail-tears-century-long-erasure"
-      },
-      {
-        "status": "M",
-        "path": "content/13.ce-19th-rise-of-communism/13.08.00-blood-rain-phenomenon.md",
-        "href": "/timeline/evt-blood-rain-phenomenon"
-      },
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.12.02-1948-ce-israel-creation-british-mandate.md",
-        "href": "/timeline/evt-1948-ce-israel-creation-british-mandate"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.03.01-year-length-calendar-evidence.md",
-        "href": "/timeline/evt-year-length-calendar-evidence"
-      },
-      {
-        "status": "M",
-        "path": "content/19.appendix-conflict/19.48.02-slave-trades-evidence.md",
-        "href": "/timeline/evt-slave-trades-evidence"
-      },
-      {
-        "status": "M",
-        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
-        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
-      },
-      {
-        "status": "M",
-        "path": "docs/CONTENT_MARKDOWN_STYLE.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/append_article_keywords.py",
         "href": "/timeline"
       }
     ]
