@@ -160,7 +160,7 @@ for md, evts in sorted(file_to_dated_events.items()):
 # Save events.json if changed
 if json_updated and not DRY_RUN:
     with open(EVENTS_PATH, "w") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, separators=(",", ":"), ensure_ascii=False)
         f.write("\n")
     print(f"\nUpdated {EVENTS_PATH}")
 

@@ -84,7 +84,7 @@ def update_events_json(folder_map: dict[str, str]) -> int:
     walk(data.get('introArticles', []))
 
     with open(EVENTS_JSON, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, separators=(",", ":"), ensure_ascii=False)
         f.write('\n')
 
     return count[0]

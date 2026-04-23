@@ -157,7 +157,7 @@ def main():
     
     # Write updated events.json
     with open(EVENTS_JSON, 'w') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, separators=(",", ":"), ensure_ascii=False)
         f.write('\n')
     
     print(f"\nDone! Renamed {len(renames)} files and updated events.json.")

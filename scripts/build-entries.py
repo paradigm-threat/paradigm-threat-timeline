@@ -386,7 +386,7 @@ def main():
     }
 
     with open(EVENTS_JSON, "w", encoding="utf-8") as f:
-        json.dump(out, f, indent=2)
+        json.dump(out, f, separators=(",", ":"), ensure_ascii=False)
 
     def count_entries(nodes):
         return sum(1 + count_entries(n.get("children", [])) for n in nodes)

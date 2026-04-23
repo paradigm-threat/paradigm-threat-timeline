@@ -209,7 +209,7 @@ def main():
     update_md_paths(data.get("entries", []), old_to_new)
 
     with open(events_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, separators=(",", ":"), ensure_ascii=False)
         f.write("\n")
 
     print(f"\n── events.json updated ({len(old_to_new)} paths rewritten) ───────────")

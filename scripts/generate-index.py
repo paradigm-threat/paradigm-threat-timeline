@@ -6,6 +6,9 @@ import subprocess
 from datetime import datetime, timezone
 from typing import Dict, Optional
 
+# Minified JSON (smaller index for fetch). Images keep _width/_height only.
+_JSON_DUMP_KW = {"separators": (",", ":"), "ensure_ascii": False}
+
 
 def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
     """Newest-first `git log`; first sighting of each path = last commit touching it."""
@@ -44,24 +47,6 @@ def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
             last[key] = current_ts
     return last
 
-def get_lqip(image_path):
-    """Generates a 16x16 base64-encoded WebP LQIP string for an image. Returns None if PIL unavailable."""
-    try:
-        from PIL import Image
-        import base64
-        import io
-        with Image.open(image_path) as img:
-            img.thumbnail((16, 16))
-            if img.mode in ("RGBA", "P"):
-                img = img.convert("RGBA")
-            else:
-                img = img.convert("RGB")
-            buffer = io.BytesIO()
-            img.save(buffer, format="WEBP", quality=20)
-            base64_str = base64.b64encode(buffer.getvalue()).decode('utf-8')
-            return f"data:image/webp;base64,{base64_str}"
-    except Exception:
-        return None
 
 def generate_index():
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -134,9 +119,6 @@ def generate_index():
                                 file_data["_width"], file_data["_height"] = img.size
                         except Exception:
                             pass
-                        lqip = get_lqip(full_path)
-                        if lqip:
-                            file_data["_lqip"] = lqip
 
                     rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
                     ts = git_times.get(rel_posix)
@@ -159,8 +141,8 @@ def generate_index():
     tree, count = build_tree(repo_dir)
     tree['_count'] = count
 
-    with open(output_file, 'w') as f:
-        json.dump(tree, f, indent=2)
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(tree, f, **_JSON_DUMP_KW)
 
     print(f"Generated index.json with {count} files at {output_file}")
 
