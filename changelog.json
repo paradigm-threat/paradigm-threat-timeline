@@ -1,6 +1,38 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-17T12:49:24.000Z",
+    "message": "Link spore/ecological disaster investigation from PP appendix, thesis, and chestnut blight.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.06.00-american-chestnut-blight-martian.md",
+        "href": "/timeline/evt-american-chestnut-blight-martian"
+      },
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.43.00-predictive-programming-fiction-as-control.md",
+        "href": "/timeline/evt-predictive-programming-fiction-as-control"
+      },
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
+        "href": "/timeline/evt-predictive-programming-literature"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/14.ce-20th-the-1917-revolution/chestnut-blight.png",
+        "alt": "American Chestnut Blight"
+      },
+      {
+        "src": "/media/15.ce-21st-the-final-struggle/predictive-programming.png",
+        "alt": "Predictive Programming"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-14T11:54:16.000Z",
     "message": "docs(timeline): Les Brown appendix and Pyramids Myths cite",
     "files": [
@@ -24,6 +56,19 @@
         "path": "media/16.appendix/les-brown-pyramid.png",
         "href": "/timeline"
       }
+    ],
+    "images": [
+      {
+        "src": "/media/16.appendix/les-brown-pyramid.png"
+      },
+      {
+        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
+        "alt": "Pyramids: Myths vs Reality"
+      },
+      {
+        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
+        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
+      }
     ]
   },
   {
@@ -35,6 +80,16 @@
         "status": "M",
         "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
         "href": "/timeline/evt-pyramids-myths-vs-reality"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
+        "alt": "Pyramids: Myths vs Reality"
+      },
+      {
+        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
+        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
       }
     ]
   },
@@ -58,6 +113,20 @@
         "path": "content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md",
         "href": "/timeline/evt-fomenko-and-the-pyramid-question"
       }
+    ],
+    "images": [
+      {
+        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
+        "alt": "Pyramids: Myths vs Reality"
+      },
+      {
+        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
+        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
+      },
+      {
+        "src": "/media/16.appendix/kerrell-goggin.png",
+        "alt": "Bill Kerrell and Kathy Goggin — pyramid energy handbook (1977)"
+      }
     ]
   },
   {
@@ -70,7 +139,8 @@
         "path": "content/16.appendix-authors/16.01.00-author-profiles.md",
         "href": "/timeline/evt-author-profiles"
       }
-    ]
+    ],
+    "images": []
   },
   {
     "repo": "paradigm-threat-timeline",
@@ -107,13 +177,27 @@
         "path": "media/16.appendix/kerrell-goggin.png",
         "href": "/timeline"
       }
+    ],
+    "images": [
+      {
+        "src": "/media/16.appendix/kerrell-goggin.png"
+      },
+      {
+        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
+        "alt": "Pyramids: Myths vs Reality"
+      },
+      {
+        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
+        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
+      }
     ]
   },
   {
     "repo": "paradigm-threat-timeline",
     "date": "2026-04-12T14:11:30.000Z",
     "message": "chore: refresh changelog.json after validation",
-    "files": []
+    "files": [],
+    "images": []
   },
   {
     "repo": "paradigm-threat-timeline",
@@ -125,73 +209,7 @@
         "path": "scripts/generate-changelog.cjs",
         "href": "/timeline"
       }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-12T12:42:39.000Z",
-    "message": "Timeline: Fra Mauro Sahara investigation links; ch15 renames; Jade Helm primary",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
-        "href": "/timeline/evt-the-mudflood-world-cataclysm"
-      },
-      {
-        "status": "A",
-        "path": "content/15.ce-21st-the-final-struggle/15.07.00-jade-helm-cruz-2016-primary.md",
-        "href": "/timeline/evt-jade-helm-cruz-2016-primary"
-      },
-      {
-        "status": "R",
-        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
-        "href": "/timeline/evt-historical-antibodies"
-      },
-      {
-        "status": "R",
-        "path": "content/15.ce-21st-the-final-struggle/15.08.01-trump.md",
-        "href": "/timeline/evt-trump"
-      },
-      {
-        "status": "R",
-        "path": "content/15.ce-21st-the-final-struggle/15.11.00-where-we-go-from-here.md",
-        "href": "/timeline/evt-where-we-go-from-here"
-      },
-      {
-        "status": "M",
-        "path": "content/21.appendix-cataclysm-memory/21.53.00-mudflood-evidence.md",
-        "href": "/timeline/evt-mudflood-evidence"
-      },
-      {
-        "status": "M",
-        "path": "docs/CONCLUSIONS.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/CONTENT_REDUCTION_RECOMMENDATIONS.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "docs/CONTENT_SCAN.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "R",
-        "path": "media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "href": "/timeline"
-      },
-      {
-        "status": "R",
-        "path": "media/15.ce-21st-the-final-struggle/15.11.00-where-we-go-from-here.png",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-flyer.py",
-        "href": "/timeline"
-      }
-    ]
+    ],
+    "images": []
   }
 ]
