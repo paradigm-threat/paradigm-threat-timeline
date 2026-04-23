@@ -256,7 +256,7 @@ def step2_update_events_json(ren: Renumberer, data: dict) -> None:
             updated += 1
     # The entry dicts are the same objects inside `data`, so write it out
     with open(EVENTS_JSON, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, separators=(",", ":"), ensure_ascii=False)
         f.write("\n")
     print(f"  {updated} md_path values updated.")
 

@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-23T12:01:37.000Z",
+    "message": "Update changelog data and generate-changelog script",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-17T12:49:24.000Z",
     "message": "Link spore/ecological disaster investigation from PP appendix, thesis, and chestnut blight.",
     "files": [
@@ -197,19 +210,6 @@
     "date": "2026-04-12T14:11:30.000Z",
     "message": "chore: refresh changelog.json after validation",
     "files": [],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-12T14:10:14.000Z",
-    "message": "changelog: paths-first JSON without commit hash; optional staged top",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/generate-changelog.cjs",
-        "href": "/timeline"
-      }
-    ],
     "images": []
   }
 ]

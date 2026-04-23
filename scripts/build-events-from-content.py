@@ -453,7 +453,7 @@ def main() -> int:
 
     os.makedirs(os.path.dirname(EVENTS_JSON), exist_ok=True)
     with open(EVENTS_JSON, "w", encoding="utf-8") as f:
-        json.dump(out, f, indent=2)
+        json.dump(out, f, separators=(",", ":"), ensure_ascii=False)
 
     def count(nodes):
         return sum(1 + count(n.get("children", [])) for n in nodes)
