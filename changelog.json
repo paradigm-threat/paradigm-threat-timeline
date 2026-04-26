@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-26T11:55:56.000Z",
+    "message": "Timeline: embed verified JC and American Hebrew primary quotes (1919–1920).",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.02.00-bolshevik-revolution-fulfilment-of.md",
+        "href": "/timeline/evt-bolshevik-revolution-fulfilment-of"
+      },
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.02.01-1919-ce-the-aftermath-flight-exile-and-erasure.md",
+        "href": "/timeline/evt-1919-ce-the-aftermath-flight-exile-and-erasure"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-23T12:58:16.000Z",
     "message": "Minify JSON outputs; drop index LQIP; align events.json writers",
     "files": [
@@ -207,55 +225,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-13T12:12:19.000Z",
-    "message": "Cite Kerrell & Goggin (1977) pyramid energy handbook across appendix.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
-        "href": "/timeline/evt-pyramids-myths-vs-reality"
-      },
-      {
-        "status": "M",
-        "path": "content/16.appendix-authors/16.01.00-author-profiles.md",
-        "href": "/timeline/evt-author-profiles"
-      },
-      {
-        "status": "A",
-        "path": "content/16.appendix-authors/16.01.26-bill-kerrell-kathy-goggin.md",
-        "href": "/timeline/evt-bill-kerrell-kathy-goggin"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.04.00-pyramids-myths-evidence.md",
-        "href": "/timeline/evt-pyramids-myths-evidence"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md",
-        "href": "/timeline/evt-fomenko-and-the-pyramid-question"
-      },
-      {
-        "status": "A",
-        "path": "media/16.appendix/kerrell-goggin.png",
-        "href": "/timeline"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/16.appendix/kerrell-goggin.png"
-      },
-      {
-        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
-        "alt": "Pyramids: Myths vs Reality"
-      },
-      {
-        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
-        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
-      }
-    ]
   }
 ]
