@@ -1,6 +1,59 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-23T12:58:16.000Z",
+    "message": "Minify JSON outputs; drop index LQIP; align events.json writers",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/add-dates-to-filenames.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/build-entries.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/build-events-from-content.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/fix-date-prefixes.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/migrate-content-to-folders.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/migrate-to-content.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/populate-media.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/renumber-from-hierarchy.py",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-23T12:01:37.000Z",
     "message": "Update changelog data and generate-changelog script",
     "files": [
@@ -204,12 +257,5 @@
         "alt": "Pyramids were functioning Star Gates during the Dark Ages"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-12T14:11:30.000Z",
-    "message": "chore: refresh changelog.json after validation",
-    "files": [],
-    "images": []
   }
 ]
