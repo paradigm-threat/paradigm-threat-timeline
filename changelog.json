@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-26T14:39:54.000Z",
+    "message": "docs(credits): add Tommy Mac and Hiroki Abe to contributors table",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/22.credits/22.00.00-credits.md",
+        "href": "/timeline/evt-credits"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-26T11:55:56.000Z",
     "message": "Timeline: embed verified JC and American Hebrew primary quotes (1919–1920).",
     "files": [
@@ -212,18 +225,5 @@
         "alt": "Bill Kerrell and Kathy Goggin — pyramid energy handbook (1977)"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-13T12:13:22.000Z",
-    "message": "Restore Dr. Jerry Tennant in author profiles hub table.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/16.appendix-authors/16.01.00-author-profiles.md",
-        "href": "/timeline/evt-author-profiles"
-      }
-    ],
-    "images": []
   }
 ]
