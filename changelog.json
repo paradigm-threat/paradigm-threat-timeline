@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-27T13:58:12.000Z",
+    "message": "MudFlood article: cite 1984 CIA Mars RV as MFEE phenomenology cross-read",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
+        "href": "/timeline/evt-the-mudflood-world-cataclysm"
+      },
+      {
+        "status": "M",
+        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
+        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
+        "alt": "MudFlood and Pugachev — the final Absu dispersal"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-27T11:46:29.000Z",
     "message": "Cursor: paradigm-threat æther vocabulary rule (mirrors files repo canon)",
     "files": [
@@ -171,28 +194,6 @@
       {
         "src": "/media/16.appendix/les-brown-pyramid.png"
       },
-      {
-        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
-        "alt": "Pyramids: Myths vs Reality"
-      },
-      {
-        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
-        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-13T12:59:38.000Z",
-    "message": "docs(timeline): cite Michell ley lines on Pyramids Myths vs Reality",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
-        "href": "/timeline/evt-pyramids-myths-vs-reality"
-      }
-    ],
-    "images": [
       {
         "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
         "alt": "Pyramids: Myths vs Reality"
