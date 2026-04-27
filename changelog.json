@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-27T11:46:29.000Z",
+    "message": "Cursor: paradigm-threat æther vocabulary rule (mirrors files repo canon)",
+    "files": [
+      {
+        "status": "A",
+        "path": ".cursor/rules/paradigm-threat-aether-vocabulary.mdc",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-26T14:39:54.000Z",
     "message": "docs(credits): add Tommy Mac and Hiroki Abe to contributors table",
     "files": [
@@ -187,42 +200,6 @@
       {
         "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
         "alt": "Pyramids were functioning Star Gates during the Dark Ages"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-13T12:41:10.000Z",
-    "message": "docs(timeline): Kerrell/Goggin habitability framing for BCE pyramid thesis",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/03.the-dark-ages/03.04.03-pyramids-myths-vs-reality.md",
-        "href": "/timeline/evt-pyramids-myths-vs-reality"
-      },
-      {
-        "status": "M",
-        "path": "content/16.appendix-authors/16.01.26-bill-kerrell-kathy-goggin.md",
-        "href": "/timeline/evt-bill-kerrell-kathy-goggin"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.04.01-fomenko-and-the-pyramid-question.md",
-        "href": "/timeline/evt-fomenko-and-the-pyramid-question"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/03.the-dark-ages/pyramid-myths-vs-reality.png",
-        "alt": "Pyramids: Myths vs Reality"
-      },
-      {
-        "src": "/media/03.the-dark-ages/history_pyramid_gates1.jpg",
-        "alt": "Pyramids were functioning Star Gates during the Dark Ages"
-      },
-      {
-        "src": "/media/16.appendix/kerrell-goggin.png",
-        "alt": "Bill Kerrell and Kathy Goggin — pyramid energy handbook (1977)"
       }
     ]
   }
