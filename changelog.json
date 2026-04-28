@@ -1,6 +1,52 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-27T17:17:59.000Z",
+    "message": "Timeline: foreground 1984 CIA Mars RV PDF as primary recent-Mars evidence; cross-links and autogen",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
+        "href": "/timeline/evt-the-mudflood-world-cataclysm"
+      },
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.05.00-1774-ce-the-mars-catastrophe.md",
+        "href": "/timeline/evt-1774-ce-the-mars-catastrophe"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
+        "href": "/timeline/evt-mars-contacts-timeline"
+      },
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
+        "href": "/timeline/evt-predictive-programming-literature"
+      },
+      {
+        "status": "M",
+        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
+        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
+        "alt": "MudFlood and Pugachev — the final Absu dispersal"
+      },
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png",
+        "alt": "The Mars Catastrophe"
+      },
+      {
+        "src": "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png",
+        "alt": "Melted Cities Geometry"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-27T15:45:00.000Z",
     "message": "Fix Mars RV links after Mars-only investigation split",
     "files": [
@@ -154,37 +200,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-17T12:49:24.000Z",
-    "message": "Link spore/ecological disaster investigation from PP appendix, thesis, and chestnut blight.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.06.00-american-chestnut-blight-martian.md",
-        "href": "/timeline/evt-american-chestnut-blight-martian"
-      },
-      {
-        "status": "M",
-        "path": "content/18.appendix-narrative/18.43.00-predictive-programming-fiction-as-control.md",
-        "href": "/timeline/evt-predictive-programming-fiction-as-control"
-      },
-      {
-        "status": "M",
-        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
-        "href": "/timeline/evt-predictive-programming-literature"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/14.ce-20th-the-1917-revolution/chestnut-blight.png",
-        "alt": "American Chestnut Blight"
-      },
-      {
-        "src": "/media/15.ce-21st-the-final-struggle/predictive-programming.png",
-        "alt": "Predictive Programming"
-      }
-    ]
   }
 ]
