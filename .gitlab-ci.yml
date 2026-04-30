@@ -1,18 +1,4 @@
-# GitLab Pages — static export of the tracked tree (same intent as GitHub Actions upload path: '.').
-# Avoid rsync ./ public/ if a top-level public/ ever exists in-repo (infinite public/public nesting).
-# Set the project default branch in GitLab to match $CI_DEFAULT_BRANCH.
-
-image: alpine:latest
-
-pages:
-  stage: deploy
-  before_script:
-    - apk add --no-cache git
-  script:
-    - mkdir -p public
-    - git archive HEAD | tar -x -C public
-  artifacts:
-    paths:
-      - public
+# CI/CD disabled — re-enable by restoring the previous .gitlab-ci.yml from git history.
+workflow:
   rules:
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+    - when: never
