@@ -7,6 +7,6 @@ import { optimizeRasterFromGetContext } from '@relay/image';
 
 export default function run(ctx, next) {
   var optimized = optimizeRasterFromGetContext(ctx);
-  if (optimized !== null) return optimized;
-  return next();
+  /* CleverScript: Statement::Return inside if/for blocks is ignored; use one tail return + ternary. */
+  return optimized !== null ? optimized : next();
 }

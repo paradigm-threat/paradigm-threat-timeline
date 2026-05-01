@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-01T15:21:54.000Z",
+    "message": "feat(relay): add server.hooks.get for raster WebP (?w=) and dynamic GET",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "hooks/server/get.cs",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-30T21:05:16.000Z",
     "message": "ci: disable GitLab CI/CD (workflow when: never)",
     "files": [
@@ -167,24 +185,6 @@
         "status": "M",
         "path": "content/22.credits/22.00.00-credits.md",
         "href": "/timeline/evt-credits"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-26T11:55:56.000Z",
-    "message": "Timeline: embed verified JC and American Hebrew primary quotes (1919–1920).",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.02.00-bolshevik-revolution-fulfilment-of.md",
-        "href": "/timeline/evt-bolshevik-revolution-fulfilment-of"
-      },
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.02.01-1919-ce-the-aftermath-flight-exile-and-erasure.md",
-        "href": "/timeline/evt-1919-ce-the-aftermath-flight-exile-and-erasure"
       }
     ],
     "images": []
