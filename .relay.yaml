@@ -1,3 +1,8 @@
+server:
+  hooks:
+    get:
+      path: hooks/server/get.cs
+
 git:
   branchRules:
     branches:

@@ -1,6 +1,60 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-04-30T21:05:16.000Z",
+    "message": "ci: disable GitLab CI/CD (workflow when: never)",
+    "files": [
+      {
+        "status": "M",
+        "path": ".gitlab-ci.yml",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
+    "date": "2026-04-28T10:53:18.000Z",
+    "message": "Relink Mars RV investigation paths to controlled_opposition/investigations/.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
+        "href": "/timeline/evt-the-mudflood-world-cataclysm"
+      },
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.05.00-1774-ce-the-mars-catastrophe.md",
+        "href": "/timeline/evt-1774-ce-the-mars-catastrophe"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
+        "href": "/timeline/evt-mars-contacts-timeline"
+      },
+      {
+        "status": "M",
+        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
+        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
+        "alt": "MudFlood and Pugachev — the final Absu dispersal"
+      },
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png",
+        "alt": "The Mars Catastrophe"
+      },
+      {
+        "src": "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png",
+        "alt": "Melted Cities Geometry"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-04-27T17:17:59.000Z",
     "message": "Timeline: foreground 1984 CIA Mars RV PDF as primary recent-Mars evidence; cross-links and autogen",
     "files": [
@@ -131,72 +185,6 @@
         "status": "M",
         "path": "content/14.ce-20th-the-1917-revolution/14.02.01-1919-ce-the-aftermath-flight-exile-and-erasure.md",
         "href": "/timeline/evt-1919-ce-the-aftermath-flight-exile-and-erasure"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-23T12:58:16.000Z",
-    "message": "Minify JSON outputs; drop index LQIP; align events.json writers",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/add-dates-to-filenames.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/build-entries.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/build-events-from-content.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/fix-date-prefixes.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/migrate-content-to-folders.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/migrate-to-content.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/populate-media.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/renumber-from-hierarchy.py",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-23T12:01:37.000Z",
-    "message": "Update changelog data and generate-changelog script",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/generate-changelog.cjs",
-        "href": "/timeline"
       }
     ],
     "images": []
