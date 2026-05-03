@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-01T15:31:10.000Z",
+    "message": "fix(relay): CleverScript ignores return inside if blocks; use ternary in GET hook.",
+    "files": [
+      {
+        "status": "M",
+        "path": "hooks/server/get.cs",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-01T15:21:54.000Z",
     "message": "feat(relay): add server.hooks.get for raster WebP (?w=) and dynamic GET",
     "files": [
@@ -172,19 +185,6 @@
         "status": "A",
         "path": ".cursor/rules/paradigm-threat-aether-vocabulary.mdc",
         "href": "/timeline"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-26T14:39:54.000Z",
-    "message": "docs(credits): add Tommy Mac and Hiroki Abe to contributors table",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/22.credits/22.00.00-credits.md",
-        "href": "/timeline/evt-credits"
       }
     ],
     "images": []
