@@ -10,6 +10,31 @@ from typing import Dict, Optional
 _JSON_DUMP_KW = {"separators": (",", ":"), "ensure_ascii": False}
 
 
+def _title_from_cs_file(full_path: str) -> str | None:
+    def _is_decorative(s: str) -> bool:
+        t = s.strip()
+        return bool(t) and len(set(t)) <= 2 and all(c in "=-#*_" for c in t)
+
+    try:
+        with open(full_path, "r", encoding="utf-8") as f:
+            for _ in range(40):
+                line = f.readline()
+                if not line:
+                    break
+                s = line.strip()
+                if s.startswith("//"):
+                    t = s[2:].strip()
+                    if t and not _is_decorative(t):
+                        return t[:240]
+                elif s.startswith("/*") or not s:
+                    continue
+                else:
+                    break
+    except OSError:
+        pass
+    return None
+
+
 def _git_last_commit_unix_times(repo_dir: str) -> Dict[str, int]:
     """Newest-first `git log`; first sighting of each path = last commit touching it."""
     try:
@@ -89,52 +114,58 @@ def generate_index():
                 total_files += count
             else:
                 ext = os.path.splitext(item)[1].lower()
-                if ext in include_exts:
-                    title = None
-                    if ext == '.md':
-                        try:
-                            with open(full_path, 'r', encoding='utf-8') as f:
-                                for _ in range(20):
-                                    line = f.readline()
-                                    if not line:
-                                        break
-                                    line = line.strip()
-                                    if line.startswith('# '):
-                                        title = line[2:].strip()
-                                        break
-                                    if line.startswith('title:'):
-                                        title = line[6:].strip().strip('"').strip("'")
-                                        break
-                        except Exception:
-                            pass
+                rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
+                is_hooks_cs = ext == ".cs" and rel_posix.startswith("hooks/")
+                if ext not in include_exts and not is_hooks_cs:
+                    continue
+                title = None
+                if ext == ".md":
+                    try:
+                        with open(full_path, 'r', encoding='utf-8') as f:
+                            for _ in range(20):
+                                line = f.readline()
+                                if not line:
+                                    break
+                                line = line.strip()
+                                if line.startswith('# '):
+                                    title = line[2:].strip()
+                                    break
+                                if line.startswith('title:'):
+                                    title = line[6:].strip().strip('"').strip("'")
+                                    break
+                    except Exception:
+                        pass
 
-                    file_data = {}
-                    if title:
-                        file_data["_title"] = title
+                file_data = {}
+                if title:
+                    file_data["_title"] = title
+                if is_hooks_cs:
+                    cs_title = _title_from_cs_file(full_path)
+                    if cs_title:
+                        file_data["_title"] = cs_title
 
-                    if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
-                        try:
-                            from PIL import Image
-                            with Image.open(full_path) as img:
-                                file_data["_width"], file_data["_height"] = img.size
-                        except Exception:
-                            pass
+                if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
+                    try:
+                        from PIL import Image
+                        with Image.open(full_path) as img:
+                            file_data["_width"], file_data["_height"] = img.size
+                    except Exception:
+                        pass
 
-                    rel_posix = os.path.relpath(full_path, repo_dir).replace("\\", "/")
-                    ts = git_times.get(rel_posix)
-                    if ts is not None:
-                        dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                ts = git_times.get(rel_posix)
+                if ts is not None:
+                    dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                    file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                else:
+                    try:
+                        mtime = os.path.getmtime(full_path)
+                        dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
                         file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-                    else:
-                        try:
-                            mtime = os.path.getmtime(full_path)
-                            dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
-                            file_data["_updated"] = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-                        except OSError:
-                            pass
+                    except OSError:
+                        pass
 
-                    tree[item] = file_data
-                    total_files += 1
+                tree[item] = file_data
+                total_files += 1
 
         return tree, total_files
 
