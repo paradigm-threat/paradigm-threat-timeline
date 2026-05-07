@@ -1,6 +1,49 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-03T14:07:51.000Z",
+    "message": "Timeline: 2019 Ares Le Mandat corpus + Mars dossier ties.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/00.overview/00.02.01-authors-challenging-chronology.md",
+        "href": "/timeline/evt-authors-challenging-chronology"
+      },
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.04.00-instant-fossilization-electric.md",
+        "href": "/timeline/evt-instant-fossilization-electric"
+      },
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.08.00-mars-literature-as-reclassified-nonfiction.md",
+        "href": "/timeline/evt-mars-literature-as-reclassified-nonfiction"
+      },
+      {
+        "status": "A",
+        "path": "content/14.ce-20th-the-1917-revolution/14.14.00-2019-ce-ares-le-mandat-mars-earth-influence-corpus.md",
+        "href": "/timeline/evt-2019-ce-ares-le-mandat-first-edition"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
+        "href": "/timeline/evt-mars-contacts-timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-index.py",
+        "href": "/timeline"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png",
+        "alt": "Electric discharge petrification"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-01T15:31:10.000Z",
     "message": "fix(relay): CleverScript ignores return inside if blocks; use ternary in GET hook.",
     "files": [
@@ -175,18 +218,5 @@
         "alt": "MudFlood and Pugachev — the final Absu dispersal"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-27T11:46:29.000Z",
-    "message": "Cursor: paradigm-threat æther vocabulary rule (mirrors files repo canon)",
-    "files": [
-      {
-        "status": "A",
-        "path": ".cursor/rules/paradigm-threat-aether-vocabulary.mdc",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
   }
 ]
