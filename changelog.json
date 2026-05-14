@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-07T15:38:04.000Z",
+    "message": "feat(relay): add default client hook hooks/client/get.jsx",
+    "files": [
+      {
+        "status": "A",
+        "path": "hooks/client/get.jsx",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-03T14:07:51.000Z",
     "message": "Timeline: 2019 Ares Le Mandat corpus + Mars dossier ties.",
     "files": [
@@ -60,11 +73,6 @@
     "date": "2026-05-01T15:21:54.000Z",
     "message": "feat(relay): add server.hooks.get for raster WebP (?w=) and dynamic GET",
     "files": [
-      {
-        "status": "M",
-        "path": ".relay.yaml",
-        "href": "/timeline"
-      },
       {
         "status": "A",
         "path": "hooks/server/get.cs",
@@ -177,29 +185,6 @@
     "repo": "paradigm-threat-timeline",
     "date": "2026-04-27T15:45:00.000Z",
     "message": "Fix Mars RV links after Mars-only investigation split",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
-        "href": "/timeline/evt-the-mudflood-world-cataclysm"
-      },
-      {
-        "status": "M",
-        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
-        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
-        "alt": "MudFlood and Pugachev — the final Absu dispersal"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-27T13:58:12.000Z",
-    "message": "MudFlood article: cite 1984 CIA Mars RV as MFEE phenomenology cross-read",
     "files": [
       {
         "status": "M",

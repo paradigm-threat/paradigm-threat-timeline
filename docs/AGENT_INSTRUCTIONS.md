@@ -40,9 +40,9 @@ Dates are extracted from the filename slug when present:
 - `1774-ce` → single year 1774 CE
 - `4077-bce` → single year 4077 BCE
 
-### Optional fields (YAML frontmatter)
+### Event metadata (YAML frontmatter in `content/` only)
 
-Add to the markdown file's frontmatter: `media`, `related_events`, `duplicate_of`, `tags`, `timeline_sources`, `context`, `categories`.
+Timeline **chapter** markdown under `content/` may start with a `---` block for **event machine fields** (`id`, `dates`, `media`, `related_events`, `duplicate_of`, etc.) consumed by `build-events-from-content.py`. This is **not** the same as paradigm-threat-files **article** hub frontmatter (`title:`, `description:`, `keywords:`) — those article fields belong in the **body** (`#` title, `> **TL;DR:**`, `Keywords:` line). Do **not** add article-style hub YAML to timeline chapters.
 
 ### When adding a new content file
 
