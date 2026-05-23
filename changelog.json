@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-14T00:09:57.000Z",
+    "message": "Clarify event YAML vs article hub frontmatter in agent instructions",
+    "files": [
+      {
+        "status": "M",
+        "path": "docs/AGENT_INSTRUCTIONS.md",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-07T15:38:04.000Z",
     "message": "feat(relay): add default client hook hooks/client/get.jsx",
     "files": [
@@ -178,29 +191,6 @@
       {
         "src": "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png",
         "alt": "Melted Cities Geometry"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-27T15:45:00.000Z",
-    "message": "Fix Mars RV links after Mars-only investigation split",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
-        "href": "/timeline/evt-the-mudflood-world-cataclysm"
-      },
-      {
-        "status": "M",
-        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
-        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
-        "alt": "MudFlood and Pugachev — the final Absu dispersal"
       }
     ]
   }
