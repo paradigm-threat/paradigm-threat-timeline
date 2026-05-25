@@ -136,7 +136,7 @@ When generating or replacing illustrations for timeline articles:
 
 **Blog posts live in paradigm-threat-files** (`paradigm-threat-files/blog/`), not in this repo. Add new blog entries there. See paradigm-threat-files `docs/BLOG.md` for conventions.
 
-**Before drafting a new post:** Always run **`git log`** in **paradigm-threat-files**, **paradigm-threat-timeline**, and **paradigm-threat-site** since the **previous** `blog/YYYY-MM-DD-*.md` (see `docs/BLOG.md` § *Git history* in paradigm-threat-files). Do not summarize from memory alone.
+**Before drafting a new post:** Always run **`git log`** in **paradigm-threat-files**, **paradigm-threat-timeline**, and **paradigm-threat-site** since the **previous** `blog/YYYY-MM-DD-*.md` (see `docs/BLOG.md` § *Git history* in paradigm-threat-files). Do not summarize from memory alone. Target **~2×** typical 2026 roundup length and expanded per-item coverage — see `docs/BLOG.md` § *Length and depth*.
 
 **URLs in blog files:** Use **fully absolute URLs** — `https://paradigmthreat.net/path` — for all links and images. Do not use relative paths.
 

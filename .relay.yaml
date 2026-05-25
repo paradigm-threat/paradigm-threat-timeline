@@ -4,6 +4,10 @@ client:
   hooks:
     get:
       path: hooks/client/get.jsx
+server:
+  hooks:
+    get:
+      path: hooks/server/get.cs
 git:
   branchRules:
     default:
