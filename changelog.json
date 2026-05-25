@@ -1,6 +1,64 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-25T12:19:45.000Z",
+    "message": "Add mystery airship wave chapter and timeline cross-links.",
+    "files": [
+      {
+        "status": "M",
+        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": ".github/copilot-instructions.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "content/13.ce-19th-rise-of-communism/13.09.00-1896-1897-mystery-airship-wave.md",
+        "href": "/timeline/evt-1896-1897-mystery-airship-wave"
+      },
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.08.00-mars-literature-as-reclassified-nonfiction.md",
+        "href": "/timeline/evt-mars-literature-as-reclassified-nonfiction"
+      },
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.14.00-2019-ce-ares-le-mandat-mars-earth-influence-corpus.md",
+        "href": "/timeline/evt-2019-ce-ares-le-mandat-first-edition"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
+        "href": "/timeline/evt-mars-contacts-timeline"
+      },
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
+        "href": "/timeline/evt-predictive-programming-literature"
+      },
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.44.03-controlled-opposition-managed-disclosure.md",
+        "href": "/timeline/evt-controlled-opposition-managed-disclosure"
+      },
+      {
+        "status": "M",
+        "path": "hooks/client/get.jsx",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-23T00:22:57.000Z",
     "message": "Add prisca sapientia overview article and hero image.",
     "files": [
@@ -159,46 +217,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-28T10:53:18.000Z",
-    "message": "Relink Mars RV investigation paths to controlled_opposition/investigations/.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
-        "href": "/timeline/evt-the-mudflood-world-cataclysm"
-      },
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.05.00-1774-ce-the-mars-catastrophe.md",
-        "href": "/timeline/evt-1774-ce-the-mars-catastrophe"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
-        "href": "/timeline/evt-mars-contacts-timeline"
-      },
-      {
-        "status": "M",
-        "path": "content/20.appendix-science-society/20.51.02-suppressed-energy-technology-cross-reference.md",
-        "href": "/timeline/evt-suppressed-energy-technology-cross-reference"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
-        "alt": "MudFlood and Pugachev — the final Absu dispersal"
-      },
-      {
-        "src": "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png",
-        "alt": "The Mars Catastrophe"
-      },
-      {
-        "src": "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png",
-        "alt": "Melted Cities Geometry"
-      }
-    ]
   }
 ]
