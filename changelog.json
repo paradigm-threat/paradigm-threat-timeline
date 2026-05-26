@@ -1,6 +1,24 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-25T13:04:13.000Z",
+    "message": "Link historical antibodies chapter to Ghost War post-hoc PP scorecard.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
+        "href": "/timeline/evt-historical-antibodies"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical Antibodies: independent agents against erasure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-25T12:19:45.000Z",
     "message": "Add mystery airship wave chapter and timeline cross-links.",
     "files": [
@@ -200,19 +218,6 @@
       {
         "status": "A",
         "path": "hooks/server/get.cs",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-04-30T21:05:16.000Z",
-    "message": "ci: disable GitLab CI/CD (workflow when: never)",
-    "files": [
-      {
-        "status": "M",
-        "path": ".gitlab-ci.yml",
         "href": "/timeline"
       }
     ],
