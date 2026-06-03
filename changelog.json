@@ -1,6 +1,57 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-05-26T12:48:58.000Z",
+    "message": "Add CIA vs NSA and 1979 religious revival timeline chapters.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.12.03-1947-ce-central-intelligence-agency-oss-rebrand.md",
+        "href": "/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand"
+      },
+      {
+        "status": "A",
+        "path": "content/14.ce-20th-the-1917-revolution/14.12.04-1952-1982-ce-cia-vs-nsa-sigint-antibody-tron.md",
+        "href": "/timeline/evt-cia-vs-nsa-sigint-antibody-tron"
+      },
+      {
+        "status": "A",
+        "path": "content/14.ce-20th-the-1917-revolution/14.12.05-1979-ce-religious-revival-holy-war-geometry.md",
+        "href": "/timeline/evt-1979-religious-revival-holy-war-geometry"
+      },
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.02.00-20th-c-predictive-programming.md",
+        "href": "/timeline/evt-20th-c-predictive-programming"
+      },
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md",
+        "href": "/timeline/evt-false-flags-architecture-of"
+      },
+      {
+        "status": "M",
+        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
+        "href": "/timeline/evt-historical-antibodies"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/14.ce-20th-the-1917-revolution/cia-to-oss.png",
+        "alt": "OSS to CIA rebrand"
+      },
+      {
+        "src": "/media/13.ce-19th-rise-of-communism/wells-spinster.png",
+        "alt": "Florence Deeks vs H.G. Wells — The Spinster and the Prophet"
+      },
+      {
+        "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
+        "alt": "Historical Antibodies: independent agents against erasure"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-05-25T13:04:13.000Z",
     "message": "Link historical antibodies chapter to Ghost War post-hoc PP scorecard.",
     "files": [
@@ -204,19 +255,6 @@
     "files": [
       {
         "status": "M",
-        "path": "hooks/server/get.cs",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-01T15:21:54.000Z",
-    "message": "feat(relay): add server.hooks.get for raster WebP (?w=) and dynamic GET",
-    "files": [
-      {
-        "status": "A",
         "path": "hooks/server/get.cs",
         "href": "/timeline"
       }
