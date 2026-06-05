@@ -3,9 +3,9 @@
 Translate export/timeline-*.docx (book + appendix) to Russian via PARADIGM_TRANSLATE_URL relay.
 
 Requires English artifacts from: npm run export
-Run:      bash scripts/export-russian-remote.sh   (defaults: atlanta3 + jp-osa relays)
+Run:      bash scripts/export-russian-remote.sh   (defaults: atlanta3 relay)
 Run:      PARADIGM_TRANSLATE_URL=http://host:5588 bash scripts/export-russian-remote.sh
-Multi:    PARADIGM_TRANSLATE_URL='http://atlanta3...:5588,http://jp-osa...:5588' (round-robin)
+Multi:    PARADIGM_TRANSLATE_URL='http://atlanta3...:5588,http://dfw1...:5588' (round-robin)
 Probe:    bash scripts/export-russian-remote.sh --probe
 """
 
@@ -21,11 +21,7 @@ REPO_DIR = SCRIPT_DIR.parent
 EXPORT_DIR = REPO_DIR / "export"
 
 # Same default as scripts/export-russian-remote.sh when env/CLI omit URLs.
-DEFAULT_PARADIGM_TRANSLATE_URLS = (
-    "http://atlanta2.relaygateway.net:5588,"
-    "http://atlanta3.relaygateway.net:5588,"
-    "http://jp-osa.relaygateway.net:5588"
-)
+DEFAULT_PARADIGM_TRANSLATE_URLS = "http://atlanta3.relaygateway.net:5588"
 
 
 def main() -> None:

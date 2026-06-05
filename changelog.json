@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-06-05T13:46:21.000Z",
+    "message": "Add E.V.O.: Search for Eden section to PP film/TV/games appendix.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/18.appendix-narrative/18.43.01-predictive-programming-film-tv-games.md",
+        "href": "/timeline/evt-predictive-programming-film-tv-games"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-06-03T16:20:11.000Z",
     "message": "Align Christ-in-Japan timeline with revised burial thesis and Smithsonian Project.",
     "files": [
@@ -282,48 +295,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-03T14:07:51.000Z",
-    "message": "Timeline: 2019 Ares Le Mandat corpus + Mars dossier ties.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/00.overview/00.02.01-authors-challenging-chronology.md",
-        "href": "/timeline/evt-authors-challenging-chronology"
-      },
-      {
-        "status": "M",
-        "path": "content/12.ce-18th-mudflood-and-pugachev/12.04.00-instant-fossilization-electric.md",
-        "href": "/timeline/evt-instant-fossilization-electric"
-      },
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.08.00-mars-literature-as-reclassified-nonfiction.md",
-        "href": "/timeline/evt-mars-literature-as-reclassified-nonfiction"
-      },
-      {
-        "status": "A",
-        "path": "content/14.ce-20th-the-1917-revolution/14.14.00-2019-ce-ares-le-mandat-mars-earth-influence-corpus.md",
-        "href": "/timeline/evt-2019-ce-ares-le-mandat-first-edition"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
-        "href": "/timeline/evt-mars-contacts-timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/generate-index.py",
-        "href": "/timeline"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/12.ce-18th-mudflood-and-pugachev/instant-fossilization.png",
-        "alt": "Electric discharge petrification"
-      }
-    ]
   }
 ]
