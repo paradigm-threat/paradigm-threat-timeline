@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-06-17T23:33:37.000Z",
+    "message": "Add Keywords to griffin extinction article for timeline search.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.07.00-1463-ce-man-eating-griffins-extinction.md",
+        "href": "/timeline/evt-1463-ce-man-eating-griffins-extinction"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-06-05T13:53:29.000Z",
     "message": "Remove decommissioned jp-osa from translate relay defaults.",
     "files": [
@@ -297,18 +310,5 @@
         "alt": "Core Concepts"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-14T00:09:57.000Z",
-    "message": "Clarify event YAML vs article hub frontmatter in agent instructions",
-    "files": [
-      {
-        "status": "M",
-        "path": "docs/AGENT_INSTRUCTIONS.md",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
   }
 ]
