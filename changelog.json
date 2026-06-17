@@ -1,6 +1,34 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-06-05T13:53:29.000Z",
+    "message": "Remove decommissioned jp-osa from translate relay defaults.",
+    "files": [
+      {
+        "status": "M",
+        "path": "scripts/export-russian-remote.sh",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/export.sh",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/export_translate_util.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/translate-export-to-ru-remote.py",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-06-05T13:46:21.000Z",
     "message": "Add E.V.O.: Search for Eden section to PP film/TV/games appendix.",
     "files": [
@@ -278,19 +306,6 @@
       {
         "status": "M",
         "path": "docs/AGENT_INSTRUCTIONS.md",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-07T15:38:04.000Z",
-    "message": "feat(relay): add default client hook hooks/client/get.jsx",
-    "files": [
-      {
-        "status": "A",
-        "path": "hooks/client/get.jsx",
         "href": "/timeline"
       }
     ],
