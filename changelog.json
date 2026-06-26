@@ -1,6 +1,32 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-06-17T23:51:15.000Z",
+    "message": "Fix corrupted figure tag in cosmic life cycle overview.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/00.overview/00.03.03-cosmic-life-cycle.md",
+        "href": "/timeline/evt-cosmic-life-cycle"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/00.overview/cosmic-lifecycle.png",
+        "alt": "Cosmic Life Cycle of a Solar System"
+      },
+      {
+        "src": "/media/00.overview/brown_dwarf.jpg",
+        "alt": "Before the Golden Age, Proto-Saturn was a Brown Dwarf System floating through our galaxy."
+      },
+      {
+        "src": "/media/00.overview/plasma_discharge_recorded2.jpg",
+        "alt": "Plasmoids in Southern Hemisphere before Golden Age"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-06-17T23:34:17.000Z",
     "message": "Add Bloodlands timeline article referenced by events.json.",
     "files": [
@@ -217,63 +243,5 @@
         "alt": "Historical Antibodies: independent agents against erasure"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-25T12:19:45.000Z",
-    "message": "Add mystery airship wave chapter and timeline cross-links.",
-    "files": [
-      {
-        "status": "M",
-        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": ".github/copilot-instructions.md",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": ".relay.yaml",
-        "href": "/timeline"
-      },
-      {
-        "status": "A",
-        "path": "content/13.ce-19th-rise-of-communism/13.09.00-1896-1897-mystery-airship-wave.md",
-        "href": "/timeline/evt-1896-1897-mystery-airship-wave"
-      },
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.08.00-mars-literature-as-reclassified-nonfiction.md",
-        "href": "/timeline/evt-mars-literature-as-reclassified-nonfiction"
-      },
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.14.00-2019-ce-ares-le-mandat-mars-earth-influence-corpus.md",
-        "href": "/timeline/evt-2019-ce-ares-le-mandat-first-edition"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
-        "href": "/timeline/evt-mars-contacts-timeline"
-      },
-      {
-        "status": "M",
-        "path": "content/18.appendix-narrative/18.43.02-predictive-programming-literature.md",
-        "href": "/timeline/evt-predictive-programming-literature"
-      },
-      {
-        "status": "M",
-        "path": "content/18.appendix-narrative/18.44.03-controlled-opposition-managed-disclosure.md",
-        "href": "/timeline/evt-controlled-opposition-managed-disclosure"
-      },
-      {
-        "status": "M",
-        "path": "hooks/client/get.jsx",
-        "href": "/timeline"
-      }
-    ],
-    "images": []
   }
 ]
