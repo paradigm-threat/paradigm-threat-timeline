@@ -1,6 +1,46 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-06-26T12:05:47.000Z",
+    "message": "Add 877 CE Council of Nicaea redated timeline event.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/05.ce-11th-common-era-begins/05.00.00-11th-century-ce-common-era-begins.md",
+        "href": "/timeline/evt-1053-ce-11th-century-ce-common-era-begins"
+      },
+      {
+        "status": "A",
+        "path": "content/05.ce-11th-common-era-begins/05.04.00-877-ce-paschal-calendar-council-of-nicaea-redated.md",
+        "href": "/timeline/evt-877-ce-paschal-calendar-council-of-nicaea-redated"
+      },
+      {
+        "status": "M",
+        "path": "content/10.ce-16th-reformation-and-inquisition/10.07.00-gregorian-calendar-makes-slight.md",
+        "href": "/timeline/evt-gregorian-calendar-makes-slight"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/05.ce-11th-common-era-begins/chapter-span.svg",
+        "alt": "11th Century — Era span"
+      },
+      {
+        "src": "/media/05.ce-11th-common-era-begins/chapter-events.svg){.book-illustration}",
+        "alt": "11th Century — Events"
+      },
+      {
+        "src": "/media/05.ce-11th-common-era-begins/11th_century_common_era_begins.png",
+        "alt": "11th Century — Common Era Begins"
+      },
+      {
+        "src": "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour.png",
+        "alt": "The Sun-Saviour of the 11th Century"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-06-17T23:51:15.000Z",
     "message": "Fix corrupted figure tag in cosmic life cycle overview.",
     "files": [
@@ -220,24 +260,6 @@
         "src": "/media/13.ce-19th-rise-of-communism/wells-spinster.png",
         "alt": "Florence Deeks vs H.G. Wells — The Spinster and the Prophet"
       },
-      {
-        "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical Antibodies: independent agents against erasure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-25T13:04:13.000Z",
-    "message": "Link historical antibodies chapter to Ghost War post-hoc PP scorecard.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
-        "href": "/timeline/evt-historical-antibodies"
-      }
-    ],
-    "images": [
       {
         "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
         "alt": "Historical Antibodies: independent agents against erasure"
