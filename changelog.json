@@ -1,6 +1,62 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-07-01T13:17:49.000Z",
+    "message": "Document Gastaldi 1548 pre-MFEE maps in MFEE timeline chapters.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/02.the-golden-age/02.07.00-atlantis-and-the-tree-of-knowledge.md",
+        "href": "/timeline/evt-atlantis-and-the-tree-of-knowledge"
+      },
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.03.00-the-mudflood-world-cataclysm.md",
+        "href": "/timeline/evt-the-mudflood-world-cataclysm"
+      },
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.08.00-trail-tears-century-long-erasure.md",
+        "href": "/timeline/evt-trail-tears-century-long-erasure"
+      },
+      {
+        "status": "A",
+        "path": "content/14.ce-20th-the-1917-revolution/14.15.00-1927-ce-big-bang-scientific-consensus-religion.md",
+        "href": "/timeline/evt-1927-ce-big-bang-scientific-consensus-religion"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.05.00-seven-days-of-creation.md",
+        "href": "/timeline/evt-seven-days-of-creation"
+      },
+      {
+        "status": "M",
+        "path": "content/20.appendix-science-society/20.51.03-einstein-1905-aether-and-theoretical-physics-appendix.md",
+        "href": "/timeline/evt-einstein-1905-aether-theoretical-physics-appendix"
+      },
+      {
+        "status": "M",
+        "path": "content/21.appendix-cataclysm-memory/21.53.00-mudflood-evidence.md",
+        "href": "/timeline/evt-mudflood-evidence"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/02.the-golden-age/atlantis_first_jerusalem.png",
+        "alt": "Atlantis - First Jerusalem built on the north poles of Mars and Earth"
+      },
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mudflood.png",
+        "alt": "MudFlood and Pugachev — the final Absu dispersal"
+      },
+      {
+        "src": "/history/mudflood/map_gastaldi_1548_carta_marina_nova_tabula.jpg",
+        "alt": "Gastaldi 1548 Carta Marina Nova tabula — pre-MFEE Asia–America continuity"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-06-26T12:05:47.000Z",
     "message": "Add 877 CE Council of Nicaea redated timeline event.",
     "files": [
@@ -208,57 +264,6 @@
       {
         "src": "/media/14.ce-20th-the-1917-revolution/cia-to-oss.png",
         "alt": "OSS to CIA rebrand — institutional split continues with NSA SIGINT"
-      },
-      {
-        "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical Antibodies: independent agents against erasure"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-05-26T12:48:58.000Z",
-    "message": "Add CIA vs NSA and 1979 religious revival timeline chapters.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.12.03-1947-ce-central-intelligence-agency-oss-rebrand.md",
-        "href": "/timeline/evt-1947-ce-central-intelligence-agency-oss-rebrand"
-      },
-      {
-        "status": "A",
-        "path": "content/14.ce-20th-the-1917-revolution/14.12.04-1952-1982-ce-cia-vs-nsa-sigint-antibody-tron.md",
-        "href": "/timeline/evt-cia-vs-nsa-sigint-antibody-tron"
-      },
-      {
-        "status": "A",
-        "path": "content/14.ce-20th-the-1917-revolution/14.12.05-1979-ce-religious-revival-holy-war-geometry.md",
-        "href": "/timeline/evt-1979-religious-revival-holy-war-geometry"
-      },
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.02.00-20th-c-predictive-programming.md",
-        "href": "/timeline/evt-20th-c-predictive-programming"
-      },
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.04.00-false-flags-architecture-of.md",
-        "href": "/timeline/evt-false-flags-architecture-of"
-      },
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
-        "href": "/timeline/evt-historical-antibodies"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/14.ce-20th-the-1917-revolution/cia-to-oss.png",
-        "alt": "OSS to CIA rebrand"
-      },
-      {
-        "src": "/media/13.ce-19th-rise-of-communism/wells-spinster.png",
-        "alt": "Florence Deeks vs H.G. Wells — The Spinster and the Prophet"
       },
       {
         "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",

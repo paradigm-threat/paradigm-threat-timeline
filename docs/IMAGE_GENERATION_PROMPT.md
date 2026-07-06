@@ -3,6 +3,8 @@
 Use this file as context when asking an AI image generator or multimodal agent to produce illustrated HD timeline images.
 Fill in the `[PLACEHOLDERS]` before submitting.
 
+**Local HF pipeline (recommended):** [`paradigm-threat-files/docs/IMAGE_GENERATION.md`](../../paradigm-threat-files/docs/IMAGE_GENERATION.md) — `generate-illustration.py`, `annotate-illustration.py`, overwrite-safe defaults. Run etched **dates** via `annotate-illustration.py` after base generation (do not rely on diffusion for legible text).
+
 ---
 
 ## Agent Background
