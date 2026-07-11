@@ -1,6 +1,39 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-07-11T11:08:36.000Z",
+    "message": "Enable Relay QUERY/sqlite indexing and MCP timeline tools.",
+    "files": [
+      {
+        "status": "M",
+        "path": ".relay.yaml",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "hooks/server/index.cs",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "hooks/server/mcp.cs",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "hooks/server/query.cs",
+        "href": "/timeline"
+      },
+      {
+        "status": "A",
+        "path": "mcp.yaml",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-07-06T14:56:21.000Z",
     "message": "Add Dead Planet Protocol timeline event and cross-link Mars arc.",
     "files": [
@@ -218,19 +251,6 @@
         "status": "M",
         "path": "scripts/translate-export-to-ru-remote.py",
         "href": "/timeline"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-06-05T13:46:21.000Z",
-    "message": "Add E.V.O.: Search for Eden section to PP film/TV/games appendix.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/18.appendix-narrative/18.43.01-predictive-programming-film-tv-games.md",
-        "href": "/timeline/evt-predictive-programming-film-tv-games"
       }
     ],
     "images": []

@@ -1,8 +1,6 @@
-// Thin QUERY router — sqlite plugin does FTS/filter in Rust.
+// Prefer import — FTS/filter runs in the Rust sqlite plugin.
+import { search } from '@relay/search/sqlite';
+
 export default function run(ctx) {
-  return {
-    plugin: "sqlite",
-    collection: ctx.collection,
-    query: ctx.query
-  };
+  return search(ctx);
 }
