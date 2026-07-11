@@ -1,0 +1,20 @@
+name: paradigm-threat-timeline
+version: "0.1.0"
+tools:
+  search_site:
+    description: Keyword search over timeline events via Relay QUERY / sqlite plugin
+    aliases: [search]
+    via: query
+    collection: events
+  get_event_dates:
+    description: Timeline event dates (project signed year) and elapsed / blip-adjusted years
+    via: events_lookup
+    source: data/events.json
+  research_status:
+    description: Coverage envelope for a timeline question (QUERY events collection)
+    via: research_status
+    collection: events
+  read_article:
+    description: Read a content markdown blob by repo-relative path
+    aliases: [fetch]
+    via: git_read

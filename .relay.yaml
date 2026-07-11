@@ -8,6 +8,14 @@ server:
   hooks:
     get:
       path: hooks/server/get.cs
+    index:
+      path: hooks/server/index.cs
+    query:
+      path: hooks/server/query.cs
+    mcp:
+      path: hooks/server/mcp.cs
+  search:
+    plugin: sqlite
 git:
   branchRules:
     default:

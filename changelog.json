@@ -1,6 +1,48 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-07-06T14:56:21.000Z",
+    "message": "Add Dead Planet Protocol timeline event and cross-link Mars arc.",
+    "files": [
+      {
+        "status": "M",
+        "path": "content/12.ce-18th-mudflood-and-pugachev/12.05.00-1774-ce-the-mars-catastrophe.md",
+        "href": "/timeline/evt-1774-ce-the-mars-catastrophe"
+      },
+      {
+        "status": "M",
+        "path": "content/14.ce-20th-the-1917-revolution/14.08.00-mars-literature-as-reclassified-nonfiction.md",
+        "href": "/timeline/evt-mars-literature-as-reclassified-nonfiction"
+      },
+      {
+        "status": "A",
+        "path": "content/14.ce-20th-the-1917-revolution/14.16.00-mars-surface-dismantling-dead-planet-protocol.md",
+        "href": "/timeline/evt-mars-surface-dismantling-dead-planet-protocol"
+      },
+      {
+        "status": "M",
+        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
+        "href": "/timeline/evt-mars-contacts-timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/IMAGE_GENERATION_PROMPT.md",
+        "href": "/timeline"
+      }
+    ],
+    "images": [
+      {
+        "src": "/media/12.ce-18th-mudflood-and-pugachev/mars-catastrophe.png",
+        "alt": "The Mars Catastrophe"
+      },
+      {
+        "src": "/media/14.ce-20th-the-1917-revolution/melted-cities-geometry.png",
+        "alt": "Melted Cities Geometry"
+      }
+    ]
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-07-01T13:17:49.000Z",
     "message": "Document Gastaldi 1548 pre-MFEE maps in MFEE timeline chapters.",
     "files": [
@@ -192,83 +234,5 @@
       }
     ],
     "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-06-03T16:20:11.000Z",
-    "message": "Align Christ-in-Japan timeline with revised burial thesis and Smithsonian Project.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/06.ce-12th-birth-of-christianity/06.03.01-the-brother-on-the-cross.md",
-        "href": "/timeline/evt-the-brother-on-the-cross"
-      },
-      {
-        "status": "M",
-        "path": "content/07.ce-13th-the-russian-horde-tartarian-empire/07.02.00-1258-ce-historical-christ-dies.md",
-        "href": "/timeline/evt-1258-ce-historical-christ-dies"
-      },
-      {
-        "status": "M",
-        "path": "content/11.ce-17th-romanovs-rise-to-power/11.04.02-1666-ce-london-burns-to-the-ground-sept-2-6-1666.md",
-        "href": "/timeline/evt-1666-ce-london-burns-to-the-ground-sept-2-6-1666"
-      },
-      {
-        "status": "M",
-        "path": "content/14.ce-20th-the-1917-revolution/14.12.04-1952-1982-ce-cia-vs-nsa-sigint-antibody-tron.md",
-        "href": "/timeline/evt-cia-vs-nsa-sigint-antibody-tron"
-      },
-      {
-        "status": "M",
-        "path": "content/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.md",
-        "href": "/timeline/evt-historical-antibodies"
-      },
-      {
-        "status": "A",
-        "path": "content/15.ce-21st-the-final-struggle/15.09.00-2000-2005-ce-nsa-tonkin-mars-declass-fight.md",
-        "href": "/timeline/evt-2000-2005-ce-nsa-tonkin-mars-declass-fight"
-      },
-      {
-        "status": "M",
-        "path": "content/17.appendix-chronology/17.03.02-mars-contacts-timeline.md",
-        "href": "/timeline/evt-mars-contacts-timeline"
-      },
-      {
-        "status": "M",
-        "path": "content/21.appendix-cataclysm-memory/21.53.00-mudflood-evidence.md",
-        "href": "/timeline/evt-mudflood-evidence"
-      },
-      {
-        "status": "M",
-        "path": "hooks/server/get.cs",
-        "href": "/timeline"
-      },
-      {
-        "status": "A",
-        "path": "media/11.ce-17th-romanovs-rise-to-power/1666-ce-london-burns-to-the-ground.png",
-        "href": "/timeline"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/11.ce-17th-romanovs-rise-to-power/1666-ce-london-burns-to-the-ground.png"
-      },
-      {
-        "src": "/media/06.ce-12th-birth-of-christianity/tomb_of_christ.png",
-        "alt": "Tomb of Christ in Shingo, Japan - Sawaguchi family residence"
-      },
-      {
-        "src": "/media/07.ce-13th-the-russian-horde-tartarian-empire/1258ce_christ_dies.png",
-        "alt": "1258 CE — The Death of Historical Christ in Japan"
-      },
-      {
-        "src": "/media/14.ce-20th-the-1917-revolution/cia-to-oss.png",
-        "alt": "OSS to CIA rebrand — institutional split continues with NSA SIGINT"
-      },
-      {
-        "src": "/media/15.ce-21st-the-final-struggle/15.08.00-historical-antibodies.png",
-        "alt": "Historical Antibodies: independent agents against erasure"
-      }
-    ]
   }
 ]
