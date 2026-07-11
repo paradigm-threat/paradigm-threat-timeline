@@ -1,6 +1,64 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-07-11T15:51:17.000Z",
+    "message": "Remove committed catalog JSON; validate content/ only.",
+    "files": [
+      {
+        "status": "M",
+        "path": ".cursor/rules/paradigm-threat-timeline.mdc",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": ".github/copilot-instructions.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": ".husky/pre-commit",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "README.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "docs/AGENT_INSTRUCTIONS.md",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/audit-missing.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "R",
+        "path": "scripts/build_events_from_content.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-changelog.cjs",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/generate-chapter-timeline-svgs.py",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "scripts/validate-events.py",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-07-11T15:46:15.000Z",
     "message": "Build timeline QUERY catalogs from content_events and path_tree.",
     "files": [
@@ -216,32 +274,6 @@
       {
         "src": "/media/05.ce-11th-common-era-begins/sun-replaces-mars-as-saviour.png",
         "alt": "The Sun-Saviour of the 11th Century"
-      }
-    ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-06-17T23:51:15.000Z",
-    "message": "Fix corrupted figure tag in cosmic life cycle overview.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/00.overview/00.03.03-cosmic-life-cycle.md",
-        "href": "/timeline/evt-cosmic-life-cycle"
-      }
-    ],
-    "images": [
-      {
-        "src": "/media/00.overview/cosmic-lifecycle.png",
-        "alt": "Cosmic Life Cycle of a Solar System"
-      },
-      {
-        "src": "/media/00.overview/brown_dwarf.jpg",
-        "alt": "Before the Golden Age, Proto-Saturn was a Brown Dwarf System floating through our galaxy."
-      },
-      {
-        "src": "/media/00.overview/plasma_discharge_recorded2.jpg",
-        "alt": "Plasmoids in Southern Hemisphere before Golden Age"
       }
     ]
   }

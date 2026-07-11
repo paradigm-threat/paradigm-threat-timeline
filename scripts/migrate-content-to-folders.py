@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""
+"""DEPRECATED: catalog JSON is gone. Prefer content/ + validate-events / Relay QUERY.
+
 Migrate content/*.md into chapter-specific subfolders matching the media/ layout.
 
 Steps:

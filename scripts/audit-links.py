@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Audit /timeline/evt-xxx links in content against events.json. Report broken links and output fix mapping."""
+"""DEPRECATED: catalog JSON is gone. Prefer content/ + validate-events / Relay QUERY.
+
+Audit /timeline/evt-xxx links in content against events.json. Report broken links and output fix mapping."""
 import json
 import os
 import re

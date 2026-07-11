@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Populate the media[] field on every entry in events.json by extracting image references from each entry's markdown file."""
+"""DEPRECATED: catalog JSON is gone. Prefer content/ + validate-events / Relay QUERY.
+
+Populate the media[] field on every entry in events.json by extracting image references from each entry's markdown file."""
 import json
 import os
 import re

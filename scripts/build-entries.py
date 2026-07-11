@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""
+"""DEPRECATED: catalog JSON is gone. Prefer content/ + validate-events / Relay QUERY.
+
 Build consolidated entries from chronology page. One recursive array of entries.
 Every entry has id, title, md_path (required), dates, children.
 Extracts section content from chronology and writes to dated md files.

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""
+"""DEPRECATED: catalog JSON is gone. Prefer content/ + validate-events / Relay QUERY.
+
 Renumber content files so XX.YY.ZZ reflects the events.json hierarchy.
 
 Algorithm
