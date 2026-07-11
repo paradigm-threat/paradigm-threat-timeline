@@ -5,15 +5,15 @@ tools:
     description: Keyword search over timeline events via Relay QUERY / sqlite plugin
     aliases: [search]
     via: query
-    collection: events
+    collection: index
   get_event_dates:
     description: Timeline event dates (project signed year) and elapsed / blip-adjusted years
-    via: events_lookup
-    source: data/events.json
+    via: query
+    collection: index
   research_status:
-    description: Coverage envelope for a timeline question (QUERY events collection)
+    description: Coverage envelope for a timeline question (QUERY primary events collection)
     via: research_status
-    collection: events
+    collection: index
   read_article:
     description: Read a content markdown blob by repo-relative path
     aliases: [fetch]

@@ -1,11 +1,10 @@
-# Build events.json from content/ file structure
-python3 scripts/build-events-from-content.py
+# Catalog JSON (events.json / index.json) is built on the relay server (content_events / path_tree).
+# Validate content + changelog on commit; do not regenerate or stage catalog JSON.
 
-# Build changelog with internal timeline links
 npm run generate-changelog
 
-# Validate and generate index
-npm run validate-events && npm run audit-missing && npm run generate-index
+# Validate events / content without writing data/events.json
+npm run validate-events && npm run audit-missing
 
 # Auto-bump patch version
 node -e "
@@ -18,4 +17,4 @@ fs.writeFileSync('package.json', JSON.stringify(p, null, 2) + '\n');
 console.log('Version bumped to ' + p.version);
 "
 
-git add data/events.json index.json package.json changelog.json
+git add package.json changelog.json

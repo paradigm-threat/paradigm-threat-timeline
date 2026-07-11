@@ -1,16 +1,25 @@
 plugin: sqlite
 collections:
+  # Primary — default QUERY collection = event graph (server-built from content/)
   index:
     sources:
-      - type: path_index
-        path: index.json
-        mode: merge
-    idFields: [path, id]
-    ftsFields: [_title, title, _keywords, keywords]
-  events:
-    sources:
-      - type: events_json
-        path: data/events.json
+      - type: content_events
+        root: content
         mode: replace
     idFields: [id, title]
-    ftsFields: [title, keywords, name, type]
+    ftsFields: [title, keywords, name, type, md_path]
+  # Compat alias for older clients
+  events:
+    sources:
+      - type: content_events
+        root: content
+        mode: replace
+    idFields: [id, title]
+    ftsFields: [title, keywords, name, type, md_path]
+  # File browser / carousel
+  files:
+    sources:
+      - type: path_tree
+        mode: replace
+    idFields: [path, id]
+    ftsFields: [_title, title, _keywords, keywords]
