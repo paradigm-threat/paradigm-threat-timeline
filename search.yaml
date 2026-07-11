@@ -1,0 +1,16 @@
+plugin: sqlite
+collections:
+  index:
+    sources:
+      - type: path_index
+        path: index.json
+        mode: merge
+    idFields: [path, id]
+    ftsFields: [_title, title, _keywords, keywords]
+  events:
+    sources:
+      - type: events_json
+        path: data/events.json
+        mode: replace
+    idFields: [id, title]
+    ftsFields: [title, keywords, name, type]

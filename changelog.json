@@ -1,6 +1,19 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-07-11T12:24:29.000Z",
+    "message": "Prefer @relay/search/sqlite import in QUERY hook.",
+    "files": [
+      {
+        "status": "M",
+        "path": "hooks/server/query.cs",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-07-11T11:08:36.000Z",
     "message": "Enable Relay QUERY/sqlite indexing and MCP timeline tools.",
     "files": [
@@ -223,34 +236,6 @@
         "status": "M",
         "path": "content/09.ce-15th-ottoman-conquest-of-europe/09.07.00-1463-ce-man-eating-griffins-extinction.md",
         "href": "/timeline/evt-1463-ce-man-eating-griffins-extinction"
-      }
-    ],
-    "images": []
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-06-05T13:53:29.000Z",
-    "message": "Remove decommissioned jp-osa from translate relay defaults.",
-    "files": [
-      {
-        "status": "M",
-        "path": "scripts/export-russian-remote.sh",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/export.sh",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/export_translate_util.py",
-        "href": "/timeline"
-      },
-      {
-        "status": "M",
-        "path": "scripts/translate-export-to-ru-remote.py",
-        "href": "/timeline"
       }
     ],
     "images": []
