@@ -30,9 +30,12 @@ function flattenEntries(nodes, out = []) {
 }
 
 function loadEventMap() {
+    /** Map content/*.md paths → evt-id from filename / frontmatter via build script. */
     try {
-        const eventsPath = path.resolve(__dirname, '../data/events.json')
-        const raw = fs.readFileSync(eventsPath, 'utf8')
+        const raw = execFileSync('python3', [path.join(__dirname, 'build_events_from_content.py'), '--json'], {
+            encoding: 'utf8',
+            maxBuffer: 20 * 1024 * 1024,
+        })
         const parsed = JSON.parse(raw)
         const list = flattenEntries(parsed.entries || [])
         const map = new Map()

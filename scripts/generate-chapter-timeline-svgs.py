@@ -2,6 +2,7 @@
 """Generate chapter-span and chapter-events SVGs for each chapter (01-15). Overview unchanged."""
 
 import json
+import sys
 import os
 
 # Chapter bounds: (x_start, x_end) on overview. Year span (yr_start, yr_end) for positioning.
@@ -307,11 +308,14 @@ def write_chapter_events_svg(chapter_id, title, events_with_pos, yr_start, yr_en
 
 def main():
     base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    events_path = os.path.join(base, "data", "events.json")
     media_dir = os.path.join(base, "media")
+    scripts = os.path.dirname(os.path.abspath(__file__))
+    sys.path.insert(0, scripts)
+    from build_events_from_content import build_events_data
 
-    with open(events_path) as f:
-        data = json.load(f)
+    data, errors = build_events_data()
+    if errors or not data:
+        raise SystemExit("build_events_data failed:\n  - " + "\n  - ".join(errors or ["unknown"]))
 
     chapter_by_id = {c[0]: c for c in CHAPTERS}
 

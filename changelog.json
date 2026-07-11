@@ -1,6 +1,29 @@
 [
   {
     "repo": "paradigm-threat-timeline",
+    "date": "2026-07-11T15:46:15.000Z",
+    "message": "Build timeline QUERY catalogs from content_events and path_tree.",
+    "files": [
+      {
+        "status": "M",
+        "path": ".husky/pre-commit",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "mcp.yaml",
+        "href": "/timeline"
+      },
+      {
+        "status": "M",
+        "path": "search.yaml",
+        "href": "/timeline"
+      }
+    ],
+    "images": []
+  },
+  {
+    "repo": "paradigm-threat-timeline",
     "date": "2026-07-11T13:14:39.000Z",
     "message": "Add search.yaml for events/index FTS config.",
     "files": [
@@ -221,23 +244,5 @@
         "alt": "Plasmoids in Southern Hemisphere before Golden Age"
       }
     ]
-  },
-  {
-    "repo": "paradigm-threat-timeline",
-    "date": "2026-06-17T23:34:17.000Z",
-    "message": "Add Bloodlands timeline article referenced by events.json.",
-    "files": [
-      {
-        "status": "M",
-        "path": "content/19.appendix-conflict/19.50.00-reverse-crusades-modern-wars-evidence.md",
-        "href": "/timeline/evt-reverse-crusades-modern-wars-evidence"
-      },
-      {
-        "status": "A",
-        "path": "content/19.appendix-conflict/19.50.04-bloodlands-holodomor-holocaust-continuum.md",
-        "href": "/timeline/evt-bloodlands-holodomor-holocaust-continuum"
-      }
-    ],
-    "images": []
   }
 ]

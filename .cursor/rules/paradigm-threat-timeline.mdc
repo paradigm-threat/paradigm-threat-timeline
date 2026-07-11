@@ -62,10 +62,9 @@ When adding or updating events, attempt to calculate or research dates for:
 ## Scripts (run after edits)
 
 ```bash
-npm run build-events       # Generate events.json from content/ (run on pre-commit)
+npm run validate-events    # Validate content/ event graph (Relay indexes on push)
 npm run validate-events    # Schema + title/header match
 npm run audit-missing      # Verify all content files registered
-npm run generate-index    # Pre-commit
 ```
 
 ## Blog Entries

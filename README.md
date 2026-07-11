@@ -14,11 +14,9 @@ The PDF and DOCX exports in `export/` are **early drafts of an upcoming book**. 
 
 ## Structure
 
-- **data/events.json** — Canonical event list (the only file paradigm-threat-site loads)
+- **content/** — Source of truth for timeline events (Relay `content_events` / QUERY)
 - **data/timeline-schema.json** — Event and section schema
-- **events/** — Markdown files for each event
 - **investigations/** — Validation research (e.g. creation dates, source tracing)
-- **index.json** — Generated file tree (for file browser, not timeline)
 - **docs/** — AGENT_INSTRUCTIONS, OUTSTANDING_QUESTIONS, CONCLUSIONS
 
 ## Maintaining and Updating the Timeline
@@ -32,15 +30,14 @@ The PDF and DOCX exports in `export/` are **early drafts of an upcoming book**. 
    npm run split-chronology   # If adding from paradigm-threat-files
    npm run normalize-events  # Assign dates, rename files
    npm run refactor-sections # Assign sections
-   npm run validate-events   # Verify schema and titles
-   npm run generate-index   # Pre-commit
+   npm run validate-events   # Verify content/ event graph
    ```
 
 ## Scripts
 
 ```bash
-npm run generate-index    # Build index.json (runs on pre-commit)
-npm run validate-events   # Verify events.json
+npm run validate-events   # Verify content/ event graph (titles, ids, orphans)
+npm run audit-missing     # Ensure content files match XX.YY.ZZ-slug.md
 npm run split-chronology  # Extract events from paradigm-threat-files (read-only)
 npm run normalize-events  # Dates, filenames, priorities
 npm run refactor-sections # Sections, timeline_sources

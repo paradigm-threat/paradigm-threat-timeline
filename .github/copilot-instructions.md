@@ -12,7 +12,7 @@ Alternate Earth History Timeline correlating Scaligerian, Fomenko's New Chronolo
 
 ## Content File Numbering Convention
 
-**Source of truth:** The `content/` folder. `data/events.json` is **generated** from it by `build-events-from-content.py` (run automatically on pre-commit).
+**Source of truth:** The `content/` folder. ``content/` is indexed on the relay via `content_events`. Validate locally with `npm run validate-events`.
 
 Files in `content/` are organized into chapter-specific subfolders that mirror the `media/` directory structure. Each file uses the format `XX.YY.ZZ-slug.md`:
 
@@ -39,7 +39,7 @@ Content subfolders match media subfolders by chapter number:
 
 When adding a new content file:
 1. Place the file in the correct chapter subfolder with the appropriate `XX.YY.ZZ-slug.md` name.
-2. Run `python3 scripts/build-events-from-content.py` (or commit — pre-commit runs it).
+2. Run `npm run validate-events` (pre-commit runs it). Push to relay remotes to refresh QUERY indexes.
 
 ## When Adding or Editing Events
 
@@ -97,13 +97,12 @@ When a timeline markdown file has **more than 12 paragraph-blocks** (see `docs/C
 
 After adding, renaming, or editing content markdown files:
 ```bash
-python3 scripts/build-events-from-content.py
+npm run validate-events
 npm run validate-events
 npm run audit-missing
-npm run generate-index
 ```
 
-> The husky pre-commit hook runs `build-events-from-content`, `validate-events`, `audit-missing`, and `generate-index` automatically on `git commit`.
+> The husky pre-commit hook runs `generate-changelog`, `validate-events`, and `audit-missing` on `git commit`.
 
 ## Regenerating PDF / DOCX exports
 
@@ -158,7 +157,7 @@ See paradigm-threat-files `REORGANIZATION_MAP.md` for the full path mapping.
 ## Key Paths
 
 - `content/` — **source of truth**; one markdown file per timeline entry
-- `data/events.json` — **generated** from content/ by `build-events-from-content.py`
+- Relay QUERY collections `index` / `events` / `files` — built on masters from `content/` + tip tree
 - `data/timeline-schema.json` — schema
 - `content/` — article markdown files in chapter subfolders (`content/<chapter>/XX.YY.ZZ-slug.md`)
 - paradigm-threat-files — validation research (investigations)
@@ -167,7 +166,7 @@ See paradigm-threat-files `REORGANIZATION_MAP.md` for the full path mapping.
 - `docs/AGENT_INSTRUCTIONS.md` — detailed agent guide
 - `docs/PRINT_GOALS.md` — print specs and page budget
 - `docs/CONTENT_REDUCTION_TRACKER.md` — tracks progress toward ≤ 350 page target
-- `scripts/build-events-from-content.py` — generates `events.json` from content/ file structure
+- `scripts/build_events_from_content.py` — builds the event graph in memory for validation / `--json` dumps
 - `scripts/` — all other Python utility scripts
 
 ## Print Size Budget

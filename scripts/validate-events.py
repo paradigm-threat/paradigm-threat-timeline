@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
-"""Validate events.json: every entry has md_path and file exists; title matches first header."""
-import json
+"""Validate timeline content/: build event graph from content/ and check titles / ids.
+
+Does not read or write data/events.json — Relay content_events indexes content/ on the server.
+"""
 import os
+import re
 import sys
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR = os.path.dirname(SCRIPT_DIR)
-EVENTS_PATH = os.path.join(REPO_DIR, "data", "events.json")
+sys.path.insert(0, SCRIPT_DIR)
+
+from build_events_from_content import build_events_data, count_entries  # noqa: E402
 
 
 def get_first_header(md_path):
@@ -60,28 +65,29 @@ def validate_entry(entry, path, errors):
     if not md_path:
         errors.append(f"{evt_id}: missing md_path")
     else:
-        import re
         first_header, err = get_first_header(md_path)
         if err:
             errors.append(f"{evt_id}: {err}")
         elif title and first_header:
             stripped = re.sub(r"^\d+\s*(?:BCE|CE|AD)\s*[—–-]\s*", "", first_header)
-            # Match: exact first header, stripped first header, or any H1/H2 in file (for multi-section docs)
-            # Also allow title as prefix of header (e.g. "Saturn Collinear Configuration" in "Saturn Collinear Configuration (Tree of Life)")
             all_headers = get_all_h1_h2_headers(md_path)
             stripped_headers = [re.sub(r"^\d+\s*(?:BCE|CE|AD)\s*[—–-]\s*", "", h) for h in all_headers]
-            title_prefix_match = any(h.startswith(title) or title.startswith(h) for h in all_headers + stripped_headers)
-            if title != first_header and title != stripped and title not in all_headers and title not in stripped_headers and not title_prefix_match:
+            title_prefix_match = any(
+                h.startswith(title) or title.startswith(h) for h in all_headers + stripped_headers
+            )
+            if (
+                title != first_header
+                and title != stripped
+                and title not in all_headers
+                and title not in stripped_headers
+                and not title_prefix_match
+            ):
                 errors.append(
                     f"{evt_id}: title mismatch\n  title: {repr(title)}\n  first header: {repr(first_header)}"
                 )
 
     for i, child in enumerate(children):
         validate_entry(child, f"{path}.children[{i}]", errors)
-
-
-def count_entries(entries):
-    return sum(1 + count_entries(e.get("children", [])) for e in entries)
 
 
 def collect_ids(entries):
@@ -100,20 +106,20 @@ def collect_ids(entries):
 
 
 def main():
-    if not os.path.exists(EVENTS_PATH):
-        print(f"Error: {EVENTS_PATH} not found")
+    data, build_errors = build_events_data()
+    if build_errors:
+        print("Validation failed:\n")
+        for e in build_errors:
+            print(f"  - {e}\n")
         sys.exit(1)
-
-    with open(EVENTS_PATH, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    assert data is not None
 
     entries = data.get("entries", [])
     if not entries:
-        print("Error: no entries in events.json")
+        print("Error: no entries built from content/")
         sys.exit(1)
 
     errors = []
-    # Check for duplicate IDs
     id_to_paths = {}
     for evt_id, path in collect_ids(entries):
         id_to_paths.setdefault(evt_id, []).append(path)
@@ -131,7 +137,7 @@ def main():
         sys.exit(1)
 
     total = count_entries(entries)
-    print(f"Validated {total} entries")
+    print(f"Validated {total} entries from content/")
     sys.exit(0)
 
 

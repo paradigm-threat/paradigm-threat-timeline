@@ -1,18 +1,17 @@
-# Catalog JSON (events.json / index.json) is built on the relay server (content_events / path_tree).
-# Validate content + changelog on commit; do not regenerate or stage catalog JSON.
+# Catalog indexes are built on the relay server (content_events / path_tree).
+# Validate content + changelog on commit; do not write catalog JSON.
 
 npm run generate-changelog
 
-# Validate events / content without writing data/events.json
+# Validate events / content structure
 npm run validate-events && npm run audit-missing
 
 # Auto-bump patch version
 node -e "
 const fs = require('fs');
 const p = JSON.parse(fs.readFileSync('package.json', 'utf8'));
-const v = p.version.split('.').map(Number);
-v[2]++;
-p.version = v.join('.');
+const [maj, min, pat] = p.version.split('.').map(Number);
+p.version = [maj, min, pat + 1].join('.');
 fs.writeFileSync('package.json', JSON.stringify(p, null, 2) + '\n');
 console.log('Version bumped to ' + p.version);
 "

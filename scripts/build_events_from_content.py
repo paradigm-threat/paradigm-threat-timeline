@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Build data/events.json from content/ file structure.
+Build the timeline event catalog from content/ (in memory).
 
 Source of truth: content/ folder. One entry per file.
+Relay indexes via content_events — this script validates / dumps JSON to stdout (--json).
 - Hierarchy from XX.YY.ZZ in filename
 - Dates from filename slug when present (YYYY-YYYY, YYYY-bce, YYYY-ce)
 - Optional fields (media, related_events, id, etc.) from YAML frontmatter.
@@ -25,7 +26,6 @@ except ImportError:
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR = os.path.dirname(SCRIPT_DIR)
 CONTENT_DIR = os.path.join(REPO_DIR, "content")
-EVENTS_JSON = os.path.join(REPO_DIR, "data", "events.json")
 
 # Regex for XX.YY.ZZ-slug.md
 NUM_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{2})-(.+?)\.md$")
@@ -409,56 +409,68 @@ def collect_ids(nodes: list) -> list[str]:
     return ids
 
 
-def main() -> int:
+def count_entries(nodes: list) -> int:
+    return sum(1 + count_entries(n.get("children", [])) for n in nodes)
+
+
+def build_events_data() -> tuple[dict | None, list[str]]:
+    """Build the events catalog from content/ (parity with gateway content_events).
+
+    Returns (payload, errors). Payload is None when errors is non-empty.
+    Does not write data/events.json — Relay indexes content/ on the server.
+    """
+    errors: list[str] = []
     if not os.path.isdir(CONTENT_DIR):
-        print(f"Error: content dir not found: {CONTENT_DIR}", file=sys.stderr)
-        return 1
+        return None, [f"content dir not found: {CONTENT_DIR}"]
 
     files, orphans = discover_content_files()
-
     if orphans:
-        print("Error: orphan .md files (must match XX.YY.ZZ-slug.md):", file=sys.stderr)
-        for p in sorted(orphans):
-            print(f"  - {p}", file=sys.stderr)
-        return 1
+        errors.extend(
+            f"orphan .md file (must match XX.YY.ZZ-slug.md): {p}" for p in sorted(orphans)
+        )
+    if not files and not orphans:
+        return None, ["no content files found"]
+    if errors:
+        return None, errors
 
-    if not files:
-        print("Error: no content files found", file=sys.stderr)
-        return 1
+    entries, intro_articles, tree_errors = build_tree(files)
+    if tree_errors:
+        return None, tree_errors
 
-    entries, intro_articles, errors = build_tree(files)
+    all_ids = collect_ids(entries)
+    seen: dict[str, list[str]] = {}
+    for i, eid in enumerate(all_ids):
+        seen.setdefault(eid, []).append(str(i))
+    for eid, paths in seen.items():
+        if len(paths) > 1:
+            errors.append(f"duplicate entry id: {eid}")
+    if errors:
+        return None, errors
+
+    return {
+        "entries": entries,
+        "introArticles": intro_articles,
+        "meta": {"source": "build_events_from_content.py"},
+    }, []
+
+
+def main() -> int:
+    """Validate content/ → event graph (no JSON write). Optional --json dumps to stdout."""
+    out, errors = build_events_data()
     if errors:
         print("Error: validation failed:", file=sys.stderr)
         for e in errors:
             print(f"  - {e}", file=sys.stderr)
         return 1
-
-    # Duplicate id check
-    all_ids = collect_ids(entries)
-    seen: dict[str, list[str]] = {}
-    for i, eid in enumerate(all_ids):
-        seen.setdefault(eid, []).append(str(i))
-    dupes = [(eid, paths) for eid, paths in seen.items() if len(paths) > 1]
-    if dupes:
-        print("Error: duplicate entry ids:", file=sys.stderr)
-        for eid, _ in dupes:
-            print(f"  - {eid}", file=sys.stderr)
-        return 1
-
-    out = {
-        "entries": entries,
-        "introArticles": intro_articles,
-        "meta": {"source": "build-events-from-content.py"},
-    }
-
-    os.makedirs(os.path.dirname(EVENTS_JSON), exist_ok=True)
-    with open(EVENTS_JSON, "w", encoding="utf-8") as f:
-        json.dump(out, f, separators=(",", ":"), ensure_ascii=False)
-
-    def count(nodes):
-        return sum(1 + count(n.get("children", [])) for n in nodes)
-
-    print(f"Built events.json: {count(entries)} entries, {len(intro_articles)} introArticles")
+    assert out is not None
+    if "--json" in sys.argv:
+        json.dump(out, sys.stdout, separators=(",", ":"), ensure_ascii=False)
+        sys.stdout.write("\n")
+    else:
+        print(
+            f"Validated content events: {count_entries(out['entries'])} entries, "
+            f"{len(out.get('introArticles') or [])} introArticles"
+        )
     return 0
 
 

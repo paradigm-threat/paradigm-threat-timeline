@@ -2,7 +2,7 @@
 
 ## Overview
 
-paradigm-threat-timeline is a standalone project. It does NOT reference paradigm-threat-files. paradigm-threat-site fetches only `data/events.json` from the timeline; all markdown and assets are referenced from events.json.
+paradigm-threat-timeline is a standalone project. It does NOT reference paradigm-threat-files. paradigm-threat-site loads timeline catalogs via Relay QUERY (`content_events` / `path_tree`); markdown and assets are served from the timeline repo tip.
 
 **Guiding principles:** Victors write the history. Mass-redaction may have occurred after world wars, plagues, or regime changes. Add all relevant dates; attempt alternate dates for each chronology system. Absence of a source does not mean it never existed.
 
@@ -14,7 +14,7 @@ Markdown under `content/` is book-facing narrative. Use **bold** and *italic* sp
 
 ## Content File Numbering Convention
 
-**Source of truth:** The `content/` folder. `data/events.json` is **generated** from it by `build-events-from-content.py` (run automatically on pre-commit).
+**Source of truth:** The `content/` folder. ``content/` is indexed on the relay via `content_events`. Validate locally with `npm run validate-events`.
 
 All articles live in `content/` and use the filename format `XX.YY.ZZ-slug.md`.
 
@@ -47,7 +47,7 @@ Timeline **chapter** markdown under `content/` may start with a `---` block for 
 ### When adding a new content file
 
 1. Create the markdown file in the correct chapter subfolder with `XX.YY.ZZ-slug.md` naming.
-2. Run `python3 scripts/build-events-from-content.py` (or commit — pre-commit runs it).
+2. Run `npm run validate-events` (pre-commit runs it). Push to relay remotes to refresh QUERY indexes.
 
 ## Adding Events
 
@@ -89,10 +89,9 @@ When correlating duplicate events (e.g. 774 CE ↔ 1774 Pugachev):
 
 ## Scripts
 
-- **build-events-from-content.py**: Generates `data/events.json` from the `content/` file structure. One entry per file. Hierarchy from XX.YY.ZZ. Dates from filename slug. Optional fields from YAML frontmatter. Run on pre-commit.
-- **generate-index.py**: Builds `index.json` (for file browser). Run on pre-commit.
+- **build_events_from_content.py**: Builds the event graph from `content/` (validation / `--json`). Hierarchy from XX.YY.ZZ. Dates from filename slug. Optional fields from YAML frontmatter. Relay indexes the same shape via `content_events`.
 - **validate-events.py**: Checks schema and title/header match. Run after edits.
-- **audit-missing.py**: Verifies every `content/*.md` file is registered in `events.json`.
+- **audit-missing.py**: Verifies every `content/*.md` matches `XX.YY.ZZ-slug.md` so it can be indexed.
 - **audit-links.py**: Audits `/timeline/evt-xxx` links in content against events.json. Reports broken links.
 - **apply-link-fixes.py**: Applies link fixes from `scripts/link-fix-mapping.json`. Use `--apply` to modify files.
 
@@ -109,10 +108,9 @@ See `docs/LINK_AUDIT.md` for the full audit report. To fix broken timeline links
 
 ```bash
 # After adding/editing content:
-python3 scripts/build-events-from-content.py
+npm run validate-events
 npm run validate-events
 npm run audit-missing
-npm run generate-index
 
 # Or just commit — pre-commit runs the above automatically.
 ```
