@@ -1,7 +1,5 @@
 # Catalog indexes are built on the relay server (content_events / path_tree).
-# Validate content + changelog on commit; do not write catalog JSON.
-
-npm run generate-changelog
+# Validate content on commit; do not write catalog JSON.
 
 # Validate events / content structure
 npm run validate-events && npm run audit-missing
@@ -16,4 +14,4 @@ fs.writeFileSync('package.json', JSON.stringify(p, null, 2) + '\n');
 console.log('Version bumped to ' + p.version);
 "
 
-git add package.json changelog.json
+git add package.json

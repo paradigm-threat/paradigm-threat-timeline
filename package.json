@@ -1,11 +1,10 @@
 {
   "name": "paradigm-threat-timeline",
-  "version": "1.2.214",
+  "version": "1.2.215",
   "private": true,
   "type": "module",
   "scripts": {
     "build-events": "python3 scripts/build_events_from_content.py",
-    "generate-changelog": "node scripts/generate-changelog.cjs",
     "validate-events": "python3 scripts/validate-events.py",
     "append-keywords": "python3 scripts/append_article_keywords.py --apply --timeline-root . --files-root ../paradigm-threat-files",
     "audit-missing": "python3 scripts/audit-missing.py",

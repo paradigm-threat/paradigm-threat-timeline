@@ -102,7 +102,7 @@ npm run validate-events
 npm run audit-missing
 ```
 
-> The husky pre-commit hook runs `generate-changelog`, `validate-events`, and `audit-missing` on `git commit`.
+> The husky pre-commit hook runs `validate-events` and `audit-missing` on `git commit`; Relay builds recent activity from the SQLite index.
 
 ## Regenerating PDF / DOCX exports
 
