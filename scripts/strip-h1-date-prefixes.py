@@ -3,10 +3,10 @@
 Strip leading Scaliger-style year prefixes from the first # H1 in each content .md file.
 
 Transforms e.g.  # 1400 CE — 15th Century ...  ->  # 15th Century ...
-Dates remain in events.json via filename + YAML dates[]; titles are display-only.
+Dates come from the filename slug + YAML dates[]; Relay indexes content/ on push. Titles are display-only.
 
 Run from repo root:  python3 scripts/strip-h1-date-prefixes.py
-Then:                 npm run build-events && npm run validate-events
+Then:                 npm run validate-events && npm run audit-missing
 """
 from __future__ import annotations
 

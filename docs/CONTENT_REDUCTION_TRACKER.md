@@ -1,5 +1,8 @@
 # Content Reduction Tracker
 
+> **Historical note (2026-07):** Catalog JSON (`data/events.json`, `index.json`) and `npm run generate-index` are retired. Relays index `content/` via QUERY. Use `npm run validate-events && npm run audit-missing` instead of catalog regenerators.
+
+
 Track progress toward the ≤ 350 page / ≤ 12 MB print target.
 See `docs/PRINT_GOALS.md` §13 for the full strategy.
 

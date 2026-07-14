@@ -8,7 +8,7 @@ Preserves stable timeline URLs by writing frontmatter:
 Requires: build-events-from-content.py to support frontmatter `id` (already added).
 
 Run:  python3 scripts/rename-chapter-root-filenames.py
-Then: npm run build-events && npm run generate-index
+Then: npm run validate-events && npm run audit-missing
 """
 from __future__ import annotations
 

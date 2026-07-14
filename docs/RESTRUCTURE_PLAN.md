@@ -1,5 +1,8 @@
 # Restructure Plan: Unified Decimal-Numbered Content Folder
 
+> **Historical note (2026-07):** Catalog JSON (`data/events.json`, `index.json`) and `npm run generate-index` are retired. Relays index `content/` via QUERY. Use `npm run validate-events && npm run audit-missing` instead of catalog regenerators.
+
+
 ## Goal
 
 Merge `events/` and `articles/*/` into a single flat `content/` folder.  

@@ -2,7 +2,7 @@
 
 This document defines **two** book products:
 
-1. **Definitive (default) edition** — `content/**/*.md`: the **live timeline** and **source of truth** for `events.json` and the site. **Science-full** where chapters include EU, plasma, chronology detail, etc. This tree is also the **educational** product: narrative is shaped using **`docs/TIMELINE_FAQ.md`** and **`docs/FEEDBACK.md`** as **off-manuscript** priority guides only (see §3.1).
+1. **Definitive (default) edition** — `content/**/*.md`: the **live timeline** and **source of truth** for the site (Relay `content_events`). **Science-full** where chapters include EU, plasma, chronology detail, etc. This tree is also the **educational** product: narrative is shaped using **`docs/TIMELINE_FAQ.md`** and **`docs/FEEDBACK.md`** as **off-manuscript** priority guides only (see §3.1).
 2. **Religious edition** — `content-editions/modern-religious/`: **interfaith**, **interpretation-only**, **science-light** adaptation of (1) for print readers who practice a living religion (see §3.2).
 
 The **religious** edition lives in a **parallel tree on `main`**, adapted by **model passes** (voice, omissions, reframing)—not mechanical string-replacement scripts. It **derives from** the definitive edition and does not replace `content/` for the web app.
@@ -15,11 +15,11 @@ The **religious** edition lives in a **parallel tree on `main`**, adapted by **m
 
 ## 1. Architecture (why not long-lived branches)
 
-- **Single source of truth for the site:** `content/**/*.md` drives `scripts/build-events-from-content.py` and committed `data/events.json`. CI expects every `md_path` in `events.json` to exist under `content/`.
+- **Single source of truth for the site:** `content/**/*.md` drives `scripts/build-events-from-content.py` and Relay `content_events` index. Validation expects every content article to match `XX.YY.ZZ-slug.md` so Relay can index it.
 - **Print today:** `scripts/generate-pdf.py` and `scripts/generate-docx.py` use `CONTENT_DIR = REPO_DIR / "content"` and scan all `*.md` there. There is **no edition switch** yet (see Phase 2 below).
 - **Precedent:** `scripts/export-russian-remote.sh` already treats some exports as separate from canonical English `content/` for the web app.
 
-Replacing `content/` on **perpetual branches** would break timeline validation or require divergent `events.json` trees. Prefer **one parallel `content-editions/` tree on `main`** for the religious product.
+Replacing `content/` on **perpetual branches** would break timeline validation or require divergent content trees. Prefer **one parallel `content-editions/` tree on `main`** for the religious product.
 
 **Convention (chosen):**
 
@@ -34,7 +34,7 @@ Replacing `content/` on **perpetual branches** would break timeline validation o
 
 - **Mirror** the same **relative paths** and **`XX.YY.ZZ-slug.md` filenames** as `content/` for every chapter that appears in an edition under `content-editions/`.
 - **Titles differ on purpose:** the first `#` heading in an edition file **may and often should** differ from canonical.
-- **No `events.json` coupling:** `content-editions/**` files are **not** fed into `build-events-from-content.py`.
+- **No Relay events-catalog coupling:** `content-editions/**` files are **not** fed into `build-events-from-content.py`.
 
 **Syncing when canonical changes:** copy from `content/`, then model-adapt the edition copy; optional YAML `canonical_path`, `source_commit:`.
 
@@ -44,7 +44,7 @@ Replacing `content/` on **perpetual branches** would break timeline validation o
 
 | # | Edition | Location | Aim |
 |---|--------|----------|-----|
-| **1** | **Definitive (default / educational)** | `content/` | Full timeline for **web and repo readers**; **investigative** and **science-full** where the chapter requires it; **drives** `events.json`. Use **`TIMELINE_FAQ.md` + `FEEDBACK.md`** only **off-manuscript** to **prioritize** rewrites in this same tree; **do not** paste those docs into the book. **Honest framing**, **separate hypotheses**, **named sources** where skeptics need clarity. |
+| **1** | **Definitive (default / educational)** | `content/` | Full timeline for **web and repo readers**; **investigative** and **science-full** where the chapter requires it; **drives** the Relay events catalog. Use **`TIMELINE_FAQ.md` + `FEEDBACK.md`** only **off-manuscript** to **prioritize** rewrites in this same tree; **do not** paste those docs into the book. **Honest framing**, **separate hypotheses**, **named sources** where skeptics need clarity. |
 | **2** | **Religious (interfaith)** | `content-editions/modern-religious/` | **One book, many homes:** Muslims, Hindus, Christians, Jews, Buddhists, Sikhs, Jains, Zoroastrians, Indigenous traditions, and others — **interpretation only**; **convergence** in myth, calendar, and catastrophe memory as **evidence of shared past**; **no** conversion ask. **Science-light**; **stubs** to canonical `content/` for EU/plasma depth. **Institutions vs. lay faithful**; **no** collective **Jewish** mastermind; **no** circumcision focus; **Exodus** without ethnic blame; **natural-catastrophe** reading open. See §3.2–§3.3. |
 
 ### 3.1 Definitive edition (`content/`) — canonical and educational

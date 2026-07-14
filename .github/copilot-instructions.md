@@ -43,7 +43,7 @@ When adding a new content file:
 
 ## When Adding or Editing Events
 
-- `content/` is the source of truth. `data/events.json` is generated from it.
+- `content/` is the source of truth. Relay indexes it via `content_events` / QUERY (no committed `data/events.json`).
 - `dates[]` is extracted from the filename slug when present (e.g. `1664-1694`, `1774-ce`, `4077-bce`). For multiple chronology systems, use YAML frontmatter.
 - Add `duplicate_of` and `related_events` in YAML frontmatter for Fomenko-identified duplicates.
 - Content markdown files live in `content/` and follow the `XX.YY.ZZ-slug.md` convention above. Title is taken from the first `#` header.

@@ -52,8 +52,8 @@ Timeline **chapter** markdown under `content/` may start with a `---` block for 
 ## Adding Events
 
 1. Create the markdown file in `content/` with `XX.YY.ZZ-slug.md` naming.
-2. The first `#` header becomes the `title` in `events.json`.
-3. Run `python3 scripts/build-events-from-content.py` and `npm run validate-events`.
+2. The first `#` header becomes the event `title` in the Relay event graph.
+3. Run `npm run validate-events` (optional dump: `npm run build-events -- --json`).
 
 ## Event Schema
 
@@ -92,23 +92,21 @@ When correlating duplicate events (e.g. 774 CE ↔ 1774 Pugachev):
 - **build_events_from_content.py**: Builds the event graph from `content/` (validation / `--json`). Hierarchy from XX.YY.ZZ. Dates from filename slug. Optional fields from YAML frontmatter. Relay indexes the same shape via `content_events`.
 - **validate-events.py**: Checks schema and title/header match. Run after edits.
 - **audit-missing.py**: Verifies every `content/*.md` matches `XX.YY.ZZ-slug.md` so it can be indexed.
-- **audit-links.py**: Audits `/timeline/evt-xxx` links in content against events.json. Reports broken links.
 - **apply-link-fixes.py**: Applies link fixes from `scripts/link-fix-mapping.json`. Use `--apply` to modify files.
 
 ### Link audit workflow
 
-See `docs/LINK_AUDIT.md` for the full audit report. To fix broken timeline links:
+See `docs/LINK_AUDIT.md` for the historical audit report. To fix broken timeline links:
 
-1. Resolve duplicate XX.YY.ZZ (see LINK_AUDIT §1) so the build succeeds.
+1. Resolve duplicate XX.YY.ZZ (see LINK_AUDIT §1) so validation succeeds.
 2. Review and approve link fix mapping in `docs/LINK_AUDIT.md` and `scripts/link-fix-mapping.json`.
 3. Run `python scripts/apply-link-fixes.py --apply`.
-4. Run `python scripts/audit-links.py` to confirm zero broken links.
+4. Run `npm run validate-events && npm run audit-missing`.
 
 ## Running Scripts
 
 ```bash
 # After adding/editing content:
-npm run validate-events
 npm run validate-events
 npm run audit-missing
 
@@ -162,7 +160,7 @@ When the timeline supports a conclusion or speculation, add it to `docs/CONCLUSI
 ## Media and generated images
 
 - Article images can live in `media/[section]/[image]` (e.g. `media/before-creation/spawning-first-life-forms.png`). Link from markdown with **relative** paths (e.g. `media/[section]/[filename]`).
-- paradigm-threat-site resolves these relative URLs to absolute using the same domain as `events.json` (the timeline base URL), so images load from the timeline origin.
+- paradigm-threat-site resolves these relative URLs to absolute using the timeline mirror base URL, so images load from the timeline origin.
 - We plan to generate images for more timeline articles in the future (e.g. AI-generated illustrations keyed to article content).
 
 ## Print Size Budget (≤ 350 pages)

@@ -109,4 +109,4 @@ After each move:
 - Main article must end with: "For [extended tables / full evidence / chronology]: [Appendix X](/timeline/evt-slug)."
 - Appendix article must open with: "This appendix extends [Main Article](/timeline/evt-main-slug)."
 - Update `CONTENT_REDUCTION_TRACKER.md` with move log.
-- Run `npm run validate-events` and `npm run generate-index`.
+- Run `npm run validate-events` and `npm run audit-missing`.

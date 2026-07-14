@@ -1,5 +1,8 @@
 # Link Audit — Broken `/timeline/evt-xxx` Links
 
+> **Historical note (2026-07):** Catalog JSON (`data/events.json`, `index.json`) and `npm run generate-index` are retired. Relays index `content/` via QUERY. Use `npm run validate-events && npm run audit-missing` instead of catalog regenerators.
+
+
 **Status:** Pending approval  
 **Total broken links:** ~663 occurrences across content  
 **Last run:** 2025-03-12
@@ -312,6 +315,5 @@ These broken links have no obvious 1:1 mapping. May need new content or a judgme
 
 1. **Approve** duplicate file renames (Section 1).
 2. **Approve** link fix mapping (Section 2).
-3. Run `scripts/apply-link-fixes.py` (to be created) with the approved mapping.
-4. Run `npm run build` to regenerate `events.json` and verify.
-5. Re-run `scripts/audit-links.py` to confirm zero broken links.
+3. Run `scripts/apply-link-fixes.py --apply` with the approved mapping.
+4. Run `npm run validate-events && npm run audit-missing`.

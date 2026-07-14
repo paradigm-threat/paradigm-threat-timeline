@@ -129,7 +129,7 @@ Image compression is handled automatically by the PDF generation script. No manu
 
 ## Recommended Execution Order
 
-1. **Phase 1 (merges)** — Reduces article count; updates `events.json` `md_path` for merged events; run `npm run normalize-events` and `npm run validate-events`.
+1. **Phase 1 (merges)** — Reduces article count; merge markdown under `content/`; run `npm run validate-events` and `npm run audit-missing`.
 2. **Phase 2 (overflow)** — Move content to new/existing appendix files; replace main-book articles with stubs. Preserves all detail.
 3. **Phase 3 (tightening)** — Only if still over 70K.
 4. **Phase 4 (images)** — Final pass before print.
@@ -140,7 +140,7 @@ Image compression is handled automatically by the PDF generation script. No manu
 
 - When merging file A into B: append A's body to B (remove duplicate H1); update `events.json` to point merged event to B's path; delete A.
 - When moving to appendix: create new 16.xx file with full content; replace main file with 2–4 sentence stub + cross-ref to appendix.
-- After each batch: `npm run normalize-events`, `npm run refactor-sections`, `npm run validate-events`, `npm run generate-index`.
+- After each batch: `npm run normalize-events`, `npm run refactor-sections`, `npm run validate-events`, `npm run validate-events`.
 
 ---
 
