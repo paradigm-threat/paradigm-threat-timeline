@@ -1,4 +1,6 @@
-# Agent Instructions for paradigm-threat-timeline
+# Timeline maintenance instructions
+
+**Agent hub:** [`AGENTS.md`](../AGENTS.md) (git, mesh sync, doc routing).
 
 ## Overview
 

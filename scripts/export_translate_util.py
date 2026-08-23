@@ -5,7 +5,7 @@ Translate timeline export DOCX volumes to Russian.
 Backends (first match):
   PARADIGM_TRANSLATE_URL — HTTP relay(s): POST {base}/translate JSON
     {"q","source","target","format"}. Use a comma-separated list to round-robin
-    across multiple relays (e.g. atlanta3 + dfw1) and spread load / rate limits.
+    across multiple relays (e.g. iad1 + hkg1) and spread load / rate limits.
   DEEPL_AUTH_KEY / DEEPL_API_KEY — DeepL.
   Else — Google via deep-translator.
 

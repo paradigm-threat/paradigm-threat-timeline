@@ -312,6 +312,8 @@ def build_entry(md_path: str, xx: int, yy: int, zz: int, slug: str) -> tuple[dic
         "title": title,
         "type": "event" if dates else "article",
         "md_path": md_path,
+        # Stable narrative order from XX.YY.ZZ; parity with gateway catalog_build.rs.
+        "sort_key": f"{xx:06d}.{yy:06d}.{zz:06d}",
         "children": [],
     }
     if dates:

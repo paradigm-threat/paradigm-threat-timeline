@@ -2,7 +2,7 @@ name: paradigm-threat-timeline
 version: "0.1.0"
 tools:
   search_site:
-    description: Keyword search over timeline events via Relay QUERY / sqlite plugin
+    description: Keyword search over timeline events via Relay QUERY / sqlite plugin. Prefer a short stem; overlapping forms (iran iranian) are collapsed. Default 20 slim hits.
     aliases: [search]
     via: query
     collection: index

@@ -1,0 +1,20 @@
+---
+description: Repo agent instructions — git, mesh sync, timeline doc routing
+alwaysApply: true
+---
+
+# Agents
+
+**Read [`AGENTS.md`](../../AGENTS.md) first.**
+
+## Always
+
+- **Go-live:** `git push iad1 HEAD:main` (mesh wait is server-side; failure = publish failed) → `git push gitlab HEAD:main`.
+- **Content edits:** `npm run validate-events` after changing **`content/`**.
+- **Timeline canon:** [`docs/AGENT_INSTRUCTIONS.md`](../../docs/AGENT_INSTRUCTIONS.md).
+
+## Route by task
+
+- Strategy / pacing → [`docs/CONTENT_STRATEGY.md`](../../docs/CONTENT_STRATEGY.md) (no autonomous strategy changes)
+- Investigations → **paradigm-threat-files** ([`docs/INVESTIGATIONS.md`](../../../paradigm-threat-files/docs/INVESTIGATIONS.md))
+- Æther voice → [`../paradigm-threat-files/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../../../paradigm-threat-files/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)

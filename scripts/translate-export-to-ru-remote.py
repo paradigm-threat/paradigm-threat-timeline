@@ -5,7 +5,7 @@ Translate export/timeline-*.docx (book + appendix) to Russian via PARADIGM_TRANS
 Requires English artifacts from: npm run export
 Run:      bash scripts/export-russian-remote.sh   (defaults: atlanta3 relay)
 Run:      PARADIGM_TRANSLATE_URL=http://host:5588 bash scripts/export-russian-remote.sh
-Multi:    PARADIGM_TRANSLATE_URL='http://atlanta3...:5588,http://dfw1...:5588' (round-robin)
+Multi:    PARADIGM_TRANSLATE_URL='http://iad1...:5588,http://hkg1...:5588' (round-robin)
 Probe:    bash scripts/export-russian-remote.sh --probe
 """
 

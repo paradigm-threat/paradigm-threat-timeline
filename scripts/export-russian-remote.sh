@@ -10,10 +10,10 @@
 #   bash scripts/export-russian-remote.sh
 #
 # Multiple relays (comma-separated — round-robin per translate request):
-#   export PARADIGM_TRANSLATE_URL='http://atlanta3.relaygateway.net:5588,http://dfw1.relaygateway.net:5588'
+#   export PARADIGM_TRANSLATE_URL='http://iad1.relaygateway.net:5588,http://hkg1.relaygateway.net:5588'
 #
-#   bash scripts/export-russian-remote.sh http://atlanta3.relaygateway.net:5588
-#   bash scripts/export-russian-remote.sh 'http://atlanta3...:5588,http://dfw1...:5588' --probe
+#   bash scripts/export-russian-remote.sh http://iad1.relaygateway.net:5588
+#   bash scripts/export-russian-remote.sh 'http://iad1...:5588,http://hkg1...:5588' --probe
 #
 # Optional:
 #   PARADIGM_TRANSLATE_API_KEY — Bearer token
