@@ -33,7 +33,8 @@ After editing **`content/`**: run **`npm run validate-events`** (pre-commit runs
 | Investigations (separate repo) | [`../paradigm-threat-files/docs/INVESTIGATIONS.md`](../paradigm-threat-files/docs/INVESTIGATIONS.md) |
 | Æther vocabulary | [`../paradigm-threat-files/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../paradigm-threat-files/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md) |
 | Blog entries | [`../paradigm-threat-files/docs/BLOG.md`](../paradigm-threat-files/docs/BLOG.md) |
+| Dead-URL replacement sweep | [`../paradigm-threat-files/docs/DEAD_URL_REPLACEMENT_SWEEP.md`](../paradigm-threat-files/docs/DEAD_URL_REPLACEMENT_SWEEP.md) |
 
 **Hard rules:** Timeline repo does **not** host investigations — link to **paradigm-threat-files** with root-relative paths (`/history/…`). Never implement **CONTENT_STRATEGY** recommendations without user approval.
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-09-12*

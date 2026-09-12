@@ -18,3 +18,4 @@ alwaysApply: true
 - Strategy / pacing → [`docs/CONTENT_STRATEGY.md`](../../docs/CONTENT_STRATEGY.md) (no autonomous strategy changes)
 - Investigations → **paradigm-threat-files** ([`docs/INVESTIGATIONS.md`](../../../paradigm-threat-files/docs/INVESTIGATIONS.md))
 - Æther voice → [`../paradigm-threat-files/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md`](../../../paradigm-threat-files/docs/LLM_AETHER_VOCABULARY_MAXWELL_DEBATE.md)
+- Dead-URL replacement sweep → [`../paradigm-threat-files/docs/DEAD_URL_REPLACEMENT_SWEEP.md`](../../../paradigm-threat-files/docs/DEAD_URL_REPLACEMENT_SWEEP.md)
